@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "44054",
+    "name": "Lachesis Cup",
+    "place": "Nice Club (Wuxi,China)",
+    "players": "8 players",
+    "date": "07/05/23",
     "decks": [
         {
             "deck_id": "525230",
             "rank": "1",
             "player": "Dawei,gu",
+            "winrate": 1.0,
             "commander": [
                 "Jeska, Thrice Reborn",
                 "Yoshimaru, Ever Faithful"
@@ -111,6 +116,7 @@
             "deck_id": "525231",
             "rank": "2",
             "player": "Haoyu,gu",
+            "winrate": 0.6666666666666666,
             "commander": [
                 "Juri, Master of the Revue"
             ],
@@ -209,9 +215,5 @@
                 "1 Zurgo Bellstriker"
             ]
         }
-    ],
-    "name": "Lachesis Cup",
-    "place": "Nice Club (Wuxi,China)",
-    "players": "8 players",
-    "date": "07/05/23"
+    ]
 }

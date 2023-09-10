@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "44449",
+    "name": "Helio Winter Tournament",
+    "place": "Trujillo (Perú)",
+    "players": "10 players",
+    "date": "20/05/23",
     "decks": [
         {
             "deck_id": "527824",
             "rank": "1",
             "player": "Fernando Mera",
+            "winrate": 1.0,
             "commander": [
                 "Tivit, Seller of Secrets"
             ],
@@ -115,6 +120,7 @@
             "deck_id": "527825",
             "rank": "2",
             "player": "Arturo Gavidia",
+            "winrate": 0.8,
             "commander": [
                 "Jadar, Ghoulcaller of Nephalia"
             ],
@@ -197,9 +203,5 @@
                 "24 Snow-Covered Swamp"
             ]
         }
-    ],
-    "name": "Helio Winter Tournament",
-    "place": "Trujillo (Perú)",
-    "players": "10 players",
-    "date": "20/05/23"
+    ]
 }

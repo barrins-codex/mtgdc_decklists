@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "25163",
+    "name": "Tournoi Cockatrice #2",
+    "place": "France",
+    "players": "16 players",
+    "date": "09/04/20",
     "decks": [
         {
             "deck_id": "377614",
             "rank": "1",
             "player": "Yvan Lucas",
+            "winrate": 1.0,
             "commander": [
                 "Hogaak, Arisen Necropolis"
             ],
@@ -115,6 +120,7 @@
             "deck_id": "377615",
             "rank": "2",
             "player": "Stephen Helmer",
+            "winrate": 0.8,
             "commander": [
                 "Uro, Titan of Nature's Wrath"
             ],
@@ -216,6 +222,7 @@
             "deck_id": "377616",
             "rank": "3-4",
             "player": "Eric \"morchiswe\" Genin",
+            "winrate": 0.8,
             "commander": [
                 "Gallia of the Endless Dance"
             ],
@@ -312,6 +319,7 @@
             "deck_id": "377617",
             "rank": "3-4",
             "player": "Alexandre Martial",
+            "winrate": 0.8,
             "commander": [
                 "Sidisi, Brood Tyrant"
             ],
@@ -413,9 +421,5 @@
                 "1 Tropical Island"
             ]
         }
-    ],
-    "name": "Tournoi Cockatrice #2",
-    "place": "France",
-    "players": "16 players",
-    "date": "09/04/20"
+    ]
 }

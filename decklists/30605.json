@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "30605",
+    "name": "Hongyu Commander Night",
+    "place": "Hefei（China）",
+    "players": "9 players",
+    "date": "09/05/21",
     "decks": [
         {
             "deck_id": "438659",
             "rank": "1",
             "player": "Duoyan Li",
+            "winrate": 1.0,
             "commander": [
                 "Rankle, Master of Pranks"
             ],
@@ -95,6 +100,7 @@
             "deck_id": "438660",
             "rank": "2",
             "player": "Zheng Hui",
+            "winrate": 0.8,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -199,9 +205,5 @@
                 "1 Ancestral Vision"
             ]
         }
-    ],
-    "name": "Hongyu Commander Night",
-    "place": "Hefei（China）",
-    "players": "9 players",
-    "date": "09/05/21"
+    ]
 }

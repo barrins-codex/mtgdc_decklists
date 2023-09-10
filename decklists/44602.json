@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "44602",
+    "name": "Win Scrubland Duel",
+    "place": "edý útes (České Budějovice)",
+    "players": "14 players",
+    "date": "27/05/23",
     "decks": [
         {
             "deck_id": "528878",
             "rank": "1",
             "player": "Michal Mendl",
+            "winrate": 1.0,
             "commander": [
                 "Dennick, Pious Apprentice"
             ],
@@ -108,6 +113,7 @@
             "deck_id": "528879",
             "rank": "2",
             "player": "Patrik Adler",
+            "winrate": 0.8,
             "commander": [
                 "Hogaak, Arisen Necropolis"
             ],
@@ -217,6 +223,7 @@
             "deck_id": "528880",
             "rank": "3",
             "player": "Jiří Výborný",
+            "winrate": 0.6,
             "commander": [
                 "Dihada, Binder of Wills"
             ],
@@ -326,6 +333,7 @@
             "deck_id": "528881",
             "rank": "4",
             "player": "Vít Albert",
+            "winrate": 0.6,
             "commander": [
                 "Grist, the Hunger Tide"
             ],
@@ -428,6 +436,7 @@
             "deck_id": "528882",
             "rank": "5",
             "player": "Ivan Kratochvíl",
+            "winrate": 0.6,
             "commander": [
                 "Ghyrson Starn, Kelermorph"
             ],
@@ -529,6 +538,7 @@
             "deck_id": "528883",
             "rank": "6",
             "player": "Pavel Gric",
+            "winrate": 0.6,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -638,6 +648,7 @@
             "deck_id": "528884",
             "rank": "7",
             "player": "Marek Voráček",
+            "winrate": 0.4,
             "commander": [
                 "Yoshimaru, Ever Faithful",
                 "Tana, the Bloodsower"
@@ -746,6 +757,7 @@
             "deck_id": "528885",
             "rank": "8",
             "player": "Martin Bořek",
+            "winrate": 0.4,
             "commander": [
                 "Tivit, Seller of Secrets"
             ],
@@ -851,9 +863,5 @@
                 "1 Bojuka Bog"
             ]
         }
-    ],
-    "name": "Win Scrubland Duel",
-    "place": "edý útes (České Budějovice)",
-    "players": "14 players",
-    "date": "27/05/23"
+    ]
 }

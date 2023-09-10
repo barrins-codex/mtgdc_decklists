@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "6870",
+    "name": "7th \"New Year Cake\" Cup (Shanghai)",
+    "place": "",
+    "players": "12 players",
+    "date": "15/03/14",
     "decks": [
         {
             "deck_id": "239474",
             "rank": "1",
             "player": "\"Lc9676\"",
+            "winrate": 1.0,
             "commander": [
                 "Animar, Soul of Elements"
             ],
@@ -108,6 +113,7 @@
             "deck_id": "239475",
             "rank": "2",
             "player": "?",
+            "winrate": 0.8,
             "commander": [
                 "Maelstrom Wanderer"
             ],
@@ -211,9 +217,5 @@
                 "1 Boom / Bust"
             ]
         }
-    ],
-    "name": "7th \"New Year Cake\" Cup (Shanghai)",
-    "place": "",
-    "players": "12 players",
-    "date": "15/03/14"
+    ]
 }

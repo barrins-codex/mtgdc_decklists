@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "23140",
+    "name": "[DDL] Lounge League",
+    "place": "Darmstadt (Germany)",
+    "players": "11 players",
+    "date": "19/09/19",
     "decks": [
         {
             "deck_id": "359014",
             "rank": "1",
             "player": "Gregor G.",
+            "winrate": 1.0,
             "commander": [
                 "Edric, Spymaster of Trest"
             ],
@@ -94,6 +99,7 @@
             "deck_id": "359015",
             "rank": "2",
             "player": "Samuel Z.",
+            "winrate": 0.8,
             "commander": [
                 "Golos, Tireless Pilgrim"
             ],
@@ -195,9 +201,5 @@
                 "1 Wasteland"
             ]
         }
-    ],
-    "name": "[DDL] Lounge League",
-    "place": "Darmstadt (Germany)",
-    "players": "11 players",
-    "date": "19/09/19"
+    ]
 }

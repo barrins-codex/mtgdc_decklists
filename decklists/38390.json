@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "38390",
+    "name": "Wool Cup 44",
+    "place": "Kadou (Beijing, China)",
+    "players": "15 players",
+    "date": "16/09/22",
     "decks": [
         {
             "deck_id": "486886",
             "rank": "1",
             "player": "Yihan Ding",
+            "winrate": 1.0,
             "commander": [
                 "Grist, the Hunger Tide"
             ],
@@ -106,6 +111,7 @@
             "deck_id": "486887",
             "rank": "2",
             "player": "Fan Yang",
+            "winrate": 0.8,
             "commander": [
                 "Tivit, Seller of Secrets"
             ],
@@ -215,6 +221,7 @@
             "deck_id": "486888",
             "rank": "3-4",
             "player": "Ruiyuan Shao",
+            "winrate": 0.6,
             "commander": [
                 "Dennick, Pious Apprentice"
             ],
@@ -317,6 +324,7 @@
             "deck_id": "486889",
             "rank": "3-4",
             "player": "Ceyao Duan",
+            "winrate": 0.6,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -422,9 +430,5 @@
                 "1 Windswept Heath"
             ]
         }
-    ],
-    "name": "Wool Cup 44",
-    "place": "Kadou (Beijing, China)",
-    "players": "15 players",
-    "date": "16/09/22"
+    ]
 }

@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "37928",
+    "name": "Tournoi DC d'août 22",
+    "place": "L'instant ludique (Béthune, France)",
+    "players": "18 players",
+    "date": "13/08/22",
     "decks": [
         {
             "deck_id": "483785",
             "rank": "1",
             "player": "Alexandre Queste",
+            "winrate": 1.0,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -111,9 +116,5 @@
                 "1 Wooded Foothills"
             ]
         }
-    ],
-    "name": "Tournoi DC d'août 22",
-    "place": "L'instant ludique (Béthune, France)",
-    "players": "18 players",
-    "date": "13/08/22"
+    ]
 }

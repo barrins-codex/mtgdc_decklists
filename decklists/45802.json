@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
-    "id": 45802,
+    "id": "45802",
+    "name": "Galaxy Cup #6",
+    "place": "Naya (Jinan, China)",
+    "players": "10 players",
+    "date": "09/07/23",
     "decks": [
         {
             "deck_id": "538459",
             "rank": "1",
             "player": "Yang Jinlin",
+            "winrate": 1.0,
             "commander": [
                 "Balmor, Battlemage Captain"
             ],
@@ -109,6 +114,7 @@
             "deck_id": "538460",
             "rank": "2",
             "player": "Qin Zihao",
+            "winrate": 0.8,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -218,6 +224,7 @@
             "deck_id": "538461",
             "rank": "3",
             "player": "Chu Xiaoyi",
+            "winrate": 0.6,
             "commander": [
                 "Leovold, Emissary of Trest"
             ],
@@ -323,9 +330,5 @@
                 "1 Zagoth Triome"
             ]
         }
-    ],
-    "name": "Galaxy Cup #6",
-    "place": "Naya (Jinan, China)",
-    "players": "10 players",
-    "date": "09/07/23"
+    ]
 }

@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "34216",
+    "name": "WANTED Saison 2 #5",
+    "place": "CartaRennes (Rennes, France)",
+    "players": "16 players",
+    "date": "12/01/22",
     "decks": [
         {
             "deck_id": "460027",
             "rank": "1",
             "player": "Aurélien Lion",
+            "winrate": 1.0,
             "commander": [
                 "The First Sliver"
             ],
@@ -115,6 +120,7 @@
             "deck_id": "460028",
             "rank": "2",
             "player": "Evo Brieuc",
+            "winrate": 0.8,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -220,9 +226,5 @@
                 "1 Windswept Heath"
             ]
         }
-    ],
-    "name": "WANTED Saison 2 #5",
-    "place": "CartaRennes (Rennes, France)",
-    "players": "16 players",
-    "date": "12/01/22"
+    ]
 }

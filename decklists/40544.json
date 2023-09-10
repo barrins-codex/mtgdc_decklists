@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "40544",
+    "name": "1º 1K DC - Bayou",
+    "place": "Bolovo Games (Santos, Brasil)",
+    "players": "48 players",
+    "date": "07/01/23",
     "decks": [
         {
             "deck_id": "501647",
             "rank": "1",
             "player": "Victor Marques",
+            "winrate": 0.8888888888888888,
             "commander": [
                 "Dihada, Binder of Wills"
             ],
@@ -115,6 +120,7 @@
             "deck_id": "501648",
             "rank": "2",
             "player": "Jean Velloso",
+            "winrate": 0.7777777777777778,
             "commander": [
                 "Light-Paws, Emperor's Voice"
             ],
@@ -195,6 +201,7 @@
             "deck_id": "501649",
             "rank": "3",
             "player": "Carlos Pires",
+            "winrate": 0.75,
             "commander": [
                 "Jeska, Thrice Reborn",
                 "Ludevic, Necro-Alchemist"
@@ -292,6 +299,7 @@
             "deck_id": "501650",
             "rank": "4",
             "player": "Lucas Augusto",
+            "winrate": 0.75,
             "commander": [
                 "Feldon, Ronom Excavator"
             ],
@@ -375,6 +383,7 @@
             "deck_id": "501651",
             "rank": "5",
             "player": "Guilherme Bellagente",
+            "winrate": 0.75,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -484,6 +493,7 @@
             "deck_id": "501652",
             "rank": "6",
             "player": "Leonardo Maeda",
+            "winrate": 0.75,
             "commander": [
                 "Minsc, Beloved Ranger"
             ],
@@ -591,6 +601,7 @@
             "deck_id": "501653",
             "rank": "7",
             "player": "Wagner Oliveira",
+            "winrate": 0.75,
             "commander": [
                 "Feldon, Ronom Excavator"
             ],
@@ -676,6 +687,7 @@
             "deck_id": "501654",
             "rank": "8",
             "player": "Lucas Felix",
+            "winrate": 0.75,
             "commander": [
                 "Elminster"
             ],
@@ -773,9 +785,5 @@
                 "1 Wrath of God"
             ]
         }
-    ],
-    "name": "1º 1K DC - Bayou",
-    "place": "Bolovo Games (Santos, Brasil)",
-    "players": "48 players",
-    "date": "07/01/23"
+    ]
 }

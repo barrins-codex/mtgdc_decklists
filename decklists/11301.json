@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "11301",
+    "name": "Christmas Tournament Gobl'Ain (Ain, France)",
+    "place": "",
+    "players": "21 players",
+    "date": "20/12/15",
     "decks": [
         {
             "deck_id": "264211",
             "rank": "1",
             "player": "Julien Fromenty",
+            "winrate": 1.0,
             "commander": [
                 "Child of Alara"
             ],
@@ -115,6 +120,7 @@
             "deck_id": "264212",
             "rank": "2",
             "player": "Romain Bourdin",
+            "winrate": 0.8,
             "commander": [
                 "Marath, Will of the Wild"
             ],
@@ -223,6 +229,7 @@
             "deck_id": "264213",
             "rank": "3",
             "player": "Samuel Brunet",
+            "winrate": 0.8,
             "commander": [
                 "Narset, Enlightened Master"
             ],
@@ -330,6 +337,7 @@
             "deck_id": "264214",
             "rank": "4",
             "player": "Kenny Dits",
+            "winrate": 0.6,
             "commander": [
                 "Anafenza, the Foremost"
             ],
@@ -435,9 +443,5 @@
                 "1 Llanowar Elves"
             ]
         }
-    ],
-    "name": "Christmas Tournament Gobl'Ain (Ain, France)",
-    "place": "",
-    "players": "21 players",
-    "date": "20/12/15"
+    ]
 }

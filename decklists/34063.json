@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "34063",
+    "name": "BL-DC Cup",
+    "place": "Basic Land (Mong Kok, Hong Kong)",
+    "players": "10 players",
+    "date": "02/01/22",
     "decks": [
         {
             "deck_id": "459091",
             "rank": "1",
             "player": "Big Head Chan",
+            "winrate": 1.0,
             "commander": [
                 "Niambi, Esteemed Speaker"
             ],
@@ -100,9 +105,5 @@
                 "9 Snow-Covered Island"
             ]
         }
-    ],
-    "name": "BL-DC Cup",
-    "place": "Basic Land (Mong Kok, Hong Kong)",
-    "players": "10 players",
-    "date": "02/01/22"
+    ]
 }

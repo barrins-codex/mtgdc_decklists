@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "26792",
+    "name": "EDH magicfrag",
+    "place": "Magicfrag (France)",
+    "players": "9 players",
+    "date": "06/08/20",
     "decks": [
         {
             "deck_id": "407920",
             "rank": "1",
             "player": "Brice Di Stefano",
+            "winrate": 1.0,
             "commander": [
                 "Queen Marchesa"
             ],
@@ -115,6 +120,7 @@
             "deck_id": "407921",
             "rank": "2",
             "player": "\"eventwin\" Damien Jantzen",
+            "winrate": 0.8,
             "commander": [
                 "Uro, Titan of Nature's Wrath"
             ],
@@ -198,9 +204,5 @@
                 "1 Noxious Revival"
             ]
         }
-    ],
-    "name": "EDH magicfrag",
-    "place": "Magicfrag (France)",
-    "players": "9 players",
-    "date": "06/08/20"
+    ]
 }

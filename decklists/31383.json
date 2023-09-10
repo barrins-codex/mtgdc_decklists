@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "31383",
+    "name": "Duelan sa TG",
+    "place": "Marikina City (Philippines)",
+    "players": "15 players",
+    "date": "03/07/21",
     "decks": [
         {
             "deck_id": "443431",
             "rank": "1",
             "player": "Paul Relativo",
+            "winrate": 1.0,
             "commander": [
                 "Niv-Mizzet Reborn"
             ],
@@ -115,6 +120,7 @@
             "deck_id": "443432",
             "rank": "2",
             "player": "Elijah Guevara",
+            "winrate": 0.8,
             "commander": [
                 "Dragonlord Ojutai"
             ],
@@ -216,6 +222,7 @@
             "deck_id": "443433",
             "rank": "3",
             "player": "Agustin Ireneo",
+            "winrate": 0.6,
             "commander": [
                 "Nissa, Vastwood Seer"
             ],
@@ -306,6 +313,7 @@
             "deck_id": "443434",
             "rank": "4",
             "player": "Timothy Agustin",
+            "winrate": 0.6,
             "commander": [
                 "Tevesh Szat, Doom of Fools",
                 "Malcolm, Keen-Eyed Navigator"
@@ -399,9 +407,5 @@
                 "10 Snow-Covered Island"
             ]
         }
-    ],
-    "name": "Duelan sa TG",
-    "place": "Marikina City (Philippines)",
-    "players": "15 players",
-    "date": "03/07/21"
+    ]
 }

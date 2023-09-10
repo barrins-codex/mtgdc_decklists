@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "25065",
+    "name": "COVID Biquette DC2",
+    "place": "Online",
+    "players": "16 players",
+    "date": "26/03/20",
     "decks": [
         {
             "deck_id": "375404",
             "rank": "2",
             "player": "Koraysh",
+            "winrate": 0.8,
             "commander": [
                 "The Gitrog Monster"
             ],
@@ -104,6 +109,7 @@
             "deck_id": "375405",
             "rank": "2",
             "player": "Soullessoni",
+            "winrate": 0.8,
             "commander": [
                 "Kenrith, the Returned King"
             ],
@@ -209,9 +215,5 @@
                 "1 Misty Rainforest"
             ]
         }
-    ],
-    "name": "COVID Biquette DC2",
-    "place": "Online",
-    "players": "16 players",
-    "date": "26/03/20"
+    ]
 }

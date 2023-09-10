@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "43960",
+    "name": "Labour Day 2023 Commander",
+    "place": "FanYun Store (NanJing, China)",
+    "players": "8 players",
+    "date": "01/05/23",
     "decks": [
         {
             "deck_id": "524370",
             "rank": "1",
             "player": "Jingting,wu",
+            "winrate": 1.0,
             "commander": [
                 "Golos, Tireless Pilgrim"
             ],
@@ -115,6 +120,7 @@
             "deck_id": "524371",
             "rank": "2",
             "player": "Ziye,chen",
+            "winrate": 0.6666666666666666,
             "commander": [
                 "Atraxa, Grand Unifier"
             ],
@@ -220,9 +226,5 @@
                 "1 Search for Tomorrow"
             ]
         }
-    ],
-    "name": "Labour Day 2023 Commander",
-    "place": "FanYun Store (NanJing, China)",
-    "players": "8 players",
-    "date": "01/05/23"
+    ]
 }

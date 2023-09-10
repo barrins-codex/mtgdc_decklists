@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "31833",
+    "name": "RJ Cup 2021 #28",
+    "place": "League Castle (Mong Kok, Hong Kong)",
+    "players": "9 players",
+    "date": "31/07/21",
     "decks": [
         {
             "deck_id": "446028",
             "rank": "1",
             "player": "Man Lok Wong",
+            "winrate": 1.0,
             "commander": [
                 "Niambi, Esteemed Speaker"
             ],
@@ -108,6 +113,7 @@
             "deck_id": "446029",
             "rank": "2",
             "player": "Wing Tat Lee",
+            "winrate": 0.8,
             "commander": [
                 "Isamaru, Hound of Konda"
             ],
@@ -188,9 +194,5 @@
                 "1 Shining Shoal"
             ]
         }
-    ],
-    "name": "RJ Cup 2021 #28",
-    "place": "League Castle (Mong Kok, Hong Kong)",
-    "players": "9 players",
-    "date": "31/07/21"
+    ]
 }

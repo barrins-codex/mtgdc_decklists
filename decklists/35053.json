@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "35053",
+    "name": "26th Bank President Cup",
+    "place": "Hongyu (Hefei, China)",
+    "players": "8 players",
+    "date": "08/03/22",
     "decks": [
         {
             "deck_id": "464941",
             "rank": "1",
             "player": "Jsd",
+            "winrate": 1.0,
             "commander": [
                 "Light-Paws, Emperor's Voice"
             ],
@@ -96,6 +101,7 @@
             "deck_id": "464942",
             "rank": "2",
             "player": "Duoyan Li",
+            "winrate": 0.6666666666666666,
             "commander": [
                 "Sidisi, Undead Vizier"
             ],
@@ -175,9 +181,5 @@
                 "1 Endless One"
             ]
         }
-    ],
-    "name": "26th Bank President Cup",
-    "place": "Hongyu (Hefei, China)",
-    "players": "8 players",
-    "date": "08/03/22"
+    ]
 }

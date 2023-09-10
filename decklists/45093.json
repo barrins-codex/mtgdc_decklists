@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "45093",
+    "name": "Weekly DC",
+    "place": "Slow Drake (Beijing, China)",
+    "players": "12 players",
+    "date": "10/06/23",
     "decks": [
         {
             "deck_id": "532918",
             "rank": "1",
             "player": "Mo Sun",
+            "winrate": 1.0,
             "commander": [
                 "Feldon, Ronom Excavator"
             ],
@@ -93,6 +98,7 @@
             "deck_id": "532919",
             "rank": "2",
             "player": "Ruji Li",
+            "winrate": 0.8,
             "commander": [
                 "Errant and Giada"
             ],
@@ -190,9 +196,5 @@
                 "5 Snow-Covered Island"
             ]
         }
-    ],
-    "name": "Weekly DC",
-    "place": "Slow Drake (Beijing, China)",
-    "players": "12 players",
-    "date": "10/06/23"
+    ]
 }

@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
-    "id": 45900,
+    "id": "45900",
+    "name": "DC - EDH Brazil Championship",
+    "place": "Mont Shop (Campinas, São Paulo, Brazil)",
+    "players": "18 players",
+    "date": "11/07/23",
     "decks": [
         {
             "deck_id": "539164",
             "rank": "1",
             "player": "Mateus Tomé",
+            "winrate": 1.0,
             "commander": [
                 "Bruse Tarl, Boorish Herder",
                 "Yoshimaru, Ever Faithful"
@@ -110,6 +115,7 @@
             "deck_id": "539165",
             "rank": "2",
             "player": "Felipe Gonçalves",
+            "winrate": 0.8,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -219,6 +225,7 @@
             "deck_id": "539166",
             "rank": "3",
             "player": "Matheus Jardim",
+            "winrate": 0.8,
             "commander": [
                 "Ikra Shidiqi, the Usurper",
                 "Yoshimaru, Ever Faithful"
@@ -328,6 +335,7 @@
             "deck_id": "539167",
             "rank": "4",
             "player": "Matheus Orlandini",
+            "winrate": 0.6,
             "commander": [
                 "Atraxa, Grand Unifier"
             ],
@@ -433,9 +441,5 @@
                 "1 Wooded Foothills"
             ]
         }
-    ],
-    "name": "DC - EDH Brazil Championship",
-    "place": "Mont Shop (Campinas, São Paulo, Brazil)",
-    "players": "18 players",
-    "date": "11/07/23"
+    ]
 }

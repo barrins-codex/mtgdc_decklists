@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "43720",
+    "name": "[DDL] Lounge League",
+    "place": "Darmstadt (Germany)",
+    "players": "10 players",
+    "date": "18/04/23",
     "decks": [
         {
             "deck_id": "522802",
             "rank": "1",
             "player": "Christopher \"venice\" Wilhelm",
+            "winrate": 1.0,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -115,6 +120,7 @@
             "deck_id": "522803",
             "rank": "2",
             "player": "Bitzelberg",
+            "winrate": 0.8,
             "commander": [
                 "Meria, Scholar of Antiquity"
             ],
@@ -215,9 +221,5 @@
                 "4 Snow-Covered Forest"
             ]
         }
-    ],
-    "name": "[DDL] Lounge League",
-    "place": "Darmstadt (Germany)",
-    "players": "10 players",
-    "date": "18/04/23"
+    ]
 }

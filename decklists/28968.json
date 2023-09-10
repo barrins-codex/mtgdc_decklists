@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "28968",
+    "name": "RJ Cup 2021 #4",
+    "place": "League Castle (Mong Kok, Hong Kong)",
+    "players": "8 players",
+    "date": "23/01/21",
     "decks": [
         {
             "deck_id": "428402",
             "rank": "1",
             "player": "Man Lok Wong",
+            "winrate": 1.0,
             "commander": [
                 "Jeska, Thrice Reborn",
                 "Esior, Wardwing Familiar"
@@ -109,6 +114,7 @@
             "deck_id": "428403",
             "rank": "2",
             "player": "Chung Tang",
+            "winrate": 0.6666666666666666,
             "commander": [
                 "Ardenn, Intrepid Archaeologist",
                 "Esior, Wardwing Familiar"
@@ -204,9 +210,5 @@
                 "8 Snow-Covered Island"
             ]
         }
-    ],
-    "name": "RJ Cup 2021 #4",
-    "place": "League Castle (Mong Kok, Hong Kong)",
-    "players": "8 players",
-    "date": "23/01/21"
+    ]
 }

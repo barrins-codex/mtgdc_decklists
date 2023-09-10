@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "43700",
+    "name": "Lachesis Cup",
+    "place": "Nice Club (Wuxi,China)",
+    "players": "10 players",
+    "date": "22/04/23",
     "decks": [
         {
             "deck_id": "522649",
             "rank": "1",
             "player": "Buzhan",
+            "winrate": 1.0,
             "commander": [
                 "Ghyrson Starn, Kelermorph"
             ],
@@ -105,6 +110,7 @@
             "deck_id": "522650",
             "rank": "2",
             "player": "Zibo,tang",
+            "winrate": 0.8,
             "commander": [
                 "Dihada, Binder of Wills"
             ],
@@ -210,9 +216,5 @@
                 "1 Wooded Foothills"
             ]
         }
-    ],
-    "name": "Lachesis Cup",
-    "place": "Nice Club (Wuxi,China)",
-    "players": "10 players",
-    "date": "22/04/23"
+    ]
 }

@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "34761",
+    "name": "Weekly Event",
+    "place": "Master Card (Chengdu, Sichuan province, China)",
+    "players": "8 players",
+    "date": "19/02/22",
     "decks": [
         {
             "deck_id": "463220",
             "rank": "1",
             "player": "Wuyao Lian",
+            "winrate": 1.0,
             "commander": [
                 "Queen Marchesa"
             ],
@@ -113,6 +118,7 @@
             "deck_id": "463221",
             "rank": "2",
             "player": "Lei",
+            "winrate": 0.6666666666666666,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -218,9 +224,5 @@
                 "1 Teferi, Time Raveler"
             ]
         }
-    ],
-    "name": "Weekly Event",
-    "place": "Master Card (Chengdu, Sichuan province, China)",
-    "players": "8 players",
-    "date": "19/02/22"
+    ]
 }

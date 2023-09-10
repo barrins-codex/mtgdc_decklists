@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "39544",
+    "name": "Duel East League Leg 7",
+    "place": "Tapped Games (Marikina City, Philippines)",
+    "players": "15 players",
+    "date": "17/11/22",
     "decks": [
         {
             "deck_id": "494435",
             "rank": "1",
             "player": "Franklin Aguba",
+            "winrate": 1.0,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -115,6 +120,7 @@
             "deck_id": "494436",
             "rank": "2",
             "player": "Deks Sienes",
+            "winrate": 0.8,
             "commander": [
                 "Kess, Dissident Mage"
             ],
@@ -224,6 +230,7 @@
             "deck_id": "494437",
             "rank": "3",
             "player": "Martin Ogayon",
+            "winrate": 0.6,
             "commander": [
                 "Grist, the Hunger Tide"
             ],
@@ -326,6 +333,7 @@
             "deck_id": "494438",
             "rank": "4",
             "player": "Earl Caymo",
+            "winrate": 0.6,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -431,9 +439,5 @@
                 "1 Windswept Heath"
             ]
         }
-    ],
-    "name": "Duel East League Leg 7",
-    "place": "Tapped Games (Marikina City, Philippines)",
-    "players": "15 players",
-    "date": "17/11/22"
+    ]
 }

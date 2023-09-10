@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "44246",
+    "name": "Wool Cup 63",
+    "place": "Kadou (Beijing, China)",
+    "players": "25 players",
+    "date": "13/05/23",
     "decks": [
         {
             "deck_id": "526472",
             "rank": "1",
             "player": "Ziqi Xi",
+            "winrate": 1.0,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -115,6 +120,7 @@
             "deck_id": "526473",
             "rank": "2",
             "player": "Shuyao Liu",
+            "winrate": 0.8,
             "commander": [
                 "Tana, the Bloodsower",
                 "Yoshimaru, Ever Faithful"
@@ -223,6 +229,7 @@
             "deck_id": "526474",
             "rank": "3",
             "player": "Ruji Li",
+            "winrate": 0.8,
             "commander": [
                 "Ludevic, Necro-Alchemist",
                 "Yoshimaru, Ever Faithful"
@@ -332,6 +339,7 @@
             "deck_id": "526475",
             "rank": "4",
             "player": "Shoucong Wu",
+            "winrate": 0.8,
             "commander": [
                 "Soul of Windgrace"
             ],
@@ -435,9 +443,5 @@
                 "1 Ziatora's Proving Ground"
             ]
         }
-    ],
-    "name": "Wool Cup 63",
-    "place": "Kadou (Beijing, China)",
-    "players": "25 players",
-    "date": "13/05/23"
+    ]
 }

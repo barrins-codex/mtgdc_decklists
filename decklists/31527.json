@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "31527",
+    "name": "FC Duel Commander",
+    "place": "Fulcrum Esports Hub (Cainta, Philippines)",
+    "players": "8 players",
+    "date": "11/07/21",
     "decks": [
         {
             "deck_id": "444207",
             "rank": "1",
             "player": "Ian Paul Roa",
+            "winrate": 1.0,
             "commander": [
                 "Pia and Kiran Nalaar"
             ],
@@ -90,6 +95,7 @@
             "deck_id": "444208",
             "rank": "2",
             "player": "Peter Ang",
+            "winrate": 0.6666666666666666,
             "commander": [
                 "Atraxa, Praetors' Voice"
             ],
@@ -195,9 +201,5 @@
                 "1 Questing Beast"
             ]
         }
-    ],
-    "name": "FC Duel Commander",
-    "place": "Fulcrum Esports Hub (Cainta, Philippines)",
-    "players": "8 players",
-    "date": "11/07/21"
+    ]
 }

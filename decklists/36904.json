@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "36904",
+    "name": "Wool Cup 33",
+    "place": "OFOL (Beijing,China)",
+    "players": "8 players",
+    "date": "19/06/22",
     "decks": [
         {
             "deck_id": "477288",
             "rank": "1",
             "player": "Wei Cheng",
+            "winrate": 1.0,
             "commander": [
                 "Jadar, Ghoulcaller of Nephalia"
             ],
@@ -89,9 +94,5 @@
                 "23 Snow-Covered Swamp"
             ]
         }
-    ],
-    "name": "Wool Cup 33",
-    "place": "OFOL (Beijing,China)",
-    "players": "8 players",
-    "date": "19/06/22"
+    ]
 }

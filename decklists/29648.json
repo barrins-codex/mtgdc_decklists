@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "29648",
+    "name": "RJ Cup 2021 #11",
+    "place": "Mong Kong (Hong Kong)",
+    "players": "8 players",
+    "date": "13/03/21",
     "decks": [
         {
             "deck_id": "432615",
             "rank": "1",
             "player": "Andy Wong",
+            "winrate": 1.0,
             "commander": [
                 "Niv-Mizzet Reborn"
             ],
@@ -115,6 +120,7 @@
             "deck_id": "432616",
             "rank": "2",
             "player": "Jack Ho",
+            "winrate": 0.6666666666666666,
             "commander": [
                 "Esika, God of the Tree"
             ],
@@ -220,9 +226,5 @@
                 "1 Taiga"
             ]
         }
-    ],
-    "name": "RJ Cup 2021 #11",
-    "place": "Mong Kong (Hong Kong)",
-    "players": "8 players",
-    "date": "13/03/21"
+    ]
 }

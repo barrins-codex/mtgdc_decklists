@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "35656",
+    "name": "The Return of the Comeback x20",
+    "place": "CMCK Canlubang (Laguna, Philippines)",
+    "players": "8 players",
+    "date": "03/04/22",
     "decks": [
         {
             "deck_id": "469034",
             "rank": "1",
             "player": "Nixon Tenco",
+            "winrate": 1.0,
             "commander": [
                 "Questing Beast"
             ],
@@ -96,6 +101,7 @@
             "deck_id": "469035",
             "rank": "2",
             "player": "Hernani Bautista",
+            "winrate": 0.6666666666666666,
             "commander": [
                 "Thrasta, Tempest's Roar"
             ],
@@ -188,6 +194,7 @@
             "deck_id": "469036",
             "rank": "3-4",
             "player": "Melvin Marcus Magsino",
+            "winrate": 0.6666666666666666,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -297,6 +304,7 @@
             "deck_id": "469037",
             "rank": "3-4",
             "player": "Sute Rubio",
+            "winrate": 0.6666666666666666,
             "commander": [
                 "Tajic, Legion's Edge"
             ],
@@ -372,9 +380,5 @@
                 "1 Wear / Tear"
             ]
         }
-    ],
-    "name": "The Return of the Comeback x20",
-    "place": "CMCK Canlubang (Laguna, Philippines)",
-    "players": "8 players",
-    "date": "03/04/22"
+    ]
 }

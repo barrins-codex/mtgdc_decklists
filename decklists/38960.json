@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "38960",
+    "name": "Circuit Trial 5 Season 2",
+    "place": "Neutral Grounds (Quezon City, Philippines)",
+    "players": "23 players",
+    "date": "15/10/22",
     "decks": [
         {
             "deck_id": "490581",
             "rank": "1",
             "player": "Rexel Tenorio",
+            "winrate": 1.0,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -115,6 +120,7 @@
             "deck_id": "490582",
             "rank": "2",
             "player": "Dinno Zaide",
+            "winrate": 0.8,
             "commander": [
                 "Ghyrson Starn, Kelermorph"
             ],
@@ -214,6 +220,7 @@
             "deck_id": "490583",
             "rank": "3",
             "player": "Ste Villaraza",
+            "winrate": 0.8,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -322,6 +329,7 @@
             "deck_id": "490584",
             "rank": "4",
             "player": "Ben Co",
+            "winrate": 0.6,
             "commander": [
                 "Tivit, Seller of Secrets"
             ],
@@ -431,6 +439,7 @@
             "deck_id": "490585",
             "rank": "5",
             "player": "Mark Serafines",
+            "winrate": 0.6,
             "commander": [
                 "Light-Paws, Emperor's Voice"
             ],
@@ -524,6 +533,7 @@
             "deck_id": "490586",
             "rank": "6",
             "player": "Michael Molina",
+            "winrate": 0.6,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -609,6 +619,7 @@
             "deck_id": "490587",
             "rank": "7",
             "player": "Juancho Fabregas",
+            "winrate": 0.6,
             "commander": [
                 "Noble Heritage",
                 "Wilson, Refined Grizzly"
@@ -711,6 +722,7 @@
             "deck_id": "490588",
             "rank": "8",
             "player": "Miguel Paulino",
+            "winrate": 0.6,
             "commander": [
                 "Isamaru, Hound of Konda"
             ],
@@ -795,9 +807,5 @@
                 "1 Winter Orb"
             ]
         }
-    ],
-    "name": "Circuit Trial 5 Season 2",
-    "place": "Neutral Grounds (Quezon City, Philippines)",
-    "players": "23 players",
-    "date": "15/10/22"
+    ]
 }

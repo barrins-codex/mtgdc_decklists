@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "37118",
+    "name": "Duelan sa TG",
+    "place": "Tapped Games (Marikina City, Philippines)",
+    "players": "10 players",
+    "date": "02/07/22",
     "decks": [
         {
             "deck_id": "478631",
             "rank": "1",
             "player": "Yvan Tapales",
+            "winrate": 1.0,
             "commander": [
                 "Light-Paws, Emperor's Voice"
             ],
@@ -92,6 +97,7 @@
             "deck_id": "478632",
             "rank": "2",
             "player": "Aerwin Asico",
+            "winrate": 0.8,
             "commander": [
                 "Noble Heritage",
                 "Wilson, Refined Grizzly"
@@ -190,9 +196,5 @@
                 "1 Yoshimaru, Ever Faithful"
             ]
         }
-    ],
-    "name": "Duelan sa TG",
-    "place": "Tapped Games (Marikina City, Philippines)",
-    "players": "10 players",
-    "date": "02/07/22"
+    ]
 }

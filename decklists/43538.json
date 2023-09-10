@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "43538",
+    "name": "MH2 tourney",
+    "place": "Aling Marings dojo (Philippines)",
+    "players": "11 players",
+    "date": "16/04/23",
     "decks": [
         {
             "deck_id": "521609",
             "rank": "1",
             "player": "Jhay Brinquiz",
+            "winrate": 1.0,
             "commander": [
                 "Gut, True Soul Zealot",
                 "Raised by Giants"
@@ -111,6 +116,7 @@
             "deck_id": "521610",
             "rank": "2",
             "player": "Joseph Ramos",
+            "winrate": 0.8,
             "commander": [
                 "Grist, the Hunger Tide"
             ],
@@ -209,9 +215,5 @@
                 "1 Wild Growth"
             ]
         }
-    ],
-    "name": "MH2 tourney",
-    "place": "Aling Marings dojo (Philippines)",
-    "players": "11 players",
-    "date": "16/04/23"
+    ]
 }

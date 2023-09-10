@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "9030",
+    "name": "18th \"New Year Cake\" Cup (Shanghai)",
+    "place": "",
+    "players": "19 players",
+    "date": "31/01/15",
     "decks": [
         {
             "deck_id": "251447",
             "rank": "1",
             "player": "Wang Weiji",
+            "winrate": 1.0,
             "commander": [
                 "Prossh, Skyraider of Kher"
             ],
@@ -115,6 +120,7 @@
             "deck_id": "251448",
             "rank": "2",
             "player": "Yang Yang",
+            "winrate": 0.8,
             "commander": [
                 "Tasigur, the Golden Fang"
             ],
@@ -220,9 +226,5 @@
                 "1 Upheaval"
             ]
         }
-    ],
-    "name": "18th \"New Year Cake\" Cup (Shanghai)",
-    "place": "",
-    "players": "19 players",
-    "date": "31/01/15"
+    ]
 }

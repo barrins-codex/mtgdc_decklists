@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "43851",
+    "name": "Happy May Day !",
+    "place": "Slow Drake (Beijing, China)",
+    "players": "18 players",
+    "date": "30/04/23",
     "decks": [
         {
             "deck_id": "523701",
             "rank": "1",
             "player": "Jinlin Yang",
+            "winrate": 1.0,
             "commander": [
                 "Minsc, Beloved Ranger"
             ],
@@ -112,6 +117,7 @@
             "deck_id": "523702",
             "rank": "2",
             "player": "Xu Han",
+            "winrate": 0.8,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -221,6 +227,7 @@
             "deck_id": "523703",
             "rank": "3",
             "player": "Yixuan Gao",
+            "winrate": 0.8,
             "commander": [
                 "Atraxa, Grand Unifier"
             ],
@@ -330,6 +337,7 @@
             "deck_id": "523704",
             "rank": "4",
             "player": "Lingyu Zhan",
+            "winrate": 0.6,
             "commander": [
                 "Dennick, Pious Apprentice"
             ],
@@ -427,9 +435,5 @@
                 "1 Windswept Heath"
             ]
         }
-    ],
-    "name": "Happy May Day !",
-    "place": "Slow Drake (Beijing, China)",
-    "players": "18 players",
-    "date": "30/04/23"
+    ]
 }

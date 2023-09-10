@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "11088",
+    "name": "27th \"New Year Cake\" Cup (Shanghai)",
+    "place": "",
+    "players": "14 players",
+    "date": "24/10/15",
     "decks": [
         {
             "deck_id": "263107",
             "rank": "1",
             "player": "Qi Zihao",
+            "winrate": 1.0,
             "commander": [
                 "Yisan, the Wanderer Bard"
             ],
@@ -91,6 +96,7 @@
             "deck_id": "263108",
             "rank": "2",
             "player": "Zhang Yichen",
+            "winrate": 0.8,
             "commander": [
                 "Animar, Soul of Elements"
             ],
@@ -189,9 +195,5 @@
                 "1 Worldly Tutor"
             ]
         }
-    ],
-    "name": "27th \"New Year Cake\" Cup (Shanghai)",
-    "place": "",
-    "players": "14 players",
-    "date": "24/10/15"
+    ]
 }

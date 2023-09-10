@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "29308",
+    "name": "DC",
+    "place": "Les Chroniques du Commander",
+    "players": "57 players",
+    "date": "20/02/21",
     "decks": [
         {
             "deck_id": "430520",
             "rank": "1",
             "player": "Le Barretcall50",
+            "winrate": 0.8888888888888888,
             "commander": [
                 "Niv-Mizzet Reborn"
             ],
@@ -115,6 +120,7 @@
             "deck_id": "430521",
             "rank": "2",
             "player": "Onesauk",
+            "winrate": 0.7777777777777778,
             "commander": [
                 "Keleth, Sunmane Familiar",
                 "Rograkh, Son of Rohgahh"
@@ -213,6 +219,7 @@
             "deck_id": "430522",
             "rank": "3",
             "player": "Avyc974",
+            "winrate": 0.75,
             "commander": [
                 "Rograkh, Son of Rohgahh",
                 "Keleth, Sunmane Familiar"
@@ -310,6 +317,7 @@
             "deck_id": "430523",
             "rank": "4",
             "player": "Lionel Galliere \"hannibal44\"",
+            "winrate": 0.75,
             "commander": [
                 "Niv-Mizzet Reborn"
             ],
@@ -419,6 +427,7 @@
             "deck_id": "430524",
             "rank": "5",
             "player": "_h_",
+            "winrate": 0.75,
             "commander": [
                 "Krark, the Thumbless",
                 "Silas Renn, Seeker Adept"
@@ -528,6 +537,7 @@
             "deck_id": "430525",
             "rank": "6",
             "player": "Latielle",
+            "winrate": 0.75,
             "commander": [
                 "Kinnan, Bonder Prodigy"
             ],
@@ -633,6 +643,7 @@
             "deck_id": "430526",
             "rank": "7",
             "player": "Admab",
+            "winrate": 0.75,
             "commander": [
                 "Rograkh, Son of Rohgahh",
                 "Keleth, Sunmane Familiar"
@@ -730,6 +741,7 @@
             "deck_id": "430527",
             "rank": "8",
             "player": "M.das",
+            "winrate": 0.75,
             "commander": [
                 "Rograkh, Son of Rohgahh",
                 "Keleth, Sunmane Familiar"
@@ -823,9 +835,5 @@
                 "9 Snow-Covered Plains"
             ]
         }
-    ],
-    "name": "DC",
-    "place": "Les Chroniques du Commander",
-    "players": "57 players",
-    "date": "20/02/21"
+    ]
 }

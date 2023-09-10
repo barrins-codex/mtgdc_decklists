@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "30736",
+    "name": "Duel Commander",
+    "place": "Manabolt (Limeira, Brazil)",
+    "players": "10 players",
+    "date": "15/05/21",
     "decks": [
         {
             "deck_id": "439504",
             "rank": "1",
             "player": "Ivan Bais",
+            "winrate": 1.0,
             "commander": [
                 "Esika, God of the Tree"
             ],
@@ -115,6 +120,7 @@
             "deck_id": "439505",
             "rank": "2",
             "player": "Lucas Felix",
+            "winrate": 0.8,
             "commander": [
                 "Azusa, Lost but Seeking"
             ],
@@ -211,6 +217,7 @@
             "deck_id": "439506",
             "rank": "3",
             "player": "Felipe Tisil",
+            "winrate": 0.6,
             "commander": [
                 "Tajic, Legion's Edge"
             ],
@@ -304,6 +311,7 @@
             "deck_id": "439507",
             "rank": "4",
             "player": "Ravi Zörnig",
+            "winrate": 0.6,
             "commander": [
                 "Hogaak, Arisen Necropolis"
             ],
@@ -409,9 +417,5 @@
                 "1 Winter Orb"
             ]
         }
-    ],
-    "name": "Duel Commander",
-    "place": "Manabolt (Limeira, Brazil)",
-    "players": "10 players",
-    "date": "15/05/21"
+    ]
 }

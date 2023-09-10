@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "44709",
+    "name": "Duel de Commandants #6",
+    "place": "Collect-Édition (Candiac, Québec)",
+    "players": "27 players",
+    "date": "28/05/23",
     "decks": [
         {
             "deck_id": "529751",
             "rank": "1",
             "player": "Roch-antoine Lachaîne",
+            "winrate": 1.0,
             "commander": [
                 "Animar, Soul of Elements"
             ],
@@ -115,6 +120,7 @@
             "deck_id": "529752",
             "rank": "2",
             "player": "André Giraud",
+            "winrate": 0.8,
             "commander": [
                 "Sheoldred, the Apocalypse"
             ],
@@ -194,6 +200,7 @@
             "deck_id": "529753",
             "rank": "3-4",
             "player": "Alex St-aubin",
+            "winrate": 0.8,
             "commander": [
                 "Feldon, Ronom Excavator"
             ],
@@ -282,6 +289,7 @@
             "deck_id": "529754",
             "rank": "3-4",
             "player": "David Hébert",
+            "winrate": 0.8,
             "commander": [
                 "Light-Paws, Emperor's Voice"
             ],
@@ -362,6 +370,7 @@
             "deck_id": "529755",
             "rank": "5-8",
             "player": "Alexandre Harvey-desjardins",
+            "winrate": 0.6,
             "commander": [
                 "Ardoz, Cobbler of War"
             ],
@@ -445,6 +454,7 @@
             "deck_id": "529756",
             "rank": "5-8",
             "player": "Nathan Soucy",
+            "winrate": 0.6,
             "commander": [
                 "Criminal Past",
                 "Gut, True Soul Zealot"
@@ -539,6 +549,7 @@
             "deck_id": "529757",
             "rank": "5-8",
             "player": "Alex Dumont",
+            "winrate": 0.6,
             "commander": [
                 "Dargo, the Shipwrecker",
                 "Yoshimaru, Ever Faithful"
@@ -633,9 +644,5 @@
                 "1 Zurgo Bellstriker"
             ]
         }
-    ],
-    "name": "Duel de Commandants #6",
-    "place": "Collect-Édition (Candiac, Québec)",
-    "players": "27 players",
-    "date": "28/05/23"
+    ]
 }

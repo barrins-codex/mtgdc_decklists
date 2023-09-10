@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "15076",
+    "name": "Terza Tappa Lega Eternal",
+    "place": "Dal Tenda Perugia",
+    "players": "14 players",
+    "date": "13/03/17",
     "decks": [
         {
             "deck_id": "291266",
             "rank": "1",
             "player": "Diego De Castro",
+            "winrate": 1.0,
             "commander": [
                 "Rafiq of the Many"
             ],
@@ -114,6 +119,7 @@
             "deck_id": "291267",
             "rank": "2",
             "player": "Gianmaria Acciarri",
+            "winrate": 0.8,
             "commander": [
                 "Xenagos, God of Revels"
             ],
@@ -205,9 +211,5 @@
                 "10 Forest"
             ]
         }
-    ],
-    "name": "Terza Tappa Lega Eternal",
-    "place": "Dal Tenda Perugia",
-    "players": "14 players",
-    "date": "13/03/17"
+    ]
 }

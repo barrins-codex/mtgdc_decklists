@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "36117",
+    "name": "WANTED Saison 3 #9",
+    "place": "CartaRennes (Rennes, France)",
+    "players": "18 players",
+    "date": "20/04/22",
     "decks": [
         {
             "deck_id": "471942",
             "rank": "1",
             "player": "Aurélien Lion",
+            "winrate": 1.0,
             "commander": [
                 "Golos, Tireless Pilgrim"
             ],
@@ -115,6 +120,7 @@
             "deck_id": "471943",
             "rank": "2",
             "player": "Léon Le Loir",
+            "winrate": 0.8,
             "commander": [
                 "Niv-Mizzet Reborn",
                 "Jegantha, the Wellspring"
@@ -220,9 +226,5 @@
                 "1 Zagoth Triome"
             ]
         }
-    ],
-    "name": "WANTED Saison 3 #9",
-    "place": "CartaRennes (Rennes, France)",
-    "players": "18 players",
-    "date": "20/04/22"
+    ]
 }

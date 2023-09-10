@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "19812",
+    "name": "Duel Commander",
+    "place": "Gaming Goat Geneva, IL",
+    "players": "11 players",
+    "date": "05/08/18",
     "decks": [
         {
             "deck_id": "327812",
             "rank": "1",
             "player": "Nick Stamn",
+            "winrate": 1.0,
             "commander": [
                 "Queen Marchesa"
             ],
@@ -107,6 +112,7 @@
             "deck_id": "327813",
             "rank": "2",
             "player": "Stephan Hecht",
+            "winrate": 0.8,
             "commander": [
                 "Chromium, the Mutable"
             ],
@@ -212,9 +218,5 @@
                 "1 Bloodstained Mire"
             ]
         }
-    ],
-    "name": "Duel Commander",
-    "place": "Gaming Goat Geneva, IL",
-    "players": "11 players",
-    "date": "05/08/18"
+    ]
 }

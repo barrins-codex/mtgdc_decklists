@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "33972",
+    "name": "Win Cup Weekly DC",
+    "place": "MYY (Shanghai, China)",
+    "players": "8 players",
+    "date": "25/12/21",
     "decks": [
         {
             "deck_id": "458548",
             "rank": "1",
             "player": "He Ying",
+            "winrate": 1.0,
             "commander": [
                 "Golos, Tireless Pilgrim"
             ],
@@ -115,6 +120,7 @@
             "deck_id": "458549",
             "rank": "2",
             "player": "Zhang Cang",
+            "winrate": 0.6666666666666666,
             "commander": [
                 "Venser, Shaper Savant"
             ],
@@ -188,9 +194,5 @@
                 "1 Repeal"
             ]
         }
-    ],
-    "name": "Win Cup Weekly DC",
-    "place": "MYY (Shanghai, China)",
-    "players": "8 players",
-    "date": "25/12/21"
+    ]
 }

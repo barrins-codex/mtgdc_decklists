@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "28720",
+    "name": "RJ Cup 2021 #1",
+    "place": "League Castle (Mong Kok, Hong Kong)",
+    "players": "8 players",
+    "date": "01/01/21",
     "decks": [
         {
             "deck_id": "426740",
             "rank": "1",
             "player": "Chung Tang",
+            "winrate": 1.0,
             "commander": [
                 "Ardenn, Intrepid Archaeologist",
                 "Esior, Wardwing Familiar"
@@ -103,6 +108,7 @@
             "deck_id": "426741",
             "rank": "2",
             "player": "Lap Chung Cheung",
+            "winrate": 0.6666666666666666,
             "commander": [
                 "Venser, Shaper Savant"
             ],
@@ -183,9 +189,5 @@
                 "1 Sword of Fire and Ice"
             ]
         }
-    ],
-    "name": "RJ Cup 2021 #1",
-    "place": "League Castle (Mong Kok, Hong Kong)",
-    "players": "8 players",
-    "date": "01/01/21"
+    ]
 }

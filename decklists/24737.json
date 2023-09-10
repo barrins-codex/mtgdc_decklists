@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "24737",
+    "name": "Monthly Duel Commander",
+    "place": "Vladivostok",
+    "players": "12 players",
+    "date": "24/02/20",
     "decks": [
         {
             "deck_id": "373079",
             "rank": "1",
             "player": "Roman Ivanov",
+            "winrate": 1.0,
             "commander": [
                 "Uro, Titan of Nature's Wrath"
             ],
@@ -106,6 +111,7 @@
             "deck_id": "373084",
             "rank": "2",
             "player": "Vsevolod Krivosheev",
+            "winrate": 0.8,
             "commander": [
                 "Silas Renn, Seeker Adept",
                 "Akiri, Line-Slinger"
@@ -210,9 +216,5 @@
                 "1 Go for the Throat"
             ]
         }
-    ],
-    "name": "Monthly Duel Commander",
-    "place": "Vladivostok",
-    "players": "12 players",
-    "date": "24/02/20"
+    ]
 }

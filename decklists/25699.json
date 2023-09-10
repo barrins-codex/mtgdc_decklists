@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "25699",
+    "name": "Commander League S1 Silver",
+    "place": "",
+    "players": "10 players",
+    "date": "15/05/20",
     "decks": [
         {
             "deck_id": "391070",
             "rank": "1",
             "player": "Zohoz",
+            "winrate": 1.0,
             "commander": [
                 "Jirina Kudro"
             ],
@@ -115,6 +120,7 @@
             "deck_id": "391071",
             "rank": "2",
             "player": "Lantariel",
+            "winrate": 0.8,
             "commander": [
                 "Rielle, the Everwise",
                 "Lutri, the Spellchaser"
@@ -208,9 +214,5 @@
                 "9 Snow-Covered Island"
             ]
         }
-    ],
-    "name": "Commander League S1 Silver",
-    "place": "",
-    "players": "10 players",
-    "date": "15/05/20"
+    ]
 }

@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "21978",
+    "name": "80th \"New Year Cake\" Cup",
+    "place": "Shanghai",
+    "players": "12 players",
+    "date": "18/05/19",
     "decks": [
         {
             "deck_id": "348249",
             "rank": "1",
             "player": "Pan Liangchen",
+            "winrate": 1.0,
             "commander": [
                 "Teferi, Temporal Archmage"
             ],
@@ -86,6 +91,7 @@
             "deck_id": "348250",
             "rank": "2",
             "player": "Yao Yao",
+            "winrate": 0.8,
             "commander": [
                 "Niv-Mizzet Reborn"
             ],
@@ -191,9 +197,5 @@
                 "1 Urborg, Tomb of Yawgmoth"
             ]
         }
-    ],
-    "name": "80th \"New Year Cake\" Cup",
-    "place": "Shanghai",
-    "players": "12 players",
-    "date": "18/05/19"
+    ]
 }

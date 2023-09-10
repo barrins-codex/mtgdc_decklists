@@ -1,6 +1,6 @@
 {
     "format": "Duel Commander",
-    "id": 46351,
+    "id": "46351",
     "name": "Danish Championship 2023",
     "place": "Magic Player (Holbaek, Denmark)",
     "players": "14 players",
@@ -8,6 +8,12 @@
     "decks": [
         {
             "deck_id": "542549",
+            "rank": "1",
+            "player": "Dennis Neerup",
+            "winrate": 1.0,
+            "commander": [
+                "Atraxa, Grand Unifier"
+            ],
             "decklist": [
                 "1 Abrupt Decay",
                 "1 Arcane Signet",
@@ -108,15 +114,16 @@
                 "1 Windswept Heath",
                 "1 Wooded Foothills",
                 "1 Zagoth Triome"
-            ],
-            "commander": [
-                "Atraxa, Grand Unifier"
-            ],
-            "rank": "1",
-            "player": "Dennis Neerup"
+            ]
         },
         {
             "deck_id": "542550",
+            "rank": "2",
+            "player": "Asbjørn Jensen",
+            "winrate": 0.8,
+            "commander": [
+                "Rocco, Cabaretti Caterer"
+            ],
             "decklist": [
                 "1 Wild Growth",
                 "1 Sylvan Library",
@@ -211,15 +218,16 @@
                 "1 Sunpetal Grove",
                 "3 Snow-Covered Plains",
                 "5 Snow-Covered Forest"
-            ],
-            "commander": [
-                "Rocco, Cabaretti Caterer"
-            ],
-            "rank": "2",
-            "player": "Asbjørn Jensen"
+            ]
         },
         {
             "deck_id": "542551",
+            "rank": "3-4",
+            "player": "Jasper R. Nielsen",
+            "winrate": 0.6,
+            "commander": [
+                "Aragorn, King of Gondor"
+            ],
             "decklist": [
                 "1 Arid Mesa",
                 "1 Balance",
@@ -316,15 +324,16 @@
                 "1 Wash Away",
                 "1 Windswept Heath",
                 "1 Wooded Foothills"
-            ],
-            "commander": [
-                "Aragorn, King of Gondor"
-            ],
-            "rank": "3-4",
-            "player": "Jasper R. Nielsen"
+            ]
         },
         {
             "deck_id": "542552",
+            "rank": "3-4",
+            "player": "Michael Larsen",
+            "winrate": 0.6,
+            "commander": [
+                "Grist, the Hunger Tide"
+            ],
             "decklist": [
                 "1 Abrupt Decay",
                 "1 Animate Dead",
@@ -413,15 +422,17 @@
                 "1 Yavimaya Hollow",
                 "1 Yavimaya, Cradle of Growth",
                 "1 Yawgmoth, Thran Physician"
-            ],
-            "commander": [
-                "Grist, the Hunger Tide"
-            ],
-            "rank": "3-4",
-            "player": "Michael Larsen"
+            ]
         },
         {
             "deck_id": "542553",
+            "rank": "5",
+            "player": "Jeppe Risager",
+            "winrate": 0.6,
+            "commander": [
+                "Jegantha, the Wellspring",
+                "Sisay, Weatherlight Captain"
+            ],
             "decklist": [
                 "1 Demonic Tutor",
                 "1 Duress",
@@ -521,16 +532,17 @@
                 "1 Savannah",
                 "1 Scalding Tarn",
                 "1 Scrubland"
-            ],
-            "commander": [
-                "Jegantha, the Wellspring",
-                "Sisay, Weatherlight Captain"
-            ],
-            "rank": "5",
-            "player": "Jeppe Risager"
+            ]
         },
         {
             "deck_id": "542554",
+            "rank": "6",
+            "player": "Daniel Lind",
+            "winrate": 0.6,
+            "commander": [
+                "Tana, the Bloodsower",
+                "Yoshimaru, Ever Faithful"
+            ],
             "decklist": [
                 "1 Adeline, Resplendent Cathar",
                 "1 Arid Mesa",
@@ -629,16 +641,16 @@
                 "1 Wrenn and Six",
                 "1 Yavimaya, Cradle of Growth",
                 "1 Zurgo Bellstriker"
-            ],
-            "commander": [
-                "Tana, the Bloodsower",
-                "Yoshimaru, Ever Faithful"
-            ],
-            "rank": "6",
-            "player": "Daniel Lind"
+            ]
         },
         {
             "deck_id": "542555",
+            "rank": "7",
+            "player": "Jonatan Høhne",
+            "winrate": 0.4,
+            "commander": [
+                "Klothys, God of Destiny"
+            ],
             "decklist": [
                 "1 Abrade",
                 "1 Ahn-Crop Crasher",
@@ -729,15 +741,16 @@
                 "1 Yavimaya, Cradle of Growth",
                 "1 Zhur-Taa Goblin",
                 "1 Zurgo Bellstriker"
-            ],
-            "commander": [
-                "Klothys, God of Destiny"
-            ],
-            "rank": "7",
-            "player": "Jonatan Høhne"
+            ]
         },
         {
             "deck_id": "542556",
+            "rank": "8",
+            "player": "Simon Hünermund",
+            "winrate": 0.4,
+            "commander": [
+                "Kess, Dissident Mage"
+            ],
             "decklist": [
                 "1 Chandra, Torch of Defiance",
                 "1 Underground Sea",
@@ -838,12 +851,7 @@
                 "1 Toxic Deluge",
                 "1 Cling to Dust",
                 "1 Deadly Rollick"
-            ],
-            "commander": [
-                "Kess, Dissident Mage"
-            ],
-            "rank": "8",
-            "player": "Simon Hünermund"
+            ]
         }
     ]
 }

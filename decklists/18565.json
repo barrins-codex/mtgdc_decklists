@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "18565",
+    "name": "[DDL] Duel Lounge",
+    "place": "",
+    "players": "11 players",
+    "date": "22/02/18",
     "decks": [
         {
             "deck_id": "315608",
             "rank": "1",
             "player": "Felix M.",
+            "winrate": 1.0,
             "commander": [
                 "Thrasios, Triton Hero",
                 "Sidar Kondo of Jamuraa"
@@ -113,6 +118,7 @@
             "deck_id": "315609",
             "rank": "2",
             "player": "Sebastian S.",
+            "winrate": 0.8,
             "commander": [
                 "Kess, Dissident Mage"
             ],
@@ -218,9 +224,5 @@
                 "1 Marsh Flats"
             ]
         }
-    ],
-    "name": "[DDL] Duel Lounge",
-    "place": "",
-    "players": "11 players",
-    "date": "22/02/18"
+    ]
 }

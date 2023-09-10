@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "41151",
+    "name": "Duelan sa TG",
+    "place": "Tapped Games (Marikina City, Philippines)",
+    "players": "12 players",
+    "date": "04/02/23",
     "decks": [
         {
             "deck_id": "505808",
             "rank": "1",
             "player": "Jayson Casauay",
+            "winrate": 1.0,
             "commander": [
                 "Juri, Master of the Revue"
             ],
@@ -111,6 +116,7 @@
             "deck_id": "505809",
             "rank": "2",
             "player": "Jonathan Dolor",
+            "winrate": 0.8,
             "commander": [
                 "Lurrus of the Dream-Den",
                 "Karlov of the Ghost Council"
@@ -212,6 +218,7 @@
             "deck_id": "505810",
             "rank": "3",
             "player": "Dinno Zaide",
+            "winrate": 0.6,
             "commander": [
                 "Ghyrson Starn, Kelermorph"
             ],
@@ -312,6 +319,7 @@
             "deck_id": "505811",
             "rank": "4",
             "player": "Panday Padillon",
+            "winrate": 0.6,
             "commander": [
                 "Ardoz, Cobbler of War"
             ],
@@ -319,7 +327,7 @@
                 "1 Call In a Professional",
                 "1 Roiling Vortex",
                 "1 Sulfuric Vortex",
-                "1 Sokenzan, Crucible of Defiance",
+                "1 Sokenzan",
                 "1 Lightning Bolt",
                 "1 Arc Trail",
                 "1 Incinerate",
@@ -397,9 +405,5 @@
                 "15 Mountain"
             ]
         }
-    ],
-    "name": "Duelan sa TG",
-    "place": "Tapped Games (Marikina City, Philippines)",
-    "players": "12 players",
-    "date": "04/02/23"
+    ]
 }

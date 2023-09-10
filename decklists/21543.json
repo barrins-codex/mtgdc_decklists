@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "21543",
+    "name": "Trial ZAP avril",
+    "place": "Amiens",
+    "players": "14 players",
+    "date": "30/03/19",
     "decks": [
         {
             "deck_id": "344474",
             "rank": "1",
             "player": "Gaetan Lavender",
+            "winrate": 1.0,
             "commander": [
                 "Arahbo, Roar of the World"
             ],
@@ -103,7 +108,8 @@
         {
             "deck_id": "344475",
             "rank": "2",
-            "player": "Clement Grigny\r\n",
+            "player": "Clement Grigny",
+            "winrate": 0.8,
             "commander": [
                 "Saskia the Unyielding"
             ],
@@ -209,9 +215,5 @@
                 "1 Brimaz, King of Oreskos"
             ]
         }
-    ],
-    "name": "Trial ZAP avril",
-    "place": "Amiens",
-    "players": "14 players",
-    "date": "30/03/19"
+    ]
 }

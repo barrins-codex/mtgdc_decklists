@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "34470",
+    "name": "RJ Cup 2022 #4",
+    "place": "League Castle (Mong Kok, Hong Kong)",
+    "players": "9 players",
+    "date": "29/01/22",
     "decks": [
         {
             "deck_id": "461577",
             "rank": "1",
             "player": "Alan So",
+            "winrate": 1.0,
             "commander": [
                 "Niv-Mizzet, Parun"
             ],
@@ -105,6 +110,7 @@
             "deck_id": "461578",
             "rank": "2",
             "player": "Wilson Lai",
+            "winrate": 0.8,
             "commander": [
                 "Silas Renn, Seeker Adept",
                 "Dargo, the Shipwrecker"
@@ -210,9 +216,5 @@
                 "1 Snow-Covered Swamp"
             ]
         }
-    ],
-    "name": "RJ Cup 2022 #4",
-    "place": "League Castle (Mong Kok, Hong Kong)",
-    "players": "9 players",
-    "date": "29/01/22"
+    ]
 }

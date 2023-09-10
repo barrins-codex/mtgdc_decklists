@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "25982",
+    "name": "DC",
+    "place": "Arena Jeux (Orange, France)",
+    "players": "10 players",
+    "date": "05/06/20",
     "decks": [
         {
             "deck_id": "395153",
             "rank": "1",
             "player": "Clement Potin",
+            "winrate": 1.0,
             "commander": [
                 "Sai, Master Thopterist"
             ],
@@ -90,6 +95,7 @@
             "deck_id": "395154",
             "rank": "2",
             "player": "Sébastien  Martinez",
+            "winrate": 0.8,
             "commander": [
                 "Gallia of the Endless Dance"
             ],
@@ -179,9 +185,5 @@
                 "1 Anax, Hardened in the Forge"
             ]
         }
-    ],
-    "name": "DC",
-    "place": "Arena Jeux (Orange, France)",
-    "players": "10 players",
-    "date": "05/06/20"
+    ]
 }

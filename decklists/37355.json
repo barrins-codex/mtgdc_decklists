@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "37355",
+    "name": "Tang Keke Birthday Cup",
+    "place": "Naya (Jinan,China)",
+    "players": "12 players",
+    "date": "17/07/22",
     "decks": [
         {
             "deck_id": "480070",
             "rank": "1",
             "player": "Yang Jinlin",
+            "winrate": 1.0,
             "commander": [
                 "Minsc &amp; Boo, Timeless Heroes"
             ],
@@ -105,6 +110,7 @@
             "deck_id": "480071",
             "rank": "2",
             "player": "Gong Yi",
+            "winrate": 0.8,
             "commander": [
                 "Grist, the Hunger Tide"
             ],
@@ -207,6 +213,7 @@
             "deck_id": "480072",
             "rank": "3",
             "player": "Qin Zihao",
+            "winrate": 0.6,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -316,6 +323,7 @@
             "deck_id": "480073",
             "rank": "4",
             "player": "Peng Cheng",
+            "winrate": 0.6,
             "commander": [
                 "Leovold, Emissary of Trest"
             ],
@@ -421,9 +429,5 @@
                 "1 Unearth"
             ]
         }
-    ],
-    "name": "Tang Keke Birthday Cup",
-    "place": "Naya (Jinan,China)",
-    "players": "12 players",
-    "date": "17/07/22"
+    ]
 }

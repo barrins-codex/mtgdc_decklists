@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "36595",
+    "name": "DC Month End Finals",
+    "place": "Forge North Point (Caloocan, Philippines)",
+    "players": "12 players",
+    "date": "29/05/22",
     "decks": [
         {
             "deck_id": "475333",
             "rank": "1",
             "player": "Mary Amora",
+            "winrate": 1.0,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -115,6 +120,7 @@
             "deck_id": "475334",
             "rank": "2",
             "player": "Ste Villaraza",
+            "winrate": 0.8,
             "commander": [
                 "Shorikai, Genesis Engine"
             ],
@@ -209,9 +215,5 @@
                 "1 Windswept Heath"
             ]
         }
-    ],
-    "name": "DC Month End Finals",
-    "place": "Forge North Point (Caloocan, Philippines)",
-    "players": "12 players",
-    "date": "29/05/22"
+    ]
 }

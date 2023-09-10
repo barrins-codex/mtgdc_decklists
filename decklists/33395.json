@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "33395",
+    "name": "2 Liga Real Commander",
+    "place": "Bangu (Rio de Janeiro, Brazil)",
+    "players": "10 players",
+    "date": "20/11/21",
     "decks": [
         {
             "deck_id": "454701",
             "rank": "1",
             "player": "Juca",
+            "winrate": 1.0,
             "commander": [
                 "Phylath, World Sculptor"
             ],
@@ -89,7 +94,8 @@
         {
             "deck_id": "454702",
             "rank": "2",
-            "player": "Michel Xisto ",
+            "player": "Michel Xisto",
+            "winrate": 0.8,
             "commander": [
                 "Armix, Filigree Thrasher",
                 "Rebbec, Architect of Ascension"
@@ -182,9 +188,5 @@
                 "1 Murderous Cut"
             ]
         }
-    ],
-    "name": "2 Liga Real Commander",
-    "place": "Bangu (Rio de Janeiro, Brazil)",
-    "players": "10 players",
-    "date": "20/11/21"
+    ]
 }

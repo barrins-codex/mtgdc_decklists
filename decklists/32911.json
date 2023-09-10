@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "32911",
+    "name": "Wanted #6",
+    "place": "CartaRennes (Rennes, France)",
+    "players": "16 players",
+    "date": "20/10/21",
     "decks": [
         {
             "deck_id": "451993",
             "rank": "1",
             "player": "Brieuc Evo",
+            "winrate": 1.0,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -115,6 +120,7 @@
             "deck_id": "451994",
             "rank": "2",
             "player": "Charlie Cha",
+            "winrate": 0.8,
             "commander": [
                 "Grenzo, Dungeon Warden"
             ],
@@ -222,6 +228,7 @@
             "deck_id": "451995",
             "rank": "3",
             "player": "Adrien Jouan",
+            "winrate": 0.8,
             "commander": [
                 "Toggo, Goblin Weaponsmith",
                 "Kodama of the East Tree"
@@ -321,6 +328,7 @@
             "deck_id": "451996",
             "rank": "4",
             "player": "Mathieu Laurent",
+            "winrate": 0.6,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -426,9 +434,5 @@
                 "1 Yorion, Sky Nomad"
             ]
         }
-    ],
-    "name": "Wanted #6",
-    "place": "CartaRennes (Rennes, France)",
-    "players": "16 players",
-    "date": "20/10/21"
+    ]
 }

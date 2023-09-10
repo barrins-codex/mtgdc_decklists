@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "30137",
+    "name": "DC mini Březen",
+    "place": "Úvaly (Czech Republic)",
+    "players": "8 players",
+    "date": "19/03/21",
     "decks": [
         {
             "deck_id": "435942",
             "rank": "1",
             "player": "Zdenek Hlavsa",
+            "winrate": 1.0,
             "commander": [
                 "Saskia the Unyielding"
             ],
@@ -115,6 +120,7 @@
             "deck_id": "435943",
             "rank": "2",
             "player": "Radek",
+            "winrate": 0.6666666666666666,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -190,9 +196,5 @@
                 "1 Commander's Plate"
             ]
         }
-    ],
-    "name": "DC mini Březen",
-    "place": "Úvaly (Czech Republic)",
-    "players": "8 players",
-    "date": "19/03/21"
+    ]
 }

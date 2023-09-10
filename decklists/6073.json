@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "6073",
+    "name": "EDH (Nice)",
+    "place": "",
+    "players": "23 players",
+    "date": "17/11/13",
     "decks": [
         {
             "deck_id": "235142",
             "rank": "1",
             "player": "Yacin Zouhair",
+            "winrate": 1.0,
             "commander": [
                 "Derevi, Empyrial Tactician"
             ],
@@ -114,6 +119,7 @@
             "deck_id": "235143",
             "rank": "2",
             "player": "Pierre Almaraz",
+            "winrate": 0.8,
             "commander": [
                 "Geist of Saint Traft"
             ],
@@ -210,6 +216,7 @@
             "deck_id": "235144",
             "rank": "3-4",
             "player": "Brandon Louis",
+            "winrate": 0.8,
             "commander": [
                 "Doran, the Siege Tower"
             ],
@@ -319,6 +326,7 @@
             "deck_id": "235145",
             "rank": "3-4",
             "player": "Kim Parola",
+            "winrate": 0.8,
             "commander": [
                 "Wydwen, the Biting Gale"
             ],
@@ -413,9 +421,5 @@
                 "1 Chainer's Edict"
             ]
         }
-    ],
-    "name": "EDH (Nice)",
-    "place": "",
-    "players": "23 players",
-    "date": "17/11/13"
+    ]
 }

@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "31000",
+    "name": "Duel Commander Battle",
+    "place": "Ae du Quai (Nantes, France)",
+    "players": "12 players",
+    "date": "05/06/21",
     "decks": [
         {
             "deck_id": "441245",
             "rank": "1",
             "player": "Nolwenn Le Guer",
+            "winrate": 1.0,
             "commander": [
                 "Jodah, Archmage Eternal"
             ],
@@ -115,6 +120,7 @@
             "deck_id": "441246",
             "rank": "2",
             "player": "Martin Guet",
+            "winrate": 0.8,
             "commander": [
                 "Jenara, Asura of War"
             ],
@@ -224,6 +230,7 @@
             "deck_id": "441247",
             "rank": "3",
             "player": "Ugo Poiroux",
+            "winrate": 0.6,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -333,6 +340,7 @@
             "deck_id": "441248",
             "rank": "4",
             "player": "Matthieu Poullaouec",
+            "winrate": 0.6,
             "commander": [
                 "Karlov of the Ghost Council",
                 "Lurrus of the Dream-Den"
@@ -434,9 +442,5 @@
                 "1 Eliminate"
             ]
         }
-    ],
-    "name": "Duel Commander Battle",
-    "place": "Ae du Quai (Nantes, France)",
-    "players": "12 players",
-    "date": "05/06/21"
+    ]
 }

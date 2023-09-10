@@ -1,15 +1,19 @@
 {
     "format": "Duel Commander",
-    "id": 45428,
+    "id": "45428",
     "name": "DC LotR Launch Tourney",
     "place": "Anime Spot (Barbados)",
     "players": "13 players",
     "date": "25/06/23",
     "decks": [
         {
-            "player": "Josue Nelson",
-            "rank": "1",
             "deck_id": "535783",
+            "rank": "1",
+            "player": "Josue Nelson",
+            "winrate": 1.0,
+            "commander": [
+                "Grist, the Hunger Tide"
+            ],
             "decklist": [
                 "1 Darkbore Pathway",
                 "5 Swamp",
@@ -101,15 +105,17 @@
                 "1 Woodland Chasm",
                 "1 Yavimaya, Cradle of Growth",
                 "1 Yawgmoth, Thran Physician"
-            ],
-            "commander": [
-                "Grist, the Hunger Tide"
             ]
         },
         {
-            "player": "Tarik Browne",
-            "rank": "2",
             "deck_id": "535784",
+            "rank": "2",
+            "player": "Tarik Browne",
+            "winrate": 0.8,
+            "commander": [
+                "Tana, the Bloodsower",
+                "Yoshimaru, Ever Faithful"
+            ],
             "decklist": [
                 "1 Okina, Temple to the Grandfathers",
                 "1 Ardoz, Cobbler of War",
@@ -209,10 +215,6 @@
                 "1 Flowering of the White Tree",
                 "1 The Wandering Emperor",
                 "1 Ozolith, the Shattered Spire"
-            ],
-            "commander": [
-                "Tana, the Bloodsower",
-                "Yoshimaru, Ever Faithful"
             ]
         }
     ]

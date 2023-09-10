@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "35426",
+    "name": "DC",
+    "place": "Fulcrum Esports Hub (Cainta City, Philippines)",
+    "players": "16 players",
+    "date": "27/03/22",
     "decks": [
         {
             "deck_id": "467579",
             "rank": "1",
             "player": "Cilbert Corpuz",
+            "winrate": 1.0,
             "commander": [
                 "Thalia, Guardian of Thraben"
             ],
@@ -97,6 +102,7 @@
             "deck_id": "467580",
             "rank": "2",
             "player": "Kyle Guerrero",
+            "winrate": 0.8,
             "commander": [
                 "Atsushi, the Blazing Sky"
             ],
@@ -185,6 +191,7 @@
             "deck_id": "467581",
             "rank": "3-4",
             "player": "Ian Roa",
+            "winrate": 0.8,
             "commander": [
                 "Daretti, Scrap Savant"
             ],
@@ -265,6 +272,7 @@
             "deck_id": "467582",
             "rank": "3-4",
             "player": "Meng Hao",
+            "winrate": 0.8,
             "commander": [
                 "Kinnan, Bonder Prodigy"
             ],
@@ -363,9 +371,5 @@
                 "1 Yavimaya, Cradle of Growth"
             ]
         }
-    ],
-    "name": "DC",
-    "place": "Fulcrum Esports Hub (Cainta City, Philippines)",
-    "players": "16 players",
-    "date": "27/03/22"
+    ]
 }

@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "44577",
+    "name": "WANTED Saison 7 #5",
+    "place": "Cartarennes (Rennes, France)",
+    "players": "20 players",
+    "date": "24/05/23",
     "decks": [
         {
             "deck_id": "528718",
             "rank": "1",
             "player": "Laurent Dauvergne",
+            "winrate": 1.0,
             "commander": [
                 "Atraxa, Grand Unifier"
             ],
@@ -103,9 +108,5 @@
                 "1 Swords to Plowshares"
             ]
         }
-    ],
-    "name": "WANTED Saison 7 #5",
-    "place": "Cartarennes (Rennes, France)",
-    "players": "20 players",
-    "date": "24/05/23"
+    ]
 }

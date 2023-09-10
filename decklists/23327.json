@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "23327",
+    "name": "Wednesday DC cup",
+    "place": "Aubagne (France)",
+    "players": "8 players",
+    "date": "09/10/19",
     "decks": [
         {
             "deck_id": "360693",
             "rank": "1",
             "player": "Damien Eventwin Jantzen",
+            "winrate": 1.0,
             "commander": [
                 "Emry, Lurker of the Loch"
             ],
@@ -94,6 +99,7 @@
             "deck_id": "360694",
             "rank": "2",
             "player": "Gaby Lizarralde",
+            "winrate": 0.6666666666666666,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -176,9 +182,5 @@
                 "1 Scalding Tarn"
             ]
         }
-    ],
-    "name": "Wednesday DC cup",
-    "place": "Aubagne (France)",
-    "players": "8 players",
-    "date": "09/10/19"
+    ]
 }

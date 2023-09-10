@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "32198",
+    "name": "DC Weekly Pod2",
+    "place": "Mana Underground (Lagro, Philippines)",
+    "players": "8 players",
+    "date": "29/08/21",
     "decks": [
         {
             "deck_id": "447955",
             "rank": "1",
             "player": "Ste Villaraza",
+            "winrate": 1.0,
             "commander": [
                 "Malcolm, Keen-Eyed Navigator",
                 "Tevesh Szat, Doom of Fools"
@@ -106,6 +111,7 @@
             "deck_id": "447956",
             "rank": "2",
             "player": "Jarbs Sahagun",
+            "winrate": 0.6666666666666666,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -211,9 +217,5 @@
                 "1 Mystic Gate"
             ]
         }
-    ],
-    "name": "DC Weekly Pod2",
-    "place": "Mana Underground (Lagro, Philippines)",
-    "players": "8 players",
-    "date": "29/08/21"
+    ]
 }

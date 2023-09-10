@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "11035",
+    "name": "Thursday DC (Milano, Italy)",
+    "place": "",
+    "players": "8 players",
+    "date": "03/12/15",
     "decks": [
         {
             "deck_id": "262831",
             "rank": "1",
             "player": "Mauro Conti",
+            "winrate": 1.0,
             "commander": [
                 "Grenzo, Dungeon Warden"
             ],
@@ -98,9 +103,5 @@
                 "1 Liliana of the Veil"
             ]
         }
-    ],
-    "name": "Thursday DC (Milano, Italy)",
-    "place": "",
-    "players": "8 players",
-    "date": "03/12/15"
+    ]
 }

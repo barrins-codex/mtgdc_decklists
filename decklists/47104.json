@@ -10,6 +10,7 @@
             "deck_id": "548090",
             "rank": "1",
             "player": "Yihan Ding",
+            "winrate": 1.0,
             "commander": [
                 "Grist, the Hunger Tide"
             ],
@@ -109,6 +110,7 @@
             "deck_id": "548091",
             "rank": "2",
             "player": "Yixuan Gao",
+            "winrate": 0.8,
             "commander": [
                 "Esika, God of the Tree"
             ],

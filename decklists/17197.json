@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "17197",
+    "name": "FNM Hiveworld Cologne",
+    "place": "",
+    "players": "13 players",
+    "date": "13/10/17",
     "decks": [
         {
             "deck_id": "306401",
             "rank": "1",
             "player": "Richard Müller",
+            "winrate": 1.0,
             "commander": [
                 "Prossh, Skyraider of Kher"
             ],
@@ -101,6 +106,7 @@
             "deck_id": "306402",
             "rank": "2",
             "player": "Sebastian Haines",
+            "winrate": 0.8,
             "commander": [
                 "Leovold, Emissary of Trest"
             ],
@@ -206,9 +212,5 @@
                 "1 Bloodstained Mire"
             ]
         }
-    ],
-    "name": "FNM Hiveworld Cologne",
-    "place": "",
-    "players": "13 players",
-    "date": "13/10/17"
+    ]
 }

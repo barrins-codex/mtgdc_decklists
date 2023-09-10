@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "31541",
+    "name": "54th 3531 Cup",
+    "place": "Shanghai (China)",
+    "players": "9 players",
+    "date": "09/07/21",
     "decks": [
         {
             "deck_id": "444297",
             "rank": "1",
             "player": "Yao Yao",
+            "winrate": 1.0,
             "commander": [
                 "Silas Renn, Seeker Adept",
                 "Tevesh Szat, Doom of Fools"
@@ -106,9 +111,5 @@
                 "6 Island"
             ]
         }
-    ],
-    "name": "54th 3531 Cup",
-    "place": "Shanghai (China)",
-    "players": "9 players",
-    "date": "09/07/21"
+    ]
 }

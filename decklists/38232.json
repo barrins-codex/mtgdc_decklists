@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "38232",
+    "name": "TNDC Weekly",
+    "place": "Caverna do Dragão (Santos, SP - Brasil)",
+    "players": "14 players",
+    "date": "06/09/22",
     "decks": [
         {
             "deck_id": "485844",
             "rank": "1",
             "player": "Victor Burghi",
+            "winrate": 1.0,
             "commander": [
                 "Saskia the Unyielding"
             ],
@@ -115,6 +120,7 @@
             "deck_id": "485845",
             "rank": "2",
             "player": "Rafael Barreto",
+            "winrate": 0.8,
             "commander": [
                 "Jeska, Thrice Reborn",
                 "Ludevic, Necro-Alchemist"
@@ -214,6 +220,7 @@
             "deck_id": "485846",
             "rank": "3",
             "player": "Rafael Ozores",
+            "winrate": 0.6,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -297,6 +304,7 @@
             "deck_id": "485847",
             "rank": "4",
             "player": "Leonardo Maeda",
+            "winrate": 0.6,
             "commander": [
                 "Grist, the Hunger Tide"
             ],
@@ -387,9 +395,5 @@
                 "1 Young Wolf"
             ]
         }
-    ],
-    "name": "TNDC Weekly",
-    "place": "Caverna do Dragão (Santos, SP - Brasil)",
-    "players": "14 players",
-    "date": "06/09/22"
+    ]
 }

@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "44038",
+    "name": "TG  Duel",
+    "place": "Tapped Games & Hobbies (Marikina City, Philippines)",
+    "players": "8 players",
+    "date": "06/05/23",
     "decks": [
         {
             "deck_id": "525110",
             "rank": "1",
             "player": "Martin Ogayon",
+            "winrate": 1.0,
             "commander": [
                 "Polukranos Reborn"
             ],
@@ -109,6 +114,7 @@
             "deck_id": "525111",
             "rank": "2",
             "player": "Ian Paul Roa",
+            "winrate": 0.6666666666666666,
             "commander": [
                 "Feldon, Ronom Excavator"
             ],
@@ -187,9 +193,5 @@
                 "1 Zurgo Bellstriker"
             ]
         }
-    ],
-    "name": "TG  Duel",
-    "place": "Tapped Games & Hobbies (Marikina City, Philippines)",
-    "players": "8 players",
-    "date": "06/05/23"
+    ]
 }

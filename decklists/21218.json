@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "21218",
+    "name": "[DDL]Lounge League",
+    "place": "Darmstadt, Germany",
+    "players": "10 players",
+    "date": "21/02/19",
     "decks": [
         {
             "deck_id": "341662",
             "rank": "1",
             "player": "Nils H.",
+            "winrate": 1.0,
             "commander": [
                 "Arahbo, Roar of the World"
             ],
@@ -100,6 +105,7 @@
             "deck_id": "341663",
             "rank": "2",
             "player": "Felix M.",
+            "winrate": 0.8,
             "commander": [
                 "Thrasios, Triton Hero",
                 "Ludevic, Necro-Alchemist"
@@ -203,9 +209,5 @@
                 "3 Forest"
             ]
         }
-    ],
-    "name": "[DDL]Lounge League",
-    "place": "Darmstadt, Germany",
-    "players": "10 players",
-    "date": "21/02/19"
+    ]
 }

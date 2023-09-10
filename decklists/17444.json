@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "17444",
+    "name": "Sabatino Magicsur",
+    "place": "",
+    "players": "12 players",
+    "date": "04/11/17",
     "decks": [
         {
             "deck_id": "307973",
             "rank": "1",
             "player": "Denis Solórzano",
+            "winrate": 1.0,
             "commander": [
                 "Selvala, Explorer Returned"
             ],
@@ -102,6 +107,7 @@
             "deck_id": "307974",
             "rank": "2",
             "player": "Vincent Vergel",
+            "winrate": 0.8,
             "commander": [
                 "Arahbo, Roar of the World"
             ],
@@ -197,9 +203,5 @@
                 "1 Adorned Pouncer"
             ]
         }
-    ],
-    "name": "Sabatino Magicsur",
-    "place": "",
-    "players": "12 players",
-    "date": "04/11/17"
+    ]
 }

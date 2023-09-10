@@ -1,6 +1,6 @@
 {
     "format": "Duel Commander",
-    "id": 46202,
+    "id": "46202",
     "name": "Hradubice - DC Series #5/23",
     "place": "Tolarie.cz",
     "players": "15 players",
@@ -8,6 +8,12 @@
     "decks": [
         {
             "deck_id": "541310",
+            "rank": "1",
+            "player": "Jakub Lelek",
+            "winrate": 1.0,
+            "commander": [
+                "Ghyrson Starn, Kelermorph"
+            ],
             "decklist": [
                 "1 Misty Rainforest",
                 "1 Cursecatcher",
@@ -98,15 +104,16 @@
                 "1 Sunscorched Desert",
                 "1 Volcanic Island",
                 "1 Wooded Foothills"
-            ],
-            "commander": [
-                "Ghyrson Starn, Kelermorph"
-            ],
-            "rank": "1",
-            "player": "Jakub Lelek"
+            ]
         },
         {
             "deck_id": "541311",
+            "rank": "2",
+            "player": "Jan Kousal",
+            "winrate": 0.8,
+            "commander": [
+                "Frodo, Sauron's Bane"
+            ],
             "decklist": [
                 "1 Thoughtseize",
                 "1 Commander's Plate",
@@ -202,15 +209,16 @@
                 "1 Takenuma, Abandoned Mire",
                 "3 Swamp",
                 "4 Plains"
-            ],
-            "commander": [
-                "Frodo, Sauron's Bane"
-            ],
-            "rank": "2",
-            "player": "Jan Kousal"
+            ]
         },
         {
             "deck_id": "541312",
+            "rank": "3",
+            "player": "Vojtech Benes",
+            "winrate": 0.6,
+            "commander": [
+                "Aminatou, the Fateshifter"
+            ],
             "decklist": [
                 "1 Teferi, Time Raveler",
                 "1 Swamp",
@@ -311,15 +319,17 @@
                 "1 Occult Epiphany",
                 "1 Shallow Grave",
                 "1 Sauron's Ransom"
-            ],
-            "commander": [
-                "Aminatou, the Fateshifter"
-            ],
-            "rank": "3",
-            "player": "Vojtech Benes"
+            ]
         },
         {
             "deck_id": "541313",
+            "rank": "4",
+            "player": "Pavel Tvrznik",
+            "winrate": 0.6,
+            "commander": [
+                "Yoshimaru, Ever Faithful",
+                "Tymna the Weaver"
+            ],
             "decklist": [
                 "1 Lotho, Corrupt Shirriff",
                 "1 Lae'zel, Vlaakith's Champion",
@@ -413,13 +423,7 @@
                 "1 Winter Orb",
                 "1 Flowering of the White Tree",
                 "1 Parallax Wave"
-            ],
-            "commander": [
-                "Yoshimaru, Ever Faithful",
-                "Tymna the Weaver"
-            ],
-            "rank": "4",
-            "player": "Pavel Tvrznik"
+            ]
         }
     ]
 }

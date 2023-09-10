@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "11163",
+    "name": "Tournoi french commander (Pau)",
+    "place": "",
+    "players": "12 players",
+    "date": "13/12/15",
     "decks": [
         {
             "deck_id": "263482",
             "rank": "1",
             "player": "Guillaume Bahin",
+            "winrate": 1.0,
             "commander": [
                 "Animar, Soul of Elements"
             ],
@@ -109,6 +114,7 @@
             "deck_id": "263483",
             "rank": "2",
             "player": "Alexandre Canton",
+            "winrate": 0.8,
             "commander": [
                 "Jenara, Asura of War"
             ],
@@ -212,9 +218,5 @@
                 "1 Adarkar Wastes"
             ]
         }
-    ],
-    "name": "Tournoi french commander (Pau)",
-    "place": "",
-    "players": "12 players",
-    "date": "13/12/15"
+    ]
 }

@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "39876",
+    "name": "18th Duel-League",
+    "place": "Leipzig (Germany)",
+    "players": "8 players",
+    "date": "01/12/22",
     "decks": [
         {
             "deck_id": "497028",
             "rank": "1",
             "player": "Simon The Sorcerer",
+            "winrate": 1.0,
             "commander": [
                 "Ghyrson Starn, Kelermorph"
             ],
@@ -104,6 +109,7 @@
             "deck_id": "497029",
             "rank": "2",
             "player": "Sebastian Kött",
+            "winrate": 0.6666666666666666,
             "commander": [
                 "Juri, Master of the Revue"
             ],
@@ -201,9 +207,5 @@
                 "1 Zurgo Bellstriker"
             ]
         }
-    ],
-    "name": "18th Duel-League",
-    "place": "Leipzig (Germany)",
-    "players": "8 players",
-    "date": "01/12/22"
+    ]
 }

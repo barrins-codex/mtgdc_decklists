@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "27518",
+    "name": "114th \"New Year Cake\" Cup",
+    "place": "Shanghai (China)",
+    "players": "11 players",
+    "date": "26/09/20",
     "decks": [
         {
             "deck_id": "418808",
             "rank": "1",
             "player": "Yang Yang",
+            "winrate": 1.0,
             "commander": [
                 "Thrasios, Triton Hero",
                 "Tymna the Weaver"
@@ -115,6 +120,7 @@
             "deck_id": "418809",
             "rank": "2",
             "player": "He Ying",
+            "winrate": 0.8,
             "commander": [
                 "Omnath, Locus of Creation"
             ],
@@ -217,9 +223,5 @@
                 "1 Shatterskull Smashing"
             ]
         }
-    ],
-    "name": "114th \"New Year Cake\" Cup",
-    "place": "Shanghai (China)",
-    "players": "11 players",
-    "date": "26/09/20"
+    ]
 }

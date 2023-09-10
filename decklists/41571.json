@@ -1,15 +1,19 @@
 {
     "format": "Duel Commander",
-    "id": 41571,
+    "id": "41571",
     "name": "TNDC \"Int. Mother Tongue Day\"",
     "place": "Bolovo Games (Santos, Brasil)",
     "players": "9 players",
     "date": "21/02/23",
     "decks": [
         {
-            "player": "Felipe \"the Raizen\" Santos",
-            "rank": "1",
             "deck_id": "508844",
+            "rank": "1",
+            "player": "Felipe \"the Raizen\" Santos",
+            "winrate": 1.0,
+            "commander": [
+                "Feldon, Ronom Excavator"
+            ],
             "decklist": [
                 "1 Chandra, Dressed to Kill",
                 "1 Ahn-Crop Crasher",
@@ -88,15 +92,16 @@
                 "1 Wild Slash",
                 "1 Wooded Foothills",
                 "1 Zurgo Bellstriker"
-            ],
-            "commander": [
-                "Feldon, Ronom Excavator"
             ]
         },
         {
-            "player": "Orlando Bibiano",
-            "rank": "2",
             "deck_id": "508845",
+            "rank": "2",
+            "player": "Orlando Bibiano",
+            "winrate": 0.8,
+            "commander": [
+                "Kotori, Pilot Prodigy"
+            ],
             "decklist": [
                 "1 Mystic Confluence",
                 "1 Force Spike",
@@ -188,15 +193,16 @@
                 "1 Seachrome Coast",
                 "5 Plains",
                 "6 Island"
-            ],
-            "commander": [
-                "Kotori, Pilot Prodigy"
             ]
         },
         {
-            "player": "Felipe Tavares",
-            "rank": "3",
             "deck_id": "508846",
+            "rank": "3",
+            "player": "Felipe Tavares",
+            "winrate": 0.6,
+            "commander": [
+                "Iname, Death Aspect"
+            ],
             "decklist": [
                 "1 Animate Dead",
                 "1 Arcane Signet",
@@ -270,15 +276,16 @@
                 "1 Verdant Catacombs",
                 "1 Victimize",
                 "1 Worn Powerstone"
-            ],
-            "commander": [
-                "Iname, Death Aspect"
             ]
         },
         {
-            "player": "Gabriel Kawagoe",
-            "rank": "4",
             "deck_id": "508847",
+            "rank": "4",
+            "player": "Gabriel Kawagoe",
+            "winrate": 0.4,
+            "commander": [
+                "Isamaru, Hound of Konda"
+            ],
             "decklist": [
                 "1 Adeline, Resplendent Cathar",
                 "1 Ancient Den",
@@ -358,9 +365,6 @@
                 "1 Vryn Wingmare",
                 "1 War Room",
                 "1 Welcoming Vampire"
-            ],
-            "commander": [
-                "Isamaru, Hound of Konda"
             ]
         }
     ]

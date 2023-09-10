@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "40192",
+    "name": "[RC] 8º Torneio RC",
+    "place": "Tower Of Card (Rio de Janeiro, Brasil)",
+    "players": "16 players",
+    "date": "10/12/22",
     "decks": [
         {
             "deck_id": "499285",
             "rank": "1",
             "player": "Bruno \"bruxão\"",
+            "winrate": 1.0,
             "commander": [
                 "Grenzo, Havoc Raiser"
             ],
@@ -80,6 +85,7 @@
             "deck_id": "499286",
             "rank": "2",
             "player": "Lauro Hanna",
+            "winrate": 0.8,
             "commander": [
                 "Prossh, Skyraider of Kher"
             ],
@@ -167,6 +173,7 @@
             "deck_id": "499287",
             "rank": "3-4",
             "player": "Gabriel Mattos",
+            "winrate": 0.8,
             "commander": [
                 "Ghyrson Starn, Kelermorph"
             ],
@@ -260,6 +267,7 @@
             "deck_id": "499288",
             "rank": "3-4",
             "player": "Clemilson",
+            "winrate": 0.8,
             "commander": [
                 "Light-Paws, Emperor's Voice"
             ],
@@ -336,9 +344,5 @@
                 "1 Giant Killer"
             ]
         }
-    ],
-    "name": "[RC] 8º Torneio RC",
-    "place": "Tower Of Card (Rio de Janeiro, Brasil)",
-    "players": "16 players",
-    "date": "10/12/22"
+    ]
 }

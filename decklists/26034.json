@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "26034",
+    "name": "Duel Commander",
+    "place": "Jeux Barjo (Bordeaux)",
+    "players": "8 players",
+    "date": "07/06/20",
     "decks": [
         {
             "deck_id": "395877",
             "rank": "1",
             "player": "Rodolphe Grabowski",
+            "winrate": 1.0,
             "commander": [
                 "Ghired, Conclave Exile"
             ],
@@ -108,6 +113,7 @@
             "deck_id": "395878",
             "rank": "2",
             "player": "Hugo Dodelin",
+            "winrate": 0.6666666666666666,
             "commander": [
                 "Leovold, Emissary of Trest"
             ],
@@ -213,9 +219,5 @@
                 "1 Day's Undoing"
             ]
         }
-    ],
-    "name": "Duel Commander",
-    "place": "Jeux Barjo (Bordeaux)",
-    "players": "8 players",
-    "date": "07/06/20"
+    ]
 }

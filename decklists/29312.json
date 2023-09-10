@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "29312",
+    "name": "Mini DC Úvaly",
+    "place": "online (Czech Republic)",
+    "players": "11 players",
+    "date": "14/02/21",
     "decks": [
         {
             "deck_id": "430544",
             "rank": "1",
             "player": "Ondrej Hatala",
+            "winrate": 1.0,
             "commander": [
                 "Rograkh, Son of Rohgahh",
                 "Keleth, Sunmane Familiar"
@@ -106,6 +111,7 @@
             "deck_id": "430545",
             "rank": "2",
             "player": "Petr Klima",
+            "winrate": 0.8,
             "commander": [
                 "Rowan Kenrith",
                 "Will Kenrith"
@@ -199,6 +205,7 @@
             "deck_id": "430546",
             "rank": "3",
             "player": "Josef Kumstyr",
+            "winrate": 0.6,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -304,9 +311,5 @@
                 "1 Maze of Ith"
             ]
         }
-    ],
-    "name": "Mini DC Úvaly",
-    "place": "online (Czech Republic)",
-    "players": "11 players",
-    "date": "14/02/21"
+    ]
 }

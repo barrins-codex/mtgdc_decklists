@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "9029",
+    "name": "Duel Commander (New Jersey)",
+    "place": "",
+    "players": "12 players",
+    "date": "30/01/15",
     "decks": [
         {
             "deck_id": "251445",
             "rank": "1",
             "player": "Evan \"Pugglez\" Pollinger",
+            "winrate": 1.0,
             "commander": [
                 "Geist of Saint Traft"
             ],
@@ -105,6 +110,7 @@
             "deck_id": "251446",
             "rank": "2",
             "player": "Tom \"i_b_TRUE\" Metelsky",
+            "winrate": 0.8,
             "commander": [
                 "Grand Arbiter Augustin IV"
             ],
@@ -195,9 +201,5 @@
                 "1 Windswept Heath"
             ]
         }
-    ],
-    "name": "Duel Commander (New Jersey)",
-    "place": "",
-    "players": "12 players",
-    "date": "30/01/15"
+    ]
 }

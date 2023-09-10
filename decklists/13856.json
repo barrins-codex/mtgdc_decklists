@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "13856",
+    "name": "Clash of Commander Titans 11 (Temuco, Chile) [30HP]",
+    "place": "",
+    "players": "11 players",
+    "date": "30/10/16",
     "decks": [
         {
             "deck_id": "281871",
             "rank": "1",
             "player": "Tomas Medina",
+            "winrate": 1.0,
             "commander": [
                 "Narset, Enlightened Master"
             ],
@@ -111,6 +116,7 @@
             "deck_id": "281872",
             "rank": "2",
             "player": "Nicolas Velazquez",
+            "winrate": 0.8,
             "commander": [
                 "Jenara, Asura of War"
             ],
@@ -214,9 +220,5 @@
                 "1 Rhox War Monk"
             ]
         }
-    ],
-    "name": "Clash of Commander Titans 11 (Temuco, Chile) [30HP]",
-    "place": "",
-    "players": "11 players",
-    "date": "30/10/16"
+    ]
 }

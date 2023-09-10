@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "38632",
+    "name": "[RC]",
+    "place": "Cards of Paradise (Vila Kosmos, Brazil)",
+    "players": "18 players",
+    "date": "28/09/22",
     "decks": [
         {
             "deck_id": "488410",
             "rank": "1",
             "player": "Ismael Lessa",
+            "winrate": 1.0,
             "commander": [
                 "Ertai Resurrected"
             ],
@@ -101,6 +106,7 @@
             "deck_id": "488411",
             "rank": "2",
             "player": "Ruan Rangel",
+            "winrate": 0.8,
             "commander": [
                 "Dennick, Pious Apprentice"
             ],
@@ -186,6 +192,7 @@
             "deck_id": "488412",
             "rank": "3-4",
             "player": "Gleison Silva",
+            "winrate": 0.8,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -267,6 +274,7 @@
             "deck_id": "488413",
             "rank": "3-4",
             "player": "Wallace Santos",
+            "winrate": 0.8,
             "commander": [
                 "Kinnan, Bonder Prodigy"
             ],
@@ -348,9 +356,5 @@
                 "1 End-Raze Forerunners"
             ]
         }
-    ],
-    "name": "[RC]",
-    "place": "Cards of Paradise (Vila Kosmos, Brazil)",
-    "players": "18 players",
-    "date": "28/09/22"
+    ]
 }

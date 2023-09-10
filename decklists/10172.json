@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "10172",
+    "name": "EDH",
+    "place": "Academia de Jogos (Brazil)",
+    "players": "44 players",
+    "date": "04/07/15",
     "decks": [
         {
             "deck_id": "258524",
             "rank": "1",
             "player": "Felipe \"JJ\" Dias",
+            "winrate": 0.8888888888888888,
             "commander": [
                 "Thraximundar"
             ],
@@ -107,9 +112,5 @@
                 "4 Island"
             ]
         }
-    ],
-    "name": "EDH",
-    "place": "Academia de Jogos (Brazil)",
-    "players": "44 players",
-    "date": "04/07/15"
+    ]
 }

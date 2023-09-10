@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "39979",
+    "name": "TNDC \"Saint Nicholas Day\"",
+    "place": "Caverna do Dragão (Santos, Brasil)",
+    "players": "21 players",
+    "date": "06/12/22",
     "decks": [
         {
             "deck_id": "497711",
             "rank": "1",
             "player": "William Graciani",
+            "winrate": 1.0,
             "commander": [
                 "Niv-Mizzet Reborn"
             ],
@@ -115,6 +120,7 @@
             "deck_id": "497712",
             "rank": "2",
             "player": "Felipe \"theraizen\" Santos",
+            "winrate": 0.8,
             "commander": [
                 "Sheoldred, the Apocalypse"
             ],
@@ -202,6 +208,7 @@
             "deck_id": "497713",
             "rank": "3-4",
             "player": "Rafael Ozores",
+            "winrate": 0.8,
             "commander": [
                 "Feldon, Ronom Excavator"
             ],
@@ -285,6 +292,7 @@
             "deck_id": "497714",
             "rank": "3-4",
             "player": "Pablo Lima",
+            "winrate": 0.8,
             "commander": [
                 "Feldon, Ronom Excavator"
             ],
@@ -363,9 +371,5 @@
                 "28 Snow-Covered Mountain"
             ]
         }
-    ],
-    "name": "TNDC \"Saint Nicholas Day\"",
-    "place": "Caverna do Dragão (Santos, Brasil)",
-    "players": "21 players",
-    "date": "06/12/22"
+    ]
 }

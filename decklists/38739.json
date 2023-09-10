@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "38739",
+    "name": "17º Torneio Cachoeiro",
+    "place": "Cripta de Mana (Cachoeiro de Itapemirim, Brazil)",
+    "players": "14 players",
+    "date": "28/09/22",
     "decks": [
         {
             "deck_id": "489139",
             "rank": "1",
             "player": "Talmo Lucas",
+            "winrate": 1.0,
             "commander": [
                 "Light-Paws, Emperor's Voice"
             ],
@@ -84,6 +89,7 @@
             "deck_id": "489140",
             "rank": "2",
             "player": "Flávio Guio",
+            "winrate": 0.8,
             "commander": [
                 "Tivit, Seller of Secrets"
             ],
@@ -181,6 +187,7 @@
             "deck_id": "489141",
             "rank": "3",
             "player": "Alan Santos",
+            "winrate": 0.6,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -261,6 +268,7 @@
             "deck_id": "489142",
             "rank": "4",
             "player": "Yago Leal",
+            "winrate": 0.6,
             "commander": [
                 "Tergrid, God of Fright"
             ],
@@ -332,9 +340,5 @@
                 "35 Swamp"
             ]
         }
-    ],
-    "name": "17º Torneio Cachoeiro",
-    "place": "Cripta de Mana (Cachoeiro de Itapemirim, Brazil)",
-    "players": "14 players",
-    "date": "28/09/22"
+    ]
 }

@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "8647",
+    "name": "7th Commander 1x1 Bob's (Rio de Janeiro, Brazil)",
+    "place": "",
+    "players": "8 players",
+    "date": "28/11/14",
     "decks": [
         {
             "deck_id": "249431",
             "rank": "1",
             "player": "Fernando Secco",
+            "winrate": 1.0,
             "commander": [
                 "Daretti, Scrap Savant"
             ],
@@ -89,9 +94,5 @@
                 "23 Mountain"
             ]
         }
-    ],
-    "name": "7th Commander 1x1 Bob's (Rio de Janeiro, Brazil)",
-    "place": "",
-    "players": "8 players",
-    "date": "28/11/14"
+    ]
 }

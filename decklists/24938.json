@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "24938",
+    "name": "1st Duel Saturday",
+    "place": "TCG Warehouse (Leipzig)",
+    "players": "8 players",
+    "date": "07/03/20",
     "decks": [
         {
             "deck_id": "374564",
             "rank": "1",
             "player": "Sebastian Kött",
+            "winrate": 1.0,
             "commander": [
                 "Selvala, Heart of the Wilds"
             ],
@@ -90,6 +95,7 @@
             "deck_id": "374565",
             "rank": "2",
             "player": "Jonas Jörns",
+            "winrate": 0.6666666666666666,
             "commander": [
                 "Titania, Protector of Argoth"
             ],
@@ -183,9 +189,5 @@
                 "1 Arbor Elf"
             ]
         }
-    ],
-    "name": "1st Duel Saturday",
-    "place": "TCG Warehouse (Leipzig)",
-    "players": "8 players",
-    "date": "07/03/20"
+    ]
 }

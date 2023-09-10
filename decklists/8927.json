@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "8927",
+    "name": "17th \"New Year Cake\" Cup (Shanghai)",
+    "place": "",
+    "players": "14 players",
+    "date": "03/01/15",
     "decks": [
         {
             "deck_id": "250936",
             "rank": "1",
             "player": "Li Duoyan",
+            "winrate": 1.0,
             "commander": [
                 "Daretti, Scrap Savant"
             ],
@@ -92,6 +97,7 @@
             "deck_id": "250937",
             "rank": "2",
             "player": "Li Yijie",
+            "winrate": 0.8,
             "commander": [
                 "Yisan, the Wanderer Bard"
             ],
@@ -173,9 +179,5 @@
                 "25 Snow-Covered Forest"
             ]
         }
-    ],
-    "name": "17th \"New Year Cake\" Cup (Shanghai)",
-    "place": "",
-    "players": "14 players",
-    "date": "03/01/15"
+    ]
 }

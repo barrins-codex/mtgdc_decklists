@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "24103",
+    "name": "Saturday Duel Commander",
+    "place": "Fulcrum ESports (Philippines)",
+    "players": "8 players",
+    "date": "21/12/19",
     "decks": [
         {
             "deck_id": "368200",
             "rank": "1",
             "player": "Epi Ibanez",
+            "winrate": 1.0,
             "commander": [
                 "Tymna the Weaver",
                 "Kraum, Ludevic's Opus"
@@ -115,6 +120,7 @@
             "deck_id": "368201",
             "rank": "2",
             "player": "Martin John Ogayon",
+            "winrate": 0.6666666666666666,
             "commander": [
                 "Queen Marchesa"
             ],
@@ -220,9 +226,5 @@
                 "1 Wooded Foothills"
             ]
         }
-    ],
-    "name": "Saturday Duel Commander",
-    "place": "Fulcrum ESports (Philippines)",
-    "players": "8 players",
-    "date": "21/12/19"
+    ]
 }

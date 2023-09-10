@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "15382",
+    "name": "FNM Hiveworld",
+    "place": "",
+    "players": "8 players",
+    "date": "29/04/17",
     "decks": [
         {
             "deck_id": "293580",
             "rank": "1",
             "player": "Sebastian Haines",
+            "winrate": 1.0,
             "commander": [
                 "Leovold, Emissary of Trest"
             ],
@@ -115,6 +120,7 @@
             "deck_id": "293581",
             "rank": "2",
             "player": "Richard Müller",
+            "winrate": 0.6666666666666666,
             "commander": [
                 "Prossh, Skyraider of Kher"
             ],
@@ -205,9 +211,5 @@
                 "1 Sakura-Tribe Elder"
             ]
         }
-    ],
-    "name": "FNM Hiveworld",
-    "place": "",
-    "players": "8 players",
-    "date": "29/04/17"
+    ]
 }

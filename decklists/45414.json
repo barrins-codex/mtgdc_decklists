@@ -1,15 +1,19 @@
 {
     "format": "Duel Commander",
-    "id": 45414,
+    "id": "45414",
     "name": "RJ Cup 2023#20",
     "place": "League Castle (Mong Kok, Hong Kong)",
     "players": "8 players",
     "date": "17/06/23",
     "decks": [
         {
-            "player": "Benjamin Lau",
-            "rank": "1",
             "deck_id": "535701",
+            "rank": "1",
+            "player": "Benjamin Lau",
+            "winrate": 1.0,
+            "commander": [
+                "The Beamtown Bullies"
+            ],
             "decklist": [
                 "1 Bonecrusher Giant",
                 "1 Invasion of Ikoria",
@@ -107,15 +111,17 @@
                 "1 Wooded Foothills",
                 "1 Yavimaya, Cradle of Growth",
                 "1 Ziatora's Proving Ground"
-            ],
-            "commander": [
-                "The Beamtown Bullies"
             ]
         },
         {
-            "player": "Wilson Lai",
-            "rank": "2",
             "deck_id": "535702",
+            "rank": "2",
+            "player": "Wilson Lai",
+            "winrate": 0.6666666666666666,
+            "commander": [
+                "Tana, the Bloodsower",
+                "Yoshimaru, Ever Faithful"
+            ],
             "decklist": [
                 "1 Adeline, Resplendent Cathar",
                 "1 Arid Mesa",
@@ -215,10 +221,6 @@
                 "1 Kytheon, Hero of Akros",
                 "1 Legion's Landing",
                 "1 Remorseful Cleric"
-            ],
-            "commander": [
-                "Tana, the Bloodsower",
-                "Yoshimaru, Ever Faithful"
             ]
         }
     ]

@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "19545",
+    "name": "DCM Double Elim 02",
+    "place": "",
+    "players": "8 players",
+    "date": "02/07/18",
     "decks": [
         {
             "deck_id": "325093",
             "rank": "1",
             "player": "Rudyards",
+            "winrate": 1.0,
             "commander": [
                 "Ob Nixilis, the Fallen"
             ],
@@ -92,9 +97,5 @@
                 "1 To the Slaughter"
             ]
         }
-    ],
-    "name": "DCM Double Elim 02",
-    "place": "",
-    "players": "8 players",
-    "date": "02/07/18"
+    ]
 }

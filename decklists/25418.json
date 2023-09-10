@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "25418",
+    "name": "2nd Xmage Quarantine League",
+    "place": "Leipzig",
+    "players": "8 players",
+    "date": "26/04/20",
     "decks": [
         {
             "deck_id": "382723",
             "rank": "1",
             "player": "Jonas Kretzschmar",
+            "winrate": 1.0,
             "commander": [
                 "Reyhan, Last of the Abzan",
                 "Akiri, Line-Slinger"
@@ -115,6 +120,7 @@
             "deck_id": "382724",
             "rank": "2",
             "player": "Sebastian Nußbaum",
+            "winrate": 0.6666666666666666,
             "commander": [
                 "Leovold, Emissary of Trest"
             ],
@@ -220,9 +226,5 @@
                 "1 Spell Snare"
             ]
         }
-    ],
-    "name": "2nd Xmage Quarantine League",
-    "place": "Leipzig",
-    "players": "8 players",
-    "date": "26/04/20"
+    ]
 }

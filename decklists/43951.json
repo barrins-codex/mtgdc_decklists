@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "43951",
+    "name": "Sunday Night Classics",
+    "place": "HBK (Antipolo, Philippines)",
+    "players": "11 players",
+    "date": "30/04/23",
     "decks": [
         {
             "deck_id": "524324",
             "rank": "1",
             "player": "Patrick Paolo Patapat",
+            "winrate": 1.0,
             "commander": [
                 "Feldon, Ronom Excavator"
             ],
@@ -87,6 +92,7 @@
             "deck_id": "524325",
             "rank": "2",
             "player": "Dexter Sienes",
+            "winrate": 0.8,
             "commander": [
                 "Feldon, Ronom Excavator"
             ],
@@ -167,9 +173,5 @@
                 "1 Seal of Fire"
             ]
         }
-    ],
-    "name": "Sunday Night Classics",
-    "place": "HBK (Antipolo, Philippines)",
-    "players": "11 players",
-    "date": "30/04/23"
+    ]
 }

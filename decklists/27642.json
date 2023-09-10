@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "27642",
+    "name": "115th \"New Year Cake\" Cup",
+    "place": "Shanghai (China)",
+    "players": "10 players",
+    "date": "07/10/20",
     "decks": [
         {
             "deck_id": "419568",
             "rank": "1",
             "player": "Yao Yao",
+            "winrate": 1.0,
             "commander": [
                 "Omnath, Locus of Creation"
             ],
@@ -110,6 +115,7 @@
             "deck_id": "419569",
             "rank": "2",
             "player": "Shen Junkai",
+            "winrate": 0.8,
             "commander": [
                 "Hogaak, Arisen Necropolis"
             ],
@@ -215,9 +221,5 @@
                 "1 Snow-Covered Swamp"
             ]
         }
-    ],
-    "name": "115th \"New Year Cake\" Cup",
-    "place": "Shanghai (China)",
-    "players": "10 players",
-    "date": "07/10/20"
+    ]
 }

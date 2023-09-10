@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "32873",
+    "name": "Duel Commander",
+    "place": "Fulcrum ESports (Cainta, Philippines)",
+    "players": "8 players",
+    "date": "17/10/21",
     "decks": [
         {
             "deck_id": "451801",
             "rank": "1",
             "player": "Cilbert Corpuz",
+            "winrate": 1.0,
             "commander": [
                 "Isamaru, Hound of Konda"
             ],
@@ -94,6 +99,7 @@
             "deck_id": "451802",
             "rank": "2",
             "player": "Mark Madrid",
+            "winrate": 0.6666666666666666,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -169,9 +175,5 @@
                 "1 Volcanic Hammer"
             ]
         }
-    ],
-    "name": "Duel Commander",
-    "place": "Fulcrum ESports (Cainta, Philippines)",
-    "players": "8 players",
-    "date": "17/10/21"
+    ]
 }

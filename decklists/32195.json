@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "32195",
+    "name": "Tolarian Summer Tournament #2",
+    "place": "Pardubice (CZE)",
+    "players": "33 players",
+    "date": "28/08/21",
     "decks": [
         {
             "deck_id": "447927",
             "rank": "1",
             "player": "David \"anki\" Tran",
+            "winrate": 0.7777777777777778,
             "commander": [
                 "Kess, Dissident Mage"
             ],
@@ -115,6 +120,7 @@
             "deck_id": "447928",
             "rank": "2",
             "player": "Jiri Vancata",
+            "winrate": 0.6666666666666666,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -199,6 +205,7 @@
             "deck_id": "447929",
             "rank": "3",
             "player": "Jakub \"krabadur\" Hromek",
+            "winrate": 0.625,
             "commander": [
                 "Yawgmoth, Thran Physician"
             ],
@@ -279,6 +286,7 @@
             "deck_id": "447930",
             "rank": "4",
             "player": "Roman Vejdelek",
+            "winrate": 0.625,
             "commander": [
                 "Livio, Oathsworn Sentinel",
                 "Kraum, Ludevic's Opus"
@@ -388,6 +396,7 @@
             "deck_id": "447931",
             "rank": "5",
             "player": "Jakub Havelka",
+            "winrate": 0.625,
             "commander": [
                 "Winota, Joiner of Forces"
             ],
@@ -489,6 +498,7 @@
             "deck_id": "447932",
             "rank": "6",
             "player": "Ivo Novacek",
+            "winrate": 0.625,
             "commander": [
                 "Winota, Joiner of Forces"
             ],
@@ -587,6 +597,7 @@
             "deck_id": "447933",
             "rank": "7",
             "player": "Jan Harovnik",
+            "winrate": 0.625,
             "commander": [
                 "Adeliz, the Cinder Wind"
             ],
@@ -683,6 +694,7 @@
             "deck_id": "447934",
             "rank": "8",
             "player": "Jiri Obraz",
+            "winrate": 0.625,
             "commander": [
                 "Tevesh Szat, Doom of Fools",
                 "Tana, the Bloodsower"
@@ -775,9 +787,5 @@
                 "14 Snow-Covered Swamp"
             ]
         }
-    ],
-    "name": "Tolarian Summer Tournament #2",
-    "place": "Pardubice (CZE)",
-    "players": "33 players",
-    "date": "28/08/21"
+    ]
 }

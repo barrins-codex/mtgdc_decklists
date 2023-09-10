@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "38935",
+    "name": "Duel Day",
+    "place": "Manabolt (Limeira, Brasil)",
+    "players": "10 players",
+    "date": "15/10/22",
     "decks": [
         {
             "deck_id": "490437",
             "rank": "1",
             "player": "Victor Marques",
+            "winrate": 1.0,
             "commander": [
                 "Sai, Master Thopterist"
             ],
@@ -93,6 +98,7 @@
             "deck_id": "490438",
             "rank": "2",
             "player": "Conja",
+            "winrate": 0.8,
             "commander": [
                 "Juri, Master of the Revue"
             ],
@@ -192,6 +198,7 @@
             "deck_id": "490439",
             "rank": "3",
             "player": "Lucas Felix",
+            "winrate": 0.6,
             "commander": [
                 "Wilson, Refined Grizzly",
                 "Noble Heritage"
@@ -293,6 +300,7 @@
             "deck_id": "490440",
             "rank": "4",
             "player": "Rafael Georgetti",
+            "winrate": 0.6,
             "commander": [
                 "Acererak the Archlich"
             ],
@@ -363,9 +371,5 @@
                 "36 Swamp"
             ]
         }
-    ],
-    "name": "Duel Day",
-    "place": "Manabolt (Limeira, Brasil)",
-    "players": "10 players",
-    "date": "15/10/22"
+    ]
 }

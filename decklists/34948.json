@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "34948",
+    "name": "Weekly Event",
+    "place": "Mana Underground (Lagro, Philippines)",
+    "players": "12 players",
+    "date": "25/02/22",
     "decks": [
         {
             "deck_id": "464364",
             "rank": "1",
             "player": "Chris Sta. Maria",
+            "winrate": 1.0,
             "commander": [
                 "Lurrus of the Dream-Den",
                 "Karlov of the Ghost Council"
@@ -109,6 +114,7 @@
             "deck_id": "464365",
             "rank": "2",
             "player": "Michael Dasalla",
+            "winrate": 0.8,
             "commander": [
                 "Light-Paws, Emperor's Voice"
             ],
@@ -192,9 +198,5 @@
                 "23 Snow-Covered Plains"
             ]
         }
-    ],
-    "name": "Weekly Event",
-    "place": "Mana Underground (Lagro, Philippines)",
-    "players": "12 players",
-    "date": "25/02/22"
+    ]
 }

@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "40693",
+    "name": "Wool Cup 53",
+    "place": "Kadou (Beijing, China)",
+    "players": "23 players",
+    "date": "15/01/23",
     "decks": [
         {
             "deck_id": "502736",
             "rank": "1",
             "player": "Ruiyuan Shao",
+            "winrate": 1.0,
             "commander": [
                 "Dihada, Binder of Wills"
             ],
@@ -115,6 +120,7 @@
             "deck_id": "502737",
             "rank": "2",
             "player": "Yixuan Gao",
+            "winrate": 0.8,
             "commander": [
                 "Esika, God of the Tree"
             ],
@@ -224,6 +230,7 @@
             "deck_id": "502738",
             "rank": "3",
             "player": "Xu Han",
+            "winrate": 0.8,
             "commander": [
                 "Niv-Mizzet Reborn"
             ],
@@ -333,6 +340,7 @@
             "deck_id": "502739",
             "rank": "4",
             "player": "Di Wang",
+            "winrate": 0.6,
             "commander": [
                 "Ludevic, Necro-Alchemist",
                 "Yoshimaru, Ever Faithful"
@@ -431,9 +439,5 @@
                 "1 Zurgo Bellstriker"
             ]
         }
-    ],
-    "name": "Wool Cup 53",
-    "place": "Kadou (Beijing, China)",
-    "players": "23 players",
-    "date": "15/01/23"
+    ]
 }

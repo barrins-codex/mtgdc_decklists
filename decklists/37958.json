@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "37958",
+    "name": "Mardi  DC :)",
+    "place": "L'Arène des Dieux (Québec, Québec)",
+    "players": "11 players",
+    "date": "16/08/22",
     "decks": [
         {
             "deck_id": "483992",
             "rank": "1",
             "player": "Jean-raphael Fillion",
+            "winrate": 1.0,
             "commander": [
                 "Muldrotha, the Gravetide"
             ],
@@ -98,6 +103,7 @@
             "deck_id": "483993",
             "rank": "2",
             "player": "Gabriel Berlinguette",
+            "winrate": 0.8,
             "commander": [
                 "Questing Beast"
             ],
@@ -177,6 +183,7 @@
             "deck_id": "483994",
             "rank": "3",
             "player": "Vincent Gaumond",
+            "winrate": 0.6,
             "commander": [
                 "General Ferrous Rokiric"
             ],
@@ -269,6 +276,7 @@
             "deck_id": "483995",
             "rank": "4",
             "player": "Pier-luc Tremblay",
+            "winrate": 0.6,
             "commander": [
                 "Korvold, Fae-Cursed King"
             ],
@@ -368,9 +376,5 @@
                 "5 Forest"
             ]
         }
-    ],
-    "name": "Mardi  DC :)",
-    "place": "L'Arène des Dieux (Québec, Québec)",
-    "players": "11 players",
-    "date": "16/08/22"
+    ]
 }

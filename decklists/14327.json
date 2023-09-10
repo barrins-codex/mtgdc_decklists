@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "14327",
+    "name": "La Bulle à Jeux (Nice, France)",
+    "place": "",
+    "players": "8 players",
+    "date": "22/12/16",
     "decks": [
         {
             "deck_id": "285527",
             "rank": "1",
             "player": "Laurent \"Bango\"",
+            "winrate": 1.0,
             "commander": [
                 "Zurgo Bellstriker"
             ],
@@ -82,9 +87,5 @@
                 "1 Ire Shaman"
             ]
         }
-    ],
-    "name": "La Bulle à Jeux (Nice, France)",
-    "place": "",
-    "players": "8 players",
-    "date": "22/12/16"
+    ]
 }

@@ -1,15 +1,19 @@
 {
     "format": "Duel Commander",
-    "id": 46669,
+    "id": "46669",
     "name": "Galaxy Cup #11",
     "place": "Naya (Jinan, China)",
     "players": "9 players",
     "date": "12/08/23",
     "decks": [
         {
-            "player": "Yang Jinlin",
-            "rank": "1",
             "deck_id": "544840",
+            "rank": "1",
+            "player": "Yang Jinlin",
+            "winrate": 1.0,
+            "commander": [
+                "Feldon, Ronom Excavator"
+            ],
             "decklist": [
                 "1 Laelia, the Blade Reforged",
                 "1 Icehide Golem",
@@ -87,15 +91,16 @@
                 "1 Sulfuric Vortex",
                 "1 Chandra, Dressed to Kill",
                 "1 Chandra, Torch of Defiance"
-            ],
-            "commander": [
-                "Feldon, Ronom Excavator"
             ]
         },
         {
-            "player": "Chu Xiaoyi",
-            "rank": "2",
             "deck_id": "544841",
+            "rank": "2",
+            "player": "Chu Xiaoyi",
+            "winrate": 0.8,
+            "commander": [
+                "Tivit, Seller of Secrets"
+            ],
             "decklist": [
                 "1 Archmage's Charm",
                 "1 Arid Mesa",
@@ -196,9 +201,6 @@
                 "1 Wash Away",
                 "1 Watery Grave",
                 "1 Windswept Heath"
-            ],
-            "commander": [
-                "Tivit, Seller of Secrets"
             ]
         }
     ]

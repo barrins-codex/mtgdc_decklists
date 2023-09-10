@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "26450",
+    "name": "Duel commander des cafards",
+    "place": "Le Vizz (Rouen, France)",
+    "players": "11 players",
+    "date": "05/07/20",
     "decks": [
         {
             "deck_id": "402958",
             "rank": "1",
             "player": "Martial Benoit",
+            "winrate": 1.0,
             "commander": [
                 "Grenzo, Dungeon Warden"
             ],
@@ -99,9 +104,5 @@
                 "1 Imperial Recruiter"
             ]
         }
-    ],
-    "name": "Duel commander des cafards",
-    "place": "Le Vizz (Rouen, France)",
-    "players": "11 players",
-    "date": "05/07/20"
+    ]
 }

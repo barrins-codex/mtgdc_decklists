@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "9604",
+    "name": "Duel Commander (Teplice, Czech Republic)",
+    "place": "",
+    "players": "8 players",
+    "date": "26/04/15",
     "decks": [
         {
             "deck_id": "255150",
             "rank": "1",
             "player": "Vit Tiser",
+            "winrate": 1.0,
             "commander": [
                 "Geist of Saint Traft"
             ],
@@ -102,9 +107,5 @@
                 "1 Jace, the Mind Sculptor"
             ]
         }
-    ],
-    "name": "Duel Commander (Teplice, Czech Republic)",
-    "place": "",
-    "players": "8 players",
-    "date": "26/04/15"
+    ]
 }

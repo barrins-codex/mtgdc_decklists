@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "44956",
+    "name": "Wool Cup for fun",
+    "place": "Kadou (Beijing, China)",
+    "players": "11 players",
+    "date": "03/06/23",
     "decks": [
         {
             "deck_id": "531891",
             "rank": "1",
             "player": "Ruiyuan Shao",
+            "winrate": 1.0,
             "commander": [
                 "Slimefoot and Squee"
             ],
@@ -115,6 +120,7 @@
             "deck_id": "531892",
             "rank": "2",
             "player": "Hongchen Zhang",
+            "winrate": 0.8,
             "commander": [
                 "Samut, Vizier of Naktamun"
             ],
@@ -210,9 +216,5 @@
                 "7 Mountain"
             ]
         }
-    ],
-    "name": "Wool Cup for fun",
-    "place": "Kadou (Beijing, China)",
-    "players": "11 players",
-    "date": "03/06/23"
+    ]
 }

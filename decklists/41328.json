@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "41328",
+    "name": "DC mensuel JSST",
+    "place": "Nice (France)",
+    "players": "10 players",
+    "date": "11/02/23",
     "decks": [
         {
             "deck_id": "507066",
             "rank": "1",
             "player": "Will B",
+            "winrate": 1.0,
             "commander": [
                 "Dihada, Binder of Wills"
             ],
@@ -115,6 +120,7 @@
             "deck_id": "507067",
             "rank": "2",
             "player": "Laurent O",
+            "winrate": 0.8,
             "commander": [
                 "Grist, the Hunger Tide"
             ],
@@ -212,9 +218,5 @@
                 "8 Forest"
             ]
         }
-    ],
-    "name": "DC mensuel JSST",
-    "place": "Nice (France)",
-    "players": "10 players",
-    "date": "11/02/23"
+    ]
 }

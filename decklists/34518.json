@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "34518",
+    "name": "Fourtnight #3",
+    "place": "Epic Level (São José do Rio Preto, Brazil)",
+    "players": "14 players",
+    "date": "29/01/22",
     "decks": [
         {
             "deck_id": "461842",
             "rank": "1",
             "player": "João Gabriel",
+            "winrate": 1.0,
             "commander": [
                 "Grazilaxx, Illithid Scholar"
             ],
@@ -91,6 +96,7 @@
             "deck_id": "461843",
             "rank": "2",
             "player": "Thiago Viudes",
+            "winrate": 0.8,
             "commander": [
                 "Klothys, God of Destiny"
             ],
@@ -169,6 +175,7 @@
             "deck_id": "461844",
             "rank": "3-4",
             "player": "Tiago Coimbra",
+            "winrate": 0.6,
             "commander": [
                 "Hogaak, Arisen Necropolis"
             ],
@@ -277,6 +284,7 @@
             "deck_id": "461845",
             "rank": "3-4",
             "player": "Carlos Eduardo",
+            "winrate": 0.6,
             "commander": [
                 "Octavia, Living Thesis"
             ],
@@ -361,9 +369,5 @@
                 "1 Force of Will"
             ]
         }
-    ],
-    "name": "Fourtnight #3",
-    "place": "Epic Level (São José do Rio Preto, Brazil)",
-    "players": "14 players",
-    "date": "29/01/22"
+    ]
 }

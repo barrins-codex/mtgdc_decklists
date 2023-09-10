@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
-    "id": 45947,
+    "id": "45947",
+    "name": "Weekly DC",
+    "place": "Slow Drake (Beijing, China)",
+    "players": "13 players",
+    "date": "15/07/23",
     "decks": [
         {
             "deck_id": "539485",
             "rank": "1",
             "player": "John Wang",
+            "winrate": 1.0,
             "commander": [
                 "Grist, the Hunger Tide"
             ],
@@ -104,6 +109,7 @@
             "deck_id": "539486",
             "rank": "2",
             "player": "Xiangjun Dai",
+            "winrate": 0.8,
             "commander": [
                 "Dennick, Pious Apprentice"
             ],
@@ -200,9 +206,5 @@
                 "1 Windswept Heath"
             ]
         }
-    ],
-    "name": "Weekly DC",
-    "place": "Slow Drake (Beijing, China)",
-    "players": "13 players",
-    "date": "15/07/23"
+    ]
 }

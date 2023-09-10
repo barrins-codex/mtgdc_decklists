@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "9067",
+    "name": "Duel Commander #2 (New Jersey)",
+    "place": "",
+    "players": "11 players",
+    "date": "07/02/15",
     "decks": [
         {
             "deck_id": "251670",
             "rank": "1",
             "player": "Evan \"Pugglez\" Pollinger",
+            "winrate": 1.0,
             "commander": [
                 "Geist of Saint Traft"
             ],
@@ -105,6 +110,7 @@
             "deck_id": "251671",
             "rank": "2",
             "player": "Tom \"i_b_TRUE\" Metelsky",
+            "winrate": 0.8,
             "commander": [
                 "Prossh, Skyraider of Kher"
             ],
@@ -210,9 +216,5 @@
                 "1 Woodland Cemetery"
             ]
         }
-    ],
-    "name": "Duel Commander #2 (New Jersey)",
-    "place": "",
-    "players": "11 players",
-    "date": "07/02/15"
+    ]
 }

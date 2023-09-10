@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "35297",
+    "name": "DC Weekly",
+    "place": "Mana Underground (Lagro, Philippines)",
+    "players": "16 players",
+    "date": "19/03/22",
     "decks": [
         {
             "deck_id": "466811",
             "rank": "1",
             "player": "Glenn Alesna",
+            "winrate": 1.0,
             "commander": [
                 "Jeska, Thrice Reborn",
                 "Bruse Tarl, Boorish Herder"
@@ -108,6 +113,7 @@
             "deck_id": "466812",
             "rank": "2",
             "player": "Exequiel 'pando' Lim",
+            "winrate": 0.8,
             "commander": [
                 "Titania, Protector of Argoth"
             ],
@@ -199,9 +205,5 @@
                 "1 Zuran Orb"
             ]
         }
-    ],
-    "name": "DC Weekly",
-    "place": "Mana Underground (Lagro, Philippines)",
-    "players": "16 players",
-    "date": "19/03/22"
+    ]
 }

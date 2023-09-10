@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "39324",
+    "name": "Autumn League",
+    "place": "Barcelona",
+    "players": "8 players",
+    "date": "05/11/22",
     "decks": [
         {
             "deck_id": "492786",
             "rank": "1",
             "player": "Marcos",
+            "winrate": 1.0,
             "commander": [
                 "Tivit, Seller of Secrets"
             ],
@@ -115,6 +120,7 @@
             "deck_id": "492787",
             "rank": "2",
             "player": "Andreu",
+            "winrate": 0.6666666666666666,
             "commander": [
                 "Octavia, Living Thesis"
             ],
@@ -199,9 +205,5 @@
                 "22 Island"
             ]
         }
-    ],
-    "name": "Autumn League",
-    "place": "Barcelona",
-    "players": "8 players",
-    "date": "05/11/22"
+    ]
 }

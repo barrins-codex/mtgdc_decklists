@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
-    "id": 46002,
+    "id": "46002",
+    "name": "Lachesis Cup",
+    "place": "Nice Club (Wuxi, China)",
+    "players": "8 players",
+    "date": "15/07/23",
     "decks": [
         {
             "deck_id": "539913",
             "rank": "1",
             "player": "Dawei,gu",
+            "winrate": 1.0,
             "commander": [
                 "Wilson, Refined Grizzly",
                 "Sword Coast Sailor"
@@ -113,6 +118,7 @@
             "deck_id": "539914",
             "rank": "2",
             "player": "Jiawei,chen",
+            "winrate": 0.6666666666666666,
             "commander": [
                 "Aragorn, King of Gondor"
             ],
@@ -217,9 +223,5 @@
                 "1 Wooded Foothills"
             ]
         }
-    ],
-    "name": "Lachesis Cup",
-    "place": "Nice Club (Wuxi, China)",
-    "players": "8 players",
-    "date": "15/07/23"
+    ]
 }

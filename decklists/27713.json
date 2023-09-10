@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "27713",
+    "name": "Duel Commander",
+    "place": "Sortileges (Vannes, France)",
+    "players": "12 players",
+    "date": "10/10/20",
     "decks": [
         {
             "deck_id": "420085",
             "rank": "1",
             "player": "Guillemot Cédric",
+            "winrate": 1.0,
             "commander": [
                 "The Gitrog Monster"
             ],
@@ -103,6 +108,7 @@
             "deck_id": "420086",
             "rank": "2",
             "player": "Yann Miel",
+            "winrate": 0.8,
             "commander": [
                 "Isamaru, Hound of Konda"
             ],
@@ -187,6 +193,7 @@
             "deck_id": "420087",
             "rank": "3-4",
             "player": "Corentin Chesnais",
+            "winrate": 0.6,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -265,6 +272,7 @@
             "deck_id": "420088",
             "rank": "3-4",
             "player": "Thibaut Le Godec",
+            "winrate": 0.6,
             "commander": [
                 "Kess, Dissident Mage"
             ],
@@ -366,9 +374,5 @@
                 "1 Volcanic Island"
             ]
         }
-    ],
-    "name": "Duel Commander",
-    "place": "Sortileges (Vannes, France)",
-    "players": "12 players",
-    "date": "10/10/20"
+    ]
 }

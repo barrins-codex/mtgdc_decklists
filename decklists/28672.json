@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "28672",
+    "name": "RJ Cup",
+    "place": "League Castle (Mong Kok, Hong Kong)",
+    "players": "10 players",
+    "date": "25/12/20",
     "decks": [
         {
             "deck_id": "426397",
             "rank": "1",
             "player": "Man Lok Wong",
+            "winrate": 1.0,
             "commander": [
                 "Jeska, Thrice Reborn",
                 "Esior, Wardwing Familiar"
@@ -110,6 +115,7 @@
             "deck_id": "426398",
             "rank": "2",
             "player": "Sam Liu",
+            "winrate": 0.8,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -191,9 +197,5 @@
                 "25 Mountain"
             ]
         }
-    ],
-    "name": "RJ Cup",
-    "place": "League Castle (Mong Kok, Hong Kong)",
-    "players": "10 players",
-    "date": "25/12/20"
+    ]
 }

@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "14113",
+    "name": "Le Temple du Jeu Rennes",
+    "place": "",
+    "players": "21 players",
+    "date": "26/11/16",
     "decks": [
         {
             "deck_id": "283942",
             "rank": "1",
             "player": "Tim Courant",
+            "winrate": 1.0,
             "commander": [
                 "Zurgo Bellstriker"
             ],
@@ -83,6 +88,7 @@
             "deck_id": "283943",
             "rank": "2",
             "player": "Ewen Raude",
+            "winrate": 0.8,
             "commander": [
                 "Jace, Vryn's Prodigy"
             ],
@@ -156,9 +162,5 @@
                 "33 Island"
             ]
         }
-    ],
-    "name": "Le Temple du Jeu Rennes",
-    "place": "",
-    "players": "21 players",
-    "date": "26/11/16"
+    ]
 }

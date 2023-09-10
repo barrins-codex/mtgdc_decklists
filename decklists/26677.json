@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "26677",
+    "name": "[DDL] Lounge League",
+    "place": "Schalthaus (Darmstadt)",
+    "players": "9 players",
+    "date": "21/07/20",
     "decks": [
         {
             "deck_id": "406556",
             "rank": "1",
             "player": "Markus S.",
+            "winrate": 1.0,
             "commander": [
                 "Kroxa, Titan of Death's Hunger"
             ],
@@ -101,6 +106,7 @@
             "deck_id": "406557",
             "rank": "2",
             "player": "Samuel Z.",
+            "winrate": 0.8,
             "commander": [
                 "Akiri, Line-Slinger",
                 "Thrasios, Triton Hero"
@@ -206,9 +212,5 @@
                 "1 Plateau"
             ]
         }
-    ],
-    "name": "[DDL] Lounge League",
-    "place": "Schalthaus (Darmstadt)",
-    "players": "9 players",
-    "date": "21/07/20"
+    ]
 }

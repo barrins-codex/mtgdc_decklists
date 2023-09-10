@@ -1,15 +1,19 @@
 {
     "format": "Duel Commander",
-    "id": 45496,
+    "id": "45496",
     "name": "Duel Dragon",
     "place": "The Dragon Shop (Caruaru, Brasil)",
     "players": "8 players",
     "date": "24/06/23",
     "decks": [
         {
-            "player": "Bruno",
-            "rank": "1",
             "deck_id": "536241",
+            "rank": "1",
+            "player": "Bruno",
+            "winrate": 1.0,
+            "commander": [
+                "Ertai Resurrected"
+            ],
             "decklist": [
                 "1 Ancestral Vision",
                 "1 Change the Equation",
@@ -100,15 +104,17 @@
                 "1 Cryptic Command",
                 "1 Counterspell",
                 "1 Command Tower"
-            ],
-            "commander": [
-                "Ertai Resurrected"
             ]
         },
         {
-            "player": "Thiago",
-            "rank": "2",
             "deck_id": "536242",
+            "rank": "2",
+            "player": "Thiago",
+            "winrate": 0.6666666666666666,
+            "commander": [
+                "Yoshimaru, Ever Faithful",
+                "Tana, the Bloodsower"
+            ],
             "decklist": [
                 "1 Hope of Ghirapur",
                 "1 Hajar, Loyal Bodyguard",
@@ -208,10 +214,6 @@
                 "1 Wooded Foothills",
                 "1 Yavimaya, Cradle of Growth",
                 "1 Zurgo Bellstriker"
-            ],
-            "commander": [
-                "Yoshimaru, Ever Faithful",
-                "Tana, the Bloodsower"
             ]
         }
     ]

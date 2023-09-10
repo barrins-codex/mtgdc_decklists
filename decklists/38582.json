@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "38582",
+    "name": "[RC] 6º Torneio RC",
+    "place": "Tower of Cards (Bangur, Brazil)",
+    "players": "10 players",
+    "date": "24/09/22",
     "decks": [
         {
             "deck_id": "488134",
             "rank": "1",
             "player": "Acelerado",
+            "winrate": 1.0,
             "commander": [
                 "Zur the Enchanter"
             ],
@@ -102,6 +107,7 @@
             "deck_id": "488135",
             "rank": "2",
             "player": "Clemilson",
+            "winrate": 0.8,
             "commander": [
                 "Light-Paws, Emperor's Voice"
             ],
@@ -180,9 +186,5 @@
                 "1 Giant Killer"
             ]
         }
-    ],
-    "name": "[RC] 6º Torneio RC",
-    "place": "Tower of Cards (Bangur, Brazil)",
-    "players": "10 players",
-    "date": "24/09/22"
+    ]
 }

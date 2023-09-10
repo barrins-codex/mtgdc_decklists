@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "35501",
+    "name": "WANTED Saison 3 #6",
+    "place": "CartaRennes (Rennes, France)",
+    "players": "17 players",
+    "date": "30/03/22",
     "decks": [
         {
             "deck_id": "468016",
             "rank": "1",
             "player": "Mathieu Laurent",
+            "winrate": 1.0,
             "commander": [
                 "The Gitrog Monster"
             ],
@@ -102,6 +107,7 @@
             "deck_id": "468017",
             "rank": "2",
             "player": "Adrien Jouan",
+            "winrate": 0.8,
             "commander": [
                 "Marath, Will of the Wild"
             ],
@@ -201,9 +207,5 @@
                 "1 Evolving Wilds"
             ]
         }
-    ],
-    "name": "WANTED Saison 3 #6",
-    "place": "CartaRennes (Rennes, France)",
-    "players": "17 players",
-    "date": "30/03/22"
+    ]
 }

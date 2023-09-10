@@ -1,15 +1,19 @@
 {
     "format": "Duel Commander",
-    "id": 43196,
+    "id": "43196",
     "name": "Lachesis weekly Cup",
     "place": "Nice Club (Wuxi, China)",
     "players": "8 players",
     "date": "01/04/23",
     "decks": [
         {
-            "player": "Chen Jia Wei",
-            "rank": "1",
             "deck_id": "519200",
+            "rank": "1",
+            "player": "Chen Jia Wei",
+            "winrate": 1.0,
+            "commander": [
+                "Daretti, Scrap Savant"
+            ],
             "decklist": [
                 "1 Fable of the Mirror-Breaker",
                 "1 Pyroblast",
@@ -89,15 +93,16 @@
                 "1 Wildfire",
                 "1 Winter Orb",
                 "1 Wurmcoil Engine"
-            ],
-            "commander": [
-                "Daretti, Scrap Savant"
             ]
         },
         {
-            "player": "Zi Bo",
-            "rank": "2",
             "deck_id": "519201",
+            "rank": "2",
+            "player": "Zi Bo",
+            "winrate": 0.6666666666666666,
+            "commander": [
+                "Dihada, Binder of Wills"
+            ],
             "decklist": [
                 "1 Animate Dead",
                 "1 Arcane Signet",
@@ -198,9 +203,6 @@
                 "1 Wall of Omens",
                 "1 Windswept Heath",
                 "1 Wooded Foothills"
-            ],
-            "commander": [
-                "Dihada, Binder of Wills"
             ]
         }
     ]

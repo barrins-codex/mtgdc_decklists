@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "10919",
+    "name": "Eternal League DC Battle #2 (Barbados)",
+    "place": "",
+    "players": "9 players",
+    "date": "14/11/15",
     "decks": [
         {
             "deck_id": "262186",
             "rank": "1",
             "player": "Alchino Haynes",
+            "winrate": 1.0,
             "commander": [
                 "Marath, Will of the Wild"
             ],
@@ -110,9 +115,5 @@
                 "1 Sunpetal Grove"
             ]
         }
-    ],
-    "name": "Eternal League DC Battle #2 (Barbados)",
-    "place": "",
-    "players": "9 players",
-    "date": "14/11/15"
+    ]
 }

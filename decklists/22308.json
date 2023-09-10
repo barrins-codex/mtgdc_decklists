@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "22308",
+    "name": "FNM Hiveworld",
+    "place": "Hiveworld Cologne",
+    "players": "18 players",
+    "date": "21/06/19",
     "decks": [
         {
             "deck_id": "351267",
             "rank": "1",
             "player": "Lukas E",
+            "winrate": 1.0,
             "commander": [
                 "Ravos, Soultender",
                 "Tymna the Weaver"
@@ -107,6 +112,7 @@
             "deck_id": "351268",
             "rank": "2",
             "player": "Tim Mustermann",
+            "winrate": 0.8,
             "commander": [
                 "Akiri, Line-Slinger",
                 "Silas Renn, Seeker Adept"
@@ -216,6 +222,7 @@
             "deck_id": "351269",
             "rank": "3",
             "player": "Sebastian H",
+            "winrate": 0.8,
             "commander": [
                 "Leovold, Emissary of Trest"
             ],
@@ -325,6 +332,7 @@
             "deck_id": "351270",
             "rank": "4",
             "player": "Ben H",
+            "winrate": 0.6,
             "commander": [
                 "Jori En, Ruin Diver"
             ],
@@ -419,9 +427,5 @@
                 "1 Zurgo Bellstriker"
             ]
         }
-    ],
-    "name": "FNM Hiveworld",
-    "place": "Hiveworld Cologne",
-    "players": "18 players",
-    "date": "21/06/19"
+    ]
 }

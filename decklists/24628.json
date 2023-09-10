@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "24628",
+    "name": "Trial Zap",
+    "place": "Le Vizz (Rouen, France)",
+    "players": "11 players",
+    "date": "09/02/20",
     "decks": [
         {
             "deck_id": "372271",
             "rank": "1",
             "player": "Julien Boulet",
+            "winrate": 1.0,
             "commander": [
                 "Uro, Titan of Nature's Wrath"
             ],
@@ -104,9 +109,5 @@
                 "1 Wasteland"
             ]
         }
-    ],
-    "name": "Trial Zap",
-    "place": "Le Vizz (Rouen, France)",
-    "players": "11 players",
-    "date": "09/02/20"
+    ]
 }

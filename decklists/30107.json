@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "30107",
+    "name": "RJ Cup 2021 #14",
+    "place": "League Castle (Mong Kong, Hong Kong)",
+    "players": "10 players",
+    "date": "10/04/21",
     "decks": [
         {
             "deck_id": "435682",
             "rank": "1",
             "player": "Christopher Tong",
+            "winrate": 1.0,
             "commander": [
                 "Kraum, Ludevic's Opus",
                 "Malcolm, Keen-Eyed Navigator"
@@ -104,6 +109,7 @@
             "deck_id": "435683",
             "rank": "2",
             "player": "Jason Lam",
+            "winrate": 0.8,
             "commander": [
                 "Fynn, the Fangbearer"
             ],
@@ -192,9 +198,5 @@
                 "1 Yavimaya Hollow"
             ]
         }
-    ],
-    "name": "RJ Cup 2021 #14",
-    "place": "League Castle (Mong Kong, Hong Kong)",
-    "players": "10 players",
-    "date": "10/04/21"
+    ]
 }

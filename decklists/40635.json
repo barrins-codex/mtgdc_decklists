@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "40635",
+    "name": "Sunday Duel Commander",
+    "place": "Upkeep hobbies (Rizal, Philippines)",
+    "players": "10 players",
+    "date": "08/01/23",
     "decks": [
         {
             "deck_id": "502253",
             "rank": "1",
             "player": "Lorenzo Paredes",
+            "winrate": 1.0,
             "commander": [
                 "The Gitrog Monster"
             ],
@@ -104,6 +109,7 @@
             "deck_id": "502254",
             "rank": "2",
             "player": "Felipe Agoncilio",
+            "winrate": 0.8,
             "commander": [
                 "Yorvo, Lord of Garenbrig"
             ],
@@ -183,6 +189,7 @@
             "deck_id": "502255",
             "rank": "3-4",
             "player": "Ian Paul Roa",
+            "winrate": 0.6,
             "commander": [
                 "Hogaak, Arisen Necropolis"
             ],
@@ -285,6 +292,7 @@
             "deck_id": "502256",
             "rank": "3-4",
             "player": "Beige Maglonzo",
+            "winrate": 0.6,
             "commander": [
                 "Juri, Master of the Revue"
             ],
@@ -383,9 +391,5 @@
                 "1 The Meathook Massacre"
             ]
         }
-    ],
-    "name": "Sunday Duel Commander",
-    "place": "Upkeep hobbies (Rizal, Philippines)",
-    "players": "10 players",
-    "date": "08/01/23"
+    ]
 }

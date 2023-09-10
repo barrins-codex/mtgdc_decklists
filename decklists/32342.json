@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "32342",
+    "name": "Duel Commander Weekly",
+    "place": "Mana Underground (Lagro, Philippines)",
+    "players": "12 players",
+    "date": "11/09/21",
     "decks": [
         {
             "deck_id": "448764",
             "rank": "1",
             "player": "Jonathan Bagotlo",
+            "winrate": 1.0,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -90,6 +95,7 @@
             "deck_id": "448765",
             "rank": "2",
             "player": "Ste Villaraza",
+            "winrate": 0.8,
             "commander": [
                 "Tevesh Szat, Doom of Fools",
                 "Malcolm, Keen-Eyed Navigator"
@@ -186,9 +192,5 @@
                 "7 Snow-Covered Island"
             ]
         }
-    ],
-    "name": "Duel Commander Weekly",
-    "place": "Mana Underground (Lagro, Philippines)",
-    "players": "12 players",
-    "date": "11/09/21"
+    ]
 }

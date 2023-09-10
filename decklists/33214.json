@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "33214",
+    "name": "Duel",
+    "place": "Fulcrum eSports (Cainta, Philippines)",
+    "players": "8 players",
+    "date": "07/11/21",
     "decks": [
         {
             "deck_id": "453682",
             "rank": "1",
             "player": "Epi Ibanez",
+            "winrate": 1.0,
             "commander": [
                 "Dragonlord Ojutai"
             ],
@@ -105,6 +110,7 @@
             "deck_id": "453683",
             "rank": "2",
             "player": "Rai Reyes",
+            "winrate": 0.6666666666666666,
             "commander": [
                 "Isamaru, Hound of Konda"
             ],
@@ -189,9 +195,5 @@
                 "1 Windswept Heath"
             ]
         }
-    ],
-    "name": "Duel",
-    "place": "Fulcrum eSports (Cainta, Philippines)",
-    "players": "8 players",
-    "date": "07/11/21"
+    ]
 }

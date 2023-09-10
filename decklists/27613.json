@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "27613",
+    "name": "Autumn Tournament",
+    "place": "Pardubice (Tolarie.cz)",
+    "players": "28 players",
+    "date": "03/10/20",
     "decks": [
         {
             "deck_id": "419399",
             "rank": "1",
             "player": "Jan Jilek",
+            "winrate": 1.0,
             "commander": [
                 "Thrasios, Triton Hero",
                 "Tymna the Weaver"
@@ -115,6 +120,7 @@
             "deck_id": "419400",
             "rank": "2",
             "player": "David Dobis",
+            "winrate": 0.8,
             "commander": [
                 "Omnath, Locus of Creation"
             ],
@@ -224,6 +230,7 @@
             "deck_id": "419401",
             "rank": "3",
             "player": "Jiri Obraz",
+            "winrate": 0.8,
             "commander": [
                 "Leovold, Emissary of Trest"
             ],
@@ -333,6 +340,7 @@
             "deck_id": "419402",
             "rank": "4",
             "player": "Jakub Lelek",
+            "winrate": 0.8,
             "commander": [
                 "Kinnan, Bonder Prodigy"
             ],
@@ -429,6 +437,7 @@
             "deck_id": "419403",
             "rank": "5",
             "player": "Jan Kousal",
+            "winrate": 0.6,
             "commander": [
                 "Thrasios, Triton Hero",
                 "Ikra Shidiqi, the Usurper"
@@ -536,6 +545,7 @@
             "deck_id": "419404",
             "rank": "6",
             "player": "Robert \"bobes\" Kloucek",
+            "winrate": 0.6,
             "commander": [
                 "Isamaru, Hound of Konda"
             ],
@@ -621,6 +631,7 @@
             "deck_id": "419405",
             "rank": "7",
             "player": "Daniel Tochacek",
+            "winrate": 0.6,
             "commander": [
                 "Leovold, Emissary of Trest"
             ],
@@ -730,6 +741,7 @@
             "deck_id": "419406",
             "rank": "8",
             "player": "Vojtech Benes",
+            "winrate": 0.6,
             "commander": [
                 "Uro, Titan of Nature's Wrath"
             ],
@@ -818,9 +830,5 @@
                 "1 Preordain"
             ]
         }
-    ],
-    "name": "Autumn Tournament",
-    "place": "Pardubice (Tolarie.cz)",
-    "players": "28 players",
-    "date": "03/10/20"
+    ]
 }

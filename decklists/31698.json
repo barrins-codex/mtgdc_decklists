@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "31698",
+    "name": "Duel Commander Weekly",
+    "place": "Mana Underground (Lagro, Philippines )",
+    "players": "12 players",
+    "date": "24/07/21",
     "decks": [
         {
             "deck_id": "445220",
             "rank": "1",
             "player": "Jarbs Sahagun",
+            "winrate": 1.0,
             "commander": [
                 "Inalla, Archmage Ritualist"
             ],
@@ -115,6 +120,7 @@
             "deck_id": "445221",
             "rank": "2",
             "player": "Jonathan Bagotlo",
+            "winrate": 0.8,
             "commander": [
                 "Ragavan, Nimble Pilferer"
             ],
@@ -196,9 +202,5 @@
                 "1 Sulfuric Vortex"
             ]
         }
-    ],
-    "name": "Duel Commander Weekly",
-    "place": "Mana Underground (Lagro, Philippines )",
-    "players": "12 players",
-    "date": "24/07/21"
+    ]
 }

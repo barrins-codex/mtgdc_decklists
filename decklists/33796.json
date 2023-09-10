@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "33796",
+    "name": "Tournoi Magi'k'Assoss",
+    "place": "Perpignan (France)",
+    "players": "8 players",
+    "date": "11/12/21",
     "decks": [
         {
             "deck_id": "457497",
             "rank": "1",
             "player": "Mehdi Bouhlala",
+            "winrate": 1.0,
             "commander": [
                 "Maelstrom Wanderer"
             ],
@@ -101,6 +106,7 @@
             "deck_id": "457498",
             "rank": "3-4",
             "player": "Julien Lacan",
+            "winrate": 0.6666666666666666,
             "commander": [
                 "Rafiq of the Many"
             ],
@@ -197,9 +203,5 @@
                 "1 Hallowed Fountain"
             ]
         }
-    ],
-    "name": "Tournoi Magi'k'Assoss",
-    "place": "Perpignan (France)",
-    "players": "8 players",
-    "date": "11/12/21"
+    ]
 }

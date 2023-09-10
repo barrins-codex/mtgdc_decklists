@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "34998",
+    "name": "DuWell Commander",
+    "place": "Cúpula do Trovão (Pelotas, Brasil)",
+    "players": "10 players",
+    "date": "02/03/22",
     "decks": [
         {
             "deck_id": "464584",
             "rank": "1",
             "player": "Matheusmrs",
+            "winrate": 1.0,
             "commander": [
                 "Klothys, God of Destiny"
             ],
@@ -109,6 +114,7 @@
             "deck_id": "464585",
             "rank": "2",
             "player": "Well",
+            "winrate": 0.8,
             "commander": [
                 "Grist, the Hunger Tide"
             ],
@@ -210,6 +216,7 @@
             "deck_id": "464586",
             "rank": "3",
             "player": "Cleber M. Vieira",
+            "winrate": 0.6,
             "commander": [
                 "Karlov of the Ghost Council"
             ],
@@ -307,9 +314,5 @@
                 "1 Phyrexian Reclamation"
             ]
         }
-    ],
-    "name": "DuWell Commander",
-    "place": "Cúpula do Trovão (Pelotas, Brasil)",
-    "players": "10 players",
-    "date": "02/03/22"
+    ]
 }

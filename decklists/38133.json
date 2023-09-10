@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "38133",
+    "name": "15th Duel-League",
+    "place": "Leipzig (Germany)",
+    "players": "10 players",
+    "date": "30/08/22",
     "decks": [
         {
             "deck_id": "485204",
             "rank": "1",
             "player": "Jonas Kretzschmar",
+            "winrate": 1.0,
             "commander": [
                 "The Gitrog Monster"
             ],
@@ -106,6 +111,7 @@
             "deck_id": "485205",
             "rank": "2",
             "player": "Henryk Hecht",
+            "winrate": 0.8,
             "commander": [
                 "Kinnan, Bonder Prodigy"
             ],
@@ -209,9 +215,5 @@
                 "1 Yavimaya, Cradle of Growth"
             ]
         }
-    ],
-    "name": "15th Duel-League",
-    "place": "Leipzig (Germany)",
-    "players": "10 players",
-    "date": "30/08/22"
+    ]
 }

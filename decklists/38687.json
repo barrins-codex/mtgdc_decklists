@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "38687",
+    "name": "16th Duel-League",
+    "place": "Leipzig (Germany)",
+    "players": "8 players",
+    "date": "27/09/22",
     "decks": [
         {
             "deck_id": "488796",
             "rank": "1",
             "player": "Eik The Necromancer",
+            "winrate": 1.0,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -115,6 +120,7 @@
             "deck_id": "488797",
             "rank": "2",
             "player": "Femi Heartman",
+            "winrate": 0.6666666666666666,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -195,9 +201,5 @@
                 "1 Zurgo Bellstriker"
             ]
         }
-    ],
-    "name": "16th Duel-League",
-    "place": "Leipzig (Germany)",
-    "players": "8 players",
-    "date": "27/09/22"
+    ]
 }

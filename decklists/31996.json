@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "31996",
+    "name": "5th Webcam-League",
+    "place": "Leipzig (Germany)",
+    "players": "8 players",
+    "date": "13/08/21",
     "decks": [
         {
             "deck_id": "446950",
             "rank": "1",
             "player": "Eik The Necromancer",
+            "winrate": 1.0,
             "commander": [
                 "Kroxa, Titan of Death's Hunger"
             ],
@@ -106,6 +111,7 @@
             "deck_id": "446951",
             "rank": "2",
             "player": "Henryk Hecht",
+            "winrate": 0.6666666666666666,
             "commander": [
                 "Kinnan, Bonder Prodigy"
             ],
@@ -205,9 +211,5 @@
                 "1 Sanctum Weaver"
             ]
         }
-    ],
-    "name": "5th Webcam-League",
-    "place": "Leipzig (Germany)",
-    "players": "8 players",
-    "date": "13/08/21"
+    ]
 }

@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "35969",
+    "name": "30th Bank President Cup",
+    "place": "Hongyu (Hefei, China)",
+    "players": "8 players",
+    "date": "29/04/22",
     "decks": [
         {
             "deck_id": "470993",
             "rank": "1",
             "player": "Duoyan Li",
+            "winrate": 1.0,
             "commander": [
                 "Jadar, Ghoulcaller of Nephalia"
             ],
@@ -95,6 +100,7 @@
             "deck_id": "470994",
             "rank": "2",
             "player": "Jsd",
+            "winrate": 0.6666666666666666,
             "commander": [
                 "Light-Paws, Emperor's Voice"
             ],
@@ -181,9 +187,5 @@
                 "1 Triclopean Sight"
             ]
         }
-    ],
-    "name": "30th Bank President Cup",
-    "place": "Hongyu (Hefei, China)",
-    "players": "8 players",
-    "date": "29/04/22"
+    ]
 }

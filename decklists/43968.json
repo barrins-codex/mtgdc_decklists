@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "43968",
+    "name": "22nd Duel-League",
+    "place": "Leipzig (Germany)",
+    "players": "10 players",
+    "date": "24/04/23",
     "decks": [
         {
             "deck_id": "524406",
             "rank": "1",
             "player": "Sebastian Reichert",
+            "winrate": 1.0,
             "commander": [
                 "Jori En, Ruin Diver"
             ],
@@ -103,6 +108,7 @@
             "deck_id": "524407",
             "rank": "2",
             "player": "Max Dreste",
+            "winrate": 0.8,
             "commander": [
                 "Glissa Sunslayer"
             ],
@@ -200,9 +206,5 @@
                 "7 Forest"
             ]
         }
-    ],
-    "name": "22nd Duel-League",
-    "place": "Leipzig (Germany)",
-    "players": "10 players",
-    "date": "24/04/23"
+    ]
 }

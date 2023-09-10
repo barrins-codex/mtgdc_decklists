@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "38603",
+    "name": "DC Circuit Trial 3 Season 2",
+    "place": "Mana Underground (Lagro, Philippines)",
+    "players": "14 players",
+    "date": "24/09/22",
     "decks": [
         {
             "deck_id": "488266",
             "rank": "1",
             "player": "Pepelepew",
+            "winrate": 1.0,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -115,6 +120,7 @@
             "deck_id": "488267",
             "rank": "2",
             "player": "Ste Villaraza",
+            "winrate": 0.8,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -224,6 +230,7 @@
             "deck_id": "488268",
             "rank": "3",
             "player": "Rexel Tenorio",
+            "winrate": 0.6,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -333,6 +340,7 @@
             "deck_id": "488269",
             "rank": "4",
             "player": "Rusty Capricho",
+            "winrate": 0.6,
             "commander": [
                 "Grist, the Hunger Tide"
             ],
@@ -428,9 +436,5 @@
                 "1 Yavimaya, Cradle of Growth"
             ]
         }
-    ],
-    "name": "DC Circuit Trial 3 Season 2",
-    "place": "Mana Underground (Lagro, Philippines)",
-    "players": "14 players",
-    "date": "24/09/22"
+    ]
 }

@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "35968",
+    "name": "[DC] Fourtnight",
+    "place": "Epic Level (São José do Rio Preto , Brazil)",
+    "players": "8 players",
+    "date": "23/04/22",
     "decks": [
         {
             "deck_id": "470990",
             "rank": "1",
             "player": "Vinicius Moon",
+            "winrate": 1.0,
             "commander": [
                 "Karlov of the Ghost Council"
             ],
@@ -109,6 +114,7 @@
             "deck_id": "470991",
             "rank": "2",
             "player": "Carlos Eduardo",
+            "winrate": 0.6666666666666666,
             "commander": [
                 "Octavia, Living Thesis"
             ],
@@ -199,6 +205,7 @@
             "deck_id": "470992",
             "rank": "3",
             "player": "Miguel \"mascote\"",
+            "winrate": 0.6666666666666666,
             "commander": [
                 "The Scarab God"
             ],
@@ -283,9 +290,5 @@
                 "1 Murktide Regent"
             ]
         }
-    ],
-    "name": "[DC] Fourtnight",
-    "place": "Epic Level (São José do Rio Preto , Brazil)",
-    "players": "8 players",
-    "date": "23/04/22"
+    ]
 }

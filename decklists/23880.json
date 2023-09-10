@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "23880",
+    "name": "7th Duel-League",
+    "place": "Leipzig (Germany)",
+    "players": "8 players",
+    "date": "01/12/19",
     "decks": [
         {
             "deck_id": "366152",
             "rank": "1",
             "player": "Henryk Hecht",
+            "winrate": 1.0,
             "commander": [
                 "Karlov of the Ghost Council"
             ],
@@ -107,6 +112,7 @@
             "deck_id": "366153",
             "rank": "2",
             "player": "Jonas Jörns",
+            "winrate": 0.6666666666666666,
             "commander": [
                 "Yawgmoth, Thran Physician"
             ],
@@ -187,9 +193,5 @@
                 "1 Ancient Tomb"
             ]
         }
-    ],
-    "name": "7th Duel-League",
-    "place": "Leipzig (Germany)",
-    "players": "8 players",
-    "date": "01/12/19"
+    ]
 }

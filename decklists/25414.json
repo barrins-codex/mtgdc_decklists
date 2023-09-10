@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "25414",
+    "name": "DC Satell #3",
+    "place": "Online",
+    "players": "11 players",
+    "date": "08/04/20",
     "decks": [
         {
             "deck_id": "382703",
             "rank": "1",
             "player": "Sauk",
+            "winrate": 1.0,
             "commander": [
                 "Gallia of the Endless Dance"
             ],
@@ -101,6 +106,7 @@
             "deck_id": "382704",
             "rank": "2",
             "player": "Adrien \"soulless Oni\" Demoget",
+            "winrate": 0.8,
             "commander": [
                 "Kenrith, the Returned King"
             ],
@@ -206,9 +212,5 @@
                 "1 Arid Mesa"
             ]
         }
-    ],
-    "name": "DC Satell #3",
-    "place": "Online",
-    "players": "11 players",
-    "date": "08/04/20"
+    ]
 }

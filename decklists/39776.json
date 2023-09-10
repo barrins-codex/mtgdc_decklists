@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "39776",
+    "name": "DC",
+    "place": "Manabolt (Limeira, Brazil)",
+    "players": "8 players",
+    "date": "26/11/22",
     "decks": [
         {
             "deck_id": "496455",
             "rank": "1",
             "player": "Lucas Felix",
+            "winrate": 1.0,
             "commander": [
                 "Grist, the Hunger Tide"
             ],
@@ -105,6 +110,7 @@
             "deck_id": "496456",
             "rank": "2",
             "player": "Victor Marques",
+            "winrate": 0.6666666666666666,
             "commander": [
                 "Urza, Lord Protector"
             ],
@@ -205,6 +211,7 @@
             "deck_id": "496457",
             "rank": "3",
             "player": "Ravi Zornig",
+            "winrate": 0.6666666666666666,
             "commander": [
                 "Grist, the Hunger Tide"
             ],
@@ -300,9 +307,5 @@
                 "1 Yavimaya, Cradle of Growth"
             ]
         }
-    ],
-    "name": "DC",
-    "place": "Manabolt (Limeira, Brazil)",
-    "players": "8 players",
-    "date": "26/11/22"
+    ]
 }

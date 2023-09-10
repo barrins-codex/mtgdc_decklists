@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "35449",
+    "name": "RCr 4",
+    "place": "Manavai (Campo Grande/RJ)",
+    "players": "8 players",
+    "date": "24/03/22",
     "decks": [
         {
             "deck_id": "467743",
             "rank": "1",
             "player": "Roberto",
+            "winrate": 1.0,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -85,6 +90,7 @@
             "deck_id": "467744",
             "rank": "2",
             "player": "Caio",
+            "winrate": 0.6666666666666666,
             "commander": [
                 "Shorikai, Genesis Engine"
             ],
@@ -167,9 +173,5 @@
                 "13 Plains"
             ]
         }
-    ],
-    "name": "RCr 4",
-    "place": "Manavai (Campo Grande/RJ)",
-    "players": "8 players",
-    "date": "24/03/22"
+    ]
 }

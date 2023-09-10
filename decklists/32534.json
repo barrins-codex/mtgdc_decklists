@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "32534",
+    "name": "TG Store Championships",
+    "place": "Marikina City (Philippines)",
+    "players": "8 players",
+    "date": "25/09/21",
     "decks": [
         {
             "deck_id": "449876",
             "rank": "1",
             "player": "Ste Villaraza",
+            "winrate": 1.0,
             "commander": [
                 "Kraum, Ludevic's Opus",
                 "Malcolm, Keen-Eyed Navigator"
@@ -105,6 +110,7 @@
             "deck_id": "449877",
             "rank": "2",
             "player": "Rexel Tenorio",
+            "winrate": 0.6666666666666666,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -210,9 +216,5 @@
                 "1 Yorion, Sky Nomad"
             ]
         }
-    ],
-    "name": "TG Store Championships",
-    "place": "Marikina City (Philippines)",
-    "players": "8 players",
-    "date": "25/09/21"
+    ]
 }

@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "36915",
+    "name": "DC Mini June III.",
+    "place": "Úvaly (Czech Republic)",
+    "players": "11 players",
+    "date": "20/06/22",
     "decks": [
         {
             "deck_id": "477352",
             "rank": "1",
             "player": "Ondrej Hatala",
+            "winrate": 1.0,
             "commander": [
                 "Minsc &amp; Boo, Timeless Heroes"
             ],
@@ -111,6 +116,7 @@
             "deck_id": "477353",
             "rank": "2",
             "player": "Kajo",
+            "winrate": 0.8,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -216,9 +222,5 @@
                 "1 Windswept Heath"
             ]
         }
-    ],
-    "name": "DC Mini June III.",
-    "place": "Úvaly (Czech Republic)",
-    "players": "11 players",
-    "date": "20/06/22"
+    ]
 }

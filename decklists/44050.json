@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "44050",
+    "name": "Weekly DC",
+    "place": "Slow Drake (Beijing, China)",
+    "players": "17 players",
+    "date": "07/05/23",
     "decks": [
         {
             "deck_id": "525202",
             "rank": "1",
             "player": "Ziqi Xi",
+            "winrate": 1.0,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -115,6 +120,7 @@
             "deck_id": "525203",
             "rank": "2",
             "player": "Wong Dik Fan",
+            "winrate": 0.8,
             "commander": [
                 "Errant and Giada"
             ],
@@ -216,6 +222,7 @@
             "deck_id": "525204",
             "rank": "3",
             "player": "Shuyao Liu",
+            "winrate": 0.8,
             "commander": [
                 "Tana, the Bloodsower",
                 "Yoshimaru, Ever Faithful"
@@ -324,6 +331,7 @@
             "deck_id": "525205",
             "rank": "4",
             "player": "Guanglei Li",
+            "winrate": 0.6,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -429,9 +437,5 @@
                 "1 Windswept Heath"
             ]
         }
-    ],
-    "name": "Weekly DC",
-    "place": "Slow Drake (Beijing, China)",
-    "players": "17 players",
-    "date": "07/05/23"
+    ]
 }

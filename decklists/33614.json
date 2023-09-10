@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "33614",
+    "name": "Duelan sa TG",
+    "place": "Tapped Games (Marikina City, Philippines)",
+    "players": "14 players",
+    "date": "27/11/21",
     "decks": [
         {
             "deck_id": "455983",
             "rank": "1",
             "player": "Timothy Agustin",
+            "winrate": 1.0,
             "commander": [
                 "Svyelun of Sea and Sky"
             ],
@@ -93,6 +98,7 @@
             "deck_id": "455984",
             "rank": "2",
             "player": "Jeremiah Achay",
+            "winrate": 0.8,
             "commander": [
                 "Isamaru, Hound of Konda"
             ],
@@ -180,6 +186,7 @@
             "deck_id": "455985",
             "rank": "3-4",
             "player": "Jeremias Garganera",
+            "winrate": 0.6,
             "commander": [
                 "Miara, Thorn of the Glade",
                 "Tevesh Szat, Doom of Fools"
@@ -264,6 +271,7 @@
             "deck_id": "455986",
             "rank": "3-4",
             "player": "Randy Mestiola",
+            "winrate": 0.6,
             "commander": [
                 "Thrun, the Last Troll"
             ],
@@ -358,9 +366,5 @@
                 "1 Yavimaya, Cradle of Growth"
             ]
         }
-    ],
-    "name": "Duelan sa TG",
-    "place": "Tapped Games (Marikina City, Philippines)",
-    "players": "14 players",
-    "date": "27/11/21"
+    ]
 }

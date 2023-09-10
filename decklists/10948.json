@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "10948",
+    "name": "Castagnate on the Head by EDH & Friends (Biella, Italy)",
+    "place": "",
+    "players": "13 players",
+    "date": "15/11/15",
     "decks": [
         {
             "deck_id": "262356",
             "rank": "1",
             "player": "Nicolas David",
+            "winrate": 1.0,
             "commander": [
                 "Mayael the Anima"
             ],
@@ -111,6 +116,7 @@
             "deck_id": "262357",
             "rank": "2",
             "player": "Simonpietro Speziale",
+            "winrate": 0.8,
             "commander": [
                 "Azami, Lady of Scrolls"
             ],
@@ -191,9 +197,5 @@
                 "1 Stifle"
             ]
         }
-    ],
-    "name": "Castagnate on the Head by EDH & Friends (Biella, Italy)",
-    "place": "",
-    "players": "13 players",
-    "date": "15/11/15"
+    ]
 }

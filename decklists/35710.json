@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "35710",
+    "name": "Wool Cup 31",
+    "place": "Kadou (Beijing, China)",
+    "players": "9 players",
+    "date": "10/04/22",
     "decks": [
         {
             "deck_id": "469407",
             "rank": "1",
             "player": "Ligen Zhai",
+            "winrate": 1.0,
             "commander": [
                 "Hinata, Dawn-Crowned"
             ],
@@ -109,9 +114,5 @@
                 "2 Mountain"
             ]
         }
-    ],
-    "name": "Wool Cup 31",
-    "place": "Kadou (Beijing, China)",
-    "players": "9 players",
-    "date": "10/04/22"
+    ]
 }

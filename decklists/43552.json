@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "43552",
+    "name": "Weekly DC",
+    "place": "FENIXcards (Trnava, Slovakia)",
+    "players": "14 players",
+    "date": "14/04/23",
     "decks": [
         {
             "deck_id": "521667",
             "rank": "1",
-            "player": "Richard Kolenič\t",
+            "player": "Richard Kolenič",
+            "winrate": 1.0,
             "commander": [
                 "Feldon, Ronom Excavator"
             ],
@@ -94,6 +99,7 @@
             "deck_id": "521668",
             "rank": "2",
             "player": "Patrik Horváth",
+            "winrate": 0.8,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -203,6 +209,7 @@
             "deck_id": "521669",
             "rank": "3",
             "player": "Martin Opeta",
+            "winrate": 0.6,
             "commander": [
                 "General Ferrous Rokiric"
             ],
@@ -291,7 +298,8 @@
         {
             "deck_id": "521670",
             "rank": "4",
-            "player": "Vincent Pálenik\t",
+            "player": "Vincent Pálenik",
+            "winrate": 0.6,
             "commander": [
                 "Dennick, Pious Apprentice"
             ],
@@ -382,9 +390,5 @@
                 "9 Snow-Covered Island"
             ]
         }
-    ],
-    "name": "Weekly DC",
-    "place": "FENIXcards (Trnava, Slovakia)",
-    "players": "14 players",
-    "date": "14/04/23"
+    ]
 }

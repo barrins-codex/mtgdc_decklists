@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "44680",
+    "name": "DC Battle for Bayou Trial",
+    "place": "Upkeep Hobbies (Philippines)",
+    "players": "10 players",
+    "date": "28/05/23",
     "decks": [
         {
             "deck_id": "529553",
             "rank": "1",
             "player": "Nhald Adia",
+            "winrate": 1.0,
             "commander": [
                 "Feldon, Ronom Excavator"
             ],
@@ -93,6 +98,7 @@
             "deck_id": "529554",
             "rank": "2",
             "player": "Juan Antonio Agoncilio",
+            "winrate": 0.8,
             "commander": [
                 "Magda, Brazen Outlaw"
             ],
@@ -182,6 +188,7 @@
             "deck_id": "529555",
             "rank": "3",
             "player": "Darren De La Rosa",
+            "winrate": 0.6,
             "commander": [
                 "Kroxa, Titan of Death's Hunger"
             ],
@@ -287,6 +294,7 @@
             "deck_id": "529556",
             "rank": "4",
             "player": "Deks Sienes",
+            "winrate": 0.6,
             "commander": [
                 "Kess, Dissident Mage"
             ],
@@ -392,9 +400,5 @@
                 "1 Underworld Breach"
             ]
         }
-    ],
-    "name": "DC Battle for Bayou Trial",
-    "place": "Upkeep Hobbies (Philippines)",
-    "players": "10 players",
-    "date": "28/05/23"
+    ]
 }

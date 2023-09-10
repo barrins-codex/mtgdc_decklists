@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "38604",
+    "name": "Duel Commander September",
+    "place": "Abbeville (France)",
+    "players": "10 players",
+    "date": "24/09/22",
     "decks": [
         {
             "deck_id": "488270",
             "rank": "1",
             "player": "Lolink",
+            "winrate": 1.0,
             "commander": [
                 "Dihada, Binder of Wills"
             ],
@@ -115,6 +120,7 @@
             "deck_id": "488271",
             "rank": "2",
             "player": "Sofiane Cormier",
+            "winrate": 0.8,
             "commander": [
                 "Jadar, Ghoulcaller of Nephalia"
             ],
@@ -189,9 +195,5 @@
                 "32 Swamp"
             ]
         }
-    ],
-    "name": "Duel Commander September",
-    "place": "Abbeville (France)",
-    "players": "10 players",
-    "date": "24/09/22"
+    ]
 }

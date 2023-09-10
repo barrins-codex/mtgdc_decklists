@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "15480",
+    "name": "Victory Day (Moscow, Russia)",
+    "place": "",
+    "players": "12 players",
+    "date": "09/05/17",
     "decks": [
         {
             "deck_id": "294305",
             "rank": "1",
             "player": "Ilyas Landikov",
+            "winrate": 1.0,
             "commander": [
                 "Maelstrom Wanderer"
             ],
@@ -110,6 +115,7 @@
             "deck_id": "294306",
             "rank": "2",
             "player": "Matvey Dolganov",
+            "winrate": 0.8,
             "commander": [
                 "Bruse Tarl, Boorish Herder",
                 "Reyhan, Last of the Abzan"
@@ -215,9 +221,5 @@
                 "1 Wasteland"
             ]
         }
-    ],
-    "name": "Victory Day (Moscow, Russia)",
-    "place": "",
-    "players": "12 players",
-    "date": "09/05/17"
+    ]
 }

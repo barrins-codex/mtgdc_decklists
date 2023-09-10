@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "39703",
+    "name": "Fight Club Mtg Var Dc 4.5",
+    "place": "La Crau (France)",
+    "players": "20 players",
+    "date": "25/11/22",
     "decks": [
         {
             "deck_id": "495851",
             "rank": "1",
             "player": "Pierre Almaraz",
+            "winrate": 1.0,
             "commander": [
                 "Dennick, Pious Apprentice"
             ],
@@ -106,6 +111,7 @@
             "deck_id": "495852",
             "rank": "2",
             "player": "Pierre-louis Biet",
+            "winrate": 0.8,
             "commander": [
                 "Inspiring Leader",
                 "Gut, True Soul Zealot"
@@ -210,6 +216,7 @@
             "deck_id": "495853",
             "rank": "3-4",
             "player": "Alexandre \"tidus\" Andouard",
+            "winrate": 0.8,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -319,6 +326,7 @@
             "deck_id": "495854",
             "rank": "3-4",
             "player": "Jérémy Dewarez",
+            "winrate": 0.8,
             "commander": [
                 "Sythis, Harvest's Hand"
             ],
@@ -412,9 +420,5 @@
                 "1 Utopia Sprawl"
             ]
         }
-    ],
-    "name": "Fight Club Mtg Var Dc 4.5",
-    "place": "La Crau (France)",
-    "players": "20 players",
-    "date": "25/11/22"
+    ]
 }

@@ -1,15 +1,19 @@
 {
     "format": "Duel Commander",
-    "id": 46788,
+    "id": "46788",
     "name": "Shoturday Night DC",
     "place": "HBK (Antipolo, Philippines)",
     "players": "8 players",
     "date": "12/08/23",
     "decks": [
         {
-            "player": "Deks Sienes",
-            "rank": "1",
             "deck_id": "545899",
+            "rank": "1",
+            "player": "Deks Sienes",
+            "winrate": 1.0,
+            "commander": [
+                "Aragorn, King of Gondor"
+            ],
             "decklist": [
                 "1 Soul Partition",
                 "1 Clout of the Dominus",
@@ -107,15 +111,16 @@
                 "1 Flooded Strand",
                 "1 Mountain",
                 "2 Plains"
-            ],
-            "commander": [
-                "Aragorn, King of Gondor"
             ]
         },
         {
-            "player": "Eric Jay Ventilacion",
-            "rank": "2",
             "deck_id": "545900",
+            "rank": "2",
+            "player": "Eric Jay Ventilacion",
+            "winrate": 0.6666666666666666,
+            "commander": [
+                "Grist, the Hunger Tide"
+            ],
             "decklist": [
                 "1 Grist, the Hunger Tide",
                 "1 Fyndhorn Elves",
@@ -212,9 +217,6 @@
                 "1 Deathcap Glade",
                 "4 Forest",
                 "2 Swamp"
-            ],
-            "commander": [
-                "Grist, the Hunger Tide"
             ]
         }
     ]

@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "24275",
+    "name": "96th \"New Year Cake\" Cup",
+    "place": "Shanghai (China)",
+    "players": "8 players",
+    "date": "11/01/20",
     "decks": [
         {
             "deck_id": "369446",
             "rank": "1",
             "player": "Yang Yang",
+            "winrate": 1.0,
             "commander": [
                 "Azusa, Lost but Seeking"
             ],
@@ -103,6 +108,7 @@
             "deck_id": "369447",
             "rank": "2",
             "player": "Liu Yujun",
+            "winrate": 0.6666666666666666,
             "commander": [
                 "Hogaak, Arisen Necropolis"
             ],
@@ -208,9 +214,5 @@
                 "1 Vault of Whispers"
             ]
         }
-    ],
-    "name": "96th \"New Year Cake\" Cup",
-    "place": "Shanghai (China)",
-    "players": "8 players",
-    "date": "11/01/20"
+    ]
 }

@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "39943",
+    "name": "East League S2 Qualifier",
+    "place": "Upkeep Hobbies (Philippines)",
+    "players": "12 players",
+    "date": "04/12/22",
     "decks": [
         {
             "deck_id": "497486",
             "rank": "1",
             "player": "Felipe Agoncilio",
+            "winrate": 1.0,
             "commander": [
                 "Yorvo, Lord of Garenbrig"
             ],
@@ -85,6 +90,7 @@
             "deck_id": "497487",
             "rank": "2",
             "player": "Rai Reyes",
+            "winrate": 0.8,
             "commander": [
                 "Noble Heritage",
                 "Wilson, Refined Grizzly"
@@ -187,6 +193,7 @@
             "deck_id": "497488",
             "rank": "3",
             "player": "Ricky Madrigal",
+            "winrate": 0.6,
             "commander": [
                 "Inspiring Leader",
                 "Gut, True Soul Zealot"
@@ -291,6 +298,7 @@
             "deck_id": "497489",
             "rank": "4",
             "player": "Cilbert Corpuz",
+            "winrate": 0.6,
             "commander": [
                 "Inspiring Leader",
                 "Gut, True Soul Zealot"
@@ -393,9 +401,5 @@
                 "3 Plains"
             ]
         }
-    ],
-    "name": "East League S2 Qualifier",
-    "place": "Upkeep Hobbies (Philippines)",
-    "players": "12 players",
-    "date": "04/12/22"
+    ]
 }

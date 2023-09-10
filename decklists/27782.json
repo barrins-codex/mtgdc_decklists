@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "27782",
+    "name": "Sunday DC",
+    "place": "Contemp nook (Marikina City, Philippines)",
+    "players": "11 players",
+    "date": "18/10/20",
     "decks": [
         {
             "deck_id": "420504",
             "rank": "1",
             "player": "Timothy Agustin",
+            "winrate": 1.0,
             "commander": [
                 "Ludevic, Necro-Alchemist",
                 "Kraum, Ludevic's Opus"
@@ -99,6 +104,7 @@
             "deck_id": "420505",
             "rank": "2",
             "player": "Paul Relativo",
+            "winrate": 0.8,
             "commander": [
                 "Niv-Mizzet Reborn"
             ],
@@ -208,6 +214,7 @@
             "deck_id": "420506",
             "rank": "3-4",
             "player": "Sherwin Lobrigo",
+            "winrate": 0.6,
             "commander": [
                 "Prossh, Skyraider of Kher"
             ],
@@ -315,6 +322,7 @@
             "deck_id": "420507",
             "rank": "3-4",
             "player": "Ireneo Agustin",
+            "winrate": 0.6,
             "commander": [
                 "Thrun, the Last Troll"
             ],
@@ -401,9 +409,5 @@
                 "1 Yavimaya Hollow"
             ]
         }
-    ],
-    "name": "Sunday DC",
-    "place": "Contemp nook (Marikina City, Philippines)",
-    "players": "11 players",
-    "date": "18/10/20"
+    ]
 }

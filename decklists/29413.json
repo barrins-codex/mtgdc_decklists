@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "29413",
+    "name": "Duel",
+    "place": "TeamChampGamingHQ (Sampaloc, Philippines)",
+    "players": "8 players",
+    "date": "21/02/21",
     "decks": [
         {
             "deck_id": "431118",
             "rank": "1",
             "player": "Charles Pineda",
+            "winrate": 1.0,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -115,6 +120,7 @@
             "deck_id": "431119",
             "rank": "2",
             "player": "Exequiel Brian Lim",
+            "winrate": 0.6666666666666666,
             "commander": [
                 "Titania, Protector of Argoth"
             ],
@@ -206,9 +212,5 @@
                 "1 Craterhoof Behemoth"
             ]
         }
-    ],
-    "name": "Duel",
-    "place": "TeamChampGamingHQ (Sampaloc, Philippines)",
-    "players": "8 players",
-    "date": "21/02/21"
+    ]
 }

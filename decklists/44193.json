@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "44193",
+    "name": "Trial Fact 6",
+    "place": "Ludetopia (Poncin, France)",
+    "players": "16 players",
+    "date": "30/04/23",
     "decks": [
         {
             "deck_id": "526115",
             "rank": "1",
             "player": "Nadrak",
+            "winrate": 1.0,
             "commander": [
                 "Grist, the Hunger Tide"
             ],
@@ -106,6 +111,7 @@
             "deck_id": "526116",
             "rank": "2",
             "player": "Steve \"zuzur\" Kunze",
+            "winrate": 0.8,
             "commander": [
                 "Kasla, the Broken Halo"
             ],
@@ -213,6 +219,7 @@
             "deck_id": "526117",
             "rank": "3-4",
             "player": "Hannimys",
+            "winrate": 0.8,
             "commander": [
                 "Atraxa, Praetors' Voice"
             ],
@@ -322,6 +329,7 @@
             "deck_id": "526118",
             "rank": "3-4",
             "player": "Baptiste Peysson",
+            "winrate": 0.8,
             "commander": [
                 "Zimone and Dina"
             ],
@@ -427,9 +435,5 @@
                 "1 Botanical Sanctum"
             ]
         }
-    ],
-    "name": "Trial Fact 6",
-    "place": "Ludetopia (Poncin, France)",
-    "players": "16 players",
-    "date": "30/04/23"
+    ]
 }

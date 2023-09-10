@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "33024",
+    "name": "FNM",
+    "place": "City Comics (Leipzig, Germany)",
+    "players": "12 players",
+    "date": "29/10/21",
     "decks": [
         {
             "deck_id": "452683",
             "rank": "1",
             "player": "Jonas Kretzschmar",
+            "winrate": 1.0,
             "commander": [
                 "The Gitrog Monster"
             ],
@@ -105,6 +110,7 @@
             "deck_id": "452684",
             "rank": "2",
             "player": "Sebastian Kött",
+            "winrate": 0.8,
             "commander": [
                 "Yawgmoth, Thran Physician"
             ],
@@ -187,9 +193,5 @@
                 "1 Zulaport Cutthroat"
             ]
         }
-    ],
-    "name": "FNM",
-    "place": "City Comics (Leipzig, Germany)",
-    "players": "12 players",
-    "date": "29/10/21"
+    ]
 }

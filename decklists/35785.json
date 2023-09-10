@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "35785",
+    "name": "RJ Cup 2022 #14",
+    "place": "League Castle (Mong Kok, Hong Kong)",
+    "players": "20 players",
+    "date": "16/04/22",
     "decks": [
         {
             "deck_id": "469849",
             "rank": "1",
             "player": "Sze Hang Chan",
+            "winrate": 1.0,
             "commander": [
                 "Azusa, Lost but Seeking"
             ],
@@ -103,6 +108,7 @@
             "deck_id": "469850",
             "rank": "2",
             "player": "Lap Chung Cheung",
+            "winrate": 0.8,
             "commander": [
                 "Grist, the Hunger Tide"
             ],
@@ -201,6 +207,7 @@
             "deck_id": "469851",
             "rank": "3-4",
             "player": "Jun Hao Chu",
+            "winrate": 0.8,
             "commander": [
                 "Hogaak, Arisen Necropolis"
             ],
@@ -310,6 +317,7 @@
             "deck_id": "469852",
             "rank": "3-4",
             "player": "Chung Tang",
+            "winrate": 0.8,
             "commander": [
                 "Shorikai, Genesis Engine"
             ],
@@ -406,9 +414,5 @@
                 "1 Treachery"
             ]
         }
-    ],
-    "name": "RJ Cup 2022 #14",
-    "place": "League Castle (Mong Kok, Hong Kong)",
-    "players": "20 players",
-    "date": "16/04/22"
+    ]
 }

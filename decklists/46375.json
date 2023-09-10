@@ -1,6 +1,6 @@
 {
     "format": "Duel Commander",
-    "id": 46375,
+    "id": "46375",
     "name": "DC Cassoulet 7 Topdeck Company",
     "place": "Guyajeux (Angoulême, France)",
     "players": "15 players",
@@ -8,6 +8,12 @@
     "decks": [
         {
             "deck_id": "542800",
+            "rank": "1",
+            "player": "Clément",
+            "winrate": 1.0,
+            "commander": [
+                "Old Rutstein"
+            ],
             "decklist": [
                 "1 Apex Altisaur",
                 "1 Animate Dead",
@@ -97,15 +103,16 @@
                 "1 Sheoldred's Edict",
                 "1 Utopia Sprawl",
                 "1 Eldritch Evolution"
-            ],
-            "commander": [
-                "Old Rutstein"
-            ],
-            "rank": "1",
-            "player": "Clément "
+            ]
         },
         {
             "deck_id": "542801",
+            "rank": "2",
+            "player": "Charlgaugau",
+            "winrate": 0.8,
+            "commander": [
+                "Niv-Mizzet Reborn"
+            ],
             "decklist": [
                 "1 Valki, God of Lies",
                 "1 Abrupt Decay",
@@ -206,15 +213,16 @@
                 "1 Wooded Foothills",
                 "1 Wrenn and Six",
                 "1 Ziatora's Proving Ground"
-            ],
-            "commander": [
-                "Niv-Mizzet Reborn"
-            ],
-            "rank": "2",
-            "player": "Charlgaugau"
+            ]
         },
         {
             "deck_id": "542802",
+            "rank": "3-4",
+            "player": "Malou Wisdoom",
+            "winrate": 0.6,
+            "commander": [
+                "Aragorn, the Uniter"
+            ],
             "decklist": [
                 "1 Minsc &amp; Boo, Timeless Heroes",
                 "1 Bring to Light",
@@ -315,15 +323,16 @@
                 "1 Arid Mesa",
                 "1 Scalding Tarn",
                 "1 Marsh Flats"
-            ],
-            "commander": [
-                "Aragorn, the Uniter"
-            ],
-            "rank": "3-4",
-            "player": "Malou Wisdoom"
+            ]
         },
         {
             "deck_id": "542803",
+            "rank": "3-4",
+            "player": "Paul",
+            "winrate": 0.6,
+            "commander": [
+                "Balmor, Battlemage Captain"
+            ],
             "decklist": [
                 "1 Opt",
                 "1 Pyrokinesis",
@@ -406,12 +415,7 @@
                 "1 Frostboil Snarl",
                 "1 Command Tower",
                 "1 Preordain"
-            ],
-            "commander": [
-                "Balmor, Battlemage Captain"
-            ],
-            "rank": "3-4",
-            "player": "Paul"
+            ]
         }
     ]
 }

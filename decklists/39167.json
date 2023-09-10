@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "39167",
+    "name": "Wool Cup 48",
+    "place": "Kadou (Beijing, China)",
+    "players": "16 players",
+    "date": "30/10/22",
     "decks": [
         {
             "deck_id": "491926",
             "rank": "1",
             "player": "Ziqi Xi",
+            "winrate": 1.0,
             "commander": [
                 "Dennick, Pious Apprentice"
             ],
@@ -109,6 +114,7 @@
             "deck_id": "491927",
             "rank": "1",
             "player": "Shoucong Wu",
+            "winrate": 1.0,
             "commander": [
                 "Soul of Windgrace"
             ],
@@ -218,6 +224,7 @@
             "deck_id": "491928",
             "rank": "3-4",
             "player": "Xu Han",
+            "winrate": 0.8,
             "commander": [
                 "Niv-Mizzet Reborn"
             ],
@@ -327,6 +334,7 @@
             "deck_id": "491929",
             "rank": "3-4",
             "player": "Mingxuan Tian",
+            "winrate": 0.8,
             "commander": [
                 "Old Stickfingers"
             ],
@@ -429,9 +437,5 @@
                 "3 Swamp"
             ]
         }
-    ],
-    "name": "Wool Cup 48",
-    "place": "Kadou (Beijing, China)",
-    "players": "16 players",
-    "date": "30/10/22"
+    ]
 }

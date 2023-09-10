@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "31054",
+    "name": "Monthly DC League",
+    "place": "Libourne (France)",
+    "players": "8 players",
+    "date": "11/06/21",
     "decks": [
         {
             "deck_id": "441562",
             "rank": "1",
             "player": "Julien « Night » Caillaux",
+            "winrate": 1.0,
             "commander": [
                 "Niv-Mizzet Reborn"
             ],
@@ -115,6 +120,7 @@
             "deck_id": "441563",
             "rank": "2",
             "player": "Matthieu Habersetzer",
+            "winrate": 0.6666666666666666,
             "commander": [
                 "Maelstrom Wanderer"
             ],
@@ -212,9 +218,5 @@
                 "1 Tropical Island"
             ]
         }
-    ],
-    "name": "Monthly DC League",
-    "place": "Libourne (France)",
-    "players": "8 players",
-    "date": "11/06/21"
+    ]
 }

@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "36437",
+    "name": "KMFNM BIG DC vol. 2",
+    "place": "Kromeriz (Czechia)",
+    "players": "18 players",
+    "date": "22/05/22",
     "decks": [
         {
             "deck_id": "474397",
             "rank": "1",
             "player": "Jakub Loucka",
+            "winrate": 1.0,
             "commander": [
                 "Kess, Dissident Mage"
             ],
@@ -115,6 +120,7 @@
             "deck_id": "474398",
             "rank": "2",
             "player": "Honza Lamper",
+            "winrate": 0.8,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -224,6 +230,7 @@
             "deck_id": "474399",
             "rank": "3",
             "player": "Brona Masik",
+            "winrate": 0.8,
             "commander": [
                 "Grist, the Hunger Tide"
             ],
@@ -323,6 +330,7 @@
             "deck_id": "474400",
             "rank": "4",
             "player": "Krystof \"sealion\" Zlamal",
+            "winrate": 0.6,
             "commander": [
                 "The Reality Chip"
             ],
@@ -411,9 +419,5 @@
                 "18 Snow-Covered Island"
             ]
         }
-    ],
-    "name": "KMFNM BIG DC vol. 2",
-    "place": "Kromeriz (Czechia)",
-    "players": "18 players",
-    "date": "22/05/22"
+    ]
 }

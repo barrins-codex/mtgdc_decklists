@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "35829",
+    "name": "Wool Cup 32",
+    "place": "Kadou (Beijing, China)",
+    "players": "8 players",
+    "date": "17/04/22",
     "decks": [
         {
             "deck_id": "470155",
             "rank": "1",
             "player": "Ceyao Duan",
+            "winrate": 1.0,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -111,9 +116,5 @@
                 "1 Wurmcoil Engine"
             ]
         }
-    ],
-    "name": "Wool Cup 32",
-    "place": "Kadou (Beijing, China)",
-    "players": "8 players",
-    "date": "17/04/22"
+    ]
 }

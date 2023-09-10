@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "34982",
+    "name": "147th New Year Cake Cup",
+    "place": "Shanghai (China)",
+    "players": "8 players",
+    "date": "02/02/22",
     "decks": [
         {
             "deck_id": "464524",
             "rank": "1",
             "player": "Chen Sihong",
+            "winrate": 1.0,
             "commander": [
                 "Minsc, Beloved Ranger"
             ],
@@ -115,6 +120,7 @@
             "deck_id": "464525",
             "rank": "2",
             "player": "Li Zehao",
+            "winrate": 0.6666666666666666,
             "commander": [
                 "Isamaru, Hound of Konda"
             ],
@@ -195,9 +201,5 @@
                 "1 Welcoming Vampire"
             ]
         }
-    ],
-    "name": "147th New Year Cake Cup",
-    "place": "Shanghai (China)",
-    "players": "8 players",
-    "date": "02/02/22"
+    ]
 }

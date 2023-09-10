@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "37067",
+    "name": "DC Mini June IV.",
+    "place": "Edh Base (Czech Republic)",
+    "players": "6 players",
+    "date": "27/06/22",
     "decks": [
         {
             "deck_id": "478297",
             "rank": "1",
             "player": "Vaclav Hrdlicka",
+            "winrate": 1.0,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -115,6 +120,7 @@
             "deck_id": "478298",
             "rank": "2",
             "player": "Martin Vlnas",
+            "winrate": 0.6666666666666666,
             "commander": [
                 "Juri, Master of the Revue"
             ],
@@ -220,9 +226,5 @@
                 "1 Zurgo Bellstriker"
             ]
         }
-    ],
-    "name": "DC Mini June IV.",
-    "place": "Edh Base (Czech Republic)",
-    "players": "6 players",
-    "date": "27/06/22"
+    ]
 }

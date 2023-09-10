@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "43849",
+    "name": "Win-A-Biland",
+    "place": "Jeux Barjo (Bordeaux, France)",
+    "players": "24 players",
+    "date": "29/04/23",
     "decks": [
         {
             "deck_id": "523689",
             "rank": "1",
             "player": "Baptiste Berbille",
+            "winrate": 1.0,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -115,6 +120,7 @@
             "deck_id": "523690",
             "rank": "2",
             "player": "Paul Ridoux",
+            "winrate": 0.8,
             "commander": [
                 "Niv-Mizzet Reborn"
             ],
@@ -224,6 +230,7 @@
             "deck_id": "523691",
             "rank": "3-4",
             "player": "Julien \"night\" Caillaux",
+            "winrate": 0.8,
             "commander": [
                 "Hogaak, Arisen Necropolis"
             ],
@@ -333,6 +340,7 @@
             "deck_id": "523692",
             "rank": "3-4",
             "player": "Julien Rouar",
+            "winrate": 0.8,
             "commander": [
                 "Hogaak, Arisen Necropolis"
             ],
@@ -438,9 +446,5 @@
                 "1 Yavimaya, Cradle of Growth"
             ]
         }
-    ],
-    "name": "Win-A-Biland",
-    "place": "Jeux Barjo (Bordeaux, France)",
-    "players": "24 players",
-    "date": "29/04/23"
+    ]
 }

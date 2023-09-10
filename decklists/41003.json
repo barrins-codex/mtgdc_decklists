@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "41003",
+    "name": "Weekly Iori tourney",
+    "place": "Aling Marings dojo (Rizal, Philippines)",
+    "players": "10 players",
+    "date": "29/01/23",
     "decks": [
         {
             "deck_id": "504796",
             "rank": "1",
             "player": "Regie \"the Pugee\" Sarmiento",
+            "winrate": 1.0,
             "commander": [
                 "The Ur-Dragon"
             ],
@@ -108,6 +113,7 @@
             "deck_id": "504797",
             "rank": "2",
             "player": "Jhay Brinquiz",
+            "winrate": 0.8,
             "commander": [
                 "Isamaru, Hound of Konda"
             ],
@@ -196,9 +202,5 @@
                 "1 Windswept Heath"
             ]
         }
-    ],
-    "name": "Weekly Iori tourney",
-    "place": "Aling Marings dojo (Rizal, Philippines)",
-    "players": "10 players",
-    "date": "29/01/23"
+    ]
 }

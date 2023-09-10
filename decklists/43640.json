@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "43640",
+    "name": "DC for fun!",
+    "place": "Slow Drake (Beijing, China)",
+    "players": "11 players",
+    "date": "22/04/23",
     "decks": [
         {
             "deck_id": "522201",
             "rank": "1",
             "player": "Yixuan Gao",
+            "winrate": 1.0,
             "commander": [
                 "Atraxa, Grand Unifier"
             ],
@@ -115,6 +120,7 @@
             "deck_id": "522202",
             "rank": "2",
             "player": "Yuchen Yang",
+            "winrate": 0.8,
             "commander": [
                 "Atraxa, Grand Unifier"
             ],
@@ -220,9 +226,5 @@
                 "1 Zagoth Triome"
             ]
         }
-    ],
-    "name": "DC for fun!",
-    "place": "Slow Drake (Beijing, China)",
-    "players": "11 players",
-    "date": "22/04/23"
+    ]
 }

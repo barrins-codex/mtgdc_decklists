@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "38762",
+    "name": "Dragon World League : Finals",
+    "place": "Prague (Czech Republic)",
+    "players": "8 players",
+    "date": "11/09/22",
     "decks": [
         {
             "deck_id": "489287",
             "rank": "1",
             "player": "Vojta Kotek",
+            "winrate": 1.0,
             "commander": [
                 "Grenzo, Dungeon Warden"
             ],
@@ -105,6 +110,7 @@
             "deck_id": "489288",
             "rank": "2",
             "player": "Tomas Vardzik",
+            "winrate": 0.6666666666666666,
             "commander": [
                 "Isamaru, Hound of Konda"
             ],
@@ -192,6 +198,7 @@
             "deck_id": "489289",
             "rank": "3",
             "player": "Michal Mendl",
+            "winrate": 0.6666666666666666,
             "commander": [
                 "Dennick, Pious Apprentice"
             ],
@@ -295,6 +302,7 @@
             "deck_id": "489290",
             "rank": "4",
             "player": "Ondrej Muller",
+            "winrate": 0.6666666666666666,
             "commander": [
                 "Hogaak, Arisen Necropolis"
             ],
@@ -400,9 +408,5 @@
                 "1 Yavimaya, Cradle of Growth"
             ]
         }
-    ],
-    "name": "Dragon World League : Finals",
-    "place": "Prague (Czech Republic)",
-    "players": "8 players",
-    "date": "11/09/22"
+    ]
 }

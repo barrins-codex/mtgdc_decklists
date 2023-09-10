@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "27237",
+    "name": "Čáslavský Duel",
+    "place": "Čáslav (Czech Republic)",
+    "players": "14 players",
+    "date": "05/09/20",
     "decks": [
         {
             "deck_id": "414357",
             "rank": "1",
             "player": "Petr Stefan",
+            "winrate": 1.0,
             "commander": [
                 "Tymna the Weaver",
                 "Kraum, Ludevic's Opus"
@@ -115,6 +120,7 @@
             "deck_id": "414358",
             "rank": "2",
             "player": "Miroslav Vana",
+            "winrate": 0.8,
             "commander": [
                 "Maelstrom Wanderer"
             ],
@@ -215,6 +221,7 @@
             "deck_id": "414359",
             "rank": "3-4",
             "player": "Ondrej Hruby",
+            "winrate": 0.6,
             "commander": [
                 "Isamaru, Hound of Konda"
             ],
@@ -297,6 +304,7 @@
             "deck_id": "414360",
             "rank": "3-4",
             "player": "Jakub Lelek",
+            "winrate": 0.6,
             "commander": [
                 "Kraum, Ludevic's Opus",
                 "Ludevic, Necro-Alchemist"
@@ -388,9 +396,5 @@
                 "11 Island"
             ]
         }
-    ],
-    "name": "Čáslavský Duel",
-    "place": "Čáslav (Czech Republic)",
-    "players": "14 players",
-    "date": "05/09/20"
+    ]
 }

@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "24963",
+    "name": "Monthly Duel Commander",
+    "place": "Vladivostok",
+    "players": "11 players",
+    "date": "09/03/20",
     "decks": [
         {
             "deck_id": "374689",
             "rank": "1",
             "player": "Ovsyuk Vladislav",
+            "winrate": 1.0,
             "commander": [
                 "Uro, Titan of Nature's Wrath"
             ],
@@ -107,6 +112,7 @@
             "deck_id": "374690",
             "rank": "2",
             "player": "Iurchenko Andrei",
+            "winrate": 0.8,
             "commander": [
                 "Rowan Kenrith",
                 "Will Kenrith"
@@ -183,9 +189,5 @@
                 "30 Snow-Covered Island"
             ]
         }
-    ],
-    "name": "Monthly Duel Commander",
-    "place": "Vladivostok",
-    "players": "11 players",
-    "date": "09/03/20"
+    ]
 }

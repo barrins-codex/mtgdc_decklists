@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "27052",
+    "name": "DC",
+    "place": "Evreux (France)",
+    "players": "9 players",
+    "date": "22/08/20",
     "decks": [
         {
             "deck_id": "412624",
             "rank": "1",
             "player": "Romain Chassagne",
+            "winrate": 1.0,
             "commander": [
                 "Uro, Titan of Nature's Wrath"
             ],
@@ -94,6 +99,7 @@
             "deck_id": "412625",
             "rank": "2",
             "player": "Marc Chassagne",
+            "winrate": 0.8,
             "commander": [
                 "Silas Renn, Seeker Adept",
                 "Akiri, Line-Slinger"
@@ -199,9 +205,5 @@
                 "1 Great Furnace"
             ]
         }
-    ],
-    "name": "DC",
-    "place": "Evreux (France)",
-    "players": "9 players",
-    "date": "22/08/20"
+    ]
 }

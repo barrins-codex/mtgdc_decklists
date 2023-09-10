@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "8502",
+    "name": "Duel Commander (Angers)",
+    "place": "",
+    "players": "12 players",
+    "date": "15/11/14",
     "decks": [
         {
             "deck_id": "248820",
             "rank": "1",
             "player": "\"Jon D Snow\"",
+            "winrate": 1.0,
             "commander": [
                 "Thraximundar"
             ],
@@ -112,6 +117,7 @@
             "deck_id": "248821",
             "rank": "2",
             "player": "Marius Bredon",
+            "winrate": 0.8,
             "commander": [
                 "Prossh, Skyraider of Kher"
             ],
@@ -217,9 +223,5 @@
                 "1 Toxic Deluge"
             ]
         }
-    ],
-    "name": "Duel Commander (Angers)",
-    "place": "",
-    "players": "12 players",
-    "date": "15/11/14"
+    ]
 }

@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "24964",
+    "name": "FNM Hiveworld",
+    "place": "Cologne (Germany)",
+    "players": "14 players",
+    "date": "13/03/20",
     "decks": [
         {
             "deck_id": "374691",
             "rank": "1",
             "player": "Felix Weber",
+            "winrate": 1.0,
             "commander": [
                 "Sisay, Weatherlight Captain"
             ],
@@ -115,6 +120,7 @@
             "deck_id": "374692",
             "rank": "2",
             "player": "Oliver Holka",
+            "winrate": 0.8,
             "commander": [
                 "Judith, the Scourge Diva"
             ],
@@ -206,9 +212,5 @@
                 "1 Shinka, the Bloodsoaked Keep"
             ]
         }
-    ],
-    "name": "FNM Hiveworld",
-    "place": "Cologne (Germany)",
-    "players": "14 players",
-    "date": "13/03/20"
+    ]
 }

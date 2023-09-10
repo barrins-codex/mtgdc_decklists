@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
-    "id": 45520,
+    "id": "45520",
+    "name": "Magic&Games DC League",
+    "place": "Montpellier (France)",
+    "players": "13 players",
+    "date": "28/06/23",
     "decks": [
         {
             "deck_id": "536391",
             "rank": "1",
             "player": "Jonathan Montalva Alias The Malicious",
+            "winrate": 1.0,
             "commander": [
                 "Kess, Dissident Mage"
             ],
@@ -115,6 +120,7 @@
             "deck_id": "536392",
             "rank": "2",
             "player": "Alexis Dumay",
+            "winrate": 0.8,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -220,9 +226,5 @@
                 "1 Wrath of God"
             ]
         }
-    ],
-    "name": "Magic&Games DC League",
-    "place": "Montpellier (France)",
-    "players": "13 players",
-    "date": "28/06/23"
+    ]
 }

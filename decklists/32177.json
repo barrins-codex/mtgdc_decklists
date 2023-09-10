@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "32177",
+    "name": "DC Arena Jeux",
+    "place": "Orange (France)",
+    "players": "14 players",
+    "date": "27/08/21",
     "decks": [
         {
             "deck_id": "447861",
             "rank": "1",
             "player": "Luc Coquillot \"gorkk\"",
+            "winrate": 1.0,
             "commander": [
                 "Tevesh Szat, Doom of Fools",
                 "Miara, Thorn of the Glade"
@@ -86,6 +91,7 @@
             "deck_id": "447862",
             "rank": "2",
             "player": "Anthony Ghazavi",
+            "winrate": 0.8,
             "commander": [
                 "General Ferrous Rokiric"
             ],
@@ -174,9 +180,5 @@
                 "10 Plains"
             ]
         }
-    ],
-    "name": "DC Arena Jeux",
-    "place": "Orange (France)",
-    "players": "14 players",
-    "date": "27/08/21"
+    ]
 }

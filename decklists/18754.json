@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "18754",
+    "name": "carta'jeu monthly Dc",
+    "place": "",
+    "players": "14 players",
+    "date": "11/03/18",
     "decks": [
         {
             "deck_id": "317276",
             "rank": "1",
             "player": "Cesidio Vischi - Meideros",
+            "winrate": 1.0,
             "commander": [
                 "Daretti, Scrap Savant"
             ],
@@ -84,9 +89,5 @@
                 "1 Dust Bowl"
             ]
         }
-    ],
-    "name": "carta'jeu monthly Dc",
-    "place": "",
-    "players": "14 players",
-    "date": "11/03/18"
+    ]
 }

@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "34675",
+    "name": "Commander",
+    "place": "Tower Of Cards (Rio de Janeiro, Brazil)",
+    "players": "10 players",
+    "date": "12/02/22",
     "decks": [
         {
             "deck_id": "462721",
             "rank": "1",
             "player": "Michel Xisto",
+            "winrate": 1.0,
             "commander": [
                 "Gorex, the Tombshell"
             ],
@@ -89,6 +94,7 @@
             "deck_id": "462722",
             "rank": "2",
             "player": "Thales",
+            "winrate": 0.8,
             "commander": [
                 "Laelia, the Blade Reforged"
             ],
@@ -169,6 +175,7 @@
             "deck_id": "462723",
             "rank": "3-4",
             "player": "Aracaju",
+            "winrate": 0.6,
             "commander": [
                 "Athreos, God of Passage"
             ],
@@ -259,6 +266,7 @@
             "deck_id": "462724",
             "rank": "3-4",
             "player": "Acelerado",
+            "winrate": 0.6,
             "commander": [
                 "Kalitas, Traitor of Ghet"
             ],
@@ -329,9 +337,5 @@
                 "36 Swamp"
             ]
         }
-    ],
-    "name": "Commander",
-    "place": "Tower Of Cards (Rio de Janeiro, Brazil)",
-    "players": "10 players",
-    "date": "12/02/22"
+    ]
 }

@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "44550",
+    "name": "Weekly DC",
+    "place": "Slow Drake (Beijing, China)",
+    "players": "14 players",
+    "date": "21/05/23",
     "decks": [
         {
             "deck_id": "528533",
             "rank": "1",
             "player": "Fan Yang",
+            "winrate": 1.0,
             "commander": [
                 "Atraxa, Grand Unifier"
             ],
@@ -115,6 +120,7 @@
             "deck_id": "528534",
             "rank": "2",
             "player": "Ziqi Xi",
+            "winrate": 0.8,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -224,6 +230,7 @@
             "deck_id": "528535",
             "rank": "3",
             "player": "Wong Dik Fan",
+            "winrate": 0.6,
             "commander": [
                 "Errant and Giada"
             ],
@@ -325,6 +332,7 @@
             "deck_id": "528536",
             "rank": "4",
             "player": "Ruji Li",
+            "winrate": 0.6,
             "commander": [
                 "Errant and Giada"
             ],
@@ -422,9 +430,5 @@
                 "5 Snow-Covered Island"
             ]
         }
-    ],
-    "name": "Weekly DC",
-    "place": "Slow Drake (Beijing, China)",
-    "players": "14 players",
-    "date": "21/05/23"
+    ]
 }

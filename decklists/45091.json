@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "45091",
+    "name": "HEX CLUB: DC Championship",
+    "place": "The Stone Dragon (Kempton Park, South Africa)",
+    "players": "8 players",
+    "date": "11/06/23",
     "decks": [
         {
             "deck_id": "532906",
             "rank": "1",
             "player": "Rivone Josie",
+            "winrate": 1.0,
             "commander": [
                 "Azusa, Lost but Seeking"
             ],
@@ -99,6 +104,7 @@
             "deck_id": "532907",
             "rank": "2",
             "player": "Bavan Schimper",
+            "winrate": 0.6666666666666666,
             "commander": [
                 "Krenko, Mob Boss"
             ],
@@ -182,6 +188,7 @@
             "deck_id": "532908",
             "rank": "3",
             "player": "Siveshen Chetty",
+            "winrate": 0.6666666666666666,
             "commander": [
                 "Atraxa, Grand Unifier"
             ],
@@ -290,6 +297,7 @@
             "deck_id": "532909",
             "rank": "4",
             "player": "Rinaldo Josie",
+            "winrate": 0.6666666666666666,
             "commander": [
                 "Gut, True Soul Zealot",
                 "Veteran Soldier"
@@ -386,9 +394,5 @@
                 "1 Windswept Heath"
             ]
         }
-    ],
-    "name": "HEX CLUB: DC Championship",
-    "place": "The Stone Dragon (Kempton Park, South Africa)",
-    "players": "8 players",
-    "date": "11/06/23"
+    ]
 }

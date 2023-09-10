@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "31422",
+    "name": "130th \"New Year Cake\" Cup",
+    "place": "Shanghai (China)",
+    "players": "11 players",
+    "date": "03/07/21",
     "decks": [
         {
             "deck_id": "443628",
             "rank": "1",
             "player": "Yang Yang",
+            "winrate": 1.0,
             "commander": [
                 "Sythis, Harvest's Hand"
             ],
@@ -107,6 +112,7 @@
             "deck_id": "443629",
             "rank": "2",
             "player": "He Ying",
+            "winrate": 0.8,
             "commander": [
                 "Golos, Tireless Pilgrim"
             ],
@@ -212,9 +218,5 @@
                 "1 Wargate"
             ]
         }
-    ],
-    "name": "130th \"New Year Cake\" Cup",
-    "place": "Shanghai (China)",
-    "players": "11 players",
-    "date": "03/07/21"
+    ]
 }

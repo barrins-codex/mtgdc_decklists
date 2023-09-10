@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "17159",
+    "name": "Magic Player - Month duel",
+    "place": "",
+    "players": "8 players",
+    "date": "08/10/17",
     "decks": [
         {
             "deck_id": "306184",
             "rank": "1",
             "player": "Jeppe Risager",
+            "winrate": 1.0,
             "commander": [
                 "Jenara, Asura of War"
             ],
@@ -115,6 +120,7 @@
             "deck_id": "306187",
             "rank": "2",
             "player": "Jasper Nielsen",
+            "winrate": 0.6666666666666666,
             "commander": [
                 "Titania, Protector of Argoth"
             ],
@@ -202,9 +208,5 @@
                 "1 Scavenging Ooze"
             ]
         }
-    ],
-    "name": "Magic Player - Month duel",
-    "place": "",
-    "players": "8 players",
-    "date": "08/10/17"
+    ]
 }

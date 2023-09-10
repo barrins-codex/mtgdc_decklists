@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "32197",
+    "name": "Prime Event #1",
+    "place": "Châteauroux (France)",
+    "players": "97 players",
+    "date": "28/08/21",
     "decks": [
         {
             "deck_id": "447939",
             "rank": "1",
             "player": "Théau Méry",
+            "winrate": 0.9,
             "commander": [
                 "Isamaru, Hound of Konda"
             ],
@@ -90,6 +95,7 @@
             "deck_id": "447940",
             "rank": "2",
             "player": "Louis Guichard",
+            "winrate": 0.8,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -179,6 +185,7 @@
             "deck_id": "447941",
             "rank": "3-4",
             "player": "Joakim Dubois",
+            "winrate": 0.7777777777777778,
             "commander": [
                 "Emmara, Soul of the Accord"
             ],
@@ -279,6 +286,7 @@
             "deck_id": "447942",
             "rank": "3-4",
             "player": "Grégoire Payan",
+            "winrate": 0.7777777777777778,
             "commander": [
                 "The Gitrog Monster"
             ],
@@ -377,6 +385,7 @@
             "deck_id": "447943",
             "rank": "5-8",
             "player": "Vincent Ringuedé",
+            "winrate": 0.7777777777777778,
             "commander": [
                 "Asmoranomardicadaistinaculdacar"
             ],
@@ -479,6 +488,7 @@
             "deck_id": "447944",
             "rank": "5-8",
             "player": "Gaël Huber",
+            "winrate": 0.7777777777777778,
             "commander": [
                 "Jirina Kudro"
             ],
@@ -588,6 +598,7 @@
             "deck_id": "447945",
             "rank": "5-8",
             "player": "Nicolas Maurice",
+            "winrate": 0.7777777777777778,
             "commander": [
                 "Kinnan, Bonder Prodigy"
             ],
@@ -687,6 +698,7 @@
             "deck_id": "447946",
             "rank": "5-8",
             "player": "Aurélien Lion",
+            "winrate": 0.7777777777777778,
             "commander": [
                 "Winota, Joiner of Forces"
             ],
@@ -786,7 +798,11 @@
         {
             "deck_id": "447947",
             "rank": "9-16",
-            "player": "Jean",
+            "player": "Jean-mathieu Gaffié",
+            "winrate": 0.7142857142857143,
+            "commander": [
+                "Aminatou, the Fateshifter"
+            ],
             "decklist": [
                 "1 Adarkar Wastes",
                 "1 Arid Mesa",
@@ -887,15 +903,16 @@
                 "1 Watery Grave",
                 "1 Windswept Heath",
                 "1 Yorion, Sky Nomad"
-            ],
-            "commander": [
-                "Aminatou, the Fateshifter"
             ]
         },
         {
             "deck_id": "447948",
             "rank": "9-16",
-            "player": "Pierre",
+            "player": "Pierre-henri François",
+            "winrate": 0.7142857142857143,
+            "commander": [
+                "Animar, Soul of Elements"
+            ],
             "decklist": [
                 "1 Cragcrown Pathway",
                 "1 Riverglide Pathway",
@@ -996,15 +1013,16 @@
                 "1 Worldly Tutor",
                 "1 Wurmcoil Engine",
                 "1 Yavimaya Coast"
-            ],
-            "commander": [
-                "Animar, Soul of Elements"
             ]
         },
         {
             "deck_id": "447949",
             "rank": "9-16",
             "player": "Félix Calais",
+            "winrate": 0.7142857142857143,
+            "commander": [
+                "Kytheon, Hero of Akros"
+            ],
             "decklist": [
                 "1 Giant Killer",
                 "1 Ancient Den",
@@ -1080,15 +1098,17 @@
                 "1 Vigilant Martyr",
                 "1 Walking Ballista",
                 "1 Weathered Wayfarer"
-            ],
-            "commander": [
-                "Kytheon, Hero of Akros"
             ]
         },
         {
             "deck_id": "447950",
             "rank": "9-16",
-            "player": "malcolm",
+            "player": "Antoine Morera",
+            "winrate": 0.7142857142857143,
+            "commander": [
+                "Livio, Oathsworn Sentinel",
+                "Malcolm, Keen-Eyed Navigator"
+            ],
             "decklist": [
                 "1 Brazen Borrower",
                 "1 Emeria's Call",
@@ -1177,16 +1197,16 @@
                 "1 Vendilion Clique",
                 "1 Venser, Shaper Savant",
                 "1 Windswept Heath"
-            ],
-            "commander": [
-                "Livio, Oathsworn Sentinel",
-                "Malcolm, Keen-Eyed Navigator"
             ]
         },
         {
             "deck_id": "447951",
             "rank": "9-16",
             "player": "Nicolas Francçois",
+            "winrate": 0.7142857142857143,
+            "commander": [
+                "Saskia the Unyielding"
+            ],
             "decklist": [
                 "1 Darkbore Pathway",
                 "1 Abrupt Decay",
@@ -1287,15 +1307,16 @@
                 "1 Wooded Foothills",
                 "1 Woolly Thoctar",
                 "1 Zurgo Bellstriker"
-            ],
-            "commander": [
-                "Saskia the Unyielding"
             ]
         },
         {
             "deck_id": "447952",
             "rank": "9-16",
             "player": "Maximilien Kalil",
+            "winrate": 0.7142857142857143,
+            "commander": [
+                "Sisay, Weatherlight Captain"
+            ],
             "decklist": [
                 "1 Jace, Vryn's Prodigy",
                 "1 Nicol Bolas, the Ravager",
@@ -1396,15 +1417,16 @@
                 "1 Wooded Foothills",
                 "1 Wrenn and Six",
                 "1 Zagoth Triome"
-            ],
-            "commander": [
-                "Sisay, Weatherlight Captain"
             ]
         },
         {
             "deck_id": "447953",
             "rank": "9-16",
             "player": "Julien Faidherbe",
+            "winrate": 0.7142857142857143,
+            "commander": [
+                "Titania, Protector of Argoth"
+            ],
             "decklist": [
                 "1 Allosaurus Shepherd",
                 "1 Arbor Elf",
@@ -1494,15 +1516,16 @@
                 "1 Yavimaya Hollow",
                 "1 Yavimaya, Cradle of Growth",
                 "1 Zuran Orb"
-            ],
-            "commander": [
-                "Titania, Protector of Argoth"
             ]
         },
         {
             "deck_id": "447954",
             "rank": "9-16",
             "player": "Antoine Guillet",
+            "winrate": 0.7142857142857143,
+            "commander": [
+                "Winota, Joiner of Forces"
+            ],
             "decklist": [
                 "1 Bonecrusher Giant",
                 "1 Legion's Landing",
@@ -1593,14 +1616,7 @@
                 "1 Wooded Foothills",
                 "1 You See a Pair of Goblins",
                 "1 Zurgo Bellstriker"
-            ],
-            "commander": [
-                "Winota, Joiner of Forces"
             ]
         }
-    ],
-    "name": "Prime Event #1",
-    "place": "Châteauroux (France)",
-    "players": "97 players",
-    "date": "28/08/21"
+    ]
 }

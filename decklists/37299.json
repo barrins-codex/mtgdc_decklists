@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "37299",
+    "name": "Duel for Ivy",
+    "place": "Tapped Games (Marikina City, Philippines)",
+    "players": "16 players",
+    "date": "10/07/22",
     "decks": [
         {
             "deck_id": "479773",
             "rank": "1",
             "player": "Jonathan Dolor",
+            "winrate": 1.0,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -92,6 +97,7 @@
             "deck_id": "479774",
             "rank": "2",
             "player": "Nhald Adia",
+            "winrate": 0.8,
             "commander": [
                 "Minsc &amp; Boo, Timeless Heroes"
             ],
@@ -191,6 +197,7 @@
             "deck_id": "479775",
             "rank": "3-4",
             "player": "Calvin Razon",
+            "winrate": 0.8,
             "commander": [
                 "Isamaru, Hound of Konda"
             ],
@@ -276,6 +283,7 @@
             "deck_id": "479776",
             "rank": "3-4",
             "player": "Dinno Zaide",
+            "winrate": 0.8,
             "commander": [
                 "Ludevic, Necro-Alchemist",
                 "Jeska, Thrice Reborn"
@@ -371,9 +379,5 @@
                 "4 Mountain"
             ]
         }
-    ],
-    "name": "Duel for Ivy",
-    "place": "Tapped Games (Marikina City, Philippines)",
-    "players": "16 players",
-    "date": "10/07/22"
+    ]
 }

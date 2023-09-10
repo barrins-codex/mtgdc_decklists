@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "11764",
+    "name": "Duel Commander",
+    "place": "Carta'Jeu (Lyon)",
+    "players": "14 players",
+    "date": "28/02/16",
     "decks": [
         {
             "deck_id": "267070",
             "rank": "1",
             "player": "Olivier \"OLiv7\" Pavin",
+            "winrate": 1.0,
             "commander": [
                 "Yisan, the Wanderer Bard"
             ],
@@ -92,6 +97,7 @@
             "deck_id": "267071",
             "rank": "2",
             "player": "Maxime \"Makexime\" Lemoine",
+            "winrate": 0.8,
             "commander": [
                 "Braids, Cabal Minion"
             ],
@@ -174,9 +180,5 @@
                 "1 Yawgmoth's Will"
             ]
         }
-    ],
-    "name": "Duel Commander",
-    "place": "Carta'Jeu (Lyon)",
-    "players": "14 players",
-    "date": "28/02/16"
+    ]
 }

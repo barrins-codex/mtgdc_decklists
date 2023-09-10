@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "22798",
+    "name": "[DDL] Lounge League",
+    "place": "Darmstadt, Germany",
+    "players": "9 players",
+    "date": "13/08/19",
     "decks": [
         {
             "deck_id": "355786",
             "rank": "1",
             "player": "Martin G.",
+            "winrate": 1.0,
             "commander": [
                 "Thrasios, Triton Hero",
                 "Ludevic, Necro-Alchemist"
@@ -113,6 +118,7 @@
             "deck_id": "355787",
             "rank": "2",
             "player": "Samuel Z.",
+            "winrate": 0.8,
             "commander": [
                 "Ludevic, Necro-Alchemist",
                 "Thrasios, Triton Hero"
@@ -216,9 +222,5 @@
                 "1 Reflecting Pool"
             ]
         }
-    ],
-    "name": "[DDL] Lounge League",
-    "place": "Darmstadt, Germany",
-    "players": "9 players",
-    "date": "13/08/19"
+    ]
 }

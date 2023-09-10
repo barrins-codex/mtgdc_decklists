@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
-    "id": 45567,
+    "id": "45567",
+    "name": "DC 500",
+    "place": "Taverna Nerdstore  (Florianópolis, Brasil)",
+    "players": "8 players",
+    "date": "28/06/23",
     "decks": [
         {
             "deck_id": "536641",
             "rank": "1",
             "player": "Karin",
+            "winrate": 1.0,
             "commander": [
                 "Narset, Enlightened Exile"
             ],
@@ -100,6 +105,7 @@
             "deck_id": "536642",
             "rank": "2",
             "player": "Guilherme",
+            "winrate": 0.6666666666666666,
             "commander": [
                 "Thalia, Guardian of Thraben"
             ],
@@ -174,9 +180,5 @@
                 "1 Giant Killer"
             ]
         }
-    ],
-    "name": "DC 500",
-    "place": "Taverna Nerdstore  (Florianópolis, Brasil)",
-    "players": "8 players",
-    "date": "28/06/23"
+    ]
 }

@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "13274",
+    "name": "Ancestral Duel Commander (Le Mans, France)",
+    "place": "",
+    "players": "14 players",
+    "date": "14/08/16",
     "decks": [
         {
             "deck_id": "277941",
             "rank": "1",
             "player": "Manolo Castro",
+            "winrate": 1.0,
             "commander": [
                 "Titania, Protector of Argoth"
             ],
@@ -95,6 +100,7 @@
             "deck_id": "277942",
             "rank": "2",
             "player": "Julien \"Sonte\" Sori",
+            "winrate": 0.8,
             "commander": [
                 "Jenara, Asura of War"
             ],
@@ -199,9 +205,5 @@
                 "1 Mana Tithe"
             ]
         }
-    ],
-    "name": "Ancestral Duel Commander (Le Mans, France)",
-    "place": "",
-    "players": "14 players",
-    "date": "14/08/16"
+    ]
 }

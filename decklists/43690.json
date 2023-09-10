@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "43690",
+    "name": "TNDC\"Natl Children's Book Day\"",
+    "place": "Bolovo Games (Santos, Brasil)",
+    "players": "17 players",
+    "date": "18/04/23",
     "decks": [
         {
             "deck_id": "522581",
             "rank": "1",
             "player": "Euro Figueiredo",
+            "winrate": 1.0,
             "commander": [
                 "Sai, Master Thopterist"
             ],
@@ -89,7 +94,8 @@
         {
             "deck_id": "522582",
             "rank": "3",
-            "player": "Breno ",
+            "player": "Breno",
+            "winrate": 0.8,
             "commander": [
                 "Feldon, Ronom Excavator"
             ],
@@ -171,6 +177,7 @@
             "deck_id": "522583",
             "rank": "4",
             "player": "Gabriel Kawagoe",
+            "winrate": 0.6,
             "commander": [
                 "Erayo, Soratami Ascendant"
             ],
@@ -252,9 +259,5 @@
                 "1 Zuran Orb"
             ]
         }
-    ],
-    "name": "TNDC\"Natl Children's Book Day\"",
-    "place": "Bolovo Games (Santos, Brasil)",
-    "players": "17 players",
-    "date": "18/04/23"
+    ]
 }

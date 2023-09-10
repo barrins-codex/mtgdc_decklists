@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "8119",
+    "name": "Clash of Commanders 1 (Bratislava, Slovakia)",
+    "place": "",
+    "players": "12 players",
+    "date": "07/09/14",
     "decks": [
         {
             "deck_id": "246789",
             "rank": "1",
             "player": "Dalibor Szegho",
+            "winrate": 1.0,
             "commander": [
                 "Damia, Sage of Stone"
             ],
@@ -108,6 +113,7 @@
             "deck_id": "246790",
             "rank": "2",
             "player": "Matej Cheben",
+            "winrate": 0.8,
             "commander": [
                 "Prossh, Skyraider of Kher"
             ],
@@ -213,9 +219,5 @@
                 "1 Mana Confluence"
             ]
         }
-    ],
-    "name": "Clash of Commanders 1 (Bratislava, Slovakia)",
-    "place": "",
-    "players": "12 players",
-    "date": "07/09/14"
+    ]
 }

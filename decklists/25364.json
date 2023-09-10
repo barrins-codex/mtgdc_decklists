@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "25364",
+    "name": "DC Satell #2",
+    "place": "Online",
+    "players": "9 players",
+    "date": "28/03/20",
     "decks": [
         {
             "deck_id": "381272",
             "rank": "1",
             "player": "Lionel \"hannibal44\" Galliere",
+            "winrate": 1.0,
             "commander": [
                 "Niv-Mizzet Reborn"
             ],
@@ -115,6 +120,7 @@
             "deck_id": "381273",
             "rank": "2",
             "player": "Steamoak",
+            "winrate": 0.8,
             "commander": [
                 "Uro, Titan of Nature's Wrath"
             ],
@@ -217,9 +223,5 @@
                 "1 Elvish Reclaimer"
             ]
         }
-    ],
-    "name": "DC Satell #2",
-    "place": "Online",
-    "players": "9 players",
-    "date": "28/03/20"
+    ]
 }

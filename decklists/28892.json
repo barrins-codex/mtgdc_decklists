@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "28892",
+    "name": "Zap Online Janvier",
+    "place": "Discord + Cockatrice",
+    "players": "24 players",
+    "date": "17/01/21",
     "decks": [
         {
             "deck_id": "428014",
             "rank": "1",
             "player": "Nicolas Eliott",
+            "winrate": 1.0,
             "commander": [
                 "Tevesh Szat, Doom of Fools",
                 "Rograkh, Son of Rohgahh"
@@ -97,6 +102,7 @@
             "deck_id": "428015",
             "rank": "2",
             "player": "Felix \"midas\" Calais",
+            "winrate": 0.8,
             "commander": [
                 "Jeska, Thrice Reborn",
                 "Esior, Wardwing Familiar"
@@ -192,6 +198,7 @@
             "deck_id": "428016",
             "rank": "3-4",
             "player": "Lionel \"hannibal44\" Gallière",
+            "winrate": 0.8,
             "commander": [
                 "Jeska, Thrice Reborn",
                 "Esior, Wardwing Familiar"
@@ -287,6 +294,7 @@
             "deck_id": "428017",
             "rank": "3-4",
             "player": "Alexandre \"onesauk\" Benac",
+            "winrate": 0.8,
             "commander": [
                 "Jeska, Thrice Reborn",
                 "Krark, the Thumbless"
@@ -364,6 +372,7 @@
             "deck_id": "428018",
             "rank": "5",
             "player": "Aurélien \"lorel\" Cornet",
+            "winrate": 0.6,
             "commander": [
                 "Zur the Enchanter"
             ],
@@ -473,6 +482,7 @@
             "deck_id": "428019",
             "rank": "6",
             "player": "Adrien \"admab\" Mabire",
+            "winrate": 0.6,
             "commander": [
                 "Esior, Wardwing Familiar",
                 "Jeska, Thrice Reborn"
@@ -567,6 +577,7 @@
             "deck_id": "428020",
             "rank": "7",
             "player": "Jules \"fowcus\" Lestienne",
+            "winrate": 0.6,
             "commander": [
                 "Silas Renn, Seeker Adept",
                 "Krark, the Thumbless"
@@ -676,6 +687,7 @@
             "deck_id": "428021",
             "rank": "8",
             "player": "Paul \"mononoke18\" Lagues",
+            "winrate": 0.6,
             "commander": [
                 "Kinnan, Bonder Prodigy"
             ],
@@ -769,9 +781,5 @@
                 "1 Tropical Island"
             ]
         }
-    ],
-    "name": "Zap Online Janvier",
-    "place": "Discord + Cockatrice",
-    "players": "24 players",
-    "date": "17/01/21"
+    ]
 }

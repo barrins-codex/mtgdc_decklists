@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "27065",
+    "name": "DC",
+    "place": "Geek Place (Araras, Brasil)",
+    "players": "10 players",
+    "date": "22/08/20",
     "decks": [
         {
             "deck_id": "412702",
             "rank": "1",
             "player": "Eduardo Tognoli",
+            "winrate": 1.0,
             "commander": [
                 "Akiri, Line-Slinger",
                 "Tymna the Weaver"
@@ -112,6 +117,7 @@
             "deck_id": "412703",
             "rank": "2",
             "player": "Kelvin Gomes",
+            "winrate": 0.8,
             "commander": [
                 "Rowan Kenrith",
                 "Will Kenrith"
@@ -197,9 +203,5 @@
                 "16 Snow-Covered Island"
             ]
         }
-    ],
-    "name": "DC",
-    "place": "Geek Place (Araras, Brasil)",
-    "players": "10 players",
-    "date": "22/08/20"
+    ]
 }

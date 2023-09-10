@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "32713",
+    "name": "137th \"New Year Cake\" Cup",
+    "place": "Shanghai (China)",
+    "players": "15 players",
+    "date": "06/10/21",
     "decks": [
         {
             "deck_id": "450900",
             "rank": "1",
             "player": "Chen Hengqiang",
+            "winrate": 1.0,
             "commander": [
                 "Saskia the Unyielding"
             ],
@@ -115,6 +120,7 @@
             "deck_id": "450901",
             "rank": "2",
             "player": "Yao Yao",
+            "winrate": 0.8,
             "commander": [
                 "Niv-Mizzet Reborn"
             ],
@@ -224,6 +230,7 @@
             "deck_id": "450902",
             "rank": "3",
             "player": "Wang Daisun",
+            "winrate": 0.6,
             "commander": [
                 "Azusa, Lost but Seeking"
             ],
@@ -316,9 +323,5 @@
                 "1 Wild Growth"
             ]
         }
-    ],
-    "name": "137th \"New Year Cake\" Cup",
-    "place": "Shanghai (China)",
-    "players": "15 players",
-    "date": "06/10/21"
+    ]
 }

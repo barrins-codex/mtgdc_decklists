@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "33830",
+    "name": "DC",
+    "place": "Manabolt (Limeira, Brazil)",
+    "players": "8 players",
+    "date": "11/12/21",
     "decks": [
         {
             "deck_id": "457719",
             "rank": "1",
             "player": "Du Tognoli",
+            "winrate": 1.0,
             "commander": [
                 "Laelia, the Blade Reforged"
             ],
@@ -93,6 +98,7 @@
             "deck_id": "457720",
             "rank": "2",
             "player": "Kelvin",
+            "winrate": 0.6666666666666666,
             "commander": [
                 "Octavia, Living Thesis"
             ],
@@ -180,9 +186,5 @@
                 "1 The Magic Mirror"
             ]
         }
-    ],
-    "name": "DC",
-    "place": "Manabolt (Limeira, Brazil)",
-    "players": "8 players",
-    "date": "11/12/21"
+    ]
 }

@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "16731",
+    "name": "FNM Hiveworld",
+    "place": "",
+    "players": "8 players",
+    "date": "01/09/17",
     "decks": [
         {
             "deck_id": "303435",
             "rank": "1",
             "player": "Richard Müller",
+            "winrate": 1.0,
             "commander": [
                 "Prossh, Skyraider of Kher"
             ],
@@ -100,6 +105,7 @@
             "deck_id": "303436",
             "rank": "2",
             "player": "Sebastian Haines",
+            "winrate": 0.6666666666666666,
             "commander": [
                 "Leovold, Emissary of Trest"
             ],
@@ -205,9 +211,5 @@
                 "1 Demonic Tutor"
             ]
         }
-    ],
-    "name": "FNM Hiveworld",
-    "place": "",
-    "players": "8 players",
-    "date": "01/09/17"
+    ]
 }

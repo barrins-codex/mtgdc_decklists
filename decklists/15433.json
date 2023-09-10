@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "15433",
+    "name": "Duel Commander SLZ GAMES SEASON 4",
+    "place": "",
+    "players": "10 players",
+    "date": "23/04/17",
     "decks": [
         {
             "deck_id": "293955",
             "rank": "1",
             "player": "Warwick Steiff",
+            "winrate": 1.0,
             "commander": [
                 "Kytheon, Hero of Akros"
             ],
@@ -88,6 +93,7 @@
             "deck_id": "293956",
             "rank": "2",
             "player": "Reizinho",
+            "winrate": 0.8,
             "commander": [
                 "Kytheon, Hero of Akros"
             ],
@@ -164,9 +170,5 @@
                 "1 Windbrisk Heights"
             ]
         }
-    ],
-    "name": "Duel Commander SLZ GAMES SEASON 4",
-    "place": "",
-    "players": "10 players",
-    "date": "23/04/17"
+    ]
 }

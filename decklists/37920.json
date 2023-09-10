@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "37920",
+    "name": "Cóleras & DuWells #31",
+    "place": "CdT (Pelotas, Brazil)",
+    "players": "10 players",
+    "date": "03/08/22",
     "decks": [
         {
             "deck_id": "483725",
             "rank": "1",
             "player": "Well",
+            "winrate": 1.0,
             "commander": [
                 "Jeska, Thrice Reborn",
                 "Ludevic, Necro-Alchemist"
@@ -107,6 +112,7 @@
             "deck_id": "483726",
             "rank": "2",
             "player": "Igor Da Silva Moncks Valério",
+            "winrate": 0.8,
             "commander": [
                 "Ikra Shidiqi, the Usurper",
                 "Jeska, Thrice Reborn"
@@ -216,6 +222,7 @@
             "deck_id": "483727",
             "rank": "3",
             "player": "Ness",
+            "winrate": 0.6,
             "commander": [
                 "Tivit, Seller of Secrets"
             ],
@@ -321,9 +328,5 @@
                 "1 Baleful Strix"
             ]
         }
-    ],
-    "name": "Cóleras & DuWells #31",
-    "place": "CdT (Pelotas, Brazil)",
-    "players": "10 players",
-    "date": "03/08/22"
+    ]
 }

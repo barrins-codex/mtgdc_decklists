@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "29368",
+    "name": "Commander League V2 S2",
+    "place": "Discord",
+    "players": "40 players",
+    "date": "23/02/21",
     "decks": [
         {
             "deck_id": "430896",
             "rank": "1",
             "player": "M.das",
+            "winrate": 0.8888888888888888,
             "commander": [
                 "Rograkh, Son of Rohgahh",
                 "Keleth, Sunmane Familiar"
@@ -100,107 +105,10 @@
             ]
         },
         {
-            "deck_id": "430897",
-            "rank": "2",
-            "player": "0zankou0",
-            "commander": [
-                "Rograkh, Son of Rohgahh",
-                "Keleth, Sunmane Familiar"
-            ],
-            "decklist": [
-                "1 Force of Virtue",
-                "1 Tangle Wire",
-                "1 Chained to the Rocks",
-                "1 On Thin Ice",
-                "1 Mana Tithe",
-                "1 Spikefield Hazard",
-                "1 Smuggler's Copter",
-                "1 Boros Charm",
-                "1 Chain Lightning",
-                "1 Lightning Helix",
-                "1 Grafted Wargear",
-                "1 Tome of Legends",
-                "1 Gideon Blackblade",
-                "1 Council's Judgment",
-                "1 Umezawa's Jitte",
-                "1 Commander's Insignia",
-                "1 Lightning Bolt",
-                "1 Commander's Plate",
-                "1 Enlightened Tutor",
-                "1 Lotus Petal",
-                "1 Swords to Plowshares",
-                "1 Basri Ket",
-                "1 Embercleave",
-                "1 Springleaf Drum",
-                "1 Journey to Nowhere",
-                "1 Unexpectedly Absent",
-                "1 Sejiri Shelter",
-                "1 Reverent Mantra",
-                "1 Flawless Maneuver",
-                "1 Winter Orb",
-                "1 Mox Amber",
-                "1 Selfless Spirit",
-                "1 Territorial Hellkite",
-                "1 Giver of Runes",
-                "1 Ranger-Captain of Eos",
-                "1 Brimaz, King of Oreskos",
-                "1 Kytheon, Hero of Akros",
-                "1 Loyal Apprentice",
-                "1 Bonecrusher Giant",
-                "1 Simian Spirit Guide",
-                "1 Benevolent Bodyguard",
-                "1 Isamaru, Hound of Konda",
-                "1 Ahn-Crop Crasher",
-                "1 Icehide Golem",
-                "1 Bastion Protector",
-                "1 Seasoned Pyromancer",
-                "1 Selfless Savior",
-                "1 Tajic, Legion's Edge",
-                "1 Giant Killer",
-                "1 Zurgo Bellstriker",
-                "1 Archpriest of Iona",
-                "1 Skyclave Apparition",
-                "1 Drannith Magistrate",
-                "1 Luminarch Aspirant",
-                "1 Stoneforge Mystic",
-                "1 Mother of Runes",
-                "1 Palace Jailer",
-                "1 Legion Warboss",
-                "1 Skyfire Phoenix",
-                "1 Goblin Banneret",
-                "1 Sacred Foundry",
-                "1 Wooded Foothills",
-                "1 Eiganjo Castle",
-                "1 Gemstone Caverns",
-                "1 Sunbaked Canyon",
-                "1 Bloodstained Mire",
-                "1 Windswept Heath",
-                "1 Scalding Tarn",
-                "1 Flooded Strand",
-                "1 Frostwalk Bastion",
-                "1 Forge of Heroes",
-                "1 Battlefield Forge",
-                "1 Plateau",
-                "1 Inspiring Vantage",
-                "1 Rugged Prairie",
-                "1 Clifftop Retreat",
-                "1 Command Tower",
-                "1 Mishra's Factory",
-                "1 Prismatic Vista",
-                "1 Ramunap Ruins",
-                "1 Arid Mesa",
-                "1 Marsh Flats",
-                "1 Mutavault",
-                "1 Opal Palace",
-                "1 Needleverge Pathway",
-                "5 Snow-Covered Mountain",
-                "8 Snow-Covered Plains"
-            ]
-        },
-        {
             "deck_id": "430898",
             "rank": "3",
             "player": "Mrelfor",
+            "winrate": 0.75,
             "commander": [
                 "Winota, Joiner of Forces"
             ],
@@ -296,6 +204,7 @@
             "deck_id": "430899",
             "rank": "4",
             "player": "Fowcus",
+            "winrate": 0.75,
             "commander": [
                 "Silas Renn, Seeker Adept",
                 "Krark, the Thumbless"
@@ -405,6 +314,7 @@
             "deck_id": "430900",
             "rank": "5",
             "player": "Matxicoatl",
+            "winrate": 0.75,
             "commander": [
                 "Winota, Joiner of Forces"
             ],
@@ -501,6 +411,7 @@
             "deck_id": "430901",
             "rank": "6",
             "player": "Hotcho",
+            "winrate": 0.75,
             "commander": [
                 "The First Sliver"
             ],
@@ -610,6 +521,7 @@
             "deck_id": "430902",
             "rank": "7",
             "player": "Onesauk",
+            "winrate": 0.75,
             "commander": [
                 "Krark, the Thumbless",
                 "Tevesh Szat, Doom of Fools"
@@ -707,6 +619,7 @@
             "deck_id": "430903",
             "rank": "8",
             "player": "Admab",
+            "winrate": 0.75,
             "commander": [
                 "Rograkh, Son of Rohgahh",
                 "Keleth, Sunmane Familiar"
@@ -802,9 +715,5 @@
                 "8 Snow-Covered Plains"
             ]
         }
-    ],
-    "name": "Commander League V2 S2",
-    "place": "Discord",
-    "players": "40 players",
-    "date": "23/02/21"
+    ]
 }

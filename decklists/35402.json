@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "35402",
+    "name": "28th Bank President Cup",
+    "place": "Hongyu (Hefei, China)",
+    "players": "10 players",
+    "date": "27/03/22",
     "decks": [
         {
             "deck_id": "467417",
             "rank": "1",
             "player": "Jsd",
+            "winrate": 1.0,
             "commander": [
                 "Hinata, Dawn-Crowned"
             ],
@@ -114,6 +119,7 @@
             "deck_id": "467418",
             "rank": "2",
             "player": "Zhengyu Hou",
+            "winrate": 0.8,
             "commander": [
                 "Hogaak, Arisen Necropolis"
             ],
@@ -219,9 +225,5 @@
                 "1 Champion of the Perished"
             ]
         }
-    ],
-    "name": "28th Bank President Cup",
-    "place": "Hongyu (Hefei, China)",
-    "players": "10 players",
-    "date": "27/03/22"
+    ]
 }

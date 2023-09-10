@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "33451",
+    "name": "DC",
+    "place": "Guyajeux (Salon de Provence, France)",
+    "players": "14 players",
+    "date": "21/11/21",
     "decks": [
         {
             "deck_id": "455019",
             "rank": "1",
             "player": "Jérémi \"dje_peto",
+            "winrate": 1.0,
             "commander": [
                 "Gallia of the Endless Dance"
             ],
@@ -98,6 +103,7 @@
             "deck_id": "455020",
             "rank": "2",
             "player": "Darwatashiwa",
+            "winrate": 0.8,
             "commander": [
                 "Teshar, Ancestor's Apostle"
             ],
@@ -185,9 +191,5 @@
                 "19 Snow-Covered Plains"
             ]
         }
-    ],
-    "name": "DC",
-    "place": "Guyajeux (Salon de Provence, France)",
-    "players": "14 players",
-    "date": "21/11/21"
+    ]
 }

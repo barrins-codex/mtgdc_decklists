@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "32549",
+    "name": "2nd Monthly Duel Commander",
+    "place": "Magic Player (Holbæk, Denmark)",
+    "players": "8 players",
+    "date": "26/09/21",
     "decks": [
         {
             "deck_id": "449965",
             "rank": "1",
             "player": "Mikkel Høi Ramussen",
+            "winrate": 1.0,
             "commander": [
                 "Tana, the Bloodsower",
                 "Tevesh Szat, Doom of Fools"
@@ -102,6 +107,7 @@
             "deck_id": "449966",
             "rank": "2",
             "player": "Asbjørn Jensen",
+            "winrate": 0.6666666666666666,
             "commander": [
                 "Minsc, Beloved Ranger"
             ],
@@ -202,9 +208,5 @@
                 "1 Fateful Absence"
             ]
         }
-    ],
-    "name": "2nd Monthly Duel Commander",
-    "place": "Magic Player (Holbæk, Denmark)",
-    "players": "8 players",
-    "date": "26/09/21"
+    ]
 }

@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "3808",
+    "name": "Qualificatif CDF de la dernière chance (Vitry-en-Perthois)",
+    "place": "",
+    "players": "84 players",
+    "date": "10/11/12",
     "decks": [
         {
             "deck_id": "222694",
             "rank": "1",
             "player": "Jean \"Hangao\" Martin",
+            "winrate": 0.9,
             "commander": [
                 "Zur the Enchanter"
             ],
@@ -115,6 +120,7 @@
             "deck_id": "222695",
             "rank": "2",
             "player": "Antoine Dambron",
+            "winrate": 0.8,
             "commander": [
                 "Jenara, Asura of War"
             ],
@@ -219,6 +225,7 @@
             "deck_id": "222696",
             "rank": "3",
             "player": "Yan Lorente",
+            "winrate": 0.7777777777777778,
             "commander": [
                 "Grand Arbiter Augustin IV"
             ],
@@ -316,6 +323,7 @@
             "deck_id": "222697",
             "rank": "4",
             "player": "Louis Vilcoq",
+            "winrate": 0.7777777777777778,
             "commander": [
                 "Geist of Saint Traft"
             ],
@@ -410,6 +418,7 @@
             "deck_id": "222698",
             "rank": "5",
             "player": "Pierre-Henri \"KratosAurion\" François",
+            "winrate": 0.7777777777777778,
             "commander": [
                 "Zur the Enchanter"
             ],
@@ -515,6 +524,7 @@
             "deck_id": "222699",
             "rank": "6",
             "player": "Olivier \"Rofellos\" Arnold",
+            "winrate": 0.7777777777777778,
             "commander": [
                 "Jenara, Asura of War"
             ],
@@ -620,6 +630,7 @@
             "deck_id": "222700",
             "rank": "7",
             "player": "Julien Frezard",
+            "winrate": 0.7777777777777778,
             "commander": [
                 "Skullbriar, the Walking Grave"
             ],
@@ -719,6 +730,7 @@
             "deck_id": "222701",
             "rank": "8",
             "player": "Adrien \"ElFN0iR\" Rolandez",
+            "winrate": 0.7777777777777778,
             "commander": [
                 "Grand Arbiter Augustin IV"
             ],
@@ -813,9 +825,5 @@
                 "10 Snow-Covered Island"
             ]
         }
-    ],
-    "name": "Qualificatif CDF de la dernière chance (Vitry-en-Perthois)",
-    "place": "",
-    "players": "84 players",
-    "date": "10/11/12"
+    ]
 }

@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "35145",
+    "name": "Mini DC Úvaly March I.",
+    "place": "Úvaly (Czech Republic)",
+    "players": "8 players",
+    "date": "07/03/22",
     "decks": [
         {
             "deck_id": "465899",
             "rank": "1",
             "player": "Jan Kopecký",
+            "winrate": 1.0,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -93,6 +98,7 @@
             "deck_id": "465900",
             "rank": "2",
             "player": "Karol Čillík",
+            "winrate": 0.6666666666666666,
             "commander": [
                 "Dennick, Pious Apprentice"
             ],
@@ -177,9 +183,5 @@
                 "12 Island"
             ]
         }
-    ],
-    "name": "Mini DC Úvaly March I.",
-    "place": "Úvaly (Czech Republic)",
-    "players": "8 players",
-    "date": "07/03/22"
+    ]
 }

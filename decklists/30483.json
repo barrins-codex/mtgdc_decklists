@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "30483",
+    "name": "3rd Webcam-League",
+    "place": "Leipzig (Germany)",
+    "players": "10 players",
+    "date": "03/05/21",
     "decks": [
         {
             "deck_id": "437980",
             "rank": "1",
             "player": "Henryk Hecht",
+            "winrate": 1.0,
             "commander": [
                 "Kinnan, Bonder Prodigy"
             ],
@@ -107,6 +112,7 @@
             "deck_id": "437981",
             "rank": "2",
             "player": "Max Dreste",
+            "winrate": 0.8,
             "commander": [
                 "Anafenza, the Foremost"
             ],
@@ -209,9 +215,5 @@
                 "1 Woodland Cemetery"
             ]
         }
-    ],
-    "name": "3rd Webcam-League",
-    "place": "Leipzig (Germany)",
-    "players": "10 players",
-    "date": "03/05/21"
+    ]
 }

@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "44662",
+    "name": "#4 Hradubice - DC series",
+    "place": "UNTAP (Hradec Kralove, CZE)",
+    "players": "15 players",
+    "date": "27/05/23",
     "decks": [
         {
             "deck_id": "529443",
             "rank": "1",
             "player": "Josef Kumstyr",
+            "winrate": 1.0,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -115,6 +120,7 @@
             "deck_id": "529444",
             "rank": "2",
             "player": "Jan Svoboda",
+            "winrate": 0.8,
             "commander": [
                 "Niv-Mizzet Reborn"
             ],
@@ -224,6 +230,7 @@
             "deck_id": "529445",
             "rank": "3-4",
             "player": "Vojtech Benes",
+            "winrate": 0.6,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -333,6 +340,7 @@
             "deck_id": "529446",
             "rank": "3-4",
             "player": "Viktor Coufal",
+            "winrate": 0.6,
             "commander": [
                 "Galazeth Prismari"
             ],
@@ -422,9 +430,5 @@
                 "1 Saheeli, Sublime Artificer"
             ]
         }
-    ],
-    "name": "#4 Hradubice - DC series",
-    "place": "UNTAP (Hradec Kralove, CZE)",
-    "players": "15 players",
-    "date": "27/05/23"
+    ]
 }

@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "28846",
+    "name": "Sunday DC",
+    "place": "Nook (Marikina City, Philippines)",
+    "players": "15 players",
+    "date": "10/01/21",
     "decks": [
         {
             "deck_id": "427689",
             "rank": "1",
             "player": "Josh Fuentes",
+            "winrate": 1.0,
             "commander": [
                 "Ikra Shidiqi, the Usurper",
                 "Esior, Wardwing Familiar"
@@ -115,6 +120,7 @@
             "deck_id": "427690",
             "rank": "2",
             "player": "Reuben Ferrer",
+            "winrate": 0.8,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -224,6 +230,7 @@
             "deck_id": "427691",
             "rank": "3",
             "player": "Rein Eypee",
+            "winrate": 0.6,
             "commander": [
                 "Isamaru, Hound of Konda"
             ],
@@ -307,6 +314,7 @@
             "deck_id": "427692",
             "rank": "4",
             "player": "Mark Joseph Coquia",
+            "winrate": 0.6,
             "commander": [
                 "Titania, Protector of Argoth"
             ],
@@ -397,9 +405,5 @@
                 "1 Zuran Orb"
             ]
         }
-    ],
-    "name": "Sunday DC",
-    "place": "Nook (Marikina City, Philippines)",
-    "players": "15 players",
-    "date": "10/01/21"
+    ]
 }

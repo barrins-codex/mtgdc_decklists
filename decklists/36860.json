@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "36860",
+    "name": "DC FNM",
+    "place": "Dragon's Lair (Maceda, Philippines",
+    "players": "12 players",
+    "date": "17/06/22",
     "decks": [
         {
             "deck_id": "477003",
             "rank": "1",
             "player": "Mark Lasam",
+            "winrate": 1.0,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -115,6 +120,7 @@
             "deck_id": "477004",
             "rank": "2",
             "player": "Vheer Wijangco",
+            "winrate": 0.8,
             "commander": [
                 "Grist, the Hunger Tide"
             ],
@@ -210,9 +216,5 @@
                 "7 Forest"
             ]
         }
-    ],
-    "name": "DC FNM",
-    "place": "Dragon's Lair (Maceda, Philippines",
-    "players": "12 players",
-    "date": "17/06/22"
+    ]
 }

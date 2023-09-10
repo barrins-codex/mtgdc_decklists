@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "43761",
+    "name": "Galaxy Cup #1",
+    "place": "Naya (Jinan, China)",
+    "players": "12 players",
+    "date": "22/04/23",
     "decks": [
         {
             "deck_id": "523078",
             "rank": "1",
             "player": "Yu Hang",
+            "winrate": 1.0,
             "commander": [
                 "Tana, the Bloodsower",
                 "Yoshimaru, Ever Faithful"
@@ -112,6 +117,7 @@
             "deck_id": "523079",
             "rank": "2",
             "player": "Gong Yi",
+            "winrate": 0.8,
             "commander": [
                 "Migloz, Maze Crusher"
             ],
@@ -212,6 +218,7 @@
             "deck_id": "523080",
             "rank": "3",
             "player": "Qin Zihao",
+            "winrate": 0.6,
             "commander": [
                 "Ertai Resurrected"
             ],
@@ -301,9 +308,5 @@
                 "1 Watery Grave"
             ]
         }
-    ],
-    "name": "Galaxy Cup #1",
-    "place": "Naya (Jinan, China)",
-    "players": "12 players",
-    "date": "22/04/23"
+    ]
 }

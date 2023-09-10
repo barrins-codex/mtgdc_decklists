@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "11566",
+    "name": "15th COP:MTG Cup (Japan)",
+    "place": "",
+    "players": "22 players",
+    "date": "04/05/09",
     "decks": [
         {
             "deck_id": "265818",
             "rank": "1",
             "player": "Akinori Miyagawa",
+            "winrate": 1.0,
             "commander": [
                 "Ghost Council of Orzhova"
             ],
@@ -98,6 +103,7 @@
             "deck_id": "265819",
             "rank": "2",
             "player": "Satoshi Kobayashi",
+            "winrate": 0.8,
             "commander": [
                 "Isamaru, Hound of Konda"
             ],
@@ -176,6 +182,7 @@
             "deck_id": "265820",
             "rank": "3-4",
             "player": "Kazuki Kobayashi",
+            "winrate": 0.8,
             "commander": [
                 "Braids, Conjurer Adept"
             ],
@@ -260,6 +267,7 @@
             "deck_id": "265821",
             "rank": "3-4",
             "player": "Susumu Katano",
+            "winrate": 0.8,
             "commander": [
                 "Rafiq of the Many"
             ],
@@ -356,9 +364,5 @@
                 "1 Path to Exile"
             ]
         }
-    ],
-    "name": "15th COP:MTG Cup (Japan)",
-    "place": "",
-    "players": "22 players",
-    "date": "04/05/09"
+    ]
 }

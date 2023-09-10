@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "9640",
+    "name": "Duel Commander",
+    "place": "OvinoSpring 2015 (Milano, Italy)",
+    "players": "15 players",
+    "date": "02/05/15",
     "decks": [
         {
             "deck_id": "255375",
             "rank": "1",
             "player": "Michele Atzeni",
+            "winrate": 1.0,
             "commander": [
                 "Geist of Saint Traft"
             ],
@@ -100,6 +105,7 @@
             "deck_id": "255376",
             "rank": "2",
             "player": "Simone Davoli",
+            "winrate": 0.8,
             "commander": [
                 "Marath, Will of the Wild"
             ],
@@ -205,9 +211,5 @@
                 "1 Acidic Slime"
             ]
         }
-    ],
-    "name": "Duel Commander",
-    "place": "OvinoSpring 2015 (Milano, Italy)",
-    "players": "15 players",
-    "date": "02/05/15"
+    ]
 }

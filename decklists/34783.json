@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "34783",
+    "name": "Duel o dual #11",
+    "place": "Poděbrady (CZE)",
+    "players": "50 players",
+    "date": "12/02/22",
     "decks": [
         {
             "deck_id": "463372",
             "rank": "1",
             "player": "Petr Tejnský",
+            "winrate": 0.8888888888888888,
             "commander": [
                 "Sythis, Harvest's Hand"
             ],
@@ -104,6 +109,7 @@
             "deck_id": "463373",
             "rank": "2",
             "player": "Ondřej Hrubý",
+            "winrate": 0.7777777777777778,
             "commander": [
                 "Gallia of the Endless Dance"
             ],
@@ -207,6 +213,7 @@
             "deck_id": "463374",
             "rank": "3",
             "player": "Jáchym Bártík",
+            "winrate": 0.75,
             "commander": [
                 "Leovold, Emissary of Trest"
             ],
@@ -312,9 +319,5 @@
                 "1 Teferi's Puzzle Box"
             ]
         }
-    ],
-    "name": "Duel o dual #11",
-    "place": "Poděbrady (CZE)",
-    "players": "50 players",
-    "date": "12/02/22"
+    ]
 }

@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "12915",
+    "name": "Beijing 3531 Cup - 4th ",
+    "place": "",
+    "players": "9 players",
+    "date": "03/07/16",
     "decks": [
         {
             "deck_id": "275163",
             "rank": "1",
             "player": "Han Xu",
+            "winrate": 1.0,
             "commander": [
                 "Jenara, Asura of War"
             ],
@@ -114,6 +119,7 @@
             "deck_id": "275164",
             "rank": "2",
             "player": "Yuan Luyang",
+            "winrate": 0.8,
             "commander": [
                 "Karador, Ghost Chieftain"
             ],
@@ -217,9 +223,5 @@
                 "1 Yosei, the Morning Star"
             ]
         }
-    ],
-    "name": "Beijing 3531 Cup - 4th ",
-    "place": "",
-    "players": "9 players",
-    "date": "03/07/16"
+    ]
 }

@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "39978",
+    "name": "TNDC \"National Jaguar Day\"",
+    "place": "Caverna do Dragão (Santos, Brasil)",
+    "players": "18 players",
+    "date": "29/11/22",
     "decks": [
         {
             "deck_id": "497707",
             "rank": "1",
             "player": "Pablo Lima",
+            "winrate": 1.0,
             "commander": [
                 "Feldon, Ronom Excavator"
             ],
@@ -88,6 +93,7 @@
             "deck_id": "497708",
             "rank": "2",
             "player": "Rafael Ozores",
+            "winrate": 0.8,
             "commander": [
                 "Feldon, Ronom Excavator"
             ],
@@ -171,6 +177,7 @@
             "deck_id": "497709",
             "rank": "3",
             "player": "Euro Figueiredo",
+            "winrate": 0.8,
             "commander": [
                 "Arcum Dagsson"
             ],
@@ -256,6 +263,7 @@
             "deck_id": "497710",
             "rank": "4",
             "player": "Rodrigo Torres",
+            "winrate": 0.6,
             "commander": [
                 "Grist, the Hunger Tide"
             ],
@@ -358,9 +366,5 @@
                 "1 Yavimaya, Cradle of Growth"
             ]
         }
-    ],
-    "name": "TNDC \"National Jaguar Day\"",
-    "place": "Caverna do Dragão (Santos, Brasil)",
-    "players": "18 players",
-    "date": "29/11/22"
+    ]
 }

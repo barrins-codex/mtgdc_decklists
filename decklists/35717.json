@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "35717",
+    "name": "8th Qualifiers",
+    "place": "Mana Underground (Lagro, Philippines)",
+    "players": "27 players",
+    "date": "10/04/22",
     "decks": [
         {
             "deck_id": "469446",
             "rank": "1",
             "player": "Rossini Buado",
+            "winrate": 1.0,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -89,6 +94,7 @@
             "deck_id": "469447",
             "rank": "2",
             "player": "Exequiel 'pando' Lim",
+            "winrate": 0.8,
             "commander": [
                 "Titania, Protector of Argoth"
             ],
@@ -184,6 +190,7 @@
             "deck_id": "469448",
             "rank": "3-4",
             "player": "Chris Abgon",
+            "winrate": 0.8,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -272,6 +279,7 @@
             "deck_id": "469449",
             "rank": "3-4",
             "player": "Aldz Bibera",
+            "winrate": 0.8,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -361,6 +369,7 @@
             "deck_id": "469450",
             "rank": "5",
             "player": "Ste Villaraza",
+            "winrate": 0.6,
             "commander": [
                 "Shorikai, Genesis Engine"
             ],
@@ -461,6 +470,7 @@
             "deck_id": "469451",
             "rank": "6",
             "player": "Hans Biasbas",
+            "winrate": 0.6,
             "commander": [
                 "Grist, the Hunger Tide"
             ],
@@ -560,6 +570,7 @@
             "deck_id": "469452",
             "rank": "7",
             "player": "Jr Bugayong",
+            "winrate": 0.6,
             "commander": [
                 "Leovold, Emissary of Trest"
             ],
@@ -669,6 +680,7 @@
             "deck_id": "469453",
             "rank": "8",
             "player": "Caloy Reyes",
+            "winrate": 0.6,
             "commander": [
                 "Galazeth Prismari"
             ],
@@ -762,9 +774,5 @@
                 "12 Snow-Covered Island"
             ]
         }
-    ],
-    "name": "8th Qualifiers",
-    "place": "Mana Underground (Lagro, Philippines)",
-    "players": "27 players",
-    "date": "10/04/22"
+    ]
 }

@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "38117",
+    "name": "DC",
+    "place": "Contemporary Nook-Feliz (Marikina City, Philippines)",
+    "players": "18 players",
+    "date": "24/08/22",
     "decks": [
         {
             "deck_id": "485088",
             "rank": "1",
             "player": "Jan Hortaleza",
+            "winrate": 1.0,
             "commander": [
                 "General Ferrous Rokiric"
             ],
@@ -111,6 +116,7 @@
             "deck_id": "485089",
             "rank": "2",
             "player": "Nhald Adia",
+            "winrate": 0.8,
             "commander": [
                 "Klothys, God of Destiny"
             ],
@@ -213,6 +219,7 @@
             "deck_id": "485090",
             "rank": "3",
             "player": "Ezra Mendiola",
+            "winrate": 0.8,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -322,6 +329,7 @@
             "deck_id": "485091",
             "rank": "4",
             "player": "Ste Villaraza",
+            "winrate": 0.6,
             "commander": [
                 "Tivit, Seller of Secrets"
             ],
@@ -431,6 +439,7 @@
             "deck_id": "485092",
             "rank": "5",
             "player": "Dinno Zaide",
+            "winrate": 0.6,
             "commander": [
                 "Ludevic, Necro-Alchemist",
                 "Jeska, Thrice Reborn"
@@ -529,6 +538,7 @@
             "deck_id": "485093",
             "rank": "6",
             "player": "Timothy Agustin",
+            "winrate": 0.6,
             "commander": [
                 "Ludevic, Necro-Alchemist",
                 "Jeska, Thrice Reborn"
@@ -626,6 +636,7 @@
             "deck_id": "485094",
             "rank": "7",
             "player": "Nelvine Tuano",
+            "winrate": 0.6,
             "commander": [
                 "Narset, Enlightened Master"
             ],
@@ -726,6 +737,7 @@
             "deck_id": "485095",
             "rank": "8",
             "player": "Romwald Bolanos",
+            "winrate": 0.6,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -807,9 +819,5 @@
                 "1 Chandra, Torch of Defiance"
             ]
         }
-    ],
-    "name": "DC",
-    "place": "Contemporary Nook-Feliz (Marikina City, Philippines)",
-    "players": "18 players",
-    "date": "24/08/22"
+    ]
 }

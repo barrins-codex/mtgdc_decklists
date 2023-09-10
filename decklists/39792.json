@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "39792",
+    "name": "East League S2 Qualifier",
+    "place": "Upkeep Hobbies (Philippines)",
+    "players": "10 players",
+    "date": "27/11/22",
     "decks": [
         {
             "deck_id": "496528",
             "rank": "1",
             "player": "Earl Caymo",
+            "winrate": 1.0,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -115,6 +120,7 @@
             "deck_id": "496529",
             "rank": "2",
             "player": "Ste Villaraza",
+            "winrate": 0.8,
             "commander": [
                 "Tivit, Seller of Secrets"
             ],
@@ -224,6 +230,7 @@
             "deck_id": "496530",
             "rank": "3",
             "player": "Martin Ogayon",
+            "winrate": 0.6,
             "commander": [
                 "Grist, the Hunger Tide"
             ],
@@ -321,9 +328,5 @@
                 "1 Yavimaya, Cradle of Growth"
             ]
         }
-    ],
-    "name": "East League S2 Qualifier",
-    "place": "Upkeep Hobbies (Philippines)",
-    "players": "10 players",
-    "date": "27/11/22"
+    ]
 }

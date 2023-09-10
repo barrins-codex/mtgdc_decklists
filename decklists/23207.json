@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "23207",
+    "name": "Wednesday DC cup",
+    "place": "Aubagne (France)",
+    "players": "8 players",
+    "date": "25/09/19",
     "decks": [
         {
             "deck_id": "359586",
             "rank": "1",
             "player": "Damien \"Eventwin\" Jantzen",
+            "winrate": 1.0,
             "commander": [
                 "Edric, Spymaster of Trest"
             ],
@@ -97,9 +102,5 @@
                 "1 Tropical Island"
             ]
         }
-    ],
-    "name": "Wednesday DC cup",
-    "place": "Aubagne (France)",
-    "players": "8 players",
-    "date": "25/09/19"
+    ]
 }

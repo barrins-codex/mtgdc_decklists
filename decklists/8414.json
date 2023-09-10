@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "8414",
+    "name": "14th \"New Year Cake\" Cup (Shanghai)",
+    "place": "",
+    "players": "24 players",
+    "date": "03/10/14",
     "decks": [
         {
             "deck_id": "248324",
             "rank": "1",
             "player": "Yao Yao",
+            "winrate": 1.0,
             "commander": [
                 "Jenara, Asura of War"
             ],
@@ -115,6 +120,7 @@
             "deck_id": "248325",
             "rank": "2",
             "player": "Zhang Yichen",
+            "winrate": 0.8,
             "commander": [
                 "Animar, Soul of Elements"
             ],
@@ -217,6 +223,7 @@
             "deck_id": "248326",
             "rank": "3-4",
             "player": "Li Duoyan",
+            "winrate": 0.8,
             "commander": [
                 "Pharika, God of Affliction"
             ],
@@ -315,6 +322,7 @@
             "deck_id": "248327",
             "rank": "3-4",
             "player": "Song Yue",
+            "winrate": 0.8,
             "commander": [
                 "Surrak Dragonclaw"
             ],
@@ -418,9 +426,5 @@
                 "1 Zealous Conscripts"
             ]
         }
-    ],
-    "name": "14th \"New Year Cake\" Cup (Shanghai)",
-    "place": "",
-    "players": "24 players",
-    "date": "03/10/14"
+    ]
 }

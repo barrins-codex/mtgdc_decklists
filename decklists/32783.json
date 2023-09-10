@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "32783",
+    "name": "KMFNM DC vol. 19",
+    "place": "Kromeriz (Czechia)",
+    "players": "14 players",
+    "date": "01/10/21",
     "decks": [
         {
             "deck_id": "451295",
             "rank": "1",
             "player": "Matej Oralek",
+            "winrate": 1.0,
             "commander": [
                 "Grazilaxx, Illithid Scholar"
             ],
@@ -91,6 +96,7 @@
             "deck_id": "451296",
             "rank": "2",
             "player": "Krystof \"sealion\" Zlamal",
+            "winrate": 0.8,
             "commander": [
                 "Sai, Master Thopterist"
             ],
@@ -179,6 +185,7 @@
             "deck_id": "451297",
             "rank": "3",
             "player": "Brona Pecek",
+            "winrate": 0.6,
             "commander": [
                 "Saskia the Unyielding"
             ],
@@ -288,6 +295,7 @@
             "deck_id": "451298",
             "rank": "4",
             "player": "Tomas Horka",
+            "winrate": 0.6,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -393,9 +401,5 @@
                 "1 Wishclaw Talisman"
             ]
         }
-    ],
-    "name": "KMFNM DC vol. 19",
-    "place": "Kromeriz (Czechia)",
-    "players": "14 players",
-    "date": "01/10/21"
+    ]
 }

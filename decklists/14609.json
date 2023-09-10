@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "14609",
+    "name": "Duel Commander Philippines Super Series 2017 Leg One",
+    "place": "",
+    "players": "9 players",
+    "date": "29/01/17",
     "decks": [
         {
             "deck_id": "287675",
             "rank": "2",
             "player": "Arlan Garcia",
+            "winrate": 0.8,
             "commander": [
                 "Breya, Etherium Shaper"
             ],
@@ -115,6 +120,7 @@
             "deck_id": "287676",
             "rank": "2",
             "player": "Ben Co",
+            "winrate": 0.8,
             "commander": [
                 "Jace, Vryn's Prodigy"
             ],
@@ -194,9 +200,5 @@
                 "27 Snow-Covered Island"
             ]
         }
-    ],
-    "name": "Duel Commander Philippines Super Series 2017 Leg One",
-    "place": "",
-    "players": "9 players",
-    "date": "29/01/17"
+    ]
 }

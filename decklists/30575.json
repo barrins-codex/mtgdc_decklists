@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "30575",
+    "name": "RJ Cup 2021 #17",
+    "place": "League Castle (Mong Kok, Hong Kong)",
+    "players": "9 players",
+    "date": "08/05/21",
     "decks": [
         {
             "deck_id": "438482",
             "rank": "1",
             "player": "Wilson Lai",
+            "winrate": 1.0,
             "commander": [
                 "Aminatou, the Fateshifter",
                 "Aminatou, the Fateshifter"
@@ -165,6 +170,7 @@
             "deck_id": "438489",
             "rank": "2",
             "player": "Andy Wong",
+            "winrate": 0.8,
             "commander": [
                 "Isamaru, Hound of Konda"
             ],
@@ -244,9 +250,5 @@
                 "1 Leonin Relic-Warder"
             ]
         }
-    ],
-    "name": "RJ Cup 2021 #17",
-    "place": "League Castle (Mong Kok, Hong Kong)",
-    "players": "9 players",
-    "date": "08/05/21"
+    ]
 }

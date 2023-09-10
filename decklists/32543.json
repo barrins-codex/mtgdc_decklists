@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "32543",
+    "name": "KMFNM DC vol. 18",
+    "place": "Kromeriz (Czechia)",
+    "players": "8 players",
+    "date": "24/09/21",
     "decks": [
         {
             "deck_id": "449924",
             "rank": "1",
             "player": "Matej Oralek",
+            "winrate": 1.0,
             "commander": [
                 "Grazilaxx, Illithid Scholar"
             ],
@@ -90,6 +95,7 @@
             "deck_id": "449925",
             "rank": "2",
             "player": "Brona Pecek",
+            "winrate": 0.6666666666666666,
             "commander": [
                 "Winota, Joiner of Forces"
             ],
@@ -181,9 +187,5 @@
                 "1 Zurgo Bellstriker"
             ]
         }
-    ],
-    "name": "KMFNM DC vol. 18",
-    "place": "Kromeriz (Czechia)",
-    "players": "8 players",
-    "date": "24/09/21"
+    ]
 }

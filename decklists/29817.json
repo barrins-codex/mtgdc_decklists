@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "29817",
+    "name": "DC Les Chroniques du Commander",
+    "place": "Discord",
+    "players": "64 players",
+    "date": "26/03/21",
     "decks": [
         {
             "deck_id": "433524",
             "rank": "1",
             "player": "Mister Monopoly",
+            "winrate": 0.8888888888888888,
             "commander": [
                 "Keleth, Sunmane Familiar",
                 "Rograkh, Son of Rohgahh"
@@ -105,6 +110,7 @@
             "deck_id": "433525",
             "rank": "2",
             "player": "Didou",
+            "winrate": 0.7777777777777778,
             "commander": [
                 "Ardenn, Intrepid Archaeologist",
                 "Ludevic, Necro-Alchemist"
@@ -214,6 +220,7 @@
             "deck_id": "433526",
             "rank": "3",
             "player": "Alexandre \"onesauk\" Benac",
+            "winrate": 0.75,
             "commander": [
                 "Saskia the Unyielding"
             ],
@@ -323,6 +330,7 @@
             "deck_id": "433527",
             "rank": "4",
             "player": "Mastxx",
+            "winrate": 0.75,
             "commander": [
                 "Winota, Joiner of Forces"
             ],
@@ -416,6 +424,7 @@
             "deck_id": "433528",
             "rank": "5",
             "player": "Avyc974",
+            "winrate": 0.75,
             "commander": [
                 "Rograkh, Son of Rohgahh",
                 "Keleth, Sunmane Familiar"
@@ -512,6 +521,7 @@
             "deck_id": "433529",
             "rank": "6",
             "player": "Bartosznowak",
+            "winrate": 0.75,
             "commander": [
                 "Ludevic, Necro-Alchemist",
                 "Kraum, Ludevic's Opus"
@@ -607,6 +617,7 @@
             "deck_id": "433530",
             "rank": "7",
             "player": "_h_",
+            "winrate": 0.75,
             "commander": [
                 "Silas Renn, Seeker Adept",
                 "Krark, the Thumbless"
@@ -716,6 +727,7 @@
             "deck_id": "433531",
             "rank": "8",
             "player": "Latielle",
+            "winrate": 0.75,
             "commander": [
                 "Kinnan, Bonder Prodigy"
             ],
@@ -809,9 +821,5 @@
                 "1 Yavimaya Coast"
             ]
         }
-    ],
-    "name": "DC Les Chroniques du Commander",
-    "place": "Discord",
-    "players": "64 players",
-    "date": "26/03/21"
+    ]
 }

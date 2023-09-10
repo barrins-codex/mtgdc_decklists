@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "39926",
+    "name": "DC East League Leg 12",
+    "place": "Tapped Games (Marikina City, Philippines)",
+    "players": "16 players",
+    "date": "30/11/22",
     "decks": [
         {
             "deck_id": "497370",
             "rank": "1",
             "player": "Mark Lasam",
+            "winrate": 1.0,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -115,6 +120,7 @@
             "deck_id": "497371",
             "rank": "2",
             "player": "Franklin Aguba",
+            "winrate": 0.8,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -224,6 +230,7 @@
             "deck_id": "497372",
             "rank": "3",
             "player": "Nhald Adia",
+            "winrate": 0.8,
             "commander": [
                 "Ludevic, Necro-Alchemist",
                 "Yoshimaru, Ever Faithful"
@@ -333,6 +340,7 @@
             "deck_id": "497373",
             "rank": "4",
             "player": "Rexel Tenorio",
+            "winrate": 0.6,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -438,9 +446,5 @@
                 "1 Windswept Heath"
             ]
         }
-    ],
-    "name": "DC East League Leg 12",
-    "place": "Tapped Games (Marikina City, Philippines)",
-    "players": "16 players",
-    "date": "30/11/22"
+    ]
 }

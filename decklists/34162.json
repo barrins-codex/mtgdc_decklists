@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "34162",
+    "name": "Wonderlandes Duel Commander",
+    "place": "Dax (France)",
+    "players": "10 players",
+    "date": "09/01/22",
     "decks": [
         {
             "deck_id": "459712",
             "rank": "1",
             "player": "Nicolas Soulé",
+            "winrate": 1.0,
             "commander": [
                 "Livio, Oathsworn Sentinel",
                 "Malcolm, Keen-Eyed Navigator"
@@ -105,6 +110,7 @@
             "deck_id": "459713",
             "rank": "2",
             "player": "Kevin Saint-martin",
+            "winrate": 0.8,
             "commander": [
                 "Kroxa, Titan of Death's Hunger"
             ],
@@ -202,9 +208,5 @@
                 "1 Great Furnace"
             ]
         }
-    ],
-    "name": "Wonderlandes Duel Commander",
-    "place": "Dax (France)",
-    "players": "10 players",
-    "date": "09/01/22"
+    ]
 }

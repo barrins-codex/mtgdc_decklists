@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "10173",
+    "name": "Duel Commander",
+    "place": "Carta'Jeu (Lyon)",
+    "players": "13 players",
+    "date": "26/07/15",
     "decks": [
         {
             "deck_id": "258525",
             "rank": "1",
             "player": "Jonathan Marvie",
+            "winrate": 1.0,
             "commander": [
                 "Anafenza, the Foremost"
             ],
@@ -115,6 +120,7 @@
             "deck_id": "258526",
             "rank": "2",
             "player": "Vincent Hesnard",
+            "winrate": 0.8,
             "commander": [
                 "Nekusar, the Mindrazer"
             ],
@@ -216,9 +222,5 @@
                 "1 Homeward Path"
             ]
         }
-    ],
-    "name": "Duel Commander",
-    "place": "Carta'Jeu (Lyon)",
-    "players": "13 players",
-    "date": "26/07/15"
+    ]
 }

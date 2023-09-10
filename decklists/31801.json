@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "31801",
+    "name": "FNM",
+    "place": "Mana Underground (Lagro, Philippines)",
+    "players": "12 players",
+    "date": "30/07/21",
     "decks": [
         {
             "deck_id": "445846",
             "rank": "1",
             "player": "Ryan Payabyab",
+            "winrate": 1.0,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -115,6 +120,7 @@
             "deck_id": "445847",
             "rank": "2",
             "player": "Robert Soriano",
+            "winrate": 0.8,
             "commander": [
                 "Hogaak, Arisen Necropolis"
             ],
@@ -220,9 +226,5 @@
                 "1 Prismatic Vista"
             ]
         }
-    ],
-    "name": "FNM",
-    "place": "Mana Underground (Lagro, Philippines)",
-    "players": "12 players",
-    "date": "30/07/21"
+    ]
 }

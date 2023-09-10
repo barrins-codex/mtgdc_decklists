@@ -1,15 +1,19 @@
 {
     "format": "Duel Commander",
-    "id": 43161,
+    "id": "43161",
     "name": "DC Event Weekly",
     "place": "Naya (Jinan, China)",
     "players": "11 players",
     "date": "02/04/23",
     "decks": [
         {
-            "player": "Bi Siqi",
-            "rank": "1",
             "deck_id": "518895",
+            "rank": "1",
+            "player": "Bi Siqi",
+            "winrate": 1.0,
+            "commander": [
+                "Raffine, Scheming Seer"
+            ],
             "decklist": [
                 "1 Adarkar Wastes",
                 "1 Arid Mesa",
@@ -108,15 +112,16 @@
                 "1 Watery Grave",
                 "1 White Plume Adventurer",
                 "1 Windswept Heath"
-            ],
-            "commander": [
-                "Raffine, Scheming Seer"
             ]
         },
         {
-            "player": "Qin Zihao",
-            "rank": "2",
             "deck_id": "518896",
+            "rank": "2",
+            "player": "Qin Zihao",
+            "winrate": 0.8,
+            "commander": [
+                "Aminatou, the Fateshifter"
+            ],
             "decklist": [
                 "1 Abdel Adrian, Gorion's Ward",
                 "1 Adarkar Wastes",
@@ -217,15 +222,16 @@
                 "1 Wash Away",
                 "1 Watery Grave",
                 "1 Windswept Heath"
-            ],
-            "commander": [
-                "Aminatou, the Fateshifter"
             ]
         },
         {
-            "player": "Huang Zijie",
-            "rank": "3",
             "deck_id": "518897",
+            "rank": "3",
+            "player": "Huang Zijie",
+            "winrate": 0.6,
+            "commander": [
+                "Feldon, Ronom Excavator"
+            ],
             "decklist": [
                 "1 Ahn-Crop Crasher",
                 "1 Ankh of Mishra",
@@ -300,9 +306,6 @@
                 "1 War Room",
                 "1 Wild Slash",
                 "1 Zurgo Bellstriker"
-            ],
-            "commander": [
-                "Feldon, Ronom Excavator"
             ]
         }
     ]

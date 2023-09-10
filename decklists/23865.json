@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "23865",
+    "name": "DCM Nov 2019",
+    "place": "XMage",
+    "players": "19 players",
+    "date": "30/11/19",
     "decks": [
         {
             "deck_id": "365994",
             "rank": "1",
             "player": "Drolasgard",
+            "winrate": 1.0,
             "commander": [
                 "Tymna the Weaver",
                 "Kraum, Ludevic's Opus"
@@ -115,6 +120,7 @@
             "deck_id": "365995",
             "rank": "2",
             "player": "Jasper R. Nielsen",
+            "winrate": 0.8,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -224,6 +230,7 @@
             "deck_id": "365996",
             "rank": "3",
             "player": "Zarlock",
+            "winrate": 0.8,
             "commander": [
                 "Kess, Dissident Mage"
             ],
@@ -333,6 +340,7 @@
             "deck_id": "365997",
             "rank": "4",
             "player": "Tuktukwhosthere",
+            "winrate": 0.6,
             "commander": [
                 "Grenzo, Dungeon Warden"
             ],
@@ -438,9 +446,5 @@
                 "1 Gemstone Caverns"
             ]
         }
-    ],
-    "name": "DCM Nov 2019",
-    "place": "XMage",
-    "players": "19 players",
-    "date": "30/11/19"
+    ]
 }

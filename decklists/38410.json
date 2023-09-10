@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "38410",
+    "name": "Tournoi DC Mulligan",
+    "place": "Pisany (France)",
+    "players": "36 players",
+    "date": "18/09/22",
     "decks": [
         {
             "deck_id": "487035",
             "rank": "1",
-            "player": "Bizon\r\nJordan \"zack\"\r\n\r\n",
+            "player": "Bizon\r\nJordan \"zack\"",
+            "winrate": 0.7777777777777778,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -114,7 +119,8 @@
         {
             "deck_id": "487036",
             "rank": "2",
-            "player": "Phelippeau\r\nDavid\r\n\r\nPhelippeau\r\nDavid\r\n\r\n",
+            "player": "Phelippeau\r\nDavid\r\n\r\nPhelippeau\r\nDavid",
+            "winrate": 0.6666666666666666,
             "commander": [
                 "Dennick, Pious Apprentice"
             ],
@@ -217,7 +223,8 @@
         {
             "deck_id": "487037",
             "rank": "3",
-            "player": "Bournizien\r\nAlexandre\r\n\r\n",
+            "player": "Bournizien\r\nAlexandre",
+            "winrate": 0.625,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -324,7 +331,8 @@
         {
             "deck_id": "487038",
             "rank": "4",
-            "player": "Pernes\r\nEnzo \"domino\"\r\n\r\n",
+            "player": "Pernes\r\nEnzo \"domino\"",
+            "winrate": 0.625,
             "commander": [
                 "Sword Coast Sailor",
                 "Wilson, Refined Grizzly"
@@ -422,7 +430,8 @@
         {
             "deck_id": "487039",
             "rank": "5",
-            "player": "Akbal\r\nLuc\r\n\r\n",
+            "player": "Akbal\r\nLuc",
+            "winrate": 0.625,
             "commander": [
                 "Octavia, Living Thesis"
             ],
@@ -509,7 +518,8 @@
         {
             "deck_id": "487040",
             "rank": "6",
-            "player": "Bondon \r\nKristopher \"selesnya Forever\"\r\n\r\n",
+            "player": "Bondon \r\nKristopher \"selesnya Forever\"",
+            "winrate": 0.625,
             "commander": [
                 "Noble Heritage",
                 "Wilson, Refined Grizzly"
@@ -610,7 +620,8 @@
         {
             "deck_id": "487041",
             "rank": "7",
-            "player": "Mocquet \r\nDamien \"damienade\"\r\n\r\n",
+            "player": "Mocquet \r\nDamien \"damienade\"",
+            "winrate": 0.625,
             "commander": [
                 "Grist, the Hunger Tide"
             ],
@@ -711,7 +722,8 @@
         {
             "deck_id": "487042",
             "rank": "8",
-            "player": "Dupont\r\nCharles\r\n\r\n",
+            "player": "Dupont\r\nCharles",
+            "winrate": 0.625,
             "commander": [
                 "Ulamog, the Ceaseless Hunger"
             ],
@@ -816,9 +828,5 @@
                 "2 Wastes"
             ]
         }
-    ],
-    "name": "Tournoi DC Mulligan",
-    "place": "Pisany (France)",
-    "players": "36 players",
-    "date": "18/09/22"
+    ]
 }

@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "32166",
+    "name": "Tournoi décennal bis",
+    "place": "La Crypte du Jeu (France)",
+    "players": "10 players",
+    "date": "27/08/21",
     "decks": [
         {
             "deck_id": "447811",
             "rank": "1",
             "player": "Fabio \"grimm\" Weber",
+            "winrate": 1.0,
             "commander": [
                 "The Gitrog Monster"
             ],
@@ -105,6 +110,7 @@
             "deck_id": "447812",
             "rank": "2",
             "player": "Raphaël \"eispone\" Léon",
+            "winrate": 0.8,
             "commander": [
                 "Winota, Joiner of Forces"
             ],
@@ -198,9 +204,5 @@
                 "1 Zurgo Bellstriker"
             ]
         }
-    ],
-    "name": "Tournoi décennal bis",
-    "place": "La Crypte du Jeu (France)",
-    "players": "10 players",
-    "date": "27/08/21"
+    ]
 }

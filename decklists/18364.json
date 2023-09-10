@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "18364",
+    "name": "FNM Hiveworld Cologne",
+    "place": "",
+    "players": "20 players",
+    "date": "02/02/18",
     "decks": [
         {
             "deck_id": "314024",
             "rank": "1",
             "player": "Thomas Musmacher",
+            "winrate": 1.0,
             "commander": [
                 "Kytheon, Hero of Akros"
             ],
@@ -90,6 +95,7 @@
             "deck_id": "314025",
             "rank": "2",
             "player": "Alexander Schmoll",
+            "winrate": 0.8,
             "commander": [
                 "Animar, Soul of Elements"
             ],
@@ -192,6 +198,7 @@
             "deck_id": "314026",
             "rank": "3-4",
             "player": "Sebastian Haines",
+            "winrate": 0.8,
             "commander": [
                 "Leovold, Emissary of Trest"
             ],
@@ -301,6 +308,7 @@
             "deck_id": "314027",
             "rank": "3-4",
             "player": "Richard Müller",
+            "winrate": 0.8,
             "commander": [
                 "Prossh, Skyraider of Kher"
             ],
@@ -392,9 +400,5 @@
                 "1 Into the North"
             ]
         }
-    ],
-    "name": "FNM Hiveworld Cologne",
-    "place": "",
-    "players": "20 players",
-    "date": "02/02/18"
+    ]
 }

@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "36306",
+    "name": "RC3 Tower of Card",
+    "place": "Bangu (Rio de Janeiro, Brasil)",
+    "players": "8 players",
+    "date": "14/05/22",
     "decks": [
         {
             "deck_id": "473121",
             "rank": "1",
             "player": "Acelerado",
+            "winrate": 1.0,
             "commander": [
                 "Shorikai, Genesis Engine"
             ],
@@ -86,6 +91,7 @@
             "deck_id": "473122",
             "rank": "2",
             "player": "Juca",
+            "winrate": 0.6666666666666666,
             "commander": [
                 "Phylath, World Sculptor"
             ],
@@ -166,9 +172,5 @@
                 "15 Forest"
             ]
         }
-    ],
-    "name": "RC3 Tower of Card",
-    "place": "Bangu (Rio de Janeiro, Brasil)",
-    "players": "8 players",
-    "date": "14/05/22"
+    ]
 }

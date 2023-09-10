@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "27512",
+    "name": "RJ Cup",
+    "place": "Castle Mong Kok (Hong Kong)",
+    "players": "9 players",
+    "date": "26/09/20",
     "decks": [
         {
             "deck_id": "418786",
             "rank": "1",
             "player": "Jason Lam",
+            "winrate": 1.0,
             "commander": [
                 "Winota, Joiner of Forces"
             ],
@@ -103,6 +108,7 @@
             "deck_id": "418787",
             "rank": "2",
             "player": "Kelvin To",
+            "winrate": 0.8,
             "commander": [
                 "Uro, Titan of Nature's Wrath"
             ],
@@ -192,9 +198,5 @@
                 "1 Mystic Sanctuary"
             ]
         }
-    ],
-    "name": "RJ Cup",
-    "place": "Castle Mong Kok (Hong Kong)",
-    "players": "9 players",
-    "date": "26/09/20"
+    ]
 }

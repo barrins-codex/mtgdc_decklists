@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "25541",
+    "name": "NanJing Chicken-Pie Cup",
+    "place": "Fanyun Store (NanJing, China)",
+    "players": "12 players",
+    "date": "02/05/20",
     "decks": [
         {
             "deck_id": "386239",
             "rank": "1",
             "player": "Zhen,zhang",
+            "winrate": 1.0,
             "commander": [
                 "Uro, Titan of Nature's Wrath"
             ],
@@ -102,6 +107,7 @@
             "deck_id": "386240",
             "rank": "2",
             "player": "He,huang",
+            "winrate": 0.8,
             "commander": [
                 "Tymna the Weaver",
                 "Thrasios, Triton Hero"
@@ -211,6 +217,7 @@
             "deck_id": "386241",
             "rank": "3-4",
             "player": "Jingting,wu",
+            "winrate": 0.6,
             "commander": [
                 "Lutri, the Spellchaser",
                 "Golos, Tireless Pilgrim"
@@ -321,6 +328,7 @@
             "deck_id": "386242",
             "rank": "3-4",
             "player": "Di,hu",
+            "winrate": 0.6,
             "commander": [
                 "Kroxa, Titan of Death's Hunger"
             ],
@@ -409,9 +417,5 @@
                 "10 Swamp"
             ]
         }
-    ],
-    "name": "NanJing Chicken-Pie Cup",
-    "place": "Fanyun Store (NanJing, China)",
-    "players": "12 players",
-    "date": "02/05/20"
+    ]
 }

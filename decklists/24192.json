@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "24192",
+    "name": "\"Tree of Tales\" Cup",
+    "place": "Shanghai (China)",
+    "players": "14 players",
+    "date": "01/01/20",
     "decks": [
         {
             "deck_id": "368832",
             "rank": "1",
             "player": "Wu Jiahui",
+            "winrate": 1.0,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -113,6 +118,7 @@
             "deck_id": "368833",
             "rank": "2",
             "player": "Pan Liangchen",
+            "winrate": 0.8,
             "commander": [
                 "Rowan Kenrith",
                 "Will Kenrith"
@@ -189,6 +195,7 @@
             "deck_id": "368834",
             "rank": "3-4",
             "player": "Yang Yang",
+            "winrate": 0.6,
             "commander": [
                 "Azusa, Lost but Seeking"
             ],
@@ -284,6 +291,7 @@
             "deck_id": "368835",
             "rank": "3-4",
             "player": "He Ying",
+            "winrate": 0.6,
             "commander": [
                 "Golos, Tireless Pilgrim"
             ],
@@ -389,9 +397,5 @@
                 "1 Global Ruin"
             ]
         }
-    ],
-    "name": "\"Tree of Tales\" Cup",
-    "place": "Shanghai (China)",
-    "players": "14 players",
-    "date": "01/01/20"
+    ]
 }

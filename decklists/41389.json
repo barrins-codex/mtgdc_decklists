@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "41389",
+    "name": "Duelan sa TG",
+    "place": "Tapped Games (Marikina City, Philippines)",
+    "players": "14 players",
+    "date": "10/02/23",
     "decks": [
         {
             "deck_id": "507459",
             "rank": "1",
             "player": "Jonathan Dolor",
+            "winrate": 1.0,
             "commander": [
                 "Lurrus of the Dream-Den",
                 "Karlov of the Ghost Council"
@@ -107,6 +112,7 @@
             "deck_id": "507460",
             "rank": "2",
             "player": "Dinno Zaide",
+            "winrate": 0.8,
             "commander": [
                 "Ghyrson Starn, Kelermorph"
             ],
@@ -207,6 +213,7 @@
             "deck_id": "507461",
             "rank": "3",
             "player": "Van Acordon",
+            "winrate": 0.6,
             "commander": [
                 "Ertai Resurrected"
             ],
@@ -304,6 +311,7 @@
             "deck_id": "507462",
             "rank": "4",
             "player": "Christian Agbon",
+            "winrate": 0.6,
             "commander": [
                 "Ardoz, Cobbler of War"
             ],
@@ -385,9 +393,5 @@
                 "25 Snow-Covered Mountain"
             ]
         }
-    ],
-    "name": "Duelan sa TG",
-    "place": "Tapped Games (Marikina City, Philippines)",
-    "players": "14 players",
-    "date": "10/02/23"
+    ]
 }

@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "28752",
+    "name": "1st DC of the year",
+    "place": "Nook (Marikina City, Philippines)",
+    "players": "10 players",
+    "date": "03/01/21",
     "decks": [
         {
             "deck_id": "426963",
             "rank": "1",
             "player": "Sherwin Lobrigo",
+            "winrate": 1.0,
             "commander": [
                 "Prossh, Skyraider of Kher"
             ],
@@ -111,6 +116,7 @@
             "deck_id": "426964",
             "rank": "2",
             "player": "Timothy Agustin",
+            "winrate": 0.8,
             "commander": [
                 "Esior, Wardwing Familiar",
                 "Jeska, Thrice Reborn"
@@ -205,9 +211,5 @@
                 "8 Island"
             ]
         }
-    ],
-    "name": "1st DC of the year",
-    "place": "Nook (Marikina City, Philippines)",
-    "players": "10 players",
-    "date": "03/01/21"
+    ]
 }

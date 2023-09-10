@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "27987",
+    "name": "Monthly Duel Commander",
+    "place": "Magic Player (Holbæk, Denmark)",
+    "players": "8 players",
+    "date": "24/10/20",
     "decks": [
         {
             "deck_id": "421893",
             "rank": "1",
             "player": "Sejer Friis",
+            "winrate": 1.0,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -115,6 +120,7 @@
             "deck_id": "421894",
             "rank": "2",
             "player": "Jasper R. Nielsen",
+            "winrate": 0.6666666666666666,
             "commander": [
                 "Uro, Titan of Nature's Wrath"
             ],
@@ -203,9 +209,5 @@
                 "1 Yavimaya Coast"
             ]
         }
-    ],
-    "name": "Monthly Duel Commander",
-    "place": "Magic Player (Holbæk, Denmark)",
-    "players": "8 players",
-    "date": "24/10/20"
+    ]
 }

@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
-    "id": 46064,
+    "id": "46064",
+    "name": "DC5",
+    "place": "La taverne des enchanteurs (Puyricard, France)",
+    "players": "11 players",
+    "date": "16/07/23",
     "decks": [
         {
             "deck_id": "540410",
             "rank": "1",
             "player": "Vivien \"lepangolin\"",
+            "winrate": 1.0,
             "commander": [
                 "Tivit, Seller of Secrets"
             ],
@@ -115,6 +120,7 @@
             "deck_id": "540411",
             "rank": "2",
             "player": "Benoit \"tamanoix\"",
+            "winrate": 0.8,
             "commander": [
                 "Greasefang, Okiba Boss"
             ],
@@ -215,9 +221,5 @@
                 "5 Plains"
             ]
         }
-    ],
-    "name": "DC5",
-    "place": "La taverne des enchanteurs (Puyricard, France)",
-    "players": "11 players",
-    "date": "16/07/23"
+    ]
 }

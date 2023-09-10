@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "23958",
+    "name": "Saturday Dunkin Donut Duel 3D",
+    "place": "Eastwood (Philippines)",
+    "players": "8 players",
+    "date": "07/12/19",
     "decks": [
         {
             "deck_id": "366960",
             "rank": "1",
             "player": "Martin John Ogayon",
+            "winrate": 1.0,
             "commander": [
                 "Queen Marchesa"
             ],
@@ -115,6 +120,7 @@
             "deck_id": "366961",
             "rank": "2",
             "player": "Ron Nel",
+            "winrate": 0.6666666666666666,
             "commander": [
                 "Merieke Ri Berit"
             ],
@@ -219,9 +225,5 @@
                 "2 Island"
             ]
         }
-    ],
-    "name": "Saturday Dunkin Donut Duel 3D",
-    "place": "Eastwood (Philippines)",
-    "players": "8 players",
-    "date": "07/12/19"
+    ]
 }

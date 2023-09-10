@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "36557",
+    "name": "RC Semanal Cards of Paradise",
+    "place": "Cards of Paradise (RJ, Brasil)",
+    "players": "14 players",
+    "date": "18/05/22",
     "decks": [
         {
             "deck_id": "475125",
             "rank": "1",
             "player": "Wallace",
+            "winrate": 1.0,
             "commander": [
                 "Kinnan, Bonder Prodigy"
             ],
@@ -92,6 +97,7 @@
             "deck_id": "475126",
             "rank": "2",
             "player": "Lucas Santos",
+            "winrate": 0.8,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -171,6 +177,7 @@
             "deck_id": "475127",
             "rank": "3",
             "player": "Alexandre Monteiro",
+            "winrate": 0.6,
             "commander": [
                 "Rem Karolus, Stalwart Slayer"
             ],
@@ -253,9 +260,5 @@
                 "16 Snow-Covered Mountain"
             ]
         }
-    ],
-    "name": "RC Semanal Cards of Paradise",
-    "place": "Cards of Paradise (RJ, Brasil)",
-    "players": "14 players",
-    "date": "18/05/22"
+    ]
 }

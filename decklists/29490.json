@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "29490",
+    "name": "DC",
+    "place": "Mana Underground (Lagro Q.C, Philippines)",
+    "players": "30 players",
+    "date": "27/02/21",
     "decks": [
         {
             "deck_id": "431596",
             "rank": "1",
             "player": "Glenn Marc Alesna",
+            "winrate": 1.0,
             "commander": [
                 "Keleth, Sunmane Familiar",
                 "Rograkh, Son of Rohgahh"
@@ -107,6 +112,7 @@
             "deck_id": "431597",
             "rank": "2",
             "player": "Pepelepew",
+            "winrate": 0.8,
             "commander": [
                 "Niv-Mizzet Reborn"
             ],
@@ -216,6 +222,7 @@
             "deck_id": "431598",
             "rank": "3",
             "player": "Josh Fuentes",
+            "winrate": 0.8,
             "commander": [
                 "Ikra Shidiqi, the Usurper",
                 "Sakashima of a Thousand Faces"
@@ -325,6 +332,7 @@
             "deck_id": "431599",
             "rank": "4",
             "player": "Ste Villaraza",
+            "winrate": 0.8,
             "commander": [
                 "Rograkh, Son of Rohgahh",
                 "Tevesh Szat, Doom of Fools"
@@ -410,6 +418,7 @@
             "deck_id": "431600",
             "rank": "5",
             "player": "Ryan Simon Payabyab",
+            "winrate": 0.6,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -519,6 +528,7 @@
             "deck_id": "431601",
             "rank": "6",
             "player": "Jr. Bugayong",
+            "winrate": 0.6,
             "commander": [
                 "Sakashima of a Thousand Faces",
                 "Ikra Shidiqi, the Usurper"
@@ -628,6 +638,7 @@
             "deck_id": "431602",
             "rank": "7",
             "player": "John Daroen Sahagun",
+            "winrate": 0.6,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -737,6 +748,7 @@
             "deck_id": "431603",
             "rank": "8",
             "player": "Resley",
+            "winrate": 0.6,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -842,9 +854,5 @@
                 "1 Yorion, Sky Nomad"
             ]
         }
-    ],
-    "name": "DC",
-    "place": "Mana Underground (Lagro Q.C, Philippines)",
-    "players": "30 players",
-    "date": "27/02/21"
+    ]
 }

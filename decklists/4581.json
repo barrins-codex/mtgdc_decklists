@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "4581",
+    "name": "Super EDH - Equinoxe 7 (Marseille)",
+    "place": "",
+    "players": "9 players",
+    "date": "09/03/13",
     "decks": [
         {
             "deck_id": "226540",
             "rank": "1",
             "player": "Geoffrey Louis",
+            "winrate": 1.0,
             "commander": [
                 "Sliver Queen"
             ],
@@ -111,9 +116,5 @@
                 "1 Arid Mesa"
             ]
         }
-    ],
-    "name": "Super EDH - Equinoxe 7 (Marseille)",
-    "place": "",
-    "players": "9 players",
-    "date": "09/03/13"
+    ]
 }

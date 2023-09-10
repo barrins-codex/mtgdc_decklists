@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "36878",
+    "name": "Cóleras & DuWells #25",
+    "place": "Cúpula do Trovão (Pelotas, Brazil)",
+    "players": "12 players",
+    "date": "15/06/22",
     "decks": [
         {
             "deck_id": "477127",
             "rank": "1",
             "player": "Igor Da Silva Moncks Valério",
+            "winrate": 1.0,
             "commander": [
                 "Tivit, Seller of Secrets"
             ],
@@ -115,6 +120,7 @@
             "deck_id": "477128",
             "rank": "2",
             "player": "Well",
+            "winrate": 0.8,
             "commander": [
                 "Minsc &amp; Boo, Timeless Heroes"
             ],
@@ -211,9 +217,5 @@
                 "1 Yavimaya, Cradle of Growth"
             ]
         }
-    ],
-    "name": "Cóleras & DuWells #25",
-    "place": "Cúpula do Trovão (Pelotas, Brazil)",
-    "players": "12 players",
-    "date": "15/06/22"
+    ]
 }

@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "44127",
+    "name": "FACT #6 - DC",
+    "place": "Lyon (France)",
+    "players": "128 players",
+    "date": "07/05/23",
     "decks": [
         {
             "deck_id": "525694",
             "rank": "1",
             "player": "Touboulic Baptiste",
+            "winrate": 0.9,
             "commander": [
                 "Dihada, Binder of Wills"
             ],
@@ -114,6 +119,7 @@
             "deck_id": "525695",
             "rank": "2",
             "player": "Ringotte Boris",
+            "winrate": 0.8,
             "commander": [
                 "Balmor, Battlemage Captain"
             ],
@@ -215,6 +221,7 @@
             "deck_id": "525696",
             "rank": "3",
             "player": "Sun Yiming",
+            "winrate": 0.7777777777777778,
             "commander": [
                 "Bruse Tarl, Boorish Herder",
                 "Yoshimaru, Ever Faithful"
@@ -317,6 +324,7 @@
             "deck_id": "525697",
             "rank": "4",
             "player": "Belmer Yann",
+            "winrate": 0.7777777777777778,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -426,6 +434,7 @@
             "deck_id": "525698",
             "rank": "5",
             "player": "Inanc Edouard",
+            "winrate": 0.7777777777777778,
             "commander": [
                 "Light-Paws, Emperor's Voice"
             ],
@@ -513,6 +522,7 @@
             "deck_id": "525699",
             "rank": "6",
             "player": "Poujade Jeremy",
+            "winrate": 0.7777777777777778,
             "commander": [
                 "Dihada, Binder of Wills"
             ],
@@ -622,37 +632,13 @@
             "deck_id": "525700",
             "rank": "7",
             "player": "Reigneux Jérémy",
+            "winrate": 0.7777777777777778,
             "commander": [
-                "Wernog, Rider's Chaplain",
-                "Cecily, Haunted Mage"
+                "Cecily, Haunted Mage",
+                "Wernog, Rider's Chaplain"
             ],
             "decklist": [
-                "1 Memory Deluge",
-                "1 Tithe",
-                "1 Mana Tithe",
-                "1 Wash Away",
-                "1 Leyline Binding",
-                "1 Cut Down",
-                "1 Fact or Fiction",
-                "1 Prismatic Ending",
-                "1 Force of Will",
-                "1 Lightning Bolt",
-                "1 Mana Leak",
-                "1 Inquisition of Kozilek",
-                "1 Intuition",
-                "1 Toxic Deluge",
-                "1 Underworld Breach",
-                "1 Brain Freeze",
-                "1 Ponder",
-                "1 Cryptic Command",
-                "1 Balance",
-                "1 Force Spike",
-                "1 Expressive Iteration",
-                "1 Evasive Action",
-                "1 Arcane Signet",
-                "1 Counterspell",
                 "1 Void Rend",
-                "1 Lose Focus",
                 "1 Remand",
                 "1 Sevinne's Reclamation",
                 "1 Solve the Equation",
@@ -674,7 +660,32 @@
                 "1 Shadow Prophecy",
                 "1 Demonic Tutor",
                 "1 Personal Tutor",
+                "1 Lose Focus",
+                "1 Memory Deluge",
+                "1 Tithe",
+                "1 Mana Tithe",
+                "1 Wash Away",
+                "1 Leyline Binding",
+                "1 Cut Down",
+                "1 Fact or Fiction",
+                "1 Prismatic Ending",
+                "1 Force of Will",
+                "1 Lightning Bolt",
+                "1 Mana Leak",
                 "1 Profane Tutor",
+                "1 Intuition",
+                "1 Toxic Deluge",
+                "1 Underworld Breach",
+                "1 Brain Freeze",
+                "1 Ponder",
+                "1 Cryptic Command",
+                "1 Balance",
+                "1 Force Spike",
+                "1 Expressive Iteration",
+                "1 Evasive Action",
+                "1 Arcane Signet",
+                "1 Counterspell",
+                "1 Inquisition of Kozilek",
                 "1 Preordain",
                 "1 Portable Hole",
                 "1 Lotus Petal",
@@ -684,10 +695,34 @@
                 "1 Spellseeker",
                 "1 Snapcaster Mage",
                 "1 Wall of Omens",
+                "1 Concealed Courtyard",
+                "1 Blood Crypt",
+                "1 Seachrome Coast",
+                "1 Steam Vents",
+                "1 Darkslick Shores",
+                "1 River of Tears",
+                "1 Underground River",
+                "1 Tundra",
+                "1 Raffine's Tower",
+                "1 Command Tower",
+                "1 Raugrin Triome",
+                "1 Path of Ancestry",
+                "1 Volcanic Island",
+                "1 Watery Grave",
+                "1 Scalding Tarn",
+                "1 Windswept Heath",
+                "1 Swamp",
+                "1 Shipwreck Marsh",
+                "1 Underground Sea",
+                "1 Arid Mesa",
+                "1 Deserted Beach",
+                "1 Plateau",
+                "1 Marsh Flats",
+                "1 Savai Triome",
                 "1 Badlands",
                 "1 Polluted Delta",
                 "1 Blackcleave Cliffs",
-                "1 Bloodstained Mire",
+                "1 Haunted Ridge",
                 "1 Hallowed Fountain",
                 "1 Glacial Fortress",
                 "1 Misty Rainforest",
@@ -700,37 +735,14 @@
                 "1 Celestial Colonnade",
                 "1 Verdant Catacombs",
                 "1 Drowned Catacomb",
-                "1 Haunted Ridge",
-                "1 Concealed Courtyard",
-                "1 Blood Crypt",
-                "1 Seachrome Coast",
-                "1 Steam Vents",
-                "1 Darkslick Shores",
-                "1 River of Tears",
-                "1 Underground River",
-                "1 Tundra",
-                "1 Raffine's Tower",
-                "1 Command Tower",
-                "1 Raugrin Triome",
-                "1 Savai Triome",
-                "1 Path of Ancestry",
-                "1 Volcanic Island",
-                "1 Watery Grave",
-                "1 Scalding Tarn",
-                "1 Windswept Heath",
-                "1 Swamp",
-                "1 Shipwreck Marsh",
-                "1 Underground Sea",
-                "1 Arid Mesa",
-                "1 Deserted Beach",
-                "1 Plateau",
-                "1 Marsh Flats"
+                "1 Bloodstained Mire"
             ]
         },
         {
             "deck_id": "525701",
             "rank": "8",
             "player": "Ben Temam Camil",
+            "winrate": 0.7777777777777778,
             "commander": [
                 "Ertai Resurrected"
             ],
@@ -827,6 +839,10 @@
             "deck_id": "525702",
             "rank": "9",
             "player": "Theurel Jonathan",
+            "winrate": 0.7142857142857143,
+            "commander": [
+                "Slogurk, the Overslime"
+            ],
             "decklist": [
                 "1 Command Tower",
                 "1 Oko, Thief of Crowns",
@@ -919,15 +935,16 @@
                 "1 Maze of Ith",
                 "1 Wrenn and Realmbreaker",
                 "1 Change the Equation"
-            ],
-            "commander": [
-                "Slogurk, the Overslime"
             ]
         },
         {
             "deck_id": "525703",
             "rank": "10",
             "player": "Trousson Jules",
+            "winrate": 0.7142857142857143,
+            "commander": [
+                "Dihada, Binder of Wills"
+            ],
             "decklist": [
                 "1 Kroxa, Titan of Death's Hunger",
                 "1 Underworld Breach",
@@ -1028,41 +1045,18 @@
                 "1 Kaya, Intangible Slayer",
                 "1 Hoarding Broodlord",
                 "1 Kroxa and Kunoros"
-            ],
-            "commander": [
-                "Dihada, Binder of Wills"
             ]
         },
         {
             "deck_id": "525704",
             "rank": "11",
             "player": "Juyaux Paul",
+            "winrate": 0.7142857142857143,
+            "commander": [
+                "Cecily, Haunted Mage",
+                "Wernog, Rider's Chaplain"
+            ],
             "decklist": [
-                "1 Cryptic Command",
-                "1 Ponder",
-                "1 Thoughtseize",
-                "1 Rain of Filth",
-                "1 Brainstorm",
-                "1 Cling to Dust",
-                "1 Underworld Breach",
-                "1 Mana Leak",
-                "1 Remand",
-                "1 Shred Memory",
-                "1 Evasive Action",
-                "1 Force of Will",
-                "1 Sevinne's Reclamation",
-                "1 Force Spike",
-                "1 Fact or Fiction",
-                "1 Logic Knot",
-                "1 Oust",
-                "1 Toxic Deluge",
-                "1 Fatal Push",
-                "1 Gitaxian Probe",
-                "1 Preordain",
-                "1 Brain Freeze",
-                "1 Intuition",
-                "1 Lotus Petal",
-                "1 Tithe",
                 "1 Teferi, Time Raveler",
                 "1 Deadly Rollick",
                 "1 Supreme Verdict",
@@ -1074,7 +1068,6 @@
                 "1 Lose Focus",
                 "1 Memory Deluge",
                 "1 Wash Away",
-                "1 Shorikai, Genesis Engine",
                 "1 Void Rend",
                 "1 Cut Down",
                 "1 Leyline Binding",
@@ -1087,19 +1080,68 @@
                 "1 Mana Tithe",
                 "1 Tainted Pact",
                 "1 Memory Lapse",
+                "1 Shorikai, Genesis Engine",
+                "1 Cryptic Command",
+                "1 Ponder",
+                "1 Thoughtseize",
+                "1 Rain of Filth",
+                "1 Brainstorm",
+                "1 Cling to Dust",
+                "1 Underworld Breach",
+                "1 Mana Leak",
+                "1 Remand",
+                "1 Shred Memory",
+                "1 Evasive Action",
+                "1 Tithe",
+                "1 Sevinne's Reclamation",
+                "1 Force Spike",
+                "1 Fact or Fiction",
+                "1 Logic Knot",
+                "1 Oust",
+                "1 Toxic Deluge",
+                "1 Fatal Push",
+                "1 Gitaxian Probe",
+                "1 Preordain",
+                "1 Brain Freeze",
+                "1 Intuition",
+                "1 Lotus Petal",
+                "1 Force of Will",
                 "1 Counterspell",
                 "1 Demonic Tutor",
                 "1 Lightning Bolt",
-                "1 Cecily, Haunted Mage",
                 "1 Spellseeker",
                 "1 Subtlety",
                 "1 Baleful Strix",
                 "1 Snapcaster Mage",
+                "1 Darkslick Shores",
+                "1 Swamp",
+                "1 Tundra",
+                "1 Underground Sea",
+                "1 Volcanic Island",
+                "1 Creeping Tar Pit",
+                "1 Deserted Beach",
+                "1 Haunted Ridge",
+                "1 Shipwreck Marsh",
+                "1 Raffine's Tower",
+                "1 Xander's Lounge",
+                "1 Concealed Courtyard",
+                "1 Path of Ancestry",
+                "1 Command Tower",
+                "1 Arid Mesa",
+                "1 Marsh Flats",
+                "1 Scalding Tarn",
+                "1 Verdant Catacombs",
+                "1 Steam Vents",
+                "1 Badlands",
+                "1 Plateau",
+                "1 Scrubland",
+                "1 Misty Rainforest",
+                "1 Celestial Colonnade",
                 "1 Adarkar Wastes",
                 "1 Underground River",
                 "1 Savai Triome",
                 "1 Raugrin Triome",
-                "1 Watery Grave",
+                "1 Reflecting Pool",
                 "1 Bloodstained Mire",
                 "1 Flooded Strand",
                 "1 Polluted Delta",
@@ -1112,40 +1154,17 @@
                 "1 Seachrome Coast",
                 "1 Blood Crypt",
                 "1 Hallowed Fountain",
-                "1 Reflecting Pool",
-                "1 Darkslick Shores",
-                "1 Swamp",
-                "1 Tundra",
-                "1 Underground Sea",
-                "1 Volcanic Island",
-                "1 Creeping Tar Pit",
-                "1 Deserted Beach",
-                "1 Haunted Ridge",
-                "1 Shipwreck Marsh",
-                "1 Raffine's Tower",
-                "1 Xander's Lounge",
-                "1 Celestial Colonnade",
-                "1 Concealed Courtyard",
-                "1 Path of Ancestry",
-                "1 Command Tower",
-                "1 Arid Mesa",
-                "1 Marsh Flats",
-                "1 Scalding Tarn",
-                "1 Verdant Catacombs",
-                "1 Steam Vents",
-                "1 Badlands",
-                "1 Plateau",
-                "1 Scrubland",
-                "1 Misty Rainforest"
-            ],
-            "commander": [
-                "Wernog, Rider's Chaplain"
+                "1 Watery Grave"
             ]
         },
         {
             "deck_id": "525705",
             "rank": "12",
             "player": "Demoget Adrien",
+            "winrate": 0.7142857142857143,
+            "commander": [
+                "Sythis, Harvest's Hand"
+            ],
             "decklist": [
                 "1 Pithing Needle",
                 "1 Fertile Ground",
@@ -1235,15 +1254,16 @@
                 "1 Wild Growth",
                 "1 Ossification",
                 "1 Planar Disruption"
-            ],
-            "commander": [
-                "Sythis, Harvest's Hand"
             ]
         },
         {
             "deck_id": "525706",
             "rank": "13",
             "player": "Vivier Eliott",
+            "winrate": 0.7142857142857143,
+            "commander": [
+                "Ghyrson Starn, Kelermorph"
+            ],
             "decklist": [
                 "1 Daze",
                 "1 Gut Shot",
@@ -1333,15 +1353,16 @@
                 "1 Mental Misstep",
                 "1 Sulfur Falls",
                 "1 Ral's Reinforcements"
-            ],
-            "commander": [
-                "Ghyrson Starn, Kelermorph"
             ]
         },
         {
             "deck_id": "525707",
             "rank": "14",
             "player": "Gariston Yoan",
+            "winrate": 0.7142857142857143,
+            "commander": [
+                "Sai, Master Thopterist"
+            ],
             "decklist": [
                 "1 Darksteel Citadel",
                 "1 Daze",
@@ -1419,15 +1440,16 @@
                 "1 Painter's Servant",
                 "1 Memory Lapse",
                 "1 Emry, Lurker of the Loch"
-            ],
-            "commander": [
-                "Sai, Master Thopterist"
             ]
         },
         {
             "deck_id": "525708",
             "rank": "15",
-            "player": "Blanc Jean",
+            "player": "Blanc Jean-gabriel",
+            "winrate": 0.7142857142857143,
+            "commander": [
+                "Dihada, Binder of Wills"
+            ],
             "decklist": [
                 "1 Mountain",
                 "1 Plains",
@@ -1528,15 +1550,16 @@
                 "1 Hoarding Broodlord",
                 "1 Swords to Plowshares",
                 "1 Orzhov Signet"
-            ],
-            "commander": [
-                "Dihada, Binder of Wills"
             ]
         },
         {
             "deck_id": "525709",
             "rank": "16",
             "player": "Mollon Valentin",
+            "winrate": 0.7142857142857143,
+            "commander": [
+                "Raffine, Scheming Seer"
+            ],
             "decklist": [
                 "1 Island",
                 "1 Brazen Borrower",
@@ -1637,14 +1660,7 @@
                 "1 Seachrome Coast",
                 "1 Skrelv, Defector Mite",
                 "1 Flawless Maneuver"
-            ],
-            "commander": [
-                "Raffine, Scheming Seer"
             ]
         }
-    ],
-    "name": "FACT #6 - DC",
-    "place": "Lyon (France)",
-    "players": "128 players",
-    "date": "07/05/23"
+    ]
 }

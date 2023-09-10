@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "38343",
+    "name": "WANTED Saison 4 #10",
+    "place": "CartaRennes (Rennes, France)",
+    "players": "16 players",
+    "date": "27/07/22",
     "decks": [
         {
             "deck_id": "486569",
             "rank": "1",
             "player": "Thibaut Cantaluppi",
+            "winrate": 1.0,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -94,6 +99,7 @@
             "deck_id": "486570",
             "rank": "2",
             "player": "Charlie Cha",
+            "winrate": 0.8,
             "commander": [
                 "Grenzo, Dungeon Warden"
             ],
@@ -192,9 +198,5 @@
                 "1 Wooded Foothills"
             ]
         }
-    ],
-    "name": "WANTED Saison 4 #10",
-    "place": "CartaRennes (Rennes, France)",
-    "players": "16 players",
-    "date": "27/07/22"
+    ]
 }

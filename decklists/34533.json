@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "34533",
+    "name": "WANTED Saison 2 #8",
+    "place": "CartaRennes (Rennes, France)",
+    "players": "16 players",
+    "date": "02/02/22",
     "decks": [
         {
             "deck_id": "461922",
             "rank": "1",
             "player": "Robin \"Faarnn\" Angebaud",
+            "winrate": 1.0,
             "commander": [
                 "Marath, Will of the Wild"
             ],
@@ -115,6 +120,7 @@
             "deck_id": "461923",
             "rank": "2",
             "player": "Thibaud Boivin",
+            "winrate": 0.8,
             "commander": [
                 "Sythis, Harvest's Hand"
             ],
@@ -211,9 +217,5 @@
                 "1 Yavimaya, Cradle of Growth"
             ]
         }
-    ],
-    "name": "WANTED Saison 2 #8",
-    "place": "CartaRennes (Rennes, France)",
-    "players": "16 players",
-    "date": "02/02/22"
+    ]
 }

@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "35318",
+    "name": "DC Weekly FNM",
+    "place": "Dragon's Lair (Maceda, Philippines)",
+    "players": "10 players",
+    "date": "18/03/22",
     "decks": [
         {
             "deck_id": "466942",
             "rank": "1",
             "player": "Josh Fuentes",
+            "winrate": 1.0,
             "commander": [
                 "Klothys, God of Destiny"
             ],
@@ -112,6 +117,7 @@
             "deck_id": "466943",
             "rank": "2",
             "player": "Gabe Enriquez",
+            "winrate": 0.8,
             "commander": [
                 "Klothys, God of Destiny"
             ],
@@ -209,9 +215,5 @@
                 "1 Yavimaya, Cradle of Growth"
             ]
         }
-    ],
-    "name": "DC Weekly FNM",
-    "place": "Dragon's Lair (Maceda, Philippines)",
-    "players": "10 players",
-    "date": "18/03/22"
+    ]
 }

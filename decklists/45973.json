@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
-    "id": 45973,
+    "id": "45973",
+    "name": "A-Ma Cup",
+    "place": "Model Card (Beijing, China)",
+    "players": "12 players",
+    "date": "15/07/23",
     "decks": [
         {
             "deck_id": "539705",
             "rank": "1",
             "player": "Xinpeng Wang",
+            "winrate": 1.0,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -115,6 +120,7 @@
             "deck_id": "539706",
             "rank": "2",
             "player": "Danpeng Yangniaoyu11",
+            "winrate": 0.8,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -219,9 +225,5 @@
                 "1 Balance"
             ]
         }
-    ],
-    "name": "A-Ma Cup",
-    "place": "Model Card (Beijing, China)",
-    "players": "12 players",
-    "date": "15/07/23"
+    ]
 }

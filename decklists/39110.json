@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "39110",
+    "name": "Rising Sun DC Tournament #6",
+    "place": "Ile de la Réunion",
+    "players": "24 players",
+    "date": "09/10/22",
     "decks": [
         {
             "deck_id": "491542",
             "rank": "1",
             "player": "Tann \"rs Black\" Meese",
+            "winrate": 1.0,
             "commander": [
                 "Dihada, Binder of Wills"
             ],
@@ -115,6 +120,7 @@
             "deck_id": "491543",
             "rank": "2",
             "player": "Jérome Christin",
+            "winrate": 0.8,
             "commander": [
                 "Juri, Master of the Revue"
             ],
@@ -204,6 +210,7 @@
             "deck_id": "491544",
             "rank": "3",
             "player": "Patrice Dijoux",
+            "winrate": 0.8,
             "commander": [
                 "Kinnan, Bonder Prodigy"
             ],
@@ -304,6 +311,7 @@
             "deck_id": "491545",
             "rank": "4",
             "player": "Bilal \"rs Khan\" Moullan",
+            "winrate": 0.8,
             "commander": [
                 "Grist, the Hunger Tide"
             ],
@@ -402,6 +410,7 @@
             "deck_id": "491546",
             "rank": "5",
             "player": "Matthieu Guertener",
+            "winrate": 0.6,
             "commander": [
                 "Soul of Windgrace"
             ],
@@ -505,6 +514,7 @@
             "deck_id": "491547",
             "rank": "6",
             "player": "Baptiste Manhaval",
+            "winrate": 0.6,
             "commander": [
                 "Raff, Weatherlight Stalwart"
             ],
@@ -607,6 +617,7 @@
             "deck_id": "491548",
             "rank": "7",
             "player": "Baptiste Bernard",
+            "winrate": 0.6,
             "commander": [
                 "Grist, the Hunger Tide"
             ],
@@ -716,6 +727,7 @@
             "deck_id": "491549",
             "rank": "8",
             "player": "Julien Normand",
+            "winrate": 0.6,
             "commander": [
                 "Yoshimaru, Ever Faithful",
                 "Tana, the Bloodsower"
@@ -818,9 +830,5 @@
                 "4 Plains"
             ]
         }
-    ],
-    "name": "Rising Sun DC Tournament #6",
-    "place": "Ile de la Réunion",
-    "players": "24 players",
-    "date": "09/10/22"
+    ]
 }

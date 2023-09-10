@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "38137",
+    "name": "Holiday Last Chance Qualifier",
+    "place": "King and Queen Milktea (Marikina City, Philippines)",
+    "players": "10 players",
+    "date": "29/08/22",
     "decks": [
         {
             "deck_id": "485230",
             "rank": "1",
             "player": "Jan Hortaleza",
+            "winrate": 1.0,
             "commander": [
                 "General Ferrous Rokiric"
             ],
@@ -111,6 +116,7 @@
             "deck_id": "485231",
             "rank": "2",
             "player": "Dinno Zaide",
+            "winrate": 0.8,
             "commander": [
                 "Ludevic, Necro-Alchemist",
                 "Jeska, Thrice Reborn"
@@ -209,6 +215,7 @@
             "deck_id": "485232",
             "rank": "3",
             "player": "Miguel Paulino",
+            "winrate": 0.6,
             "commander": [
                 "Isamaru, Hound of Konda"
             ],
@@ -297,6 +304,7 @@
             "deck_id": "485233",
             "rank": "4",
             "player": "Van Acordon",
+            "winrate": 0.6,
             "commander": [
                 "Wernog, Rider's Chaplain",
                 "Elmar, Ulvenwald Informant"
@@ -402,9 +410,5 @@
                 "1 Isolated Chapel"
             ]
         }
-    ],
-    "name": "Holiday Last Chance Qualifier",
-    "place": "King and Queen Milktea (Marikina City, Philippines)",
-    "players": "10 players",
-    "date": "29/08/22"
+    ]
 }

@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "33047",
+    "name": "Bank President Cup",
+    "place": "Hefei (China)",
+    "players": "8 players",
+    "date": "31/10/21",
     "decks": [
         {
             "deck_id": "452811",
             "rank": "1",
             "player": "Jingyi Pan",
+            "winrate": 1.0,
             "commander": [
                 "Sisay, Weatherlight Captain"
             ],
@@ -115,6 +120,7 @@
             "deck_id": "452812",
             "rank": "2",
             "player": "Jsd",
+            "winrate": 0.6666666666666666,
             "commander": [
                 "Malcolm, Keen-Eyed Navigator",
                 "Kraum, Ludevic's Opus"
@@ -212,9 +218,5 @@
                 "5 Snow-Covered Island"
             ]
         }
-    ],
-    "name": "Bank President Cup",
-    "place": "Hefei (China)",
-    "players": "8 players",
-    "date": "31/10/21"
+    ]
 }

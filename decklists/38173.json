@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "38173",
+    "name": "DC East League",
+    "place": "Contemporary Nook (Marikina City, Philippines)",
+    "players": "14 players",
+    "date": "28/08/22",
     "decks": [
         {
             "deck_id": "485427",
             "rank": "1",
             "player": "Ste Villaraza",
+            "winrate": 1.0,
             "commander": [
                 "Tivit, Seller of Secrets"
             ],
@@ -115,6 +120,7 @@
             "deck_id": "485428",
             "rank": "2",
             "player": "Rexel Tenorio",
+            "winrate": 0.8,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -224,6 +230,7 @@
             "deck_id": "485429",
             "rank": "3",
             "player": "Timothy Agustin",
+            "winrate": 0.6,
             "commander": [
                 "Ludevic, Necro-Alchemist",
                 "Jeska, Thrice Reborn"
@@ -321,6 +328,7 @@
             "deck_id": "485430",
             "rank": "4",
             "player": "Paul Relativo",
+            "winrate": 0.6,
             "commander": [
                 "Niv-Mizzet Reborn"
             ],
@@ -426,9 +434,5 @@
                 "1 Zagoth Triome"
             ]
         }
-    ],
-    "name": "DC East League",
-    "place": "Contemporary Nook (Marikina City, Philippines)",
-    "players": "14 players",
-    "date": "28/08/22"
+    ]
 }

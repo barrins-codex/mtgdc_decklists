@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "25919",
+    "name": "Naya TJ Cup",
+    "place": "Jinan(China)",
+    "players": "8 players",
+    "date": "31/05/20",
     "decks": [
         {
             "deck_id": "394089",
             "rank": "1",
             "player": "Yang Jinlin",
+            "winrate": 1.0,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -91,6 +96,7 @@
             "deck_id": "394090",
             "rank": "2",
             "player": "Chu Xiaoyi",
+            "winrate": 0.6666666666666666,
             "commander": [
                 "Uro, Titan of Nature's Wrath"
             ],
@@ -179,9 +185,5 @@
                 "1 Walk the Aeons"
             ]
         }
-    ],
-    "name": "Naya TJ Cup",
-    "place": "Jinan(China)",
-    "players": "8 players",
-    "date": "31/05/20"
+    ]
 }

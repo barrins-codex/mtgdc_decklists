@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "37048",
+    "name": "[RC] 5º Torneio",
+    "place": "Tower of Card (Bangu, RJ, Brazil)",
+    "players": "8 players",
+    "date": "25/06/22",
     "decks": [
         {
             "deck_id": "478207",
             "rank": "1",
             "player": "Clemilson",
+            "winrate": 1.0,
             "commander": [
                 "Magda, Brazen Outlaw"
             ],
@@ -83,6 +88,7 @@
             "deck_id": "478208",
             "rank": "2",
             "player": "Juca",
+            "winrate": 0.6666666666666666,
             "commander": [
                 "Queza, Augur of Agonies"
             ],
@@ -176,9 +182,5 @@
                 "5 Plains"
             ]
         }
-    ],
-    "name": "[RC] 5º Torneio",
-    "place": "Tower of Card (Bangu, RJ, Brazil)",
-    "players": "8 players",
-    "date": "25/06/22"
+    ]
 }

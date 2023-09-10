@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "24786",
+    "name": "Nack & Rosa DC",
+    "place": "Pfaffenhofen",
+    "players": "27 players",
+    "date": "16/02/20",
     "decks": [
         {
             "deck_id": "373447",
             "rank": "1",
             "player": "Marc Vogt",
+            "winrate": 1.0,
             "commander": [
                 "Thrasios, Triton Hero",
                 "Tymna the Weaver"
@@ -115,6 +120,7 @@
             "deck_id": "373448",
             "rank": "2",
             "player": "Jakob Fröhlich",
+            "winrate": 0.8,
             "commander": [
                 "Tymna the Weaver",
                 "Thrasios, Triton Hero"
@@ -224,6 +230,7 @@
             "deck_id": "373449",
             "rank": "3",
             "player": "Michael Schöttke",
+            "winrate": 0.8,
             "commander": [
                 "Leovold, Emissary of Trest"
             ],
@@ -333,6 +340,7 @@
             "deck_id": "373450",
             "rank": "4",
             "player": "William Bekker",
+            "winrate": 0.8,
             "commander": [
                 "Animar, Soul of Elements"
             ],
@@ -440,6 +448,7 @@
             "deck_id": "373451",
             "rank": "5",
             "player": "Mäx Loidl",
+            "winrate": 0.6,
             "commander": [
                 "Samut, Voice of Dissent"
             ],
@@ -549,6 +558,7 @@
             "deck_id": "373452",
             "rank": "6",
             "player": "Moritz Karmann",
+            "winrate": 0.6,
             "commander": [
                 "Titania, Protector of Argoth"
             ],
@@ -644,6 +654,7 @@
             "deck_id": "373453",
             "rank": "7",
             "player": "Dominik Rossnagel",
+            "winrate": 0.6,
             "commander": [
                 "Saskia the Unyielding"
             ],
@@ -753,6 +764,7 @@
             "deck_id": "373454",
             "rank": "8",
             "player": "Korbinian Hengl",
+            "winrate": 0.6,
             "commander": [
                 "Tajic, Legion's Edge"
             ],
@@ -835,9 +847,5 @@
                 "1 Wooded Foothills"
             ]
         }
-    ],
-    "name": "Nack & Rosa DC",
-    "place": "Pfaffenhofen",
-    "players": "27 players",
-    "date": "16/02/20"
+    ]
 }

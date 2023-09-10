@@ -1,6 +1,6 @@
 {
     "format": "Duel Commander",
-    "id": 46295,
+    "id": "46295",
     "name": "Magic&Games DC League",
     "place": "Montpellier (France)",
     "players": "12 players",
@@ -8,6 +8,12 @@
     "decks": [
         {
             "deck_id": "541893",
+            "rank": "1",
+            "player": "Jonathan Montalva Alias The Malicious",
+            "winrate": 1.0,
+            "commander": [
+                "Kess, Dissident Mage"
+            ],
             "decklist": [
                 "1 Agent of Treachery",
                 "1 Animate Dead",
@@ -108,15 +114,16 @@
                 "1 Watery Grave",
                 "1 Wooded Foothills",
                 "1 Xander's Lounge"
-            ],
-            "commander": [
-                "Kess, Dissident Mage"
-            ],
-            "rank": "1",
-            "player": "Jonathan Montalva Alias The Malicious"
+            ]
         },
         {
             "deck_id": "541894",
+            "rank": "2",
+            "player": "Yannick Bouloc",
+            "winrate": 0.8,
+            "commander": [
+                "Rem Karolus, Stalwart Slayer"
+            ],
             "decklist": [
                 "1 Robber of the Rich",
                 "1 Kaldra Compleat",
@@ -205,12 +212,7 @@
                 "1 Reprieve",
                 "1 Urza's Saga",
                 "1 Archivist of Oghma"
-            ],
-            "commander": [
-                "Rem Karolus, Stalwart Slayer"
-            ],
-            "rank": "2",
-            "player": "Yannick Bouloc"
+            ]
         }
     ]
 }

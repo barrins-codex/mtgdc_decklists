@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "34433",
+    "name": "DuWell Commander",
+    "place": "Cúpula do Trovão (Pelotas, RS, Brazil)",
+    "players": "9 players",
+    "date": "28/01/22",
     "decks": [
         {
             "deck_id": "461368",
             "rank": "1",
             "player": "Renan Da Massa",
+            "winrate": 1.0,
             "commander": [
                 "Dargo, the Shipwrecker",
                 "Keskit, the Flesh Sculptor"
@@ -110,6 +115,7 @@
             "deck_id": "461369",
             "rank": "2",
             "player": "Gor Da Silva Moncks Valério",
+            "winrate": 0.8,
             "commander": [
                 "Adeliz, the Cinder Wind"
             ],
@@ -204,6 +210,7 @@
             "deck_id": "461370",
             "rank": "3-4",
             "player": "Deivid Rec Viegas",
+            "winrate": 0.6,
             "commander": [
                 "Dargo, the Shipwrecker",
                 "Malcolm, Keen-Eyed Navigator"
@@ -297,6 +304,7 @@
             "deck_id": "461371",
             "rank": "3-4",
             "player": "Lexcross",
+            "winrate": 0.6,
             "commander": [
                 "Queen Marchesa"
             ],
@@ -397,9 +405,5 @@
                 "1 Wooded Foothills"
             ]
         }
-    ],
-    "name": "DuWell Commander",
-    "place": "Cúpula do Trovão (Pelotas, RS, Brazil)",
-    "players": "9 players",
-    "date": "28/01/22"
+    ]
 }

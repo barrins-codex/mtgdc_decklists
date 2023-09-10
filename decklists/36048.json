@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "36048",
+    "name": "Tournoi décennal ter",
+    "place": "La Crypte du Jeu",
+    "players": "8 players",
+    "date": "29/04/22",
     "decks": [
         {
             "deck_id": "471529",
             "rank": "1",
             "player": "Octave Belaudre",
+            "winrate": 1.0,
             "commander": [
                 "Hinata, Dawn-Crowned"
             ],
@@ -107,6 +112,7 @@
             "deck_id": "471530",
             "rank": "2",
             "player": "Dokaknel",
+            "winrate": 0.6666666666666666,
             "commander": [
                 "Daretti, Scrap Savant"
             ],
@@ -184,9 +190,5 @@
                 "1 Wurmcoil Engine"
             ]
         }
-    ],
-    "name": "Tournoi décennal ter",
-    "place": "La Crypte du Jeu",
-    "players": "8 players",
-    "date": "29/04/22"
+    ]
 }

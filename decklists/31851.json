@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "31851",
+    "name": "Les Arpenteurs Du Limousin",
+    "place": "Uzerche (France)",
+    "players": "40 players",
+    "date": "01/08/21",
     "decks": [
         {
             "deck_id": "446135",
             "rank": "1",
             "player": "Guillaume Cailliez",
+            "winrate": 0.8888888888888888,
             "commander": [
                 "Kess, Dissident Mage"
             ],
@@ -114,6 +119,7 @@
             "deck_id": "446136",
             "rank": "2",
             "player": "Jean Mathieu Goffie",
+            "winrate": 0.7777777777777778,
             "commander": [
                 "Kelsien, the Plague"
             ],
@@ -223,6 +229,7 @@
             "deck_id": "446137",
             "rank": "3",
             "player": "Gregoire Payan",
+            "winrate": 0.75,
             "commander": [
                 "The Gitrog Monster"
             ],
@@ -321,6 +328,7 @@
             "deck_id": "446138",
             "rank": "4",
             "player": "Samuel Gunenbein",
+            "winrate": 0.75,
             "commander": [
                 "Doran, the Siege Tower"
             ],
@@ -429,6 +437,7 @@
             "deck_id": "446139",
             "rank": "5",
             "player": "Alexis Rejasse",
+            "winrate": 0.75,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -511,6 +520,7 @@
             "deck_id": "446140",
             "rank": "6",
             "player": "Julien Castela",
+            "winrate": 0.75,
             "commander": [
                 "Kinnan, Bonder Prodigy"
             ],
@@ -612,6 +622,7 @@
             "deck_id": "446141",
             "rank": "7",
             "player": "Etienne Herault",
+            "winrate": 0.75,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -721,6 +732,7 @@
             "deck_id": "446142",
             "rank": "8",
             "player": "Etienne Viger",
+            "winrate": 0.75,
             "commander": [
                 "Sythis, Harvest's Hand"
             ],
@@ -816,9 +828,5 @@
                 "7 Snow-Covered Forest"
             ]
         }
-    ],
-    "name": "Les Arpenteurs Du Limousin",
-    "place": "Uzerche (France)",
-    "players": "40 players",
-    "date": "01/08/21"
+    ]
 }

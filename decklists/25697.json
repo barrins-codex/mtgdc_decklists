@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "25697",
+    "name": "Commander League S1 Bronze",
+    "place": "",
+    "players": "10 players",
+    "date": "15/05/20",
     "decks": [
         {
             "deck_id": "391066",
             "rank": "1",
             "player": "Willydea",
+            "winrate": 1.0,
             "commander": [
                 "Rielle, the Everwise",
                 "Lutri, the Spellchaser"
@@ -103,6 +108,7 @@
             "deck_id": "391067",
             "rank": "2",
             "player": "Carpenters",
+            "winrate": 0.8,
             "commander": [
                 "Lutri, the Spellchaser",
                 "Akiri, Line-Slinger",
@@ -209,9 +215,5 @@
                 "1 Inventors' Fair"
             ]
         }
-    ],
-    "name": "Commander League S1 Bronze",
-    "place": "",
-    "players": "10 players",
-    "date": "15/05/20"
+    ]
 }

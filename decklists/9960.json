@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "9960",
+    "name": "Duel Commander",
+    "place": "Carta'Jeu (Lyon)",
+    "players": "19 players",
+    "date": "24/05/15",
     "decks": [
         {
             "deck_id": "257439",
             "rank": "1",
             "player": "Thibaud Casalengo",
+            "winrate": 1.0,
             "commander": [
                 "Tasigur, the Golden Fang"
             ],
@@ -108,9 +113,5 @@
                 "1 Expedition Map"
             ]
         }
-    ],
-    "name": "Duel Commander",
-    "place": "Carta'Jeu (Lyon)",
-    "players": "19 players",
-    "date": "24/05/15"
+    ]
 }

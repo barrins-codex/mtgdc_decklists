@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
-    "id": 45524,
+    "id": "45524",
+    "name": "DC - EDH Brazil Championship",
+    "place": "Mont Shop (Campinas, São Paulo, Brazil)",
+    "players": "18 players",
+    "date": "27/06/23",
     "decks": [
         {
             "deck_id": "536410",
             "rank": "1",
             "player": "Matiuzzo",
+            "winrate": 1.0,
             "commander": [
                 "Ardoz, Cobbler of War"
             ],
@@ -86,6 +91,7 @@
             "deck_id": "536411",
             "rank": "2",
             "player": "Victor Marques",
+            "winrate": 0.8,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -195,6 +201,7 @@
             "deck_id": "536412",
             "rank": "3",
             "player": "Diego Maia",
+            "winrate": 0.8,
             "commander": [
                 "Aragorn, the Uniter"
             ],
@@ -303,6 +310,7 @@
             "deck_id": "536413",
             "rank": "4",
             "player": "Gabriel Isaac",
+            "winrate": 0.6,
             "commander": [
                 "Feldon, Ronom Excavator"
             ],
@@ -382,9 +390,5 @@
                 "1 Zurgo Bellstriker"
             ]
         }
-    ],
-    "name": "DC - EDH Brazil Championship",
-    "place": "Mont Shop (Campinas, São Paulo, Brazil)",
-    "players": "18 players",
-    "date": "27/06/23"
+    ]
 }

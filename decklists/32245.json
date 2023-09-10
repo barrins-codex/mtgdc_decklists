@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "32245",
+    "name": "FNM Pile ou face",
+    "place": "Agen (France)",
+    "players": "12 players",
+    "date": "03/09/21",
     "decks": [
         {
             "deck_id": "448241",
             "rank": "1",
             "player": "Rémi Léon",
+            "winrate": 1.0,
             "commander": [
                 "Atraxa, Praetors' Voice"
             ],
@@ -115,6 +120,7 @@
             "deck_id": "448242",
             "rank": "2",
             "player": "Kelig Maze",
+            "winrate": 0.8,
             "commander": [
                 "Hogaak, Arisen Necropolis"
             ],
@@ -224,6 +230,7 @@
             "deck_id": "448243",
             "rank": "3-4",
             "player": "Thomas Polloni",
+            "winrate": 0.6,
             "commander": [
                 "Asmoranomardicadaistinaculdacar"
             ],
@@ -325,6 +332,7 @@
             "deck_id": "448244",
             "rank": "3-4",
             "player": "Damien Boutou",
+            "winrate": 0.6,
             "commander": [
                 "Rowan Kenrith",
                 "Will Kenrith"
@@ -412,9 +420,5 @@
                 "1 Wandering Fumarole"
             ]
         }
-    ],
-    "name": "FNM Pile ou face",
-    "place": "Agen (France)",
-    "players": "12 players",
-    "date": "03/09/21"
+    ]
 }

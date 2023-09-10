@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "33039",
+    "name": "Wool Cup 12",
+    "place": "One Flower One Leaf (Beijing, China)",
+    "players": "10 players",
+    "date": "30/10/21",
     "decks": [
         {
             "deck_id": "452768",
             "rank": "1",
             "player": "Char",
+            "winrate": 1.0,
             "commander": [
                 "Jegantha, the Wellspring",
                 "Niv-Mizzet Reborn"
@@ -116,6 +121,7 @@
             "deck_id": "452769",
             "rank": "2",
             "player": "Ziqi Xi",
+            "winrate": 0.8,
             "commander": [
                 "Golos, Tireless Pilgrim"
             ],
@@ -225,6 +231,7 @@
             "deck_id": "452770",
             "rank": "3-4",
             "player": "Wei Cheng",
+            "winrate": 0.6,
             "commander": [
                 "Katilda, Dawnhart Prime"
             ],
@@ -332,6 +339,7 @@
             "deck_id": "452771",
             "rank": "3-4",
             "player": "Jinlin Yang",
+            "winrate": 0.6,
             "commander": [
                 "Prossh, Skyraider of Kher"
             ],
@@ -437,9 +445,5 @@
                 "1 Xenagos, the Reveler"
             ]
         }
-    ],
-    "name": "Wool Cup 12",
-    "place": "One Flower One Leaf (Beijing, China)",
-    "players": "10 players",
-    "date": "30/10/21"
+    ]
 }

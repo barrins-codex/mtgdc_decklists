@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "41384",
+    "name": "DJ birthday tourney",
+    "place": "Aling Marings Dojo (Rizal, Philippines)",
+    "players": "16 players",
+    "date": "12/02/23",
     "decks": [
         {
             "deck_id": "507433",
             "rank": "1",
             "player": "Edison Gabutero",
+            "winrate": 1.0,
             "commander": [
                 "Reyhan, Last of the Abzan",
                 "Yoshimaru, Ever Faithful"
@@ -107,6 +112,7 @@
             "deck_id": "507434",
             "rank": "2",
             "player": "Darren Almondia",
+            "winrate": 0.8,
             "commander": [
                 "Juri, Master of the Revue"
             ],
@@ -207,6 +213,7 @@
             "deck_id": "507435",
             "rank": "3-4",
             "player": "Jomar Co",
+            "winrate": 0.8,
             "commander": [
                 "Ardoz, Cobbler of War"
             ],
@@ -283,9 +290,5 @@
                 "30 Mountain"
             ]
         }
-    ],
-    "name": "DJ birthday tourney",
-    "place": "Aling Marings Dojo (Rizal, Philippines)",
-    "players": "16 players",
-    "date": "12/02/23"
+    ]
 }

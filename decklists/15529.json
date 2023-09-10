@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "15529",
+    "name": "FNM Hiveworld",
+    "place": "",
+    "players": "8 players",
+    "date": "12/05/17",
     "decks": [
         {
             "deck_id": "294668",
             "rank": "1",
             "player": "Sebastian Haines",
+            "winrate": 1.0,
             "commander": [
                 "Leovold, Emissary of Trest"
             ],
@@ -111,9 +116,5 @@
                 "1 Stifle"
             ]
         }
-    ],
-    "name": "FNM Hiveworld",
-    "place": "",
-    "players": "8 players",
-    "date": "12/05/17"
+    ]
 }

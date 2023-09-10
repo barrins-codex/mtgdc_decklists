@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "34823",
+    "name": "WANTED Saison 3 #1",
+    "place": "CartaRennes (Rennes, France)",
+    "players": "15 players",
+    "date": "16/02/22",
     "decks": [
         {
             "deck_id": "463612",
             "rank": "1",
             "player": "Edgar Francken",
+            "winrate": 1.0,
             "commander": [
                 "Galazeth Prismari"
             ],
@@ -103,6 +108,7 @@
             "deck_id": "463613",
             "rank": "2",
             "player": "Mathieu Laurent",
+            "winrate": 0.8,
             "commander": [
                 "Kelsien, the Plague"
             ],
@@ -208,9 +214,5 @@
                 "1 Godless Shrine"
             ]
         }
-    ],
-    "name": "WANTED Saison 3 #1",
-    "place": "CartaRennes (Rennes, France)",
-    "players": "15 players",
-    "date": "16/02/22"
+    ]
 }

@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "36767",
+    "name": "duel o Dual #12",
+    "place": "Poděbrady",
+    "players": "38 players",
+    "date": "04/06/22",
     "decks": [
         {
             "deck_id": "476424",
             "rank": "1",
             "player": "Jiří Obraz",
+            "winrate": 0.7777777777777778,
             "commander": [
                 "Niv-Mizzet Reborn"
             ],
@@ -115,6 +120,7 @@
             "deck_id": "476425",
             "rank": "2",
             "player": "Tomá Vardik",
+            "winrate": 0.6666666666666666,
             "commander": [
                 "Isamaru, Hound of Konda"
             ],
@@ -202,6 +208,7 @@
             "deck_id": "476426",
             "rank": "3-4",
             "player": "Vojtěch Lavička",
+            "winrate": 0.625,
             "commander": [
                 "Grist, the Hunger Tide"
             ],
@@ -311,6 +318,7 @@
             "deck_id": "476427",
             "rank": "3-4",
             "player": "Mikulá Havlík",
+            "winrate": 0.625,
             "commander": [
                 "Tivit, Seller of Secrets"
             ],
@@ -420,6 +428,7 @@
             "deck_id": "476428",
             "rank": "5-8",
             "player": "Michal Mendl",
+            "winrate": 0.625,
             "commander": [
                 "Dennick, Pious Apprentice"
             ],
@@ -522,6 +531,7 @@
             "deck_id": "476429",
             "rank": "5-8",
             "player": "Petr Levý",
+            "winrate": 0.625,
             "commander": [
                 "Isamaru, Hound of Konda"
             ],
@@ -614,6 +624,7 @@
             "deck_id": "476430",
             "rank": "5-8",
             "player": "Miroslav Váňa",
+            "winrate": 0.625,
             "commander": [
                 "Maelstrom Wanderer"
             ],
@@ -716,6 +727,7 @@
             "deck_id": "476431",
             "rank": "5-8",
             "player": "Jan Svoboda",
+            "winrate": 0.625,
             "commander": [
                 "Niv-Mizzet Reborn"
             ],
@@ -821,9 +833,5 @@
                 "1 Zagoth Triome"
             ]
         }
-    ],
-    "name": "duel o Dual #12",
-    "place": "Poděbrady",
-    "players": "38 players",
-    "date": "04/06/22"
+    ]
 }

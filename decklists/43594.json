@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "43594",
+    "name": "Championship",
+    "place": "Mont Shop (Campinas, São Paulo, Brazil)",
+    "players": "20 players",
+    "date": "19/04/23",
     "decks": [
         {
             "deck_id": "521942",
             "rank": "1",
             "player": "Felipe Gonçalves",
+            "winrate": 1.0,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -115,6 +120,7 @@
             "deck_id": "521943",
             "rank": "2",
             "player": "Diego Maia",
+            "winrate": 0.8,
             "commander": [
                 "Zimone and Dina"
             ],
@@ -222,6 +228,7 @@
             "deck_id": "521944",
             "rank": "3",
             "player": "Eric Alvarenga",
+            "winrate": 0.8,
             "commander": [
                 "Prossh, Skyraider of Kher"
             ],
@@ -327,6 +334,7 @@
             "deck_id": "521945",
             "rank": "4",
             "player": "Pedro Bianchi",
+            "winrate": 0.6,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -428,9 +436,5 @@
                 "1 Solitude"
             ]
         }
-    ],
-    "name": "Championship",
-    "place": "Mont Shop (Campinas, São Paulo, Brazil)",
-    "players": "20 players",
-    "date": "19/04/23"
+    ]
 }

@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "11927",
+    "name": "WarpTournament Commander (Milano, Italy)",
+    "place": "",
+    "players": "13 players",
+    "date": "13/03/16",
     "decks": [
         {
             "deck_id": "268274",
             "rank": "1",
             "player": "Alex Girelli",
+            "winrate": 1.0,
             "commander": [
                 "Maelstrom Wanderer"
             ],
@@ -105,6 +110,7 @@
             "deck_id": "268275",
             "rank": "2",
             "player": "Ak Ali",
+            "winrate": 0.8,
             "commander": [
                 "Marath, Will of the Wild"
             ],
@@ -211,6 +217,7 @@
             "deck_id": "268276",
             "rank": "3",
             "player": "Lorenzo Miracapillo",
+            "winrate": 0.6,
             "commander": [
                 "Radha, Heir to Keld"
             ],
@@ -308,9 +315,5 @@
                 "1 Wooded Foothills"
             ]
         }
-    ],
-    "name": "WarpTournament Commander (Milano, Italy)",
-    "place": "",
-    "players": "13 players",
-    "date": "13/03/16"
+    ]
 }

@@ -1,15 +1,20 @@
 {
     "format": "Duel Commander",
-    "id": 43205,
+    "id": "43205",
     "name": "Battle for Inasal",
     "place": "Juanders Grill (Rizal, Philippines)",
     "players": "10 players",
     "date": "02/04/23",
     "decks": [
         {
-            "player": "Edison Gabutero",
-            "rank": "1",
             "deck_id": "519256",
+            "rank": "1",
+            "player": "Edison Gabutero",
+            "winrate": 1.0,
+            "commander": [
+                "Reyhan, Last of the Abzan",
+                "Yoshimaru, Ever Faithful"
+            ],
             "decklist": [
                 "1 Arid Mesa",
                 "1 Bayou",
@@ -105,16 +110,17 @@
                 "1 Tangle Wire",
                 "1 The Ozolith",
                 "1 Umezawa's Jitte"
-            ],
-            "commander": [
-                "Reyhan, Last of the Abzan",
-                "Yoshimaru, Ever Faithful"
             ]
         },
         {
-            "player": "Deej \"el Cholo Loco\" Miranda",
-            "rank": "2",
             "deck_id": "519257",
+            "rank": "2",
+            "player": "Deej \"el Cholo Loco\" Miranda",
+            "winrate": 0.8,
+            "commander": [
+                "Faceless One",
+                "Gut, True Soul Zealot"
+            ],
             "decklist": [
                 "1 Ancient Den",
                 "1 Arid Mesa",
@@ -209,10 +215,6 @@
                 "1 Parallax Wave",
                 "1 Skullclamp",
                 "1 Smuggler's Copter"
-            ],
-            "commander": [
-                "Faceless One",
-                "Gut, True Soul Zealot"
             ]
         }
     ]

@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "36997",
+    "name": "DC",
+    "place": "Fulcrum E-sports Hub (Cainta City, Philippines)",
+    "players": "11 players",
+    "date": "26/06/22",
     "decks": [
         {
             "deck_id": "477865",
             "rank": "1",
             "player": "Dinno Zaide",
+            "winrate": 1.0,
             "commander": [
                 "Ludevic, Necro-Alchemist",
                 "Jeska, Thrice Reborn"
@@ -105,6 +110,7 @@
             "deck_id": "477866",
             "rank": "2",
             "player": "Sherwin Lobrigo",
+            "winrate": 0.8,
             "commander": [
                 "Minsc &amp; Boo, Timeless Heroes"
             ],
@@ -208,6 +214,7 @@
             "deck_id": "477867",
             "rank": "3",
             "player": "Cilbert Corpuz",
+            "winrate": 0.6,
             "commander": [
                 "Inspiring Leader",
                 "Gut, True Soul Zealot"
@@ -315,6 +322,7 @@
             "deck_id": "477868",
             "rank": "4",
             "player": "Meng Hao",
+            "winrate": 0.6,
             "commander": [
                 "Kinnan, Bonder Prodigy"
             ],
@@ -411,9 +419,5 @@
                 "1 Yavimaya, Cradle of Growth"
             ]
         }
-    ],
-    "name": "DC",
-    "place": "Fulcrum E-sports Hub (Cainta City, Philippines)",
-    "players": "11 players",
-    "date": "26/06/22"
+    ]
 }

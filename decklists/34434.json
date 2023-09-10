@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "34434",
+    "name": "WANTED Saison 2 #7",
+    "place": "CartaRennes (Rennes, France)",
+    "players": "13 players",
+    "date": "26/01/22",
     "decks": [
         {
             "deck_id": "461372",
             "rank": "1",
             "player": "Robin \"Faarnn\" Angebaud",
+            "winrate": 1.0,
             "commander": [
                 "Kraum, Ludevic's Opus",
                 "Livio, Oathsworn Sentinel"
@@ -113,6 +118,7 @@
             "deck_id": "461373",
             "rank": "2",
             "player": "Adrien Jouan",
+            "winrate": 0.8,
             "commander": [
                 "Naban, Dean of Iteration"
             ],
@@ -194,9 +200,5 @@
                 "25 Snow-Covered Island"
             ]
         }
-    ],
-    "name": "WANTED Saison 2 #7",
-    "place": "CartaRennes (Rennes, France)",
-    "players": "13 players",
-    "date": "26/01/22"
+    ]
 }

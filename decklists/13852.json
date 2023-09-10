@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "13852",
+    "name": "Duel Commander",
+    "place": "Citadel-Volgograd 20hp",
+    "players": "9 players",
+    "date": "23/10/16",
     "decks": [
         {
             "deck_id": "281851",
             "rank": "1",
             "player": "Mesheryakov, Maxim",
+            "winrate": 1.0,
             "commander": [
                 "Geist of Saint Traft"
             ],
@@ -106,6 +111,7 @@
             "deck_id": "281852",
             "rank": "2",
             "player": "Vasiliev, Vitaly",
+            "winrate": 0.8,
             "commander": [
                 "Titania, Protector of Argoth"
             ],
@@ -189,9 +195,5 @@
                 "1 Worldly Tutor"
             ]
         }
-    ],
-    "name": "Duel Commander",
-    "place": "Citadel-Volgograd 20hp",
-    "players": "9 players",
-    "date": "23/10/16"
+    ]
 }

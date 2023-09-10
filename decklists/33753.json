@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "33753",
+    "name": "Wanted Invitational #1",
+    "place": "CartaRennes (Rennes, France)",
+    "players": "8 players",
+    "date": "01/12/21",
     "decks": [
         {
             "deck_id": "457256",
             "rank": "1",
             "player": "Brieuc Evo",
+            "winrate": 1.0,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -115,6 +120,7 @@
             "deck_id": "457257",
             "rank": "2",
             "player": "Mathieu Laurent",
+            "winrate": 0.6666666666666666,
             "commander": [
                 "Niv-Mizzet Reborn"
             ],
@@ -224,6 +230,7 @@
             "deck_id": "457258",
             "rank": "3-4",
             "player": "Robin \"faarnn\" Angebaud",
+            "winrate": 0.6666666666666666,
             "commander": [
                 "Malcolm, Keen-Eyed Navigator",
                 "Livio, Oathsworn Sentinel"
@@ -325,6 +332,7 @@
             "deck_id": "457259",
             "rank": "3-4",
             "player": "Adrien Jouan",
+            "winrate": 0.6666666666666666,
             "commander": [
                 "Toggo, Goblin Weaponsmith",
                 "Kodama of the East Tree"
@@ -423,9 +431,5 @@
                 "1 Into the North"
             ]
         }
-    ],
-    "name": "Wanted Invitational #1",
-    "place": "CartaRennes (Rennes, France)",
-    "players": "8 players",
-    "date": "01/12/21"
+    ]
 }

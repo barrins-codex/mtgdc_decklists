@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "18755",
+    "name": "[DDL] Duel Lounge",
+    "place": "",
+    "players": "8 players",
+    "date": "15/03/18",
     "decks": [
         {
             "deck_id": "317280",
             "rank": "1",
             "player": "Felix M.",
+            "winrate": 1.0,
             "commander": [
                 "Sidar Kondo of Jamuraa",
                 "Tymna the Weaver"
@@ -109,9 +114,5 @@
                 "1 Fleecemane Lion"
             ]
         }
-    ],
-    "name": "[DDL] Duel Lounge",
-    "place": "",
-    "players": "8 players",
-    "date": "15/03/18"
+    ]
 }

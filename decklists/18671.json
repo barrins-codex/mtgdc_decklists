@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "18671",
+    "name": "Duel Commander Discord League",
+    "place": "",
+    "players": "8 players",
+    "date": "04/03/18",
     "decks": [
         {
             "deck_id": "316453",
             "rank": "1",
             "player": "Hello_newton",
+            "winrate": 1.0,
             "commander": [
                 "Grenzo, Dungeon Warden"
             ],
@@ -99,9 +104,5 @@
                 "1 Skullclamp"
             ]
         }
-    ],
-    "name": "Duel Commander Discord League",
-    "place": "",
-    "players": "8 players",
-    "date": "04/03/18"
+    ]
 }

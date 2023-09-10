@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "27740",
+    "name": "Magic TT",
+    "place": "Dooz (Strasbourg, France)",
+    "players": "18 players",
+    "date": "11/10/20",
     "decks": [
         {
             "deck_id": "420220",
             "rank": "1",
             "player": "Simon Calligaro",
+            "winrate": 1.0,
             "commander": [
                 "Sai, Master Thopterist"
             ],
@@ -97,6 +102,7 @@
             "deck_id": "420221",
             "rank": "2",
             "player": "Clément Burger",
+            "winrate": 0.8,
             "commander": [
                 "Leovold, Emissary of Trest"
             ],
@@ -206,6 +212,7 @@
             "deck_id": "420222",
             "rank": "3-4",
             "player": "Mathieu Cunrath",
+            "winrate": 0.8,
             "commander": [
                 "Niv-Mizzet Reborn"
             ],
@@ -315,6 +322,7 @@
             "deck_id": "420223",
             "rank": "3-4",
             "player": "Franck Adam",
+            "winrate": 0.8,
             "commander": [
                 "Uro, Titan of Nature's Wrath"
             ],
@@ -402,9 +410,5 @@
                 "1 Flooded Strand"
             ]
         }
-    ],
-    "name": "Magic TT",
-    "place": "Dooz (Strasbourg, France)",
-    "players": "18 players",
-    "date": "11/10/20"
+    ]
 }

@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "33177",
+    "name": "10th Duel-League",
+    "place": "Leipzig (Germany)",
+    "players": "8 players",
+    "date": "03/11/21",
     "decks": [
         {
             "deck_id": "453486",
             "rank": "1",
             "player": "Sebastian Reichert",
+            "winrate": 1.0,
             "commander": [
                 "Adeliz, the Cinder Wind"
             ],
@@ -101,6 +106,7 @@
             "deck_id": "453487",
             "rank": "2",
             "player": "Falko Lange",
+            "winrate": 0.6666666666666666,
             "commander": [
                 "Sai, Master Thopterist"
             ],
@@ -182,9 +188,5 @@
                 "1 Winter Orb"
             ]
         }
-    ],
-    "name": "10th Duel-League",
-    "place": "Leipzig (Germany)",
-    "players": "8 players",
-    "date": "03/11/21"
+    ]
 }

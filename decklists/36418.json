@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "36418",
+    "name": "FC DC",
+    "place": "Fulcrum Esports hub (Cainta Rizal, Philippines)",
+    "players": "16 players",
+    "date": "22/05/22",
     "decks": [
         {
             "deck_id": "474260",
             "rank": "1",
             "player": "Kid Ablaza",
+            "winrate": 1.0,
             "commander": [
                 "Grist, the Hunger Tide"
             ],
@@ -108,6 +113,7 @@
             "deck_id": "474261",
             "rank": "1",
             "player": "Kyle Guerrero",
+            "winrate": 1.0,
             "commander": [
                 "Urabrask, Heretic Praetor"
             ],
@@ -197,6 +203,7 @@
             "deck_id": "474262",
             "rank": "2",
             "player": "Rai Reyes",
+            "winrate": 0.8,
             "commander": [
                 "Ludevic, Necro-Alchemist",
                 "Jeska, Thrice Reborn"
@@ -297,6 +304,7 @@
             "deck_id": "474263",
             "rank": "3-4",
             "player": "Patrick Teodoro",
+            "winrate": 0.8,
             "commander": [
                 "Yisan, the Wanderer Bard"
             ],
@@ -385,9 +393,5 @@
                 "1 Mouth of Ronom"
             ]
         }
-    ],
-    "name": "FC DC",
-    "place": "Fulcrum Esports hub (Cainta Rizal, Philippines)",
-    "players": "16 players",
-    "date": "22/05/22"
+    ]
 }

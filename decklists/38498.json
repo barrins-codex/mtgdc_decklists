@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "38498",
+    "name": "MTG LIPA'S Tourney",
+    "place": "Lipa City (Batangas, Philippines)",
+    "players": "16 players",
+    "date": "18/09/22",
     "decks": [
         {
             "deck_id": "487594",
             "rank": "1",
             "player": "Jester Jevonne",
+            "winrate": 1.0,
             "commander": [
                 "Adeliz, the Cinder Wind"
             ],
@@ -105,6 +110,7 @@
             "deck_id": "487595",
             "rank": "2",
             "player": "Jun Era Cabezudo",
+            "winrate": 0.8,
             "commander": [
                 "Tivit, Seller of Secrets"
             ],
@@ -214,6 +220,7 @@
             "deck_id": "487596",
             "rank": "3",
             "player": "Melvin Marcus Guevarra",
+            "winrate": 0.8,
             "commander": [
                 "Kroxa, Titan of Death's Hunger"
             ],
@@ -318,6 +325,7 @@
             "deck_id": "487597",
             "rank": "4",
             "player": "Paul Magnaye",
+            "winrate": 0.6,
             "commander": [
                 "Ognis, the Dragon's Lash"
             ],
@@ -415,6 +423,7 @@
             "deck_id": "487598",
             "rank": "5",
             "player": "Harold Era Cabezudo",
+            "winrate": 0.6,
             "commander": [
                 "Leovold, Emissary of Trest"
             ],
@@ -524,6 +533,7 @@
             "deck_id": "487599",
             "rank": "6",
             "player": "Gerwin Baculpo",
+            "winrate": 0.6,
             "commander": [
                 "Octavia, Living Thesis"
             ],
@@ -611,6 +621,7 @@
             "deck_id": "487600",
             "rank": "7",
             "player": "Hec Era Cabezudo",
+            "winrate": 0.6,
             "commander": [
                 "Jeska, Thrice Reborn",
                 "Kraum, Ludevic's Opus"
@@ -712,6 +723,7 @@
             "deck_id": "487601",
             "rank": "8",
             "player": "Hernani Bautista",
+            "winrate": 0.6,
             "commander": [
                 "Thrasta, Tempest's Roar"
             ],
@@ -797,9 +809,5 @@
                 "21 Forest"
             ]
         }
-    ],
-    "name": "MTG LIPA'S Tourney",
-    "place": "Lipa City (Batangas, Philippines)",
-    "players": "16 players",
-    "date": "18/09/22"
+    ]
 }

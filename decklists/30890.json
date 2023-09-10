@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "30890",
+    "name": "DC Les Chroniques du Commander",
+    "place": "Discord",
+    "players": "64 players",
+    "date": "28/05/21",
     "decks": [
         {
             "deck_id": "440243",
             "rank": "1",
             "player": "Hannibal44",
+            "winrate": 0.8888888888888888,
             "commander": [
                 "Niv-Mizzet Reborn"
             ],
@@ -115,6 +120,7 @@
             "deck_id": "440244",
             "rank": "2",
             "player": "Som40",
+            "winrate": 0.7777777777777778,
             "commander": [
                 "Leovold, Emissary of Trest"
             ],
@@ -224,6 +230,7 @@
             "deck_id": "440245",
             "rank": "3",
             "player": "_h_",
+            "winrate": 0.75,
             "commander": [
                 "Hogaak, Arisen Necropolis"
             ],
@@ -333,6 +340,7 @@
             "deck_id": "440246",
             "rank": "4",
             "player": "Latielle",
+            "winrate": 0.75,
             "commander": [
                 "Kinnan, Bonder Prodigy"
             ],
@@ -430,6 +438,7 @@
             "deck_id": "440247",
             "rank": "5",
             "player": "Gilabend",
+            "winrate": 0.75,
             "commander": [
                 "Isamaru, Hound of Konda"
             ],
@@ -514,6 +523,7 @@
             "deck_id": "440248",
             "rank": "6",
             "player": "Deksdecks",
+            "winrate": 0.75,
             "commander": [
                 "Tajic, Legion's Edge"
             ],
@@ -609,6 +619,7 @@
             "deck_id": "440249",
             "rank": "7",
             "player": "Korn411",
+            "winrate": 0.75,
             "commander": [
                 "Octavia, Living Thesis"
             ],
@@ -693,6 +704,7 @@
             "deck_id": "440250",
             "rank": "8",
             "player": "Zankou",
+            "winrate": 0.75,
             "commander": [
                 "Judith, the Scourge Diva"
             ],
@@ -789,9 +801,5 @@
                 "1 Zurgo Bellstriker"
             ]
         }
-    ],
-    "name": "DC Les Chroniques du Commander",
-    "place": "Discord",
-    "players": "64 players",
-    "date": "28/05/21"
+    ]
 }

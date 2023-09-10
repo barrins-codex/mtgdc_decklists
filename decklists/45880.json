@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
-    "id": 45880,
+    "id": "45880",
+    "name": "MTG Obala FNM",
+    "place": "Koper (Slovenija)",
+    "players": "10 players",
+    "date": "02/07/23",
     "decks": [
         {
             "deck_id": "539019",
             "rank": "1",
             "player": "Gaper Moderc",
+            "winrate": 1.0,
             "commander": [
                 "Aragorn, King of Gondor"
             ],
@@ -111,6 +116,7 @@
             "deck_id": "539020",
             "rank": "2",
             "player": "Emerik Hodić",
+            "winrate": 0.8,
             "commander": [
                 "Atraxa, Grand Unifier"
             ],
@@ -216,9 +222,5 @@
                 "1 Zagoth Triome"
             ]
         }
-    ],
-    "name": "MTG Obala FNM",
-    "place": "Koper (Slovenija)",
-    "players": "10 players",
-    "date": "02/07/23"
+    ]
 }

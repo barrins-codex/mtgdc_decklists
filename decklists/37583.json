@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "37583",
+    "name": "[RC] 12º Torneio Cachu",
+    "place": "Cachoeiro-ES (Brasil)",
+    "players": "14 players",
+    "date": "23/07/22",
     "decks": [
         {
             "deck_id": "481598",
             "rank": "1",
             "player": "Jairo Marcelo",
+            "winrate": 1.0,
             "commander": [
                 "Trelasarra, Moon Dancer"
             ],
@@ -94,6 +99,7 @@
             "deck_id": "481599",
             "rank": "2",
             "player": "Augusto Galvão",
+            "winrate": 0.8,
             "commander": [
                 "Klothys, God of Destiny"
             ],
@@ -176,6 +182,7 @@
             "deck_id": "481600",
             "rank": "3-4",
             "player": "Alan Santos",
+            "winrate": 0.6,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -257,6 +264,7 @@
             "deck_id": "481601",
             "rank": "3-4",
             "player": "Victor Hugo",
+            "winrate": 0.6,
             "commander": [
                 "Karlov of the Ghost Council"
             ],
@@ -339,9 +347,5 @@
                 "1 Doomskar"
             ]
         }
-    ],
-    "name": "[RC] 12º Torneio Cachu",
-    "place": "Cachoeiro-ES (Brasil)",
-    "players": "14 players",
-    "date": "23/07/22"
+    ]
 }

@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "9356",
+    "name": "CZeternal Commander Series #1",
+    "place": "",
+    "players": "23 players",
+    "date": "14/03/15",
     "decks": [
         {
             "deck_id": "253624",
             "rank": "1",
             "player": "Vojtěch Mráz",
+            "winrate": 1.0,
             "commander": [
                 "Vendilion Clique"
             ],
@@ -92,6 +97,7 @@
             "deck_id": "253625",
             "rank": "2",
             "player": "Petr Tejnský",
+            "winrate": 0.8,
             "commander": [
                 "Animar, Soul of Elements"
             ],
@@ -198,6 +204,7 @@
             "deck_id": "253626",
             "rank": "3-4",
             "player": "Vít Řeháček",
+            "winrate": 0.8,
             "commander": [
                 "Geist of Saint Traft"
             ],
@@ -290,6 +297,7 @@
             "deck_id": "253627",
             "rank": "3-4",
             "player": "Tomá Már",
+            "winrate": 0.8,
             "commander": [
                 "Geist of Saint Traft"
             ],
@@ -389,9 +397,5 @@
                 "1 Elspeth, Knight-Errant"
             ]
         }
-    ],
-    "name": "CZeternal Commander Series #1",
-    "place": "",
-    "players": "23 players",
-    "date": "14/03/15"
+    ]
 }

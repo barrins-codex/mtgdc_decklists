@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "33000",
+    "name": "FNM",
+    "place": "Forge Hobby Place (North Point, Philippines)",
+    "players": "8 players",
+    "date": "22/10/21",
     "decks": [
         {
             "deck_id": "452579",
             "rank": "1",
             "player": "Edd Quirong",
+            "winrate": 1.0,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -82,9 +87,5 @@
                 "1 Zurgo Bellstriker"
             ]
         }
-    ],
-    "name": "FNM",
-    "place": "Forge Hobby Place (North Point, Philippines)",
-    "players": "8 players",
-    "date": "22/10/21"
+    ]
 }

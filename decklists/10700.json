@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "10700",
+    "name": "League Battle (Barbados)",
+    "place": "",
+    "players": "8 players",
+    "date": "17/10/15",
     "decks": [
         {
             "deck_id": "261209",
             "rank": "1",
             "player": "Andwele Chase",
+            "winrate": 1.0,
             "commander": [
                 "Child of Alara"
             ],
@@ -111,9 +116,5 @@
                 "1 Temple of Mystery"
             ]
         }
-    ],
-    "name": "League Battle (Barbados)",
-    "place": "",
-    "players": "8 players",
-    "date": "17/10/15"
+    ]
 }

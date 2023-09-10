@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "13541",
+    "name": "Clash of Commander Titans 6 (9T, Temuco, Chile)",
+    "place": "",
+    "players": "17 players",
+    "date": "11/09/16",
     "decks": [
         {
             "deck_id": "279668",
             "rank": "1",
             "player": "Jose Arroyo",
+            "winrate": 1.0,
             "commander": [
                 "Maelstrom Wanderer"
             ],
@@ -112,6 +117,7 @@
             "deck_id": "279669",
             "rank": "2",
             "player": "Jorge Contreras",
+            "winrate": 0.8,
             "commander": [
                 "Brago, King Eternal"
             ],
@@ -199,6 +205,7 @@
             "deck_id": "279670",
             "rank": "3",
             "player": "Claudio Barrera",
+            "winrate": 0.8,
             "commander": [
                 "The Gitrog Monster"
             ],
@@ -299,6 +306,7 @@
             "deck_id": "279671",
             "rank": "4",
             "player": "Yanko Medina",
+            "winrate": 0.6,
             "commander": [
                 "Sidisi, Brood Tyrant"
             ],
@@ -392,9 +400,5 @@
                 "6 Forest"
             ]
         }
-    ],
-    "name": "Clash of Commander Titans 6 (9T, Temuco, Chile)",
-    "place": "",
-    "players": "17 players",
-    "date": "11/09/16"
+    ]
 }

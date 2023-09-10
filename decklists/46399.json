@@ -1,6 +1,6 @@
 {
     "format": "Duel Commander",
-    "id": 46399,
+    "id": "46399",
     "name": "Glass City Duel Commander #4",
     "place": "Toledo Game Room (Toledo, OH)",
     "players": "13 players",
@@ -8,6 +8,12 @@
     "decks": [
         {
             "deck_id": "543030",
+            "rank": "1",
+            "player": "Anthony Vasaturo",
+            "winrate": 1.0,
+            "commander": [
+                "Aragorn, King of Gondor"
+            ],
             "decklist": [
                 "1 Archmage's Charm",
                 "1 Arid Mesa",
@@ -106,15 +112,16 @@
                 "1 Windswept Heath",
                 "1 Wooded Foothills",
                 "1 Wrath of God"
-            ],
-            "commander": [
-                "Aragorn, King of Gondor"
-            ],
-            "rank": "1",
-            "player": "Anthony Vasaturo"
+            ]
         },
         {
             "deck_id": "543031",
+            "rank": "2",
+            "player": "Sylvie Sibila",
+            "winrate": 0.8,
+            "commander": [
+                "Atraxa, Grand Unifier"
+            ],
             "decklist": [
                 "1 Abrupt Decay",
                 "1 Aminatou, the Fateshifter",
@@ -215,15 +222,16 @@
                 "1 Wooded Foothills",
                 "1 Yorion, Sky Nomad",
                 "1 Zagoth Triome"
-            ],
-            "commander": [
-                "Atraxa, Grand Unifier"
-            ],
-            "rank": "2",
-            "player": "Sylvie Sibila"
+            ]
         },
         {
             "deck_id": "543032",
+            "rank": "3-4",
+            "player": "Jayme Mcbride",
+            "winrate": 0.6,
+            "commander": [
+                "Aragorn, King of Gondor"
+            ],
             "decklist": [
                 "1 Abrade",
                 "1 Arid Mesa",
@@ -322,15 +330,16 @@
                 "1 White Plume Adventurer",
                 "1 Windswept Heath",
                 "1 Wooded Foothills"
-            ],
-            "commander": [
-                "Aragorn, King of Gondor"
-            ],
-            "rank": "3-4",
-            "player": "Jayme Mcbride"
+            ]
         },
         {
             "deck_id": "543033",
+            "rank": "3-4",
+            "player": "Chris Nelson",
+            "winrate": 0.6,
+            "commander": [
+                "Octavia, Living Thesis"
+            ],
             "decklist": [
                 "1 Archmage's Charm",
                 "1 Artful Dodge",
@@ -412,12 +421,7 @@
                 "1 True-Name Nemesis",
                 "1 Wash Away",
                 "1 Witch's Clinic"
-            ],
-            "commander": [
-                "Octavia, Living Thesis"
-            ],
-            "rank": "3-4",
-            "player": "Chris Nelson"
+            ]
         }
     ]
 }

@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "41289",
+    "name": "RJ Cup 2023#4",
+    "place": "League Castle (Mong Kok, Hong Kong)",
+    "players": "8 players",
+    "date": "11/02/23",
     "decks": [
         {
             "deck_id": "506787",
             "rank": "1",
             "player": "Alex Kwok",
+            "winrate": 1.0,
             "commander": [
                 "Surrak Dragonclaw"
             ],
@@ -115,6 +120,7 @@
             "deck_id": "506788",
             "rank": "2",
             "player": "Benjamin Lau",
+            "winrate": 0.6666666666666666,
             "commander": [
                 "The Beamtown Bullies"
             ],
@@ -214,9 +220,5 @@
                 "1 Taiga"
             ]
         }
-    ],
-    "name": "RJ Cup 2023#4",
-    "place": "League Castle (Mong Kok, Hong Kong)",
-    "players": "8 players",
-    "date": "11/02/23"
+    ]
 }

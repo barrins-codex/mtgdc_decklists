@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "34465",
+    "name": "DC Weekly",
+    "place": "Mana Underground (Lagro, Philippines)",
+    "players": "12 players",
+    "date": "28/01/22",
     "decks": [
         {
             "deck_id": "461555",
             "rank": "1",
             "player": "Jarbs Sahagun",
+            "winrate": 1.0,
             "commander": [
                 "Livio, Oathsworn Sentinel",
                 "Kraum, Ludevic's Opus"
@@ -113,6 +118,7 @@
             "deck_id": "461556",
             "rank": "2",
             "player": "Ste Villaraza",
+            "winrate": 0.8,
             "commander": [
                 "Livio, Oathsworn Sentinel",
                 "Malcolm, Keen-Eyed Navigator"
@@ -209,9 +215,5 @@
                 "7 Snow-Covered Island"
             ]
         }
-    ],
-    "name": "DC Weekly",
-    "place": "Mana Underground (Lagro, Philippines)",
-    "players": "12 players",
-    "date": "28/01/22"
+    ]
 }

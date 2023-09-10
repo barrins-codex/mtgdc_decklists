@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "4621",
+    "name": "Tournoi chez mémé V3 (Saint-Étienne)",
+    "place": "",
+    "players": "31 players",
+    "date": "24/03/13",
     "decks": [
         {
             "deck_id": "226735",
             "rank": "1",
             "player": "Anthony Fournier",
+            "winrate": 1.0,
             "commander": [
                 "Ruhan of the Fomori"
             ],
@@ -112,6 +117,7 @@
             "deck_id": "226736",
             "rank": "2",
             "player": "Pierre Ragueneau",
+            "winrate": 0.8,
             "commander": [
                 "Sygg, River Cutthroat"
             ],
@@ -212,6 +218,7 @@
             "deck_id": "226737",
             "rank": "3",
             "player": "Loïc Moulin",
+            "winrate": 0.8,
             "commander": [
                 "Wort, Boggart Auntie"
             ],
@@ -300,6 +307,7 @@
             "deck_id": "226738",
             "rank": "4",
             "player": "Alexandre Bonneau",
+            "winrate": 0.8,
             "commander": [
                 "Isamaru, Hound of Konda"
             ],
@@ -383,9 +391,5 @@
                 "1 Armageddon"
             ]
         }
-    ],
-    "name": "Tournoi chez mémé V3 (Saint-Étienne)",
-    "place": "",
-    "players": "31 players",
-    "date": "24/03/13"
+    ]
 }

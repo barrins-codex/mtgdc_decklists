@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "13628",
+    "name": "FNM Duel Commander",
+    "place": "RedBox",
+    "players": "8 players",
+    "date": "30/09/16",
     "decks": [
         {
             "deck_id": "280213",
             "rank": "1",
             "player": "Fernando Secco",
+            "winrate": 1.0,
             "commander": [
                 "Rashmi, Eternities Crafter"
             ],
@@ -92,9 +97,5 @@
                 "1 Polluted Delta"
             ]
         }
-    ],
-    "name": "FNM Duel Commander",
-    "place": "RedBox",
-    "players": "8 players",
-    "date": "30/09/16"
+    ]
 }

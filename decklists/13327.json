@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "13327",
+    "name": "Redzone DC League Finals 1k",
+    "place": "",
+    "players": "8 players",
+    "date": "15/08/16",
     "decks": [
         {
             "deck_id": "278255",
             "rank": "1",
             "player": "Lucas Horta",
+            "winrate": 1.0,
             "commander": [
                 "Prime Speaker Zegana"
             ],
@@ -103,9 +108,5 @@
                 "1 Body Double"
             ]
         }
-    ],
-    "name": "Redzone DC League Finals 1k",
-    "place": "",
-    "players": "8 players",
-    "date": "15/08/16"
+    ]
 }

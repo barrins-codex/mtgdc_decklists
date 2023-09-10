@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "44055",
+    "name": "TNDC \"National Ethics Day\"",
+    "place": "Bolovo Games (Santos, Brasil)",
+    "players": "13 players",
+    "date": "02/05/23",
     "decks": [
         {
             "deck_id": "525233",
             "rank": "2",
             "player": "Leandro",
+            "winrate": 0.8,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -115,6 +120,7 @@
             "deck_id": "525234",
             "rank": "3",
             "player": "Gabriel Kawagoe",
+            "winrate": 0.6,
             "commander": [
                 "Skrelv, Defector Mite"
             ],
@@ -202,6 +208,7 @@
             "deck_id": "525235",
             "rank": "4",
             "player": "Leonardo Maeda",
+            "winrate": 0.6,
             "commander": [
                 "Minsc, Beloved Ranger"
             ],
@@ -304,9 +311,5 @@
                 "1 Surge of Salvation"
             ]
         }
-    ],
-    "name": "TNDC \"National Ethics Day\"",
-    "place": "Bolovo Games (Santos, Brasil)",
-    "players": "13 players",
-    "date": "02/05/23"
+    ]
 }

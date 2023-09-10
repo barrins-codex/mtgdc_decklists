@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "12158",
+    "name": "33rd \"New Year Cake\" Cup (Shanghai)",
+    "place": "",
+    "players": "19 players",
+    "date": "20/03/16",
     "decks": [
         {
             "deck_id": "269756",
             "rank": "1",
             "player": "Yao Yao",
+            "winrate": 1.0,
             "commander": [
                 "Azusa, Lost but Seeking"
             ],
@@ -100,6 +105,7 @@
             "deck_id": "269757",
             "rank": "2",
             "player": "Wang Yucheng",
+            "winrate": 0.8,
             "commander": [
                 "Prossh, Skyraider of Kher"
             ],
@@ -209,6 +215,7 @@
             "deck_id": "269758",
             "rank": "3",
             "player": "He Ying",
+            "winrate": 0.8,
             "commander": [
                 "Narset, Enlightened Master"
             ],
@@ -314,6 +321,7 @@
             "deck_id": "269759",
             "rank": "4",
             "player": "Jiang Jiahe",
+            "winrate": 0.6,
             "commander": [
                 "Jenara, Asura of War"
             ],
@@ -419,9 +427,5 @@
                 "1 Yavimaya Coast"
             ]
         }
-    ],
-    "name": "33rd \"New Year Cake\" Cup (Shanghai)",
-    "place": "",
-    "players": "19 players",
-    "date": "20/03/16"
+    ]
 }

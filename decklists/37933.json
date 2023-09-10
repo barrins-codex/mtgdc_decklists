@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "37933",
+    "name": "DC East Leage",
+    "place": "Contemporary Nook (Marikina City, Philippines)",
+    "players": "8 players",
+    "date": "14/08/22",
     "decks": [
         {
             "deck_id": "483815",
             "rank": "1",
             "player": "Nelvine Tuano",
+            "winrate": 1.0,
             "commander": [
                 "Thrun, the Last Troll"
             ],
@@ -100,6 +105,7 @@
             "deck_id": "483816",
             "rank": "2",
             "player": "Jojo Francisco",
+            "winrate": 0.6666666666666666,
             "commander": [
                 "Tourach, Dread Cantor"
             ],
@@ -183,9 +189,5 @@
                 "23 Swamp"
             ]
         }
-    ],
-    "name": "DC East Leage",
-    "place": "Contemporary Nook (Marikina City, Philippines)",
-    "players": "8 players",
-    "date": "14/08/22"
+    ]
 }

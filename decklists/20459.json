@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "20459",
+    "name": "Moscow Starlite Daily 1",
+    "place": "",
+    "players": "8 players",
+    "date": "30/10/18",
     "decks": [
         {
             "deck_id": "334138",
             "rank": "1",
             "player": "Vlad \"vlaprohor\" Prohorov",
+            "winrate": 1.0,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -111,9 +116,5 @@
                 "1 Concealed Courtyard"
             ]
         }
-    ],
-    "name": "Moscow Starlite Daily 1",
-    "place": "",
-    "players": "8 players",
-    "date": "30/10/18"
+    ]
 }

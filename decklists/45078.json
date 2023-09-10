@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "45078",
+    "name": "TMF Clash #3",
+    "place": "",
+    "players": "25 players",
+    "date": "10/06/23",
     "decks": [
         {
             "deck_id": "532832",
             "rank": "1",
             "player": "Valentin Mollon",
+            "winrate": 1.0,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -115,6 +120,7 @@
             "deck_id": "532833",
             "rank": "2",
             "player": "Eflodor",
+            "winrate": 0.8,
             "commander": [
                 "Sythis, Harvest's Hand"
             ],
@@ -211,6 +217,7 @@
             "deck_id": "532834",
             "rank": "3-4",
             "player": "Bryan Fritsch",
+            "winrate": 0.8,
             "commander": [
                 "Ghyrson Starn, Kelermorph"
             ],
@@ -311,6 +318,7 @@
             "deck_id": "532835",
             "rank": "3-4",
             "player": "Dorian Roger",
+            "winrate": 0.8,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -420,6 +428,7 @@
             "deck_id": "532836",
             "rank": "5-8",
             "player": "Stéphane Alphonse",
+            "winrate": 0.6,
             "commander": [
                 "Ghyrson Starn, Kelermorph"
             ],
@@ -521,6 +530,7 @@
             "deck_id": "532837",
             "rank": "5-8",
             "player": "Mahks",
+            "winrate": 0.6,
             "commander": [
                 "Ghyrson Starn, Kelermorph"
             ],
@@ -620,6 +630,7 @@
             "deck_id": "532838",
             "rank": "5-8",
             "player": "Jeremy Degelcke",
+            "winrate": 0.6,
             "commander": [
                 "Ghyrson Starn, Kelermorph"
             ],
@@ -722,6 +733,7 @@
             "deck_id": "532839",
             "rank": "5-8",
             "player": "Thibaut Huss",
+            "winrate": 0.6,
             "commander": [
                 "Tameshi, Reality Architect"
             ],
@@ -818,9 +830,5 @@
                 "6 Snow-Covered Island"
             ]
         }
-    ],
-    "name": "TMF Clash #3",
-    "place": "",
-    "players": "25 players",
-    "date": "10/06/23"
+    ]
 }

@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "28246",
+    "name": "ZAP Online November",
+    "place": "Cockatrice",
+    "players": "43 players",
+    "date": "22/11/20",
     "decks": [
         {
             "deck_id": "423676",
             "rank": "1",
             "player": "Lionel \"Hannibal\" Galliere",
+            "winrate": 0.8888888888888888,
             "commander": [
                 "Niv-Mizzet Reborn"
             ],
@@ -115,6 +120,7 @@
             "deck_id": "423677",
             "rank": "2",
             "player": "\"moncana\"",
+            "winrate": 0.7777777777777778,
             "commander": [
                 "Ardenn, Intrepid Archaeologist",
                 "Esior, Wardwing Familiar"
@@ -212,6 +218,7 @@
             "deck_id": "423678",
             "rank": "3",
             "player": "Gaetan \"teepex\" Pican",
+            "winrate": 0.75,
             "commander": [
                 "Esior, Wardwing Familiar",
                 "Jeska, Thrice Reborn"
@@ -309,6 +316,7 @@
             "deck_id": "423679",
             "rank": "4",
             "player": "Jules \"_H_ \" Lestienne",
+            "winrate": 0.75,
             "commander": [
                 "Silas Renn, Seeker Adept",
                 "Krark, the Thumbless"
@@ -418,6 +426,7 @@
             "deck_id": "423680",
             "rank": "5",
             "player": "Stefan \"cezet\" Czolk",
+            "winrate": 0.75,
             "commander": [
                 "Esior, Wardwing Familiar",
                 "Dargo, the Shipwrecker"
@@ -511,6 +520,7 @@
             "deck_id": "423681",
             "rank": "6",
             "player": "Thomas \"lantariel\" Travert",
+            "winrate": 0.75,
             "commander": [
                 "Adeliz, the Cinder Wind"
             ],
@@ -605,6 +615,7 @@
             "deck_id": "423682",
             "rank": "7",
             "player": "Alexandre \"sauk\" Benac",
+            "winrate": 0.75,
             "commander": [
                 "Rograkh, Son of Rohgahh",
                 "Keleth, Sunmane Familiar"
@@ -703,6 +714,7 @@
             "deck_id": "423683",
             "rank": "8",
             "player": "Willy De Almeida",
+            "winrate": 0.75,
             "commander": [
                 "Thrasios, Triton Hero",
                 "Tevesh Szat, Doom of Fools"
@@ -808,9 +820,5 @@
                 "1 River of Tears"
             ]
         }
-    ],
-    "name": "ZAP Online November",
-    "place": "Cockatrice",
-    "players": "43 players",
-    "date": "22/11/20"
+    ]
 }

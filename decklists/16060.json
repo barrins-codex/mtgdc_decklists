@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "16060",
+    "name": "TOP8 CLM9 Commander Jaw Games",
+    "place": "",
+    "players": "8 players",
+    "date": "24/06/17",
     "decks": [
         {
             "deck_id": "298888",
             "rank": "1",
             "player": "Pedro Pereira",
+            "winrate": 1.0,
             "commander": [
                 "Bruse Tarl, Boorish Herder"
             ],
@@ -115,6 +120,7 @@
             "deck_id": "298889",
             "rank": "2",
             "player": "Fabio Costa",
+            "winrate": 0.6666666666666666,
             "commander": [
                 "Geist of Saint Traft"
             ],
@@ -211,9 +217,5 @@
                 "1 Misty Rainforest"
             ]
         }
-    ],
-    "name": "TOP8 CLM9 Commander Jaw Games",
-    "place": "",
-    "players": "8 players",
-    "date": "24/06/17"
+    ]
 }

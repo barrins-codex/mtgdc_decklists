@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "43858",
+    "name": "Liga Neowalkers R9",
+    "place": "Neowalkers (Guarulhos, Brasil)",
+    "players": "10 players",
+    "date": "28/04/23",
     "decks": [
         {
             "deck_id": "523741",
             "rank": "1",
             "player": "Douglas Pacífico",
+            "winrate": 1.0,
             "commander": [
                 "Light-Paws, Emperor's Voice"
             ],
@@ -80,6 +85,7 @@
             "deck_id": "523742",
             "rank": "2",
             "player": "Guilherme Bellagente",
+            "winrate": 0.8,
             "commander": [
                 "Yawgmoth, Thran Physician"
             ],
@@ -162,6 +168,7 @@
             "deck_id": "523743",
             "rank": "3",
             "player": "Rafael Souza",
+            "winrate": 0.6,
             "commander": [
                 "Feldon, Ronom Excavator"
             ],
@@ -249,6 +256,7 @@
             "deck_id": "523744",
             "rank": "4",
             "player": "Raul Borges",
+            "winrate": 0.6,
             "commander": [
                 "Ebondeath, Dracolich"
             ],
@@ -317,9 +325,5 @@
                 "38 Swamp"
             ]
         }
-    ],
-    "name": "Liga Neowalkers R9",
-    "place": "Neowalkers (Guarulhos, Brasil)",
-    "players": "10 players",
-    "date": "28/04/23"
+    ]
 }

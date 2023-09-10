@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "44482",
+    "name": "MH2 Tourney",
+    "place": "Aling Marings Dojo (Rizal Philippines)",
+    "players": "11 players",
+    "date": "21/05/23",
     "decks": [
         {
             "deck_id": "528082",
             "rank": "1",
             "player": "Darren Almondia",
+            "winrate": 1.0,
             "commander": [
                 "Juri, Master of the Revue"
             ],
@@ -107,6 +112,7 @@
             "deck_id": "528083",
             "rank": "2",
             "player": "Edison Gabutero",
+            "winrate": 0.8,
             "commander": [
                 "Reyhan, Last of the Abzan",
                 "Yoshimaru, Ever Faithful"
@@ -208,9 +214,5 @@
                 "1 Umezawa's Jitte"
             ]
         }
-    ],
-    "name": "MH2 Tourney",
-    "place": "Aling Marings Dojo (Rizal Philippines)",
-    "players": "11 players",
-    "date": "21/05/23"
+    ]
 }

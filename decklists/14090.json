@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "14090",
+    "name": "LegionCG FNM Duel Commander",
+    "place": "",
+    "players": "10 players",
+    "date": "25/11/16",
     "decks": [
         {
             "deck_id": "283781",
             "rank": "1",
             "player": "Fernando Secco",
+            "winrate": 1.0,
             "commander": [
                 "Vial Smasher the Fierce"
             ],
@@ -110,9 +115,5 @@
                 "1 Temporal Trespass"
             ]
         }
-    ],
-    "name": "LegionCG FNM Duel Commander",
-    "place": "",
-    "players": "10 players",
-    "date": "25/11/16"
+    ]
 }

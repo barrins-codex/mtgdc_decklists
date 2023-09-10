@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "15121",
+    "name": "FNM Hiveworld",
+    "place": "",
+    "players": "8 players",
+    "date": "24/03/17",
     "decks": [
         {
             "deck_id": "291624",
             "rank": "1",
             "player": "Richard Müller",
+            "winrate": 1.0,
             "commander": [
                 "Prossh, Skyraider of Kher"
             ],
@@ -96,9 +101,5 @@
                 "1 Hit / Run"
             ]
         }
-    ],
-    "name": "FNM Hiveworld",
-    "place": "",
-    "players": "8 players",
-    "date": "24/03/17"
+    ]
 }

@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "37328",
+    "name": "Rising Sun DC Tournament #4",
+    "place": "Ile de la Réunion",
+    "players": "23 players",
+    "date": "26/06/22",
     "decks": [
         {
             "deck_id": "479930",
             "rank": "1",
             "player": "Maxime Briges",
+            "winrate": 1.0,
             "commander": [
                 "Minsc &amp; Boo, Timeless Heroes"
             ],
@@ -104,6 +109,7 @@
             "deck_id": "479931",
             "rank": "2",
             "player": "Anthony \"rs Strad\" Vallon",
+            "winrate": 0.8,
             "commander": [
                 "Wernog, Rider's Chaplain",
                 "Bjorna, Nightfall Alchemist",
@@ -214,6 +220,7 @@
             "deck_id": "479932",
             "rank": "3",
             "player": "Yann \"rs Black\" Meese",
+            "winrate": 0.8,
             "commander": [
                 "Bjorna, Nightfall Alchemist",
                 "Wernog, Rider's Chaplain",
@@ -324,6 +331,7 @@
             "deck_id": "479933",
             "rank": "4",
             "player": "Allan Fortin",
+            "winrate": 0.6,
             "commander": [
                 "Adeline, Resplendent Cathar"
             ],
@@ -407,6 +415,7 @@
             "deck_id": "479934",
             "rank": "5",
             "player": "Nicolas Rabillard",
+            "winrate": 0.6,
             "commander": [
                 "Minsc &amp; Boo, Timeless Heroes"
             ],
@@ -507,6 +516,7 @@
             "deck_id": "479935",
             "rank": "6",
             "player": "Michaël \"joker\" Gence",
+            "winrate": 0.6,
             "commander": [
                 "Jeska, Thrice Reborn",
                 "Ludevic, Necro-Alchemist"
@@ -607,6 +617,7 @@
             "deck_id": "479936",
             "rank": "7",
             "player": "Raphaël \"rs Olla\" Turpin",
+            "winrate": 0.6,
             "commander": [
                 "Tajic, Legion's Edge"
             ],
@@ -702,6 +713,7 @@
             "deck_id": "479937",
             "rank": "8",
             "player": "Patrice Dijoux",
+            "winrate": 0.6,
             "commander": [
                 "Sythis, Harvest's Hand"
             ],
@@ -793,9 +805,5 @@
                 "1 Yavimaya, Cradle of Growth"
             ]
         }
-    ],
-    "name": "Rising Sun DC Tournament #4",
-    "place": "Ile de la Réunion",
-    "players": "23 players",
-    "date": "26/06/22"
+    ]
 }

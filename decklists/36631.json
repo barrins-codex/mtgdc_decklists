@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "36631",
+    "name": "Wool Cup 32½",
+    "place": "BigBan (Beijing. China)",
+    "players": "11 players",
+    "date": "04/06/22",
     "decks": [
         {
             "deck_id": "475551",
             "rank": "1",
             "player": "Boran Gao",
+            "winrate": 1.0,
             "commander": [
                 "Grist, the Hunger Tide"
             ],
@@ -104,6 +109,7 @@
             "deck_id": "475552",
             "rank": "2",
             "player": "Jasonzhang",
+            "winrate": 0.8,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -207,9 +213,5 @@
                 "1 Concealed Courtyard"
             ]
         }
-    ],
-    "name": "Wool Cup 32½",
-    "place": "BigBan (Beijing. China)",
-    "players": "11 players",
-    "date": "04/06/22"
+    ]
 }

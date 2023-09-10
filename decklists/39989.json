@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "39989",
+    "name": "Wool Cup Unofficial",
+    "place": "Beijing (China)",
+    "players": "8 players",
+    "date": "10/12/22",
     "decks": [
         {
             "deck_id": "497773",
             "rank": "1",
             "player": "Wong Dik Fan",
+            "winrate": 1.0,
             "commander": [
                 "Dennick, Pious Apprentice"
             ],
@@ -109,6 +114,7 @@
             "deck_id": "497774",
             "rank": "2",
             "player": "Zihan Lian",
+            "winrate": 0.6666666666666666,
             "commander": [
                 "Niv-Mizzet Reborn"
             ],
@@ -214,9 +220,5 @@
                 "1 Xander's Lounge"
             ]
         }
-    ],
-    "name": "Wool Cup Unofficial",
-    "place": "Beijing (China)",
-    "players": "8 players",
-    "date": "10/12/22"
+    ]
 }

@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "44260",
+    "name": "Chicken-Pie Cup",
+    "place": "FanYun Store (NanJing, China)",
+    "players": "8 players",
+    "date": "13/05/23",
     "decks": [
         {
             "deck_id": "526593",
             "rank": "1",
             "player": "Wenyu,guo",
+            "winrate": 1.0,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -115,6 +120,7 @@
             "deck_id": "526594",
             "rank": "2",
             "player": "Ziyan,rong",
+            "winrate": 0.6666666666666666,
             "commander": [
                 "Zurgo and Ojutai"
             ],
@@ -220,9 +226,5 @@
                 "1 Volcanic Island"
             ]
         }
-    ],
-    "name": "Chicken-Pie Cup",
-    "place": "FanYun Store (NanJing, China)",
-    "players": "8 players",
-    "date": "13/05/23"
+    ]
 }

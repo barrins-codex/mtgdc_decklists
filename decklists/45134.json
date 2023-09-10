@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "45134",
+    "name": "Chicken-Pie Cup",
+    "place": "FanYun Store (NanJing, China)",
+    "players": "8 players",
+    "date": "10/06/23",
     "decks": [
         {
             "deck_id": "533196",
             "rank": "1",
             "player": "Zhe,tang",
+            "winrate": 1.0,
             "commander": [
                 "Grist, the Hunger Tide"
             ],
@@ -106,6 +111,7 @@
             "deck_id": "533197",
             "rank": "2",
             "player": "Jingting,wu",
+            "winrate": 0.6666666666666666,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -210,9 +216,5 @@
                 "1 Shattered Sanctum"
             ]
         }
-    ],
-    "name": "Chicken-Pie Cup",
-    "place": "FanYun Store (NanJing, China)",
-    "players": "8 players",
-    "date": "10/06/23"
+    ]
 }

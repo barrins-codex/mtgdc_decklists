@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "34741",
+    "name": "Weekly Duel Commander",
+    "place": "Caverna do Dragão (Santos, Brazil)",
+    "players": "15 players",
+    "date": "15/02/22",
     "decks": [
         {
             "deck_id": "463103",
             "rank": "1",
             "player": "Victor Burghi",
+            "winrate": 1.0,
             "commander": [
                 "Light-Paws, Emperor's Voice"
             ],
@@ -95,6 +100,7 @@
             "deck_id": "463104",
             "rank": "2",
             "player": "Arthur Dutra",
+            "winrate": 0.8,
             "commander": [
                 "Isamaru, Hound of Konda"
             ],
@@ -178,6 +184,7 @@
             "deck_id": "463105",
             "rank": "3-4",
             "player": "Pablo Lima",
+            "winrate": 0.6,
             "commander": [
                 "Klothys, God of Destiny"
             ],
@@ -275,6 +282,7 @@
             "deck_id": "463106",
             "rank": "3-4",
             "player": "Giovanni Ianuzzi",
+            "winrate": 0.6,
             "commander": [
                 "Tourach, Dread Cantor"
             ],
@@ -361,9 +369,5 @@
                 "20 Swamp"
             ]
         }
-    ],
-    "name": "Weekly Duel Commander",
-    "place": "Caverna do Dragão (Santos, Brazil)",
-    "players": "15 players",
-    "date": "15/02/22"
+    ]
 }

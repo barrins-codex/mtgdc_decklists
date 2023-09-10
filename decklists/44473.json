@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "44473",
+    "name": "DC - EDH Brazil Championship",
+    "place": "Mont Shop (Campinas, São Paulo, Brazil)",
+    "players": "13 players",
+    "date": "16/05/23",
     "decks": [
         {
             "deck_id": "528041",
             "rank": "1",
             "player": "Felipe Gonçalves",
+            "winrate": 1.0,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -115,6 +120,7 @@
             "deck_id": "528042",
             "rank": "2",
             "player": "Vinícius Lopes",
+            "winrate": 0.8,
             "commander": [
                 "Tivit, Seller of Secrets"
             ],
@@ -224,6 +230,7 @@
             "deck_id": "528043",
             "rank": "3",
             "player": "Matheus Jardim",
+            "winrate": 0.6,
             "commander": [
                 "Arcum Dagsson"
             ],
@@ -303,9 +310,5 @@
                 "1 Word of Undoing"
             ]
         }
-    ],
-    "name": "DC - EDH Brazil Championship",
-    "place": "Mont Shop (Campinas, São Paulo, Brazil)",
-    "players": "13 players",
-    "date": "16/05/23"
+    ]
 }

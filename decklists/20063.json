@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "20063",
+    "name": "Duel Commander",
+    "place": "Arcanum (Pomigliano, Italy)",
+    "players": "10 players",
+    "date": "13/09/18",
     "decks": [
         {
             "deck_id": "330307",
             "rank": "1",
             "player": "Nicola Improta",
+            "winrate": 1.0,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -113,6 +118,7 @@
             "deck_id": "330308",
             "rank": "2",
             "player": "Fulvio Martello",
+            "winrate": 0.8,
             "commander": [
                 "Tymna the Weaver",
                 "Reyhan, Last of the Abzan"
@@ -218,9 +224,5 @@
                 "1 Verdant Catacombs"
             ]
         }
-    ],
-    "name": "Duel Commander",
-    "place": "Arcanum (Pomigliano, Italy)",
-    "players": "10 players",
-    "date": "13/09/18"
+    ]
 }

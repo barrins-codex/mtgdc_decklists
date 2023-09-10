@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "11765",
+    "name": "Clash of Commander Titans 2 (9T, Temuco, Chile)",
+    "place": "",
+    "players": "8 players",
+    "date": "06/03/16",
     "decks": [
         {
             "deck_id": "267072",
             "rank": "1",
             "player": "Esteban Myl",
+            "winrate": 1.0,
             "commander": [
                 "Geist of Saint Traft"
             ],
@@ -96,9 +101,5 @@
                 "1 Wrath of God"
             ]
         }
-    ],
-    "name": "Clash of Commander Titans 2 (9T, Temuco, Chile)",
-    "place": "",
-    "players": "8 players",
-    "date": "06/03/16"
+    ]
 }

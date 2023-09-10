@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "40081",
+    "name": "DC",
+    "place": "Manabolt (Limeira, Brazil)",
+    "players": "12 players",
+    "date": "10/12/22",
     "decks": [
         {
             "deck_id": "498415",
             "rank": "1",
             "player": "Victor Marques",
+            "winrate": 1.0,
             "commander": [
                 "Dihada, Binder of Wills"
             ],
@@ -115,6 +120,7 @@
             "deck_id": "498416",
             "rank": "2",
             "player": "Felipe Cruz",
+            "winrate": 0.8,
             "commander": [
                 "Ghyrson Starn, Kelermorph"
             ],
@@ -213,6 +219,7 @@
             "deck_id": "498417",
             "rank": "3",
             "player": "Conja",
+            "winrate": 0.6,
             "commander": [
                 "Balmor, Battlemage Captain"
             ],
@@ -308,6 +315,7 @@
             "deck_id": "498418",
             "rank": "4",
             "player": "Felipe Costa",
+            "winrate": 0.6,
             "commander": [
                 "Feather, the Redeemed"
             ],
@@ -399,9 +407,5 @@
                 "8 Mountain"
             ]
         }
-    ],
-    "name": "DC",
-    "place": "Manabolt (Limeira, Brazil)",
-    "players": "12 players",
-    "date": "10/12/22"
+    ]
 }

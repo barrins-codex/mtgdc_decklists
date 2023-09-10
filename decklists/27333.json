@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "27333",
+    "name": "Win a Secret Lair #1",
+    "place": "Cartapapa (Montpellier, France)",
+    "players": "16 players",
+    "date": "12/09/20",
     "decks": [
         {
             "deck_id": "416603",
             "rank": "1",
             "player": "Martial Alexandre",
+            "winrate": 1.0,
             "commander": [
                 "Sidisi, Brood Tyrant"
             ],
@@ -110,6 +115,7 @@
             "deck_id": "416604",
             "rank": "2",
             "player": "Autiquet Axel",
+            "winrate": 0.8,
             "commander": [
                 "Hogaak, Arisen Necropolis"
             ],
@@ -219,6 +225,7 @@
             "deck_id": "416605",
             "rank": "3-4",
             "player": "Dorey Benoît",
+            "winrate": 0.8,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -297,6 +304,7 @@
             "deck_id": "416606",
             "rank": "3-4",
             "player": "Milani Lucas",
+            "winrate": 0.8,
             "commander": [
                 "Tymna the Weaver",
                 "Reyhan, Last of the Abzan"
@@ -402,9 +410,5 @@
                 "1 Path of Ancestry"
             ]
         }
-    ],
-    "name": "Win a Secret Lair #1",
-    "place": "Cartapapa (Montpellier, France)",
-    "players": "16 players",
-    "date": "12/09/20"
+    ]
 }

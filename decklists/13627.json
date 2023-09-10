@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "13627",
+    "name": "Clash of Commander Titans 7",
+    "place": "",
+    "players": "11 players",
+    "date": "25/09/16",
     "decks": [
         {
             "deck_id": "280211",
             "rank": "1",
             "player": "Esteban Alonso",
+            "winrate": 1.0,
             "commander": [
                 "Narset, Enlightened Master"
             ],
@@ -111,6 +116,7 @@
             "deck_id": "280212",
             "rank": "2",
             "player": "Cristian Hernandez",
+            "winrate": 0.8,
             "commander": [
                 "Arcum Dagsson"
             ],
@@ -197,9 +203,5 @@
                 "20 Island"
             ]
         }
-    ],
-    "name": "Clash of Commander Titans 7",
-    "place": "",
-    "players": "11 players",
-    "date": "25/09/16"
+    ]
 }

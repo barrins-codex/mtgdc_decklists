@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "30613",
+    "name": "Weekly DC",
+    "place": "Santos (Brazil)",
+    "players": "8 players",
+    "date": "11/05/21",
     "decks": [
         {
             "deck_id": "438708",
             "rank": "1",
             "player": "Victor Burghi",
+            "winrate": 1.0,
             "commander": [
                 "Glenn, the Voice of Calm"
             ],
@@ -103,6 +108,7 @@
             "deck_id": "438709",
             "rank": "2",
             "player": "Rafael Ozores",
+            "winrate": 0.6666666666666666,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -181,9 +187,5 @@
                 "1 Zurgo Bellstriker"
             ]
         }
-    ],
-    "name": "Weekly DC",
-    "place": "Santos (Brazil)",
-    "players": "8 players",
-    "date": "11/05/21"
+    ]
 }

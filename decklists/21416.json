@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "21416",
+    "name": "Online Tournament",
+    "place": "MagicVille",
+    "players": "23 players",
+    "date": "18/03/19",
     "decks": [
         {
             "deck_id": "343375",
             "rank": "1",
             "player": "Moncana",
+            "winrate": 1.0,
             "commander": [
                 "Teferi, Temporal Archmage"
             ],
@@ -79,6 +84,7 @@
             "deck_id": "343376",
             "rank": "2",
             "player": "Hannibal44",
+            "winrate": 0.8,
             "commander": [
                 "Narset, Enlightened Master"
             ],
@@ -183,9 +189,5 @@
                 "1 Tolaria West"
             ]
         }
-    ],
-    "name": "Online Tournament",
-    "place": "MagicVille",
-    "players": "23 players",
-    "date": "18/03/19"
+    ]
 }

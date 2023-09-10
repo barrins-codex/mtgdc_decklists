@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "33880",
+    "name": "Duel Commander Online 2",
+    "place": "France",
+    "players": "20 players",
+    "date": "13/12/21",
     "decks": [
         {
             "deck_id": "457999",
             "rank": "1",
             "player": "Fabien",
+            "winrate": 1.0,
             "commander": [
                 "Galazeth Prismari"
             ],
@@ -104,6 +109,7 @@
             "deck_id": "458000",
             "rank": "2",
             "player": "Julie",
+            "winrate": 0.8,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -184,6 +190,7 @@
             "deck_id": "458001",
             "rank": "3-4",
             "player": "Marc",
+            "winrate": 0.8,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -293,6 +300,7 @@
             "deck_id": "458002",
             "rank": "3-4",
             "player": "Jill",
+            "winrate": 0.8,
             "commander": [
                 "Golos, Tireless Pilgrim"
             ],
@@ -397,9 +405,5 @@
                 "1 Eternal Witness"
             ]
         }
-    ],
-    "name": "Duel Commander Online 2",
-    "place": "France",
-    "players": "20 players",
-    "date": "13/12/21"
+    ]
 }

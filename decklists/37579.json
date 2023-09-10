@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "37579",
+    "name": "TNDC \"Grandparents Day\"",
+    "place": "Caverna do Dragão(Santos-SP, Brasil)",
+    "players": "24 players",
+    "date": "26/07/22",
     "decks": [
         {
             "deck_id": "481580",
             "rank": "1",
             "player": "Carlos Pires",
+            "winrate": 1.0,
             "commander": [
                 "Jeska, Thrice Reborn",
                 "Ludevic, Necro-Alchemist"
@@ -102,6 +107,7 @@
             "deck_id": "481581",
             "rank": "2",
             "player": "Guilherme Santos",
+            "winrate": 0.8,
             "commander": [
                 "Tameshi, Reality Architect"
             ],
@@ -205,6 +211,7 @@
             "deck_id": "481582",
             "rank": "3-4",
             "player": "Euro Figueiredo",
+            "winrate": 0.8,
             "commander": [
                 "Arcum Dagsson"
             ],
@@ -290,6 +297,7 @@
             "deck_id": "481583",
             "rank": "3-4",
             "player": "Rafael Barreto",
+            "winrate": 0.8,
             "commander": [
                 "Jeska, Thrice Reborn",
                 "Ludevic, Necro-Alchemist"
@@ -389,6 +397,7 @@
             "deck_id": "481584",
             "rank": "5-8",
             "player": "Rafael Ozores",
+            "winrate": 0.6,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -471,6 +480,7 @@
             "deck_id": "481585",
             "rank": "5-8",
             "player": "Leonardo Maeda",
+            "winrate": 0.6,
             "commander": [
                 "Minsc, Beloved Ranger"
             ],
@@ -580,6 +590,7 @@
             "deck_id": "481586",
             "rank": "5-8",
             "player": "Felipe \"the Raizen\" Santos",
+            "winrate": 0.6,
             "commander": [
                 "Octavia, Living Thesis"
             ],
@@ -668,6 +679,7 @@
             "deck_id": "481587",
             "rank": "5-8",
             "player": "Victor Burghi",
+            "winrate": 0.6,
             "commander": [
                 "Wernog, Rider's Chaplain",
                 "Bjorna, Nightfall Alchemist"
@@ -773,9 +785,5 @@
                 "1 Seachrome Coast"
             ]
         }
-    ],
-    "name": "TNDC \"Grandparents Day\"",
-    "place": "Caverna do Dragão(Santos-SP, Brasil)",
-    "players": "24 players",
-    "date": "26/07/22"
+    ]
 }

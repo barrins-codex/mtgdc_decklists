@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "36980",
+    "name": "Cóleras & DuWells #26",
+    "place": "Cúpula do Trovão (Pelotas, Brazil)",
+    "players": "15 players",
+    "date": "24/06/22",
     "decks": [
         {
             "deck_id": "477749",
             "rank": "1",
             "player": "Renan Da Massa",
+            "winrate": 1.0,
             "commander": [
                 "Gut, True Soul Zealot",
                 "Candlekeep Sage"
@@ -108,6 +113,7 @@
             "deck_id": "477750",
             "rank": "2",
             "player": "Cleber Vieira",
+            "winrate": 0.8,
             "commander": [
                 "Grist, the Hunger Tide"
             ],
@@ -208,6 +214,7 @@
             "deck_id": "477751",
             "rank": "3",
             "player": "Igor Da Silva Moncks Valério",
+            "winrate": 0.6,
             "commander": [
                 "Octavia, Living Thesis"
             ],
@@ -290,9 +297,5 @@
                 "1 Withdraw"
             ]
         }
-    ],
-    "name": "Cóleras & DuWells #26",
-    "place": "Cúpula do Trovão (Pelotas, Brazil)",
-    "players": "15 players",
-    "date": "24/06/22"
+    ]
 }

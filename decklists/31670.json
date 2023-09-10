@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "31670",
+    "name": "Monthly Duel Commander",
+    "place": "Magic Player (Holbæk, Denmark)",
+    "players": "9 players",
+    "date": "18/07/21",
     "decks": [
         {
             "deck_id": "445065",
             "rank": "1",
             "player": "Asbjørn",
+            "winrate": 1.0,
             "commander": [
                 "Questing Beast"
             ],
@@ -88,6 +93,7 @@
             "deck_id": "445066",
             "rank": "2",
             "player": "Tim Nielsen",
+            "winrate": 0.8,
             "commander": [
                 "Kraum, Ludevic's Opus",
                 "Livio, Oathsworn Sentinel"
@@ -192,9 +198,5 @@
                 "1 Young Pyromancer"
             ]
         }
-    ],
-    "name": "Monthly Duel Commander",
-    "place": "Magic Player (Holbæk, Denmark)",
-    "players": "9 players",
-    "date": "18/07/21"
+    ]
 }

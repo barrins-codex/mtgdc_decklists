@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "11306",
+    "name": "Second DC Tournament by Warpstone (Milano, Italy)",
+    "place": "",
+    "players": "15 players",
+    "date": "10/01/16",
     "decks": [
         {
             "deck_id": "264233",
             "rank": "1",
             "player": "Michele Atzeni",
+            "winrate": 1.0,
             "commander": [
                 "Geist of Saint Traft"
             ],
@@ -103,6 +108,7 @@
             "deck_id": "264235",
             "rank": "1",
             "player": "Simone Speziale",
+            "winrate": 1.0,
             "commander": [
                 "Thraximundar"
             ],
@@ -199,9 +205,5 @@
                 "1 Brainstorm"
             ]
         }
-    ],
-    "name": "Second DC Tournament by Warpstone (Milano, Italy)",
-    "place": "",
-    "players": "15 players",
-    "date": "10/01/16"
+    ]
 }

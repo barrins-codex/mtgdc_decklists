@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "33561",
+    "name": "Mulligan Duel Commander Event",
+    "place": "Saintes ( France )",
+    "players": "27 players",
+    "date": "28/11/21",
     "decks": [
         {
             "deck_id": "455694",
             "rank": "1",
             "player": "Maxime Morillon",
+            "winrate": 1.0,
             "commander": [
                 "Livio, Oathsworn Sentinel",
                 "Malcolm, Keen-Eyed Navigator"
@@ -105,6 +110,7 @@
             "deck_id": "455695",
             "rank": "2",
             "player": "Alexis Mommée",
+            "winrate": 0.8,
             "commander": [
                 "Niv-Mizzet Reborn"
             ],
@@ -213,6 +219,7 @@
             "deck_id": "455696",
             "rank": "3",
             "player": "Ambroise Berthe",
+            "winrate": 0.8,
             "commander": [
                 "Carth the Lion"
             ],
@@ -311,6 +318,7 @@
             "deck_id": "455697",
             "rank": "4",
             "player": "Damien Mocquet",
+            "winrate": 0.8,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -400,6 +408,7 @@
             "deck_id": "455698",
             "rank": "5",
             "player": "Brian Grouiller",
+            "winrate": 0.6,
             "commander": [
                 "Karlov of the Ghost Council"
             ],
@@ -501,6 +510,7 @@
             "deck_id": "455699",
             "rank": "6",
             "player": "Alexandre Bournizien",
+            "winrate": 0.6,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -610,6 +620,7 @@
             "deck_id": "455700",
             "rank": "7",
             "player": "Sébastien Lelamer",
+            "winrate": 0.6,
             "commander": [
                 "Queen Marchesa"
             ],
@@ -719,6 +730,7 @@
             "deck_id": "455701",
             "rank": "8",
             "player": "Steve Coraboeuf",
+            "winrate": 0.6,
             "commander": [
                 "Kess, Dissident Mage"
             ],
@@ -821,9 +833,5 @@
                 "1 Eliminate"
             ]
         }
-    ],
-    "name": "Mulligan Duel Commander Event",
-    "place": "Saintes ( France )",
-    "players": "27 players",
-    "date": "28/11/21"
+    ]
 }

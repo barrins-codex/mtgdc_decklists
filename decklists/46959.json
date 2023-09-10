@@ -1,15 +1,19 @@
 {
     "format": "Duel Commander",
-    "id": 46959,
+    "id": "46959",
     "name": "Surprise Ragavan tourney",
     "place": "Aling Marings Dojo (Rizal, Philippines)",
     "players": "13 players",
     "date": "20/08/23",
     "decks": [
         {
-            "player": "Iori Zugaikotsu",
-            "rank": "1",
             "deck_id": "547202",
+            "rank": "1",
+            "player": "Iori Zugaikotsu",
+            "winrate": 1.0,
+            "commander": [
+                "Kotori, Pilot Prodigy"
+            ],
             "decklist": [
                 "1 Preordain",
                 "1 Colossal Plow",
@@ -106,15 +110,17 @@
                 "1 Crystal Vein",
                 "3 Plains",
                 "3 Island"
-            ],
-            "commander": [
-                "Kotori, Pilot Prodigy"
             ]
         },
         {
-            "player": "Edison Gabutero",
-            "rank": "2",
             "deck_id": "547203",
+            "rank": "2",
+            "player": "Edison Gabutero",
+            "winrate": 0.8,
+            "commander": [
+                "Reyhan, Last of the Abzan",
+                "Yoshimaru, Ever Faithful"
+            ],
             "decklist": [
                 "1 Arid Mesa",
                 "1 Boseiju, Who Endures",
@@ -211,16 +217,16 @@
                 "1 Skullclamp",
                 "1 Smuggler's Copter",
                 "1 Umezawa's Jitte"
-            ],
-            "commander": [
-                "Reyhan, Last of the Abzan",
-                "Yoshimaru, Ever Faithful"
             ]
         },
         {
-            "player": "Darren \"bitterness\" Almondia",
-            "rank": "3-4",
             "deck_id": "547204",
+            "rank": "3-4",
+            "player": "Darren \"bitterness\" Almondia",
+            "winrate": 0.6,
+            "commander": [
+                "Kroxa, Titan of Death's Hunger"
+            ],
             "decklist": [
                 "1 Arid Mesa",
                 "1 Ash Barrens",
@@ -318,9 +324,6 @@
                 "1 Necromancy",
                 "1 Sundial of the Infinite",
                 "1 Underworld Breach"
-            ],
-            "commander": [
-                "Kroxa, Titan of Death's Hunger"
             ]
         }
     ]

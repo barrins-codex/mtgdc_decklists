@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "44728",
+    "name": "Wool Cup 65",
+    "place": "Kadou (Beijing, China)",
+    "players": "19 players",
+    "date": "28/05/23",
     "decks": [
         {
             "deck_id": "529879",
             "rank": "1",
             "player": "Yixuan Gao",
+            "winrate": 1.0,
             "commander": [
                 "Atraxa, Grand Unifier"
             ],
@@ -115,6 +120,7 @@
             "deck_id": "529880",
             "rank": "2",
             "player": "Ceyao Duan",
+            "winrate": 0.8,
             "commander": [
                 "Kydele, Chosen of Kruphix",
                 "Tymna the Weaver"
@@ -224,6 +230,7 @@
             "deck_id": "529881",
             "rank": "3",
             "player": "Wong Dik Fan",
+            "winrate": 0.8,
             "commander": [
                 "Errant and Giada"
             ],
@@ -325,6 +332,7 @@
             "deck_id": "529882",
             "rank": "4",
             "player": "Yuchen Yang",
+            "winrate": 0.6,
             "commander": [
                 "Atraxa, Grand Unifier"
             ],
@@ -430,9 +438,5 @@
                 "1 Zagoth Triome"
             ]
         }
-    ],
-    "name": "Wool Cup 65",
-    "place": "Kadou (Beijing, China)",
-    "players": "19 players",
-    "date": "28/05/23"
+    ]
 }

@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "40783",
+    "name": "Sunday Duel Coomander",
+    "place": "Upkeep Hobbies (Rizal, Philippines)",
+    "players": "8 players",
+    "date": "15/01/23",
     "decks": [
         {
             "deck_id": "503385",
             "rank": "1",
             "player": "Ricky Madrigal",
+            "winrate": 1.0,
             "commander": [
                 "Gut, True Soul Zealot",
                 "Veteran Soldier"
@@ -112,6 +117,7 @@
             "deck_id": "503386",
             "rank": "2",
             "player": "Rexel Tenorio",
+            "winrate": 0.6666666666666666,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -217,9 +223,5 @@
                 "1 Windswept Heath"
             ]
         }
-    ],
-    "name": "Sunday Duel Coomander",
-    "place": "Upkeep Hobbies (Rizal, Philippines)",
-    "players": "8 players",
-    "date": "15/01/23"
+    ]
 }

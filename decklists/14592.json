@@ -1,11 +1,28 @@
 {
     "format": "Duel Commander",
     "id": "14592",
+    "name": "Duel Commander Supernova Hobby Store (Maringá - Brasil)",
+    "place": "",
+    "players": "9 players",
+    "date": "26/01/17",
     "decks": [
+        {
+            "deck_id": "287513",
+            "rank": "2",
+            "player": "Chritopher Reich",
+            "winrate": 0.8,
+            "commander": [
+                "Geist of Saint Traft"
+            ],
+            "decklist": [
+                "99 Island"
+            ]
+        },
         {
             "deck_id": "287517",
             "rank": "1",
             "player": "Murilo Molina",
+            "winrate": 1.0,
             "commander": [
                 "Zurgo Bellstriker"
             ],
@@ -81,21 +98,6 @@
                 "1 Skullclamp",
                 "1 Smuggler's Copter"
             ]
-        },
-        {
-            "deck_id": "287513",
-            "rank": "2",
-            "player": "Chritopher Reich",
-            "commander": [
-                "Geist of Saint Traft"
-            ],
-            "decklist": [
-                "99 Island"
-            ]
         }
-    ],
-    "name": "Duel Commander Supernova Hobby Store (Maringá - Brasil)",
-    "place": "",
-    "players": "9 players",
-    "date": "26/01/17"
+    ]
 }

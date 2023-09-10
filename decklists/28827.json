@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "28827",
+    "name": "123rd \"New Year Cake\" Cup",
+    "place": "Shanghai (China)",
+    "players": "8 players",
+    "date": "09/01/21",
     "decks": [
         {
             "deck_id": "427544",
             "rank": "1",
             "player": "Zhang Cang",
+            "winrate": 1.0,
             "commander": [
                 "Rograkh, Son of Rohgahh",
                 "Keleth, Sunmane Familiar"
@@ -103,6 +108,7 @@
             "deck_id": "427545",
             "rank": "2",
             "player": "He Ying",
+            "winrate": 0.6666666666666666,
             "commander": [
                 "Golos, Tireless Pilgrim"
             ],
@@ -208,9 +214,5 @@
                 "1 Damnation"
             ]
         }
-    ],
-    "name": "123rd \"New Year Cake\" Cup",
-    "place": "Shanghai (China)",
-    "players": "8 players",
-    "date": "09/01/21"
+    ]
 }

@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "37702",
+    "name": "Circuit Season1 Trial5",
+    "place": "Regran Pasig (Philippines)",
+    "players": "27 players",
+    "date": "31/07/22",
     "decks": [
         {
             "deck_id": "482356",
             "rank": "1",
             "player": "Rai Reyes",
+            "winrate": 1.0,
             "commander": [
                 "Jeska, Thrice Reborn",
                 "Ludevic, Necro-Alchemist"
@@ -108,6 +113,7 @@
             "deck_id": "482357",
             "rank": "2",
             "player": "Ste Villaraza",
+            "winrate": 0.8,
             "commander": [
                 "Tivit, Seller of Secrets"
             ],
@@ -217,6 +223,7 @@
             "deck_id": "482358",
             "rank": "3",
             "player": "Lawrence Follero",
+            "winrate": 0.8,
             "commander": [
                 "Lurrus of the Dream-Den"
             ],
@@ -313,6 +320,7 @@
             "deck_id": "482359",
             "rank": "4",
             "player": "Joel San Jose",
+            "winrate": 0.8,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -421,6 +429,7 @@
             "deck_id": "482360",
             "rank": "5",
             "player": "Arthur Tanion",
+            "winrate": 0.6,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -507,6 +516,7 @@
             "deck_id": "482361",
             "rank": "6",
             "player": "Reuben Ferrer",
+            "winrate": 0.6,
             "commander": [
                 "Kroxa, Titan of Death's Hunger"
             ],
@@ -611,6 +621,7 @@
             "deck_id": "482362",
             "rank": "7",
             "player": "Raffy Sarto",
+            "winrate": 0.6,
             "commander": [
                 "Karlov of the Ghost Council"
             ],
@@ -705,6 +716,7 @@
             "deck_id": "482363",
             "rank": "8",
             "player": "Alain Hortillosa",
+            "winrate": 0.6,
             "commander": [
                 "Thrun, the Last Troll"
             ],
@@ -793,9 +805,5 @@
                 "1 Yavimaya, Cradle of Growth"
             ]
         }
-    ],
-    "name": "Circuit Season1 Trial5",
-    "place": "Regran Pasig (Philippines)",
-    "players": "27 players",
-    "date": "31/07/22"
+    ]
 }

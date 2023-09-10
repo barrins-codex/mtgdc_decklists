@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "43946",
+    "name": "Wool Cup 62",
+    "place": "Kadou (Beijing, China)",
+    "players": "18 players",
+    "date": "03/05/23",
     "decks": [
         {
             "deck_id": "524296",
             "rank": "1",
             "player": "Tiangang Xie",
+            "winrate": 1.0,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -115,6 +120,7 @@
             "deck_id": "524297",
             "rank": "2",
             "player": "Yuchen Liu",
+            "winrate": 0.8,
             "commander": [
                 "Kroxa, Titan of Death's Hunger"
             ],
@@ -217,6 +223,7 @@
             "deck_id": "524298",
             "rank": "3",
             "player": "Yuchen Yang",
+            "winrate": 0.8,
             "commander": [
                 "Atraxa, Grand Unifier"
             ],
@@ -326,6 +333,7 @@
             "deck_id": "524299",
             "rank": "4",
             "player": "Zexin Han",
+            "winrate": 0.6,
             "commander": [
                 "Juri, Master of the Revue"
             ],
@@ -423,9 +431,5 @@
                 "1 Zurgo Bellstriker"
             ]
         }
-    ],
-    "name": "Wool Cup 62",
-    "place": "Kadou (Beijing, China)",
-    "players": "18 players",
-    "date": "03/05/23"
+    ]
 }

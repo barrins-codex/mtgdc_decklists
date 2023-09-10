@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "36551",
+    "name": "Mtg Var Tournament Dc 2.4",
+    "place": "Fight Club (La Crau, France)",
+    "players": "16 players",
+    "date": "27/05/22",
     "decks": [
         {
             "deck_id": "475096",
             "rank": "1",
             "player": "Edouard Lecocq",
+            "winrate": 1.0,
             "commander": [
                 "Shorikai, Genesis Engine"
             ],
@@ -102,6 +107,7 @@
             "deck_id": "475097",
             "rank": "2",
             "player": "David Cremieux",
+            "winrate": 0.8,
             "commander": [
                 "General Ferrous Rokiric"
             ],
@@ -195,7 +201,8 @@
         {
             "deck_id": "475098",
             "rank": "3-4",
-            "player": "Pierre Almaraz ",
+            "player": "Pierre Almaraz",
+            "winrate": 0.8,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -275,6 +282,7 @@
             "deck_id": "475099",
             "rank": "3-4",
             "player": "Celian Giusti",
+            "winrate": 0.8,
             "commander": [
                 "The Scarab God"
             ],
@@ -355,9 +363,5 @@
                 "1 Repeal"
             ]
         }
-    ],
-    "name": "Mtg Var Tournament Dc 2.4",
-    "place": "Fight Club (La Crau, France)",
-    "players": "16 players",
-    "date": "27/05/22"
+    ]
 }

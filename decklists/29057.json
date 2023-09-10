@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "29057",
+    "name": "Weekly event ZAM",
+    "place": "Cockatrice + Discord",
+    "players": "9 players",
+    "date": "30/01/21",
     "decks": [
         {
             "deck_id": "428943",
             "rank": "1",
             "player": "Mephy",
+            "winrate": 1.0,
             "commander": [
                 "Tergrid, God of Fright"
             ],
@@ -86,6 +91,7 @@
             "deck_id": "428944",
             "rank": "2",
             "player": "Sealboy2715",
+            "winrate": 0.8,
             "commander": [
                 "Shalai, Voice of Plenty"
             ],
@@ -181,9 +187,5 @@
                 "1 Sejiri Shelter"
             ]
         }
-    ],
-    "name": "Weekly event ZAM",
-    "place": "Cockatrice + Discord",
-    "players": "9 players",
-    "date": "30/01/21"
+    ]
 }

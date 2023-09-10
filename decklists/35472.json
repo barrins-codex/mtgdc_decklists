@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "35472",
+    "name": "RC2",
+    "place": "Tower of Cards (Bangu, Rio de Janeiro, Brazil)",
+    "players": "8 players",
+    "date": "12/03/22",
     "decks": [
         {
             "deck_id": "467877",
             "rank": "1",
             "player": "Kauan",
+            "winrate": 1.0,
             "commander": [
                 "Adeline, Resplendent Cathar"
             ],
@@ -90,6 +95,7 @@
             "deck_id": "467878",
             "rank": "2",
             "player": "Professor",
+            "winrate": 0.6666666666666666,
             "commander": [
                 "General Ferrous Rokiric"
             ],
@@ -176,9 +182,5 @@
                 "11 Plains"
             ]
         }
-    ],
-    "name": "RC2",
-    "place": "Tower of Cards (Bangu, Rio de Janeiro, Brazil)",
-    "players": "8 players",
-    "date": "12/03/22"
+    ]
 }

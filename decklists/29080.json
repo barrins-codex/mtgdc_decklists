@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "29080",
+    "name": "DC",
+    "place": "Mana Uderground (Lagro QC, Philippines)",
+    "players": "11 players",
+    "date": "30/01/21",
     "decks": [
         {
             "deck_id": "429087",
             "rank": "1",
             "player": "Luther Domingo",
+            "winrate": 1.0,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -87,6 +92,7 @@
             "deck_id": "429088",
             "rank": "2",
             "player": "Ryan Payabyab",
+            "winrate": 0.8,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -196,6 +202,7 @@
             "deck_id": "429089",
             "rank": "3",
             "player": "Chris Sta Maria",
+            "winrate": 0.6,
             "commander": [
                 "Karlov of the Ghost Council"
             ],
@@ -296,9 +303,5 @@
                 "1 Zuran Orb"
             ]
         }
-    ],
-    "name": "DC",
-    "place": "Mana Uderground (Lagro QC, Philippines)",
-    "players": "11 players",
-    "date": "30/01/21"
+    ]
 }

@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "12478",
+    "name": "Duel Commander Semanal - 19/05 - Academia de Jogos",
+    "place": "",
+    "players": "25 players",
+    "date": "19/05/16",
     "decks": [
         {
             "deck_id": "271822",
             "rank": "1",
             "player": "Fabio Gavazzi",
+            "winrate": 1.0,
             "commander": [
                 "Sidisi, Undead Vizier"
             ],
@@ -95,6 +100,7 @@
             "deck_id": "271823",
             "rank": "2",
             "player": "Diego Ganev",
+            "winrate": 0.8,
             "commander": [
                 "Jenara, Asura of War"
             ],
@@ -204,6 +210,7 @@
             "deck_id": "271824",
             "rank": "3-4",
             "player": "Diogo Mignon",
+            "winrate": 0.8,
             "commander": [
                 "Meren of Clan Nel Toth"
             ],
@@ -304,6 +311,7 @@
             "deck_id": "271825",
             "rank": "3-4",
             "player": "Fabio Kaneto",
+            "winrate": 0.8,
             "commander": [
                 "Nissa, Vastwood Seer"
             ],
@@ -393,9 +401,5 @@
                 "1 Cavern of Souls"
             ]
         }
-    ],
-    "name": "Duel Commander Semanal - 19/05 - Academia de Jogos",
-    "place": "",
-    "players": "25 players",
-    "date": "19/05/16"
+    ]
 }

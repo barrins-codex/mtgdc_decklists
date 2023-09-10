@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "32467",
+    "name": "Wanted #3",
+    "place": "CartaRennes (Rennes, France)",
+    "players": "16 players",
+    "date": "23/09/21",
     "decks": [
         {
             "deck_id": "449494",
             "rank": "1",
             "player": "Mathieu Laurent",
+            "winrate": 1.0,
             "commander": [
                 "Asmoranomardicadaistinaculdacar"
             ],
@@ -110,6 +115,7 @@
             "deck_id": "449495",
             "rank": "2",
             "player": "Lassa Yvonnet",
+            "winrate": 0.8,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -189,6 +195,7 @@
             "deck_id": "449496",
             "rank": "3-4",
             "player": "Maxime Allée",
+            "winrate": 0.8,
             "commander": [
                 "Grist, the Hunger Tide"
             ],
@@ -291,6 +298,7 @@
             "deck_id": "449497",
             "rank": "3-4",
             "player": "Adrien Jouan",
+            "winrate": 0.8,
             "commander": [
                 "Kodama of the East Tree",
                 "Toggo, Goblin Weaponsmith"
@@ -386,9 +394,5 @@
                 "6 Forest"
             ]
         }
-    ],
-    "name": "Wanted #3",
-    "place": "CartaRennes (Rennes, France)",
-    "players": "16 players",
-    "date": "23/09/21"
+    ]
 }

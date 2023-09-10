@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "32446",
+    "name": "Wool cup 8",
+    "place": "Kadou (Beijing,China)",
+    "players": "10 players",
+    "date": "21/09/21",
     "decks": [
         {
             "deck_id": "449379",
             "rank": "1",
             "player": "Ziqi Xi",
+            "winrate": 1.0,
             "commander": [
                 "Winota, Joiner of Forces"
             ],
@@ -105,6 +110,7 @@
             "deck_id": "449380",
             "rank": "2",
             "player": "Boran Gao",
+            "winrate": 0.8,
             "commander": [
                 "The Gitrog Monster"
             ],
@@ -203,6 +209,7 @@
             "deck_id": "449381",
             "rank": "3-4",
             "player": "Jinlin Yang",
+            "winrate": 0.6,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -287,6 +294,7 @@
             "deck_id": "449382",
             "rank": "3-4",
             "player": "Char",
+            "winrate": 0.6,
             "commander": [
                 "Niv-Mizzet Reborn"
             ],
@@ -392,9 +400,5 @@
                 "1 Teferi, Time Raveler"
             ]
         }
-    ],
-    "name": "Wool cup 8",
-    "place": "Kadou (Beijing,China)",
-    "players": "10 players",
-    "date": "21/09/21"
+    ]
 }

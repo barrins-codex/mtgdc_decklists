@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "22751",
+    "name": "DC",
+    "place": "Le Temple des Joueurs (Rennes)",
+    "players": "8 players",
+    "date": "10/08/19",
     "decks": [
         {
             "deck_id": "355389",
             "rank": "1",
             "player": "Maxime Allée",
+            "winrate": 1.0,
             "commander": [
                 "Azusa, Lost but Seeking"
             ],
@@ -96,9 +101,5 @@
                 "1 Life from the Loam"
             ]
         }
-    ],
-    "name": "DC",
-    "place": "Le Temple des Joueurs (Rennes)",
-    "players": "8 players",
-    "date": "10/08/19"
+    ]
 }

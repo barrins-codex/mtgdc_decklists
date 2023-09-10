@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "37726",
+    "name": "#5 Hradubice - DC Series",
+    "place": "UNTAP (CZE)",
+    "players": "18 players",
+    "date": "30/07/22",
     "decks": [
         {
             "deck_id": "482510",
             "rank": "1",
             "player": "David Tran",
+            "winrate": 1.0,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -114,6 +119,7 @@
             "deck_id": "482511",
             "rank": "2",
             "player": "Jakub Havelka",
+            "winrate": 0.8,
             "commander": [
                 "Kraum, Ludevic's Opus",
                 "Jeska, Thrice Reborn"
@@ -215,6 +221,7 @@
             "deck_id": "482512",
             "rank": "3-4",
             "player": "Jan Kousal",
+            "winrate": 0.8,
             "commander": [
                 "Galazeth Prismari"
             ],
@@ -317,6 +324,7 @@
             "deck_id": "482513",
             "rank": "3-4",
             "player": "Vojtech Benes",
+            "winrate": 0.8,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -422,9 +430,5 @@
                 "1 Liliana of the Veil"
             ]
         }
-    ],
-    "name": "#5 Hradubice - DC Series",
-    "place": "UNTAP (CZE)",
-    "players": "18 players",
-    "date": "30/07/22"
+    ]
 }

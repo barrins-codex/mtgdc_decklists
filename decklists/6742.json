@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "6742",
+    "name": "Madcap Gaming #7 (Philippines)",
+    "place": "",
+    "players": "15 players",
+    "date": "16/02/14",
     "decks": [
         {
             "deck_id": "238726",
             "rank": "1",
             "player": "Andrew Cantillana",
+            "winrate": 1.0,
             "commander": [
                 "Sigarda, Host of Herons"
             ],
@@ -98,6 +103,7 @@
             "deck_id": "238727",
             "rank": "2",
             "player": "Jeruville Avilla",
+            "winrate": 0.8,
             "commander": [
                 "Thalia, Guardian of Thraben"
             ],
@@ -178,9 +184,5 @@
                 "1 Silverblade Paladin"
             ]
         }
-    ],
-    "name": "Madcap Gaming #7 (Philippines)",
-    "place": "",
-    "players": "15 players",
-    "date": "16/02/14"
+    ]
 }

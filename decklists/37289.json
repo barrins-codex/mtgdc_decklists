@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "37289",
+    "name": "[RC] 10º Torneio",
+    "place": "Manavai (Campo Grande/RJ)",
+    "players": "8 players",
+    "date": "07/07/22",
     "decks": [
         {
             "deck_id": "479723",
             "rank": "1",
             "player": "Marcelino",
+            "winrate": 1.0,
             "commander": [
                 "Rhonas the Indomitable"
             ],
@@ -79,6 +84,7 @@
             "deck_id": "479724",
             "rank": "2",
             "player": "Brendon",
+            "winrate": 0.6666666666666666,
             "commander": [
                 "Torbran, Thane of Red Fell"
             ],
@@ -159,9 +165,5 @@
                 "26 Mountain"
             ]
         }
-    ],
-    "name": "[RC] 10º Torneio",
-    "place": "Manavai (Campo Grande/RJ)",
-    "players": "8 players",
-    "date": "07/07/22"
+    ]
 }

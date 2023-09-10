@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "31397",
+    "name": "King Commander",
+    "place": "GameCash - Troc n Troll (Nantes, France)",
+    "players": "18 players",
+    "date": "03/07/21",
     "decks": [
         {
             "deck_id": "443478",
             "rank": "1",
             "player": "Florian Visset",
+            "winrate": 1.0,
             "commander": [
                 "Yawgmoth, Thran Physician"
             ],
@@ -92,6 +97,7 @@
             "deck_id": "443479",
             "rank": "2",
             "player": "Christian Sal",
+            "winrate": 0.8,
             "commander": [
                 "Rafiq of the Many"
             ],
@@ -190,6 +196,7 @@
             "deck_id": "443480",
             "rank": "3",
             "player": "\"shino\"",
+            "winrate": 0.8,
             "commander": [
                 "Svyelun of Sea and Sky"
             ],
@@ -275,6 +282,7 @@
             "deck_id": "443481",
             "rank": "4",
             "player": "Mael Keraval",
+            "winrate": 0.6,
             "commander": [
                 "Nicol Bolas, the Ravager"
             ],
@@ -380,9 +388,5 @@
                 "1 Drowned Catacomb"
             ]
         }
-    ],
-    "name": "King Commander",
-    "place": "GameCash - Troc n Troll (Nantes, France)",
-    "players": "18 players",
-    "date": "03/07/21"
+    ]
 }

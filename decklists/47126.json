@@ -9,7 +9,8 @@
         {
             "deck_id": "548257",
             "rank": "1",
-            "player": "Gašper Moderc",
+            "player": "Gaper Moderc",
+            "winrate": 1.0,
             "commander": [
                 "Aragorn, King of Gondor"
             ],
@@ -114,7 +115,8 @@
         {
             "deck_id": "548258",
             "rank": "2",
-            "player": "Gašper Vočanec",
+            "player": "Gaper Vočanec",
+            "winrate": 0.6666666666666666,
             "commander": [
                 "Feldon, Ronom Excavator"
             ],

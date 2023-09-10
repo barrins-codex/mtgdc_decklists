@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "37463",
+    "name": "Cóleras & DuWells #30",
+    "place": "CdT (Pelotas, Brazil)",
+    "players": "10 players",
+    "date": "20/07/22",
     "decks": [
         {
             "deck_id": "480821",
             "rank": "1",
             "player": "Renan Da Massa",
+            "winrate": 1.0,
             "commander": [
                 "Juri, Master of the Revue"
             ],
@@ -107,6 +112,7 @@
             "deck_id": "480822",
             "rank": "2",
             "player": "Cleber M. Vieira",
+            "winrate": 0.8,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -216,6 +222,7 @@
             "deck_id": "480823",
             "rank": "3",
             "player": "Matheusmrs",
+            "winrate": 0.6,
             "commander": [
                 "Minsc &amp; Boo, Timeless Heroes"
             ],
@@ -313,9 +320,5 @@
                 "1 Yavimaya, Cradle of Growth"
             ]
         }
-    ],
-    "name": "Cóleras & DuWells #30",
-    "place": "CdT (Pelotas, Brazil)",
-    "players": "10 players",
-    "date": "20/07/22"
+    ]
 }

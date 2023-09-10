@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "36357",
+    "name": "Duelan sa TG",
+    "place": "Tapped Games (Marikina City, Philippines)",
+    "players": "14 players",
+    "date": "14/05/22",
     "decks": [
         {
             "deck_id": "473430",
             "rank": "1",
             "player": "Martin Ogayon",
+            "winrate": 1.0,
             "commander": [
                 "Queen Marchesa"
             ],
@@ -115,6 +120,7 @@
             "deck_id": "473431",
             "rank": "2",
             "player": "Roy Rivero",
+            "winrate": 0.8,
             "commander": [
                 "Shorikai, Genesis Engine"
             ],
@@ -212,6 +218,7 @@
             "deck_id": "473432",
             "rank": "3-4",
             "player": "Richmond Ortiz",
+            "winrate": 0.6,
             "commander": [
                 "Kroxa, Titan of Death's Hunger"
             ],
@@ -319,6 +326,7 @@
             "deck_id": "473433",
             "rank": "3-4",
             "player": "Miguel Aquino",
+            "winrate": 0.6,
             "commander": [
                 "Shorikai, Genesis Engine"
             ],
@@ -416,9 +424,5 @@
                 "1 Windswept Heath"
             ]
         }
-    ],
-    "name": "Duelan sa TG",
-    "place": "Tapped Games (Marikina City, Philippines)",
-    "players": "14 players",
-    "date": "14/05/22"
+    ]
 }

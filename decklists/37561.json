@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "37561",
+    "name": "[RC] 11º Torneio Cachu",
+    "place": "Cachoeiro-ES ( Brasil)",
+    "players": "13 players",
+    "date": "16/07/22",
     "decks": [
         {
             "deck_id": "481463",
             "rank": "1",
             "player": "André Moulin",
+            "winrate": 1.0,
             "commander": [
                 "Teysa, Orzhov Scion"
             ],
@@ -87,6 +92,7 @@
             "deck_id": "481464",
             "rank": "2",
             "player": "Matheus Brito",
+            "winrate": 0.8,
             "commander": [
                 "Zur the Enchanter"
             ],
@@ -176,6 +182,7 @@
             "deck_id": "481465",
             "rank": "3-4",
             "player": "Jairo Marcelo",
+            "winrate": 0.6,
             "commander": [
                 "Lae'zel, Vlaakith's Champion",
                 "Master Chef"
@@ -264,6 +271,7 @@
             "deck_id": "481466",
             "rank": "3-4",
             "player": "Talmo Moraes",
+            "winrate": 0.6,
             "commander": [
                 "Rielle, the Everwise"
             ],
@@ -355,9 +363,5 @@
                 "1 Bedlam Reveler"
             ]
         }
-    ],
-    "name": "[RC] 11º Torneio Cachu",
-    "place": "Cachoeiro-ES ( Brasil)",
-    "players": "13 players",
-    "date": "16/07/22"
+    ]
 }

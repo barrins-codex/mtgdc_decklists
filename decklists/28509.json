@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "28509",
+    "name": "RJ Cup",
+    "place": "League Castle (Mong Kok, Hong Kok)",
+    "players": "8 players",
+    "date": "12/12/20",
     "decks": [
         {
             "deck_id": "425391",
             "rank": "1",
             "player": "Jason Lam",
+            "winrate": 1.0,
             "commander": [
                 "Winota, Joiner of Forces"
             ],
@@ -103,6 +108,7 @@
             "deck_id": "425392",
             "rank": "2",
             "player": "Sam Liu",
+            "winrate": 0.6666666666666666,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -184,9 +190,5 @@
                 "25 Mountain"
             ]
         }
-    ],
-    "name": "RJ Cup",
-    "place": "League Castle (Mong Kok, Hong Kok)",
-    "players": "8 players",
-    "date": "12/12/20"
+    ]
 }

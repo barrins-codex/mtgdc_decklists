@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "37739",
+    "name": "DC East League",
+    "place": "Tapped Games (Marikina City, Philippines)",
+    "players": "12 players",
+    "date": "30/07/22",
     "decks": [
         {
             "deck_id": "482571",
             "rank": "1",
             "player": "Iori Zugaikotsu",
+            "winrate": 1.0,
             "commander": [
                 "Elminster"
             ],
@@ -110,6 +115,7 @@
             "deck_id": "482572",
             "rank": "2",
             "player": "Jonathan Dolor",
+            "winrate": 0.8,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -192,9 +198,5 @@
                 "24 Mountain"
             ]
         }
-    ],
-    "name": "DC East League",
-    "place": "Tapped Games (Marikina City, Philippines)",
-    "players": "12 players",
-    "date": "30/07/22"
+    ]
 }

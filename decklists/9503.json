@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "9503",
+    "name": "EDH (Caen)",
+    "place": "",
+    "players": "12 players",
+    "date": "11/04/15",
     "decks": [
         {
             "deck_id": "254536",
             "rank": "1",
             "player": "Clément \"noskcaj\" Sillere",
+            "winrate": 1.0,
             "commander": [
                 "Grand Arbiter Augustin IV"
             ],
@@ -99,6 +104,7 @@
             "deck_id": "254537",
             "rank": "2",
             "player": "Markyann Karaky",
+            "winrate": 0.8,
             "commander": [
                 "Karador, Ghost Chieftain"
             ],
@@ -200,9 +206,5 @@
                 "1 Life from the Loam"
             ]
         }
-    ],
-    "name": "EDH (Caen)",
-    "place": "",
-    "players": "12 players",
-    "date": "11/04/15"
+    ]
 }

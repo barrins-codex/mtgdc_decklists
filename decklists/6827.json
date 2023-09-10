@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "6827",
+    "name": "Duel Commander League - Nueve Titanes (Temuco, Chile)",
+    "place": "",
+    "players": "13 players",
+    "date": "09/03/14",
     "decks": [
         {
             "deck_id": "239262",
             "rank": "1",
             "player": "Samuel Pallotta",
+            "winrate": 1.0,
             "commander": [
                 "Kaalia of the Vast"
             ],
@@ -112,6 +117,7 @@
             "deck_id": "239263",
             "rank": "2",
             "player": "Miguel Araya",
+            "winrate": 0.8,
             "commander": [
                 "Geist of Saint Traft"
             ],
@@ -206,9 +212,5 @@
                 "1 Celestial Colonnade"
             ]
         }
-    ],
-    "name": "Duel Commander League - Nueve Titanes (Temuco, Chile)",
-    "place": "",
-    "players": "13 players",
-    "date": "09/03/14"
+    ]
 }

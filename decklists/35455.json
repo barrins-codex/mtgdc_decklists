@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "35455",
+    "name": "9th Webcam-League",
+    "place": "Leipzig (Germany)",
+    "players": "8 players",
+    "date": "29/03/22",
     "decks": [
         {
             "deck_id": "467773",
             "rank": "1",
             "player": "Jonas Kretzschmar",
+            "winrate": 1.0,
             "commander": [
                 "Isamaru, Hound of Konda"
             ],
@@ -93,6 +98,7 @@
             "deck_id": "467774",
             "rank": "2",
             "player": "Jonas Jörns",
+            "winrate": 0.6666666666666666,
             "commander": [
                 "Klothys, God of Destiny"
             ],
@@ -192,9 +198,5 @@
                 "1 Yavimaya, Cradle of Growth"
             ]
         }
-    ],
-    "name": "9th Webcam-League",
-    "place": "Leipzig (Germany)",
-    "players": "8 players",
-    "date": "29/03/22"
+    ]
 }

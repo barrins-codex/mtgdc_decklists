@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "38452",
+    "name": "DC Circuit Trial 1 Season 2",
+    "place": "Modern Magic Manila (Black Scoop Venice Taguig)",
+    "players": "45 players",
+    "date": "18/09/22",
     "decks": [
         {
             "deck_id": "487331",
             "rank": "1",
             "player": "Pepelepew",
+            "winrate": 0.8888888888888888,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -115,6 +120,7 @@
             "deck_id": "487332",
             "rank": "2",
             "player": "Aj De Leon",
+            "winrate": 0.7777777777777778,
             "commander": [
                 "Leovold, Emissary of Trest"
             ],
@@ -221,6 +227,7 @@
             "deck_id": "487333",
             "rank": "3",
             "player": "Darren Judi",
+            "winrate": 0.75,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -329,6 +336,7 @@
             "deck_id": "487334",
             "rank": "4",
             "player": "Christian Agbon",
+            "winrate": 0.75,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -418,6 +426,7 @@
             "deck_id": "487335",
             "rank": "5",
             "player": "Dinno Zaide",
+            "winrate": 0.75,
             "commander": [
                 "Ludevic, Necro-Alchemist",
                 "Jeska, Thrice Reborn"
@@ -517,6 +526,7 @@
             "deck_id": "487336",
             "rank": "6",
             "player": "Ben Co",
+            "winrate": 0.75,
             "commander": [
                 "Dennick, Pious Apprentice"
             ],
@@ -620,6 +630,7 @@
             "deck_id": "487337",
             "rank": "7",
             "player": "Jorrel Ang",
+            "winrate": 0.75,
             "commander": [
                 "Tivit, Seller of Secrets"
             ],
@@ -729,6 +740,7 @@
             "deck_id": "487338",
             "rank": "8",
             "player": "Ralph Taganile",
+            "winrate": 0.75,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -834,9 +846,5 @@
                 "1 Wishclaw Talisman"
             ]
         }
-    ],
-    "name": "DC Circuit Trial 1 Season 2",
-    "place": "Modern Magic Manila (Black Scoop Venice Taguig)",
-    "players": "45 players",
-    "date": "18/09/22"
+    ]
 }

@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "28800",
+    "name": "Les Chroniques du Commander DC",
+    "place": "Cockatrice",
+    "players": "30 players",
+    "date": "09/01/21",
     "decks": [
         {
             "deck_id": "427333",
             "rank": "1",
             "player": "Moncana",
+            "winrate": 1.0,
             "commander": [
                 "Esior, Wardwing Familiar",
                 "Ardenn, Intrepid Archaeologist"
@@ -103,6 +108,7 @@
             "deck_id": "427334",
             "rank": "2",
             "player": "Florian \"dynamoflow\" Visset",
+            "winrate": 0.8,
             "commander": [
                 "Winota, Joiner of Forces"
             ],
@@ -198,6 +204,7 @@
             "deck_id": "427335",
             "rank": "3",
             "player": "Onesauk",
+            "winrate": 0.8,
             "commander": [
                 "Rograkh, Son of Rohgahh",
                 "Keleth, Sunmane Familiar"
@@ -295,6 +302,7 @@
             "deck_id": "427336",
             "rank": "4",
             "player": "Baptiste \"batsumi\" Hilmann",
+            "winrate": 0.8,
             "commander": [
                 "Yawgmoth, Thran Physician"
             ],
@@ -374,6 +382,7 @@
             "deck_id": "427337",
             "rank": "5",
             "player": "Antoine \"mrelfor\" Guillet",
+            "winrate": 0.6,
             "commander": [
                 "Winota, Joiner of Forces"
             ],
@@ -469,6 +478,7 @@
             "deck_id": "427338",
             "rank": "6",
             "player": "Adrien \"soulless Oni\" Demoget",
+            "winrate": 0.6,
             "commander": [
                 "Golos, Tireless Pilgrim"
             ],
@@ -573,6 +583,7 @@
             "deck_id": "427339",
             "rank": "7",
             "player": "Lionel Galliere \"hannibal44\"",
+            "winrate": 0.6,
             "commander": [
                 "Niv-Mizzet Reborn"
             ],
@@ -682,6 +693,7 @@
             "deck_id": "427340",
             "rank": "8",
             "player": "Adrien Segond",
+            "winrate": 0.6,
             "commander": [
                 "Isamaru, Hound of Konda"
             ],
@@ -764,9 +776,5 @@
                 "1 Windswept Heath"
             ]
         }
-    ],
-    "name": "Les Chroniques du Commander DC",
-    "place": "Cockatrice",
-    "players": "30 players",
-    "date": "09/01/21"
+    ]
 }

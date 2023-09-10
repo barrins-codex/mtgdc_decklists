@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "39227",
+    "name": "TNDC \"All Saints' Day\"",
+    "place": "Caverna do Dragão (Santos, Brasil)",
+    "players": "15 players",
+    "date": "01/11/22",
     "decks": [
         {
             "deck_id": "492240",
             "rank": "1",
             "player": "Rafael Ozores",
+            "winrate": 1.0,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -89,6 +94,7 @@
             "deck_id": "492241",
             "rank": "2",
             "player": "Leonardo Maeda",
+            "winrate": 0.8,
             "commander": [
                 "Minsc, Beloved Ranger"
             ],
@@ -196,6 +202,7 @@
             "deck_id": "492242",
             "rank": "3",
             "player": "Euro Figueiredo",
+            "winrate": 0.6,
             "commander": [
                 "Arcum Dagsson"
             ],
@@ -281,6 +288,7 @@
             "deck_id": "492243",
             "rank": "4",
             "player": "Victor Burghi",
+            "winrate": 0.6,
             "commander": [
                 "Raised by Giants",
                 "Gut, True Soul Zealot"
@@ -380,9 +388,5 @@
                 "4 Mountain"
             ]
         }
-    ],
-    "name": "TNDC \"All Saints' Day\"",
-    "place": "Caverna do Dragão (Santos, Brasil)",
-    "players": "15 players",
-    "date": "01/11/22"
+    ]
 }

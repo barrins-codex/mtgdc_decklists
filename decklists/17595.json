@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "17595",
+    "name": "FNM Hiveworld Cologne",
+    "place": "",
+    "players": "12 players",
+    "date": "17/11/17",
     "decks": [
         {
             "deck_id": "309023",
             "rank": "1",
             "player": "Alexander Schmoll",
+            "winrate": 1.0,
             "commander": [
                 "Karlov of the Ghost Council"
             ],
@@ -109,6 +114,7 @@
             "deck_id": "309024",
             "rank": "2",
             "player": "Ralph \"ralle\" Esser",
+            "winrate": 0.8,
             "commander": [
                 "Venser, Shaper Savant"
             ],
@@ -180,9 +186,5 @@
                 "1 Fact or Fiction"
             ]
         }
-    ],
-    "name": "FNM Hiveworld Cologne",
-    "place": "",
-    "players": "12 players",
-    "date": "17/11/17"
+    ]
 }

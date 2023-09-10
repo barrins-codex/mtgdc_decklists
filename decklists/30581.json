@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "30581",
+    "name": "RJ Cup 2021 #16",
+    "place": "League Castle (Mong Kok, Hong Kong)",
+    "players": "8 players",
+    "date": "01/05/21",
     "decks": [
         {
             "deck_id": "438510",
             "rank": "1",
             "player": "Wilson Lai",
+            "winrate": 1.0,
             "commander": [
                 "Aminatou, the Fateshifter",
                 "Aminatou, the Fateshifter"
@@ -161,6 +166,7 @@
             "deck_id": "438511",
             "rank": "2",
             "player": "Jason Lam",
+            "winrate": 0.6666666666666666,
             "commander": [
                 "Fynn, the Fangbearer"
             ],
@@ -249,9 +255,5 @@
                 "18 Snow-Covered Forest"
             ]
         }
-    ],
-    "name": "RJ Cup 2021 #16",
-    "place": "League Castle (Mong Kok, Hong Kong)",
-    "players": "8 players",
-    "date": "01/05/21"
+    ]
 }

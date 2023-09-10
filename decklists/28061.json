@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "28061",
+    "name": "RJ Cup",
+    "place": "League Castle (Mong Kok, Hong Kong)",
+    "players": "9 players",
+    "date": "07/11/20",
     "decks": [
         {
             "deck_id": "422405",
             "rank": "1",
             "player": "Wong Man Lok",
+            "winrate": 1.0,
             "commander": [
                 "Kinnan, Bonder Prodigy"
             ],
@@ -110,6 +115,7 @@
             "deck_id": "422408",
             "rank": "2",
             "player": "Christopher Tong",
+            "winrate": 0.8,
             "commander": [
                 "Kraum, Ludevic's Opus",
                 "Ludevic, Necro-Alchemist"
@@ -204,9 +210,5 @@
                 "9 Island"
             ]
         }
-    ],
-    "name": "RJ Cup",
-    "place": "League Castle (Mong Kok, Hong Kong)",
-    "players": "9 players",
-    "date": "07/11/20"
+    ]
 }

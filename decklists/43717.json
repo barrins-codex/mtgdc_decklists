@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "43717",
+    "name": "DC",
+    "place": "Manabolt (Limeira, Brazil)",
+    "players": "10 players",
+    "date": "22/04/23",
     "decks": [
         {
             "deck_id": "522786",
             "rank": "1",
             "player": "Pedro Bianchi",
+            "winrate": 1.0,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -111,6 +116,7 @@
             "deck_id": "522787",
             "rank": "2",
             "player": "Conja",
+            "winrate": 0.8,
             "commander": [
                 "Light-Paws, Emperor's Voice"
             ],
@@ -197,6 +203,7 @@
             "deck_id": "522788",
             "rank": "3",
             "player": "Victor Marques",
+            "winrate": 0.6,
             "commander": [
                 "Dihada, Binder of Wills"
             ],
@@ -306,6 +313,7 @@
             "deck_id": "522789",
             "rank": "4",
             "player": "Ravi Zornig",
+            "winrate": 0.6,
             "commander": [
                 "Grist, the Hunger Tide"
             ],
@@ -400,9 +408,5 @@
                 "1 Abrupt Decay"
             ]
         }
-    ],
-    "name": "DC",
-    "place": "Manabolt (Limeira, Brazil)",
-    "players": "10 players",
-    "date": "22/04/23"
+    ]
 }

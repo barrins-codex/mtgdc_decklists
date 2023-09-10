@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "33255",
+    "name": "Duel Commander Weekly",
+    "place": "Mana Underground (Lagro, Philippines)",
+    "players": "9 players",
+    "date": "06/11/21",
     "decks": [
         {
             "deck_id": "453941",
             "rank": "1",
             "player": "Shaq Pecaoco",
+            "winrate": 1.0,
             "commander": [
                 "Sythis, Harvest's Hand"
             ],
@@ -107,6 +112,7 @@
             "deck_id": "453942",
             "rank": "2",
             "player": "Rein Eypee",
+            "winrate": 0.8,
             "commander": [
                 "Isamaru, Hound of Konda"
             ],
@@ -186,9 +192,5 @@
                 "1 Umezawa's Jitte"
             ]
         }
-    ],
-    "name": "Duel Commander Weekly",
-    "place": "Mana Underground (Lagro, Philippines)",
-    "players": "9 players",
-    "date": "06/11/21"
+    ]
 }

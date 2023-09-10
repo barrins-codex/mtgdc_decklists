@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "41266",
+    "name": "TNDC \"Safer Internet Day\"",
+    "place": "Bolovo Games (Santos, Brasil)",
+    "players": "13 players",
+    "date": "07/02/23",
     "decks": [
         {
             "deck_id": "506624",
             "rank": "1",
             "player": "Victor Burghi",
+            "winrate": 1.0,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -115,6 +120,7 @@
             "deck_id": "506625",
             "rank": "2",
             "player": "Leonardo Maeda",
+            "winrate": 0.8,
             "commander": [
                 "Minsc, Beloved Ranger"
             ],
@@ -221,6 +227,7 @@
             "deck_id": "506626",
             "rank": "3",
             "player": "Felipe Batista",
+            "winrate": 0.6,
             "commander": [
                 "Will Kenrith",
                 "Rowan Kenrith"
@@ -306,6 +313,7 @@
             "deck_id": "506627",
             "rank": "4",
             "player": "Lucas Santos",
+            "winrate": 0.6,
             "commander": [
                 "Bruse Tarl, Boorish Herder",
                 "Yoshimaru, Ever Faithful"
@@ -405,9 +413,5 @@
                 "1 Zurgo Bellstriker"
             ]
         }
-    ],
-    "name": "TNDC \"Safer Internet Day\"",
-    "place": "Bolovo Games (Santos, Brasil)",
-    "players": "13 players",
-    "date": "07/02/23"
+    ]
 }

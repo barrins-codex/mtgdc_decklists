@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "37010",
+    "name": "Wool Cup 33½",
+    "place": "BigBan (Beijing,China)",
+    "players": "11 players",
+    "date": "26/06/22",
     "decks": [
         {
             "deck_id": "477967",
             "rank": "1",
             "player": "Kaichen Zhao",
+            "winrate": 1.0,
             "commander": [
                 "Dennick, Pious Apprentice"
             ],
@@ -103,9 +108,5 @@
                 "1 Batterskull"
             ]
         }
-    ],
-    "name": "Wool Cup 33½",
-    "place": "BigBan (Beijing,China)",
-    "players": "11 players",
-    "date": "26/06/22"
+    ]
 }

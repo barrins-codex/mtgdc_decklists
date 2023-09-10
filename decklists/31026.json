@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "31026",
+    "name": "1st Brew-League",
+    "place": "Leipzig (Germany)",
+    "players": "10 players",
+    "date": "07/06/21",
     "decks": [
         {
             "deck_id": "441421",
             "rank": "1",
             "player": "Jonas Jörns",
+            "winrate": 1.0,
             "commander": [
                 "Liliana, Heretical Healer"
             ],
@@ -94,6 +99,7 @@
             "deck_id": "441422",
             "rank": "2",
             "player": "Jonas Kretzschmar",
+            "winrate": 0.8,
             "commander": [
                 "Birgi, God of Storytelling"
             ],
@@ -182,9 +188,5 @@
                 "18 Snow-Covered Mountain"
             ]
         }
-    ],
-    "name": "1st Brew-League",
-    "place": "Leipzig (Germany)",
-    "players": "10 players",
-    "date": "07/06/21"
+    ]
 }

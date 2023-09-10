@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "40786",
+    "name": "WANTED Saison 6 #2",
+    "place": "Cartarennes (Rennes, France)",
+    "players": "21 players",
+    "date": "18/01/23",
     "decks": [
         {
             "deck_id": "503403",
             "rank": "1",
             "player": "Pablo Destrée",
+            "winrate": 1.0,
             "commander": [
                 "Bruse Tarl, Boorish Herder",
                 "Yoshimaru, Ever Faithful"
@@ -104,9 +109,5 @@
                 "1 Zurgo Bellstriker"
             ]
         }
-    ],
-    "name": "WANTED Saison 6 #2",
-    "place": "Cartarennes (Rennes, France)",
-    "players": "21 players",
-    "date": "18/01/23"
+    ]
 }

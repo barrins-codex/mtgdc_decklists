@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "4768",
+    "name": "EDH (Caen)",
+    "place": "",
+    "players": "22 players",
+    "date": "14/04/13",
     "decks": [
         {
             "deck_id": "227549",
             "rank": "1",
             "player": "Guillaume Louvel",
+            "winrate": 1.0,
             "commander": [
                 "Skullbriar, the Walking Grave"
             ],
@@ -110,6 +115,7 @@
             "deck_id": "227550",
             "rank": "2",
             "player": "Pierre-Henri \"KratosAurion\" François",
+            "winrate": 0.8,
             "commander": [
                 "Zur the Enchanter"
             ],
@@ -219,6 +225,7 @@
             "deck_id": "227551",
             "rank": "3",
             "player": "Jérôme Jouenne",
+            "winrate": 0.8,
             "commander": [
                 "Grand Arbiter Augustin IV"
             ],
@@ -318,6 +325,7 @@
             "deck_id": "227552",
             "rank": "4",
             "player": "Yan Lorente",
+            "winrate": 0.6,
             "commander": [
                 "Radha, Heir to Keld"
             ],
@@ -413,9 +421,5 @@
                 "1 Arid Mesa"
             ]
         }
-    ],
-    "name": "EDH (Caen)",
-    "place": "",
-    "players": "22 players",
-    "date": "14/04/13"
+    ]
 }

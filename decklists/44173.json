@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "44173",
+    "name": "TNDC \"Revolução dos Cravos\"",
+    "place": "Bolovo Games (Santos, Brasil)",
+    "players": "15 players",
+    "date": "25/04/23",
     "decks": [
         {
             "deck_id": "525999",
             "rank": "1",
             "player": "Fernando \"yprincipe\" Martin",
+            "winrate": 1.0,
             "commander": [
                 "Tana, the Bloodsower",
                 "Yoshimaru, Ever Faithful"
@@ -111,6 +116,7 @@
             "deck_id": "526000",
             "rank": "2",
             "player": "Orlando Bibiano",
+            "winrate": 0.8,
             "commander": [
                 "Goro-Goro and Satoru"
             ],
@@ -220,6 +226,7 @@
             "deck_id": "526001",
             "rank": "3",
             "player": "Thiago Saporito",
+            "winrate": 0.6,
             "commander": [
                 "Feldon, Ronom Excavator"
             ],
@@ -299,9 +306,5 @@
                 "1 Squee, Dubious Monarch"
             ]
         }
-    ],
-    "name": "TNDC \"Revolução dos Cravos\"",
-    "place": "Bolovo Games (Santos, Brasil)",
-    "players": "15 players",
-    "date": "25/04/23"
+    ]
 }

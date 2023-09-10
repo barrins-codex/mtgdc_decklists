@@ -1,6 +1,6 @@
 {
     "format": "Duel Commander",
-    "id": 46287,
+    "id": "46287",
     "name": "CartaRennes Duel Commander",
     "place": "CartaRennes (Rennes, France)",
     "players": "21 players",
@@ -8,6 +8,12 @@
     "decks": [
         {
             "deck_id": "541849",
+            "rank": "1",
+            "player": "Brieuc Evo",
+            "winrate": 1.0,
+            "commander": [
+                "Ertai Resurrected"
+            ],
             "decklist": [
                 "1 Archmage's Charm",
                 "1 Arcum's Astrolabe",
@@ -94,15 +100,16 @@
                 "1 Verdant Catacombs",
                 "1 Wash Away",
                 "1 Watery Grave"
-            ],
-            "commander": [
-                "Ertai Resurrected"
-            ],
-            "rank": "1",
-            "player": "Brieuc Evo"
+            ]
         },
         {
             "deck_id": "541850",
+            "rank": "2",
+            "player": "Léon Le Loir",
+            "winrate": 0.8,
+            "commander": [
+                "Nissa, Resurgent Animist"
+            ],
             "decklist": [
                 "1 Finale of Devastation",
                 "1 Green Sun's Twilight",
@@ -185,12 +192,7 @@
                 "1 Temple of the False God",
                 "1 Terramorphic Expanse",
                 "19 Snow-Covered Forest"
-            ],
-            "commander": [
-                "Nissa, Resurgent Animist"
-            ],
-            "rank": "2",
-            "player": "Léon Le Loir"
+            ]
         }
     ]
 }

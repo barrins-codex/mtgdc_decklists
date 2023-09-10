@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "7049",
+    "name": "Duel Commander League - Nueve Titanes (Temuco, Chile)",
+    "place": "",
+    "players": "0 players",
+    "date": "06/04/14",
     "decks": [
         {
             "deck_id": "240531",
             "rank": "1",
             "player": "Miguel Araya",
+            "winrate": 1.0,
             "commander": [
                 "Geist of Saint Traft"
             ],
@@ -106,6 +111,7 @@
             "deck_id": "240532",
             "rank": "2",
             "player": "Carlos Vega",
+            "winrate": 0.6666666666666666,
             "commander": [
                 "Prossh, Skyraider of Kher"
             ],
@@ -202,6 +208,7 @@
             "deck_id": "240533",
             "rank": "3-4",
             "player": "Carlos Fuentes",
+            "winrate": 0.3333333333333333,
             "commander": [
                 "Oloro, Ageless Ascetic"
             ],
@@ -309,6 +316,7 @@
             "deck_id": "240534",
             "rank": "3-4",
             "player": "Nicolas Gutierrez",
+            "winrate": 0.3333333333333333,
             "commander": [
                 "Rafiq of the Many"
             ],
@@ -407,9 +415,5 @@
                 "1 Unknown Card"
             ]
         }
-    ],
-    "name": "Duel Commander League - Nueve Titanes (Temuco, Chile)",
-    "place": "",
-    "players": "",
-    "date": "06/04/14"
+    ]
 }

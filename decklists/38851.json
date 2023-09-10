@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "38851",
+    "name": "FNM",
+    "place": "City Comics (Leipzig, Germany)",
+    "players": "12 players",
+    "date": "13/10/22",
     "decks": [
         {
             "deck_id": "489895",
             "rank": "1",
             "player": "Eik The Necromancer",
+            "winrate": 1.0,
             "commander": [
                 "Malcolm, Keen-Eyed Navigator",
                 "Yoshimaru, Ever Faithful"
@@ -108,6 +113,7 @@
             "deck_id": "489896",
             "rank": "2",
             "player": "Jonas Kretzschmar",
+            "winrate": 0.8,
             "commander": [
                 "Dennick, Pious Apprentice"
             ],
@@ -206,9 +212,5 @@
                 "1 Windswept Heath"
             ]
         }
-    ],
-    "name": "FNM",
-    "place": "City Comics (Leipzig, Germany)",
-    "players": "12 players",
-    "date": "13/10/22"
+    ]
 }

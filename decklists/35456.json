@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "35456",
+    "name": "DC",
+    "place": "Tapped Games (Marikina City, Philippines)",
+    "players": "10 players",
+    "date": "26/03/22",
     "decks": [
         {
             "deck_id": "467775",
             "rank": "1",
             "player": "Dinno Zaide",
+            "winrate": 1.0,
             "commander": [
                 "Ludevic, Necro-Alchemist",
                 "Jeska, Thrice Reborn"
@@ -102,6 +107,7 @@
             "deck_id": "467776",
             "rank": "2",
             "player": "Iverson Wayne Bulauan",
+            "winrate": 0.8,
             "commander": [
                 "Queen Marchesa"
             ],
@@ -208,6 +214,7 @@
             "deck_id": "467777",
             "rank": "3-4",
             "player": "Christian Agbon",
+            "winrate": 0.6,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -296,6 +303,7 @@
             "deck_id": "467778",
             "rank": "3-4",
             "player": "Aerwin Asico",
+            "winrate": 0.6,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -372,9 +380,5 @@
                 "1 Zurgo Bellstriker"
             ]
         }
-    ],
-    "name": "DC",
-    "place": "Tapped Games (Marikina City, Philippines)",
-    "players": "10 players",
-    "date": "26/03/22"
+    ]
 }

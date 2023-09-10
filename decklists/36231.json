@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "36231",
+    "name": "12th Duel-League",
+    "place": "Leipzig (Germany)",
+    "players": "10 players",
+    "date": "09/05/22",
     "decks": [
         {
             "deck_id": "472666",
             "rank": "4",
             "player": "Jonas Kretzschmar",
+            "winrate": 0.6,
             "commander": [
                 "Light-Paws, Emperor's Voice"
             ],
@@ -91,6 +96,7 @@
             "deck_id": "472667",
             "rank": "4",
             "player": "Philipp Löber",
+            "winrate": 0.6,
             "commander": [
                 "Grazilaxx, Illithid Scholar"
             ],
@@ -175,6 +181,7 @@
             "deck_id": "472668",
             "rank": "4",
             "player": "Sebastian Kött",
+            "winrate": 0.6,
             "commander": [
                 "Niambi, Esteemed Speaker"
             ],
@@ -279,6 +286,7 @@
             "deck_id": "472669",
             "rank": "4",
             "player": "Henryk Hecht",
+            "winrate": 0.6,
             "commander": [
                 "Sythis, Harvest's Hand"
             ],
@@ -378,9 +386,5 @@
                 "1 Yavimaya, Cradle of Growth"
             ]
         }
-    ],
-    "name": "12th Duel-League",
-    "place": "Leipzig (Germany)",
-    "players": "10 players",
-    "date": "09/05/22"
+    ]
 }

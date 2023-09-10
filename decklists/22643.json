@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "22643",
+    "name": "LGS DC Event",
+    "place": "Montpellier (France)",
+    "players": "11 players",
+    "date": "25/07/19",
     "decks": [
         {
             "deck_id": "354503",
             "rank": "1",
             "player": "Lucas M.",
+            "winrate": 1.0,
             "commander": [
                 "Ezuri, Renegade Leader"
             ],
@@ -94,6 +99,7 @@
             "deck_id": "354504",
             "rank": "2",
             "player": "Jérémie A.",
+            "winrate": 0.8,
             "commander": [
                 "Brago, King Eternal"
             ],
@@ -179,9 +185,5 @@
                 "1 Council's Judgment"
             ]
         }
-    ],
-    "name": "LGS DC Event",
-    "place": "Montpellier (France)",
-    "players": "11 players",
-    "date": "25/07/19"
+    ]
 }

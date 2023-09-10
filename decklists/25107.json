@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "25107",
+    "name": "Combat COVID-19 Boredom FNM #3",
+    "place": "Online",
+    "players": "12 players",
+    "date": "03/04/20",
     "decks": [
         {
             "deck_id": "376069",
             "rank": "1",
             "player": "Bitzelberg",
+            "winrate": 1.0,
             "commander": [
                 "Kraum, Ludevic's Opus",
                 "Ludevic, Necro-Alchemist"
@@ -97,6 +102,7 @@
             "deck_id": "376070",
             "rank": "2",
             "player": "Imperfekt",
+            "winrate": 0.8,
             "commander": [
                 "Uro, Titan of Nature's Wrath"
             ],
@@ -201,6 +207,7 @@
             "deck_id": "376071",
             "rank": "3",
             "player": "Donmartino",
+            "winrate": 0.6,
             "commander": [
                 "Kenrith, the Returned King"
             ],
@@ -310,6 +317,7 @@
             "deck_id": "376072",
             "rank": "4",
             "player": "Sebastian \"qkey\" Haines",
+            "winrate": 0.6,
             "commander": [
                 "Leovold, Emissary of Trest"
             ],
@@ -415,9 +423,5 @@
                 "1 Daze"
             ]
         }
-    ],
-    "name": "Combat COVID-19 Boredom FNM #3",
-    "place": "Online",
-    "players": "12 players",
-    "date": "03/04/20"
+    ]
 }

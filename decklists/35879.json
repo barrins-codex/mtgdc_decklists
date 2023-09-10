@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "35879",
+    "name": "WANTED Saison 3 #8",
+    "place": "CartaRennes (Rennes, France)",
+    "players": "19 players",
+    "date": "13/04/22",
     "decks": [
         {
             "deck_id": "470445",
             "rank": "1",
             "player": "Thibaud Boivin",
+            "winrate": 1.0,
             "commander": [
                 "Sythis, Harvest's Hand"
             ],
@@ -104,9 +109,5 @@
                 "1 Yavimaya, Cradle of Growth"
             ]
         }
-    ],
-    "name": "WANTED Saison 3 #8",
-    "place": "CartaRennes (Rennes, France)",
-    "players": "19 players",
-    "date": "13/04/22"
+    ]
 }

@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "23867",
+    "name": "FNM Hiveworld",
+    "place": "Cologne (Germany)",
+    "players": "10 players",
+    "date": "29/11/19",
     "decks": [
         {
             "deck_id": "366006",
             "rank": "1",
             "player": "Björn H",
+            "winrate": 1.0,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -115,6 +120,7 @@
             "deck_id": "366007",
             "rank": "2",
             "player": "Lukas E",
+            "winrate": 0.8,
             "commander": [
                 "Tymna the Weaver",
                 "Ravos, Soultender"
@@ -208,9 +214,5 @@
                 "1 Adanto Vanguard"
             ]
         }
-    ],
-    "name": "FNM Hiveworld",
-    "place": "Cologne (Germany)",
-    "players": "10 players",
-    "date": "29/11/19"
+    ]
 }

@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "5554",
+    "name": "Win-a-box",
+    "place": "MC (Paris)",
+    "players": "26 players",
+    "date": "24/08/13",
     "decks": [
         {
             "deck_id": "232139",
             "rank": "1",
             "player": "Enki \"Enkibye\" Londe",
+            "winrate": 1.0,
             "commander": [
                 "Azusa, Lost but Seeking"
             ],
@@ -101,6 +106,7 @@
             "deck_id": "232140",
             "rank": "2",
             "player": "Maxence Achoun",
+            "winrate": 0.8,
             "commander": [
                 "Geist of Saint Traft"
             ],
@@ -197,6 +203,7 @@
             "deck_id": "232141",
             "rank": "3",
             "player": "Yoann Robillon",
+            "winrate": 0.8,
             "commander": [
                 "Olivia Voldaren"
             ],
@@ -288,6 +295,7 @@
             "deck_id": "232142",
             "rank": "4",
             "player": "Geoffrey Cochin",
+            "winrate": 0.8,
             "commander": [
                 "Ruhan of the Fomori"
             ],
@@ -393,6 +401,7 @@
             "deck_id": "232143",
             "rank": "5",
             "player": "Laurent Fort-Royal",
+            "winrate": 0.6,
             "commander": [
                 "The Mimeoplasm"
             ],
@@ -495,9 +504,5 @@
                 "1 Survival of the Fittest"
             ]
         }
-    ],
-    "name": "Win-a-box",
-    "place": "MC (Paris)",
-    "players": "26 players",
-    "date": "24/08/13"
+    ]
 }

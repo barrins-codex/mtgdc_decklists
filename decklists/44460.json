@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "44460",
+    "name": "Event",
+    "place": "Wonderlandes (Dax, France)",
+    "players": "9 players",
+    "date": "21/05/23",
     "decks": [
         {
             "deck_id": "527916",
             "rank": "1",
             "player": "Mathieu Clavé",
+            "winrate": 1.0,
             "commander": [
                 "Dihada, Binder of Wills"
             ],
@@ -115,6 +120,7 @@
             "deck_id": "527917",
             "rank": "2",
             "player": "Nicolas Soulé",
+            "winrate": 0.8,
             "commander": [
                 "Ludevic, Necro-Alchemist",
                 "Yoshimaru, Ever Faithful"
@@ -220,9 +226,5 @@
                 "1 Gold-Forged Thopteryx"
             ]
         }
-    ],
-    "name": "Event",
-    "place": "Wonderlandes (Dax, France)",
-    "players": "9 players",
-    "date": "21/05/23"
+    ]
 }

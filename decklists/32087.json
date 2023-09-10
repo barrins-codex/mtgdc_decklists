@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "32087",
+    "name": "DC Weekly PM Pod",
+    "place": "Mana Underground (Lagro, Philippines)",
+    "players": "11 players",
+    "date": "22/08/21",
     "decks": [
         {
             "deck_id": "447423",
             "rank": "1",
             "player": "Jarbs Sahagun",
+            "winrate": 1.0,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -115,6 +120,7 @@
             "deck_id": "447424",
             "rank": "2",
             "player": "Ste Villaraza",
+            "winrate": 0.8,
             "commander": [
                 "Tevesh Szat, Doom of Fools",
                 "Malcolm, Keen-Eyed Navigator"
@@ -211,9 +217,5 @@
                 "7 Snow-Covered Island"
             ]
         }
-    ],
-    "name": "DC Weekly PM Pod",
-    "place": "Mana Underground (Lagro, Philippines)",
-    "players": "11 players",
-    "date": "22/08/21"
+    ]
 }

@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "34923",
+    "name": "Tournoi DC",
+    "place": "Arena jeu (Orange, France)",
+    "players": "21 players",
+    "date": "25/02/22",
     "decks": [
         {
             "deck_id": "464205",
             "rank": "1",
             "player": "Fabien Martinez",
+            "winrate": 1.0,
             "commander": [
                 "Kenrith, the Returned King"
             ],
@@ -115,6 +120,7 @@
             "deck_id": "464206",
             "rank": "2",
             "player": "Alexandre Martial",
+            "winrate": 0.8,
             "commander": [
                 "Niv-Mizzet Reborn"
             ],
@@ -220,9 +226,5 @@
                 "1 Sundown Pass"
             ]
         }
-    ],
-    "name": "Tournoi DC",
-    "place": "Arena jeu (Orange, France)",
-    "players": "21 players",
-    "date": "25/02/22"
+    ]
 }

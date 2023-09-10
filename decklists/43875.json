@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "43875",
+    "name": "Open Qualifier DC",
+    "place": "Mulligan (Pisany , France)",
+    "players": "42 players",
+    "date": "30/04/23",
     "decks": [
         {
             "deck_id": "523823",
             "rank": "1",
             "player": "Bournizien Alexandre",
+            "winrate": 0.8888888888888888,
             "commander": [
                 "Dihada, Binder of Wills"
             ],
@@ -115,6 +120,7 @@
             "deck_id": "523824",
             "rank": "2",
             "player": "Tournade Florent",
+            "winrate": 0.7777777777777778,
             "commander": [
                 "Bruse Tarl, Boorish Herder",
                 "Yoshimaru, Ever Faithful"
@@ -217,6 +223,7 @@
             "deck_id": "523825",
             "rank": "3",
             "player": "Coraboeuf Steve",
+            "winrate": 0.75,
             "commander": [
                 "Dihada, Binder of Wills"
             ],
@@ -326,6 +333,7 @@
             "deck_id": "523826",
             "rank": "4",
             "player": "Berthe Ambroise",
+            "winrate": 0.75,
             "commander": [
                 "Atraxa, Grand Unifier"
             ],
@@ -428,6 +436,7 @@
             "deck_id": "523827",
             "rank": "5",
             "player": "Bizon Jordan",
+            "winrate": 0.75,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -537,6 +546,7 @@
             "deck_id": "523828",
             "rank": "6",
             "player": "Rigolet Alexis",
+            "winrate": 0.75,
             "commander": [
                 "Feldon, Ronom Excavator"
             ],
@@ -617,6 +627,7 @@
             "deck_id": "523829",
             "rank": "7",
             "player": "Théodore Quentin",
+            "winrate": 0.75,
             "commander": [
                 "The Ur-Dragon"
             ],
@@ -725,7 +736,8 @@
         {
             "deck_id": "523830",
             "rank": "8",
-            "player": "Marchadier Anthony ",
+            "player": "Marchadier Anthony",
+            "winrate": 0.75,
             "commander": [
                 "Goro-Goro and Satoru"
             ],
@@ -830,9 +842,5 @@
                 "2 Mountain"
             ]
         }
-    ],
-    "name": "Open Qualifier DC",
-    "place": "Mulligan (Pisany , France)",
-    "players": "42 players",
-    "date": "30/04/23"
+    ]
 }

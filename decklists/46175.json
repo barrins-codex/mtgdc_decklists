@@ -1,6 +1,6 @@
 {
     "format": "Duel Commander",
-    "id": 46175,
+    "id": "46175",
     "name": "Wool Cup 71",
     "place": "Kadou (Beijing, China)",
     "players": "30 players",
@@ -8,6 +8,12 @@
     "decks": [
         {
             "deck_id": "541115",
+            "rank": "1",
+            "player": "Ceyao Duan",
+            "winrate": 1.0,
+            "commander": [
+                "Cormela, Glamour Thief"
+            ],
             "decklist": [
                 "1 Pact of Negation",
                 "1 Occult Epiphany",
@@ -108,15 +114,16 @@
                 "1 Scalding Tarn",
                 "1 Shipwreck Marsh",
                 "1 Shivan Reef"
-            ],
-            "commander": [
-                "Cormela, Glamour Thief"
-            ],
-            "rank": "1",
-            "player": "Ceyao Duan"
+            ]
         },
         {
             "deck_id": "541116",
+            "rank": "2",
+            "player": "Yuchen Yang",
+            "winrate": 0.8,
+            "commander": [
+                "Atraxa, Grand Unifier"
+            ],
             "decklist": [
                 "1 Abrupt Decay",
                 "1 Arcane Signet",
@@ -217,15 +224,16 @@
                 "1 Windswept Heath",
                 "1 Wooded Foothills",
                 "1 Zagoth Triome"
-            ],
-            "commander": [
-                "Atraxa, Grand Unifier"
-            ],
-            "rank": "2",
-            "player": "Yuchen Yang"
+            ]
         },
         {
             "deck_id": "541117",
+            "rank": "3",
+            "player": "Yixuan Gao",
+            "winrate": 0.8,
+            "commander": [
+                "Aminatou, the Fateshifter"
+            ],
             "decklist": [
                 "1 Adarkar Wastes",
                 "1 Agent of Treachery",
@@ -326,15 +334,16 @@
                 "1 Wash Away",
                 "1 Watery Grave",
                 "1 Windswept Heath"
-            ],
-            "commander": [
-                "Aminatou, the Fateshifter"
-            ],
-            "rank": "3",
-            "player": "Yixuan Gao"
+            ]
         },
         {
             "deck_id": "541118",
+            "rank": "4",
+            "player": "Guanglei Li",
+            "winrate": 0.8,
+            "commander": [
+                "Feldon, Ronom Excavator"
+            ],
             "decklist": [
                 "1 Ahn-Crop Crasher",
                 "1 Arc Trail",
@@ -410,12 +419,7 @@
                 "1 War Room",
                 "1 Wild Slash",
                 "1 Zurgo Bellstriker"
-            ],
-            "commander": [
-                "Feldon, Ronom Excavator"
-            ],
-            "rank": "4",
-            "player": "Guanglei Li"
+            ]
         }
     ]
 }

@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "19002",
+    "name": "Regran Duel Commander Tournament (Philippines)",
+    "place": "",
+    "players": "15 players",
+    "date": "15/04/18",
     "decks": [
         {
             "deck_id": "319525",
             "rank": "1",
             "player": "Neo Ireneo",
+            "winrate": 1.0,
             "commander": [
                 "Yisan, the Wanderer Bard"
             ],
@@ -92,6 +97,7 @@
             "deck_id": "319526",
             "rank": "2",
             "player": "Louie Siongco",
+            "winrate": 0.8,
             "commander": [
                 "Yisan, the Wanderer Bard"
             ],
@@ -176,9 +182,5 @@
                 "1 Worldly Tutor"
             ]
         }
-    ],
-    "name": "Regran Duel Commander Tournament (Philippines)",
-    "place": "",
-    "players": "15 players",
-    "date": "15/04/18"
+    ]
 }

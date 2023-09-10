@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "33780",
+    "name": "RJ Cup 2021 #45",
+    "place": "League Castle (Mong Kok, Hong Kong)",
+    "players": "10 players",
+    "date": "11/12/21",
     "decks": [
         {
             "deck_id": "457390",
             "rank": "1",
             "player": "Chung Tang",
+            "winrate": 1.0,
             "commander": [
                 "Kraum, Ludevic's Opus",
                 "Malcolm, Keen-Eyed Navigator"
@@ -103,6 +108,7 @@
             "deck_id": "457391",
             "rank": "2",
             "player": "Lap Chung Cheung",
+            "winrate": 0.8,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -208,9 +214,5 @@
                 "1 Wishclaw Talisman"
             ]
         }
-    ],
-    "name": "RJ Cup 2021 #45",
-    "place": "League Castle (Mong Kok, Hong Kong)",
-    "players": "10 players",
-    "date": "11/12/21"
+    ]
 }

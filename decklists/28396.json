@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "28396",
+    "name": "ZAM Online Weekly",
+    "place": "Cockatrice x Discord",
+    "players": "8 players",
+    "date": "03/12/20",
     "decks": [
         {
             "deck_id": "424664",
             "rank": "1",
             "player": "\"trousses\"",
+            "winrate": 1.0,
             "commander": [
                 "Jeska, Thrice Reborn",
                 "Reyhan, Last of the Abzan"
@@ -115,6 +120,7 @@
             "deck_id": "424665",
             "rank": "2",
             "player": "\"captainflamflam\"",
+            "winrate": 0.6666666666666666,
             "commander": [
                 "Rograkh, Son of Rohgahh",
                 "Keleth, Sunmane Familiar"
@@ -209,9 +215,5 @@
                 "8 Snow-Covered Plains"
             ]
         }
-    ],
-    "name": "ZAM Online Weekly",
-    "place": "Cockatrice x Discord",
-    "players": "8 players",
-    "date": "03/12/20"
+    ]
 }

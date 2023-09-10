@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "12904",
+    "name": "Beijing 3531 Cup - 2nd",
+    "place": "",
+    "players": "8 players",
+    "date": "15/05/16",
     "decks": [
         {
             "deck_id": "275089",
             "rank": "1",
             "player": "Yuan Luyang",
+            "winrate": 1.0,
             "commander": [
                 "Wydwen, the Biting Gale"
             ],
@@ -102,6 +107,7 @@
             "deck_id": "275090",
             "rank": "2",
             "player": "Yang Jinlin",
+            "winrate": 0.6666666666666666,
             "commander": [
                 "Sidisi, Undead Vizier"
             ],
@@ -184,9 +190,5 @@
                 "1 Murderous Cut"
             ]
         }
-    ],
-    "name": "Beijing 3531 Cup - 2nd",
-    "place": "",
-    "players": "8 players",
-    "date": "15/05/16"
+    ]
 }

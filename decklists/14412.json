@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "14412",
+    "name": "Jsst (Nice) Tournoi Mensuel",
+    "place": "",
+    "players": "10 players",
+    "date": "06/01/17",
     "decks": [
         {
             "deck_id": "286217",
             "rank": "1",
             "player": "kevin",
+            "winrate": 1.0,
             "commander": [
                 "Sidisi, Brood Tyrant"
             ],
@@ -106,9 +111,5 @@
                 "4 Forest"
             ]
         }
-    ],
-    "name": "Jsst (Nice) Tournoi Mensuel",
-    "place": "",
-    "players": "10 players",
-    "date": "06/01/17"
+    ]
 }

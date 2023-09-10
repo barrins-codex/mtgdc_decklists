@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "44810",
+    "name": "Blood Moon Los Losos",
+    "place": "České Budějovice (Czech Republic)",
+    "players": "15 players",
+    "date": "06/05/23",
     "decks": [
         {
             "deck_id": "530440",
             "rank": "1",
             "player": "Michal Matouek",
+            "winrate": 1.0,
             "commander": [
                 "Light-Paws, Emperor's Voice"
             ],
@@ -88,6 +93,7 @@
             "deck_id": "530441",
             "rank": "2",
             "player": "Jindřich Petr",
+            "winrate": 0.8,
             "commander": [
                 "Sythis, Harvest's Hand"
             ],
@@ -187,6 +193,7 @@
             "deck_id": "530442",
             "rank": "3-4",
             "player": "Ivan Kratochvíl",
+            "winrate": 0.6,
             "commander": [
                 "Ghyrson Starn, Kelermorph"
             ],
@@ -288,6 +295,7 @@
             "deck_id": "530443",
             "rank": "3-4",
             "player": "Michal Mendl",
+            "winrate": 0.6,
             "commander": [
                 "Soul of Windgrace"
             ],
@@ -392,9 +400,5 @@
                 "1 Wrenn and Six"
             ]
         }
-    ],
-    "name": "Blood Moon Los Losos",
-    "place": "České Budějovice (Czech Republic)",
-    "players": "15 players",
-    "date": "06/05/23"
+    ]
 }

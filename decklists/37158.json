@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "37158",
+    "name": "WANTED Saison 4 #7",
+    "place": "CartaRennes (Rennes, France)",
+    "players": "19 players",
+    "date": "06/07/22",
     "decks": [
         {
             "deck_id": "478915",
             "rank": "1",
             "player": "Charlie Delabrousse",
+            "winrate": 1.0,
             "commander": [
                 "Grenzo, Dungeon Warden"
             ],
@@ -108,6 +113,7 @@
             "deck_id": "478916",
             "rank": "2",
             "player": "Léon Le Loir",
+            "winrate": 0.8,
             "commander": [
                 "Jegantha, the Wellspring",
                 "Niv-Mizzet Reborn"
@@ -214,9 +220,5 @@
                 "1 Zagoth Triome"
             ]
         }
-    ],
-    "name": "WANTED Saison 4 #7",
-    "place": "CartaRennes (Rennes, France)",
-    "players": "19 players",
-    "date": "06/07/22"
+    ]
 }

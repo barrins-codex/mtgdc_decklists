@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "10992",
+    "name": "Duel Commander",
+    "place": "Carta'Jeu (Lyon)",
+    "players": "16 players",
+    "date": "16/08/15",
     "decks": [
         {
             "deck_id": "262569",
             "rank": "1",
             "player": "Cesidio V.",
+            "winrate": 1.0,
             "commander": [
                 "Daretti, Scrap Savant"
             ],
@@ -83,9 +88,5 @@
                 "29 Mountain"
             ]
         }
-    ],
-    "name": "Duel Commander",
-    "place": "Carta'Jeu (Lyon)",
-    "players": "16 players",
-    "date": "16/08/15"
+    ]
 }

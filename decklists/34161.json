@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "34161",
+    "name": "BL-DC Cup",
+    "place": "Basic Land (Mong Kok, Hong Kong)",
+    "players": "8 players",
+    "date": "09/01/22",
     "decks": [
         {
             "deck_id": "459711",
             "rank": "1",
             "player": "Chi Hang Lai",
+            "winrate": 1.0,
             "commander": [
                 "Livio, Oathsworn Sentinel",
                 "Malcolm, Keen-Eyed Navigator"
@@ -103,9 +108,5 @@
                 "1 Flooded Strand"
             ]
         }
-    ],
-    "name": "BL-DC Cup",
-    "place": "Basic Land (Mong Kok, Hong Kong)",
-    "players": "8 players",
-    "date": "09/01/22"
+    ]
 }

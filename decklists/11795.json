@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "11795",
+    "name": "Tolarie.cz - Duel Commander",
+    "place": "",
+    "players": "12 players",
+    "date": "27/02/16",
     "decks": [
         {
             "deck_id": "267376",
             "rank": "1",
             "player": "Jakub Havelka",
+            "winrate": 1.0,
             "commander": [
                 "Marath, Will of the Wild"
             ],
@@ -109,6 +114,7 @@
             "deck_id": "267377",
             "rank": "2",
             "player": "Daniel Øíha",
+            "winrate": 0.8,
             "commander": [
                 "Tasigur, the Golden Fang"
             ],
@@ -213,9 +219,5 @@
                 "1 Brainstorm"
             ]
         }
-    ],
-    "name": "Tolarie.cz - Duel Commander",
-    "place": "",
-    "players": "12 players",
-    "date": "27/02/16"
+    ]
 }

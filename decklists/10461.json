@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "10461",
+    "name": "25th \"New Year Cake\" Cup (Shanghai)",
+    "place": "",
+    "players": "13 players",
+    "date": "22/08/15",
     "decks": [
         {
             "deck_id": "259860",
             "rank": "1",
             "player": "Pan Yude",
+            "winrate": 1.0,
             "commander": [
                 "Captain Sisay"
             ],
@@ -110,6 +115,7 @@
             "deck_id": "259861",
             "rank": "2",
             "player": "Yao Yao",
+            "winrate": 0.8,
             "commander": [
                 "Tasigur, the Golden Fang"
             ],
@@ -215,9 +221,5 @@
                 "1 Lonely Sandbar"
             ]
         }
-    ],
-    "name": "25th \"New Year Cake\" Cup (Shanghai)",
-    "place": "",
-    "players": "13 players",
-    "date": "22/08/15"
+    ]
 }

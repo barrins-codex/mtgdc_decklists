@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "29872",
+    "name": "CL - Invitational 1",
+    "place": "Discord / Cockatrice / Twitch",
+    "players": "8 players",
+    "date": "28/03/21",
     "decks": [
         {
             "deck_id": "434279",
             "rank": "1",
             "player": "Korn411",
+            "winrate": 1.0,
             "commander": [
                 "Emmara, Soul of the Accord"
             ],
@@ -104,6 +109,7 @@
             "deck_id": "434280",
             "rank": "2",
             "player": "Teepex",
+            "winrate": 0.6666666666666666,
             "commander": [
                 "Kess, Dissident Mage"
             ],
@@ -213,6 +219,7 @@
             "deck_id": "434281",
             "rank": "3",
             "player": "Onesauk",
+            "winrate": 0.6666666666666666,
             "commander": [
                 "Keleth, Sunmane Familiar",
                 "Rograkh, Son of Rohgahh"
@@ -312,6 +319,7 @@
             "deck_id": "434282",
             "rank": "4",
             "player": "Matxicoatl",
+            "winrate": 0.6666666666666666,
             "commander": [
                 "Winota, Joiner of Forces"
             ],
@@ -404,9 +412,5 @@
                 "1 Zurgo Bellstriker"
             ]
         }
-    ],
-    "name": "CL - Invitational 1",
-    "place": "Discord / Cockatrice / Twitch",
-    "players": "8 players",
-    "date": "28/03/21"
+    ]
 }

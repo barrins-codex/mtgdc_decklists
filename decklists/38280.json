@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "38280",
+    "name": "DC REM",
+    "place": "Le Vizz (Rouen)",
+    "players": "8 players",
+    "date": "04/09/22",
     "decks": [
         {
             "deck_id": "486148",
             "rank": "1",
             "player": "Nurbey « Agrian » Cerkezoglu",
+            "winrate": 1.0,
             "commander": [
                 "Svyelun of Sea and Sky"
             ],
@@ -91,6 +96,7 @@
             "deck_id": "486149",
             "rank": "2",
             "player": "Idris Achouri",
+            "winrate": 0.6666666666666666,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -167,9 +173,5 @@
                 "1 Zurgo Bellstriker"
             ]
         }
-    ],
-    "name": "DC REM",
-    "place": "Le Vizz (Rouen)",
-    "players": "8 players",
-    "date": "04/09/22"
+    ]
 }

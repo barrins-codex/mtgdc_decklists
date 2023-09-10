@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "23952",
+    "name": "Trial Rennes",
+    "place": "Rennes",
+    "players": "30 players",
+    "date": "23/11/19",
     "decks": [
         {
             "deck_id": "366918",
             "rank": "2",
-            "player": " \tKevin Corbillé \"iceman44\"",
+            "player": "Kevin Corbillé \"iceman44\"",
+            "winrate": 0.8,
             "commander": [
                 "Emry, Lurker of the Loch"
             ],
@@ -91,6 +96,7 @@
             "deck_id": "366919",
             "rank": "2",
             "player": "Lionel Galliere \"hannibal44\"",
+            "winrate": 0.8,
             "commander": [
                 "Niv-Mizzet Reborn"
             ],
@@ -196,9 +202,5 @@
                 "1 Darkslick Shores"
             ]
         }
-    ],
-    "name": "Trial Rennes",
-    "place": "Rennes",
-    "players": "30 players",
-    "date": "23/11/19"
+    ]
 }

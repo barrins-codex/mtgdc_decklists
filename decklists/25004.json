@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "25004",
+    "name": "COVID Biquette DC1",
+    "place": "OnLine",
+    "players": "17 players",
+    "date": "19/03/20",
     "decks": [
         {
             "deck_id": "374989",
             "rank": "1",
             "player": "Rafikh",
+            "winrate": 1.0,
             "commander": [
                 "Uro, Titan of Nature's Wrath"
             ],
@@ -104,9 +109,5 @@
                 "1 Green Sun's Zenith"
             ]
         }
-    ],
-    "name": "COVID Biquette DC1",
-    "place": "OnLine",
-    "players": "17 players",
-    "date": "19/03/20"
+    ]
 }

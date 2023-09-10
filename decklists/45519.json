@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
-    "id": 45519,
+    "id": "45519",
+    "name": "TNDC\"Tobey Maguire's Birthday\"",
+    "place": "Bolovo Games (Santos, Brazil)",
+    "players": "16 players",
+    "date": "27/06/23",
     "decks": [
         {
             "deck_id": "536387",
             "rank": "1",
             "player": "Pablo Lima",
+            "winrate": 1.0,
             "commander": [
                 "Feldon, Ronom Excavator"
             ],
@@ -88,6 +93,7 @@
             "deck_id": "536388",
             "rank": "2",
             "player": "Lucas Ramalho",
+            "winrate": 0.8,
             "commander": [
                 "Feldon, Ronom Excavator"
             ],
@@ -172,6 +178,7 @@
             "deck_id": "536389",
             "rank": "3-4",
             "player": "Carlos Pires",
+            "winrate": 0.8,
             "commander": [
                 "Ertai Resurrected"
             ],
@@ -264,6 +271,7 @@
             "deck_id": "536390",
             "rank": "3-4",
             "player": "Euro Figueredo",
+            "winrate": 0.8,
             "commander": [
                 "Sai, Master Thopterist"
             ],
@@ -345,9 +353,5 @@
                 "1 Winter Orb"
             ]
         }
-    ],
-    "name": "TNDC\"Tobey Maguire's Birthday\"",
-    "place": "Bolovo Games (Santos, Brazil)",
-    "players": "16 players",
-    "date": "27/06/23"
+    ]
 }

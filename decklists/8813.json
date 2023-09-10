@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "8813",
+    "name": "Southern Bivouac (Philippines)",
+    "place": "",
+    "players": "19 players",
+    "date": "13/12/14",
     "decks": [
         {
             "deck_id": "250278",
             "rank": "1",
             "player": "Alvin Pilariza",
+            "winrate": 1.0,
             "commander": [
                 "Geist of Saint Traft"
             ],
@@ -107,6 +112,7 @@
             "deck_id": "250279",
             "rank": "2",
             "player": "Israel Rodriguez",
+            "winrate": 0.8,
             "commander": [
                 "Geist of Saint Traft"
             ],
@@ -208,6 +214,7 @@
             "deck_id": "250280",
             "rank": "3-4",
             "player": "Raffy Facultad",
+            "winrate": 0.8,
             "commander": [
                 "Maelstrom Wanderer"
             ],
@@ -297,6 +304,7 @@
             "deck_id": "250281",
             "rank": "3-4",
             "player": "Lance San Juan",
+            "winrate": 0.8,
             "commander": [
                 "Wydwen, the Biting Gale"
             ],
@@ -389,9 +397,5 @@
                 "5 Swamp"
             ]
         }
-    ],
-    "name": "Southern Bivouac (Philippines)",
-    "place": "",
-    "players": "19 players",
-    "date": "13/12/14"
+    ]
 }

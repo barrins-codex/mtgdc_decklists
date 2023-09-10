@@ -1,6 +1,6 @@
 {
     "format": "Duel Commander",
-    "id": 46103,
+    "id": "46103",
     "name": "[DDL] Lounge League",
     "place": "Darmstadt (Germany)",
     "players": "8 players",
@@ -8,6 +8,12 @@
     "decks": [
         {
             "deck_id": "540660",
+            "rank": "1",
+            "player": "Markus S.",
+            "winrate": 1.0,
+            "commander": [
+                "Slimefoot and Squee"
+            ],
             "decklist": [
                 "1 Deadly Rollick",
                 "1 Demonic Tutor",
@@ -108,15 +114,16 @@
                 "1 Prismatic Vista",
                 "1 Rockfall Vale",
                 "1 Rootbound Crag"
-            ],
-            "commander": [
-                "Slimefoot and Squee"
-            ],
-            "rank": "1",
-            "player": "Markus S."
+            ]
         },
         {
             "deck_id": "540661",
+            "rank": "2",
+            "player": "Bitzelberg",
+            "winrate": 0.6666666666666666,
+            "commander": [
+                "Aragorn, King of Gondor"
+            ],
             "decklist": [
                 "1 Adarkar Wastes",
                 "1 Archmage's Charm",
@@ -217,12 +224,7 @@
                 "1 Windswept Heath",
                 "1 Wooded Foothills",
                 "1 Wrath of God"
-            ],
-            "commander": [
-                "Aragorn, King of Gondor"
-            ],
-            "rank": "2",
-            "player": "Bitzelberg"
+            ]
         }
     ]
 }

@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "32553",
+    "name": "1st Monthly Duel Commander",
+    "place": "Magic Player (Holbæk, Denmark)",
+    "players": "8 players",
+    "date": "12/09/21",
     "decks": [
         {
             "deck_id": "449976",
             "rank": "1",
             "player": "Abjørn",
+            "winrate": 1.0,
             "commander": [
                 "Minsc, Beloved Ranger"
             ],
@@ -110,6 +115,7 @@
             "deck_id": "449977",
             "rank": "2",
             "player": "Daniel Lind",
+            "winrate": 0.6666666666666666,
             "commander": [
                 "Miara, Thorn of the Glade",
                 "Tevesh Szat, Doom of Fools"
@@ -180,9 +186,5 @@
                 "36 Snow-Covered Swamp"
             ]
         }
-    ],
-    "name": "1st Monthly Duel Commander",
-    "place": "Magic Player (Holbæk, Denmark)",
-    "players": "8 players",
-    "date": "12/09/21"
+    ]
 }

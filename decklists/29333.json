@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "29333",
+    "name": "DC",
+    "place": "Fulcrum Esports (Cainta Rizal, Philippines)",
+    "players": "10 players",
+    "date": "20/02/21",
     "decks": [
         {
             "deck_id": "430693",
             "rank": "1",
             "player": "Jan Michael Hortaleza",
+            "winrate": 1.0,
             "commander": [
                 "Heliod, Sun-Crowned"
             ],
@@ -95,6 +100,7 @@
             "deck_id": "430694",
             "rank": "2",
             "player": "Cilbert Corpuz",
+            "winrate": 0.8,
             "commander": [
                 "Winota, Joiner of Forces"
             ],
@@ -190,6 +196,7 @@
             "deck_id": "430695",
             "rank": "3-4",
             "player": "Martin John Ogayon",
+            "winrate": 0.6,
             "commander": [
                 "Queen Marchesa"
             ],
@@ -299,6 +306,7 @@
             "deck_id": "430696",
             "rank": "3-4",
             "player": "Rai Reyes",
+            "winrate": 0.6,
             "commander": [
                 "Rograkh, Son of Rohgahh",
                 "Keleth, Sunmane Familiar"
@@ -391,9 +399,5 @@
                 "1 Isamaru, Hound of Konda"
             ]
         }
-    ],
-    "name": "DC",
-    "place": "Fulcrum Esports (Cainta Rizal, Philippines)",
-    "players": "10 players",
-    "date": "20/02/21"
+    ]
 }

@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "20511",
+    "name": "DCM Nov 2018 Tournament",
+    "place": "",
+    "players": "8 players",
+    "date": "15/11/18",
     "decks": [
         {
             "deck_id": "334770",
             "rank": "1",
             "player": "Denovar",
+            "winrate": 1.0,
             "commander": [
                 "The Gitrog Monster"
             ],
@@ -103,6 +108,7 @@
             "deck_id": "334771",
             "rank": "2",
             "player": "Hellonewton",
+            "winrate": 0.6666666666666666,
             "commander": [
                 "Grenzo, Dungeon Warden"
             ],
@@ -197,9 +203,5 @@
                 "9 Mountain"
             ]
         }
-    ],
-    "name": "DCM Nov 2018 Tournament",
-    "place": "",
-    "players": "8 players",
-    "date": "15/11/18"
+    ]
 }

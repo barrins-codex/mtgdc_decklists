@@ -1,15 +1,19 @@
 {
     "format": "Duel Commander",
-    "id": 43337,
+    "id": "43337",
     "name": "TNDC \"Good Friday\"",
     "place": "Bolovo Games (Santos, Brazil)",
     "players": "16 players",
     "date": "07/04/23",
     "decks": [
         {
-            "player": "Victor Burghi",
-            "rank": "1",
             "deck_id": "520091",
+            "rank": "1",
+            "player": "Victor Burghi",
+            "winrate": 1.0,
+            "commander": [
+                "Urza, Chief Artificer"
+            ],
             "decklist": [
                 "1 Lose Focus",
                 "1 Mana Leak",
@@ -110,15 +114,16 @@
                 "1 Scrubland",
                 "1 Seat of the Synod",
                 "1 Reflecting Pool"
-            ],
-            "commander": [
-                "Urza, Chief Artificer"
             ]
         },
         {
-            "player": "Orlando Bibiano",
-            "rank": "2",
             "deck_id": "520092",
+            "rank": "2",
+            "player": "Orlando Bibiano",
+            "winrate": 0.8,
+            "commander": [
+                "Minsc, Beloved Ranger"
+            ],
             "decklist": [
                 "1 Academy Rector",
                 "1 Arena Rector",
@@ -216,15 +221,16 @@
                 "1 Wooded Foothills",
                 "1 Wrenn and Six",
                 "1 Yavimaya, Cradle of Growth"
-            ],
-            "commander": [
-                "Minsc, Beloved Ranger"
             ]
         },
         {
-            "player": "Tavares",
-            "rank": "3-4",
             "deck_id": "520093",
+            "rank": "3-4",
+            "player": "Tavares",
+            "winrate": 0.8,
+            "commander": [
+                "Feldon, Ronom Excavator"
+            ],
             "decklist": [
                 "1 Castle Embereth",
                 "1 Mutavault",
@@ -304,15 +310,16 @@
                 "1 Flame Javelin",
                 "1 Fireblast",
                 "1 Pyrokinesis"
-            ],
-            "commander": [
-                "Feldon, Ronom Excavator"
             ]
         },
         {
-            "player": "Euro Figueredo",
-            "rank": "3-4",
             "deck_id": "520094",
+            "rank": "3-4",
+            "player": "Euro Figueredo",
+            "winrate": 0.8,
+            "commander": [
+                "Sai, Master Thopterist"
+            ],
             "decklist": [
                 "1 Academy Ruins",
                 "1 Aether Spellbomb",
@@ -390,9 +397,6 @@
                 "1 Welding Jar",
                 "1 Whir of Invention",
                 "1 Winter Orb"
-            ],
-            "commander": [
-                "Sai, Master Thopterist"
             ]
         }
     ]

@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "8084",
+    "name": "9th \"New Year Cake\" Cup (Shanghai)",
+    "place": "",
+    "players": "11 players",
+    "date": "12/05/14",
     "decks": [
         {
             "deck_id": "246574",
             "rank": "1",
             "player": "Yao Yao",
+            "winrate": 1.0,
             "commander": [
                 "Wydwen, the Biting Gale"
             ],
@@ -104,6 +109,7 @@
             "deck_id": "246575",
             "rank": "2",
             "player": "Pengjie Lu",
+            "winrate": 0.8,
             "commander": [
                 "Ruhan of the Fomori"
             ],
@@ -207,9 +213,5 @@
                 "1 Treachery"
             ]
         }
-    ],
-    "name": "9th \"New Year Cake\" Cup (Shanghai)",
-    "place": "",
-    "players": "11 players",
-    "date": "12/05/14"
+    ]
 }

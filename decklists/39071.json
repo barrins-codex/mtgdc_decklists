@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "39071",
+    "name": "Competicon DC Side Event",
+    "place": "Ayala Malls Circuit (Philippines)",
+    "players": "15 players",
+    "date": "22/10/22",
     "decks": [
         {
             "deck_id": "491282",
             "rank": "1",
             "player": "Jay Fangs",
+            "winrate": 1.0,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -115,6 +120,7 @@
             "deck_id": "491283",
             "rank": "2",
             "player": "Ste Villaraza",
+            "winrate": 0.8,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -219,9 +225,5 @@
                 "1 Windswept Heath"
             ]
         }
-    ],
-    "name": "Competicon DC Side Event",
-    "place": "Ayala Malls Circuit (Philippines)",
-    "players": "15 players",
-    "date": "22/10/22"
+    ]
 }

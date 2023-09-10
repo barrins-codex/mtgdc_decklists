@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "8117",
+    "name": "11th \"New Year Cake\" Cup (Shanghai)",
+    "place": "",
+    "players": "17 players",
+    "date": "27/06/14",
     "decks": [
         {
             "deck_id": "246779",
             "rank": "1",
             "player": "Chen Rui",
+            "winrate": 1.0,
             "commander": [
                 "Animar, Soul of Elements"
             ],
@@ -106,6 +111,7 @@
             "deck_id": "246780",
             "rank": "2",
             "player": "Shen Shiyang",
+            "winrate": 0.8,
             "commander": [
                 "Marath, Will of the Wild"
             ],
@@ -211,9 +217,5 @@
                 "1 Dryad Arbor"
             ]
         }
-    ],
-    "name": "11th \"New Year Cake\" Cup (Shanghai)",
-    "place": "",
-    "players": "17 players",
-    "date": "27/06/14"
+    ]
 }

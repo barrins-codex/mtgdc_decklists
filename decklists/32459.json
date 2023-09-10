@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "32459",
+    "name": "Fun With Flags",
+    "place": "Sortilèges (Vannes, France)",
+    "players": "16 players",
+    "date": "21/09/21",
     "decks": [
         {
             "deck_id": "449446",
             "rank": "1",
             "player": "Guillemot Cédric",
+            "winrate": 1.0,
             "commander": [
                 "Miara, Thorn of the Glade",
                 "Tevesh Szat, Doom of Fools"
@@ -90,6 +95,7 @@
             "deck_id": "449447",
             "rank": "2",
             "player": "Baz \"ghozimaru\"",
+            "winrate": 0.8,
             "commander": [
                 "Tevesh Szat, Doom of Fools",
                 "Miara, Thorn of the Glade"
@@ -169,6 +175,7 @@
             "deck_id": "449448",
             "rank": "3-4",
             "player": "Johan Cordonnier",
+            "winrate": 0.8,
             "commander": [
                 "Leovold, Emissary of Trest"
             ],
@@ -278,6 +285,7 @@
             "deck_id": "449449",
             "rank": "3-4",
             "player": "Anaël \"aliquanto\"",
+            "winrate": 0.8,
             "commander": [
                 "Octavia, Living Thesis"
             ],
@@ -361,9 +369,5 @@
                 "1 Witch's Clinic"
             ]
         }
-    ],
-    "name": "Fun With Flags",
-    "place": "Sortilèges (Vannes, France)",
-    "players": "16 players",
-    "date": "21/09/21"
+    ]
 }

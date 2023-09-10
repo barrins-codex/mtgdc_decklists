@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "33579",
+    "name": "Wanted S2 #1",
+    "place": "CartaRennes (Rennes, France)",
+    "players": "17 players",
+    "date": "24/11/21",
     "decks": [
         {
             "deck_id": "455798",
             "rank": "1",
             "player": "Aurelien Lion",
+            "winrate": 1.0,
             "commander": [
                 "The First Sliver"
             ],
@@ -115,6 +120,7 @@
             "deck_id": "455799",
             "rank": "2",
             "player": "Robin \"faarnn\" Angebaud",
+            "winrate": 0.8,
             "commander": [
                 "Malcolm, Keen-Eyed Navigator",
                 "Livio, Oathsworn Sentinel"
@@ -212,9 +218,5 @@
                 "6 Snow-Covered Island"
             ]
         }
-    ],
-    "name": "Wanted S2 #1",
-    "place": "CartaRennes (Rennes, France)",
-    "players": "17 players",
-    "date": "24/11/21"
+    ]
 }

@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "34614",
+    "name": "Duel",
+    "place": "Tapped Games (Marikina City, Philippines)",
+    "players": "8 players",
+    "date": "05/02/22",
     "decks": [
         {
             "deck_id": "462378",
             "rank": "1",
             "player": "Christian Agbon",
+            "winrate": 1.0,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -94,6 +99,7 @@
             "deck_id": "462379",
             "rank": "2",
             "player": "Mark Lasam",
+            "winrate": 0.6666666666666666,
             "commander": [
                 "Prava of the Steel Legion",
                 "Tevesh Szat, Doom of Fools"
@@ -187,9 +193,5 @@
                 "1 Yawgmoth, Thran Physician"
             ]
         }
-    ],
-    "name": "Duel",
-    "place": "Tapped Games (Marikina City, Philippines)",
-    "players": "8 players",
-    "date": "05/02/22"
+    ]
 }

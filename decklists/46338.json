@@ -1,6 +1,6 @@
 {
     "format": "Duel Commander",
-    "id": 46338,
+    "id": "46338",
     "name": "Lachesis Cup",
     "place": "Nice Club (Wuxi, China)",
     "players": "8 players",
@@ -8,6 +8,13 @@
     "decks": [
         {
             "deck_id": "542441",
+            "rank": "1",
+            "player": "Guanglan,cui",
+            "winrate": 1.0,
+            "commander": [
+                "Faceless One",
+                "Gut, True Soul Zealot"
+            ],
             "decklist": [
                 "1 Ancient Den",
                 "1 Ardoz, Cobbler of War",
@@ -104,16 +111,16 @@
                 "1 White Plume Adventurer",
                 "1 Windswept Heath",
                 "1 Wooded Foothills"
-            ],
-            "commander": [
-                "Faceless One",
-                "Gut, True Soul Zealot"
-            ],
-            "rank": "1",
-            "player": "Guanglan,cui"
+            ]
         },
         {
             "deck_id": "542442",
+            "rank": "2",
+            "player": "Haoyu,gu",
+            "winrate": 0.6666666666666666,
+            "commander": [
+                "Sheoldred, the Apocalypse"
+            ],
             "decklist": [
                 "1 Cling to Dust",
                 "1 Collective Brutality",
@@ -189,12 +196,7 @@
                 "1 Rishadan Port",
                 "1 City of Traitors",
                 "26 Snow-Covered Swamp"
-            ],
-            "commander": [
-                "Sheoldred, the Apocalypse"
-            ],
-            "rank": "2",
-            "player": "Haoyu,gu"
+            ]
         }
     ]
 }

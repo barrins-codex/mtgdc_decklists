@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "23345",
+    "name": "39th 3531 Cup",
+    "place": "Shanghai",
+    "players": "10 players",
+    "date": "13/10/19",
     "decks": [
         {
             "deck_id": "360842",
             "rank": "1",
             "player": "Hu Minzhe",
+            "winrate": 1.0,
             "commander": [
                 "Rowan Kenrith",
                 "Will Kenrith"
@@ -79,6 +84,7 @@
             "deck_id": "360843",
             "rank": "2",
             "player": "Shen Junkai",
+            "winrate": 0.8,
             "commander": [
                 "Ludevic, Necro-Alchemist",
                 "Kraum, Ludevic's Opus"
@@ -172,9 +178,5 @@
                 "1 Chandra, Fire of Kaladesh"
             ]
         }
-    ],
-    "name": "39th 3531 Cup",
-    "place": "Shanghai",
-    "players": "10 players",
-    "date": "13/10/19"
+    ]
 }

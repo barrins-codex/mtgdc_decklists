@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "13275",
+    "name": " Duel Commander Palantir (Molfetta, Italy)",
+    "place": "",
+    "players": "13 players",
+    "date": "30/07/16",
     "decks": [
         {
             "deck_id": "277943",
             "rank": "1",
             "player": "Gianluca Soriano",
+            "winrate": 1.0,
             "commander": [
                 "Maelstrom Wanderer"
             ],
@@ -108,6 +113,7 @@
             "deck_id": "277944",
             "rank": "2",
             "player": "Adelaide de Gennaro",
+            "winrate": 0.8,
             "commander": [
                 "Jenara, Asura of War"
             ],
@@ -211,6 +217,7 @@
             "deck_id": "277945",
             "rank": "3-4",
             "player": "Alessandro Tattoli",
+            "winrate": 0.6,
             "commander": [
                 "Jori En, Ruin Diver"
             ],
@@ -301,6 +308,7 @@
             "deck_id": "277946",
             "rank": "3-4",
             "player": "Marco De Pinto",
+            "winrate": 0.6,
             "commander": [
                 "Radha, Heir to Keld"
             ],
@@ -389,9 +397,5 @@
                 "11 Forest"
             ]
         }
-    ],
-    "name": " Duel Commander Palantir (Molfetta, Italy)",
-    "place": "",
-    "players": "13 players",
-    "date": "30/07/16"
+    ]
 }

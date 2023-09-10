@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "38167",
+    "name": "DC East League",
+    "place": "Tapped Games (Marikina City, Philippines)",
+    "players": "22 players",
+    "date": "27/08/22",
     "decks": [
         {
             "deck_id": "485395",
             "rank": "1",
             "player": "Rexel Tenorio",
+            "winrate": 1.0,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -115,6 +120,7 @@
             "deck_id": "485396",
             "rank": "2",
             "player": "Ste Villaraza",
+            "winrate": 0.8,
             "commander": [
                 "Tivit, Seller of Secrets"
             ],
@@ -224,6 +230,7 @@
             "deck_id": "485397",
             "rank": "3",
             "player": "Earl Caymo",
+            "winrate": 0.8,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -333,6 +340,7 @@
             "deck_id": "485398",
             "rank": "4",
             "player": "Mark Lasam",
+            "winrate": 0.6,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -442,6 +450,7 @@
             "deck_id": "485399",
             "rank": "5",
             "player": "Aaron Blue Pumanes",
+            "winrate": 0.6,
             "commander": [
                 "Karlov of the Ghost Council",
                 "Lurrus of the Dream-Den"
@@ -552,6 +561,7 @@
             "deck_id": "485400",
             "rank": "6",
             "player": "Christian Agbon",
+            "winrate": 0.6,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -641,6 +651,7 @@
             "deck_id": "485401",
             "rank": "7",
             "player": "Darren De La Rosa",
+            "winrate": 0.6,
             "commander": [
                 "Kroxa, Titan of Death's Hunger"
             ],
@@ -745,6 +756,7 @@
             "deck_id": "485402",
             "rank": "8",
             "player": "Michael Cabrera",
+            "winrate": 0.6,
             "commander": [
                 "Light-Paws, Emperor's Voice"
             ],
@@ -826,9 +838,5 @@
                 "1 Ghost Quarter"
             ]
         }
-    ],
-    "name": "DC East League",
-    "place": "Tapped Games (Marikina City, Philippines)",
-    "players": "22 players",
-    "date": "27/08/22"
+    ]
 }

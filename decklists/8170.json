@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "8170",
+    "name": "Commander Showdown",
+    "place": "Anime Spot (Barbados)",
+    "players": "13 players",
+    "date": "14/09/14",
     "decks": [
         {
             "deck_id": "247059",
             "rank": "1",
             "player": "Andwele Chase",
+            "winrate": 1.0,
             "commander": [
                 "Sliver Queen"
             ],
@@ -115,6 +120,7 @@
             "deck_id": "247060",
             "rank": "2",
             "player": "Larry Marshall",
+            "winrate": 0.8,
             "commander": [
                 "The Mimeoplasm"
             ],
@@ -219,9 +225,5 @@
                 "2 Island"
             ]
         }
-    ],
-    "name": "Commander Showdown",
-    "place": "Anime Spot (Barbados)",
-    "players": "13 players",
-    "date": "14/09/14"
+    ]
 }

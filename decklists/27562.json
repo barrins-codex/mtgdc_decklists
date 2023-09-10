@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "27562",
+    "name": "DC",
+    "place": "Wonderlandes (Dax, France)",
+    "players": "8 players",
+    "date": "27/09/20",
     "decks": [
         {
             "deck_id": "419063",
             "rank": "1",
             "player": "Nicolas Soulé",
+            "winrate": 1.0,
             "commander": [
                 "Kraum, Ludevic's Opus",
                 "Ludevic, Necro-Alchemist"
@@ -98,6 +103,7 @@
             "deck_id": "419064",
             "rank": "2",
             "player": "Louis Roustant",
+            "winrate": 0.6666666666666666,
             "commander": [
                 "Animar, Soul of Elements"
             ],
@@ -200,9 +206,5 @@
                 "1 Hydroid Krasis"
             ]
         }
-    ],
-    "name": "DC",
-    "place": "Wonderlandes (Dax, France)",
-    "players": "8 players",
-    "date": "27/09/20"
+    ]
 }

@@ -1,6 +1,6 @@
 {
     "format": "Duel Commander",
-    "id": 46238,
+    "id": "46238",
     "name": "DC Fetenat Lamballe-Capitale",
     "place": "Lamballe (France)",
     "players": "24 players",
@@ -8,6 +8,12 @@
     "decks": [
         {
             "deck_id": "541542",
+            "rank": "1",
+            "player": "Brieuc Evo",
+            "winrate": 1.0,
+            "commander": [
+                "Ertai Resurrected"
+            ],
             "decklist": [
                 "1 Drown in the Loch",
                 "1 Arcum's Astrolabe",
@@ -94,15 +100,16 @@
                 "1 Wash Away",
                 "1 Watery Grave",
                 "1 Archmage's Charm"
-            ],
-            "commander": [
-                "Ertai Resurrected"
-            ],
-            "rank": "1",
-            "player": "Brieuc Evo"
+            ]
         },
         {
             "deck_id": "541543",
+            "rank": "2",
+            "player": "Alex Treupel",
+            "winrate": 0.8,
+            "commander": [
+                "Leovold, Emissary of Trest"
+            ],
             "decklist": [
                 "1 Barkchannel Pathway",
                 "1 Mana Leak",
@@ -203,15 +210,16 @@
                 "1 Creeping Tar Pit",
                 "1 Cryptic Command",
                 "1 Cut Down"
-            ],
-            "commander": [
-                "Leovold, Emissary of Trest"
-            ],
-            "rank": "2",
-            "player": "Alex Treupel"
+            ]
         },
         {
             "deck_id": "541544",
+            "rank": "3-4",
+            "player": "Boubou La Gargouille",
+            "winrate": 0.8,
+            "commander": [
+                "Old Rutstein"
+            ],
             "decklist": [
                 "1 Wild Growth",
                 "1 Worldly Tutor",
@@ -298,15 +306,17 @@
                 "1 Blooming Marsh",
                 "8 Forest",
                 "8 Swamp"
-            ],
-            "commander": [
-                "Old Rutstein"
-            ],
-            "rank": "3-4",
-            "player": "Boubou La Gargouille"
+            ]
         },
         {
             "deck_id": "541545",
+            "rank": "3-4",
+            "player": "Pablo Destrée",
+            "winrate": 0.8,
+            "commander": [
+                "Tana, the Bloodsower",
+                "Yoshimaru, Ever Faithful"
+            ],
             "decklist": [
                 "1 Adeline, Resplendent Cathar",
                 "1 Arid Mesa",
@@ -405,13 +415,7 @@
                 "1 Wooded Foothills",
                 "1 Worldly Tutor",
                 "1 Yavimaya, Cradle of Growth"
-            ],
-            "commander": [
-                "Tana, the Bloodsower",
-                "Yoshimaru, Ever Faithful"
-            ],
-            "rank": "3-4",
-            "player": "Pablo Destrée"
+            ]
         }
     ]
 }

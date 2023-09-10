@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "20273",
+    "name": "Duel Commander",
+    "place": "Arena Jeux (Orange, France)",
+    "players": "12 players",
+    "date": "13/10/18",
     "decks": [
         {
             "deck_id": "332512",
             "rank": "1",
             "player": "Sylvain Lauriol",
+            "winrate": 1.0,
             "commander": [
                 "Kess, Dissident Mage"
             ],
@@ -95,9 +100,5 @@
                 "17 Island"
             ]
         }
-    ],
-    "name": "Duel Commander",
-    "place": "Arena Jeux (Orange, France)",
-    "players": "12 players",
-    "date": "13/10/18"
+    ]
 }

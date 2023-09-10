@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "30139",
+    "name": "Monthly DC League",
+    "place": "Libourne (France)",
+    "players": "18 players",
+    "date": "10/04/21",
     "decks": [
         {
             "deck_id": "435948",
             "rank": "1",
             "player": "Nicolas Mestreau",
+            "winrate": 1.0,
             "commander": [
                 "Daretti, Scrap Savant"
             ],
@@ -92,6 +97,7 @@
             "deck_id": "435949",
             "rank": "2",
             "player": "Baptiste Dumas",
+            "winrate": 0.8,
             "commander": [
                 "Koma, Cosmos Serpent"
             ],
@@ -185,6 +191,7 @@
             "deck_id": "435950",
             "rank": "3-4",
             "player": "Matthieu Habersetzer",
+            "winrate": 0.8,
             "commander": [
                 "Maelstrom Wanderer"
             ],
@@ -288,6 +295,7 @@
             "deck_id": "435951",
             "rank": "3-4",
             "player": "Sebastien Peruffo",
+            "winrate": 0.8,
             "commander": [
                 "Yorvo, Lord of Garenbrig"
             ],
@@ -374,9 +382,5 @@
                 "20 Snow-Covered Forest"
             ]
         }
-    ],
-    "name": "Monthly DC League",
-    "place": "Libourne (France)",
-    "players": "18 players",
-    "date": "10/04/21"
+    ]
 }

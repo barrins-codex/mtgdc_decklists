@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "32341",
+    "name": "RJ Cup 2021 #34",
+    "place": "League Castle (Mong Kok, Hong Kong)",
+    "players": "8 players",
+    "date": "11/09/21",
     "decks": [
         {
             "deck_id": "448762",
             "rank": "1",
             "player": "Wilson Lai",
+            "winrate": 1.0,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -115,6 +120,7 @@
             "deck_id": "448763",
             "rank": "2",
             "player": "Jun Hao Chu",
+            "winrate": 0.6666666666666666,
             "commander": [
                 "Hogaak, Arisen Necropolis"
             ],
@@ -220,9 +226,5 @@
                 "1 Stitcher's Supplier"
             ]
         }
-    ],
-    "name": "RJ Cup 2021 #34",
-    "place": "League Castle (Mong Kok, Hong Kong)",
-    "players": "8 players",
-    "date": "11/09/21"
+    ]
 }

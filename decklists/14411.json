@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "14411",
+    "name": "WarpTournament (Milano, Italy)",
+    "place": "",
+    "players": "10 players",
+    "date": "08/01/17",
     "decks": [
         {
             "deck_id": "286215",
             "rank": "1",
             "player": "Arturo Fux",
+            "winrate": 1.0,
             "commander": [
                 "Kraum, Ludevic's Opus",
                 "Vial Smasher the Fierce"
@@ -114,6 +119,7 @@
             "deck_id": "286216",
             "rank": "1",
             "player": "Michele Atzeni",
+            "winrate": 1.0,
             "commander": [
                 "Kraum, Ludevic's Opus",
                 "Vial Smasher the Fierce"
@@ -218,9 +224,5 @@
                 "2 Island"
             ]
         }
-    ],
-    "name": "WarpTournament (Milano, Italy)",
-    "place": "",
-    "players": "10 players",
-    "date": "08/01/17"
+    ]
 }

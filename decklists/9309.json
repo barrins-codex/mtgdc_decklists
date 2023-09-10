@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "9309",
+    "name": "War of Titans by Labirinto #3 (Bollate, Italy)",
+    "place": "",
+    "players": "12 players",
+    "date": "07/03/15",
     "decks": [
         {
             "deck_id": "253430",
             "rank": "1",
             "player": "Maurizio Annoni",
+            "winrate": 1.0,
             "commander": [
                 "Prossh, Skyraider of Kher"
             ],
@@ -107,6 +112,7 @@
             "deck_id": "253431",
             "rank": "2",
             "player": "Alberto Rossi",
+            "winrate": 0.8,
             "commander": [
                 "Wydwen, the Biting Gale"
             ],
@@ -208,9 +214,5 @@
                 "4 Island"
             ]
         }
-    ],
-    "name": "War of Titans by Labirinto #3 (Bollate, Italy)",
-    "place": "",
-    "players": "12 players",
-    "date": "07/03/15"
+    ]
 }

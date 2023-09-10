@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "20535",
+    "name": "Duel Commander",
+    "place": "Jeux Barjo (Bordeaux, France)",
+    "players": "12 players",
+    "date": "18/11/18",
     "decks": [
         {
             "deck_id": "335015",
             "rank": "1",
             "player": "Jérémie Rosolowski",
+            "winrate": 1.0,
             "commander": [
                 "Shalai, Voice of Plenty"
             ],
@@ -95,9 +100,5 @@
                 "1 Eldritch Evolution"
             ]
         }
-    ],
-    "name": "Duel Commander",
-    "place": "Jeux Barjo (Bordeaux, France)",
-    "players": "12 players",
-    "date": "18/11/18"
+    ]
 }

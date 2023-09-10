@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "10631",
+    "name": "BOTTE Tournament by Labirinto (Bollate, Italy)",
+    "place": "",
+    "players": "12 players",
+    "date": "11/10/15",
     "decks": [
         {
             "deck_id": "260845",
             "rank": "1",
             "player": "Michele Atzeni",
+            "winrate": 1.0,
             "commander": [
                 "Geist of Saint Traft"
             ],
@@ -105,6 +110,7 @@
             "deck_id": "260846",
             "rank": "2",
             "player": "Yari Arena",
+            "winrate": 0.8,
             "commander": [
                 "Ezuri, Renegade Leader"
             ],
@@ -189,9 +195,5 @@
                 "22 Forest"
             ]
         }
-    ],
-    "name": "BOTTE Tournament by Labirinto (Bollate, Italy)",
-    "place": "",
-    "players": "12 players",
-    "date": "11/10/15"
+    ]
 }

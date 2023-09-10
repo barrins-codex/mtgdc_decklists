@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
-    "id": 45839,
+    "id": "45839",
+    "name": "Iori prizza pizza tourney",
+    "place": "Aling Marings Dojo (Rizal, Philippines)",
+    "players": "17 players",
+    "date": "09/07/23",
     "decks": [
         {
             "deck_id": "538751",
             "rank": "1",
             "player": "Edison Gabutero",
+            "winrate": 1.0,
             "commander": [
                 "Reyhan, Last of the Abzan",
                 "Yoshimaru, Ever Faithful"
@@ -112,6 +117,7 @@
             "deck_id": "538752",
             "rank": "2",
             "player": "John Augustine \"trex\" Cruz",
+            "winrate": 0.8,
             "commander": [
                 "The Gitrog Monster"
             ],
@@ -210,6 +216,7 @@
             "deck_id": "538753",
             "rank": "3",
             "player": "Deej \"el Cholo Loco\" Miranda",
+            "winrate": 0.8,
             "commander": [
                 "Merry, Esquire of Rohan"
             ],
@@ -311,9 +318,5 @@
                 "5 Plains"
             ]
         }
-    ],
-    "name": "Iori prizza pizza tourney",
-    "place": "Aling Marings Dojo (Rizal, Philippines)",
-    "players": "17 players",
-    "date": "09/07/23"
+    ]
 }

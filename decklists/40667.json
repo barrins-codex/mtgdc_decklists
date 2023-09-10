@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "40667",
+    "name": "Duelan sa TG",
+    "place": "Tapped Games (Marikina City, Philippines)",
+    "players": "10 players",
+    "date": "12/01/23",
     "decks": [
         {
             "deck_id": "502448",
             "rank": "1",
             "player": "Ken Decena",
+            "winrate": 1.0,
             "commander": [
                 "Ghyrson Starn, Kelermorph"
             ],
@@ -108,6 +113,7 @@
             "deck_id": "502449",
             "rank": "2",
             "player": "Franklin Aguba",
+            "winrate": 0.8,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -213,9 +219,5 @@
                 "1 Zephyr Sentinel"
             ]
         }
-    ],
-    "name": "Duelan sa TG",
-    "place": "Tapped Games (Marikina City, Philippines)",
-    "players": "10 players",
-    "date": "12/01/23"
+    ]
 }

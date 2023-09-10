@@ -1,6 +1,6 @@
 {
     "format": "Duel Commander",
-    "id": 46381,
+    "id": "46381",
     "name": "Delayed MH2 tourney",
     "place": "Aling Marings Dojo (Rizal, Philippines)",
     "players": "11 players",
@@ -8,6 +8,12 @@
     "decks": [
         {
             "deck_id": "542877",
+            "rank": "1",
+            "player": "Jomar Co",
+            "winrate": 1.0,
+            "commander": [
+                "Ardoz, Cobbler of War"
+            ],
             "decklist": [
                 "1 Bonecrusher Giant",
                 "1 Anje's Ravager",
@@ -83,15 +89,17 @@
                 "1 Mutavault",
                 "1 Ramunap Ruins",
                 "1 Sokenzan, Crucible of Defiance"
-            ],
-            "commander": [
-                "Ardoz, Cobbler of War"
-            ],
-            "rank": "1",
-            "player": "Jomar Co"
+            ]
         },
         {
             "deck_id": "542878",
+            "rank": "2",
+            "player": "Edison Gabutero",
+            "winrate": 0.8,
+            "commander": [
+                "Reyhan, Last of the Abzan",
+                "Yoshimaru, Ever Faithful"
+            ],
             "decklist": [
                 "1 Arid Mesa",
                 "1 Boseiju, Who Endures",
@@ -188,16 +196,17 @@
                 "1 Rest in Peace",
                 "1 The Ozolith",
                 "1 Umezawa's Jitte"
-            ],
-            "commander": [
-                "Reyhan, Last of the Abzan",
-                "Yoshimaru, Ever Faithful"
-            ],
-            "rank": "2",
-            "player": "Edison Gabutero"
+            ]
         },
         {
             "deck_id": "542879",
+            "rank": "3",
+            "player": "Deej \"el Cholo Loco\" Miranda",
+            "winrate": 0.6,
+            "commander": [
+                "Bruse Tarl, Boorish Herder",
+                "Yoshimaru, Ever Faithful"
+            ],
             "decklist": [
                 "1 Bonecrusher Giant",
                 "1 Kytheon, Hero of Akros",
@@ -294,13 +303,7 @@
                 "1 Winota, Joiner of Forces",
                 "1 Wooded Foothills",
                 "1 Zurgo Bellstriker"
-            ],
-            "commander": [
-                "Bruse Tarl, Boorish Herder",
-                "Yoshimaru, Ever Faithful"
-            ],
-            "rank": "3",
-            "player": "Deej \"el Cholo Loco\" Miranda"
+            ]
         }
     ]
 }

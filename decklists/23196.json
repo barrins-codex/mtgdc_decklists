@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "23196",
+    "name": "Gobs Commander",
+    "place": "La Fouillouse",
+    "players": "10 players",
+    "date": "20/09/19",
     "decks": [
         {
             "deck_id": "359508",
             "rank": "1",
             "player": "Mickael Martin",
+            "winrate": 1.0,
             "commander": [
                 "Zur the Enchanter"
             ],
@@ -115,6 +120,7 @@
             "deck_id": "359509",
             "rank": "2",
             "player": "Franck Jacquemont",
+            "winrate": 0.8,
             "commander": [
                 "Grenzo, Havoc Raiser"
             ],
@@ -198,9 +204,5 @@
                 "1 Mishra's Factory"
             ]
         }
-    ],
-    "name": "Gobs Commander",
-    "place": "La Fouillouse",
-    "players": "10 players",
-    "date": "20/09/19"
+    ]
 }

@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "34351",
+    "name": "Wool Cup 23",
+    "place": "Kadou (Beijing, China)",
+    "players": "18 players",
+    "date": "23/01/22",
     "decks": [
         {
             "deck_id": "460860",
             "rank": "1",
             "player": "Ziqi Xi",
+            "winrate": 1.0,
             "commander": [
                 "Malcolm, Keen-Eyed Navigator",
                 "Kraum, Ludevic's Opus"
@@ -101,6 +106,7 @@
             "deck_id": "460861",
             "rank": "2",
             "player": "Haobo Ma",
+            "winrate": 0.8,
             "commander": [
                 "Niv-Mizzet, Parun"
             ],
@@ -196,6 +202,7 @@
             "deck_id": "460862",
             "rank": "3-4",
             "player": "Xu Han",
+            "winrate": 0.8,
             "commander": [
                 "Niv-Mizzet Reborn"
             ],
@@ -305,6 +312,7 @@
             "deck_id": "460863",
             "rank": "3-4",
             "player": "Char",
+            "winrate": 0.8,
             "commander": [
                 "Niv-Mizzet Reborn"
             ],
@@ -410,9 +418,5 @@
                 "1 Teferi, Time Raveler"
             ]
         }
-    ],
-    "name": "Wool Cup 23",
-    "place": "Kadou (Beijing, China)",
-    "players": "18 players",
-    "date": "23/01/22"
+    ]
 }

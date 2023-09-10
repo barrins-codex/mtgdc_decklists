@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "33256",
+    "name": "Duel Commander",
+    "place": "Wonderlandes (Dax, France)",
+    "players": "8 players",
+    "date": "24/10/21",
     "decks": [
         {
             "deck_id": "453943",
             "rank": "1",
             "player": "Thierry Foret",
+            "winrate": 1.0,
             "commander": [
                 "Rem Karolus, Stalwart Slayer"
             ],
@@ -92,6 +97,7 @@
             "deck_id": "453944",
             "rank": "2",
             "player": "Kevin Saint-martin",
+            "winrate": 0.6666666666666666,
             "commander": [
                 "Kroxa, Titan of Death's Hunger"
             ],
@@ -187,9 +193,5 @@
                 "1 Cathartic Pyre"
             ]
         }
-    ],
-    "name": "Duel Commander",
-    "place": "Wonderlandes (Dax, France)",
-    "players": "8 players",
-    "date": "24/10/21"
+    ]
 }

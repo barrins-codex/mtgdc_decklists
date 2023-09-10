@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "7921",
+    "name": "DC2 (Hradec Kralove, Czech republic)",
+    "place": "",
+    "players": "39 players",
+    "date": "26/07/14",
     "decks": [
         {
             "deck_id": "245575",
             "rank": "1",
             "player": "Dominik Maly",
+            "winrate": 0.7777777777777778,
             "commander": [
                 "Child of Alara"
             ],
@@ -115,6 +120,7 @@
             "deck_id": "245576",
             "rank": "2",
             "player": "Martin Kubik",
+            "winrate": 0.6666666666666666,
             "commander": [
                 "Animar, Soul of Elements"
             ],
@@ -216,6 +222,7 @@
             "deck_id": "245577",
             "rank": "3-4",
             "player": "Drahomir Havlicek",
+            "winrate": 0.625,
             "commander": [
                 "Doran, the Siege Tower"
             ],
@@ -323,6 +330,7 @@
             "deck_id": "245578",
             "rank": "3-4",
             "player": "Drahomir Havlicek Jr.",
+            "winrate": 0.625,
             "commander": [
                 "Marath, Will of the Wild"
             ],
@@ -432,6 +440,7 @@
             "deck_id": "245579",
             "rank": "5-8",
             "player": "Ondrej Mojzis",
+            "winrate": 0.625,
             "commander": [
                 "Animar, Soul of Elements"
             ],
@@ -533,6 +542,7 @@
             "deck_id": "245580",
             "rank": "5-8",
             "player": "Vojtech Benes",
+            "winrate": 0.625,
             "commander": [
                 "Erebos, God of the Dead"
             ],
@@ -614,106 +624,10 @@
             ]
         },
         {
-            "deck_id": "245582",
-            "rank": "5-8",
-            "player": "Milos Jedlicka",
-            "commander": [
-                "Sigarda, Host of Herons"
-            ],
-            "decklist": [
-                "1 Umezawa's Jitte",
-                "1 Sword of Light and Shadow",
-                "1 Sword of Fire and Ice",
-                "1 Sword of Feast and Famine",
-                "1 Skullclamp",
-                "1 Selesnya Signet",
-                "1 Lightning Greaves",
-                "1 Expedition Map",
-                "1 Darksteel Plate",
-                "1 Coalition Relic",
-                "1 Batterskull",
-                "1 Sylvan Library",
-                "1 Soul Snare",
-                "1 Rancor",
-                "1 Parallax Wave",
-                "1 Oblivion Ring",
-                "1 Nevermore",
-                "1 Lignify",
-                "1 Journey to Nowhere",
-                "1 Aura Shards",
-                "1 Worldly Tutor",
-                "1 Swords to Plowshares",
-                "1 Selesnya Charm",
-                "1 Rebuff the Wicked",
-                "1 Path to Exile",
-                "1 Noxious Revival",
-                "1 Naturalize",
-                "1 Mana Tithe",
-                "1 Enlightened Tutor",
-                "1 Crop Rotation",
-                "1 Wrath of God",
-                "1 Oust",
-                "1 Harmonize",
-                "1 Green Sun's Zenith",
-                "1 Day of Judgment",
-                "1 Austere Command",
-                "1 Wood Elves",
-                "1 Wolfir Silverheart",
-                "1 Thrun, the Last Troll",
-                "1 Stonehewer Giant",
-                "1 Stoneforge Mystic",
-                "1 Somberwald Sage",
-                "1 Silverblade Paladin",
-                "1 Saffi Eriksdotter",
-                "1 Qasali Pridemage",
-                "1 Mother of Runes",
-                "1 Mirran Crusader",
-                "1 Lotus Cobra",
-                "1 Llanowar Elves",
-                "1 Knight of the White Orchid",
-                "1 Knight of the Reliquary",
-                "1 Grand Abolisher",
-                "1 Gaddock Teeg",
-                "1 Fyndhorn Elves",
-                "1 Fiend Hunter",
-                "1 Eternal Witness",
-                "1 Birds of Paradise",
-                "1 Aven Mindcensor",
-                "1 Avacyn's Pilgrim",
-                "1 Arbor Elf",
-                "1 Acidic Slime",
-                "1 Wooded Foothills",
-                "1 Windswept Heath",
-                "1 Wasteland",
-                "1 Vesuva",
-                "1 Verdant Catacombs",
-                "1 Tranquil Thicket",
-                "1 Temple Garden",
-                "1 Sunpetal Grove",
-                "1 Secluded Steppe",
-                "1 Savannah",
-                "1 Rogue's Passage",
-                "1 Razorverge Thicket",
-                "7 Plains",
-                "1 Mutavault",
-                "1 Misty Rainforest",
-                "1 Maze of Ith",
-                "1 Marsh Flats",
-                "1 Kor Haven",
-                "1 Inkmoth Nexus",
-                "1 Ghost Quarter",
-                "7 Forest",
-                "1 Flooded Strand",
-                "1 Command Tower",
-                "1 Cavern of Souls",
-                "1 Blinkmoth Nexus",
-                "1 Arid Mesa"
-            ]
-        },
-        {
             "deck_id": "245581",
             "rank": "5-8",
             "player": "Viktor Jasansky",
+            "winrate": 0.625,
             "commander": [
                 "The Mimeoplasm"
             ],
@@ -819,9 +733,5 @@
                 "1 Wooded Foothills"
             ]
         }
-    ],
-    "name": "DC2 (Hradec Kralove, Czech republic)",
-    "place": "",
-    "players": "39 players",
-    "date": "26/07/14"
+    ]
 }

@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "21413",
+    "name": "MP - Monthly Duel Commander",
+    "place": "Magic Player, Holbæk",
+    "players": "9 players",
+    "date": "16/03/19",
     "decks": [
         {
             "deck_id": "343348",
             "rank": "1",
             "player": "Daniel Lind",
+            "winrate": 1.0,
             "commander": [
                 "Doran, the Siege Tower"
             ],
@@ -114,6 +119,7 @@
             "deck_id": "343349",
             "rank": "2",
             "player": "Jesper Larsen",
+            "winrate": 0.8,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -188,9 +194,5 @@
                 "1 Earthshaker Khenra"
             ]
         }
-    ],
-    "name": "MP - Monthly Duel Commander",
-    "place": "Magic Player, Holbæk",
-    "players": "9 players",
-    "date": "16/03/19"
+    ]
 }

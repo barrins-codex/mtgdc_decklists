@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "36558",
+    "name": "DC Major",
+    "place": "Black Scoop (Taguig, Philippines)",
+    "players": "30 players",
+    "date": "28/05/22",
     "decks": [
         {
             "deck_id": "475128",
             "rank": "1",
             "player": "Mary Amora",
+            "winrate": 1.0,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -115,6 +120,7 @@
             "deck_id": "475129",
             "rank": "2",
             "player": "Joseph Al-tawalbeh",
+            "winrate": 0.8,
             "commander": [
                 "Ludevic, Necro-Alchemist",
                 "Jeska, Thrice Reborn"
@@ -214,6 +220,7 @@
             "deck_id": "475130",
             "rank": "3-4",
             "player": "Jobert Santos",
+            "winrate": 0.8,
             "commander": [
                 "Jadar, Ghoulcaller of Nephalia"
             ],
@@ -300,6 +307,7 @@
             "deck_id": "475131",
             "rank": "3-4",
             "player": "Mark Lasam",
+            "winrate": 0.8,
             "commander": [
                 "Tivit, Seller of Secrets"
             ],
@@ -409,6 +417,7 @@
             "deck_id": "475132",
             "rank": "5",
             "player": "Elijah Guevara",
+            "winrate": 0.6,
             "commander": [
                 "Klothys, God of Destiny"
             ],
@@ -510,6 +519,7 @@
             "deck_id": "475133",
             "rank": "6",
             "player": "Dominic Yu Ping Kun",
+            "winrate": 0.6,
             "commander": [
                 "The Gitrog Monster"
             ],
@@ -609,6 +619,7 @@
             "deck_id": "475134",
             "rank": "7",
             "player": "Xavier Magnaye",
+            "winrate": 0.6,
             "commander": [
                 "Klothys, God of Destiny"
             ],
@@ -709,6 +720,7 @@
             "deck_id": "475135",
             "rank": "8",
             "player": "Barney Kiunisala",
+            "winrate": 0.6,
             "commander": [
                 "Klothys, God of Destiny"
             ],
@@ -811,9 +823,5 @@
                 "1 Winter Orb"
             ]
         }
-    ],
-    "name": "DC Major",
-    "place": "Black Scoop (Taguig, Philippines)",
-    "players": "30 players",
-    "date": "28/05/22"
+    ]
 }

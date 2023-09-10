@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "31177",
+    "name": "Duel Commander Monthly",
+    "place": "Jeux Barjo (Bordeaux, France)",
+    "players": "14 players",
+    "date": "20/06/21",
     "decks": [
         {
             "deck_id": "442224",
             "rank": "1",
             "player": "Romain Sacaze",
+            "winrate": 1.0,
             "commander": [
                 "Kinnan, Bonder Prodigy"
             ],
@@ -99,6 +104,7 @@
             "deck_id": "442225",
             "rank": "2",
             "player": "Antoine Alix",
+            "winrate": 0.8,
             "commander": [
                 "Gallia of the Endless Dance"
             ],
@@ -187,9 +193,5 @@
                 "1 Zurgo Bellstriker"
             ]
         }
-    ],
-    "name": "Duel Commander Monthly",
-    "place": "Jeux Barjo (Bordeaux, France)",
-    "players": "14 players",
-    "date": "20/06/21"
+    ]
 }

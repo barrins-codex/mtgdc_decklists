@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "21967",
+    "name": "79th \"New Year Cake\" Cup",
+    "place": "Shanghai",
+    "players": "9 players",
+    "date": "12/05/19",
     "decks": [
         {
             "deck_id": "348152",
             "rank": "1",
             "player": "Pan Liangchen",
+            "winrate": 1.0,
             "commander": [
                 "Saskia the Unyielding"
             ],
@@ -107,9 +112,5 @@
                 "1 Blood Moon"
             ]
         }
-    ],
-    "name": "79th \"New Year Cake\" Cup",
-    "place": "Shanghai",
-    "players": "9 players",
-    "date": "12/05/19"
+    ]
 }

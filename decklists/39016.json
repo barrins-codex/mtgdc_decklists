@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "39016",
+    "name": "Duelan sa TG",
+    "place": "Tapped Games (Marikina City, Philippines)",
+    "players": "10 players",
+    "date": "20/10/22",
     "decks": [
         {
             "deck_id": "490922",
             "rank": "1",
             "player": "Franklin Aguba",
+            "winrate": 1.0,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -115,6 +120,7 @@
             "deck_id": "490923",
             "rank": "2",
             "player": "Jeremy Mapalad",
+            "winrate": 0.8,
             "commander": [
                 "Light-Paws, Emperor's Voice"
             ],
@@ -189,9 +195,5 @@
                 "1 White Plume Adventurer"
             ]
         }
-    ],
-    "name": "Duelan sa TG",
-    "place": "Tapped Games (Marikina City, Philippines)",
-    "players": "10 players",
-    "date": "20/10/22"
+    ]
 }

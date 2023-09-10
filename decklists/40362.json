@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "40362",
+    "name": "DC Weekly",
+    "place": "Unbox Greenhills (San Juan Philippines)",
+    "players": "21 players",
+    "date": "28/12/22",
     "decks": [
         {
             "deck_id": "500382",
             "rank": "1",
             "player": "Van Acordon",
+            "winrate": 1.0,
             "commander": [
                 "Yoshimaru, Ever Faithful",
                 "Ludevic, Necro-Alchemist"
@@ -105,6 +110,7 @@
             "deck_id": "500383",
             "rank": "2",
             "player": "Jonathan Dolor",
+            "winrate": 0.8,
             "commander": [
                 "Lurrus of the Dream-Den",
                 "Karlov of the Ghost Council"
@@ -206,6 +212,7 @@
             "deck_id": "500384",
             "rank": "3",
             "player": "Reuben Ferrer",
+            "winrate": 0.8,
             "commander": [
                 "Tivit, Seller of Secrets"
             ],
@@ -315,6 +322,7 @@
             "deck_id": "500385",
             "rank": "4",
             "player": "Earl Caymo",
+            "winrate": 0.6,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -420,9 +428,5 @@
                 "1 Wishclaw Talisman"
             ]
         }
-    ],
-    "name": "DC Weekly",
-    "place": "Unbox Greenhills (San Juan Philippines)",
-    "players": "21 players",
-    "date": "28/12/22"
+    ]
 }

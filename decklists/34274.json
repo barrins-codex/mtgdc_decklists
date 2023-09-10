@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "34274",
+    "name": "Weekly",
+    "place": "Dragon's Lair (Maceda, Philippines)",
+    "players": "8 players",
+    "date": "16/01/22",
     "decks": [
         {
             "deck_id": "460409",
             "rank": "1",
             "player": "Ste Villaraza",
+            "winrate": 1.0,
             "commander": [
                 "Sakashima of a Thousand Faces",
                 "Livio, Oathsworn Sentinel"
@@ -105,6 +110,7 @@
             "deck_id": "460410",
             "rank": "2",
             "player": "Mark Lasam",
+            "winrate": 0.6666666666666666,
             "commander": [
                 "Tevesh Szat, Doom of Fools",
                 "Miara, Thorn of the Glade"
@@ -183,9 +189,5 @@
                 "28 Snow-Covered Swamp"
             ]
         }
-    ],
-    "name": "Weekly",
-    "place": "Dragon's Lair (Maceda, Philippines)",
-    "players": "8 players",
-    "date": "16/01/22"
+    ]
 }

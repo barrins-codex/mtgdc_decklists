@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "45036",
+    "name": "Blood Moon DC",
+    "place": "České Budějovice (Czechia)",
+    "players": "13 players",
+    "date": "10/06/23",
     "decks": [
         {
             "deck_id": "532436",
             "rank": "1",
             "player": "Marek Voráček",
+            "winrate": 1.0,
             "commander": [
                 "Minsc, Beloved Ranger"
             ],
@@ -112,6 +117,7 @@
             "deck_id": "532437",
             "rank": "2",
             "player": "Jan Faflík",
+            "winrate": 0.8,
             "commander": [
                 "Ertai Resurrected"
             ],
@@ -212,6 +218,7 @@
             "deck_id": "532438",
             "rank": "3-4",
             "player": "Miloslav Ponec",
+            "winrate": 0.6,
             "commander": [
                 "Ardoz, Cobbler of War"
             ],
@@ -297,6 +304,7 @@
             "deck_id": "532439",
             "rank": "3-4",
             "player": "Matou Pavlovský-fiala",
+            "winrate": 0.6,
             "commander": [
                 "Light-Paws, Emperor's Voice"
             ],
@@ -381,9 +389,5 @@
                 "1 Cave of the Frost Dragon"
             ]
         }
-    ],
-    "name": "Blood Moon DC",
-    "place": "České Budějovice (Czechia)",
-    "players": "13 players",
-    "date": "10/06/23"
+    ]
 }

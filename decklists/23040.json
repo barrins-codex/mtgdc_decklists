@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "23040",
+    "name": "Trial Trole de ZAP",
+    "place": "Châteauroux",
+    "players": "8 players",
+    "date": "08/09/19",
     "decks": [
         {
             "deck_id": "358065",
             "rank": "1",
             "player": "Quentin Rullaud (bobota)",
+            "winrate": 1.0,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -90,6 +95,7 @@
             "deck_id": "358066",
             "rank": "2",
             "player": "Grégoire Payan (koraysh)",
+            "winrate": 0.6666666666666666,
             "commander": [
                 "Narset, Enlightened Master"
             ],
@@ -191,9 +197,5 @@
                 "4 Island"
             ]
         }
-    ],
-    "name": "Trial Trole de ZAP",
-    "place": "Châteauroux",
-    "players": "8 players",
-    "date": "08/09/19"
+    ]
 }

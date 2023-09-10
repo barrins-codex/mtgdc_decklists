@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "34180",
+    "name": "DC Monthly",
+    "place": "Tableraze (Montpellier, France)",
+    "players": "13 players",
+    "date": "09/01/22",
     "decks": [
         {
             "deck_id": "459830",
             "rank": "1",
             "player": "Mathieu \"xakuyer\" Mizak",
+            "winrate": 1.0,
             "commander": [
                 "Juri, Master of the Revue"
             ],
@@ -101,9 +106,5 @@
                 "8 Mountain"
             ]
         }
-    ],
-    "name": "DC Monthly",
-    "place": "Tableraze (Montpellier, France)",
-    "players": "13 players",
-    "date": "09/01/22"
+    ]
 }

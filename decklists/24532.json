@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "24532",
+    "name": "Trial Trole de ZAP",
+    "place": "Châteauroux",
+    "players": "8 players",
+    "date": "02/02/20",
     "decks": [
         {
             "deck_id": "371513",
             "rank": "1",
             "player": "Rullaud Quentin",
+            "winrate": 1.0,
             "commander": [
                 "Hogaak, Arisen Necropolis"
             ],
@@ -115,6 +120,7 @@
             "deck_id": "371514",
             "rank": "2",
             "player": "Gunenbein Samuel",
+            "winrate": 0.6666666666666666,
             "commander": [
                 "Jenara, Asura of War"
             ],
@@ -220,9 +226,5 @@
                 "1 Island"
             ]
         }
-    ],
-    "name": "Trial Trole de ZAP",
-    "place": "Châteauroux",
-    "players": "8 players",
-    "date": "02/02/20"
+    ]
 }

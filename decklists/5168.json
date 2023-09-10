@@ -1,11 +1,28 @@
 {
     "format": "Duel Commander",
     "id": "5168",
+    "name": "Damoclès Commander (Poitiers)",
+    "place": "",
+    "players": "61 players",
+    "date": "16/06/13",
     "decks": [
+        {
+            "deck_id": "229789",
+            "rank": "5-8",
+            "player": "Djamel Arab",
+            "winrate": 0.75,
+            "commander": [
+                "Ruhan of the Fomori"
+            ],
+            "decklist": [
+                "99 Unknown Card"
+            ]
+        },
         {
             "deck_id": "229790",
             "rank": "1",
             "player": "Maxime Morillon",
+            "winrate": 0.8888888888888888,
             "commander": [
                 "Grand Arbiter Augustin IV"
             ],
@@ -106,6 +123,7 @@
             "deck_id": "229791",
             "rank": "1",
             "player": "Marien Couvertier",
+            "winrate": 0.8888888888888888,
             "commander": [
                 "Grand Arbiter Augustin IV"
             ],
@@ -208,6 +226,7 @@
             "deck_id": "229792",
             "rank": "3-4",
             "player": "Mathieu Gruson",
+            "winrate": 0.75,
             "commander": [
                 "Ezuri, Renegade Leader"
             ],
@@ -297,131 +316,12 @@
             ]
         },
         {
-            "deck_id": "229796",
-            "rank": "3-4",
-            "player": "Julien Debelleix",
-            "commander": [
-                "Wydwen, the Biting Gale"
-            ],
-            "decklist": [
-                "1 Black Sun's Zenith",
-                "1 Wretched Banquet",
-                "1 Thoughtseize",
-                "1 Inquisition of Kozilek",
-                "1 Innocent Blood",
-                "1 Gitaxian Probe",
-                "1 Duress",
-                "1 Demonic Tutor",
-                "1 Damnation",
-                "1 Shadow of Doubt",
-                "1 Shred Memory",
-                "1 Essence Scatter",
-                "1 Remove Soul",
-                "1 Ancestral Vision",
-                "1 Think Twice",
-                "1 Stifle",
-                "1 Spell Snare",
-                "1 Spell Pierce",
-                "1 Snuff Out",
-                "1 Skeletal Scrying",
-                "1 Vedalken Shackles",
-                "1 Exclude",
-                "1 Remand",
-                "1 Recoil",
-                "1 Prohibit",
-                "1 Preemptive Strike",
-                "1 Peek",
-                "1 Opportunity",
-                "1 Negate",
-                "1 Muddle the Mixture",
-                "1 Miscalculation",
-                "1 Mental Misstep",
-                "1 Memory Lapse",
-                "1 Mana Leak",
-                "1 Jace's Ingenuity",
-                "1 Into the Roil",
-                "1 Go for the Throat",
-                "1 Force Spike",
-                "1 Flash of Insight",
-                "1 Far / Away",
-                "1 False Summoning",
-                "1 Fact or Fiction",
-                "1 Repeal",
-                "1 Bitterblossom",
-                "1 Jace, the Mind Sculptor",
-                "1 Oblivion Stone",
-                "1 Runechanter's Pike",
-                "1 Diabolic Edict",
-                "1 Cryptic Command",
-                "1 Counterspell",
-                "1 Condescend",
-                "1 Complicate",
-                "1 Annul",
-                "1 Nihil Spellbomb",
-                "1 Dismember",
-                "1 Dystopia",
-                "1 Venser, Shaper Savant",
-                "1 Vendilion Clique",
-                "1 Snapcaster Mage",
-                "1 River of Tears",
-                "1 Cephalid Coliseum",
-                "1 Cavern of Souls",
-                "1 Minamo, School at Water's Edge",
-                "1 Misty Rainforest",
-                "1 Underground River",
-                "1 Tectonic Edge",
-                "1 Sunken Ruins",
-                "1 Scalding Tarn",
-                "1 Command Tower",
-                "1 Creeping Tar Pit",
-                "1 Darkslick Shores",
-                "1 Watery Grave",
-                "1 Wasteland",
-                "1 Verdant Catacombs",
-                "1 Urborg, Tomb of Yawgmoth",
-                "1 Marsh Flats",
-                "1 Flooded Strand",
-                "1 Dust Bowl",
-                "1 Drowned Catacomb",
-                "1 Underground Sea",
-                "1 Riptide Laboratory",
-                "1 Polluted Delta",
-                "1 Mouth of Ronom",
-                "1 Cabal Pit",
-                "1 Bloodstained Mire",
-                "1 Bojuka Bog",
-                "3 Snow-Covered Swamp",
-                "10 Snow-Covered Island"
-            ]
-        },
-        {
             "deck_id": "229793",
             "rank": "5-8",
             "player": "Clément Bourreau",
+            "winrate": 0.75,
             "commander": [
                 "Doran, the Siege Tower"
-            ],
-            "decklist": [
-                "99 Unknown Card"
-            ]
-        },
-        {
-            "deck_id": "229795",
-            "rank": "5-8",
-            "player": "Pascal Oulié",
-            "commander": [
-                "Griselbrand"
-            ],
-            "decklist": [
-                "99 Unknown Card"
-            ]
-        },
-        {
-            "deck_id": "229789",
-            "rank": "5-8",
-            "player": "Djamel Arab",
-            "commander": [
-                "Ruhan of the Fomori"
             ],
             "decklist": [
                 "99 Unknown Card"
@@ -431,6 +331,7 @@
             "deck_id": "229794",
             "rank": "5-8",
             "player": "Michael Labrousse",
+            "winrate": 0.75,
             "commander": [
                 "Zur the Enchanter"
             ],
@@ -535,10 +436,117 @@
                 "1 City of Brass",
                 "1 Reflecting Pool"
             ]
+        },
+        {
+            "deck_id": "229795",
+            "rank": "5-8",
+            "player": "Pascal Oulié",
+            "winrate": 0.75,
+            "commander": [
+                "Griselbrand"
+            ],
+            "decklist": [
+                "99 Unknown Card"
+            ]
+        },
+        {
+            "deck_id": "229796",
+            "rank": "3-4",
+            "player": "Julien Debelleix",
+            "winrate": 0.75,
+            "commander": [
+                "Wydwen, the Biting Gale"
+            ],
+            "decklist": [
+                "1 Black Sun's Zenith",
+                "1 Wretched Banquet",
+                "1 Thoughtseize",
+                "1 Inquisition of Kozilek",
+                "1 Innocent Blood",
+                "1 Gitaxian Probe",
+                "1 Duress",
+                "1 Demonic Tutor",
+                "1 Damnation",
+                "1 Shadow of Doubt",
+                "1 Shred Memory",
+                "1 Essence Scatter",
+                "1 Remove Soul",
+                "1 Ancestral Vision",
+                "1 Think Twice",
+                "1 Stifle",
+                "1 Spell Snare",
+                "1 Spell Pierce",
+                "1 Snuff Out",
+                "1 Skeletal Scrying",
+                "1 Vedalken Shackles",
+                "1 Exclude",
+                "1 Remand",
+                "1 Recoil",
+                "1 Prohibit",
+                "1 Preemptive Strike",
+                "1 Peek",
+                "1 Opportunity",
+                "1 Negate",
+                "1 Muddle the Mixture",
+                "1 Miscalculation",
+                "1 Mental Misstep",
+                "1 Memory Lapse",
+                "1 Mana Leak",
+                "1 Jace's Ingenuity",
+                "1 Into the Roil",
+                "1 Go for the Throat",
+                "1 Force Spike",
+                "1 Flash of Insight",
+                "1 Far / Away",
+                "1 False Summoning",
+                "1 Fact or Fiction",
+                "1 Repeal",
+                "1 Bitterblossom",
+                "1 Jace, the Mind Sculptor",
+                "1 Oblivion Stone",
+                "1 Runechanter's Pike",
+                "1 Diabolic Edict",
+                "1 Cryptic Command",
+                "1 Counterspell",
+                "1 Condescend",
+                "1 Complicate",
+                "1 Annul",
+                "1 Nihil Spellbomb",
+                "1 Dismember",
+                "1 Dystopia",
+                "1 Venser, Shaper Savant",
+                "1 Vendilion Clique",
+                "1 Snapcaster Mage",
+                "1 River of Tears",
+                "1 Cephalid Coliseum",
+                "1 Cavern of Souls",
+                "1 Minamo, School at Water's Edge",
+                "1 Misty Rainforest",
+                "1 Underground River",
+                "1 Tectonic Edge",
+                "1 Sunken Ruins",
+                "1 Scalding Tarn",
+                "1 Command Tower",
+                "1 Creeping Tar Pit",
+                "1 Darkslick Shores",
+                "1 Watery Grave",
+                "1 Wasteland",
+                "1 Verdant Catacombs",
+                "1 Urborg, Tomb of Yawgmoth",
+                "1 Marsh Flats",
+                "1 Flooded Strand",
+                "1 Dust Bowl",
+                "1 Drowned Catacomb",
+                "1 Underground Sea",
+                "1 Riptide Laboratory",
+                "1 Polluted Delta",
+                "1 Mouth of Ronom",
+                "1 Cabal Pit",
+                "1 Bloodstained Mire",
+                "1 Bojuka Bog",
+                "3 Snow-Covered Swamp",
+                "10 Snow-Covered Island"
+            ]
         }
-    ],
-    "name": "Damoclès Commander (Poitiers)",
-    "place": "",
-    "players": "61 players",
-    "date": "16/06/13"
+    ]
 }

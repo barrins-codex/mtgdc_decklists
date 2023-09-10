@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "43551",
+    "name": "Sabadasso Na Spell",
+    "place": "Spellcast (Guarulhos,Brasil)",
+    "players": "8 players",
+    "date": "15/04/23",
     "decks": [
         {
             "deck_id": "521663",
             "rank": "1",
             "player": "Guilherme Bellagente",
+            "winrate": 1.0,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -115,6 +120,7 @@
             "deck_id": "521664",
             "rank": "2",
             "player": "Raul Borges",
+            "winrate": 0.6666666666666666,
             "commander": [
                 "Ebondeath, Dracolich"
             ],
@@ -185,6 +191,7 @@
             "deck_id": "521665",
             "rank": "3",
             "player": "William Palácio",
+            "winrate": 0.6666666666666666,
             "commander": [
                 "Leovold, Emissary of Trest"
             ],
@@ -294,6 +301,7 @@
             "deck_id": "521666",
             "rank": "4",
             "player": "Helder Santos",
+            "winrate": 0.6666666666666666,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -399,9 +407,5 @@
                 "1 Solitude"
             ]
         }
-    ],
-    "name": "Sabadasso Na Spell",
-    "place": "Spellcast (Guarulhos,Brasil)",
-    "players": "8 players",
-    "date": "15/04/23"
+    ]
 }

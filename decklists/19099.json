@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "19099",
+    "name": "[DDL] Duel Lounge",
+    "place": "Darmstadt (Germany)",
+    "players": "9 players",
+    "date": "26/04/18",
     "decks": [
         {
             "deck_id": "320533",
             "rank": "1",
             "player": "Simon M.",
+            "winrate": 1.0,
             "commander": [
                 "Prossh, Skyraider of Kher"
             ],
@@ -97,9 +102,5 @@
                 "1 Growth Spasm"
             ]
         }
-    ],
-    "name": "[DDL] Duel Lounge",
-    "place": "Darmstadt (Germany)",
-    "players": "9 players",
-    "date": "26/04/18"
+    ]
 }

@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "35513",
+    "name": "Agoncillo Cup Duel",
+    "place": "Sakura (Antipolo City, Philippines)",
+    "players": "18 players",
+    "date": "26/03/22",
     "decks": [
         {
             "deck_id": "468086",
             "rank": "1",
             "player": "Scribe Lohengrin",
+            "winrate": 1.0,
             "commander": [
                 "Sythis, Harvest's Hand"
             ],
@@ -101,6 +106,7 @@
             "deck_id": "468087",
             "rank": "2",
             "player": "Tim Amagna",
+            "winrate": 0.8,
             "commander": [
                 "Tajic, Legion's Edge"
             ],
@@ -196,6 +202,7 @@
             "deck_id": "468088",
             "rank": "3-4",
             "player": "Raymond Sanglay",
+            "winrate": 0.8,
             "commander": [
                 "Jeska, Thrice Reborn",
                 "Kraum, Ludevic's Opus"
@@ -296,6 +303,7 @@
             "deck_id": "468089",
             "rank": "3-4",
             "player": "Yvan Tapales",
+            "winrate": 0.8,
             "commander": [
                 "Light-Paws, Emperor's Voice"
             ],
@@ -380,9 +388,5 @@
                 "1 Flooded Strand"
             ]
         }
-    ],
-    "name": "Agoncillo Cup Duel",
-    "place": "Sakura (Antipolo City, Philippines)",
-    "players": "18 players",
-    "date": "26/03/22"
+    ]
 }

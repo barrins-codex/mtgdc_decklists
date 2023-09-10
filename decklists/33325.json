@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "33325",
+    "name": "Duel Commander",
+    "place": "Aquacafe (Antipolo City, Philippines)",
+    "players": "8 players",
+    "date": "14/11/21",
     "decks": [
         {
             "deck_id": "454330",
             "rank": "1",
             "player": "Raymond Sanglay",
+            "winrate": 1.0,
             "commander": [
                 "Adeliz, the Cinder Wind"
             ],
@@ -101,6 +106,7 @@
             "deck_id": "454331",
             "rank": "2",
             "player": "Jeremias Garganera",
+            "winrate": 0.6666666666666666,
             "commander": [
                 "Miara, Thorn of the Glade",
                 "Tevesh Szat, Doom of Fools"
@@ -181,9 +187,5 @@
                 "26 Swamp"
             ]
         }
-    ],
-    "name": "Duel Commander",
-    "place": "Aquacafe (Antipolo City, Philippines)",
-    "players": "8 players",
-    "date": "14/11/21"
+    ]
 }

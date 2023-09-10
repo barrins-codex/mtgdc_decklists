@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "4945",
+    "name": "EDH",
+    "place": "BoM7 (Annecy)",
+    "players": "99 players",
+    "date": "09/05/13",
     "decks": [
         {
             "deck_id": "228563",
             "rank": "1",
             "player": "Olivier \"Rofellos\" Arnold",
+            "winrate": 0.9,
             "commander": [
                 "Jenara, Asura of War"
             ],
@@ -112,6 +117,7 @@
             "deck_id": "228564",
             "rank": "2",
             "player": "Pierre Almaraz",
+            "winrate": 0.8,
             "commander": [
                 "Geist of Saint Traft"
             ],
@@ -209,6 +215,7 @@
             "deck_id": "228565",
             "rank": "3",
             "player": "Étienne \"thecampeur\" Lourdin",
+            "winrate": 0.7777777777777778,
             "commander": [
                 "Karador, Ghost Chieftain"
             ],
@@ -317,6 +324,7 @@
             "deck_id": "228566",
             "rank": "4",
             "player": "Yoann Grand-Brochier",
+            "winrate": 0.7777777777777778,
             "commander": [
                 "Jenara, Asura of War"
             ],
@@ -423,6 +431,7 @@
             "deck_id": "228567",
             "rank": "5",
             "player": "Alexandre Dos Santos",
+            "winrate": 0.7777777777777778,
             "commander": [
                 "Zur the Enchanter"
             ],
@@ -531,6 +540,7 @@
             "deck_id": "228568",
             "rank": "6",
             "player": "Christophe Hostettler",
+            "winrate": 0.7777777777777778,
             "commander": [
                 "Grand Arbiter Augustin IV"
             ],
@@ -630,6 +640,7 @@
             "deck_id": "228569",
             "rank": "7",
             "player": "Noham Maubert",
+            "winrate": 0.7777777777777778,
             "commander": [
                 "Vendilion Clique"
             ],
@@ -708,9 +719,5 @@
                 "1 Negate"
             ]
         }
-    ],
-    "name": "EDH",
-    "place": "BoM7 (Annecy)",
-    "players": "99 players",
-    "date": "09/05/13"
+    ]
 }

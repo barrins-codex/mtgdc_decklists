@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "38671",
+    "name": "DC Event October",
+    "place": "Naya (Jinan, China)",
+    "players": "8 players",
+    "date": "03/10/22",
     "decks": [
         {
             "deck_id": "488702",
             "rank": "1",
             "player": "Xing Galaxy",
+            "winrate": 1.0,
             "commander": [
                 "Tivit, Seller of Secrets"
             ],
@@ -115,6 +120,7 @@
             "deck_id": "488703",
             "rank": "2",
             "player": "Qin Zihao",
+            "winrate": 0.6666666666666666,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -220,9 +226,5 @@
                 "1 Windswept Heath"
             ]
         }
-    ],
-    "name": "DC Event October",
-    "place": "Naya (Jinan, China)",
-    "players": "8 players",
-    "date": "03/10/22"
+    ]
 }

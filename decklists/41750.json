@@ -1,15 +1,19 @@
 {
     "format": "Duel Commander",
-    "id": 41750,
+    "id": "41750",
     "name": "TG Friday Duel pod 2",
     "place": "Tapped Games (Marikina City, Philippines)",
     "players": "9 players",
     "date": "24/02/23",
     "decks": [
         {
-            "player": "Martin Ogayon",
-            "rank": "1",
             "deck_id": "510029",
+            "rank": "1",
+            "player": "Martin Ogayon",
+            "winrate": 1.0,
+            "commander": [
+                "Grist, the Hunger Tide"
+            ],
             "decklist": [
                 "1 Tyvar, Jubilant Brawler",
                 "1 Arbor Elf",
@@ -102,15 +106,16 @@
                 "1 Wooded Foothills",
                 "1 Woodland Cemetery",
                 "1 Yavimaya, Cradle of Growth"
-            ],
-            "commander": [
-                "Grist, the Hunger Tide"
             ]
         },
         {
-            "player": "Ray Anthony Villegas",
-            "rank": "2",
             "deck_id": "510030",
+            "rank": "2",
+            "player": "Ray Anthony Villegas",
+            "winrate": 0.8,
+            "commander": [
+                "Saskia the Unyielding"
+            ],
             "decklist": [
                 "1 Scalding Tarn",
                 "1 Esper Sentinel",
@@ -211,9 +216,6 @@
                 "1 Domri, Anarch of Bolas",
                 "1 Minsc &amp; Boo, Timeless Heroes",
                 "1 Rancor"
-            ],
-            "commander": [
-                "Saskia the Unyielding"
             ]
         }
     ]

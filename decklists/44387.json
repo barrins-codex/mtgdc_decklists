@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "44387",
+    "name": "23st Duel-League",
+    "place": "Leipzig (Germany)",
+    "players": "8 players",
+    "date": "16/05/23",
     "decks": [
         {
             "deck_id": "527378",
             "rank": "1",
             "player": "Robo-bo-bots",
+            "winrate": 1.0,
             "commander": [
                 "Ratchet, Field Medic"
             ],
@@ -94,6 +99,7 @@
             "deck_id": "527379",
             "rank": "2",
             "player": "Max Dreste",
+            "winrate": 0.6666666666666666,
             "commander": [
                 "Slimefoot and Squee"
             ],
@@ -199,9 +205,5 @@
                 "1 Blightstep Pathway"
             ]
         }
-    ],
-    "name": "23st Duel-League",
-    "place": "Leipzig (Germany)",
-    "players": "8 players",
-    "date": "16/05/23"
+    ]
 }

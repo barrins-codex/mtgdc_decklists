@@ -1,6 +1,6 @@
 {
     "format": "Duel Commander",
-    "id": 46333,
+    "id": "46333",
     "name": "Wool Cup 72",
     "place": "Kadou (Beijing, China)",
     "players": "20 players",
@@ -8,6 +8,12 @@
     "decks": [
         {
             "deck_id": "542148",
+            "rank": "1",
+            "player": "Ziqi Xi",
+            "winrate": 1.0,
+            "commander": [
+                "Golos, Tireless Pilgrim"
+            ],
             "decklist": [
                 "1 Abrupt Decay",
                 "1 Aether Channeler",
@@ -108,15 +114,16 @@
                 "1 Wrenn and Six",
                 "1 Zagoth Triome",
                 "1 Ziatora's Proving Ground"
-            ],
-            "commander": [
-                "Golos, Tireless Pilgrim"
-            ],
-            "rank": "1",
-            "player": "Ziqi Xi"
+            ]
         },
         {
             "deck_id": "542149",
+            "rank": "2",
+            "player": "Tao Tang",
+            "winrate": 0.8,
+            "commander": [
+                "Old Rutstein"
+            ],
             "decklist": [
                 "1 Life / Death",
                 "1 Abrupt Decay",
@@ -208,15 +215,16 @@
                 "1 Worldly Tutor",
                 "1 Yavimaya, Cradle of Growth",
                 "1 Young Necromancer"
-            ],
-            "commander": [
-                "Old Rutstein"
-            ],
-            "rank": "2",
-            "player": "Tao Tang"
+            ]
         },
         {
             "deck_id": "542150",
+            "rank": "3",
+            "player": "Yixuan Gao",
+            "winrate": 0.8,
+            "commander": [
+                "Esika, God of the Tree"
+            ],
             "decklist": [
                 "1 Agent of Treachery",
                 "1 Animate Dead",
@@ -317,15 +325,16 @@
                 "1 Xander's Lounge",
                 "1 Zagoth Triome",
                 "1 Ziatora's Proving Ground"
-            ],
-            "commander": [
-                "Esika, God of the Tree"
-            ],
-            "rank": "3",
-            "player": "Yixuan Gao"
+            ]
         },
         {
             "deck_id": "542151",
+            "rank": "4",
+            "player": "Ximu Fan",
+            "winrate": 0.6,
+            "commander": [
+                "Aragorn, King of Gondor"
+            ],
             "decklist": [
                 "1 Fire / Ice",
                 "1 Adarkar Wastes",
@@ -421,12 +430,7 @@
                 "1 Wash Away",
                 "1 White Plume Adventurer",
                 "1 Windswept Heath"
-            ],
-            "commander": [
-                "Aragorn, King of Gondor"
-            ],
-            "rank": "4",
-            "player": "Ximu Fan"
+            ]
         }
     ]
 }

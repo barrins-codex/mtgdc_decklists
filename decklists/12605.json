@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "12605",
+    "name": "Commander (Rennes)",
+    "place": "",
+    "players": "57 players",
+    "date": "24/04/16",
     "decks": [
         {
             "deck_id": "272853",
             "rank": "1",
             "player": "Yan Lorente",
+            "winrate": 0.8888888888888888,
             "commander": [
                 "Radha, Heir to Keld"
             ],
@@ -105,6 +110,7 @@
             "deck_id": "272854",
             "rank": "2",
             "player": "Ewen \"Werewolf41\" Raude",
+            "winrate": 0.7777777777777778,
             "commander": [
                 "Vendilion Clique"
             ],
@@ -190,6 +196,7 @@
             "deck_id": "272855",
             "rank": "3-4",
             "player": "Martial \"Mars\" Moreau",
+            "winrate": 0.75,
             "commander": [
                 "Keranos, God of Storms"
             ],
@@ -271,6 +278,7 @@
             "deck_id": "272930",
             "rank": "3-4",
             "player": "\"krystanow\"",
+            "winrate": 0.75,
             "commander": [
                 "Teferi, Temporal Archmage"
             ],
@@ -344,6 +352,7 @@
             "deck_id": "272931",
             "rank": "5-8",
             "player": "\"funkymax\"",
+            "winrate": 0.75,
             "commander": [
                 "Keranos, God of Storms"
             ],
@@ -431,6 +440,7 @@
             "deck_id": "272932",
             "rank": "5-8",
             "player": "Lionel \"Hannibal44\" Galliere",
+            "winrate": 0.75,
             "commander": [
                 "Narset, Enlightened Master"
             ],
@@ -533,9 +543,5 @@
                 "1 Adarkar Wastes"
             ]
         }
-    ],
-    "name": "Commander (Rennes)",
-    "place": "",
-    "players": "57 players",
-    "date": "24/04/16"
+    ]
 }

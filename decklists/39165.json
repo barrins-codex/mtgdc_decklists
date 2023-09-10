@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "39165",
+    "name": "Duel",
+    "place": "Manabolt (Limeira, Brazil)",
+    "players": "8 players",
+    "date": "29/10/22",
     "decks": [
         {
             "deck_id": "491914",
             "rank": "1",
             "player": "Felipe Cruz",
+            "winrate": 1.0,
             "commander": [
                 "Breeches, Brazen Plunderer",
                 "Yoshimaru, Ever Faithful"
@@ -103,6 +108,7 @@
             "deck_id": "491915",
             "rank": "2",
             "player": "Lucas Felix",
+            "winrate": 0.6666666666666666,
             "commander": [
                 "Kroxa, Titan of Death's Hunger"
             ],
@@ -203,6 +209,7 @@
             "deck_id": "491916",
             "rank": "3",
             "player": "Paulo Sia",
+            "winrate": 0.6666666666666666,
             "commander": [
                 "Balmor, Battlemage Captain"
             ],
@@ -301,6 +308,7 @@
             "deck_id": "491917",
             "rank": "4",
             "player": "Victor Marques",
+            "winrate": 0.6666666666666666,
             "commander": [
                 "Saffi Eriksdotter"
             ],
@@ -399,9 +407,5 @@
                 "1 Yavimaya, Cradle of Growth"
             ]
         }
-    ],
-    "name": "Duel",
-    "place": "Manabolt (Limeira, Brazil)",
-    "players": "8 players",
-    "date": "29/10/22"
+    ]
 }

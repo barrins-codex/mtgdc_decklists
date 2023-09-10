@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "44077",
+    "name": "Open Qualifier",
+    "place": "Lyon (France)",
+    "players": "16 players",
+    "date": "03/05/23",
     "decks": [
         {
             "deck_id": "525358",
             "rank": "1",
             "player": "Thomas Grillot",
+            "winrate": 1.0,
             "commander": [
                 "Muxus, Goblin Grandee",
                 "Eldrazi / Guacamole / Tightrope",
@@ -107,6 +112,7 @@
             "deck_id": "525359",
             "rank": "2",
             "player": "Paul Fermé",
+            "winrate": 0.8,
             "commander": [
                 "Dennick, Pious Apprentice"
             ],
@@ -206,9 +212,5 @@
                 "1 Urza's Saga"
             ]
         }
-    ],
-    "name": "Open Qualifier",
-    "place": "Lyon (France)",
-    "players": "16 players",
-    "date": "03/05/23"
+    ]
 }

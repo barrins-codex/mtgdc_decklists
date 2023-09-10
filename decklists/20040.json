@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "20040",
+    "name": "JK Entertainment Opening Event",
+    "place": "Darmstadt, Germany",
+    "players": "8 players",
+    "date": "07/09/18",
     "decks": [
         {
             "deck_id": "330055",
             "rank": "1",
             "player": "Felix M.",
+            "winrate": 1.0,
             "commander": [
                 "Yuriko, the Tiger's Shadow"
             ],
@@ -107,6 +112,7 @@
             "deck_id": "330056",
             "rank": "2",
             "player": "Simon M.",
+            "winrate": 0.6666666666666666,
             "commander": [
                 "Gyrus, Waker of Corpses"
             ],
@@ -212,9 +218,5 @@
                 "1 Rootbound Crag"
             ]
         }
-    ],
-    "name": "JK Entertainment Opening Event",
-    "place": "Darmstadt, Germany",
-    "players": "8 players",
-    "date": "07/09/18"
+    ]
 }

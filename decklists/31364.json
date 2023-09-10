@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "31364",
+    "name": "4th Webcam-League",
+    "place": "Leipzig (Germany)",
+    "players": "10 players",
+    "date": "05/07/21",
     "decks": [
         {
             "deck_id": "443325",
             "rank": "1",
             "player": "Falko Lange",
+            "winrate": 1.0,
             "commander": [
                 "Kess, Dissident Mage"
             ],
@@ -113,6 +118,7 @@
             "deck_id": "443326",
             "rank": "2",
             "player": "Jonas Jörns",
+            "winrate": 0.8,
             "commander": [
                 "Miara, Thorn of the Glade",
                 "Tevesh Szat, Doom of Fools"
@@ -195,9 +201,5 @@
                 "24 Snow-Covered Swamp"
             ]
         }
-    ],
-    "name": "4th Webcam-League",
-    "place": "Leipzig (Germany)",
-    "players": "10 players",
-    "date": "05/07/21"
+    ]
 }

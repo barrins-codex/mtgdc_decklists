@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "32213",
+    "name": "Fun with Flags",
+    "place": "Sortilèges (Vannes, France)",
+    "players": "14 players",
+    "date": "31/08/21",
     "decks": [
         {
             "deck_id": "448021",
             "rank": "1",
             "player": "Guillemot Cédric",
+            "winrate": 1.0,
             "commander": [
                 "Kinnan, Bonder Prodigy"
             ],
@@ -108,6 +113,7 @@
             "deck_id": "448022",
             "rank": "2",
             "player": "Anael Yahi",
+            "winrate": 0.8,
             "commander": [
                 "Kwain, Itinerant Meddler"
             ],
@@ -202,6 +208,7 @@
             "deck_id": "448023",
             "rank": "3-4",
             "player": "Johan Cordonnier",
+            "winrate": 0.6,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -310,7 +317,8 @@
         {
             "deck_id": "448024",
             "rank": "3-4",
-            "player": "Basile ",
+            "player": "Basile",
+            "winrate": 0.6,
             "commander": [
                 "Miara, Thorn of the Glade",
                 "Tevesh Szat, Doom of Fools"
@@ -383,9 +391,5 @@
                 "34 Snow-Covered Swamp"
             ]
         }
-    ],
-    "name": "Fun with Flags",
-    "place": "Sortilèges (Vannes, France)",
-    "players": "14 players",
-    "date": "31/08/21"
+    ]
 }

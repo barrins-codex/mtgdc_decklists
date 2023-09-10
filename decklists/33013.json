@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "33013",
+    "name": "Duel Commander Weekly",
+    "place": "Mana Underground (Lagro, Philippines)",
+    "players": "8 players",
+    "date": "24/10/21",
     "decks": [
         {
             "deck_id": "452638",
             "rank": "1",
             "player": "Ben Co",
+            "winrate": 1.0,
             "commander": [
                 "Grazilaxx, Illithid Scholar"
             ],
@@ -90,6 +95,7 @@
             "deck_id": "452639",
             "rank": "2",
             "player": "Jarbs Sahagun",
+            "winrate": 0.6666666666666666,
             "commander": [
                 "Livio, Oathsworn Sentinel",
                 "Sakashima of a Thousand Faces"
@@ -184,9 +190,5 @@
                 "1 Windswept Heath"
             ]
         }
-    ],
-    "name": "Duel Commander Weekly",
-    "place": "Mana Underground (Lagro, Philippines)",
-    "players": "8 players",
-    "date": "24/10/21"
+    ]
 }

@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "20078",
+    "name": "Duel Commander",
+    "place": "MAG, Napoli Italy",
+    "players": "9 players",
+    "date": "15/09/18",
     "decks": [
         {
             "deck_id": "330429",
             "rank": "1",
             "player": "Fulvio Martello",
+            "winrate": 1.0,
             "commander": [
                 "Doran, the Siege Tower"
             ],
@@ -115,6 +120,7 @@
             "deck_id": "330430",
             "rank": "2",
             "player": "Francesco Cancelliere",
+            "winrate": 0.8,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -189,9 +195,5 @@
                 "1 Lava Spike"
             ]
         }
-    ],
-    "name": "Duel Commander",
-    "place": "MAG, Napoli Italy",
-    "players": "9 players",
-    "date": "15/09/18"
+    ]
 }

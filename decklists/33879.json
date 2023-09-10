@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "33879",
+    "name": "Wanted S2 #3",
+    "place": "CartaRennes (Rennes, France)",
+    "players": "15 players",
+    "date": "15/12/21",
     "decks": [
         {
             "deck_id": "457997",
             "rank": "1",
             "player": "Léon Le Loir",
+            "winrate": 1.0,
             "commander": [
                 "Niv-Mizzet Reborn"
             ],
@@ -114,6 +119,7 @@
             "deck_id": "457998",
             "rank": "2",
             "player": "Brieuc Evo",
+            "winrate": 0.8,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -219,9 +225,5 @@
                 "1 Windswept Heath"
             ]
         }
-    ],
-    "name": "Wanted S2 #3",
-    "place": "CartaRennes (Rennes, France)",
-    "players": "15 players",
-    "date": "15/12/21"
+    ]
 }

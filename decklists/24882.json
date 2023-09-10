@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "24882",
+    "name": "Duel Commander Shark Games",
+    "place": "Málaga (Spain)",
+    "players": "9 players",
+    "date": "01/03/20",
     "decks": [
         {
             "deck_id": "374123",
             "rank": "1",
             "player": "David Fernández",
+            "winrate": 1.0,
             "commander": [
                 "Queen Marchesa"
             ],
@@ -115,6 +120,7 @@
             "deck_id": "374124",
             "rank": "2",
             "player": "Guzmán Pelaez",
+            "winrate": 0.8,
             "commander": [
                 "Emmara, Soul of the Accord"
             ],
@@ -206,9 +212,5 @@
                 "9 Forest"
             ]
         }
-    ],
-    "name": "Duel Commander Shark Games",
-    "place": "Málaga (Spain)",
-    "players": "9 players",
-    "date": "01/03/20"
+    ]
 }

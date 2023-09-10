@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "37582",
+    "name": "Wool Cup 37",
+    "place": "Kadou (Beijing,China)",
+    "players": "11 players",
+    "date": "24/07/22",
     "decks": [
         {
             "deck_id": "481596",
             "rank": "1",
             "player": "Xu Han",
+            "winrate": 1.0,
             "commander": [
                 "Minsc &amp; Boo, Timeless Heroes"
             ],
@@ -109,6 +114,7 @@
             "deck_id": "481597",
             "rank": "2",
             "player": "Kaichen Zhao",
+            "winrate": 0.8,
             "commander": [
                 "Dennick, Pious Apprentice"
             ],
@@ -207,9 +213,5 @@
                 "1 Geist of Saint Traft"
             ]
         }
-    ],
-    "name": "Wool Cup 37",
-    "place": "Kadou (Beijing,China)",
-    "players": "11 players",
-    "date": "24/07/22"
+    ]
 }

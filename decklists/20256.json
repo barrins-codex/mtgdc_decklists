@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "20256",
+    "name": "MP - Monthly Duel-commander",
+    "place": "Holbæk, Denmark",
+    "players": "10 players",
+    "date": "07/10/18",
     "decks": [
         {
             "deck_id": "332320",
             "rank": "1",
             "player": "Lasse Hansen",
+            "winrate": 1.0,
             "commander": [
                 "Narset, Enlightened Master"
             ],
@@ -111,6 +116,7 @@
             "deck_id": "332321",
             "rank": "2",
             "player": "Jasper R. Nielsen",
+            "winrate": 0.8,
             "commander": [
                 "Tymna the Weaver",
                 "Kraum, Ludevic's Opus"
@@ -216,9 +222,5 @@
                 "1 Sacred Foundry"
             ]
         }
-    ],
-    "name": "MP - Monthly Duel-commander",
-    "place": "Holbæk, Denmark",
-    "players": "10 players",
-    "date": "07/10/18"
+    ]
 }

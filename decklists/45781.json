@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
-    "id": 45781,
+    "id": "45781",
+    "name": "Wool Cup 69",
+    "place": "Kadou (Beijing, China)",
+    "players": "17 players",
+    "date": "09/07/23",
     "decks": [
         {
             "deck_id": "538249",
             "rank": "1",
             "player": "Kaichen Zhao",
+            "winrate": 1.0,
             "commander": [
                 "Jegantha, the Wellspring",
                 "Sisay, Weatherlight Captain"
@@ -116,6 +121,7 @@
             "deck_id": "538250",
             "rank": "2",
             "player": "Wong Dik Fan",
+            "winrate": 0.8,
             "commander": [
                 "Aragorn, King of Gondor"
             ],
@@ -223,6 +229,7 @@
             "deck_id": "538251",
             "rank": "3",
             "player": "Xu Han",
+            "winrate": 0.8,
             "commander": [
                 "Atraxa, Grand Unifier"
             ],
@@ -332,6 +339,7 @@
             "deck_id": "538252",
             "rank": "4",
             "player": "Yihan Ding",
+            "winrate": 0.6,
             "commander": [
                 "Grist, the Hunger Tide"
             ],
@@ -427,9 +435,5 @@
                 "1 Young Wolf"
             ]
         }
-    ],
-    "name": "Wool Cup 69",
-    "place": "Kadou (Beijing, China)",
-    "players": "17 players",
-    "date": "09/07/23"
+    ]
 }

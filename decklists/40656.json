@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "40656",
+    "name": "19th Duel-League",
+    "place": "Leipzig (Germany)",
+    "players": "10 players",
+    "date": "13/01/23",
     "decks": [
         {
             "deck_id": "502383",
             "rank": "1",
             "player": "Henryk Hecht",
+            "winrate": 1.0,
             "commander": [
                 "Sythis, Harvest's Hand"
             ],
@@ -105,6 +110,7 @@
             "deck_id": "502384",
             "rank": "2",
             "player": "Sebastian Kött",
+            "winrate": 0.8,
             "commander": [
                 "Juri, Master of the Revue"
             ],
@@ -202,9 +208,5 @@
                 "1 Zurgo Bellstriker"
             ]
         }
-    ],
-    "name": "19th Duel-League",
-    "place": "Leipzig (Germany)",
-    "players": "10 players",
-    "date": "13/01/23"
+    ]
 }

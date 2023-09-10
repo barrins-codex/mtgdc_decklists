@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "32135",
+    "name": "II Liga Duel",
+    "place": "Rio de Janeiro (Brazil)",
+    "players": "8 players",
+    "date": "27/08/21",
     "decks": [
         {
             "deck_id": "447654",
             "rank": "1",
             "player": "Bruno Martins",
+            "winrate": 1.0,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -88,6 +93,7 @@
             "deck_id": "447655",
             "rank": "2",
             "player": "Juca",
+            "winrate": 0.6666666666666666,
             "commander": [
                 "Sythis, Harvest's Hand"
             ],
@@ -177,9 +183,5 @@
                 "9 Plains"
             ]
         }
-    ],
-    "name": "II Liga Duel",
-    "place": "Rio de Janeiro (Brazil)",
-    "players": "8 players",
-    "date": "27/08/21"
+    ]
 }

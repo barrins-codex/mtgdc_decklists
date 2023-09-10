@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "22813",
+    "name": "4th Duel-League",
+    "place": "Leipzig",
+    "players": "13 players",
+    "date": "11/08/19",
     "decks": [
         {
             "deck_id": "355920",
             "rank": "1",
             "player": "Jonas Jörns",
+            "winrate": 1.0,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -92,6 +97,7 @@
             "deck_id": "355921",
             "rank": "2",
             "player": "Simon The Sorcerer",
+            "winrate": 0.8,
             "commander": [
                 "Yuriko, the Tiger's Shadow"
             ],
@@ -177,9 +183,5 @@
                 "1 Force of Will"
             ]
         }
-    ],
-    "name": "4th Duel-League",
-    "place": "Leipzig",
-    "players": "13 players",
-    "date": "11/08/19"
+    ]
 }

@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "38185",
+    "name": "Multip Sclerosis Awareness Day",
+    "place": "Caverna do Dragão (Santos-SP, Brasil)",
+    "players": "13 players",
+    "date": "30/08/22",
     "decks": [
         {
             "deck_id": "485516",
             "rank": "1",
             "player": "Guilherme Santos",
+            "winrate": 1.0,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -115,6 +120,7 @@
             "deck_id": "485517",
             "rank": "2",
             "player": "Orlando Bibiano",
+            "winrate": 0.8,
             "commander": [
                 "Niv-Mizzet Reborn"
             ],
@@ -224,6 +230,7 @@
             "deck_id": "485518",
             "rank": "3",
             "player": "João Paulo Pontes",
+            "winrate": 0.6,
             "commander": [
                 "Grand Arbiter Augustin IV"
             ],
@@ -325,6 +332,7 @@
             "deck_id": "485519",
             "rank": "4",
             "player": "Victor Burghi",
+            "winrate": 0.6,
             "commander": [
                 "Saskia the Unyielding"
             ],
@@ -430,9 +438,5 @@
                 "1 Ziatora's Proving Ground"
             ]
         }
-    ],
-    "name": "Multip Sclerosis Awareness Day",
-    "place": "Caverna do Dragão (Santos-SP, Brasil)",
-    "players": "13 players",
-    "date": "30/08/22"
+    ]
 }

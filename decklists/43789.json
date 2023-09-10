@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "43789",
+    "name": "EDH Brazil Championship - Duel",
+    "place": "Mont Shop (São Paulo, Brazil)",
+    "players": "16 players",
+    "date": "25/04/23",
     "decks": [
         {
             "deck_id": "523273",
             "rank": "1",
             "player": "Matheus Jardim",
+            "winrate": 1.0,
             "commander": [
                 "Arcum Dagsson"
             ],
@@ -89,6 +94,7 @@
             "deck_id": "523274",
             "rank": "2",
             "player": "Victor Marques",
+            "winrate": 0.8,
             "commander": [
                 "Dihada, Binder of Wills"
             ],
@@ -198,6 +204,7 @@
             "deck_id": "523275",
             "rank": "3",
             "player": "Pedro Bianchi",
+            "winrate": 0.8,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -303,6 +310,7 @@
             "deck_id": "523276",
             "rank": "4",
             "player": "Cauê",
+            "winrate": 0.6,
             "commander": [
                 "Hogaak, Arisen Necropolis"
             ],
@@ -408,9 +416,5 @@
                 "1 Yavimaya, Cradle of Growth"
             ]
         }
-    ],
-    "name": "EDH Brazil Championship - Duel",
-    "place": "Mont Shop (São Paulo, Brazil)",
-    "players": "16 players",
-    "date": "25/04/23"
+    ]
 }

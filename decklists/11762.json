@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "11762",
+    "name": "Duel Commander - Aux 2 legendes",
+    "place": "",
+    "players": "8 players",
+    "date": "06/03/16",
     "decks": [
         {
             "deck_id": "267067",
             "rank": "1",
             "player": "Fèlix Tremblay",
+            "winrate": 1.0,
             "commander": [
                 "Surrak Dragonclaw"
             ],
@@ -108,9 +113,5 @@
                 "1 Logic Knot"
             ]
         }
-    ],
-    "name": "Duel Commander - Aux 2 legendes",
-    "place": "",
-    "players": "8 players",
-    "date": "06/03/16"
+    ]
 }

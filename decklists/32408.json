@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "32408",
+    "name": "Duel Commander Qualifier",
+    "place": "Tapped Games (Marikina, Philippines)",
+    "players": "9 players",
+    "date": "18/09/21",
     "decks": [
         {
             "deck_id": "449144",
             "rank": "1",
             "player": "Rai Reyes",
+            "winrate": 1.0,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -90,6 +95,7 @@
             "deck_id": "449145",
             "rank": "2",
             "player": "Rexel Tenorio",
+            "winrate": 0.8,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -195,9 +201,5 @@
                 "1 Yorion, Sky Nomad"
             ]
         }
-    ],
-    "name": "Duel Commander Qualifier",
-    "place": "Tapped Games (Marikina, Philippines)",
-    "players": "9 players",
-    "date": "18/09/21"
+    ]
 }

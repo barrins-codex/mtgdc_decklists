@@ -1,15 +1,19 @@
 {
     "format": "Duel Commander",
-    "id": 41754,
+    "id": "41754",
     "name": "Duelan sa TG",
     "place": "Tapped Games (Marikina City, Philippines)",
     "players": "17 players",
     "date": "25/02/23",
     "decks": [
         {
-            "player": "Miguel Aquino",
-            "rank": "1",
             "deck_id": "510043",
+            "rank": "1",
+            "player": "Miguel Aquino",
+            "winrate": 1.0,
+            "commander": [
+                "Dennick, Pious Apprentice"
+            ],
             "decklist": [
                 "1 Aboleth Spawn",
                 "1 Adarkar Wastes",
@@ -108,15 +112,17 @@
                 "1 Wash Away",
                 "1 White Plume Adventurer",
                 "1 Windswept Heath"
-            ],
-            "commander": [
-                "Dennick, Pious Apprentice"
             ]
         },
         {
-            "player": "Van Acordon",
-            "rank": "2",
             "deck_id": "510044",
+            "rank": "2",
+            "player": "Van Acordon",
+            "winrate": 0.8,
+            "commander": [
+                "Ludevic, Necro-Alchemist",
+                "Yoshimaru, Ever Faithful"
+            ],
             "decklist": [
                 "1 Adeline, Resplendent Cathar",
                 "1 Arid Mesa",
@@ -215,10 +221,6 @@
                 "1 White Plume Adventurer",
                 "1 Windswept Heath",
                 "1 Wooded Foothills"
-            ],
-            "commander": [
-                "Ludevic, Necro-Alchemist",
-                "Yoshimaru, Ever Faithful"
             ]
         }
     ]

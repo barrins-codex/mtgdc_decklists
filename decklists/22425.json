@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "22425",
+    "name": "3rd Duel-League",
+    "place": "Leipzig",
+    "players": "14 players",
+    "date": "07/07/19",
     "decks": [
         {
             "deck_id": "352349",
             "rank": "1",
             "player": "Jonas Jörns",
+            "winrate": 1.0,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -90,6 +95,7 @@
             "deck_id": "352350",
             "rank": "2",
             "player": "Max Dreste",
+            "winrate": 0.8,
             "commander": [
                 "Adeliz, the Cinder Wind"
             ],
@@ -171,9 +177,5 @@
                 "1 Umezawa's Jitte"
             ]
         }
-    ],
-    "name": "3rd Duel-League",
-    "place": "Leipzig",
-    "players": "14 players",
-    "date": "07/07/19"
+    ]
 }

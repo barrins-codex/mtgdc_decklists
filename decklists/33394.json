@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "33394",
+    "name": "Mtg Var Dc 6 !",
+    "place": "La Crau (France )",
+    "players": "12 players",
+    "date": "19/11/21",
     "decks": [
         {
             "deck_id": "454699",
             "rank": "1",
             "player": "Pierre Almaraz",
+            "winrate": 1.0,
             "commander": [
                 "Isamaru, Hound of Konda"
             ],
@@ -88,6 +93,7 @@
             "deck_id": "454700",
             "rank": "2",
             "player": "Loïc Baverel",
+            "winrate": 0.8,
             "commander": [
                 "Minsc, Beloved Ranger"
             ],
@@ -190,9 +196,5 @@
                 "1 Brushland"
             ]
         }
-    ],
-    "name": "Mtg Var Dc 6 !",
-    "place": "La Crau (France )",
-    "players": "12 players",
-    "date": "19/11/21"
+    ]
 }

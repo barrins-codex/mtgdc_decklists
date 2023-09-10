@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "17128",
+    "name": "FNM Hiveworld Cologne",
+    "place": "",
+    "players": "9 players",
+    "date": "29/09/17",
     "decks": [
         {
             "deck_id": "305921",
             "rank": "1",
             "player": "Alexander Schmoll",
+            "winrate": 1.0,
             "commander": [
                 "Karlov of the Ghost Council"
             ],
@@ -95,9 +100,5 @@
                 "1 Shambling Vent"
             ]
         }
-    ],
-    "name": "FNM Hiveworld Cologne",
-    "place": "",
-    "players": "9 players",
-    "date": "29/09/17"
+    ]
 }

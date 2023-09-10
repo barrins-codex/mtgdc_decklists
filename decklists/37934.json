@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "37934",
+    "name": "FNN Neowalkers",
+    "place": "Neowalkers (guarulhos,são paulo, brasil)",
+    "players": "13 players",
+    "date": "12/08/22",
     "decks": [
         {
             "deck_id": "483817",
             "rank": "1",
             "player": "Guilherme Bellagente",
+            "winrate": 1.0,
             "commander": [
                 "Tevesh Szat, Doom of Fools",
                 "Kydele, Chosen of Kruphix"
@@ -115,6 +120,7 @@
             "deck_id": "483818",
             "rank": "2",
             "player": "Samuel Martins",
+            "winrate": 0.8,
             "commander": [
                 "Octavia, Living Thesis"
             ],
@@ -193,6 +199,7 @@
             "deck_id": "483819",
             "rank": "3-4",
             "player": "Raul Borges",
+            "winrate": 0.6,
             "commander": [
                 "Jadar, Ghoulcaller of Nephalia"
             ],
@@ -267,6 +274,7 @@
             "deck_id": "483820",
             "rank": "3-4",
             "player": "William Palácio",
+            "winrate": 0.6,
             "commander": [
                 "Niv-Mizzet Reborn"
             ],
@@ -372,9 +380,5 @@
                 "1 Bring to Light"
             ]
         }
-    ],
-    "name": "FNN Neowalkers",
-    "place": "Neowalkers (guarulhos,são paulo, brasil)",
-    "players": "13 players",
-    "date": "12/08/22"
+    ]
 }

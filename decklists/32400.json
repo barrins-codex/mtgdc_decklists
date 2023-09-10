@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "32400",
+    "name": "WANTED #1",
+    "place": "CartaRennes (Rennes, France)",
+    "players": "16 players",
+    "date": "08/09/21",
     "decks": [
         {
             "deck_id": "449112",
             "rank": "1",
             "player": "Robin \"faarnn\" Angebaud",
+            "winrate": 1.0,
             "commander": [
                 "Galazeth Prismari"
             ],
@@ -106,6 +111,7 @@
             "deck_id": "449113",
             "rank": "2",
             "player": "Aurélien Lion",
+            "winrate": 0.8,
             "commander": [
                 "Dargo, the Shipwrecker",
                 "Silas Renn, Seeker Adept"
@@ -215,6 +221,7 @@
             "deck_id": "449114",
             "rank": "3",
             "player": "Charlie Cha",
+            "winrate": 0.8,
             "commander": [
                 "Grenzo, Dungeon Warden"
             ],
@@ -319,9 +326,5 @@
                 "1 Zo-Zu the Punisher"
             ]
         }
-    ],
-    "name": "WANTED #1",
-    "place": "CartaRennes (Rennes, France)",
-    "players": "16 players",
-    "date": "08/09/21"
+    ]
 }

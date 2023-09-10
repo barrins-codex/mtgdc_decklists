@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
-    "id": 45918,
+    "id": "45918",
+    "name": "Regular DC Geek Shoop",
+    "place": "Recife (Brasil)",
+    "players": "14 players",
+    "date": "11/07/23",
     "decks": [
         {
             "deck_id": "539274",
             "rank": "1",
             "player": "Mykael Lundgren",
+            "winrate": 1.0,
             "commander": [
                 "Ghyrson Starn, Kelermorph"
             ],
@@ -105,6 +110,7 @@
             "deck_id": "539275",
             "rank": "2",
             "player": "Rafael Batista",
+            "winrate": 0.8,
             "commander": [
                 "Aragorn, King of Gondor"
             ],
@@ -211,6 +217,7 @@
             "deck_id": "539276",
             "rank": "3-4",
             "player": "Gabiel Santana",
+            "winrate": 0.6,
             "commander": [
                 "Balmor, Battlemage Captain"
             ],
@@ -302,6 +309,7 @@
             "deck_id": "539277",
             "rank": "3-4",
             "player": "Guilherme (guima)",
+            "winrate": 0.6,
             "commander": [
                 "Niv-Mizzet Reborn"
             ],
@@ -407,9 +415,5 @@
                 "1 Bring to Light"
             ]
         }
-    ],
-    "name": "Regular DC Geek Shoop",
-    "place": "Recife (Brasil)",
-    "players": "14 players",
-    "date": "11/07/23"
+    ]
 }

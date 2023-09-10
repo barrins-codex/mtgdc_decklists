@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "9892",
+    "name": "23rd \"New Year Cake\" Cup (Shanghai)",
+    "place": "",
+    "players": "15 players",
+    "date": "17/05/15",
     "decks": [
         {
             "deck_id": "257062",
             "rank": "1",
             "player": "Li Duoyan",
+            "winrate": 1.0,
             "commander": [
                 "Braids, Cabal Minion"
             ],
@@ -96,6 +101,7 @@
             "deck_id": "257063",
             "rank": "2",
             "player": "Jiang Ling",
+            "winrate": 0.8,
             "commander": [
                 "Animar, Soul of Elements"
             ],
@@ -194,9 +200,5 @@
                 "1 Worldly Tutor"
             ]
         }
-    ],
-    "name": "23rd \"New Year Cake\" Cup (Shanghai)",
-    "place": "",
-    "players": "15 players",
-    "date": "17/05/15"
+    ]
 }

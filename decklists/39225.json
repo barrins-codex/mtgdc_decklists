@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "39225",
+    "name": "TNDC \"National Dentist's Day\"",
+    "place": "Caverna do Dragão (Santos, Brasil)",
+    "players": "17 players",
+    "date": "25/10/22",
     "decks": [
         {
             "deck_id": "492232",
             "rank": "1",
             "player": "Pablo Lima",
+            "winrate": 1.0,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -88,6 +93,7 @@
             "deck_id": "492233",
             "rank": "2",
             "player": "Leonardo Maeda",
+            "winrate": 0.8,
             "commander": [
                 "Minsc, Beloved Ranger"
             ],
@@ -195,6 +201,7 @@
             "deck_id": "492234",
             "rank": "3",
             "player": "João \"jojo\" Victor",
+            "winrate": 0.8,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -278,6 +285,7 @@
             "deck_id": "492235",
             "rank": "4",
             "player": "Euro Figueiredo",
+            "winrate": 0.6,
             "commander": [
                 "Arcum Dagsson"
             ],
@@ -359,9 +367,5 @@
                 "25 Snow-Covered Island"
             ]
         }
-    ],
-    "name": "TNDC \"National Dentist's Day\"",
-    "place": "Caverna do Dragão (Santos, Brasil)",
-    "players": "17 players",
-    "date": "25/10/22"
+    ]
 }

@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "36894",
+    "name": "Duelan sa TG",
+    "place": "Tapped Games (Marikina City, Philippines)",
+    "players": "12 players",
+    "date": "18/06/22",
     "decks": [
         {
             "deck_id": "477243",
             "rank": "1",
             "player": "Paul Relativo",
+            "winrate": 1.0,
             "commander": [
                 "Niv-Mizzet Reborn"
             ],
@@ -115,6 +120,7 @@
             "deck_id": "477244",
             "rank": "2",
             "player": "Jonathan Dolor",
+            "winrate": 0.8,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -201,6 +207,7 @@
             "deck_id": "477245",
             "rank": "3",
             "player": "Cilbert Corpuz",
+            "winrate": 0.6,
             "commander": [
                 "Inspiring Leader",
                 "Gut, True Soul Zealot"
@@ -304,9 +311,5 @@
                 "2 Plains"
             ]
         }
-    ],
-    "name": "Duelan sa TG",
-    "place": "Tapped Games (Marikina City, Philippines)",
-    "players": "12 players",
-    "date": "18/06/22"
+    ]
 }

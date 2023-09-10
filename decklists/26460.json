@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "26460",
+    "name": "107th \"New Year Cake\" Cup",
+    "place": "Shanghai (China)",
+    "players": "12 players",
+    "date": "12/07/20",
     "decks": [
         {
             "deck_id": "403085",
             "rank": "1",
             "player": "Pan Liangchen",
+            "winrate": 1.0,
             "commander": [
                 "Yorvo, Lord of Garenbrig"
             ],
@@ -93,6 +98,7 @@
             "deck_id": "403086",
             "rank": "2",
             "player": "Xiong Jiateng",
+            "winrate": 0.8,
             "commander": [
                 "Klothys, God of Destiny"
             ],
@@ -180,9 +186,5 @@
                 "1 Ruination"
             ]
         }
-    ],
-    "name": "107th \"New Year Cake\" Cup",
-    "place": "Shanghai (China)",
-    "players": "12 players",
-    "date": "12/07/20"
+    ]
 }

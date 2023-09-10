@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "37647",
+    "name": "Wool Cup 38",
+    "place": "Kadou (Beijing,China)",
+    "players": "12 players",
+    "date": "01/08/22",
     "decks": [
         {
             "deck_id": "481971",
             "rank": "1",
             "player": "Char",
+            "winrate": 1.0,
             "commander": [
                 "Niv-Mizzet Reborn"
             ],
@@ -115,6 +120,7 @@
             "deck_id": "481972",
             "rank": "2",
             "player": "Poordonkey",
+            "winrate": 0.8,
             "commander": [
                 "Isamaru, Hound of Konda"
             ],
@@ -200,9 +206,5 @@
                 "1 Tithe Taker"
             ]
         }
-    ],
-    "name": "Wool Cup 38",
-    "place": "Kadou (Beijing,China)",
-    "players": "12 players",
-    "date": "01/08/22"
+    ]
 }

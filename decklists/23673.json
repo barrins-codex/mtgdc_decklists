@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "23673",
+    "name": "6th Duel-League",
+    "place": "Leipzig (Germany)",
+    "players": "12 players",
+    "date": "03/11/19",
     "decks": [
         {
             "deck_id": "364278",
             "rank": "1",
             "player": "Jonas Kretzschmar",
+            "winrate": 1.0,
             "commander": [
                 "The Gitrog Monster"
             ],
@@ -104,6 +109,7 @@
             "deck_id": "364279",
             "rank": "2",
             "player": "Henryk Hecht",
+            "winrate": 0.8,
             "commander": [
                 "Karlov of the Ghost Council"
             ],
@@ -201,9 +207,5 @@
                 "1 Ajani's Welcome"
             ]
         }
-    ],
-    "name": "6th Duel-League",
-    "place": "Leipzig (Germany)",
-    "players": "12 players",
-    "date": "03/11/19"
+    ]
 }

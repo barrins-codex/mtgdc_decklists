@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "20446",
+    "name": "[DDL] Darmstädter Duel Lounge",
+    "place": "Darmstadt, Germany",
+    "players": "9 players",
+    "date": "01/11/18",
     "decks": [
         {
             "deck_id": "333986",
             "rank": "1",
             "player": "Felix M.",
+            "winrate": 1.0,
             "commander": [
                 "Tymna the Weaver",
                 "Thrasios, Triton Hero"
@@ -115,6 +120,7 @@
             "deck_id": "333987",
             "rank": "2",
             "player": "Samuel Z.",
+            "winrate": 0.8,
             "commander": [
                 "Animar, Soul of Elements"
             ],
@@ -218,9 +224,5 @@
                 "1 Arbor Elf"
             ]
         }
-    ],
-    "name": "[DDL] Darmstädter Duel Lounge",
-    "place": "Darmstadt, Germany",
-    "players": "9 players",
-    "date": "01/11/18"
+    ]
 }

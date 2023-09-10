@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "34505",
+    "name": "1v1 1K+",
+    "place": "Game Center (Narellan, NSW, Australia)",
+    "players": "41 players",
+    "date": "29/01/22",
     "decks": [
         {
             "deck_id": "461767",
             "rank": "1",
             "player": "Hayden Farmer",
+            "winrate": 0.8888888888888888,
             "commander": [
                 "Kraum, Ludevic's Opus",
                 "Malcolm, Keen-Eyed Navigator"
@@ -100,6 +105,7 @@
             "deck_id": "461768",
             "rank": "2",
             "player": "Aaron Lewis",
+            "winrate": 0.7777777777777778,
             "commander": [
                 "Klothys, God of Destiny"
             ],
@@ -199,6 +205,7 @@
             "deck_id": "461769",
             "rank": "3",
             "player": "Lance Li",
+            "winrate": 0.75,
             "commander": [
                 "Esika, God of the Tree"
             ],
@@ -308,6 +315,7 @@
             "deck_id": "461770",
             "rank": "4",
             "player": "Josh Fulton",
+            "winrate": 0.75,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -392,6 +400,7 @@
             "deck_id": "461771",
             "rank": "5",
             "player": "Nick Wear",
+            "winrate": 0.75,
             "commander": [
                 "Atraxa, Praetors' Voice"
             ],
@@ -499,6 +508,7 @@
             "deck_id": "461772",
             "rank": "6",
             "player": "Darian Richards",
+            "winrate": 0.75,
             "commander": [
                 "Saskia the Unyielding"
             ],
@@ -608,6 +618,7 @@
             "deck_id": "461773",
             "rank": "7",
             "player": "Nicolas Marthick",
+            "winrate": 0.75,
             "commander": [
                 "Yawgmoth, Thran Physician"
             ],
@@ -693,6 +704,7 @@
             "deck_id": "461774",
             "rank": "8",
             "player": "Tim Edgerton",
+            "winrate": 0.75,
             "commander": [
                 "Niv-Mizzet, Parun"
             ],
@@ -785,9 +797,5 @@
                 "1 Volatile Fjord"
             ]
         }
-    ],
-    "name": "1v1 1K+",
-    "place": "Game Center (Narellan, NSW, Australia)",
-    "players": "41 players",
-    "date": "29/01/22"
+    ]
 }

@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "14083",
+    "name": "SPb MTGsale Weekend \r\n",
+    "place": "",
+    "players": "25 players",
+    "date": "20/11/16",
     "decks": [
         {
             "deck_id": "283749",
             "rank": "1",
             "player": "Kedrenovsky Mikhail",
+            "winrate": 1.0,
             "commander": [
                 "Geist of Saint Traft"
             ],
@@ -102,6 +107,7 @@
             "deck_id": "283750",
             "rank": "2",
             "player": "Semenov Dmitry",
+            "winrate": 0.8,
             "commander": [
                 "Titania, Protector of Argoth"
             ],
@@ -190,9 +196,5 @@
                 "1 Karn Liberated"
             ]
         }
-    ],
-    "name": "SPb MTGsale Weekend \r\n",
-    "place": "",
-    "players": "25 players",
-    "date": "20/11/16"
+    ]
 }

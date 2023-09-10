@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "32394",
+    "name": "TD Discord League S1",
+    "place": "Top Deck Games and Hobbies (Philippines)",
+    "players": "14 players",
+    "date": "13/09/21",
     "decks": [
         {
             "deck_id": "449073",
             "rank": "1",
             "player": "Mary Lyndel Amor",
+            "winrate": 1.0,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -115,6 +120,7 @@
             "deck_id": "449074",
             "rank": "2",
             "player": "Reuben Ferrer",
+            "winrate": 0.8,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -224,6 +230,7 @@
             "deck_id": "449075",
             "rank": "3-4",
             "player": "Justin Andrew Lawrence Rigor",
+            "winrate": 0.6,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -303,6 +310,7 @@
             "deck_id": "449076",
             "rank": "3-4",
             "player": "Rusty Capricho",
+            "winrate": 0.6,
             "commander": [
                 "The Gitrog Monster"
             ],
@@ -398,9 +406,5 @@
                 "1 Chain of Smog"
             ]
         }
-    ],
-    "name": "TD Discord League S1",
-    "place": "Top Deck Games and Hobbies (Philippines)",
-    "players": "14 players",
-    "date": "13/09/21"
+    ]
 }

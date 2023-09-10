@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "21665",
+    "name": "April Starlight daily 2",
+    "place": "Moscow",
+    "players": "9 players",
+    "date": "16/04/19",
     "decks": [
         {
             "deck_id": "345514",
             "rank": "1",
-            "player": "\tSergey \"loxmatii\" Lamzin",
+            "player": "Sergey \"loxmatii\" Lamzin",
+            "winrate": 1.0,
             "commander": [
                 "Sai, Master Thopterist"
             ],
@@ -92,9 +97,5 @@
                 "1 Reverse Engineer"
             ]
         }
-    ],
-    "name": "April Starlight daily 2",
-    "place": "Moscow",
-    "players": "9 players",
-    "date": "16/04/19"
+    ]
 }

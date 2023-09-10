@@ -1,15 +1,19 @@
 {
     "format": "Duel Commander",
-    "id": 46716,
+    "id": "46716",
     "name": "Watermelon Champion Cup 2",
     "place": "Slow Drake (Beijing, China)",
     "players": "12 players",
     "date": "13/08/23",
     "decks": [
         {
-            "player": "Xiangjun Dai",
-            "rank": "1",
             "deck_id": "545220",
+            "rank": "1",
+            "player": "Xiangjun Dai",
+            "winrate": 1.0,
+            "commander": [
+                "Feldon, Ronom Excavator"
+            ],
             "decklist": [
                 "1 Ahn-Crop Crasher",
                 "1 Arc Trail",
@@ -89,15 +93,16 @@
                 "1 Wild Slash",
                 "1 Wooded Foothills",
                 "1 Zurgo Bellstriker"
-            ],
-            "commander": [
-                "Feldon, Ronom Excavator"
             ]
         },
         {
-            "player": "Wei Cheng",
-            "rank": "2",
             "deck_id": "545221",
+            "rank": "2",
+            "player": "Wei Cheng",
+            "winrate": 0.8,
+            "commander": [
+                "Tivit, Seller of Secrets"
+            ],
             "decklist": [
                 "1 Cut Down",
                 "1 Fatal Push",
@@ -198,9 +203,6 @@
                 "1 Snow-Covered Island",
                 "1 Snow-Covered Plains",
                 "1 Snow-Covered Swamp"
-            ],
-            "commander": [
-                "Tivit, Seller of Secrets"
             ]
         }
     ]

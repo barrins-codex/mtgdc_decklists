@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "39638",
+    "name": "DC GTO Special",
+    "place": "Fulcrum Esports Hub (Cainta City, Philippines)",
+    "players": "10 players",
+    "date": "20/11/22",
     "decks": [
         {
             "deck_id": "495386",
             "rank": "1",
             "player": "Earl Caymo",
+            "winrate": 1.0,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -115,6 +120,7 @@
             "deck_id": "495387",
             "rank": "2",
             "player": "Franklin Aguba",
+            "winrate": 0.8,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -224,6 +230,7 @@
             "deck_id": "495388",
             "rank": "3",
             "player": "Martin Ogayon",
+            "winrate": 0.6,
             "commander": [
                 "Grist, the Hunger Tide"
             ],
@@ -322,9 +329,5 @@
                 "1 Yavimaya, Cradle of Growth"
             ]
         }
-    ],
-    "name": "DC GTO Special",
-    "place": "Fulcrum Esports Hub (Cainta City, Philippines)",
-    "players": "10 players",
-    "date": "20/11/22"
+    ]
 }

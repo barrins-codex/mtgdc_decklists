@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "13680",
+    "name": "LegionCG FNM Duel Commander [30 HP]",
+    "place": "",
+    "players": "8 players",
+    "date": "07/10/16",
     "decks": [
         {
             "deck_id": "280599",
             "rank": "1",
             "player": "Fernando Secco",
+            "winrate": 1.0,
             "commander": [
                 "Rashmi, Eternities Crafter"
             ],
@@ -92,9 +97,5 @@
                 "17 Island"
             ]
         }
-    ],
-    "name": "LegionCG FNM Duel Commander [30 HP]",
-    "place": "",
-    "players": "8 players",
-    "date": "07/10/16"
+    ]
 }

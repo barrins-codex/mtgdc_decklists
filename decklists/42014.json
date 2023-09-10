@@ -1,15 +1,19 @@
 {
     "format": "Duel Commander",
-    "id": 42014,
+    "id": "42014",
     "name": "Shoturday Night DC",
     "place": "HBK (Antipolo, Philippines)",
     "players": "10 players",
     "date": "04/03/23",
     "decks": [
         {
-            "player": "Deks Sienes",
-            "rank": "1",
             "deck_id": "511670",
+            "rank": "1",
+            "player": "Deks Sienes",
+            "winrate": 1.0,
+            "commander": [
+                "Kess, Dissident Mage"
+            ],
             "decklist": [
                 "1 Brazen Borrower",
                 "1 Dack Fayden",
@@ -110,15 +114,16 @@
                 "1 Watery Grave",
                 "1 Wooded Foothills",
                 "1 Xander's Lounge"
-            ],
-            "commander": [
-                "Kess, Dissident Mage"
             ]
         },
         {
-            "player": "Scribe Lohengrin",
-            "rank": "2",
             "deck_id": "511671",
+            "rank": "2",
+            "player": "Scribe Lohengrin",
+            "winrate": 0.8,
+            "commander": [
+                "Sythis, Harvest's Hand"
+            ],
             "decklist": [
                 "1 Approach of the Second Sun",
                 "1 Argothian Enchantress",
@@ -208,9 +213,6 @@
                 "1 Windswept Heath",
                 "1 Wooded Bastion",
                 "1 Wrath of God"
-            ],
-            "commander": [
-                "Sythis, Harvest's Hand"
             ]
         }
     ]

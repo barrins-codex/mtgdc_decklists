@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "33768",
+    "name": "WANTED S2 #2",
+    "place": "CartaRennes (Rennes, France)",
+    "players": "13 players",
+    "date": "08/12/21",
     "decks": [
         {
             "deck_id": "457319",
             "rank": "1",
             "player": "Thibault Cantaluppi",
+            "winrate": 1.0,
             "commander": [
                 "Jori En, Ruin Diver"
             ],
@@ -100,6 +105,7 @@
             "deck_id": "457320",
             "rank": "2",
             "player": "Charlie Cha",
+            "winrate": 0.8,
             "commander": [
                 "Sisay, Weatherlight Captain"
             ],
@@ -204,9 +210,5 @@
                 "1 Zagoth Triome"
             ]
         }
-    ],
-    "name": "WANTED S2 #2",
-    "place": "CartaRennes (Rennes, France)",
-    "players": "13 players",
-    "date": "08/12/21"
+    ]
 }

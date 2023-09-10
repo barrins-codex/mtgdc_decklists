@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "38358",
+    "name": "Duelan sa TG",
+    "place": "Tapped Games (Marikina City, Philippines)",
+    "players": "10 players",
+    "date": "10/09/22",
     "decks": [
         {
             "deck_id": "486682",
             "rank": "1",
             "player": "Rai Reyes",
+            "winrate": 1.0,
             "commander": [
                 "Juri, Master of the Revue"
             ],
@@ -108,6 +113,7 @@
             "deck_id": "486683",
             "rank": "2",
             "player": "Dinno Zaide",
+            "winrate": 0.8,
             "commander": [
                 "Jeska, Thrice Reborn",
                 "Ludevic, Necro-Alchemist"
@@ -206,6 +212,7 @@
             "deck_id": "486684",
             "rank": "3",
             "player": "Ricky Madrigal",
+            "winrate": 0.6,
             "commander": [
                 "Sythis, Harvest's Hand"
             ],
@@ -309,6 +316,7 @@
             "deck_id": "486685",
             "rank": "4",
             "player": "Franklin Aguba",
+            "winrate": 0.6,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -414,9 +422,5 @@
                 "1 Wishclaw Talisman"
             ]
         }
-    ],
-    "name": "Duelan sa TG",
-    "place": "Tapped Games (Marikina City, Philippines)",
-    "players": "10 players",
-    "date": "10/09/22"
+    ]
 }

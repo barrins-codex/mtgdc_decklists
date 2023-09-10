@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "32661",
+    "name": "[DDL] Lounge League",
+    "place": "Darmstadt (Germany)",
+    "players": "8 players",
+    "date": "18/08/21",
     "decks": [
         {
             "deck_id": "450630",
             "rank": "1",
             "player": "Samuel Z.",
+            "winrate": 1.0,
             "commander": [
                 "Gilanra, Caller of Wirewood",
                 "Tevesh Szat, Doom of Fools"
@@ -103,6 +108,7 @@
             "deck_id": "450631",
             "rank": "2",
             "player": "Bitzelberg",
+            "winrate": 0.6666666666666666,
             "commander": [
                 "Miara, Thorn of the Glade",
                 "Tevesh Szat, Doom of Fools"
@@ -181,9 +187,5 @@
                 "28 Snow-Covered Swamp"
             ]
         }
-    ],
-    "name": "[DDL] Lounge League",
-    "place": "Darmstadt (Germany)",
-    "players": "8 players",
-    "date": "18/08/21"
+    ]
 }

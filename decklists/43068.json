@@ -1,15 +1,90 @@
 {
     "format": "Duel Commander",
-    "id": 43068,
+    "id": "43068",
     "name": "Liga Neowalkers 4/13",
     "place": "Neowalkers (Guarulhos, Brasil)",
     "players": "10 players",
     "date": "24/03/23",
     "decks": [
         {
-            "player": "Douglas Pacífico",
-            "rank": "2",
+            "deck_id": "518329",
+            "rank": "1",
+            "player": "Raul Borges",
+            "winrate": 1.0,
+            "commander": [
+                "Ebondeath, Dracolich"
+            ],
+            "decklist": [
+                "1 Go for the Throat",
+                "1 Geth's Verdict",
+                "1 Force of Despair",
+                "1 Fatal Push",
+                "1 Eliminate",
+                "1 Dismember",
+                "1 Diabolic Edict",
+                "1 Defile",
+                "1 Deadly Rollick",
+                "1 Cut Down",
+                "1 Bone Shards",
+                "1 Bloodchief's Thirst",
+                "1 Walk the Plank",
+                "1 Village Rites",
+                "1 Victim of Night",
+                "1 Tragic Slip",
+                "1 Sudden Edict",
+                "1 Skullclamp",
+                "1 Heartless Act",
+                "1 Sign in Blood",
+                "1 Sheoldred's Edict",
+                "1 Read the Bones",
+                "1 Quest for the Gravelord",
+                "1 Power Word Kill",
+                "1 Malicious Affliction",
+                "1 Invoke Despair",
+                "1 Infernal Grasp",
+                "1 Hymn to Tourach",
+                "1 Gutterbones",
+                "1 Grim Wanderer",
+                "1 Gravecrawler",
+                "1 Graf Reaver",
+                "1 Gifted Aetherborn",
+                "1 Geralf's Messenger",
+                "1 Gatekeeper of Malakir",
+                "1 Fell Stinger",
+                "1 Dread Wanderer",
+                "1 Diregraf Ghoul",
+                "1 Cult Conscript",
+                "1 Carrion Feeder",
+                "1 Carnophage",
+                "1 Bone Picker",
+                "1 Bloodsoaked Champion",
+                "1 Bloodghast",
+                "1 Dogged Detective",
+                "1 Yahenni, Undying Partisan",
+                "1 Vampire Lacerator",
+                "1 Undead Augur",
+                "1 Tymaret, Chosen from Death",
+                "1 Tourach, Dread Cantor",
+                "1 Tenacious Underdog",
+                "1 Skyclave Shade",
+                "1 Scrapheap Scrounger",
+                "1 Razorlash Transmogrant",
+                "1 Ravenous Chupacabra",
+                "1 Murderous Rider",
+                "1 Knight of the Ebon Legion",
+                "1 Jadar, Ghoulcaller of Nephalia",
+                "1 Skinrender",
+                "40 Swamp"
+            ]
+        },
+        {
             "deck_id": "518330",
+            "rank": "2",
+            "player": "Douglas Pacífico",
+            "winrate": 0.8,
+            "commander": [
+                "Ghyrson Starn, Kelermorph"
+            ],
             "decklist": [
                 "1 Arc Trail",
                 "1 Arid Mesa",
@@ -98,15 +173,16 @@
                 "1 Volatile Fjord",
                 "1 Wash Away",
                 "1 Young Pyromancer"
-            ],
-            "commander": [
-                "Ghyrson Starn, Kelermorph"
             ]
         },
         {
-            "player": "Filipe Caetano",
-            "rank": "3-4",
             "deck_id": "518331",
+            "rank": "3-4",
+            "player": "Filipe Caetano",
+            "winrate": 0.6,
+            "commander": [
+                "Ardoz, Cobbler of War"
+            ],
             "decklist": [
                 "1 Castle Embereth",
                 "1 Mutavault",
@@ -185,85 +261,16 @@
                 "1 Slicer, Hired Muscle",
                 "1 Fireblast",
                 "1 Pyrokinesis"
-            ],
-            "commander": [
-                "Ardoz, Cobbler of War"
             ]
         },
         {
-            "player": "Raul Borges",
-            "rank": "1",
-            "deck_id": "518329",
-            "decklist": [
-                "1 Go for the Throat",
-                "1 Geth's Verdict",
-                "1 Force of Despair",
-                "1 Fatal Push",
-                "1 Eliminate",
-                "1 Dismember",
-                "1 Diabolic Edict",
-                "1 Defile",
-                "1 Deadly Rollick",
-                "1 Cut Down",
-                "1 Bone Shards",
-                "1 Bloodchief's Thirst",
-                "1 Walk the Plank",
-                "1 Village Rites",
-                "1 Victim of Night",
-                "1 Tragic Slip",
-                "1 Sudden Edict",
-                "1 Skullclamp",
-                "1 Heartless Act",
-                "1 Sign in Blood",
-                "1 Sheoldred's Edict",
-                "1 Read the Bones",
-                "1 Quest for the Gravelord",
-                "1 Power Word Kill",
-                "1 Malicious Affliction",
-                "1 Invoke Despair",
-                "1 Infernal Grasp",
-                "1 Hymn to Tourach",
-                "1 Gutterbones",
-                "1 Grim Wanderer",
-                "1 Gravecrawler",
-                "1 Graf Reaver",
-                "1 Gifted Aetherborn",
-                "1 Geralf's Messenger",
-                "1 Gatekeeper of Malakir",
-                "1 Fell Stinger",
-                "1 Dread Wanderer",
-                "1 Diregraf Ghoul",
-                "1 Cult Conscript",
-                "1 Carrion Feeder",
-                "1 Carnophage",
-                "1 Bone Picker",
-                "1 Bloodsoaked Champion",
-                "1 Bloodghast",
-                "1 Dogged Detective",
-                "1 Yahenni, Undying Partisan",
-                "1 Vampire Lacerator",
-                "1 Undead Augur",
-                "1 Tymaret, Chosen from Death",
-                "1 Tourach, Dread Cantor",
-                "1 Tenacious Underdog",
-                "1 Skyclave Shade",
-                "1 Scrapheap Scrounger",
-                "1 Razorlash Transmogrant",
-                "1 Ravenous Chupacabra",
-                "1 Murderous Rider",
-                "1 Knight of the Ebon Legion",
-                "1 Jadar, Ghoulcaller of Nephalia",
-                "1 Skinrender",
-                "40 Swamp"
-            ],
-            "commander": [
-                "Ebondeath, Dracolich"
-            ]
-        },
-        {
-            "player": "Gustavo Silva",
-            "rank": "3-4",
             "deck_id": "518332",
+            "rank": "3-4",
+            "player": "Gustavo Silva",
+            "winrate": 0.6,
+            "commander": [
+                "Grist, the Hunger Tide"
+            ],
             "decklist": [
                 "1 Abrupt Decay",
                 "1 Arbor Elf",
@@ -354,9 +361,6 @@
                 "1 Worldly Tutor",
                 "1 Yavimaya, Cradle of Growth",
                 "1 Yawgmoth, Thran Physician"
-            ],
-            "commander": [
-                "Grist, the Hunger Tide"
             ]
         }
     ]

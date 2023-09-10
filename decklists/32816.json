@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "32816",
+    "name": "Monthly Duel Commander",
+    "place": "Magic Player (Vipperød, Tier1MTG, Denmark)",
+    "players": "10 players",
+    "date": "16/10/21",
     "decks": [
         {
             "deck_id": "451461",
             "rank": "1",
             "player": "Asbjørn Jensen",
+            "winrate": 1.0,
             "commander": [
                 "Minsc, Beloved Ranger"
             ],
@@ -111,6 +116,7 @@
             "deck_id": "451462",
             "rank": "2",
             "player": "Daniel Lind",
+            "winrate": 0.8,
             "commander": [
                 "Tevesh Szat, Doom of Fools",
                 "Miara, Thorn of the Glade"
@@ -185,6 +191,7 @@
             "deck_id": "451463",
             "rank": "3-4",
             "player": "Jeppe Risager",
+            "winrate": 0.6,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -264,6 +271,7 @@
             "deck_id": "451464",
             "rank": "3-4",
             "player": "Jesper Larsen",
+            "winrate": 0.6,
             "commander": [
                 "Kraum, Ludevic's Opus",
                 "Malcolm, Keen-Eyed Navigator"
@@ -354,9 +362,5 @@
                 "10 Island"
             ]
         }
-    ],
-    "name": "Monthly Duel Commander",
-    "place": "Magic Player (Vipperød, Tier1MTG, Denmark)",
-    "players": "10 players",
-    "date": "16/10/21"
+    ]
 }

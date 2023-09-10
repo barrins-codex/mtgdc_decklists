@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "40533",
+    "name": "DC Monthly",
+    "place": "Tableraze (Montpellier, France)",
+    "players": "10 players",
+    "date": "08/01/23",
     "decks": [
         {
             "deck_id": "501561",
             "rank": "1",
             "player": "Grégoire Hulin",
+            "winrate": 1.0,
             "commander": [
                 "Kroxa, Titan of Death's Hunger"
             ],
@@ -106,6 +111,7 @@
             "deck_id": "501562",
             "rank": "2",
             "player": "Antoine Colomb",
+            "winrate": 0.8,
             "commander": [
                 "The Ur-Dragon"
             ],
@@ -211,9 +217,5 @@
                 "1 Xander's Lounge"
             ]
         }
-    ],
-    "name": "DC Monthly",
-    "place": "Tableraze (Montpellier, France)",
-    "players": "10 players",
-    "date": "08/01/23"
+    ]
 }

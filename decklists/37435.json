@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "37435",
+    "name": "Duelan sa TG",
+    "place": "Tapped Games (Marikina City, Philippines)",
+    "players": "10 players",
+    "date": "16/07/22",
     "decks": [
         {
             "deck_id": "480632",
             "rank": "1",
             "player": "Dinno Zaide",
+            "winrate": 1.0,
             "commander": [
                 "Ludevic, Necro-Alchemist",
                 "Jeska, Thrice Reborn"
@@ -105,6 +110,7 @@
             "deck_id": "480633",
             "rank": "2",
             "player": "Rexel Tenorio",
+            "winrate": 0.8,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -214,6 +220,7 @@
             "deck_id": "480634",
             "rank": "3-4",
             "player": "Miguel Rocha",
+            "winrate": 0.6,
             "commander": [
                 "Grist, the Hunger Tide"
             ],
@@ -316,6 +323,7 @@
             "deck_id": "480635",
             "rank": "3-4",
             "player": "Jonathan Dolor",
+            "winrate": 0.6,
             "commander": [
                 "Light-Paws, Emperor's Voice"
             ],
@@ -398,9 +406,5 @@
                 "1 Ghost Quarter"
             ]
         }
-    ],
-    "name": "Duelan sa TG",
-    "place": "Tapped Games (Marikina City, Philippines)",
-    "players": "10 players",
-    "date": "16/07/22"
+    ]
 }

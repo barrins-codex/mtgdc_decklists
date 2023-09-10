@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "41107",
+    "name": "TNDC \"World Magicians Day\"",
+    "place": "Bolovo Games (Santos, Brasil)",
+    "players": "16 players",
+    "date": "31/01/23",
     "decks": [
         {
             "deck_id": "505481",
             "rank": "1",
             "player": "Victor Burghi",
+            "winrate": 1.0,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -115,6 +120,7 @@
             "deck_id": "505482",
             "rank": "2",
             "player": "Diego Silva",
+            "winrate": 0.8,
             "commander": [
                 "Feldon, Ronom Excavator"
             ],
@@ -196,6 +202,7 @@
             "deck_id": "505483",
             "rank": "3",
             "player": "Guilherme Santos",
+            "winrate": 0.8,
             "commander": [
                 "Tameshi, Reality Architect"
             ],
@@ -299,6 +306,7 @@
             "deck_id": "505484",
             "rank": "4",
             "player": "Leonardo Maeda",
+            "winrate": 0.6,
             "commander": [
                 "Ertai Resurrected"
             ],
@@ -389,9 +397,5 @@
                 "1 Watery Grave"
             ]
         }
-    ],
-    "name": "TNDC \"World Magicians Day\"",
-    "place": "Bolovo Games (Santos, Brasil)",
-    "players": "16 players",
-    "date": "31/01/23"
+    ]
 }

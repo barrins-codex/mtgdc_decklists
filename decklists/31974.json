@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "31974",
+    "name": "DC",
+    "place": "Saint-André de l'Eure (France)",
+    "players": "8 players",
+    "date": "14/08/21",
     "decks": [
         {
             "deck_id": "446852",
             "rank": "1",
             "player": "Romain Chassagne",
+            "winrate": 1.0,
             "commander": [
                 "Kess, Dissident Mage"
             ],
@@ -115,6 +120,7 @@
             "deck_id": "446853",
             "rank": "2",
             "player": "Alexandre Charbonnier",
+            "winrate": 0.6666666666666666,
             "commander": [
                 "Jirina Kudro"
             ],
@@ -220,9 +226,5 @@
                 "1 Xathrid Necromancer"
             ]
         }
-    ],
-    "name": "DC",
-    "place": "Saint-André de l'Eure (France)",
-    "players": "8 players",
-    "date": "14/08/21"
+    ]
 }

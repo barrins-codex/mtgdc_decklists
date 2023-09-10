@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "31756",
+    "name": "Wool cup extra",
+    "place": "Kadou (Beijing, China)",
+    "players": "10 players",
+    "date": "29/07/21",
     "decks": [
         {
             "deck_id": "445561",
             "rank": "1",
             "player": "Niaoyu11",
+            "winrate": 1.0,
             "commander": [
                 "Gyruda, Doom of Depths"
             ],
@@ -106,6 +111,7 @@
             "deck_id": "445562",
             "rank": "2",
             "player": "Ovo",
+            "winrate": 0.8,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -211,9 +217,5 @@
                 "1 Windswept Heath"
             ]
         }
-    ],
-    "name": "Wool cup extra",
-    "place": "Kadou (Beijing, China)",
-    "players": "10 players",
-    "date": "29/07/21"
+    ]
 }

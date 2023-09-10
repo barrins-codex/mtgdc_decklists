@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "25141",
+    "name": "COVID Biquette DC3",
+    "place": "OnLine",
+    "players": "18 players",
+    "date": "02/04/20",
     "decks": [
         {
             "deck_id": "377273",
             "rank": "1",
             "player": "Crimelune",
+            "winrate": 1.0,
             "commander": [
                 "Gallia of the Endless Dance"
             ],
@@ -102,6 +107,7 @@
             "deck_id": "377274",
             "rank": "2",
             "player": "Willy",
+            "winrate": 0.8,
             "commander": [
                 "Klothys, God of Destiny"
             ],
@@ -195,9 +201,5 @@
                 "1 Hashep Oasis"
             ]
         }
-    ],
-    "name": "COVID Biquette DC3",
-    "place": "OnLine",
-    "players": "18 players",
-    "date": "02/04/20"
+    ]
 }

@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "35859",
+    "name": "Real Commander do Bruxão",
+    "place": "Loja do Bruxão (Nova Iguaçu/RJ)",
+    "players": "8 players",
+    "date": "15/04/22",
     "decks": [
         {
             "deck_id": "470342",
             "rank": "1",
             "player": "Michel Xisto",
+            "winrate": 1.0,
             "commander": [
                 "Ghen, Arcanum Weaver"
             ],
@@ -101,6 +106,7 @@
             "deck_id": "470343",
             "rank": "2",
             "player": "Bruno \"bruxão\"",
+            "winrate": 0.6666666666666666,
             "commander": [
                 "Anafenza, the Foremost"
             ],
@@ -186,9 +192,5 @@
                 "1 Primeval Bounty"
             ]
         }
-    ],
-    "name": "Real Commander do Bruxão",
-    "place": "Loja do Bruxão (Nova Iguaçu/RJ)",
-    "players": "8 players",
-    "date": "15/04/22"
+    ]
 }

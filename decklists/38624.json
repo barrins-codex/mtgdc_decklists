@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "38624",
+    "name": "Duelan sa TG",
+    "place": "Tapped Games (Marikina City, Philippines)",
+    "players": "9 players",
+    "date": "29/09/22",
     "decks": [
         {
             "deck_id": "488383",
             "rank": "1",
             "player": "Franklin Aguba",
+            "winrate": 1.0,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -115,6 +120,7 @@
             "deck_id": "488384",
             "rank": "2",
             "player": "Van Acordon",
+            "winrate": 0.8,
             "commander": [
                 "Elmar, Ulvenwald Informant",
                 "Wernog, Rider's Chaplain"
@@ -224,6 +230,7 @@
             "deck_id": "488385",
             "rank": "3",
             "player": "Lorenzo Paredes",
+            "winrate": 0.6,
             "commander": [
                 "Candlekeep Sage",
                 "Wilson, Refined Grizzly"
@@ -324,9 +331,5 @@
                 "4 Snow-Covered Forest"
             ]
         }
-    ],
-    "name": "Duelan sa TG",
-    "place": "Tapped Games (Marikina City, Philippines)",
-    "players": "9 players",
-    "date": "29/09/22"
+    ]
 }

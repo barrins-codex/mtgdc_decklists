@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "4661",
+    "name": "Cockatrice EDH Tournament",
+    "place": "",
+    "players": "22 players",
+    "date": "22/11/11",
     "decks": [
         {
             "deck_id": "226940",
             "rank": "1",
             "player": "CamWallin",
+            "winrate": 1.0,
             "commander": [
                 "Animar, Soul of Elements"
             ],
@@ -108,6 +113,7 @@
             "deck_id": "226941",
             "rank": "2",
             "player": "Obsidian Dice",
+            "winrate": 0.8,
             "commander": [
                 "Edric, Spymaster of Trest"
             ],
@@ -197,6 +203,7 @@
             "deck_id": "226942",
             "rank": "3-4",
             "player": "Evergreen",
+            "winrate": 0.8,
             "commander": [
                 "Iname, Death Aspect"
             ],
@@ -283,6 +290,7 @@
             "deck_id": "226943",
             "rank": "3-4",
             "player": "Tabris",
+            "winrate": 0.8,
             "commander": [
                 "Nin, the Pain Artist"
             ],
@@ -372,9 +380,5 @@
                 "1 Mulldrifter"
             ]
         }
-    ],
-    "name": "Cockatrice EDH Tournament",
-    "place": "",
-    "players": "22 players",
-    "date": "22/11/11"
+    ]
 }

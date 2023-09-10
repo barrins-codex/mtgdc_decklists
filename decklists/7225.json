@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "7225",
+    "name": "8th \"New Year Cake\" Cup (Shanghai)",
+    "place": "",
+    "players": "14 players",
+    "date": "20/04/14",
     "decks": [
         {
             "deck_id": "241428",
             "rank": "1",
             "player": "Jia Fan",
+            "winrate": 1.0,
             "commander": [
                 "Azami, Lady of Scrolls"
             ],
@@ -90,6 +95,7 @@
             "deck_id": "241429",
             "rank": "2",
             "player": "Zhang Yuheng",
+            "winrate": 0.8,
             "commander": [
                 "Brimaz, King of Oreskos"
             ],
@@ -177,9 +183,5 @@
                 "1 Eiganjo Castle"
             ]
         }
-    ],
-    "name": "8th \"New Year Cake\" Cup (Shanghai)",
-    "place": "",
-    "players": "14 players",
-    "date": "20/04/14"
+    ]
 }

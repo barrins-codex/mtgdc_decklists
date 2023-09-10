@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "34989",
+    "name": "WANTED Saison 3 #3",
+    "place": "CartaRennes (Rennes, France)",
+    "players": "15 players",
+    "date": "02/03/22",
     "decks": [
         {
             "deck_id": "464544",
             "rank": "1",
             "player": "Mathieu Laurent",
+            "winrate": 1.0,
             "commander": [
                 "Grist, the Hunger Tide"
             ],
@@ -103,6 +108,7 @@
             "deck_id": "464545",
             "rank": "2",
             "player": "Alexandre Chevret",
+            "winrate": 0.8,
             "commander": [
                 "Klothys, God of Destiny"
             ],
@@ -199,9 +205,5 @@
                 "1 Smuggler's Copter"
             ]
         }
-    ],
-    "name": "WANTED Saison 3 #3",
-    "place": "CartaRennes (Rennes, France)",
-    "players": "15 players",
-    "date": "02/03/22"
+    ]
 }

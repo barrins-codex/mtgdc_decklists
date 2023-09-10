@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "22990",
+    "name": "10K Duel Commander",
+    "place": "RadioActive Games & Hobies (Philippines)",
+    "players": "14 players",
+    "date": "31/08/19",
     "decks": [
         {
             "deck_id": "357590",
             "rank": "1",
             "player": "Louie Siongco",
+            "winrate": 1.0,
             "commander": [
                 "Zur the Enchanter"
             ],
@@ -115,6 +120,7 @@
             "deck_id": "357591",
             "rank": "2",
             "player": "Glenn Marc Alesna",
+            "winrate": 0.8,
             "commander": [
                 "Kytheon, Hero of Akros"
             ],
@@ -196,9 +202,5 @@
                 "1 Crusade"
             ]
         }
-    ],
-    "name": "10K Duel Commander",
-    "place": "RadioActive Games & Hobies (Philippines)",
-    "players": "14 players",
-    "date": "31/08/19"
+    ]
 }

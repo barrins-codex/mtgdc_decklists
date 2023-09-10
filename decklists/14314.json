@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "14314",
+    "name": "DC Llevelwin",
+    "place": "",
+    "players": "14 players",
+    "date": "17/12/16",
     "decks": [
         {
             "deck_id": "285435",
             "rank": "1",
             "player": "Rimk",
+            "winrate": 1.0,
             "commander": [
                 "Breya, Etherium Shaper"
             ],
@@ -115,6 +120,7 @@
             "deck_id": "285436",
             "rank": "2",
             "player": "Romain Testaert",
+            "winrate": 0.8,
             "commander": [
                 "Kraum, Ludevic's Opus",
                 "Vial Smasher the Fierce"
@@ -213,6 +219,7 @@
             "deck_id": "285437",
             "rank": "3",
             "player": "Aurelien \"Mathan\" Mathias",
+            "winrate": 0.6,
             "commander": [
                 "Prossh, Skyraider of Kher"
             ],
@@ -318,6 +325,7 @@
             "deck_id": "285438",
             "rank": "4",
             "player": "Iris Glane",
+            "winrate": 0.6,
             "commander": [
                 "Brago, King Eternal"
             ],
@@ -409,9 +417,5 @@
                 "1 Supreme Verdict"
             ]
         }
-    ],
-    "name": "DC Llevelwin",
-    "place": "",
-    "players": "14 players",
-    "date": "17/12/16"
+    ]
 }

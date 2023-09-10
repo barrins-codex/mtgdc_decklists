@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "40625",
+    "name": "[RC] Semanal Cards of Paradise",
+    "place": "Cards Of Paradise (Rio de Janeiro)",
+    "players": "14 players",
+    "date": "01/01/23",
     "decks": [
         {
             "deck_id": "502184",
             "rank": "1",
             "player": "Wallace De Oliveira",
+            "winrate": 1.0,
             "commander": [
                 "Kinnan, Bonder Prodigy"
             ],
@@ -95,6 +100,7 @@
             "deck_id": "502185",
             "rank": "2",
             "player": "Lil Carlos",
+            "winrate": 0.8,
             "commander": [
                 "Balmor, Battlemage Captain"
             ],
@@ -183,6 +189,7 @@
             "deck_id": "502186",
             "rank": "3-4",
             "player": "Gabriel Ruffino",
+            "winrate": 0.6,
             "commander": [
                 "Grist, the Hunger Tide"
             ],
@@ -276,6 +283,7 @@
             "deck_id": "502187",
             "rank": "3-4",
             "player": "Durães",
+            "winrate": 0.6,
             "commander": [
                 "Light-Paws, Emperor's Voice"
             ],
@@ -350,9 +358,5 @@
                 "1 Sun Titan"
             ]
         }
-    ],
-    "name": "[RC] Semanal Cards of Paradise",
-    "place": "Cards Of Paradise (Rio de Janeiro)",
-    "players": "14 players",
-    "date": "01/01/23"
+    ]
 }

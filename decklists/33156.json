@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "33156",
+    "name": "Monthly DC Tournament 5#",
+    "place": "Tableraze (Montpellier, France)",
+    "players": "14 players",
+    "date": "31/10/21",
     "decks": [
         {
             "deck_id": "453333",
             "rank": "1",
             "player": "Guillaume Ollier",
+            "winrate": 1.0,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -115,6 +120,7 @@
             "deck_id": "453334",
             "rank": "2",
             "player": "Maxime Catala",
+            "winrate": 0.8,
             "commander": [
                 "Rafiq of the Many"
             ],
@@ -218,6 +224,7 @@
             "deck_id": "453335",
             "rank": "3-4",
             "player": "Noah Siberfield",
+            "winrate": 0.6,
             "commander": [
                 "Kroxa, Titan of Death's Hunger"
             ],
@@ -319,6 +326,7 @@
             "deck_id": "453336",
             "rank": "3-4",
             "player": "Jean-loup Michel",
+            "winrate": 0.6,
             "commander": [
                 "Niv-Mizzet Reborn"
             ],
@@ -424,9 +432,5 @@
                 "1 Omnath, Locus of Creation"
             ]
         }
-    ],
-    "name": "Monthly DC Tournament 5#",
-    "place": "Tableraze (Montpellier, France)",
-    "players": "14 players",
-    "date": "31/10/21"
+    ]
 }

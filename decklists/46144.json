@@ -1,6 +1,6 @@
 {
     "format": "Duel Commander",
-    "id": 46144,
+    "id": "46144",
     "name": "Regular DC",
     "place": "Geek Shop (Recife, Brasil)",
     "players": "12 players",
@@ -8,6 +8,13 @@
     "decks": [
         {
             "deck_id": "540899",
+            "rank": "1",
+            "player": "Rafael Batista",
+            "winrate": 1.0,
+            "commander": [
+                "Yoshimaru, Ever Faithful",
+                "Tana, the Bloodsower"
+            ],
             "decklist": [
                 "1 Boseiju, Who Endures",
                 "1 Razorverge Thicket",
@@ -107,16 +114,16 @@
                 "1 Fury",
                 "1 Solitude",
                 "1 Pyrokinesis"
-            ],
-            "commander": [
-                "Yoshimaru, Ever Faithful",
-                "Tana, the Bloodsower"
-            ],
-            "rank": "1",
-            "player": "Rafael Batista"
+            ]
         },
         {
             "deck_id": "540900",
+            "rank": "2",
+            "player": "Luigi Marques",
+            "winrate": 0.8,
+            "commander": [
+                "Thalia, Guardian of Thraben"
+            ],
             "decklist": [
                 "1 Castle Ardenvale",
                 "1 Tectonic Edge",
@@ -191,15 +198,16 @@
                 "1 Luminous Broodmoth",
                 "1 Ravnica at War",
                 "1 Steel Seraph"
-            ],
-            "commander": [
-                "Thalia, Guardian of Thraben"
-            ],
-            "rank": "2",
-            "player": " Luigi Marques"
+            ]
         },
         {
             "deck_id": "540901",
+            "rank": "3-4",
+            "player": "Mykael Lundgren",
+            "winrate": 0.6,
+            "commander": [
+                "Ghyrson Starn, Kelermorph"
+            ],
             "decklist": [
                 "1 Fire / Ice",
                 "1 Steam Vents",
@@ -290,15 +298,16 @@
                 "1 Fury",
                 "1 Force of Will",
                 "1 Pyrokinesis"
-            ],
-            "commander": [
-                "Ghyrson Starn, Kelermorph"
-            ],
-            "rank": "3-4",
-            "player": "Mykael Lundgren"
+            ]
         },
         {
             "deck_id": "540902",
+            "rank": "3-4",
+            "player": "Guilherme (guima)",
+            "winrate": 0.6,
+            "commander": [
+                "Niv-Mizzet Reborn"
+            ],
             "decklist": [
                 "1 Fire / Ice",
                 "1 Steam Vents",
@@ -399,12 +408,7 @@
                 "1 Escape to the Wilds",
                 "1 Solitude",
                 "1 Bring to Light"
-            ],
-            "commander": [
-                "Niv-Mizzet Reborn"
-            ],
-            "rank": "3-4",
-            "player": "Guilherme (guima)"
+            ]
         }
     ]
 }

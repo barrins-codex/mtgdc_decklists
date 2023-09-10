@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "44296",
+    "name": "RJ Cup 2023#15",
+    "place": "League Castle (Mong Kok, Hong Kong)",
+    "players": "8 players",
+    "date": "13/05/23",
     "decks": [
         {
             "deck_id": "526858",
             "rank": "1",
             "player": "Armando Lo",
+            "winrate": 1.0,
             "commander": [
                 "Feldon, Ronom Excavator"
             ],
@@ -91,6 +96,7 @@
             "deck_id": "526859",
             "rank": "2",
             "player": "Jason Lam",
+            "winrate": 0.6666666666666666,
             "commander": [
                 "Samut, Vizier of Naktamun"
             ],
@@ -182,9 +188,5 @@
                 "11 Mountain"
             ]
         }
-    ],
-    "name": "RJ Cup 2023#15",
-    "place": "League Castle (Mong Kok, Hong Kong)",
-    "players": "8 players",
-    "date": "13/05/23"
+    ]
 }

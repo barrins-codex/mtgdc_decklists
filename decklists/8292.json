@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "8292",
+    "name": "SuperGames INC's French EDH (Atlanta, GA)",
+    "place": "",
+    "players": "16 players",
+    "date": "05/10/14",
     "decks": [
         {
             "deck_id": "247674",
             "rank": "1",
             "player": "Stephen Rosenthal",
+            "winrate": 1.0,
             "commander": [
                 "Geist of Saint Traft"
             ],
@@ -107,6 +112,7 @@
             "deck_id": "247675",
             "rank": "2",
             "player": "Rich Grimes",
+            "winrate": 0.8,
             "commander": [
                 "Maelstrom Wanderer"
             ],
@@ -209,9 +215,5 @@
                 "1 Academy Ruins"
             ]
         }
-    ],
-    "name": "SuperGames INC's French EDH (Atlanta, GA)",
-    "place": "",
-    "players": "16 players",
-    "date": "05/10/14"
+    ]
 }

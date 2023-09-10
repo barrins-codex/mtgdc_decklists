@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "26522",
+    "name": "Duel Commander",
+    "place": "Jeux Barjo (Bordeaux, France)",
+    "players": "15 players",
+    "date": "12/07/20",
     "decks": [
         {
             "deck_id": "403971",
             "rank": "1",
             "player": "Mathys Grapotte",
+            "winrate": 1.0,
             "commander": [
                 "Venser, Shaper Savant"
             ],
@@ -82,9 +87,5 @@
                 "1 Remand"
             ]
         }
-    ],
-    "name": "Duel Commander",
-    "place": "Jeux Barjo (Bordeaux, France)",
-    "players": "15 players",
-    "date": "12/07/20"
+    ]
 }

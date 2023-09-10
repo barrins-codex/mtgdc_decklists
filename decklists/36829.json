@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "36829",
+    "name": "WANTED Saison 4 #4",
+    "place": "CartaRennes (Rennes, France)",
+    "players": "17 players",
+    "date": "15/06/22",
     "decks": [
         {
             "deck_id": "476813",
             "rank": "1",
             "player": "Brieuc Evo",
+            "winrate": 1.0,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -115,6 +120,7 @@
             "deck_id": "476814",
             "rank": "2",
             "player": "Robin \"faarnn\" Angebaud",
+            "winrate": 0.8,
             "commander": [
                 "The Gitrog Monster"
             ],
@@ -210,9 +216,5 @@
                 "1 Zuran Orb"
             ]
         }
-    ],
-    "name": "WANTED Saison 4 #4",
-    "place": "CartaRennes (Rennes, France)",
-    "players": "17 players",
-    "date": "15/06/22"
+    ]
 }

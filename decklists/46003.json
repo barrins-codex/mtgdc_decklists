@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
-    "id": 46003,
+    "id": "46003",
+    "name": "Galaxy Cup #7",
+    "place": "Naya (Jinan, China)",
+    "players": "9 players",
+    "date": "16/07/23",
     "decks": [
         {
             "deck_id": "539915",
             "rank": "1",
             "player": "Xing Galaxy",
+            "winrate": 1.0,
             "commander": [
                 "Tivit, Seller of Secrets"
             ],
@@ -115,6 +120,7 @@
             "deck_id": "539916",
             "rank": "2",
             "player": "Qin Zihao",
+            "winrate": 0.8,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -224,6 +230,7 @@
             "deck_id": "539917",
             "rank": "3",
             "player": "Yang Jinlin",
+            "winrate": 0.6,
             "commander": [
                 "Prossh, Skyraider of Kher"
             ],
@@ -329,9 +336,5 @@
                 "1 Sarkhan, Fireblood"
             ]
         }
-    ],
-    "name": "Galaxy Cup #7",
-    "place": "Naya (Jinan, China)",
-    "players": "9 players",
-    "date": "16/07/23"
+    ]
 }

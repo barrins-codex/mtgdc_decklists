@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "45167",
+    "name": "DC - Brazil Championship",
+    "place": "Mont Shop (Campinas, São Paulo, Brazil)",
+    "players": "11 players",
+    "date": "13/06/23",
     "decks": [
         {
             "deck_id": "533457",
             "rank": "1",
             "player": "Luis Hamaguchi",
+            "winrate": 1.0,
             "commander": [
                 "Baral and Kari Zev"
             ],
@@ -101,6 +106,7 @@
             "deck_id": "533458",
             "rank": "2",
             "player": "Cauê",
+            "winrate": 0.8,
             "commander": [
                 "Feldon, Ronom Excavator"
             ],
@@ -188,9 +194,5 @@
                 "1 Zurgo Bellstriker"
             ]
         }
-    ],
-    "name": "DC - Brazil Championship",
-    "place": "Mont Shop (Campinas, São Paulo, Brazil)",
-    "players": "11 players",
-    "date": "13/06/23"
+    ]
 }

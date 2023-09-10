@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "19610",
+    "name": "Simon's Support Tourney",
+    "place": "Darmstadt, Germany",
+    "players": "8 players",
+    "date": "28/06/18",
     "decks": [
         {
             "deck_id": "325627",
             "rank": "1",
             "player": "Daniel B.",
+            "winrate": 1.0,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -85,6 +90,7 @@
             "deck_id": "325629",
             "rank": "2",
             "player": "Felix M.",
+            "winrate": 0.6666666666666666,
             "commander": [
                 "Tymna the Weaver",
                 "Thrasios, Triton Hero"
@@ -190,9 +196,5 @@
                 "1 Marsh Flats"
             ]
         }
-    ],
-    "name": "Simon's Support Tourney",
-    "place": "Darmstadt, Germany",
-    "players": "8 players",
-    "date": "28/06/18"
+    ]
 }

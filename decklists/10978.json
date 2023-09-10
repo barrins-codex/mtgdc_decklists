@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "10978",
+    "name": "Shanghai Commander Master",
+    "place": "",
+    "players": "15 players",
+    "date": "22/11/15",
     "decks": [
         {
             "deck_id": "262493",
             "rank": "1",
             "player": "Shen Shiyang",
+            "winrate": 1.0,
             "commander": [
                 "Surrak Dragonclaw"
             ],
@@ -111,6 +116,7 @@
             "deck_id": "262494",
             "rank": "2",
             "player": "Chen Kailin",
+            "winrate": 0.8,
             "commander": [
                 "Geist of Saint Traft"
             ],
@@ -202,9 +208,5 @@
                 "9 Island"
             ]
         }
-    ],
-    "name": "Shanghai Commander Master",
-    "place": "",
-    "players": "15 players",
-    "date": "22/11/15"
+    ]
 }

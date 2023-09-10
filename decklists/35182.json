@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "35182",
+    "name": "Duel Commnander Weekly Pod A",
+    "place": "Mana Underground (Philippines)",
+    "players": "14 players",
+    "date": "12/03/22",
     "decks": [
         {
             "deck_id": "466121",
             "rank": "1",
             "player": "Hans Biasbas",
+            "winrate": 1.0,
             "commander": [
                 "Hogaak, Arisen Necropolis"
             ],
@@ -115,6 +120,7 @@
             "deck_id": "466122",
             "rank": "2",
             "player": "Ben Co",
+            "winrate": 0.8,
             "commander": [
                 "Shorikai, Genesis Engine"
             ],
@@ -210,9 +216,5 @@
                 "1 Wrath of God"
             ]
         }
-    ],
-    "name": "Duel Commnander Weekly Pod A",
-    "place": "Mana Underground (Philippines)",
-    "players": "14 players",
-    "date": "12/03/22"
+    ]
 }

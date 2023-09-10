@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "10862",
+    "name": "I Torneio Vilarica de Duel Commander",
+    "place": "",
+    "players": "8 players",
+    "date": "08/11/15",
     "decks": [
         {
             "deck_id": "262052",
             "rank": "1",
             "player": "Lucas Martins",
+            "winrate": 1.0,
             "commander": [
                 "Tasigur, the Golden Fang"
             ],
@@ -107,9 +112,5 @@
                 "1 River of Tears"
             ]
         }
-    ],
-    "name": "I Torneio Vilarica de Duel Commander",
-    "place": "",
-    "players": "8 players",
-    "date": "08/11/15"
+    ]
 }

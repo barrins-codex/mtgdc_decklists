@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
-    "id": 46058,
+    "id": "46058",
+    "name": "TNDC \"World's Population Day\"",
+    "place": "Bolovo Games (Santos, Brazil)",
+    "players": "12 players",
+    "date": "11/07/23",
     "decks": [
         {
             "deck_id": "540380",
             "rank": "1",
             "player": "Victor Burghi",
+            "winrate": 1.0,
             "commander": [
                 "Aragorn, the Uniter"
             ],
@@ -115,6 +120,7 @@
             "deck_id": "540381",
             "rank": "2",
             "player": "Lucas Dias",
+            "winrate": 0.8,
             "commander": [
                 "Aragorn, King of Gondor"
             ],
@@ -221,6 +227,7 @@
             "deck_id": "540382",
             "rank": "3-4",
             "player": "Carlos Pires",
+            "winrate": 0.6,
             "commander": [
                 "Ertai Resurrected"
             ],
@@ -313,6 +320,7 @@
             "deck_id": "540383",
             "rank": "3-4",
             "player": "Felipe Santos",
+            "winrate": 0.6,
             "commander": [
                 "Kairi, the Swirling Sky"
             ],
@@ -398,9 +406,5 @@
                 "21 Snow-Covered Island"
             ]
         }
-    ],
-    "name": "TNDC \"World's Population Day\"",
-    "place": "Bolovo Games (Santos, Brazil)",
-    "players": "12 players",
-    "date": "11/07/23"
+    ]
 }

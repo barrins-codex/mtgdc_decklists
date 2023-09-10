@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "28253",
+    "name": "DC Adept Challenge",
+    "place": "Anime Spot (Bridgetown, Barbados)",
+    "players": "13 players",
+    "date": "21/11/20",
     "decks": [
         {
             "deck_id": "423707",
             "rank": "1",
             "player": "Hamid Henry",
+            "winrate": 1.0,
             "commander": [
                 "Uro, Titan of Nature's Wrath"
             ],
@@ -103,6 +108,7 @@
             "deck_id": "423708",
             "rank": "2",
             "player": "Terrance Holder",
+            "winrate": 0.8,
             "commander": [
                 "Gallia of the Endless Dance"
             ],
@@ -195,9 +201,5 @@
                 "1 Rancor"
             ]
         }
-    ],
-    "name": "DC Adept Challenge",
-    "place": "Anime Spot (Bridgetown, Barbados)",
-    "players": "13 players",
-    "date": "21/11/20"
+    ]
 }

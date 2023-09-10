@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "44075",
+    "name": "Chicken-Pie Cup",
+    "place": "FanYun Store (NanJing, China)",
+    "players": "9 players",
+    "date": "07/05/23",
     "decks": [
         {
             "deck_id": "525348",
             "rank": "1",
             "player": "Jingting,wu",
+            "winrate": 1.0,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -114,6 +119,7 @@
             "deck_id": "525349",
             "rank": "2",
             "player": "Liren,xie",
+            "winrate": 0.8,
             "commander": [
                 "Feldon, Ronom Excavator"
             ],
@@ -196,9 +202,5 @@
                 "1 Sulfuric Vortex"
             ]
         }
-    ],
-    "name": "Chicken-Pie Cup",
-    "place": "FanYun Store (NanJing, China)",
-    "players": "9 players",
-    "date": "07/05/23"
+    ]
 }

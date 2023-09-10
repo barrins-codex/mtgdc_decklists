@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "33081",
+    "name": "Duel Commander",
+    "place": "Fulcrum ESports (Cainta, Philippines)",
+    "players": "8 players",
+    "date": "30/10/21",
     "decks": [
         {
             "deck_id": "452997",
             "rank": "1",
             "player": "Cilbert Corpuz",
+            "winrate": 1.0,
             "commander": [
                 "Rem Karolus, Stalwart Slayer"
             ],
@@ -109,6 +114,7 @@
             "deck_id": "452998",
             "rank": "2",
             "player": "Martin John Ogayon",
+            "winrate": 0.6666666666666666,
             "commander": [
                 "Svyelun of Sea and Sky"
             ],
@@ -193,9 +199,5 @@
                 "22 Island"
             ]
         }
-    ],
-    "name": "Duel Commander",
-    "place": "Fulcrum ESports (Cainta, Philippines)",
-    "players": "8 players",
-    "date": "30/10/21"
+    ]
 }

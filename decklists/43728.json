@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "43728",
+    "name": "Bank President Cup Weekly DC",
+    "place": "Hongyu Store（Hefei，China）",
+    "players": "12 players",
+    "date": "22/04/23",
     "decks": [
         {
             "deck_id": "522854",
             "rank": "1",
             "player": "Zhenghang Zhou",
+            "winrate": 1.0,
             "commander": [
                 "Hogaak, Arisen Necropolis"
             ],
@@ -115,6 +120,7 @@
             "deck_id": "522855",
             "rank": "2",
             "player": "Mingqiu Zhang",
+            "winrate": 0.8,
             "commander": [
                 "Ghyrson Starn, Kelermorph"
             ],
@@ -208,9 +214,5 @@
                 "1 Force of Negation"
             ]
         }
-    ],
-    "name": "Bank President Cup Weekly DC",
-    "place": "Hongyu Store（Hefei，China）",
-    "players": "12 players",
-    "date": "22/04/23"
+    ]
 }

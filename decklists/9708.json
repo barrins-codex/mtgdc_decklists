@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "9708",
+    "name": "Side event GP Strasbourg",
+    "place": "",
+    "players": "45 players",
+    "date": "29/11/14",
     "decks": [
         {
             "deck_id": "255848",
             "rank": "1",
             "player": "Noham Maubert",
+            "winrate": 0.8888888888888888,
             "commander": [
                 "Prossh, Skyraider of Kher"
             ],
@@ -111,9 +116,5 @@
                 "1 Three Visits"
             ]
         }
-    ],
-    "name": "Side event GP Strasbourg",
-    "place": "",
-    "players": "45 players",
-    "date": "29/11/14"
+    ]
 }

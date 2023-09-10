@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "19912",
+    "name": "60th \"New Year Cake\" Cup",
+    "place": "Shanghai",
+    "players": "10 players",
+    "date": "18/08/18",
     "decks": [
         {
             "deck_id": "328787",
             "rank": "1",
             "player": "Bao Hongjie",
+            "winrate": 1.0,
             "commander": [
                 "Sidar Kondo of Jamuraa",
                 "Tymna the Weaver"
@@ -115,6 +120,7 @@
             "deck_id": "328788",
             "rank": "2",
             "player": "He Ying",
+            "winrate": 0.8,
             "commander": [
                 "Will Kenrith",
                 "Rowan Kenrith"
@@ -200,9 +206,5 @@
                 "14 Island"
             ]
         }
-    ],
-    "name": "60th \"New Year Cake\" Cup",
-    "place": "Shanghai",
-    "players": "10 players",
-    "date": "18/08/18"
+    ]
 }

@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "43619",
+    "name": "DC REM",
+    "place": "Rouen (France)",
+    "players": "16 players",
+    "date": "16/04/23",
     "decks": [
         {
             "deck_id": "522087",
             "rank": "1",
             "player": "Diego Rio",
+            "winrate": 1.0,
             "commander": [
                 "Dihada, Binder of Wills"
             ],
@@ -115,6 +120,7 @@
             "deck_id": "522088",
             "rank": "2",
             "player": "Julien Danger",
+            "winrate": 0.8,
             "commander": [
                 "Dihada, Binder of Wills"
             ],
@@ -224,6 +230,7 @@
             "deck_id": "522089",
             "rank": "3-4",
             "player": "Mathieu Leclere",
+            "winrate": 0.8,
             "commander": [
                 "Esika, God of the Tree"
             ],
@@ -333,6 +340,7 @@
             "deck_id": "522090",
             "rank": "3-4",
             "player": "Valentin Dubos",
+            "winrate": 0.8,
             "commander": [
                 "Oswald Fiddlebender"
             ],
@@ -419,9 +427,5 @@
                 "20 Snow-Covered Plains"
             ]
         }
-    ],
-    "name": "DC REM",
-    "place": "Rouen (France)",
-    "players": "16 players",
-    "date": "16/04/23"
+    ]
 }

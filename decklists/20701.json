@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "20701",
+    "name": "Moscow Starlite Daily 2",
+    "place": "",
+    "players": "10 players",
+    "date": "04/12/18",
     "decks": [
         {
             "deck_id": "336479",
             "rank": "1",
             "player": "Mattew Dolganov",
+            "winrate": 1.0,
             "commander": [
                 "Saskia the Unyielding"
             ],
@@ -111,9 +116,5 @@
                 "1 Stomping Ground"
             ]
         }
-    ],
-    "name": "Moscow Starlite Daily 2",
-    "place": "",
-    "players": "10 players",
-    "date": "04/12/18"
+    ]
 }

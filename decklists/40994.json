@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "40994",
+    "name": "FNM",
+    "place": "City Comics (Leipzig, Germany)",
+    "players": "10 players",
+    "date": "26/01/23",
     "decks": [
         {
             "deck_id": "504749",
             "rank": "1",
             "player": "Eik The Necromancer",
+            "winrate": 1.0,
             "commander": [
                 "Yoshimaru, Ever Faithful",
                 "Ludevic, Necro-Alchemist"
@@ -108,9 +113,5 @@
                 "3 Snow-Covered Plains"
             ]
         }
-    ],
-    "name": "FNM",
-    "place": "City Comics (Leipzig, Germany)",
-    "players": "10 players",
-    "date": "26/01/23"
+    ]
 }

@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "32889",
+    "name": "Duel Commander Weekly Pod B",
+    "place": "Mana Underground (Lagro, Philippines )",
+    "players": "14 players",
+    "date": "16/10/21",
     "decks": [
         {
             "deck_id": "451884",
             "rank": "1",
             "player": "Ben Co",
+            "winrate": 1.0,
             "commander": [
                 "Grazilaxx, Illithid Scholar"
             ],
@@ -90,6 +95,7 @@
             "deck_id": "451885",
             "rank": "2",
             "player": "Lawrence Samaniego",
+            "winrate": 0.8,
             "commander": [
                 "Kraum, Ludevic's Opus",
                 "Malcolm, Keen-Eyed Navigator"
@@ -185,9 +191,5 @@
                 "8 Island"
             ]
         }
-    ],
-    "name": "Duel Commander Weekly Pod B",
-    "place": "Mana Underground (Lagro, Philippines )",
-    "players": "14 players",
-    "date": "16/10/21"
+    ]
 }

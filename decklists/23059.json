@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "23059",
+    "name": "FNM Hiveworld",
+    "place": "Cologne (Germany)",
+    "players": "17 players",
+    "date": "13/09/19",
     "decks": [
         {
             "deck_id": "358214",
             "rank": "1",
             "player": "Sebastian Nußbaum",
+            "winrate": 1.0,
             "commander": [
                 "Leovold, Emissary of Trest"
             ],
@@ -115,6 +120,7 @@
             "deck_id": "358215",
             "rank": "2",
             "player": "Julian Heßling",
+            "winrate": 0.8,
             "commander": [
                 "Daretti, Scrap Savant"
             ],
@@ -201,9 +207,5 @@
                 "1 Winter Orb"
             ]
         }
-    ],
-    "name": "FNM Hiveworld",
-    "place": "Cologne (Germany)",
-    "players": "17 players",
-    "date": "13/09/19"
+    ]
 }

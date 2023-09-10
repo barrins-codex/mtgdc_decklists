@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "32301",
+    "name": "135th \"New Year Cake\" Cup",
+    "place": "Shanghai (China)",
+    "players": "14 players",
+    "date": "04/09/21",
     "decks": [
         {
             "deck_id": "448544",
             "rank": "1",
             "player": "Shen Junkai",
+            "winrate": 1.0,
             "commander": [
                 "Livio, Oathsworn Sentinel",
                 "Kraum, Ludevic's Opus"
@@ -115,6 +120,7 @@
             "deck_id": "448545",
             "rank": "2",
             "player": "Mao Yikang",
+            "winrate": 0.8,
             "commander": [
                 "Niv-Mizzet Reborn"
             ],
@@ -224,6 +230,7 @@
             "deck_id": "448546",
             "rank": "3",
             "player": "He Ying",
+            "winrate": 0.6,
             "commander": [
                 "Sisay, Weatherlight Captain",
                 "Jegantha, the Wellspring"
@@ -330,9 +337,5 @@
                 "1 Balance"
             ]
         }
-    ],
-    "name": "135th \"New Year Cake\" Cup",
-    "place": "Shanghai (China)",
-    "players": "14 players",
-    "date": "04/09/21"
+    ]
 }

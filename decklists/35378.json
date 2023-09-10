@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "35378",
+    "name": "FNM",
+    "place": "Dragon's Lair (Maceda, Philippines)",
+    "players": "10 players",
+    "date": "25/03/22",
     "decks": [
         {
             "deck_id": "467294",
             "rank": "1",
             "player": "Ste Villaraza",
+            "winrate": 1.0,
             "commander": [
                 "Shorikai, Genesis Engine"
             ],
@@ -105,6 +110,7 @@
             "deck_id": "467295",
             "rank": "2",
             "player": "Gabe Enriquez",
+            "winrate": 0.8,
             "commander": [
                 "Klothys, God of Destiny"
             ],
@@ -203,9 +209,5 @@
                 "1 Yavimaya, Cradle of Growth"
             ]
         }
-    ],
-    "name": "FNM",
-    "place": "Dragon's Lair (Maceda, Philippines)",
-    "players": "10 players",
-    "date": "25/03/22"
+    ]
 }

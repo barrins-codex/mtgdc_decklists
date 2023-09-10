@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "31794",
+    "name": "Duel Commander Battle July",
+    "place": "Dice Wars (Castellón, Spain)",
+    "players": "10 players",
+    "date": "31/07/21",
     "decks": [
         {
             "deck_id": "445806",
             "rank": "1",
             "player": "Manu",
+            "winrate": 1.0,
             "commander": [
                 "Niv-Mizzet Reborn"
             ],
@@ -115,6 +120,7 @@
             "deck_id": "445807",
             "rank": "2",
             "player": "Made",
+            "winrate": 0.8,
             "commander": [
                 "Kess, Dissident Mage"
             ],
@@ -222,6 +228,7 @@
             "deck_id": "445808",
             "rank": "3-4",
             "player": "Federo",
+            "winrate": 0.6,
             "commander": [
                 "Tajic, Legion's Edge"
             ],
@@ -317,6 +324,7 @@
             "deck_id": "445809",
             "rank": "3-4",
             "player": "Esther",
+            "winrate": 0.6,
             "commander": [
                 "Titania, Protector of Argoth"
             ],
@@ -408,9 +416,5 @@
                 "1 Zuran Orb"
             ]
         }
-    ],
-    "name": "Duel Commander Battle July",
-    "place": "Dice Wars (Castellón, Spain)",
-    "players": "10 players",
-    "date": "31/07/21"
+    ]
 }

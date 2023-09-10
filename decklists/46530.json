@@ -1,15 +1,19 @@
 {
     "format": "Duel Commander",
-    "id": 46530,
+    "id": "46530",
     "name": "Watermelon Champion Cup 1",
     "place": "Slow Drake (Beijing, China)",
     "players": "22 players",
     "date": "06/08/23",
     "decks": [
         {
-            "player": "Ziqi Xi",
-            "rank": "1",
             "deck_id": "543891",
+            "rank": "1",
+            "player": "Ziqi Xi",
+            "winrate": 1.0,
+            "commander": [
+                "Golos, Tireless Pilgrim"
+            ],
             "decklist": [
                 "1 Abrupt Decay",
                 "1 Aether Channeler",
@@ -110,15 +114,16 @@
                 "1 Wrenn and Six",
                 "1 Zagoth Triome",
                 "1 Ziatora's Proving Ground"
-            ],
-            "commander": [
-                "Golos, Tireless Pilgrim"
             ]
         },
         {
-            "player": "Yixuan Gao",
-            "rank": "2",
             "deck_id": "543892",
+            "rank": "2",
+            "player": "Yixuan Gao",
+            "winrate": 0.8,
+            "commander": [
+                "Esika, God of the Tree"
+            ],
             "decklist": [
                 "1 Life / Death",
                 "1 Agent of Treachery",
@@ -219,15 +224,16 @@
                 "1 Xander's Lounge",
                 "1 Zagoth Triome",
                 "1 Ziatora's Proving Ground"
-            ],
-            "commander": [
-                "Esika, God of the Tree"
             ]
         },
         {
-            "player": "Guangxing Hu",
-            "rank": "3",
             "deck_id": "543893",
+            "rank": "3",
+            "player": "Guangxing Hu",
+            "winrate": 0.8,
+            "commander": [
+                "Aragorn, King of Gondor"
+            ],
             "decklist": [
                 "1 Fire / Ice",
                 "1 Adarkar Wastes",
@@ -324,15 +330,16 @@
                 "1 White Plume Adventurer",
                 "1 Windswept Heath",
                 "1 Wooded Foothills"
-            ],
-            "commander": [
-                "Aragorn, King of Gondor"
             ]
         },
         {
-            "player": "Xiangjun Dai",
-            "rank": "4",
             "deck_id": "543894",
+            "rank": "4",
+            "player": "Xiangjun Dai",
+            "winrate": 0.6,
+            "commander": [
+                "Dennick, Pious Apprentice"
+            ],
             "decklist": [
                 "1 Adarkar Wastes",
                 "1 Adeline, Resplendent Cathar",
@@ -424,9 +431,6 @@
                 "1 Wash Away",
                 "1 White Plume Adventurer",
                 "1 Windswept Heath"
-            ],
-            "commander": [
-                "Dennick, Pious Apprentice"
             ]
         }
     ]

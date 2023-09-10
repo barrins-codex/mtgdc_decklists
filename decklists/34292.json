@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "34292",
+    "name": "BL-DC",
+    "place": "Basic Land (Mong Kok, Hong Kong)",
+    "players": "8 players",
+    "date": "16/01/22",
     "decks": [
         {
             "deck_id": "460531",
             "rank": "1",
             "player": "Armando",
+            "winrate": 1.0,
             "commander": [
                 "Hogaak, Arisen Necropolis"
             ],
@@ -115,6 +120,7 @@
             "deck_id": "460532",
             "rank": "2",
             "player": "Joe Lam",
+            "winrate": 0.6666666666666666,
             "commander": [
                 "Gyruda, Doom of Depths"
             ],
@@ -202,9 +208,5 @@
                 "17 Island"
             ]
         }
-    ],
-    "name": "BL-DC",
-    "place": "Basic Land (Mong Kok, Hong Kong)",
-    "players": "8 players",
-    "date": "16/01/22"
+    ]
 }

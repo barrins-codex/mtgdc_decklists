@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "41388",
+    "name": "Unbox Wednesday DC",
+    "place": "Unbox (Greenhills, Philippines)",
+    "players": "16 players",
+    "date": "08/02/23",
     "decks": [
         {
             "deck_id": "507457",
             "rank": "1",
             "player": "Gian Ludovice",
+            "winrate": 1.0,
             "commander": [
                 "Silas Renn, Seeker Adept",
                 "Yoshimaru, Ever Faithful"
@@ -112,6 +117,7 @@
             "deck_id": "507458",
             "rank": "2",
             "player": "Earl Caymo",
+            "winrate": 0.8,
             "commander": [
                 "Jeska, Thrice Reborn",
                 "Yoshimaru, Ever Faithful"
@@ -199,9 +205,5 @@
                 "1 White Plume Adventurer"
             ]
         }
-    ],
-    "name": "Unbox Wednesday DC",
-    "place": "Unbox (Greenhills, Philippines)",
-    "players": "16 players",
-    "date": "08/02/23"
+    ]
 }

@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "39040",
+    "name": "Wool Cup 47",
+    "place": "Kadou (Beijing,China)",
+    "players": "16 players",
+    "date": "22/10/22",
     "decks": [
         {
             "deck_id": "491078",
             "rank": "1",
             "player": "Jinlin Yang",
+            "winrate": 1.0,
             "commander": [
                 "Halana and Alena, Partners"
             ],
@@ -105,6 +110,7 @@
             "deck_id": "491079",
             "rank": "2",
             "player": "Char",
+            "winrate": 0.8,
             "commander": [
                 "Hogaak, Arisen Necropolis"
             ],
@@ -214,6 +220,7 @@
             "deck_id": "491080",
             "rank": "3-4",
             "player": "Greenskydragon",
+            "winrate": 0.8,
             "commander": [
                 "Light-Paws, Emperor's Voice"
             ],
@@ -294,6 +301,7 @@
             "deck_id": "491081",
             "rank": "3-4",
             "player": "Shoucong Wu",
+            "winrate": 0.8,
             "commander": [
                 "Soul of Windgrace"
             ],
@@ -399,9 +407,5 @@
                 "1 Arid Mesa"
             ]
         }
-    ],
-    "name": "Wool Cup 47",
-    "place": "Kadou (Beijing,China)",
-    "players": "16 players",
-    "date": "22/10/22"
+    ]
 }

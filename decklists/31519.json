@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "31519",
+    "name": "Monthly DC",
+    "place": "Jeux Barjo (Bordeaux, France)",
+    "players": "11 players",
+    "date": "11/07/21",
     "decks": [
         {
             "deck_id": "444177",
             "rank": "1",
             "player": "Pierre Huet",
+            "winrate": 1.0,
             "commander": [
                 "Narset, Enlightened Master"
             ],
@@ -105,6 +110,7 @@
             "deck_id": "444178",
             "rank": "2",
             "player": "Nicolas Monsinjon",
+            "winrate": 0.8,
             "commander": [
                 "Prossh, Skyraider of Kher"
             ],
@@ -207,9 +213,5 @@
                 "1 Eldritch Evolution"
             ]
         }
-    ],
-    "name": "Monthly DC",
-    "place": "Jeux Barjo (Bordeaux, France)",
-    "players": "11 players",
-    "date": "11/07/21"
+    ]
 }

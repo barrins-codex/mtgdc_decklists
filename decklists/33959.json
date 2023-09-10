@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "33959",
+    "name": "RJ Cup 2021 #47",
+    "place": "League Castle (Mong Kong, Hong Kong)",
+    "players": "8 players",
+    "date": "25/12/21",
     "decks": [
         {
             "deck_id": "458477",
             "rank": "1",
             "player": "Jack Ho",
+            "winrate": 1.0,
             "commander": [
                 "Esika, God of the Tree"
             ],
@@ -115,6 +120,7 @@
             "deck_id": "458478",
             "rank": "2",
             "player": "Wing Tat Lee",
+            "winrate": 0.6666666666666666,
             "commander": [
                 "Isamaru, Hound of Konda"
             ],
@@ -195,9 +201,5 @@
                 "1 Reverent Mantra"
             ]
         }
-    ],
-    "name": "RJ Cup 2021 #47",
-    "place": "League Castle (Mong Kong, Hong Kong)",
-    "players": "8 players",
-    "date": "25/12/21"
+    ]
 }

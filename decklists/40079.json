@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "40079",
+    "name": "DC East League Leg 15",
+    "place": "Tapped Games (Marikina City, Philippines)",
+    "players": "12 players",
+    "date": "08/12/22",
     "decks": [
         {
             "deck_id": "498403",
             "rank": "1",
             "player": "Ricky Madrigal",
+            "winrate": 1.0,
             "commander": [
                 "Inspiring Leader",
                 "Gut, True Soul Zealot"
@@ -111,6 +116,7 @@
             "deck_id": "498404",
             "rank": "2",
             "player": "Jan Hortaleza",
+            "winrate": 0.8,
             "commander": [
                 "Chainer, Nightmare Adept"
             ],
@@ -213,6 +219,7 @@
             "deck_id": "498405",
             "rank": "3",
             "player": "Gian Ludovice",
+            "winrate": 0.6,
             "commander": [
                 "Immard, the Stormcleaver"
             ],
@@ -320,6 +327,7 @@
             "deck_id": "498406",
             "rank": "4",
             "player": "Earl Caymo",
+            "winrate": 0.6,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -425,9 +433,5 @@
                 "1 Windswept Heath"
             ]
         }
-    ],
-    "name": "DC East League Leg 15",
-    "place": "Tapped Games (Marikina City, Philippines)",
-    "players": "12 players",
-    "date": "08/12/22"
+    ]
 }

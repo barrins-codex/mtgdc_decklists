@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "38949",
+    "name": "Duelan sa TG",
+    "place": "Tapped Games (Marikina City, Philippines)",
+    "players": "18 players",
+    "date": "15/10/22",
     "decks": [
         {
             "deck_id": "490509",
             "rank": "1",
             "player": "Jonathan Dolor",
+            "winrate": 1.0,
             "commander": [
                 "Lurrus of the Dream-Den",
                 "Karlov of the Ghost Council"
@@ -107,6 +112,7 @@
             "deck_id": "490510",
             "rank": "2",
             "player": "Van Acordon",
+            "winrate": 0.8,
             "commander": [
                 "Yoshimaru, Ever Faithful",
                 "Ludevic, Necro-Alchemist"
@@ -216,6 +222,7 @@
             "deck_id": "490511",
             "rank": "3",
             "player": "Nelvine Tuano",
+            "winrate": 0.8,
             "commander": [
                 "Yoshimaru, Ever Faithful"
             ],
@@ -308,6 +315,7 @@
             "deck_id": "490512",
             "rank": "4",
             "player": "Martin Ogayon",
+            "winrate": 0.6,
             "commander": [
                 "Svyelun of Sea and Sky"
             ],
@@ -394,9 +402,5 @@
                 "20 Snow-Covered Island"
             ]
         }
-    ],
-    "name": "Duelan sa TG",
-    "place": "Tapped Games (Marikina City, Philippines)",
-    "players": "18 players",
-    "date": "15/10/22"
+    ]
 }

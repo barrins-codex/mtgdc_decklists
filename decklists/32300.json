@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "32300",
+    "name": "Duel Commander",
+    "place": "Manabolt (Limeira, Brazil)",
+    "players": "8 players",
+    "date": "04/09/21",
     "decks": [
         {
             "deck_id": "448542",
             "rank": "1",
             "player": "Conja",
+            "winrate": 1.0,
             "commander": [
                 "Isamaru, Hound of Konda"
             ],
@@ -90,6 +95,7 @@
             "deck_id": "448543",
             "rank": "2",
             "player": "Lucas Feliz",
+            "winrate": 0.6666666666666666,
             "commander": [
                 "Azusa, Lost but Seeking"
             ],
@@ -185,9 +191,5 @@
                 "1 Buried Ruin"
             ]
         }
-    ],
-    "name": "Duel Commander",
-    "place": "Manabolt (Limeira, Brazil)",
-    "players": "8 players",
-    "date": "04/09/21"
+    ]
 }

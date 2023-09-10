@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "9031",
+    "name": "EDH (Caen)",
+    "place": "",
+    "players": "13 players",
+    "date": "31/01/15",
     "decks": [
         {
             "deck_id": "251449",
             "rank": "1",
             "player": "Marc Chassagne",
+            "winrate": 1.0,
             "commander": [
                 "Skullbriar, the Walking Grave"
             ],
@@ -106,6 +111,7 @@
             "deck_id": "251450",
             "rank": "2",
             "player": "Clément \"noskcaj\" Sillere",
+            "winrate": 0.8,
             "commander": [
                 "Grand Arbiter Augustin IV"
             ],
@@ -195,9 +201,5 @@
                 "1 Wrath of God"
             ]
         }
-    ],
-    "name": "EDH (Caen)",
-    "place": "",
-    "players": "13 players",
-    "date": "31/01/15"
+    ]
 }

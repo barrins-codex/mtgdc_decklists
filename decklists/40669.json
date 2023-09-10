@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "40669",
+    "name": "Vault Duel Commander League",
+    "place": "Makati (Philippines)",
+    "players": "8 players",
+    "date": "14/01/23",
     "decks": [
         {
             "deck_id": "502458",
             "rank": "1",
             "player": "Francis Blanco",
+            "winrate": 1.0,
             "commander": [
                 "Ghyrson Starn, Kelermorph"
             ],
@@ -107,6 +112,7 @@
             "deck_id": "502459",
             "rank": "2",
             "player": "Ste Villaraza",
+            "winrate": 0.6666666666666666,
             "commander": [
                 "Elminster"
             ],
@@ -200,9 +206,5 @@
                 "1 Wrath of God"
             ]
         }
-    ],
-    "name": "Vault Duel Commander League",
-    "place": "Makati (Philippines)",
-    "players": "8 players",
-    "date": "14/01/23"
+    ]
 }

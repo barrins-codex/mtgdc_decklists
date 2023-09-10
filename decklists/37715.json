@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "37715",
+    "name": "Sebastian Cup",
+    "place": "Aqua Cafe (Antipolo, Philippines)",
+    "players": "14 players",
+    "date": "30/07/22",
     "decks": [
         {
             "deck_id": "482433",
             "rank": "1",
             "player": "Brian Adam Garcia",
+            "winrate": 1.0,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -85,6 +90,7 @@
             "deck_id": "482434",
             "rank": "2",
             "player": "Juan Antonio Agoncillo",
+            "winrate": 0.8,
             "commander": [
                 "Magda, Brazen Outlaw"
             ],
@@ -170,9 +176,5 @@
                 "1 Blood Moon"
             ]
         }
-    ],
-    "name": "Sebastian Cup",
-    "place": "Aqua Cafe (Antipolo, Philippines)",
-    "players": "14 players",
-    "date": "30/07/22"
+    ]
 }

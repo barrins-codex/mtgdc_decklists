@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "44474",
+    "name": "Wool Cup 64",
+    "place": "Kadou (Beijing, China)",
+    "players": "14 players",
+    "date": "20/05/23",
     "decks": [
         {
             "deck_id": "528044",
             "rank": "1",
             "player": "Yixuan Gao",
+            "winrate": 1.0,
             "commander": [
                 "Thalia and The Gitrog Monster"
             ],
@@ -115,6 +120,7 @@
             "deck_id": "528045",
             "rank": "2",
             "player": "Guanglei Li",
+            "winrate": 0.8,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -224,6 +230,7 @@
             "deck_id": "528046",
             "rank": "3",
             "player": "Yuchen Yang",
+            "winrate": 0.6,
             "commander": [
                 "Atraxa, Grand Unifier"
             ],
@@ -333,6 +340,7 @@
             "deck_id": "528047",
             "rank": "4",
             "player": "Tao Tang",
+            "winrate": 0.6,
             "commander": [
                 "Dihada, Binder of Wills"
             ],
@@ -437,9 +445,5 @@
                 "1 Wooded Foothills"
             ]
         }
-    ],
-    "name": "Wool Cup 64",
-    "place": "Kadou (Beijing, China)",
-    "players": "14 players",
-    "date": "20/05/23"
+    ]
 }

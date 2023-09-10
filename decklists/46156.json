@@ -1,6 +1,6 @@
 {
     "format": "Duel Commander",
-    "id": 46156,
+    "id": "46156",
     "name": "Glass City Duel Commander #3",
     "place": "Toledo Game Roomm (Ohio)",
     "players": "8 players",
@@ -8,6 +8,12 @@
     "decks": [
         {
             "deck_id": "540985",
+            "rank": "1",
+            "player": "Brennan Mcalear",
+            "winrate": 1.0,
+            "commander": [
+                "Grist, the Hunger Tide"
+            ],
             "decklist": [
                 "1 Abrupt Decay",
                 "1 Animate Dead",
@@ -100,15 +106,16 @@
                 "1 Wooded Foothills",
                 "1 Woodland Cemetery",
                 "1 Yavimaya, Cradle of Growth"
-            ],
-            "commander": [
-                "Grist, the Hunger Tide"
-            ],
-            "rank": "1",
-            "player": "Brennan Mcalear"
+            ]
         },
         {
             "deck_id": "540986",
+            "rank": "2",
+            "player": "Dennis Venier",
+            "winrate": 0.6666666666666666,
+            "commander": [
+                "Kytheon, Hero of Akros"
+            ],
             "decklist": [
                 "1 Adeline, Resplendent Cathar",
                 "1 Always Watching",
@@ -181,12 +188,7 @@
                 "1 White Plume Adventurer",
                 "1 Winter Orb",
                 "1 Yoshimaru, Ever Faithful"
-            ],
-            "commander": [
-                "Kytheon, Hero of Akros"
-            ],
-            "rank": "2",
-            "player": "Dennis Venier"
+            ]
         }
     ]
 }

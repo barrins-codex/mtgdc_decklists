@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "37895",
+    "name": "Wool Cup 40",
+    "place": "Kadou (Beijing, China)",
+    "players": "17 players",
+    "date": "13/08/22",
     "decks": [
         {
             "deck_id": "483548",
             "rank": "1",
             "player": "Chang Zheng",
+            "winrate": 1.0,
             "commander": [
                 "Isamaru, Hound of Konda"
             ],
@@ -89,6 +94,7 @@
             "deck_id": "483549",
             "rank": "2",
             "player": "Hongchen Zhang",
+            "winrate": 0.8,
             "commander": [
                 "Gut, True Soul Zealot",
                 "Inspiring Leader"
@@ -195,6 +201,7 @@
             "deck_id": "483550",
             "rank": "3-4",
             "player": "Char",
+            "winrate": 0.8,
             "commander": [
                 "Hogaak, Arisen Necropolis"
             ],
@@ -304,6 +311,7 @@
             "deck_id": "483551",
             "rank": "3-4",
             "player": "Xu Han",
+            "winrate": 0.8,
             "commander": [
                 "Niv-Mizzet Reborn"
             ],
@@ -409,9 +417,5 @@
                 "1 Eladamri's Call"
             ]
         }
-    ],
-    "name": "Wool Cup 40",
-    "place": "Kadou (Beijing, China)",
-    "players": "17 players",
-    "date": "13/08/22"
+    ]
 }

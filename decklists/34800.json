@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "34800",
+    "name": "Mini DC Únor",
+    "place": "Úvaly (Czech Republic)",
+    "players": "8 players",
+    "date": "15/02/22",
     "decks": [
         {
             "deck_id": "463475",
             "rank": "1",
             "player": "Milo Palek",
+            "winrate": 1.0,
             "commander": [
                 "Isamaru, Hound of Konda"
             ],
@@ -89,6 +94,7 @@
             "deck_id": "463476",
             "rank": "2",
             "player": "Radek upík",
+            "winrate": 0.6666666666666666,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -187,9 +193,5 @@
                 "1 Wishclaw Talisman"
             ]
         }
-    ],
-    "name": "Mini DC Únor",
-    "place": "Úvaly (Czech Republic)",
-    "players": "8 players",
-    "date": "15/02/22"
+    ]
 }

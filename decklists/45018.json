@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "45018",
+    "name": "XPlace Friday Night",
+    "place": "Xplace (São Paulo, Brazil)",
+    "players": "16 players",
+    "date": "09/06/23",
     "decks": [
         {
             "deck_id": "532250",
             "rank": "1",
-            "player": "Marcelo ",
+            "player": "Marcelo",
+            "winrate": 1.0,
             "commander": [
                 "Prossh, Skyraider of Kher"
             ],
@@ -115,6 +120,7 @@
             "deck_id": "532251",
             "rank": "2",
             "player": "Ché",
+            "winrate": 0.8,
             "commander": [
                 "Surrak Dragonclaw"
             ],
@@ -218,6 +224,7 @@
             "deck_id": "532252",
             "rank": "3-4",
             "player": "Renan \"rioots\"",
+            "winrate": 0.8,
             "commander": [
                 "Ardoz, Cobbler of War"
             ],
@@ -303,6 +310,7 @@
             "deck_id": "532253",
             "rank": "3-4",
             "player": "Jacque",
+            "winrate": 0.8,
             "commander": [
                 "Errant and Giada"
             ],
@@ -403,9 +411,5 @@
                 "4 Snow-Covered Island"
             ]
         }
-    ],
-    "name": "XPlace Friday Night",
-    "place": "Xplace (São Paulo, Brazil)",
-    "players": "16 players",
-    "date": "09/06/23"
+    ]
 }

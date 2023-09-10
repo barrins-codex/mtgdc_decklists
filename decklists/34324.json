@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "34324",
+    "name": "WANTED Saison 2 #6",
+    "place": "CartaRennes (Rennes, France)",
+    "players": "13 players",
+    "date": "19/01/22",
     "decks": [
         {
             "deck_id": "460707",
             "rank": "1",
             "player": "Mathieu Laurent",
+            "winrate": 1.0,
             "commander": [
                 "Kelsien, the Plague"
             ],
@@ -115,6 +120,7 @@
             "deck_id": "460708",
             "rank": "2",
             "player": "Léon Le Loir",
+            "winrate": 0.8,
             "commander": [
                 "Bruvac the Grandiloquent"
             ],
@@ -191,9 +197,5 @@
                 "30 Island"
             ]
         }
-    ],
-    "name": "WANTED Saison 2 #6",
-    "place": "CartaRennes (Rennes, France)",
-    "players": "13 players",
-    "date": "19/01/22"
+    ]
 }

@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "40164",
+    "name": "Event",
+    "place": "Wonderlandes (Dax, France)",
+    "players": "8 players",
+    "date": "18/12/22",
     "decks": [
         {
             "deck_id": "499095",
             "rank": "1",
             "player": "Nicolas Soulé",
+            "winrate": 1.0,
             "commander": [
                 "Jeska, Thrice Reborn",
                 "Kraum, Ludevic's Opus"
@@ -104,6 +109,7 @@
             "deck_id": "499096",
             "rank": "2",
             "player": "Som40",
+            "winrate": 0.6666666666666666,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -209,9 +215,5 @@
                 "1 Island"
             ]
         }
-    ],
-    "name": "Event",
-    "place": "Wonderlandes (Dax, France)",
-    "players": "8 players",
-    "date": "18/12/22"
+    ]
 }

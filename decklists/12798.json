@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "12798",
+    "name": "WNM",
+    "place": "Jeuxjubes",
+    "players": "8 players",
+    "date": "15/06/16",
     "decks": [
         {
             "deck_id": "274263",
             "rank": "1",
             "player": "Jonathan Page",
+            "winrate": 1.0,
             "commander": [
                 "Nissa, Vastwood Seer"
             ],
@@ -83,9 +88,5 @@
                 "1 Emrakul, the Aeons Torn"
             ]
         }
-    ],
-    "name": "WNM",
-    "place": "Jeuxjubes",
-    "players": "8 players",
-    "date": "15/06/16"
+    ]
 }

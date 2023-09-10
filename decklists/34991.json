@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "34991",
+    "name": "Real Commander 4",
+    "place": "Manavai (Campo Grande/RJ, Brazil)",
+    "players": "8 players",
+    "date": "25/02/22",
     "decks": [
         {
             "deck_id": "464554",
             "rank": "1",
             "player": "Thiago Alcantara",
+            "winrate": 1.0,
             "commander": [
                 "Adeliz, the Cinder Wind"
             ],
@@ -90,6 +95,7 @@
             "deck_id": "464555",
             "rank": "2",
             "player": "Elfo",
+            "winrate": 0.6666666666666666,
             "commander": [
                 "Skullbriar, the Walking Grave"
             ],
@@ -178,9 +184,5 @@
                 "1 Daring Fiendbonder"
             ]
         }
-    ],
-    "name": "Real Commander 4",
-    "place": "Manavai (Campo Grande/RJ, Brazil)",
-    "players": "8 players",
-    "date": "25/02/22"
+    ]
 }

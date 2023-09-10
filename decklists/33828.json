@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "33828",
+    "name": "duel o dual #10",
+    "place": "Poděbrady (Czechia)",
+    "players": "20 players",
+    "date": "11/12/21",
     "decks": [
         {
             "deck_id": "457707",
             "rank": "1",
             "player": "Tomá Ketzl",
+            "winrate": 1.0,
             "commander": [
                 "Yawgmoth, Thran Physician"
             ],
@@ -91,6 +96,7 @@
             "deck_id": "457708",
             "rank": "2",
             "player": "Michael Olsen",
+            "winrate": 0.8,
             "commander": [
                 "Tevesh Szat, Doom of Fools",
                 "Kraum, Ludevic's Opus"
@@ -189,6 +195,7 @@
             "deck_id": "457709",
             "rank": "3-4",
             "player": "Vojta Kotek",
+            "winrate": 0.8,
             "commander": [
                 "Grenzo, Dungeon Warden"
             ],
@@ -285,6 +292,7 @@
             "deck_id": "457710",
             "rank": "3-4",
             "player": "Zdeněk Hlavsa",
+            "winrate": 0.8,
             "commander": [
                 "Jegantha, the Wellspring",
                 "Sisay, Weatherlight Captain"
@@ -391,9 +399,5 @@
                 "1 Arid Mesa"
             ]
         }
-    ],
-    "name": "duel o dual #10",
-    "place": "Poděbrady (Czechia)",
-    "players": "20 players",
-    "date": "11/12/21"
+    ]
 }

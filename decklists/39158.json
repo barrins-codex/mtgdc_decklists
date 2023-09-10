@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "39158",
+    "name": "East League S2 Qualifier",
+    "place": "Upkeep Hobbies (Philippines)",
+    "players": "18 players",
+    "date": "30/10/22",
     "decks": [
         {
             "deck_id": "491879",
             "rank": "1",
             "player": "Dinno Zaide",
+            "winrate": 1.0,
             "commander": [
                 "Ghyrson Starn, Kelermorph"
             ],
@@ -106,6 +111,7 @@
             "deck_id": "491880",
             "rank": "2",
             "player": "Joseph Layug",
+            "winrate": 0.8,
             "commander": [
                 "Inspiring Leader",
                 "Gut, True Soul Zealot"
@@ -205,6 +211,7 @@
             "deck_id": "491881",
             "rank": "3",
             "player": "Steven Villaraza",
+            "winrate": 0.8,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -313,6 +320,7 @@
             "deck_id": "491882",
             "rank": "4",
             "player": "Rexel Tenorio",
+            "winrate": 0.6,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -422,6 +430,7 @@
             "deck_id": "491883",
             "rank": "5",
             "player": "Raymond Sanglay",
+            "winrate": 0.6,
             "commander": [
                 "Juri, Master of the Revue"
             ],
@@ -524,6 +533,7 @@
             "deck_id": "491884",
             "rank": "6",
             "player": "Earl Caymo",
+            "winrate": 0.6,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -633,6 +643,7 @@
             "deck_id": "491885",
             "rank": "7",
             "player": "Cilbert Corpuz",
+            "winrate": 0.6,
             "commander": [
                 "Yoshimaru, Ever Faithful",
                 "Bruse Tarl, Boorish Herder"
@@ -740,6 +751,7 @@
             "deck_id": "491886",
             "rank": "8",
             "player": "Van Lauren Acordon",
+            "winrate": 0.6,
             "commander": [
                 "Yoshimaru, Ever Faithful",
                 "Ludevic, Necro-Alchemist"
@@ -845,9 +857,5 @@
                 "1 Eiganjo, Seat of the Empire"
             ]
         }
-    ],
-    "name": "East League S2 Qualifier",
-    "place": "Upkeep Hobbies (Philippines)",
-    "players": "18 players",
-    "date": "30/10/22"
+    ]
 }

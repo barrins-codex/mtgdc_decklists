@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "4603",
+    "name": "SoCal Duel Commander (Chino Hills, CA)",
+    "place": "",
+    "players": "16 players",
+    "date": "23/02/13",
     "decks": [
         {
             "deck_id": "226644",
             "rank": "2",
             "player": "me77oi",
+            "winrate": 0.8,
             "commander": [
                 "The Mimeoplasm"
             ],
@@ -111,9 +116,5 @@
                 "1 Unknown Card"
             ]
         }
-    ],
-    "name": "SoCal Duel Commander (Chino Hills, CA)",
-    "place": "",
-    "players": "16 players",
-    "date": "23/02/13"
+    ]
 }

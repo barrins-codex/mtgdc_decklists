@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "43882",
+    "name": "Galaxy Cup #2",
+    "place": "Naya (Jinan, China)",
+    "players": "11 players",
+    "date": "01/05/23",
     "decks": [
         {
             "deck_id": "523877",
             "rank": "1",
             "player": "Artorius Fu",
+            "winrate": 1.0,
             "commander": [
                 "Thalia and The Gitrog Monster"
             ],
@@ -115,6 +120,7 @@
             "deck_id": "523878",
             "rank": "2",
             "player": "Liang Yuanhao",
+            "winrate": 0.8,
             "commander": [
                 "Juri, Master of the Revue"
             ],
@@ -214,6 +220,7 @@
             "deck_id": "523879",
             "rank": "3",
             "player": "Shen Dingyu",
+            "winrate": 0.6,
             "commander": [
                 "Ognis, the Dragon's Lash"
             ],
@@ -319,9 +326,5 @@
                 "1 Marsh Flats"
             ]
         }
-    ],
-    "name": "Galaxy Cup #2",
-    "place": "Naya (Jinan, China)",
-    "players": "11 players",
-    "date": "01/05/23"
+    ]
 }

@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "36786",
+    "name": "DC Monthly",
+    "place": "Tableraze (Montpellier, France)",
+    "players": "14 players",
+    "date": "12/06/22",
     "decks": [
         {
             "deck_id": "476560",
             "rank": "1",
             "player": "Noah Silberfeld",
+            "winrate": 1.0,
             "commander": [
                 "Oswald Fiddlebender"
             ],
@@ -93,6 +98,7 @@
             "deck_id": "476561",
             "rank": "2",
             "player": "Matthieu Mizac",
+            "winrate": 0.8,
             "commander": [
                 "Juri, Master of the Revue"
             ],
@@ -193,6 +199,7 @@
             "deck_id": "476562",
             "rank": "3-4",
             "player": "Sacha Keitel",
+            "winrate": 0.6,
             "commander": [
                 "Dennick, Pious Apprentice"
             ],
@@ -295,6 +302,7 @@
             "deck_id": "476563",
             "rank": "3-4",
             "player": "Antoine Colomb",
+            "winrate": 0.6,
             "commander": [
                 "Minsc &amp; Boo, Timeless Heroes"
             ],
@@ -389,9 +397,5 @@
                 "10 Forest"
             ]
         }
-    ],
-    "name": "DC Monthly",
-    "place": "Tableraze (Montpellier, France)",
-    "players": "14 players",
-    "date": "12/06/22"
+    ]
 }

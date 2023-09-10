@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "40493",
+    "name": "Duelan sa TG",
+    "place": "Tapped Games (Marikina City, Philippines)",
+    "players": "8 players",
+    "date": "29/12/22",
     "decks": [
         {
             "deck_id": "501324",
             "rank": "1",
             "player": "Martin Ogayon",
+            "winrate": 1.0,
             "commander": [
                 "Grist, the Hunger Tide"
             ],
@@ -107,6 +112,7 @@
             "deck_id": "501325",
             "rank": "2",
             "player": "Ej Farcon",
+            "winrate": 0.6666666666666666,
             "commander": [
                 "Feldon, Ronom Excavator"
             ],
@@ -187,9 +193,5 @@
                 "26 Mountain"
             ]
         }
-    ],
-    "name": "Duelan sa TG",
-    "place": "Tapped Games (Marikina City, Philippines)",
-    "players": "8 players",
-    "date": "29/12/22"
+    ]
 }

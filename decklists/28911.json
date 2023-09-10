@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "28911",
+    "name": "Weekly Event ZAM",
+    "place": "Cockatrice",
+    "players": "8 players",
+    "date": "16/01/21",
     "decks": [
         {
             "deck_id": "428115",
             "rank": "1",
             "player": "Barberours",
+            "winrate": 1.0,
             "commander": [
                 "Keleth, Sunmane Familiar",
                 "Reyhan, Last of the Abzan"
@@ -115,6 +120,7 @@
             "deck_id": "428116",
             "rank": "2",
             "player": "Mephy",
+            "winrate": 0.6666666666666666,
             "commander": [
                 "Prossh, Skyraider of Kher"
             ],
@@ -213,9 +219,5 @@
                 "1 Xenagos, the Reveler"
             ]
         }
-    ],
-    "name": "Weekly Event ZAM",
-    "place": "Cockatrice",
-    "players": "8 players",
-    "date": "16/01/21"
+    ]
 }

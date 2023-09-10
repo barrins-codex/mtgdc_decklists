@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "36788",
+    "name": "DC Weekly Pod A",
+    "place": "Mana Underground (Lagro, Philippines)",
+    "players": "8 players",
+    "date": "11/06/22",
     "decks": [
         {
             "deck_id": "476571",
             "rank": "1",
             "player": "Gabe Enriquez",
+            "winrate": 1.0,
             "commander": [
                 "Minsc &amp; Boo, Timeless Heroes"
             ],
@@ -106,6 +111,7 @@
             "deck_id": "476572",
             "rank": "2",
             "player": "Ste Villaraza",
+            "winrate": 0.6666666666666666,
             "commander": [
                 "Elminster"
             ],
@@ -201,9 +207,5 @@
                 "8 Island"
             ]
         }
-    ],
-    "name": "DC Weekly Pod A",
-    "place": "Mana Underground (Lagro, Philippines)",
-    "players": "8 players",
-    "date": "11/06/22"
+    ]
 }

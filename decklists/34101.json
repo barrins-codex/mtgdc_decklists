@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "34101",
+    "name": "Laride Cup",
+    "place": "Aqua Cafe (Antipolo City, Philippines)",
+    "players": "12 players",
+    "date": "02/01/22",
     "decks": [
         {
             "deck_id": "459331",
             "rank": "1",
             "player": "Juan Antonio Agoncillo",
+            "winrate": 1.0,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -94,6 +99,7 @@
             "deck_id": "459332",
             "rank": "2",
             "player": "Rovi Casado",
+            "winrate": 0.8,
             "commander": [
                 "Sai, Master Thopterist"
             ],
@@ -180,6 +186,7 @@
             "deck_id": "459333",
             "rank": "3-4",
             "player": "Darren Dela Rosa",
+            "winrate": 0.6,
             "commander": [
                 "Judith, the Scourge Diva"
             ],
@@ -282,6 +289,7 @@
             "deck_id": "459334",
             "rank": "3-4",
             "player": "Tim Amagna",
+            "winrate": 0.6,
             "commander": [
                 "Rem Karolus, Stalwart Slayer"
             ],
@@ -378,9 +386,5 @@
                 "9 Mountain"
             ]
         }
-    ],
-    "name": "Laride Cup",
-    "place": "Aqua Cafe (Antipolo City, Philippines)",
-    "players": "12 players",
-    "date": "02/01/22"
+    ]
 }

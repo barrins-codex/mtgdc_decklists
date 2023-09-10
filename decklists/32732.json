@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "32732",
+    "name": "6th Webcam-League",
+    "place": "Leipzig (Germany)",
+    "players": "10 players",
+    "date": "26/09/21",
     "decks": [
         {
             "deck_id": "451015",
             "rank": "1",
             "player": "Jonas Kretzschmar",
+            "winrate": 1.0,
             "commander": [
                 "The Gitrog Monster"
             ],
@@ -105,6 +110,7 @@
             "deck_id": "451016",
             "rank": "2",
             "player": "Jonas Jörns",
+            "winrate": 0.8,
             "commander": [
                 "Asmoranomardicadaistinaculdacar"
             ],
@@ -206,9 +212,5 @@
                 "1 Pyrokinesis"
             ]
         }
-    ],
-    "name": "6th Webcam-League",
-    "place": "Leipzig (Germany)",
-    "players": "10 players",
-    "date": "26/09/21"
+    ]
 }

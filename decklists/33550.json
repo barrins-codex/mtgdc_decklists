@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "33550",
+    "name": "Duel Commander",
+    "place": "Fulcrum ESports (Cainta, Philippines)",
+    "players": "9 players",
+    "date": "28/11/21",
     "decks": [
         {
             "deck_id": "455605",
             "rank": "1",
             "player": "Rexel Tenorio",
+            "winrate": 1.0,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -115,6 +120,7 @@
             "deck_id": "455606",
             "rank": "2",
             "player": "Rai Reyes",
+            "winrate": 0.8,
             "commander": [
                 "Isamaru, Hound of Konda"
             ],
@@ -199,9 +205,5 @@
                 "1 Windswept Heath"
             ]
         }
-    ],
-    "name": "Duel Commander",
-    "place": "Fulcrum ESports (Cainta, Philippines)",
-    "players": "9 players",
-    "date": "28/11/21"
+    ]
 }

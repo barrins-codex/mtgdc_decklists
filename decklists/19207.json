@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "19207",
+    "name": "Carta'Jeu monthly May",
+    "place": "Carta'Jeu, lyon, france",
+    "players": "14 players",
+    "date": "13/05/18",
     "decks": [
         {
             "deck_id": "321690",
             "rank": "1",
             "player": "Cesidio Vischi (meideros)",
+            "winrate": 1.0,
             "commander": [
                 "Daretti, Scrap Savant"
             ],
@@ -89,6 +94,7 @@
             "deck_id": "321691",
             "rank": "2",
             "player": "Quentin Goyet",
+            "winrate": 0.8,
             "commander": [
                 "Shalai, Voice of Plenty"
             ],
@@ -179,9 +185,5 @@
                 "10 Forest"
             ]
         }
-    ],
-    "name": "Carta'Jeu monthly May",
-    "place": "Carta'Jeu, lyon, france",
-    "players": "14 players",
-    "date": "13/05/18"
+    ]
 }

@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "12887",
+    "name": "BoM Strasbourg 2016 - Friday",
+    "place": "",
+    "players": "12 players",
+    "date": "01/07/16",
     "decks": [
         {
             "deck_id": "274943",
             "rank": "1",
             "player": "Sergey \"Loxmatii\" Lamzin",
+            "winrate": 1.0,
             "commander": [
                 "Animar, Soul of Elements"
             ],
@@ -107,6 +112,7 @@
             "deck_id": "274944",
             "rank": "2",
             "player": "\"Asimov\"",
+            "winrate": 0.8,
             "commander": [
                 "Kytheon, Hero of Akros"
             ],
@@ -188,6 +194,7 @@
             "deck_id": "274945",
             "rank": "3",
             "player": "Aristide Blanpier",
+            "winrate": 0.6,
             "commander": [
                 "Grenzo, Dungeon Warden"
             ],
@@ -274,9 +281,5 @@
                 "1 Entomber Exarch"
             ]
         }
-    ],
-    "name": "BoM Strasbourg 2016 - Friday",
-    "place": "",
-    "players": "12 players",
-    "date": "01/07/16"
+    ]
 }

@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "33710",
+    "name": "DC Weekly Pod A",
+    "place": "Mana Underground (Lagro, Philippines)",
+    "players": "8 players",
+    "date": "04/12/21",
     "decks": [
         {
             "deck_id": "457042",
             "rank": "1",
             "player": "Roi \"kadamay\" Dagang",
+            "winrate": 1.0,
             "commander": [
                 "Klothys, God of Destiny"
             ],
@@ -107,6 +112,7 @@
             "deck_id": "457043",
             "rank": "2",
             "player": "Robert Soriano",
+            "winrate": 0.6666666666666666,
             "commander": [
                 "Grist, the Hunger Tide"
             ],
@@ -206,9 +212,5 @@
                 "4 Forest"
             ]
         }
-    ],
-    "name": "DC Weekly Pod A",
-    "place": "Mana Underground (Lagro, Philippines)",
-    "players": "8 players",
-    "date": "04/12/21"
+    ]
 }

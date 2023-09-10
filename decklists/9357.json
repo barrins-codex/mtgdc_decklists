@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "9357",
+    "name": "Duel Commander by Comics & Coffee (Milano, Italy)",
+    "place": "",
+    "players": "12 players",
+    "date": "14/03/15",
     "decks": [
         {
             "deck_id": "253628",
             "rank": "1",
             "player": "Michele Atzeni",
+            "winrate": 1.0,
             "commander": [
                 "Geist of Saint Traft"
             ],
@@ -102,6 +107,7 @@
             "deck_id": "253629",
             "rank": "1",
             "player": "Lorenzo Bianconi",
+            "winrate": 1.0,
             "commander": [
                 "Sidisi, Brood Tyrant"
             ],
@@ -206,9 +212,5 @@
                 "2 Forest"
             ]
         }
-    ],
-    "name": "Duel Commander by Comics & Coffee (Milano, Italy)",
-    "place": "",
-    "players": "12 players",
-    "date": "14/03/15"
+    ]
 }

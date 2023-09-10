@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "19778",
+    "name": "[DDL] Duel Lounge",
+    "place": "Darmstadt, Germany",
+    "players": "8 players",
+    "date": "19/07/18",
     "decks": [
         {
             "deck_id": "327394",
             "rank": "1",
             "player": "Alexandru C.",
+            "winrate": 1.0,
             "commander": [
                 "Baral, Chief of Compliance"
             ],
@@ -79,6 +84,7 @@
             "deck_id": "327395",
             "rank": "2",
             "player": "Felix M.",
+            "winrate": 0.6666666666666666,
             "commander": [
                 "Tymna the Weaver",
                 "Thrasios, Triton Hero"
@@ -184,9 +190,5 @@
                 "1 Seachrome Coast"
             ]
         }
-    ],
-    "name": "[DDL] Duel Lounge",
-    "place": "Darmstadt, Germany",
-    "players": "8 players",
-    "date": "19/07/18"
+    ]
 }

@@ -1,6 +1,6 @@
 {
     "format": "Duel Commander",
-    "id": 46239,
+    "id": "46239",
     "name": "Weekly DC",
     "place": "Slow Drake (Beijing, China)",
     "players": "12 players",
@@ -8,6 +8,12 @@
     "decks": [
         {
             "deck_id": "541546",
+            "rank": "1",
+            "player": "Shoucong Wu",
+            "winrate": 1.0,
+            "commander": [
+                "Sauron, the Dark Lord"
+            ],
             "decklist": [
                 "1 Expressive Iteration",
                 "1 Fable of the Mirror-Breaker",
@@ -108,15 +114,16 @@
                 "1 Shipwreck Marsh",
                 "1 Shizo, Death's Storehouse",
                 "1 Reflecting Pool"
-            ],
-            "commander": [
-                "Sauron, the Dark Lord"
-            ],
-            "rank": "1",
-            "player": "Shoucong Wu"
+            ]
         },
         {
             "deck_id": "541547",
+            "rank": "2",
+            "player": "Xiangjun Dai",
+            "winrate": 0.8,
+            "commander": [
+                "Dennick, Pious Apprentice"
+            ],
             "decklist": [
                 "1 Adarkar Wastes",
                 "1 Adeline, Resplendent Cathar",
@@ -208,12 +215,7 @@
                 "1 Wash Away",
                 "1 White Plume Adventurer",
                 "1 Windswept Heath"
-            ],
-            "commander": [
-                "Dennick, Pious Apprentice"
-            ],
-            "rank": "2",
-            "player": "Xiangjun Dai"
+            ]
         }
     ]
 }

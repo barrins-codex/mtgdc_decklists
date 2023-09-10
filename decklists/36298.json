@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "36298",
+    "name": "FACT #3 - Main Event",
+    "place": "Lyon (France)",
+    "players": "128 players",
+    "date": "15/05/22",
     "decks": [
         {
             "deck_id": "473052",
             "rank": "1",
             "player": "Flavien \"crimelune\" Paillet",
+            "winrate": 0.9,
             "commander": [
                 "Tivit, Seller of Secrets"
             ],
@@ -115,6 +120,7 @@
             "deck_id": "473053",
             "rank": "2",
             "player": "Thomas Mechin",
+            "winrate": 0.8,
             "commander": [
                 "Shorikai, Genesis Engine"
             ],
@@ -215,6 +221,7 @@
             "deck_id": "473054",
             "rank": "3-4",
             "player": "Bastien \"Isakami\" Guichard",
+            "winrate": 0.7777777777777778,
             "commander": [
                 "Isamaru, Hound of Konda"
             ],
@@ -299,6 +306,7 @@
             "deck_id": "473055",
             "rank": "3-4",
             "player": "Sam Marti",
+            "winrate": 0.7777777777777778,
             "commander": [
                 "Shorikai, Genesis Engine"
             ],
@@ -398,6 +406,7 @@
             "deck_id": "473056",
             "rank": "5-8",
             "player": "Maymard Christophe",
+            "winrate": 0.7777777777777778,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -504,9 +513,121 @@
             ]
         },
         {
+            "deck_id": "473057",
+            "rank": "5-8",
+            "player": "Aethrix",
+            "winrate": 0.7777777777777778,
+            "commander": [
+                "Lurrus of the Dream-Den",
+                "Wernog, Rider's Chaplain",
+                "Bjorna, Nightfall Alchemist"
+            ],
+            "decklist": [
+                "1 Wishclaw Talisman",
+                "1 Void Rend",
+                "1 Urza's Bauble",
+                "1 Underworld Breach",
+                "1 Toxic Deluge",
+                "1 Tithe",
+                "1 Thoughtseize",
+                "1 Tale's End",
+                "1 Tainted Pact",
+                "1 Swords to Plowshares",
+                "1 Solve the Equation",
+                "1 Shred Memory",
+                "1 Sevinne's Reclamation",
+                "1 Rip Apart",
+                "1 Repeal",
+                "1 Remand",
+                "1 Rain of Filth",
+                "1 Profane Tutor",
+                "1 Prismatic Ending",
+                "1 Preordain",
+                "1 Portable Hole",
+                "1 Ponder",
+                "1 Orim's Chant",
+                "1 Nihil Spellbomb",
+                "1 Muddle the Mixture",
+                "1 Mishra's Bauble",
+                "1 Memory Lapse",
+                "1 March of Otherworldly Light",
+                "1 Mana Leak",
+                "1 Lotus Petal",
+                "1 Lose Focus",
+                "1 Lightning Bolt",
+                "1 Intuition",
+                "1 Inquisition of Kozilek",
+                "1 Hard Evidence",
+                "1 Grindstone",
+                "1 Gitaxian Probe",
+                "1 Fatal Push",
+                "1 Expressive Iteration",
+                "1 Evasive Action",
+                "1 Enlightened Tutor",
+                "1 Duress",
+                "1 Dress Down",
+                "1 Demonic Tutor",
+                "1 Deadly Rollick",
+                "1 Deadly Dispute",
+                "1 Dark Ritual",
+                "1 Chain of Vapor",
+                "1 Brainstorm",
+                "1 Brain Freeze",
+                "1 Balance",
+                "1 Arcane Signet",
+                "1 Abeyance",
+                "1 Wall of Omens",
+                "1 Painter's Servant",
+                "1 Goblin Engineer",
+                "1 Dimir Infiltrator",
+                "1 Baleful Strix",
+                "1 Xander's Lounge",
+                "1 Wooded Foothills",
+                "1 Windswept Heath",
+                "1 Watery Grave",
+                "1 Volcanic Island",
+                "1 Verdant Catacombs",
+                "1 Urza's Saga",
+                "1 Underground Sea",
+                "1 Tundra",
+                "1 Swamp",
+                "1 Stormcarved Coast",
+                "1 Shipwreck Marsh",
+                "1 Shattered Sanctum",
+                "1 Seachrome Coast",
+                "1 Scrubland",
+                "1 Scalding Tarn",
+                "1 Savai Triome",
+                "1 Reflecting Pool",
+                "1 Raugrin Triome",
+                "1 Raffine's Tower",
+                "1 Polluted Delta",
+                "1 Plateau",
+                "1 Path of Ancestry",
+                "1 Misty Rainforest",
+                "1 Marsh Flats",
+                "1 Haunted Ridge",
+                "1 Hallowed Fountain",
+                "1 Glacial Fortress",
+                "1 Flooded Strand",
+                "1 Drowned Catacomb",
+                "1 Dragonskull Summit",
+                "1 Deserted Beach",
+                "1 Darkslick Shores",
+                "1 Concealed Courtyard",
+                "1 Command Tower",
+                "1 Bloodstained Mire",
+                "1 Blood Crypt",
+                "1 Blackcleave Cliffs",
+                "1 Badlands",
+                "1 Arid Mesa"
+            ]
+        },
+        {
             "deck_id": "473058",
             "rank": "5-8",
             "player": "Fish",
+            "winrate": 0.7777777777777778,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -616,6 +737,7 @@
             "deck_id": "473059",
             "rank": "5-8",
             "player": "Kaourintin \"falaakr\" Le Guiban",
+            "winrate": 0.7777777777777778,
             "commander": [
                 "Kyodai, Soul of Kamigawa"
             ],
@@ -722,119 +844,13 @@
             ]
         },
         {
-            "deck_id": "473057",
-            "rank": "5-8",
-            "player": "Aethrix",
-            "commander": [
-                "Lurrus of the Dream-Den",
-                "Wernog, Rider's Chaplain",
-                "Bjorna, Nightfall Alchemist"
-            ],
-            "decklist": [
-                "1 Wishclaw Talisman",
-                "1 Void Rend",
-                "1 Urza's Bauble",
-                "1 Underworld Breach",
-                "1 Toxic Deluge",
-                "1 Tithe",
-                "1 Thoughtseize",
-                "1 Tale's End",
-                "1 Tainted Pact",
-                "1 Swords to Plowshares",
-                "1 Solve the Equation",
-                "1 Shred Memory",
-                "1 Sevinne's Reclamation",
-                "1 Rip Apart",
-                "1 Repeal",
-                "1 Remand",
-                "1 Rain of Filth",
-                "1 Profane Tutor",
-                "1 Prismatic Ending",
-                "1 Preordain",
-                "1 Portable Hole",
-                "1 Ponder",
-                "1 Orim's Chant",
-                "1 Nihil Spellbomb",
-                "1 Muddle the Mixture",
-                "1 Mishra's Bauble",
-                "1 Memory Lapse",
-                "1 March of Otherworldly Light",
-                "1 Mana Leak",
-                "1 Lotus Petal",
-                "1 Lose Focus",
-                "1 Lightning Bolt",
-                "1 Intuition",
-                "1 Inquisition of Kozilek",
-                "1 Hard Evidence",
-                "1 Grindstone",
-                "1 Gitaxian Probe",
-                "1 Fatal Push",
-                "1 Expressive Iteration",
-                "1 Evasive Action",
-                "1 Enlightened Tutor",
-                "1 Duress",
-                "1 Dress Down",
-                "1 Demonic Tutor",
-                "1 Deadly Rollick",
-                "1 Deadly Dispute",
-                "1 Dark Ritual",
-                "1 Chain of Vapor",
-                "1 Brainstorm",
-                "1 Brain Freeze",
-                "1 Balance",
-                "1 Arcane Signet",
-                "1 Abeyance",
-                "1 Wall of Omens",
-                "1 Painter's Servant",
-                "1 Goblin Engineer",
-                "1 Dimir Infiltrator",
-                "1 Baleful Strix",
-                "1 Xander's Lounge",
-                "1 Wooded Foothills",
-                "1 Windswept Heath",
-                "1 Watery Grave",
-                "1 Volcanic Island",
-                "1 Verdant Catacombs",
-                "1 Urza's Saga",
-                "1 Underground Sea",
-                "1 Tundra",
-                "1 Swamp",
-                "1 Stormcarved Coast",
-                "1 Shipwreck Marsh",
-                "1 Shattered Sanctum",
-                "1 Seachrome Coast",
-                "1 Scrubland",
-                "1 Scalding Tarn",
-                "1 Savai Triome",
-                "1 Reflecting Pool",
-                "1 Raugrin Triome",
-                "1 Raffine's Tower",
-                "1 Polluted Delta",
-                "1 Plateau",
-                "1 Path of Ancestry",
-                "1 Misty Rainforest",
-                "1 Marsh Flats",
-                "1 Haunted Ridge",
-                "1 Hallowed Fountain",
-                "1 Glacial Fortress",
-                "1 Flooded Strand",
-                "1 Drowned Catacomb",
-                "1 Dragonskull Summit",
-                "1 Deserted Beach",
-                "1 Darkslick Shores",
-                "1 Concealed Courtyard",
-                "1 Command Tower",
-                "1 Bloodstained Mire",
-                "1 Blood Crypt",
-                "1 Blackcleave Cliffs",
-                "1 Badlands",
-                "1 Arid Mesa"
-            ]
-        },
-        {
             "deck_id": "473060",
             "rank": "9",
             "player": "Loïc Le Guennec",
+            "winrate": 0.7142857142857143,
+            "commander": [
+                "Grist, the Hunger Tide"
+            ],
             "decklist": [
                 "1 Darkbore Pathway",
                 "1 Outland Liberator",
@@ -924,15 +940,16 @@
                 "1 Yavimaya, Cradle of Growth",
                 "1 Yawgmoth, Thran Physician",
                 "1 Young Wolf"
-            ],
-            "commander": [
-                "Grist, the Hunger Tide"
             ]
         },
         {
             "deck_id": "473061",
             "rank": "10",
             "player": "Yann Belmer",
+            "winrate": 0.7142857142857143,
+            "commander": [
+                "Raffine, Scheming Seer"
+            ],
             "decklist": [
                 "1 Twinblade Geist",
                 "1 Exotic Pets",
@@ -1033,15 +1050,16 @@
                 "1 Shipwreck Marsh",
                 "1 Snow-Covered Island",
                 "1 Snow-Covered Plains"
-            ],
-            "commander": [
-                "Raffine, Scheming Seer"
             ]
         },
         {
             "deck_id": "473062",
             "rank": "11",
             "player": "Chiarvesio Julien",
+            "winrate": 0.7142857142857143,
+            "commander": [
+                "Shorikai, Genesis Engine"
+            ],
             "decklist": [
                 "1 Hengegate Pathway",
                 "1 Absorb",
@@ -1133,15 +1151,16 @@
                 "1 Wash Away",
                 "1 Windswept Heath",
                 "1 Wrath of God"
-            ],
-            "commander": [
-                "Shorikai, Genesis Engine"
             ]
         },
         {
             "deck_id": "473063",
             "rank": "12",
             "player": "Damien Jantzen Eventwin",
+            "winrate": 0.7142857142857143,
+            "commander": [
+                "Shorikai, Genesis Engine"
+            ],
             "decklist": [
                 "1 Hengegate Pathway",
                 "1 Absorb",
@@ -1232,15 +1251,16 @@
                 "1 Wash Away",
                 "1 Windswept Heath",
                 "1 Wrath of God"
-            ],
-            "commander": [
-                "Shorikai, Genesis Engine"
             ]
         },
         {
             "deck_id": "473064",
             "rank": "13",
             "player": "Gouigoui",
+            "winrate": 0.7142857142857143,
+            "commander": [
+                "Lonis, Cryptozoologist"
+            ],
             "decklist": [
                 "1 Earthcraft",
                 "1 Eldritch Evolution",
@@ -1331,15 +1351,16 @@
                 "1 Simic Growth Chamber",
                 "4 Snow-Covered Island",
                 "8 Snow-Covered Forest"
-            ],
-            "commander": [
-                "Lonis, Cryptozoologist"
             ]
         },
         {
             "deck_id": "473065",
             "rank": "14",
             "player": "Fabry Julien",
+            "winrate": 0.7142857142857143,
+            "commander": [
+                "Grenzo, Dungeon Warden"
+            ],
             "decklist": [
                 "1 Blightstep Pathway",
                 "1 Abrade",
@@ -1432,15 +1453,16 @@
                 "1 Verdant Catacombs",
                 "1 Warren Instigator",
                 "1 Wooded Foothills"
-            ],
-            "commander": [
-                "Grenzo, Dungeon Warden"
             ]
         },
         {
             "deck_id": "473066",
             "rank": "15",
-            "player": "mizzet Reborn",
+            "player": "Jonathan Marvie",
+            "winrate": 0.7142857142857143,
+            "commander": [
+                "Niv-Mizzet Reborn"
+            ],
             "decklist": [
                 "1 Abrupt Decay",
                 "1 Ajani Vengeant",
@@ -1541,15 +1563,16 @@
                 "1 Wrenn and Six",
                 "1 Xander's Lounge",
                 "1 Zagoth Triome"
-            ],
-            "commander": [
-                "Niv-Mizzet Reborn"
             ]
         },
         {
             "deck_id": "473067",
             "rank": "16",
             "player": "Florian Trotte",
+            "winrate": 0.7142857142857143,
+            "commander": [
+                "Shorikai, Genesis Engine"
+            ],
             "decklist": [
                 "1 Hengegate Pathway",
                 "1 Search for Azcanta",
@@ -1641,14 +1664,7 @@
                 "1 Wash Away",
                 "1 Windswept Heath",
                 "1 Wrath of God"
-            ],
-            "commander": [
-                "Shorikai, Genesis Engine"
             ]
         }
-    ],
-    "name": "FACT #3 - Main Event",
-    "place": "Lyon (France)",
-    "players": "128 players",
-    "date": "15/05/22"
+    ]
 }

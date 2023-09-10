@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "40739",
+    "name": "[DDL] Lounge League",
+    "place": "Darmstadt (Germany)",
+    "players": "10 players",
+    "date": "17/01/23",
     "decks": [
         {
             "deck_id": "503076",
             "rank": "1",
             "player": "Bitzelberg",
+            "winrate": 1.0,
             "commander": [
                 "Kinnan, Bonder Prodigy"
             ],
@@ -109,6 +114,7 @@
             "deck_id": "503077",
             "rank": "2",
             "player": "Stefan C.",
+            "winrate": 0.8,
             "commander": [
                 "Kinnan, Bonder Prodigy"
             ],
@@ -207,9 +213,5 @@
                 "1 Yavimaya, Cradle of Growth"
             ]
         }
-    ],
-    "name": "[DDL] Lounge League",
-    "place": "Darmstadt (Germany)",
-    "players": "10 players",
-    "date": "17/01/23"
+    ]
 }

@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "23580",
+    "name": "91st \"New Year Cake\" Cup",
+    "place": "Shanghai (China)",
+    "players": "14 players",
+    "date": "27/10/19",
     "decks": [
         {
             "deck_id": "363302",
             "rank": "1",
             "player": "Jiang Jiahe",
+            "winrate": 1.0,
             "commander": [
                 "Niv-Mizzet Reborn"
             ],
@@ -115,6 +120,7 @@
             "deck_id": "363303",
             "rank": "2",
             "player": "Xu Zinan",
+            "winrate": 0.8,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -220,9 +226,5 @@
                 "1 Palace Jailer"
             ]
         }
-    ],
-    "name": "91st \"New Year Cake\" Cup",
-    "place": "Shanghai (China)",
-    "players": "14 players",
-    "date": "27/10/19"
+    ]
 }

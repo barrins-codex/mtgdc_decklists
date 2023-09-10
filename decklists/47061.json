@@ -1,15 +1,19 @@
 {
     "format": "Duel Commander",
-    "id": 47061,
+    "id": "47061",
     "name": "Regular DC",
     "place": "Geek Shop (Recife, Brasil)",
     "players": "12 players",
     "date": "22/08/23",
     "decks": [
         {
-            "player": "Italo Gabriel",
-            "rank": "1",
             "deck_id": "547805",
+            "rank": "1",
+            "player": "Italo Gabriel",
+            "winrate": 1.0,
+            "commander": [
+                "Octavia, Living Thesis"
+            ],
             "decklist": [
                 "1 Lonely Sandbar",
                 "1 Castle Vantress",
@@ -80,15 +84,17 @@
                 "1 Mystic Confluence",
                 "1 Teferi, Mage of Zhalfir",
                 "1 Sailors' Bane"
-            ],
-            "commander": [
-                "Octavia, Living Thesis"
             ]
         },
         {
-            "player": "Rafael Batista",
-            "rank": "2",
             "deck_id": "547806",
+            "rank": "2",
+            "player": "Rafael Batista",
+            "winrate": 0.8,
+            "commander": [
+                "Yoshimaru, Ever Faithful",
+                "Tana, the Bloodsower"
+            ],
             "decklist": [
                 "1 Swords to Plowshares",
                 "1 Prismatic Ending",
@@ -188,16 +194,16 @@
                 "1 The Grey Havens",
                 "1 Sundown Pass",
                 "1 Sacred Foundry"
-            ],
-            "commander": [
-                "Yoshimaru, Ever Faithful",
-                "Tana, the Bloodsower"
             ]
         },
         {
-            "player": "Guilherme (guima)",
-            "rank": "3-4",
             "deck_id": "547807",
+            "rank": "3-4",
+            "player": "Guilherme (guima)",
+            "winrate": 0.6,
+            "commander": [
+                "Ertai Resurrected"
+            ],
             "decklist": [
                 "1 Drowned Catacomb",
                 "1 Verdant Catacombs",
@@ -285,15 +291,16 @@
                 "1 Force of Will",
                 "1 Shark Typhoon",
                 "1 Hullbreaker Horror"
-            ],
-            "commander": [
-                "Ertai Resurrected"
             ]
         },
         {
-            "player": "Nelson (ancião)",
-            "rank": "3-4",
             "deck_id": "547808",
+            "rank": "3-4",
+            "player": "Nelson (ancião)",
+            "winrate": 0.6,
+            "commander": [
+                "Leovold, Emissary of Trest"
+            ],
             "decklist": [
                 "1 Bayou",
                 "1 Boseiju, Who Endures",
@@ -391,9 +398,6 @@
                 "1 Sheoldred, the Apocalypse",
                 "1 Misdirection",
                 "1 Force of Will"
-            ],
-            "commander": [
-                "Leovold, Emissary of Trest"
             ]
         }
     ]

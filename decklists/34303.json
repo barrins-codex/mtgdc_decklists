@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "34303",
+    "name": "BTC",
+    "place": "Cartapapa (Montpellier, France)",
+    "players": "54 players",
+    "date": "16/01/22",
     "decks": [
         {
             "deck_id": "460593",
             "rank": "1",
             "player": "Adrien Houssard",
+            "winrate": 0.8888888888888888,
             "commander": [
                 "Thrasta, Tempest's Roar"
             ],
@@ -99,6 +104,7 @@
             "deck_id": "460594",
             "rank": "2",
             "player": "Romain Nephael",
+            "winrate": 0.7777777777777778,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -186,6 +192,7 @@
             "deck_id": "460595",
             "rank": "3",
             "player": "Lucas Milani",
+            "winrate": 0.75,
             "commander": [
                 "Isamaru, Hound of Konda"
             ],
@@ -278,6 +285,7 @@
             "deck_id": "460596",
             "rank": "4",
             "player": "Samuel Mourgues",
+            "winrate": 0.75,
             "commander": [
                 "Jori En, Ruin Diver"
             ],
@@ -373,6 +381,7 @@
             "deck_id": "460597",
             "rank": "5",
             "player": "Romain « d4rk71p3r » Belamy",
+            "winrate": 0.75,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -460,6 +469,7 @@
             "deck_id": "460598",
             "rank": "6",
             "player": "Andy Sieurac",
+            "winrate": 0.75,
             "commander": [
                 "Malcolm, Keen-Eyed Navigator",
                 "Kraum, Ludevic's Opus"
@@ -556,6 +566,7 @@
             "deck_id": "460599",
             "rank": "7",
             "player": "Antoine Colomb",
+            "winrate": 0.75,
             "commander": [
                 "Tevesh Szat, Doom of Fools",
                 "Gilanra, Caller of Wirewood"
@@ -653,6 +664,7 @@
             "deck_id": "460600",
             "rank": "8",
             "player": "Guillaume Ollier",
+            "winrate": 0.75,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -737,9 +749,5 @@
                 "1 Firebolt"
             ]
         }
-    ],
-    "name": "BTC",
-    "place": "Cartapapa (Montpellier, France)",
-    "players": "54 players",
-    "date": "16/01/22"
+    ]
 }

@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "24046",
+    "name": "DC Christmas Special 1st Pod",
+    "place": "Tapped Games, Philippines",
+    "players": "14 players",
+    "date": "14/12/19",
     "decks": [
         {
             "deck_id": "367748",
             "rank": "1",
             "player": "Earl Castel",
+            "winrate": 1.0,
             "commander": [
                 "Tymna the Weaver",
                 "Kraum, Ludevic's Opus"
@@ -115,6 +120,7 @@
             "deck_id": "367749",
             "rank": "2",
             "player": "Louie Siongco",
+            "winrate": 0.8,
             "commander": [
                 "Zur the Enchanter"
             ],
@@ -220,9 +226,5 @@
                 "1 Adarkar Wastes"
             ]
         }
-    ],
-    "name": "DC Christmas Special 1st Pod",
-    "place": "Tapped Games, Philippines",
-    "players": "14 players",
-    "date": "14/12/19"
+    ]
 }

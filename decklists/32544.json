@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "32544",
+    "name": "Commander League Side Event",
+    "place": "Cockatrice + Discord",
+    "players": "21 players",
+    "date": "22/09/21",
     "decks": [
         {
             "deck_id": "449926",
             "rank": "1",
             "player": "Carpenters",
+            "winrate": 1.0,
             "commander": [
                 "Tevesh Szat, Doom of Fools",
                 "Prava of the Steel Legion"
@@ -104,6 +109,7 @@
             "deck_id": "449927",
             "rank": "2",
             "player": "Zohoz",
+            "winrate": 0.8,
             "commander": [
                 "Niv-Mizzet Reborn"
             ],
@@ -213,6 +219,7 @@
             "deck_id": "449928",
             "rank": "3-4",
             "player": "Gnomenmy",
+            "winrate": 0.8,
             "commander": [
                 "Laelia, the Blade Reforged"
             ],
@@ -301,6 +308,7 @@
             "deck_id": "449929",
             "rank": "3-4",
             "player": "Wartakar",
+            "winrate": 0.8,
             "commander": [
                 "Prossh, Skyraider of Kher"
             ],
@@ -406,9 +414,5 @@
                 "1 Darkbore Pathway"
             ]
         }
-    ],
-    "name": "Commander League Side Event",
-    "place": "Cockatrice + Discord",
-    "players": "21 players",
-    "date": "22/09/21"
+    ]
 }

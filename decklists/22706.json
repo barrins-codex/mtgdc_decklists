@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "22706",
+    "name": "FNM Hiveworld",
+    "place": "Hiveworld Cologne",
+    "players": "11 players",
+    "date": "02/08/19",
     "decks": [
         {
             "deck_id": "355011",
             "rank": "1",
             "player": "Jannik D",
+            "winrate": 1.0,
             "commander": [
                 "Grenzo, Dungeon Warden"
             ],
@@ -109,6 +114,7 @@
             "deck_id": "355012",
             "rank": "2",
             "player": "Thomas H",
+            "winrate": 0.8,
             "commander": [
                 "Titania, Protector of Argoth"
             ],
@@ -198,9 +204,5 @@
                 "1 Warping Wail"
             ]
         }
-    ],
-    "name": "FNM Hiveworld",
-    "place": "Hiveworld Cologne",
-    "players": "11 players",
-    "date": "02/08/19"
+    ]
 }

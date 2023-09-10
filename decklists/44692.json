@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "44692",
+    "name": "Galaxy Cup #5",
+    "place": "Naya (Jinan, China)",
+    "players": "11 players",
+    "date": "27/05/23",
     "decks": [
         {
             "deck_id": "529638",
             "rank": "1",
             "player": "Zhang Xu",
+            "winrate": 1.0,
             "commander": [
                 "Dihada, Binder of Wills"
             ],
@@ -115,6 +120,7 @@
             "deck_id": "529639",
             "rank": "2",
             "player": "Peng Cheng",
+            "winrate": 0.8,
             "commander": [
                 "Thalia and The Gitrog Monster"
             ],
@@ -224,6 +230,7 @@
             "deck_id": "529640",
             "rank": "3",
             "player": "Wang Jinlin",
+            "winrate": 0.6,
             "commander": [
                 "Kraum, Ludevic's Opus",
                 "Yoshimaru, Ever Faithful"
@@ -319,9 +326,5 @@
                 "1 Zurgo Bellstriker"
             ]
         }
-    ],
-    "name": "Galaxy Cup #5",
-    "place": "Naya (Jinan, China)",
-    "players": "11 players",
-    "date": "27/05/23"
+    ]
 }

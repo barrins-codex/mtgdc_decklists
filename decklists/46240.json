@@ -1,6 +1,6 @@
 {
     "format": "Duel Commander",
-    "id": 46240,
+    "id": "46240",
     "name": "Galaxy Cup #8",
     "place": "Naya (Jinan, China)",
     "players": "9 players",
@@ -8,6 +8,12 @@
     "decks": [
         {
             "deck_id": "541548",
+            "rank": "1",
+            "player": "Xiaoyuzhou",
+            "winrate": 1.0,
+            "commander": [
+                "Raffine, Scheming Seer"
+            ],
             "decklist": [
                 "1 Adarkar Wastes",
                 "1 Arid Mesa",
@@ -108,15 +114,16 @@
                 "1 Watery Grave",
                 "1 White Plume Adventurer",
                 "1 Windswept Heath"
-            ],
-            "commander": [
-                "Raffine, Scheming Seer"
-            ],
-            "rank": "1",
-            "player": "Xiaoyuzhou"
+            ]
         },
         {
             "deck_id": "541549",
+            "rank": "2",
+            "player": "Yu Hang",
+            "winrate": 0.8,
+            "commander": [
+                "Aragorn, the Uniter"
+            ],
             "decklist": [
                 "1 Fable of the Mirror-Breaker",
                 "1 Fellwar Stone",
@@ -217,15 +224,16 @@
                 "1 Scalding Tarn",
                 "1 Seachrome Coast",
                 "1 Polluted Delta"
-            ],
-            "commander": [
-                "Aragorn, the Uniter"
-            ],
-            "rank": "2",
-            "player": "Yu Hang"
+            ]
         },
         {
             "deck_id": "541550",
+            "rank": "3",
+            "player": "Liang Yuanhao",
+            "winrate": 0.6,
+            "commander": [
+                "Kroxa, Titan of Death's Hunger"
+            ],
             "decklist": [
                 "1 Claim / Fame",
                 "1 Abrade",
@@ -316,12 +324,7 @@
                 "1 Urborg, Tomb of Yawgmoth",
                 "1 Verdant Catacombs",
                 "1 Wooded Foothills"
-            ],
-            "commander": [
-                "Kroxa, Titan of Death's Hunger"
-            ],
-            "rank": "3",
-            "player": "Liang Yuanhao"
+            ]
         }
     ]
 }

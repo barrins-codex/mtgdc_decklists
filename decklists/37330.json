@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "37330",
+    "name": "Rising Sun DC Tournament #3",
+    "place": "Ile de la Réunion",
+    "players": "30 players",
+    "date": "05/06/22",
     "decks": [
         {
             "deck_id": "479946",
             "rank": "1",
             "player": "Bilal \"rs Khan\"",
+            "winrate": 1.0,
             "commander": [
                 "Grist, the Hunger Tide"
             ],
@@ -104,6 +109,7 @@
             "deck_id": "479947",
             "rank": "2",
             "player": "Matthieu Guertener",
+            "winrate": 0.8,
             "commander": [
                 "The Beamtown Bullies"
             ],
@@ -213,6 +219,7 @@
             "deck_id": "479948",
             "rank": "3",
             "player": "Alexandre Bigot",
+            "winrate": 0.8,
             "commander": [
                 "Prossh, Skyraider of Kher"
             ],
@@ -322,6 +329,7 @@
             "deck_id": "479949",
             "rank": "4",
             "player": "Yann \"rs Black\" Meese",
+            "winrate": 0.8,
             "commander": [
                 "Lurrus of the Dream-Den",
                 "Wernog, Rider's Chaplain",
@@ -432,6 +440,7 @@
             "deck_id": "479950",
             "rank": "5",
             "player": "Michaël \"joker\" Gence",
+            "winrate": 0.6,
             "commander": [
                 "Grist, the Hunger Tide"
             ],
@@ -541,6 +550,7 @@
             "deck_id": "479951",
             "rank": "6",
             "player": "Anthony \"rs Strad\" Vallon",
+            "winrate": 0.6,
             "commander": [
                 "Lurrus of the Dream-Den",
                 "Wernog, Rider's Chaplain",
@@ -651,6 +661,7 @@
             "deck_id": "479952",
             "rank": "7",
             "player": "Baptiste Manhaval",
+            "winrate": 0.6,
             "commander": [
                 "Galazeth Prismari"
             ],
@@ -749,6 +760,7 @@
             "deck_id": "479953",
             "rank": "8",
             "player": "David  \"bill\" Rivière",
+            "winrate": 0.6,
             "commander": [
                 "Isamaru, Hound of Konda"
             ],
@@ -830,9 +842,5 @@
                 "1 Welcoming Vampire"
             ]
         }
-    ],
-    "name": "Rising Sun DC Tournament #3",
-    "place": "Ile de la Réunion",
-    "players": "30 players",
-    "date": "05/06/22"
+    ]
 }

@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "7774",
+    "name": "10th \"New Year Cake\" Cup (Shanghai)",
+    "place": "",
+    "players": "11 players",
+    "date": "07/06/14",
     "decks": [
         {
             "deck_id": "244764",
             "rank": "1",
             "player": "Yue Song",
+            "winrate": 1.0,
             "commander": [
                 "Oloro, Ageless Ascetic"
             ],
@@ -115,6 +120,7 @@
             "deck_id": "244765",
             "rank": "2",
             "player": "Wenbin Dai",
+            "winrate": 0.8,
             "commander": [
                 "Polukranos, World Eater"
             ],
@@ -194,9 +200,5 @@
                 "27 Snow-Covered Forest"
             ]
         }
-    ],
-    "name": "10th \"New Year Cake\" Cup (Shanghai)",
-    "place": "",
-    "players": "11 players",
-    "date": "07/06/14"
+    ]
 }

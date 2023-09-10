@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "32965",
+    "name": "DC Monthly",
+    "place": "Jeux Barjo (Bordeaux, France)",
+    "players": "19 players",
+    "date": "24/10/21",
     "decks": [
         {
             "deck_id": "452346",
             "rank": "1",
             "player": "Romain Faugere",
+            "winrate": 1.0,
             "commander": [
                 "Golos, Tireless Pilgrim"
             ],
@@ -115,6 +120,7 @@
             "deck_id": "452347",
             "rank": "2",
             "player": "Julien Lagardere",
+            "winrate": 0.8,
             "commander": [
                 "Saskia the Unyielding"
             ],
@@ -220,9 +226,5 @@
                 "1 Wooded Foothills"
             ]
         }
-    ],
-    "name": "DC Monthly",
-    "place": "Jeux Barjo (Bordeaux, France)",
-    "players": "19 players",
-    "date": "24/10/21"
+    ]
 }

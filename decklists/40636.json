@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "40636",
+    "name": "WANTED Saison 6 #1",
+    "place": "Cartarennes (Rennes, France)",
+    "players": "21 players",
+    "date": "11/01/23",
     "decks": [
         {
             "deck_id": "502257",
             "rank": "1",
             "player": "Maxime Allée",
+            "winrate": 1.0,
             "commander": [
                 "Grist, the Hunger Tide"
             ],
@@ -105,6 +110,7 @@
             "deck_id": "502258",
             "rank": "2",
             "player": "Léon Le Loir",
+            "winrate": 0.8,
             "commander": [
                 "Jegantha, the Wellspring",
                 "Jodah, the Unifier"
@@ -211,9 +217,5 @@
                 "1 Ancient Ziggurat"
             ]
         }
-    ],
-    "name": "WANTED Saison 6 #1",
-    "place": "Cartarennes (Rennes, France)",
-    "players": "21 players",
-    "date": "11/01/23"
+    ]
 }

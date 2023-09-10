@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "44292",
+    "name": "Duel de commandants QC #5",
+    "place": "L'Expédition MTL (Montréal, Québec)",
+    "players": "18 players",
+    "date": "06/05/23",
     "decks": [
         {
             "deck_id": "526838",
             "rank": "1",
             "player": "André Giraud",
+            "winrate": 1.0,
             "commander": [
                 "Rona, Herald of Invasion"
             ],
@@ -115,6 +120,7 @@
             "deck_id": "526839",
             "rank": "2",
             "player": "Nathan Soucy",
+            "winrate": 0.8,
             "commander": [
                 "Criminal Past",
                 "Gut, True Soul Zealot"
@@ -205,9 +211,5 @@
                 "1 Wild Slash"
             ]
         }
-    ],
-    "name": "Duel de commandants QC #5",
-    "place": "L'Expédition MTL (Montréal, Québec)",
-    "players": "18 players",
-    "date": "06/05/23"
+    ]
 }

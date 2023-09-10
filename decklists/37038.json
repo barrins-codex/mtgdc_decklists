@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "37038",
+    "name": "DC FNM",
+    "place": "Dragon's Lair (Maceda, Philippines)",
+    "players": "10 players",
+    "date": "24/06/22",
     "decks": [
         {
             "deck_id": "478145",
             "rank": "1",
             "player": "Ste Villaraza",
+            "winrate": 1.0,
             "commander": [
                 "Minsc &amp; Boo, Timeless Heroes"
             ],
@@ -108,6 +113,7 @@
             "deck_id": "478146",
             "rank": "2",
             "player": "Myke Nismal",
+            "winrate": 0.8,
             "commander": [
                 "Dragonlord Ojutai"
             ],
@@ -204,9 +210,5 @@
                 "1 Windswept Heath"
             ]
         }
-    ],
-    "name": "DC FNM",
-    "place": "Dragon's Lair (Maceda, Philippines)",
-    "players": "10 players",
-    "date": "24/06/22"
+    ]
 }

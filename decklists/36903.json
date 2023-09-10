@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "36903",
+    "name": "Cóleras & DuWells #24",
+    "place": "Cúpula do Trovão (Pelotas, Brazil)",
+    "players": "16 players",
+    "date": "10/06/22",
     "decks": [
         {
             "deck_id": "477286",
             "rank": "1",
             "player": "Buba",
+            "winrate": 1.0,
             "commander": [
                 "The Beamtown Bullies"
             ],
@@ -111,6 +116,7 @@
             "deck_id": "477287",
             "rank": "2",
             "player": "Flávio \"sife\" Foster",
+            "winrate": 0.8,
             "commander": [
                 "Elminster"
             ],
@@ -207,9 +213,5 @@
                 "7 Island"
             ]
         }
-    ],
-    "name": "Cóleras & DuWells #24",
-    "place": "Cúpula do Trovão (Pelotas, Brazil)",
-    "players": "16 players",
-    "date": "10/06/22"
+    ]
 }

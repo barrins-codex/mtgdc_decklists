@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "8236",
+    "name": "Clash of Commanders 2 (Bratislava, Slovakia)",
+    "place": "",
+    "players": "14 players",
+    "date": "28/09/14",
     "decks": [
         {
             "deck_id": "247392",
             "rank": "1",
             "player": "Richard Glassner",
+            "winrate": 1.0,
             "commander": [
                 "Sharuum the Hegemon"
             ],
@@ -110,6 +115,7 @@
             "deck_id": "247393",
             "rank": "2",
             "player": "Branislav Hindicky",
+            "winrate": 0.8,
             "commander": [
                 "Omnath, Locus of Mana"
             ],
@@ -189,9 +195,5 @@
                 "1 Genesis Hydra"
             ]
         }
-    ],
-    "name": "Clash of Commanders 2 (Bratislava, Slovakia)",
-    "place": "",
-    "players": "14 players",
-    "date": "28/09/14"
+    ]
 }

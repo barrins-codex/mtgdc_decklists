@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "28745",
+    "name": "Duel",
+    "place": "Mana Underground (Quezon City, Philippines)",
+    "players": "14 players",
+    "date": "29/12/20",
     "decks": [
         {
             "deck_id": "426906",
             "rank": "1",
             "player": "Chris Sta Maria",
+            "winrate": 1.0,
             "commander": [
                 "Karlov of the Ghost Council",
                 "Lurrus of the Dream-Den"
@@ -112,6 +117,7 @@
             "deck_id": "426907",
             "rank": "2",
             "player": "Lawrence Samaniego",
+            "winrate": 0.8,
             "commander": [
                 "Esior, Wardwing Familiar",
                 "Keleth, Sunmane Familiar"
@@ -211,6 +217,7 @@
             "deck_id": "426908",
             "rank": "3",
             "player": "Glen Marc Alesna",
+            "winrate": 0.6,
             "commander": [
                 "Keleth, Sunmane Familiar",
                 "Rograkh, Son of Rohgahh"
@@ -313,6 +320,7 @@
             "deck_id": "426909",
             "rank": "4",
             "player": "Hans Biasbas",
+            "winrate": 0.6,
             "commander": [
                 "Reyhan, Last of the Abzan",
                 "Jeska, Thrice Reborn"
@@ -418,9 +426,5 @@
                 "1 Dryad Arbor"
             ]
         }
-    ],
-    "name": "Duel",
-    "place": "Mana Underground (Quezon City, Philippines)",
-    "players": "14 players",
-    "date": "29/12/20"
+    ]
 }

@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "35535",
+    "name": "RJ Cup 2022 #10",
+    "place": "League Castle (Mong Kok, Hong Kong)",
+    "players": "8 players",
+    "date": "26/03/22",
     "decks": [
         {
             "deck_id": "468215",
             "rank": "1",
             "player": "Wilson Lai",
+            "winrate": 1.0,
             "commander": [
                 "Shorikai, Genesis Engine"
             ],
@@ -106,6 +111,7 @@
             "deck_id": "468216",
             "rank": "2",
             "player": "Pak Kei Leung",
+            "winrate": 0.6666666666666666,
             "commander": [
                 "Galazeth Prismari"
             ],
@@ -197,9 +203,5 @@
                 "1 Winter Orb"
             ]
         }
-    ],
-    "name": "RJ Cup 2022 #10",
-    "place": "League Castle (Mong Kok, Hong Kong)",
-    "players": "8 players",
-    "date": "26/03/22"
+    ]
 }

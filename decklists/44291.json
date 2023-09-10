@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "44291",
+    "name": "TNDC \"Natl Day to Combat WPH\"",
+    "place": "Bolovo Games (Santos, Brasil)",
+    "players": "15 players",
+    "date": "02/05/23",
     "decks": [
         {
             "deck_id": "526834",
             "rank": "1",
             "player": "Victor Burghi",
+            "winrate": 1.0,
             "commander": [
                 "Lurrus of the Dream-Den",
                 "Jirina, Dauntless General"
@@ -110,6 +115,7 @@
             "deck_id": "526835",
             "rank": "2",
             "player": "Luiz \"gg\"",
+            "winrate": 0.8,
             "commander": [
                 "Skrelv, Defector Mite"
             ],
@@ -191,6 +197,7 @@
             "deck_id": "526836",
             "rank": "3",
             "player": "Carlos Pires",
+            "winrate": 0.6,
             "commander": [
                 "Ertai Resurrected"
             ],
@@ -289,6 +296,7 @@
             "deck_id": "526837",
             "rank": "4",
             "player": "Leonardo Maeda",
+            "winrate": 0.6,
             "commander": [
                 "Minsc, Beloved Ranger"
             ],
@@ -391,9 +399,5 @@
                 "1 Surge of Salvation"
             ]
         }
-    ],
-    "name": "TNDC \"Natl Day to Combat WPH\"",
-    "place": "Bolovo Games (Santos, Brasil)",
-    "players": "15 players",
-    "date": "02/05/23"
+    ]
 }

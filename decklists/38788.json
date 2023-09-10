@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "38788",
+    "name": "Tournament",
+    "place": "Upkeep Hobbies (Philippines)",
+    "players": "10 players",
+    "date": "09/10/22",
     "decks": [
         {
             "deck_id": "489459",
             "rank": "1",
             "player": "Darren Dela Rosa",
+            "winrate": 1.0,
             "commander": [
                 "Kroxa, Titan of Death's Hunger"
             ],
@@ -110,6 +115,7 @@
             "deck_id": "489460",
             "rank": "2",
             "player": "Arthas",
+            "winrate": 0.8,
             "commander": [
                 "Isamaru, Hound of Konda"
             ],
@@ -192,6 +198,7 @@
             "deck_id": "489461",
             "rank": "3-4",
             "player": "Cilbert Corpuz",
+            "winrate": 0.6,
             "commander": [
                 "Yoshimaru, Ever Faithful",
                 "Jeska, Thrice Reborn"
@@ -299,6 +306,7 @@
             "deck_id": "489462",
             "rank": "3-4",
             "player": "Noel Catilo",
+            "winrate": 0.6,
             "commander": [
                 "Lurrus of the Dream-Den",
                 "Karlov of the Ghost Council"
@@ -396,9 +404,5 @@
                 "7 Plains"
             ]
         }
-    ],
-    "name": "Tournament",
-    "place": "Upkeep Hobbies (Philippines)",
-    "players": "10 players",
-    "date": "09/10/22"
+    ]
 }

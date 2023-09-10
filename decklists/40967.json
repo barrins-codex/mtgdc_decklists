@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "40967",
+    "name": "LiziKing Cup",
+    "place": "Yichang (China)",
+    "players": "8 players",
+    "date": "28/01/23",
     "decks": [
         {
             "deck_id": "504562",
             "rank": "1",
             "player": "Li Wenbo",
+            "winrate": 1.0,
             "commander": [
                 "Grist, the Hunger Tide"
             ],
@@ -107,6 +112,7 @@
             "deck_id": "504563",
             "rank": "2",
             "player": "Li Ruji",
+            "winrate": 0.6666666666666666,
             "commander": [
                 "Yoshimaru, Ever Faithful",
                 "Tana, the Bloodsower"
@@ -208,9 +214,5 @@
                 "1 Umezawa's Jitte"
             ]
         }
-    ],
-    "name": "LiziKing Cup",
-    "place": "Yichang (China)",
-    "players": "8 players",
-    "date": "28/01/23"
+    ]
 }

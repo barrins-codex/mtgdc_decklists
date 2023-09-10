@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "32149",
+    "name": "Var Dc 2 !",
+    "place": "Guilde des jeux (Hyères, France)",
+    "players": "14 players",
+    "date": "27/08/21",
     "decks": [
         {
             "deck_id": "447727",
             "rank": "1",
             "player": "Loïc Baverel",
+            "winrate": 1.0,
             "commander": [
                 "Karlov of the Ghost Council"
             ],
@@ -109,7 +114,8 @@
         {
             "deck_id": "447728",
             "rank": "2",
-            "player": "Alexandre Andouard ",
+            "player": "Alexandre Andouard",
+            "winrate": 0.8,
             "commander": [
                 "Adeliz, the Cinder Wind"
             ],
@@ -204,6 +210,7 @@
             "deck_id": "447729",
             "rank": "3",
             "player": "Thibault Dupuy",
+            "winrate": 0.6,
             "commander": [
                 "Kinnan, Bonder Prodigy"
             ],
@@ -290,9 +297,5 @@
                 "1 Wooded Foothills"
             ]
         }
-    ],
-    "name": "Var Dc 2 !",
-    "place": "Guilde des jeux (Hyères, France)",
-    "players": "14 players",
-    "date": "27/08/21"
+    ]
 }

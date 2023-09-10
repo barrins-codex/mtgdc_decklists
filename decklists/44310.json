@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "44310",
+    "name": "Weekly DC",
+    "place": "Slow Drake (Beijing, China)",
+    "players": "12 players",
+    "date": "14/05/23",
     "decks": [
         {
             "deck_id": "526932",
             "rank": "1",
             "player": "Hongchen Zhang",
+            "winrate": 1.0,
             "commander": [
                 "Calix, Guided by Fate"
             ],
@@ -106,6 +111,7 @@
             "deck_id": "526933",
             "rank": "2",
             "player": "John Wang",
+            "winrate": 0.8,
             "commander": [
                 "Dihada, Binder of Wills"
             ],
@@ -211,9 +217,5 @@
                 "1 Wooded Foothills"
             ]
         }
-    ],
-    "name": "Weekly DC",
-    "place": "Slow Drake (Beijing, China)",
-    "players": "12 players",
-    "date": "14/05/23"
+    ]
 }

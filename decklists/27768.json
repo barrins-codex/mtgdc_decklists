@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "27768",
+    "name": "RJ Cup",
+    "place": "League Castle (Mong Kok, Hong Kong)",
+    "players": "8 players",
+    "date": "17/10/20",
     "decks": [
         {
             "deck_id": "420396",
             "rank": "1",
             "player": "Jason Lam",
+            "winrate": 1.0,
             "commander": [
                 "Winota, Joiner of Forces"
             ],
@@ -103,6 +108,7 @@
             "deck_id": "420397",
             "rank": "2",
             "player": "Chung Tang",
+            "winrate": 0.6666666666666666,
             "commander": [
                 "Uro, Titan of Nature's Wrath"
             ],
@@ -191,9 +197,5 @@
                 "1 Ugin, the Spirit Dragon"
             ]
         }
-    ],
-    "name": "RJ Cup",
-    "place": "League Castle (Mong Kok, Hong Kong)",
-    "players": "8 players",
-    "date": "17/10/20"
+    ]
 }

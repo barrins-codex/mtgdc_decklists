@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "10991",
+    "name": "FNM From the vault",
+    "place": "Carta'Jeu (Lyon)",
+    "players": "18 players",
+    "date": "28/08/15",
     "decks": [
         {
             "deck_id": "262568",
             "rank": "1",
             "player": "Pierre-Emmanuel Cousty",
+            "winrate": 1.0,
             "commander": [
                 "Griselbrand"
             ],
@@ -93,9 +98,5 @@
                 "1 Yawgmoth's Will"
             ]
         }
-    ],
-    "name": "FNM From the vault",
-    "place": "Carta'Jeu (Lyon)",
-    "players": "18 players",
-    "date": "28/08/15"
+    ]
 }

@@ -10,6 +10,7 @@
             "deck_id": "548524",
             "rank": "1",
             "player": "Darren Dela Rosa",
+            "winrate": 1.0,
             "commander": [
                 "Judith, the Scourge Diva"
             ],
@@ -114,6 +115,7 @@
             "deck_id": "548525",
             "rank": "2",
             "player": "Deks Sienes",
+            "winrate": 0.6666666666666666,
             "commander": [
                 "Aragorn, King of Gondor"
             ],

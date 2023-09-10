@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "26183",
+    "name": "Duel commander des cafards",
+    "place": "Le vizz (Rouen, France)",
+    "players": "8 players",
+    "date": "20/06/20",
     "decks": [
         {
             "deck_id": "398508",
             "rank": "1",
             "player": "Diego \"dmyr\" Rio",
+            "winrate": 1.0,
             "commander": [
                 "Jirina Kudro"
             ],
@@ -115,6 +120,7 @@
             "deck_id": "398509",
             "rank": "2",
             "player": "Martial \"martialalt\" Benoit",
+            "winrate": 0.6666666666666666,
             "commander": [
                 "Grenzo, Dungeon Warden"
             ],
@@ -210,9 +216,5 @@
                 "1 Lightning Bolt"
             ]
         }
-    ],
-    "name": "Duel commander des cafards",
-    "place": "Le vizz (Rouen, France)",
-    "players": "8 players",
-    "date": "20/06/20"
+    ]
 }

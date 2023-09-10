@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "17557",
+    "name": "Time Vault Weekly",
+    "place": "",
+    "players": "10 players",
+    "date": "15/09/17",
     "decks": [
         {
             "deck_id": "308783",
             "rank": "1",
             "player": "Peter Newlands",
+            "winrate": 1.0,
             "commander": [
                 "Arahbo, Roar of the World"
             ],
@@ -90,6 +95,7 @@
             "deck_id": "308784",
             "rank": "2",
             "player": "Taylor Shiells",
+            "winrate": 0.8,
             "commander": [
                 "Sygg, River Cutthroat"
             ],
@@ -178,9 +184,5 @@
                 "1 Far / Away"
             ]
         }
-    ],
-    "name": "Time Vault Weekly",
-    "place": "",
-    "players": "10 players",
-    "date": "15/09/17"
+    ]
 }

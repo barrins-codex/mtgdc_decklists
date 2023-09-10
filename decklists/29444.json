@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "29444",
+    "name": "1st DC Comic event",
+    "place": "Aubagne (France)",
+    "players": "8 players",
+    "date": "28/02/21",
     "decks": [
         {
             "deck_id": "431337",
             "rank": "1",
             "player": "Damien \"eventwin\" Jantzen",
+            "winrate": 1.0,
             "commander": [
                 "Rograkh, Son of Rohgahh",
                 "Keleth, Sunmane Familiar"
@@ -104,6 +109,7 @@
             "deck_id": "431338",
             "rank": "2",
             "player": "Félix Martin",
+            "winrate": 0.6666666666666666,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -209,9 +215,5 @@
                 "1 Palace Jailer"
             ]
         }
-    ],
-    "name": "1st DC Comic event",
-    "place": "Aubagne (France)",
-    "players": "8 players",
-    "date": "28/02/21"
+    ]
 }

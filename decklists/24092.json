@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "24092",
+    "name": "Dc xmas special 2nd pod",
+    "place": "Tapped Games (Marikina Philippines)",
+    "players": "14 players",
+    "date": "14/12/19",
     "decks": [
         {
             "deck_id": "368145",
             "rank": "1",
             "player": "Louie Siongco",
+            "winrate": 1.0,
             "commander": [
                 "Zur the Enchanter"
             ],
@@ -115,6 +120,7 @@
             "deck_id": "368146",
             "rank": "2",
             "player": "Earl Castel",
+            "winrate": 0.8,
             "commander": [
                 "Kraum, Ludevic's Opus",
                 "Tymna the Weaver"
@@ -220,9 +226,5 @@
                 "1 Volcanic Island"
             ]
         }
-    ],
-    "name": "Dc xmas special 2nd pod",
-    "place": "Tapped Games (Marikina Philippines)",
-    "players": "14 players",
-    "date": "14/12/19"
+    ]
 }

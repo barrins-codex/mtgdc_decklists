@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "39919",
+    "name": "MTG Obala FNM",
+    "place": "Koper (Slovenija)",
+    "players": "8 players",
+    "date": "02/12/22",
     "decks": [
         {
             "deck_id": "497312",
             "rank": "1",
             "player": "Nikola Ivanievič",
+            "winrate": 1.0,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -115,6 +120,7 @@
             "deck_id": "497313",
             "rank": "2",
             "player": "Martin Peter kraba",
+            "winrate": 0.6666666666666666,
             "commander": [
                 "Niv-Mizzet Reborn"
             ],
@@ -220,9 +226,5 @@
                 "1 Zagoth Triome"
             ]
         }
-    ],
-    "name": "MTG Obala FNM",
-    "place": "Koper (Slovenija)",
-    "players": "8 players",
-    "date": "02/12/22"
+    ]
 }

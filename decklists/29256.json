@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "29256",
+    "name": "Duel",
+    "place": "Mana Underground (Lagro Q.C. Philippines)",
+    "players": "16 players",
+    "date": "13/02/21",
     "decks": [
         {
             "deck_id": "430243",
             "rank": "1",
             "player": "Exequiel Bryan Lim",
+            "winrate": 1.0,
             "commander": [
                 "Titania, Protector of Argoth"
             ],
@@ -101,6 +106,7 @@
             "deck_id": "430244",
             "rank": "2",
             "player": "Guillermo Cortezo",
+            "winrate": 0.8,
             "commander": [
                 "Golos, Tireless Pilgrim"
             ],
@@ -210,6 +216,7 @@
             "deck_id": "430245",
             "rank": "3",
             "player": "Ste Villaraza",
+            "winrate": 0.8,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -319,6 +326,7 @@
             "deck_id": "430246",
             "rank": "4",
             "player": "Alton Casanova",
+            "winrate": 0.6,
             "commander": [
                 "Keleth, Sunmane Familiar",
                 "Rograkh, Son of Rohgahh"
@@ -413,9 +421,5 @@
                 "7 Snow-Covered Plains"
             ]
         }
-    ],
-    "name": "Duel",
-    "place": "Mana Underground (Lagro Q.C. Philippines)",
-    "players": "16 players",
-    "date": "13/02/21"
+    ]
 }

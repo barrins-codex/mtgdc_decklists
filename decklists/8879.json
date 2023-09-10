@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "8879",
+    "name": "Oeoe tournament (Moscow, Russia)",
+    "place": "",
+    "players": "8 players",
+    "date": "04/01/15",
     "decks": [
         {
             "deck_id": "250656",
             "rank": "1",
             "player": "Oleg Evseev",
+            "winrate": 1.0,
             "commander": [
                 "Child of Alara"
             ],
@@ -111,9 +116,5 @@
                 "1 Arid Mesa"
             ]
         }
-    ],
-    "name": "Oeoe tournament (Moscow, Russia)",
-    "place": "",
-    "players": "8 players",
-    "date": "04/01/15"
+    ]
 }

@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "17356",
+    "name": "FNM Hiveworld Cologne",
+    "place": "",
+    "players": "15 players",
+    "date": "27/10/17",
     "decks": [
         {
             "deck_id": "307411",
             "rank": "1",
             "player": "Sebastian Haines",
+            "winrate": 1.0,
             "commander": [
                 "Leovold, Emissary of Trest"
             ],
@@ -115,6 +120,7 @@
             "deck_id": "307412",
             "rank": "2",
             "player": "Björn Hoffmann",
+            "winrate": 0.8,
             "commander": [
                 "Saskia the Unyielding"
             ],
@@ -217,9 +223,5 @@
                 "1 Tarmogoyf"
             ]
         }
-    ],
-    "name": "FNM Hiveworld Cologne",
-    "place": "",
-    "players": "15 players",
-    "date": "27/10/17"
+    ]
 }

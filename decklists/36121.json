@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "36121",
+    "name": "WANTED Saison 3 #10",
+    "place": "CartaRennes (Rennes, France)",
+    "players": "18 players",
+    "date": "27/04/22",
     "decks": [
         {
             "deck_id": "471960",
             "rank": "1",
             "player": "Aurélien Lion",
+            "winrate": 1.0,
             "commander": [
                 "Golos, Tireless Pilgrim"
             ],
@@ -115,6 +120,7 @@
             "deck_id": "471961",
             "rank": "2",
             "player": "Maxime Allée",
+            "winrate": 0.8,
             "commander": [
                 "Doran, the Siege Tower"
             ],
@@ -220,9 +226,5 @@
                 "1 Yavimaya, Cradle of Growth"
             ]
         }
-    ],
-    "name": "WANTED Saison 3 #10",
-    "place": "CartaRennes (Rennes, France)",
-    "players": "18 players",
-    "date": "27/04/22"
+    ]
 }

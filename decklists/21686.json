@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "21686",
+    "name": "77th \"New Year Cake\" Cup",
+    "place": "Shanghai",
+    "players": "8 players",
+    "date": "14/04/19",
     "decks": [
         {
             "deck_id": "345715",
             "rank": "1",
             "player": "Hu Minzhe",
+            "winrate": 1.0,
             "commander": [
                 "Kess, Dissident Mage"
             ],
@@ -115,6 +120,7 @@
             "deck_id": "345716",
             "rank": "2",
             "player": "Shen Junkai",
+            "winrate": 0.6666666666666666,
             "commander": [
                 "Adeliz, the Cinder Wind"
             ],
@@ -204,9 +210,5 @@
                 "11 Island"
             ]
         }
-    ],
-    "name": "77th \"New Year Cake\" Cup",
-    "place": "Shanghai",
-    "players": "8 players",
-    "date": "14/04/19"
+    ]
 }

@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "32755",
+    "name": "TD Store Challenge",
+    "place": "Top Deck Games and Hobbies (Philippines)",
+    "players": "8 players",
+    "date": "08/10/21",
     "decks": [
         {
             "deck_id": "451142",
             "rank": "1",
             "player": "Reuben Ferrer",
+            "winrate": 1.0,
             "commander": [
                 "Klothys, God of Destiny"
             ],
@@ -99,6 +104,7 @@
             "deck_id": "451143",
             "rank": "2",
             "player": "Edwinn Chua",
+            "winrate": 0.6666666666666666,
             "commander": [
                 "Titania, Protector of Argoth"
             ],
@@ -192,9 +198,5 @@
                 "1 Zuran Orb"
             ]
         }
-    ],
-    "name": "TD Store Challenge",
-    "place": "Top Deck Games and Hobbies (Philippines)",
-    "players": "8 players",
-    "date": "08/10/21"
+    ]
 }

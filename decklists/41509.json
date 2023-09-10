@@ -1,15 +1,19 @@
 {
     "format": "Duel Commander",
-    "id": 41509,
+    "id": "41509",
     "name": "20th Duel-League",
     "place": "Leipzig (Germany)",
     "players": "10 players",
     "date": "20/02/23",
     "decks": [
         {
-            "player": "Femi Heartman",
-            "rank": "1",
             "deck_id": "508434",
+            "rank": "1",
+            "player": "Femi Heartman",
+            "winrate": 1.0,
+            "commander": [
+                "Tivit, Seller of Secrets"
+            ],
             "decklist": [
                 "1 Absorb",
                 "1 Adarkar Wastes",
@@ -110,15 +114,16 @@
                 "1 Watery Grave",
                 "1 Windswept Heath",
                 "1 Wrath of God"
-            ],
-            "commander": [
-                "Tivit, Seller of Secrets"
             ]
         },
         {
-            "player": "Sebastian Kött",
-            "rank": "2",
             "deck_id": "508435",
+            "rank": "2",
+            "player": "Sebastian Kött",
+            "winrate": 0.8,
+            "commander": [
+                "Juri, Master of the Revue"
+            ],
             "decklist": [
                 "1 Fatal Attraction",
                 "1 Arid Mesa",
@@ -212,9 +217,6 @@
                 "1 Wooded Foothills",
                 "1 Zuran Orb",
                 "1 Zurgo Bellstriker"
-            ],
-            "commander": [
-                "Juri, Master of the Revue"
             ]
         }
     ]

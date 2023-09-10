@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "12594",
+    "name": "GP Manchester - Side Event",
+    "place": "",
+    "players": "22 players",
+    "date": "29/05/16",
     "decks": [
         {
             "deck_id": "272771",
             "rank": "1",
             "player": "\"Fitzlock\"",
+            "winrate": 1.0,
             "commander": [
                 "Grand Arbiter Augustin IV"
             ],
@@ -94,9 +99,5 @@
                 "13 Island"
             ]
         }
-    ],
-    "name": "GP Manchester - Side Event",
-    "place": "",
-    "players": "22 players",
-    "date": "29/05/16"
+    ]
 }

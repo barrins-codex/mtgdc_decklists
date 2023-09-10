@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "37030",
+    "name": "Duel Commander",
+    "place": "Saint Nazaire (France)",
+    "players": "17 players",
+    "date": "26/06/22",
     "decks": [
         {
             "deck_id": "478096",
             "rank": "1",
             "player": "Théau Méry",
+            "winrate": 1.0,
             "commander": [
                 "Minsc &amp; Boo, Timeless Heroes"
             ],
@@ -105,6 +110,7 @@
             "deck_id": "478097",
             "rank": "2",
             "player": "Baptiste Touboulic \"pantix\"",
+            "winrate": 0.8,
             "commander": [
                 "Lonis, Cryptozoologist"
             ],
@@ -204,7 +210,8 @@
         {
             "deck_id": "478098",
             "rank": "3",
-            "player": "Antoine Furet ",
+            "player": "Antoine Furet",
+            "winrate": 0.8,
             "commander": [
                 "Minsc &amp; Boo, Timeless Heroes"
             ],
@@ -304,6 +311,7 @@
             "deck_id": "478099",
             "rank": "4",
             "player": "Lionel Galliere \"hannibal44\"",
+            "winrate": 0.6,
             "commander": [
                 "The Beamtown Bullies"
             ],
@@ -409,9 +417,5 @@
                 "1 Ziatora's Proving Ground"
             ]
         }
-    ],
-    "name": "Duel Commander",
-    "place": "Saint Nazaire (France)",
-    "players": "17 players",
-    "date": "26/06/22"
+    ]
 }

@@ -1,15 +1,19 @@
 {
     "format": "Duel Commander",
-    "id": 46555,
+    "id": "46555",
     "name": "Fight Club Mtg Var Dc 3.3",
     "place": "Immaterium café (Toulon, France)",
     "players": "20 players",
     "date": "04/08/23",
     "decks": [
         {
-            "player": "Pierre-louis Biet",
-            "rank": "1",
             "deck_id": "544060",
+            "rank": "1",
+            "player": "Pierre-louis Biet",
+            "winrate": 1.0,
+            "commander": [
+                "Tivit, Seller of Secrets"
+            ],
             "decklist": [
                 "1 Unexpectedly Absent",
                 "1 Reflecting Pool",
@@ -110,15 +114,16 @@
                 "1 Sheoldred's Edict",
                 "1 Eliminate",
                 "1 Snow-Covered Island"
-            ],
-            "commander": [
-                "Tivit, Seller of Secrets"
             ]
         },
         {
-            "player": "Edouard Lecocq ",
-            "rank": "2",
             "deck_id": "544061",
+            "rank": "2",
+            "player": "Edouard Lecocq",
+            "winrate": 0.8,
+            "commander": [
+                "Dennick, Pious Apprentice"
+            ],
             "decklist": [
                 "1 Faerie Mastermind",
                 "1 Reprieve",
@@ -210,15 +215,16 @@
                 "1 Vendilion Clique",
                 "1 Otawara, Soaring City",
                 "1 Niambi, Esteemed Speaker"
-            ],
-            "commander": [
-                "Dennick, Pious Apprentice"
             ]
         },
         {
-            "player": "Pierre Almaraz",
-            "rank": "3-4",
             "deck_id": "544062",
+            "rank": "3-4",
+            "player": "Pierre Almaraz",
+            "winrate": 0.8,
+            "commander": [
+                "Marath, Will of the Wild"
+            ],
             "decklist": [
                 "1 Archangel of Thune",
                 "1 Eladamri's Call",
@@ -309,15 +315,16 @@
                 "1 Undermountain Adventurer",
                 "1 Arwen, Mortal Queen",
                 "1 Skyclave Apparition"
-            ],
-            "commander": [
-                "Marath, Will of the Wild"
             ]
         },
         {
-            "player": "Francis Figue",
-            "rank": "3-4",
             "deck_id": "544063",
+            "rank": "3-4",
+            "player": "Francis Figue",
+            "winrate": 0.8,
+            "commander": [
+                "Elminster"
+            ],
             "decklist": [
                 "1 Swords to Plowshares",
                 "1 Faithful Mending",
@@ -409,9 +416,6 @@
                 "1 Mystic Sanctuary",
                 "1 Solve the Equation",
                 "1 Revitalize"
-            ],
-            "commander": [
-                "Elminster"
             ]
         }
     ]

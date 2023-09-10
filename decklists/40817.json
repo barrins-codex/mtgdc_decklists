@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "40817",
+    "name": "TNDC \"Saint Gonçalo Day\"",
+    "place": "Bolovo Games (Santos, Brasil)",
+    "players": "13 players",
+    "date": "10/01/23",
     "decks": [
         {
             "deck_id": "503590",
             "rank": "1",
             "player": "Leonardo Maeda",
+            "winrate": 1.0,
             "commander": [
                 "Minsc, Beloved Ranger"
             ],
@@ -113,6 +118,7 @@
             "deck_id": "503591",
             "rank": "2",
             "player": "Rafael",
+            "winrate": 0.8,
             "commander": [
                 "Feldon, Ronom Excavator"
             ],
@@ -196,6 +202,7 @@
             "deck_id": "503592",
             "rank": "3",
             "player": "Gustavo Rett",
+            "winrate": 0.6,
             "commander": [
                 "Balmor, Battlemage Captain"
             ],
@@ -278,9 +285,5 @@
                 "1 Wandering Fumarole"
             ]
         }
-    ],
-    "name": "TNDC \"Saint Gonçalo Day\"",
-    "place": "Bolovo Games (Santos, Brasil)",
-    "players": "13 players",
-    "date": "10/01/23"
+    ]
 }

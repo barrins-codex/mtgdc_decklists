@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "9872",
+    "name": "22nd \"New Year Cake\" Cup (Shanghai)",
+    "place": "",
+    "players": "14 players",
+    "date": "15/05/15",
     "decks": [
         {
             "deck_id": "256967",
             "rank": "1",
             "player": "Li Yijie",
+            "winrate": 1.0,
             "commander": [
                 "Prossh, Skyraider of Kher"
             ],
@@ -115,6 +120,7 @@
             "deck_id": "256968",
             "rank": "2",
             "player": "Yu Ke",
+            "winrate": 0.8,
             "commander": [
                 "Marchesa, the Black Rose"
             ],
@@ -220,9 +226,5 @@
                 "1 River of Tears"
             ]
         }
-    ],
-    "name": "22nd \"New Year Cake\" Cup (Shanghai)",
-    "place": "",
-    "players": "14 players",
-    "date": "15/05/15"
+    ]
 }

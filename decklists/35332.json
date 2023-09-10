@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "35332",
+    "name": "Event",
+    "place": "Geek Factory (Guingamp, France)",
+    "players": "12 players",
+    "date": "19/03/22",
     "decks": [
         {
             "deck_id": "467039",
             "rank": "1",
             "player": "Mathieu Laurent",
+            "winrate": 1.0,
             "commander": [
                 "Grist, the Hunger Tide"
             ],
@@ -103,6 +108,7 @@
             "deck_id": "467040",
             "rank": "2",
             "player": "Robin \"faarnn\" Angebaud",
+            "winrate": 0.8,
             "commander": [
                 "Shorikai, Genesis Engine"
             ],
@@ -202,6 +208,7 @@
             "deck_id": "467041",
             "rank": "3-4",
             "player": "Benoît Rouault, \"grenzo Got The Keys\"",
+            "winrate": 0.6,
             "commander": [
                 "Grenzo, Dungeon Warden"
             ],
@@ -300,6 +307,7 @@
             "deck_id": "467042",
             "rank": "3-4",
             "player": "Joseph Marquet",
+            "winrate": 0.6,
             "commander": [
                 "Jeska, Thrice Reborn",
                 "Kraum, Ludevic's Opus"
@@ -392,9 +400,5 @@
                 "1 Volcanic Island"
             ]
         }
-    ],
-    "name": "Event",
-    "place": "Geek Factory (Guingamp, France)",
-    "players": "12 players",
-    "date": "19/03/22"
+    ]
 }

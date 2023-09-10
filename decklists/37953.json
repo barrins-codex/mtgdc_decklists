@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "37953",
+    "name": "DC East League",
+    "place": "Tapped Games (Marikina City, Philippines)",
+    "players": "22 players",
+    "date": "13/08/22",
     "decks": [
         {
             "deck_id": "483961",
             "rank": "1",
             "player": "Richmond Ortiz",
+            "winrate": 1.0,
             "commander": [
                 "Karlov of the Ghost Council"
             ],
@@ -114,6 +119,7 @@
             "deck_id": "483962",
             "rank": "2",
             "player": "Rexel Tenorio",
+            "winrate": 0.8,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -223,6 +229,7 @@
             "deck_id": "483963",
             "rank": "3",
             "player": "Joel San Jose, Jr.",
+            "winrate": 0.8,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -332,6 +339,7 @@
             "deck_id": "483964",
             "rank": "4",
             "player": "Paul Relativo",
+            "winrate": 0.6,
             "commander": [
                 "Niv-Mizzet Reborn"
             ],
@@ -441,6 +449,7 @@
             "deck_id": "483965",
             "rank": "5",
             "player": "Mark Gonzales",
+            "winrate": 0.6,
             "commander": [
                 "Yorvo, Lord of Garenbrig"
             ],
@@ -528,6 +537,7 @@
             "deck_id": "483966",
             "rank": "6",
             "player": "Iori Zugaikotsu",
+            "winrate": 0.6,
             "commander": [
                 "Elminster"
             ],
@@ -632,6 +642,7 @@
             "deck_id": "483967",
             "rank": "7",
             "player": "Deks Sienes",
+            "winrate": 0.6,
             "commander": [
                 "Kess, Dissident Mage"
             ],
@@ -741,6 +752,7 @@
             "deck_id": "483968",
             "rank": "8",
             "player": "Dinno Zaide",
+            "winrate": 0.6,
             "commander": [
                 "Elmar, Ulvenwald Informant",
                 "Wernog, Rider's Chaplain"
@@ -846,9 +858,5 @@
                 "1 Duress"
             ]
         }
-    ],
-    "name": "DC East League",
-    "place": "Tapped Games (Marikina City, Philippines)",
-    "players": "22 players",
-    "date": "13/08/22"
+    ]
 }

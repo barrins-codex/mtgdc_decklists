@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "23062",
+    "name": "88th \"New Year Cake\" Cup",
+    "place": "Shanghai",
+    "players": "8 players",
+    "date": "14/09/19",
     "decks": [
         {
             "deck_id": "358244",
             "rank": "1",
             "player": "Hu Minzhe",
+            "winrate": 1.0,
             "commander": [
                 "Will Kenrith",
                 "Rowan Kenrith"
@@ -79,6 +84,7 @@
             "deck_id": "358245",
             "rank": "2",
             "player": "Yao Yao",
+            "winrate": 0.6666666666666666,
             "commander": [
                 "Lord Windgrace"
             ],
@@ -178,9 +184,5 @@
                 "1 Thoughtseize"
             ]
         }
-    ],
-    "name": "88th \"New Year Cake\" Cup",
-    "place": "Shanghai",
-    "players": "8 players",
-    "date": "14/09/19"
+    ]
 }

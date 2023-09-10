@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "23111",
+    "name": "12thGovernorcup",
+    "place": "Hefei (China)",
+    "players": "8 players",
+    "date": "15/09/19",
     "decks": [
         {
             "deck_id": "358793",
             "rank": "1",
             "player": "Dr. Jsd",
+            "winrate": 1.0,
             "commander": [
                 "Selvala, Heart of the Wilds"
             ],
@@ -96,6 +101,7 @@
             "deck_id": "358794",
             "rank": "2",
             "player": "Li Duoyan",
+            "winrate": 0.6666666666666666,
             "commander": [
                 "Hogaak, Arisen Necropolis"
             ],
@@ -199,9 +205,5 @@
                 "2 Woodland Cemetery"
             ]
         }
-    ],
-    "name": "12thGovernorcup",
-    "place": "Hefei (China)",
-    "players": "8 players",
-    "date": "15/09/19"
+    ]
 }

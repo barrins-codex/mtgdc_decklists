@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "24876",
+    "name": "9th Duel-League",
+    "place": "Leipzig",
+    "players": "12 players",
+    "date": "28/02/20",
     "decks": [
         {
             "deck_id": "374099",
             "rank": "1",
             "player": "Jonas Jörns",
+            "winrate": 1.0,
             "commander": [
                 "Yawgmoth, Thran Physician"
             ],
@@ -95,6 +100,7 @@
             "deck_id": "374100",
             "rank": "2",
             "player": "Sebastian Kött",
+            "winrate": 0.8,
             "commander": [
                 "Brago, King Eternal"
             ],
@@ -187,9 +193,5 @@
                 "1 Irrigated Farmland"
             ]
         }
-    ],
-    "name": "9th Duel-League",
-    "place": "Leipzig",
-    "players": "12 players",
-    "date": "28/02/20"
+    ]
 }

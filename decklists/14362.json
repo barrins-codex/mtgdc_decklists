@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "14362",
+    "name": "Tournoi d'hiver (FJEP Saint-Venant)",
+    "place": "",
+    "players": "10 players",
+    "date": "30/12/16",
     "decks": [
         {
             "deck_id": "285825",
             "rank": "1",
             "player": "Anthony \"Big\" Darras",
+            "winrate": 1.0,
             "commander": [
                 "Kraum, Ludevic's Opus",
                 "Vial Smasher the Fierce"
@@ -106,9 +111,5 @@
                 "5 Island"
             ]
         }
-    ],
-    "name": "Tournoi d'hiver (FJEP Saint-Venant)",
-    "place": "",
-    "players": "10 players",
-    "date": "30/12/16"
+    ]
 }

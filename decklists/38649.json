@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "38649",
+    "name": "RJ Cup 2022 #30",
+    "place": "League Castle (Mong Kok, Hong Kong)",
+    "players": "10 players",
+    "date": "01/10/22",
     "decks": [
         {
             "deck_id": "488515",
             "rank": "1",
             "player": "Benjamin Lau",
+            "winrate": 1.0,
             "commander": [
                 "The Beamtown Bullies"
             ],
@@ -108,6 +113,7 @@
             "deck_id": "488516",
             "rank": "2",
             "player": "Man Lok Wong",
+            "winrate": 0.8,
             "commander": [
                 "Balmor, Battlemage Captain"
             ],
@@ -204,9 +210,5 @@
                 "6 Island"
             ]
         }
-    ],
-    "name": "RJ Cup 2022 #30",
-    "place": "League Castle (Mong Kok, Hong Kong)",
-    "players": "10 players",
-    "date": "01/10/22"
+    ]
 }

@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "34076",
+    "name": "Weekly DC \"Lifeguard's Day\"",
+    "place": "Caverna do Dragão (Santos-SP, Brazil)",
+    "players": "12 players",
+    "date": "28/12/21",
     "decks": [
         {
             "deck_id": "459177",
             "rank": "1",
             "player": "Victor Burghi",
+            "winrate": 1.0,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -94,6 +99,7 @@
             "deck_id": "459178",
             "rank": "2",
             "player": "Rafael Ozores",
+            "winrate": 0.8,
             "commander": [
                 "Grazilaxx, Illithid Scholar"
             ],
@@ -183,6 +189,7 @@
             "deck_id": "459179",
             "rank": "3-4",
             "player": "Pablo \"amumu\" Lima",
+            "winrate": 0.6,
             "commander": [
                 "Adeliz, the Cinder Wind"
             ],
@@ -278,6 +285,7 @@
             "deck_id": "459180",
             "rank": "3-4",
             "player": "William Graciane",
+            "winrate": 0.6,
             "commander": [
                 "Kraum, Ludevic's Opus",
                 "Malcolm, Keen-Eyed Navigator"
@@ -366,9 +374,5 @@
                 "1 Wooded Foothills"
             ]
         }
-    ],
-    "name": "Weekly DC \"Lifeguard's Day\"",
-    "place": "Caverna do Dragão (Santos-SP, Brazil)",
-    "players": "12 players",
-    "date": "28/12/21"
+    ]
 }

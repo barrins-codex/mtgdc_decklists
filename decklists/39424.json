@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "39424",
+    "name": "Duel East League Leg 5",
+    "place": "Tapped Games (Marikina City, Philippines)",
+    "players": "16 players",
+    "date": "12/11/22",
     "decks": [
         {
             "deck_id": "493573",
             "rank": "1",
             "player": "Dinno Zaide",
+            "winrate": 1.0,
             "commander": [
                 "Ghyrson Starn, Kelermorph"
             ],
@@ -106,6 +111,7 @@
             "deck_id": "493574",
             "rank": "2",
             "player": "Rexel Tenorio",
+            "winrate": 0.8,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -215,6 +221,7 @@
             "deck_id": "493575",
             "rank": "3",
             "player": "Franklin Aguba",
+            "winrate": 0.8,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -324,6 +331,7 @@
             "deck_id": "493576",
             "rank": "4",
             "player": "Martin Ogayon",
+            "winrate": 0.6,
             "commander": [
                 "Grist, the Hunger Tide"
             ],
@@ -422,9 +430,5 @@
                 "1 Yavimaya, Cradle of Growth"
             ]
         }
-    ],
-    "name": "Duel East League Leg 5",
-    "place": "Tapped Games (Marikina City, Philippines)",
-    "players": "16 players",
-    "date": "12/11/22"
+    ]
 }

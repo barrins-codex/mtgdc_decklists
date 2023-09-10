@@ -1,15 +1,19 @@
 {
     "format": "Duel Commander",
-    "id": 41559,
+    "id": "41559",
     "name": "Duel de Commandants #3",
     "place": "La Pieuvre Barbue (Les Côteaux, Québec)",
     "players": "10 players",
     "date": "18/02/23",
     "decks": [
         {
-            "player": "David Hébert",
-            "rank": "1",
             "deck_id": "508767",
+            "rank": "1",
+            "player": "David Hébert",
+            "winrate": 1.0,
+            "commander": [
+                "Light-Paws, Emperor's Voice"
+            ],
             "decklist": [
                 "1 Zealot's Conviction",
                 "1 Vigilant Martyr",
@@ -81,15 +85,16 @@
                 "1 Balance",
                 "1 Alseid of Life's Bounty",
                 "1 All That Glitters"
-            ],
-            "commander": [
-                "Light-Paws, Emperor's Voice"
             ]
         },
         {
-            "player": "Steven Desrochers",
-            "rank": "2",
             "deck_id": "508768",
+            "rank": "2",
+            "player": "Steven Desrochers",
+            "winrate": 0.8,
+            "commander": [
+                "Yoshimaru, Ever Faithful"
+            ],
             "decklist": [
                 "1 White Plume Adventurer",
                 "1 Welcoming Vampire",
@@ -163,15 +168,16 @@
                 "1 Anafenza, Kin-Tree Spirit",
                 "1 Ajani, Caller of the Pride",
                 "1 Adeline, Resplendent Cathar"
-            ],
-            "commander": [
-                "Yoshimaru, Ever Faithful"
             ]
         },
         {
-            "player": "Quentin Pentaclous",
-            "rank": "3-4",
             "deck_id": "508769",
+            "rank": "3-4",
+            "player": "Quentin Pentaclous",
+            "winrate": 0.6,
+            "commander": [
+                "Light-Paws, Emperor's Voice"
+            ],
             "decklist": [
                 "1 Zealot's Conviction",
                 "1 White Plume Adventurer",
@@ -245,15 +251,16 @@
                 "1 Archivist of Oghma",
                 "1 All That Glitters",
                 "1 Aven Mindcensor"
-            ],
-            "commander": [
-                "Light-Paws, Emperor's Voice"
             ]
         },
         {
-            "player": "Jérémie Grenon",
-            "rank": "3-4",
             "deck_id": "508770",
+            "rank": "3-4",
+            "player": "Jérémie Grenon",
+            "winrate": 0.6,
+            "commander": [
+                "Hogaak, Arisen Necropolis"
+            ],
             "decklist": [
                 "1 Yavimaya, Cradle of Growth",
                 "1 Woodland Cemetery",
@@ -349,9 +356,6 @@
                 "1 Blanchwood Prowler",
                 "1 Birds of Paradise",
                 "1 Abrupt Decay"
-            ],
-            "commander": [
-                "Hogaak, Arisen Necropolis"
             ]
         }
     ]

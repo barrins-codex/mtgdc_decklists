@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "39659",
+    "name": "2022 Scry Duel League: Day 2",
+    "place": "Scry Ciannat (Philippines)",
+    "players": "12 players",
+    "date": "24/11/22",
     "decks": [
         {
             "deck_id": "495519",
             "rank": "1",
             "player": "J. Casauay",
+            "winrate": 1.0,
             "commander": [
                 "Juri, Master of the Revue"
             ],
@@ -104,6 +109,7 @@
             "deck_id": "495520",
             "rank": "2",
             "player": "R. Madrigal",
+            "winrate": 0.8,
             "commander": [
                 "Inspiring Leader",
                 "Gut, True Soul Zealot"
@@ -210,6 +216,7 @@
             "deck_id": "495521",
             "rank": "3",
             "player": "E. Alcantara",
+            "winrate": 0.6,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -319,6 +326,7 @@
             "deck_id": "495522",
             "rank": "4",
             "player": "E. Chu",
+            "winrate": 0.6,
             "commander": [
                 "Grist, the Hunger Tide"
             ],
@@ -415,9 +423,5 @@
                 "1 Yavimaya, Cradle of Growth"
             ]
         }
-    ],
-    "name": "2022 Scry Duel League: Day 2",
-    "place": "Scry Ciannat (Philippines)",
-    "players": "12 players",
-    "date": "24/11/22"
+    ]
 }

@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
-    "id": 45814,
+    "id": "45814",
+    "name": "Duel de commandants #7",
+    "place": "Topdeck Hero (Laval, Québec)",
+    "players": "20 players",
+    "date": "08/07/23",
     "decks": [
         {
             "deck_id": "538602",
             "rank": "1",
             "player": "Steven Desrochers",
+            "winrate": 1.0,
             "commander": [
                 "Yoshimaru, Ever Faithful"
             ],
@@ -89,6 +94,7 @@
             "deck_id": "538603",
             "rank": "2",
             "player": "Ludo Giraud",
+            "winrate": 0.8,
             "commander": [
                 "Grist, the Hunger Tide"
             ],
@@ -186,6 +192,7 @@
             "deck_id": "538604",
             "rank": "3-4",
             "player": "David Hébert",
+            "winrate": 0.8,
             "commander": [
                 "Light-Paws, Emperor's Voice"
             ],
@@ -270,6 +277,7 @@
             "deck_id": "538605",
             "rank": "3-4",
             "player": "André Giraud",
+            "winrate": 0.8,
             "commander": [
                 "Tivit, Seller of Secrets"
             ],
@@ -375,9 +383,5 @@
                 "1 Wrath of God"
             ]
         }
-    ],
-    "name": "Duel de commandants #7",
-    "place": "Topdeck Hero (Laval, Québec)",
-    "players": "20 players",
-    "date": "08/07/23"
+    ]
 }

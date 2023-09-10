@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "31608",
+    "name": "Duel Commander",
+    "place": "Mana Underground (Lagro, Philippines )",
+    "players": "8 players",
+    "date": "18/07/21",
     "decks": [
         {
             "deck_id": "444704",
             "rank": "1",
             "player": "Ste Villaraza",
+            "winrate": 1.0,
             "commander": [
                 "Inalla, Archmage Ritualist"
             ],
@@ -115,6 +120,7 @@
             "deck_id": "444705",
             "rank": "2",
             "player": "Glenn Alesna",
+            "winrate": 0.6666666666666666,
             "commander": [
                 "Winota, Joiner of Forces"
             ],
@@ -212,9 +218,5 @@
                 "1 Bloodstained Mire"
             ]
         }
-    ],
-    "name": "Duel Commander",
-    "place": "Mana Underground (Lagro, Philippines )",
-    "players": "8 players",
-    "date": "18/07/21"
+    ]
 }

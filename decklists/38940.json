@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "38940",
+    "name": "2eme DC Magic&Games",
+    "place": "Montpellier (France)",
+    "players": "14 players",
+    "date": "16/10/22",
     "decks": [
         {
             "deck_id": "490459",
             "rank": "1",
             "player": "Jonathan Montalva Alias The Malicious",
+            "winrate": 1.0,
             "commander": [
                 "Balmor, Battlemage Captain"
             ],
@@ -109,6 +114,7 @@
             "deck_id": "490460",
             "rank": "2",
             "player": "Arthur Duroux",
+            "winrate": 0.8,
             "commander": [
                 "Kamiz, Obscura Oculus"
             ],
@@ -206,9 +212,5 @@
                 "8 Island"
             ]
         }
-    ],
-    "name": "2eme DC Magic&Games",
-    "place": "Montpellier (France)",
-    "players": "14 players",
-    "date": "16/10/22"
+    ]
 }

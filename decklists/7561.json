@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "7561",
+    "name": "Coswort Hobby Shop#1 (Philippines)",
+    "place": "",
+    "players": "11 players",
+    "date": "31/05/14",
     "decks": [
         {
             "deck_id": "243379",
             "rank": "1",
             "player": "Leorenz Jamias",
+            "winrate": 1.0,
             "commander": [
                 "Ezuri, Renegade Leader"
             ],
@@ -91,6 +96,7 @@
             "deck_id": "243380",
             "rank": "2",
             "player": "Fedimarc Garcia",
+            "winrate": 0.8,
             "commander": [
                 "Wydwen, the Biting Gale"
             ],
@@ -183,9 +189,5 @@
                 "1 Batterskull"
             ]
         }
-    ],
-    "name": "Coswort Hobby Shop#1 (Philippines)",
-    "place": "",
-    "players": "11 players",
-    "date": "31/05/14"
+    ]
 }

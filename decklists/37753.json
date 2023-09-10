@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "37753",
+    "name": "Contrée de Thalvin",
+    "place": "Les Dés Taquins (Cambrai, France)",
+    "players": "8 players",
+    "date": "06/08/22",
     "decks": [
         {
             "deck_id": "482656",
             "rank": "1",
             "player": "Alexandre Darras",
+            "winrate": 1.0,
             "commander": [
                 "The Mimeoplasm"
             ],
@@ -111,9 +116,5 @@
                 "1 Watery Grave"
             ]
         }
-    ],
-    "name": "Contrée de Thalvin",
-    "place": "Les Dés Taquins (Cambrai, France)",
-    "players": "8 players",
-    "date": "06/08/22"
+    ]
 }

@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "32261",
+    "name": "Duel Commander Weekly",
+    "place": "Mana Underground (Lagro, Philippines)",
+    "players": "10 players",
+    "date": "03/09/21",
     "decks": [
         {
             "deck_id": "448328",
             "rank": "1",
             "player": "Lawrence Samaniego",
+            "winrate": 1.0,
             "commander": [
                 "Kraum, Ludevic's Opus",
                 "Malcolm, Keen-Eyed Navigator"
@@ -105,6 +110,7 @@
             "deck_id": "448329",
             "rank": "2",
             "player": "Ryan Payabyab",
+            "winrate": 0.8,
             "commander": [
                 "Tevesh Szat, Doom of Fools",
                 "Malcolm, Keen-Eyed Navigator"
@@ -203,9 +209,5 @@
                 "6 Snow-Covered Island"
             ]
         }
-    ],
-    "name": "Duel Commander Weekly",
-    "place": "Mana Underground (Lagro, Philippines)",
-    "players": "10 players",
-    "date": "03/09/21"
+    ]
 }

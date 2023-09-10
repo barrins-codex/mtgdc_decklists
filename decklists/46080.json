@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
-    "id": 46080,
+    "id": "46080",
+    "name": "DC - EDH Brazil Championship",
+    "place": "Mont Shop (Campinas, São Paulo, Brazil)",
+    "players": "18 players",
+    "date": "18/07/23",
     "decks": [
         {
             "deck_id": "540512",
             "rank": "1",
             "player": "Mateus Tomé",
+            "winrate": 1.0,
             "commander": [
                 "Bruse Tarl, Boorish Herder",
                 "Yoshimaru, Ever Faithful"
@@ -110,6 +115,7 @@
             "deck_id": "540513",
             "rank": "2",
             "player": "Victor Marques",
+            "winrate": 0.8,
             "commander": [
                 "Sai, Master Thopterist"
             ],
@@ -196,6 +202,7 @@
             "deck_id": "540514",
             "rank": "3",
             "player": "Pedro Bianchi",
+            "winrate": 0.8,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -305,6 +312,7 @@
             "deck_id": "540515",
             "rank": "4",
             "player": "Anderson Rogado",
+            "winrate": 0.6,
             "commander": [
                 "Feldon, Ronom Excavator"
             ],
@@ -387,9 +395,5 @@
                 "1 Zurgo Bellstriker"
             ]
         }
-    ],
-    "name": "DC - EDH Brazil Championship",
-    "place": "Mont Shop (Campinas, São Paulo, Brazil)",
-    "players": "18 players",
-    "date": "18/07/23"
+    ]
 }

@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "10964",
+    "name": "Nippy winter event (Beijing)",
+    "place": "",
+    "players": "12 players",
+    "date": "21/11/15",
     "decks": [
         {
             "deck_id": "262410",
             "rank": "1",
             "player": "stax",
+            "winrate": 1.0,
             "commander": [
                 "Narset, Enlightened Master"
             ],
@@ -109,6 +114,7 @@
             "deck_id": "262411",
             "rank": "2",
             "player": "stew",
+            "winrate": 0.8,
             "commander": [
                 "The Mimeoplasm"
             ],
@@ -212,9 +218,5 @@
                 "1 Phyrexian Tower"
             ]
         }
-    ],
-    "name": "Nippy winter event (Beijing)",
-    "place": "",
-    "players": "12 players",
-    "date": "21/11/15"
+    ]
 }

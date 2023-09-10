@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "14939",
+    "name": "Prima Tappa Lega Eternal",
+    "place": "Dal Tenda Perugia",
+    "players": "12 players",
+    "date": "09/03/17",
     "decks": [
         {
             "deck_id": "290234",
             "rank": "1",
             "player": "Laviola",
+            "winrate": 1.0,
             "commander": [
                 "Talrand, Sky Summoner"
             ],
@@ -83,6 +88,7 @@
             "deck_id": "290236",
             "rank": "2",
             "player": "Bei Clementi",
+            "winrate": 0.8,
             "commander": [
                 "Thalia, Guardian of Thraben"
             ],
@@ -163,9 +169,5 @@
                 "26 Plains"
             ]
         }
-    ],
-    "name": "Prima Tappa Lega Eternal",
-    "place": "Dal Tenda Perugia",
-    "players": "12 players",
-    "date": "09/03/17"
+    ]
 }

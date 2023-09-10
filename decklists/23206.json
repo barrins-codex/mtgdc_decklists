@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "23206",
+    "name": "Tournoi Débutants",
+    "place": "Louviers (France)",
+    "players": "19 players",
+    "date": "22/09/19",
     "decks": [
         {
             "deck_id": "359582",
             "rank": "1",
             "player": "Théo M.",
+            "winrate": 1.0,
             "commander": [
                 "Jenara, Asura of War"
             ],
@@ -108,6 +113,7 @@
             "deck_id": "359583",
             "rank": "2",
             "player": "Nathan Lc",
+            "winrate": 0.8,
             "commander": [
                 "Varolz, the Scar-Striped"
             ],
@@ -210,6 +216,7 @@
             "deck_id": "359584",
             "rank": "3-4",
             "player": "Mathis F.",
+            "winrate": 0.8,
             "commander": [
                 "Toothy, Imaginary Friend",
                 "Pir, Imaginative Rascal"
@@ -309,6 +316,7 @@
             "deck_id": "359585",
             "rank": "3-4",
             "player": "Énora B.",
+            "winrate": 0.8,
             "commander": [
                 "Yennett, Cryptic Sovereign"
             ],
@@ -414,9 +422,5 @@
                 "1 Arid Mesa"
             ]
         }
-    ],
-    "name": "Tournoi Débutants",
-    "place": "Louviers (France)",
-    "players": "19 players",
-    "date": "22/09/19"
+    ]
 }

@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "22224",
+    "name": "2nd Duel-League",
+    "place": "Leipzig",
+    "players": "15 players",
+    "date": "29/05/19",
     "decks": [
         {
             "deck_id": "350527",
             "rank": "1",
             "player": "Henryk Hecht",
+            "winrate": 1.0,
             "commander": [
                 "Karlov of the Ghost Council"
             ],
@@ -102,6 +107,7 @@
             "deck_id": "350528",
             "rank": "2",
             "player": "Sebastian Dill",
+            "winrate": 0.8,
             "commander": [
                 "Anafenza, the Foremost"
             ],
@@ -207,9 +213,5 @@
                 "1 Wooded Foothills"
             ]
         }
-    ],
-    "name": "2nd Duel-League",
-    "place": "Leipzig",
-    "players": "15 players",
-    "date": "29/05/19"
+    ]
 }

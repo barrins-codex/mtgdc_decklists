@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "13668",
+    "name": "PESCARA Duel Commander [30 HP]",
+    "place": "",
+    "players": "9 players",
+    "date": "04/10/16",
     "decks": [
         {
             "deck_id": "280552",
             "rank": "1",
             "player": "Emiliano Bandini",
+            "winrate": 1.0,
             "commander": [
                 "Animar, Soul of Elements"
             ],
@@ -101,9 +106,5 @@
                 "1 Eternal Witness"
             ]
         }
-    ],
-    "name": "PESCARA Duel Commander [30 HP]",
-    "place": "",
-    "players": "9 players",
-    "date": "04/10/16"
+    ]
 }

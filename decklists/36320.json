@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "36320",
+    "name": "RJ Cup 2022 #17",
+    "place": "League Castle (Mong Kok, Hong Kong)",
+    "players": "10 players",
+    "date": "14/05/22",
     "decks": [
         {
             "deck_id": "473221",
             "rank": "1",
             "player": "Chris Kelley",
+            "winrate": 1.0,
             "commander": [
                 "Grist, the Hunger Tide"
             ],
@@ -105,6 +110,7 @@
             "deck_id": "473222",
             "rank": "2",
             "player": "Man Lok Wong",
+            "winrate": 0.8,
             "commander": [
                 "Jeska, Thrice Reborn",
                 "Ishai, Ojutai Dragonspeaker"
@@ -210,9 +216,5 @@
                 "1 Wooded Foothills"
             ]
         }
-    ],
-    "name": "RJ Cup 2022 #17",
-    "place": "League Castle (Mong Kok, Hong Kong)",
-    "players": "10 players",
-    "date": "14/05/22"
+    ]
 }

@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "23381",
+    "name": "Dc Sunday",
+    "place": "Tapped Games (Marikina City, Philippines)",
+    "players": "8 players",
+    "date": "13/10/19",
     "decks": [
         {
             "deck_id": "361328",
             "rank": "1",
             "player": "Dinno Zaide",
+            "winrate": 1.0,
             "commander": [
                 "Thrasios, Triton Hero",
                 "Ludevic, Necro-Alchemist"
@@ -106,6 +111,7 @@
             "deck_id": "361329",
             "rank": "2",
             "player": "Cilbert Corpuz",
+            "winrate": 0.6666666666666666,
             "commander": [
                 "Thalia, Guardian of Thraben"
             ],
@@ -187,9 +193,5 @@
                 "25 Plains"
             ]
         }
-    ],
-    "name": "Dc Sunday",
-    "place": "Tapped Games (Marikina City, Philippines)",
-    "players": "8 players",
-    "date": "13/10/19"
+    ]
 }

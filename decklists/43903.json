@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "43903",
+    "name": "GGS Cup",
+    "place": "Kadou (Beijing, China)",
+    "players": "24 players",
+    "date": "01/05/23",
     "decks": [
         {
             "deck_id": "524009",
             "rank": "1",
             "player": "Ruiyuan Shao",
+            "winrate": 1.0,
             "commander": [
                 "Dihada, Binder of Wills"
             ],
@@ -115,6 +120,7 @@
             "deck_id": "524010",
             "rank": "2",
             "player": "Guanglei Li",
+            "winrate": 0.8,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -224,6 +230,7 @@
             "deck_id": "524011",
             "rank": "3",
             "player": "Tiangang Xie",
+            "winrate": 0.8,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -333,6 +340,7 @@
             "deck_id": "524012",
             "rank": "4",
             "player": "Hongchen Zhang",
+            "winrate": 0.8,
             "commander": [
                 "Lurrus of the Dream-Den"
             ],
@@ -429,9 +437,5 @@
                 "6 Swamp"
             ]
         }
-    ],
-    "name": "GGS Cup",
-    "place": "Kadou (Beijing, China)",
-    "players": "24 players",
-    "date": "01/05/23"
+    ]
 }

@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "9465",
+    "name": "20th \"New Year Cake\" Cup (Shanghai)",
+    "place": "",
+    "players": "27 players",
+    "date": "29/03/15",
     "decks": [
         {
             "deck_id": "254267",
             "rank": "1",
             "player": "Jiang Ling",
+            "winrate": 1.0,
             "commander": [
                 "Animar, Soul of Elements"
             ],
@@ -108,6 +113,7 @@
             "deck_id": "254268",
             "rank": "2",
             "player": "Chen Zheran",
+            "winrate": 0.8,
             "commander": [
                 "Captain Sisay"
             ],
@@ -210,6 +216,7 @@
             "deck_id": "254269",
             "rank": "3-4",
             "player": "Song Yue",
+            "winrate": 0.8,
             "commander": [
                 "Animar, Soul of Elements"
             ],
@@ -311,6 +318,7 @@
             "deck_id": "254270",
             "rank": "3-4",
             "player": "Liu Lixuan",
+            "winrate": 0.8,
             "commander": [
                 "Maelstrom Wanderer"
             ],
@@ -404,9 +412,5 @@
                 "7 Snow-Covered Forest"
             ]
         }
-    ],
-    "name": "20th \"New Year Cake\" Cup (Shanghai)",
-    "place": "",
-    "players": "27 players",
-    "date": "29/03/15"
+    ]
 }

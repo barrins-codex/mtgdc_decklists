@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "36902",
+    "name": "DC",
+    "place": "Fulcrum Esports Hub (Cainta, Philippines)",
+    "players": "8 players",
+    "date": "19/06/22",
     "decks": [
         {
             "deck_id": "477284",
             "rank": "1",
             "player": "Martin Ogayon",
+            "winrate": 1.0,
             "commander": [
                 "Grist, the Hunger Tide"
             ],
@@ -107,6 +112,7 @@
             "deck_id": "477285",
             "rank": "2",
             "player": "Rai Reyes",
+            "winrate": 0.6666666666666666,
             "commander": [
                 "Ludevic, Necro-Alchemist",
                 "Jeska, Thrice Reborn"
@@ -203,9 +209,5 @@
                 "1 Young Pyromancer"
             ]
         }
-    ],
-    "name": "DC",
-    "place": "Fulcrum Esports Hub (Cainta, Philippines)",
-    "players": "8 players",
-    "date": "19/06/22"
+    ]
 }

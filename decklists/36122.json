@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "36122",
+    "name": "WANTED Saison 3 #11",
+    "place": "CartaRennes (Rennes, France)",
+    "players": "19 players",
+    "date": "04/05/22",
     "decks": [
         {
             "deck_id": "471962",
             "rank": "1",
             "player": "Emeric \"eichimaru\" Durdos",
+            "winrate": 1.0,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -115,6 +120,7 @@
             "deck_id": "471963",
             "rank": "2",
             "player": "Thibaut Cantaluppi",
+            "winrate": 0.8,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -199,9 +205,5 @@
                 "1 Zurgo Bellstriker"
             ]
         }
-    ],
-    "name": "WANTED Saison 3 #11",
-    "place": "CartaRennes (Rennes, France)",
-    "players": "19 players",
-    "date": "04/05/22"
+    ]
 }

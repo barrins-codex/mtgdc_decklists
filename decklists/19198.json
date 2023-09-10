@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "19198",
+    "name": "Monthly Duel commander",
+    "place": "Magic Player",
+    "players": "8 players",
+    "date": "13/05/18",
     "decks": [
         {
             "deck_id": "321588",
             "rank": "1",
             "player": "Jasper R. Nielsen",
+            "winrate": 1.0,
             "commander": [
                 "Jenara, Asura of War"
             ],
@@ -111,9 +116,5 @@
                 "1 Hallowed Fountain"
             ]
         }
-    ],
-    "name": "Monthly Duel commander",
-    "place": "Magic Player",
-    "players": "8 players",
-    "date": "13/05/18"
+    ]
 }

@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "25450",
+    "name": "Combat COVID-19 Boredom FNM #6",
+    "place": "Online",
+    "players": "8 players",
+    "date": "24/04/20",
     "decks": [
         {
             "deck_id": "383731",
             "rank": "1",
             "player": "Bitzelberg",
+            "winrate": 1.0,
             "commander": [
                 "Thrasios, Triton Hero",
                 "Akiri, Line-Slinger"
@@ -115,6 +120,7 @@
             "deck_id": "383732",
             "rank": "2",
             "player": "Majig",
+            "winrate": 0.6666666666666666,
             "commander": [
                 "Saskia the Unyielding"
             ],
@@ -220,9 +226,5 @@
                 "1 Palace Jailer"
             ]
         }
-    ],
-    "name": "Combat COVID-19 Boredom FNM #6",
-    "place": "Online",
-    "players": "8 players",
-    "date": "24/04/20"
+    ]
 }

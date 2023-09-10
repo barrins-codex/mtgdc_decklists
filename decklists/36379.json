@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "36379",
+    "name": "WANTED Saison 4 #1",
+    "place": "CartaRennes (Rennes, France)",
+    "players": "17 players",
+    "date": "18/05/22",
     "decks": [
         {
             "deck_id": "473971",
             "rank": "1",
             "player": "Emeric Durdos",
+            "winrate": 1.0,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -115,6 +120,7 @@
             "deck_id": "473972",
             "rank": "2",
             "player": "Charlie Delabrousse",
+            "winrate": 0.8,
             "commander": [
                 "Shorikai, Genesis Engine"
             ],
@@ -212,9 +218,5 @@
                 "1 Wrath of God"
             ]
         }
-    ],
-    "name": "WANTED Saison 4 #1",
-    "place": "CartaRennes (Rennes, France)",
-    "players": "17 players",
-    "date": "18/05/22"
+    ]
 }

@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "20362",
+    "name": "Duel Commander",
+    "place": "MAG (Napoli, Italy)",
+    "players": "8 players",
+    "date": "20/10/18",
     "decks": [
         {
             "deck_id": "333248",
             "rank": "1",
             "player": "Stefano Losardo",
+            "winrate": 1.0,
             "commander": [
                 "Archangel Avacyn"
             ],
@@ -102,6 +107,7 @@
             "deck_id": "333249",
             "rank": "2",
             "player": "Alessandro Mariniello",
+            "winrate": 0.6666666666666666,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -176,9 +182,5 @@
                 "1 Ankh of Mishra"
             ]
         }
-    ],
-    "name": "Duel Commander",
-    "place": "MAG (Napoli, Italy)",
-    "players": "8 players",
-    "date": "20/10/18"
+    ]
 }

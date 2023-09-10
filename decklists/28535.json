@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "28535",
+    "name": "DC",
+    "place": "nook (Marikina City, Philippines)",
+    "players": "12 players",
+    "date": "13/12/20",
     "decks": [
         {
             "deck_id": "425553",
             "rank": "1",
             "player": "Timothy Agustin",
+            "winrate": 1.0,
             "commander": [
                 "Dargo, the Shipwrecker",
                 "Esior, Wardwing Familiar"
@@ -106,6 +111,7 @@
             "deck_id": "425554",
             "rank": "2",
             "player": "Paul Relativo",
+            "winrate": 0.8,
             "commander": [
                 "Niv-Mizzet Reborn"
             ],
@@ -215,6 +221,7 @@
             "deck_id": "425555",
             "rank": "3",
             "player": "Nelvine Tuano",
+            "winrate": 0.6,
             "commander": [
                 "Narset, Enlightened Master"
             ],
@@ -319,6 +326,7 @@
             "deck_id": "425556",
             "rank": "4",
             "player": "Lorenzo Paredes",
+            "winrate": 0.6,
             "commander": [
                 "Kalitas, Traitor of Ghet"
             ],
@@ -399,9 +407,5 @@
                 "26 Swamp"
             ]
         }
-    ],
-    "name": "DC",
-    "place": "nook (Marikina City, Philippines)",
-    "players": "12 players",
-    "date": "13/12/20"
+    ]
 }

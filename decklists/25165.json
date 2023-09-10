@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "25165",
+    "name": "Combat COVID-19 Boredom FNM #4",
+    "place": "Online",
+    "players": "8 players",
+    "date": "10/04/20",
     "decks": [
         {
             "deck_id": "377619",
             "rank": "1",
             "player": "Donmartino",
+            "winrate": 1.0,
             "commander": [
                 "Kenrith, the Returned King"
             ],
@@ -115,6 +120,7 @@
             "deck_id": "377620",
             "rank": "2",
             "player": "Geam103",
+            "winrate": 0.6666666666666666,
             "commander": [
                 "Karlov of the Ghost Council"
             ],
@@ -213,9 +219,5 @@
                 "1 Windswept Heath"
             ]
         }
-    ],
-    "name": "Combat COVID-19 Boredom FNM #4",
-    "place": "Online",
-    "players": "8 players",
-    "date": "10/04/20"
+    ]
 }

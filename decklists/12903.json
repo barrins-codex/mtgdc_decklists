@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "12903",
+    "name": "Beijing 3531 Cup - 1st",
+    "place": "",
+    "players": "12 players",
+    "date": "23/04/16",
     "decks": [
         {
             "deck_id": "275087",
             "rank": "1",
             "player": "Huang Deyuan",
+            "winrate": 1.0,
             "commander": [
                 "Maelstrom Wanderer"
             ],
@@ -107,6 +112,7 @@
             "deck_id": "275088",
             "rank": "2",
             "player": "Yuan Luyang",
+            "winrate": 0.8,
             "commander": [
                 "Thraximundar"
             ],
@@ -211,9 +217,5 @@
                 "1 Verdant Catacombs"
             ]
         }
-    ],
-    "name": "Beijing 3531 Cup - 1st",
-    "place": "",
-    "players": "12 players",
-    "date": "23/04/16"
+    ]
 }

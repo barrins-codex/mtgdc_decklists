@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "27513",
+    "name": "Trial Zap",
+    "place": "Le Temple du Jeu (Brest, France)",
+    "players": "10 players",
+    "date": "26/09/20",
     "decks": [
         {
             "deck_id": "418788",
             "rank": "1",
             "player": "Pestel A.",
+            "winrate": 1.0,
             "commander": [
                 "Brago, King Eternal"
             ],
@@ -98,6 +103,7 @@
             "deck_id": "418789",
             "rank": "2",
             "player": "Luquet M.",
+            "winrate": 0.8,
             "commander": [
                 "Hogaak, Arisen Necropolis"
             ],
@@ -199,9 +205,5 @@
                 "1 Woodland Cemetery"
             ]
         }
-    ],
-    "name": "Trial Zap",
-    "place": "Le Temple du Jeu (Brest, France)",
-    "players": "10 players",
-    "date": "26/09/20"
+    ]
 }

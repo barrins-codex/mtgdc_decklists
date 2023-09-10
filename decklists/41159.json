@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "41159",
+    "name": "Bank President Cup Weekly DC",
+    "place": "Hongyu (Hefei,China)",
+    "players": "10 players",
+    "date": "04/02/23",
     "decks": [
         {
             "deck_id": "505870",
             "rank": "1",
             "player": "Duoyan Li",
+            "winrate": 1.0,
             "commander": [
                 "Kyodai, Soul of Kamigawa"
             ],
@@ -115,6 +120,7 @@
             "deck_id": "505871",
             "rank": "2",
             "player": "Jsd",
+            "winrate": 0.8,
             "commander": [
                 "Esika, God of the Tree"
             ],
@@ -220,9 +226,5 @@
                 "1 Concealed Courtyard"
             ]
         }
-    ],
-    "name": "Bank President Cup Weekly DC",
-    "place": "Hongyu (Hefei,China)",
-    "players": "10 players",
-    "date": "04/02/23"
+    ]
 }

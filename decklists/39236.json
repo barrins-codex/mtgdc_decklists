@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "39236",
+    "name": "FNM",
+    "place": "Neowalkers (Guarulhos,São Paulo,Brasil)",
+    "players": "10 players",
+    "date": "04/11/22",
     "decks": [
         {
             "deck_id": "492282",
             "rank": "1",
             "player": "Douglas Pacifico",
+            "winrate": 1.0,
             "commander": [
                 "Ghyrson Starn, Kelermorph"
             ],
@@ -103,6 +108,7 @@
             "deck_id": "492283",
             "rank": "2",
             "player": "Guilherme Bellagente",
+            "winrate": 0.8,
             "commander": [
                 "Soul of Windgrace"
             ],
@@ -208,6 +214,7 @@
             "deck_id": "492284",
             "rank": "3-4",
             "player": "Samuel Martins",
+            "winrate": 0.6,
             "commander": [
                 "Hogaak, Arisen Necropolis"
             ],
@@ -310,6 +317,7 @@
             "deck_id": "492285",
             "rank": "3-4",
             "player": "Rogério Ribeiro",
+            "winrate": 0.6,
             "commander": [
                 "Inniaz, the Gale Force"
             ],
@@ -399,9 +407,5 @@
                 "9 Snow-Covered Island"
             ]
         }
-    ],
-    "name": "FNM",
-    "place": "Neowalkers (Guarulhos,São Paulo,Brasil)",
-    "players": "10 players",
-    "date": "04/11/22"
+    ]
 }

@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "9707",
+    "name": "Side event GP São Paulo",
+    "place": "",
+    "players": "47 players",
+    "date": "02/05/15",
     "decks": [
         {
             "deck_id": "255847",
             "rank": "1",
             "player": "\"Tutussaurorex\"",
+            "winrate": 0.8888888888888888,
             "commander": [
                 "Narset, Enlightened Master"
             ],
@@ -108,9 +113,5 @@
                 "4 Island"
             ]
         }
-    ],
-    "name": "Side event GP São Paulo",
-    "place": "",
-    "players": "47 players",
-    "date": "02/05/15"
+    ]
 }

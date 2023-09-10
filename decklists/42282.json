@@ -1,15 +1,19 @@
 {
     "format": "Duel Commander",
-    "id": 42282,
+    "id": "42282",
     "name": "Liga",
     "place": "NeoWalkers (Guarulhos,São Paulo, Brasil)",
     "players": "8 players",
     "date": "10/03/23",
     "decks": [
         {
-            "player": "Samuel Martins",
-            "rank": "1",
             "deck_id": "513100",
+            "rank": "1",
+            "player": "Samuel Martins",
+            "winrate": 1.0,
+            "commander": [
+                "The Beamtown Bullies"
+            ],
             "decklist": [
                 "1 Abrupt Decay",
                 "1 Angrath's Rampage",
@@ -110,15 +114,16 @@
                 "1 Worldly Tutor",
                 "1 Yavimaya, Cradle of Growth",
                 "1 Ziatora's Proving Ground"
-            ],
-            "commander": [
-                "The Beamtown Bullies"
             ]
         },
         {
-            "player": "Guilherme Bellagente",
-            "rank": "2",
             "deck_id": "513101",
+            "rank": "2",
+            "player": "Guilherme Bellagente",
+            "winrate": 0.6666666666666666,
+            "commander": [
+                "Aminatou, the Fateshifter"
+            ],
             "decklist": [
                 "1 Adarkar Wastes",
                 "1 Agent of Treachery",
@@ -219,9 +224,6 @@
                 "1 Wash Away",
                 "1 Watery Grave",
                 "1 Windswept Heath"
-            ],
-            "commander": [
-                "Aminatou, the Fateshifter"
             ]
         }
     ]

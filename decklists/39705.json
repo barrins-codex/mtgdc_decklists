@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "39705",
+    "name": "DC Brothers War Box Tournament",
+    "place": "Anime Spot (Barbados)",
+    "players": "9 players",
+    "date": "26/11/22",
     "decks": [
         {
             "deck_id": "495863",
             "rank": "1",
             "player": "Terrance Holder",
+            "winrate": 1.0,
             "commander": [
                 "Gallia of the Endless Dance"
             ],
@@ -105,6 +110,7 @@
             "deck_id": "495864",
             "rank": "2",
             "player": "Hamid Henry",
+            "winrate": 0.8,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -210,9 +216,5 @@
                 "1 The Wandering Emperor"
             ]
         }
-    ],
-    "name": "DC Brothers War Box Tournament",
-    "place": "Anime Spot (Barbados)",
-    "players": "9 players",
-    "date": "26/11/22"
+    ]
 }

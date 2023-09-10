@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "37099",
+    "name": "DC Event July",
+    "place": "Naya (Jinan,China)",
+    "players": "8 players",
+    "date": "03/07/22",
     "decks": [
         {
             "deck_id": "478502",
             "rank": "1",
             "player": "Yang Jinlin",
+            "winrate": 1.0,
             "commander": [
                 "Minsc &amp; Boo, Timeless Heroes"
             ],
@@ -105,6 +110,7 @@
             "deck_id": "478503",
             "rank": "2",
             "player": "Qin Zihao",
+            "winrate": 0.6666666666666666,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -210,9 +216,5 @@
                 "1 Windswept Heath"
             ]
         }
-    ],
-    "name": "DC Event July",
-    "place": "Naya (Jinan,China)",
-    "players": "8 players",
-    "date": "03/07/22"
+    ]
 }

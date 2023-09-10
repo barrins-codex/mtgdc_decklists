@@ -1,15 +1,19 @@
 {
     "format": "Duel Commander",
-    "id": 43198,
+    "id": "43198",
     "name": "FNM des K'artonnés",
     "place": "La Teste de Buch (France)",
     "players": "10 players",
     "date": "31/03/23",
     "decks": [
         {
-            "player": "Baptiste Berbille",
-            "rank": "1",
             "deck_id": "519210",
+            "rank": "1",
+            "player": "Baptiste Berbille",
+            "winrate": 1.0,
+            "commander": [
+                "Raffine, Scheming Seer"
+            ],
             "decklist": [
                 "1 Adarkar Wastes",
                 "1 Alseid of Life's Bounty",
@@ -110,15 +114,16 @@
                 "1 Watery Grave",
                 "1 White Plume Adventurer",
                 "1 Windswept Heath"
-            ],
-            "commander": [
-                "Raffine, Scheming Seer"
             ]
         },
         {
-            "player": "Guillaume Herman",
-            "rank": "2",
             "deck_id": "519211",
+            "rank": "2",
+            "player": "Guillaume Herman",
+            "winrate": 0.8,
+            "commander": [
+                "Ghyrson Starn, Kelermorph"
+            ],
             "decklist": [
                 "1 Fire / Ice",
                 "1 Flame Slash",
@@ -211,9 +216,6 @@
                 "1 Prismatic Vista",
                 "4 Snow-Covered Mountain",
                 "6 Snow-Covered Island"
-            ],
-            "commander": [
-                "Ghyrson Starn, Kelermorph"
             ]
         }
     ]

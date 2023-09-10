@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "32991",
+    "name": "Weekly DC \"Patroness' Day\"",
+    "place": "Santos (Brazil)",
+    "players": "16 players",
+    "date": "12/10/21",
     "decks": [
         {
             "deck_id": "452510",
             "rank": "1",
             "player": "Felipe \"raizen\" Santos",
+            "winrate": 1.0,
             "commander": [
                 "Adeliz, the Cinder Wind"
             ],
@@ -100,6 +105,7 @@
             "deck_id": "452511",
             "rank": "2",
             "player": "Arthur Vitor",
+            "winrate": 0.8,
             "commander": [
                 "Rem Karolus, Stalwart Slayer"
             ],
@@ -195,6 +201,7 @@
             "deck_id": "452512",
             "rank": "3-4",
             "player": "Victor Burghi",
+            "winrate": 0.8,
             "commander": [
                 "Karlov of the Ghost Council"
             ],
@@ -300,6 +307,7 @@
             "deck_id": "452513",
             "rank": "3-4",
             "player": "Pablo Lima",
+            "winrate": 0.8,
             "commander": [
                 "Klothys, God of Destiny"
             ],
@@ -393,9 +401,5 @@
                 "1 Zurgo Bellstriker"
             ]
         }
-    ],
-    "name": "Weekly DC \"Patroness' Day\"",
-    "place": "Santos (Brazil)",
-    "players": "16 players",
-    "date": "12/10/21"
+    ]
 }

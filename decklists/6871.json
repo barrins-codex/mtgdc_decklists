@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "6871",
+    "name": "EDH Monthly Tournament (Chesapeake, VA)",
+    "place": "",
+    "players": "15 players",
+    "date": "23/02/14",
     "decks": [
         {
             "deck_id": "239476",
             "rank": "1",
             "player": "\"vipershoops\"",
+            "winrate": 1.0,
             "commander": [
                 "Ephara, God of the Polis"
             ],
@@ -103,6 +108,7 @@
             "deck_id": "239477",
             "rank": "1",
             "player": "?",
+            "winrate": 1.0,
             "commander": [
                 "Thalia, Guardian of Thraben"
             ],
@@ -180,9 +186,5 @@
                 "1 Unknown Card"
             ]
         }
-    ],
-    "name": "EDH Monthly Tournament (Chesapeake, VA)",
-    "place": "",
-    "players": "15 players",
-    "date": "23/02/14"
+    ]
 }

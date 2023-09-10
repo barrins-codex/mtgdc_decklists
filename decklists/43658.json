@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "43658",
+    "name": "TNDC \"Parkinson's Disease Day\"",
+    "place": "Bolovo Games (Santos, Brasil)",
+    "players": "11 players",
+    "date": "11/04/23",
     "decks": [
         {
             "deck_id": "522339",
             "rank": "1",
             "player": "Lucas Santos",
+            "winrate": 1.0,
             "commander": [
                 "Tivit, Seller of Secrets"
             ],
@@ -115,6 +120,7 @@
             "deck_id": "522340",
             "rank": "2",
             "player": "Hugo Shelling",
+            "winrate": 0.8,
             "commander": [
                 "Grist, the Hunger Tide"
             ],
@@ -215,6 +221,7 @@
             "deck_id": "522341",
             "rank": "3",
             "player": "Orlando Bibiano",
+            "winrate": 0.6,
             "commander": [
                 "Atraxa, Grand Unifier"
             ],
@@ -320,9 +327,5 @@
                 "1 Zagoth Triome"
             ]
         }
-    ],
-    "name": "TNDC \"Parkinson's Disease Day\"",
-    "place": "Bolovo Games (Santos, Brasil)",
-    "players": "11 players",
-    "date": "11/04/23"
+    ]
 }

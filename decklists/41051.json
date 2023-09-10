@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "41051",
+    "name": "Win-a-Box",
+    "place": "Mox & Lotus Southgate Mall (Magallanes, Philippines)",
+    "players": "18 players",
+    "date": "22/01/23",
     "decks": [
         {
             "deck_id": "505148",
             "rank": "1",
             "player": "Juancho Morales",
+            "winrate": 1.0,
             "commander": [
                 "Grist, the Hunger Tide"
             ],
@@ -106,6 +111,7 @@
             "deck_id": "505149",
             "rank": "2",
             "player": "Reuben Ferrer",
+            "winrate": 0.8,
             "commander": [
                 "Tivit, Seller of Secrets"
             ],
@@ -215,6 +221,7 @@
             "deck_id": "505150",
             "rank": "3",
             "player": "Juancho Fabregas",
+            "winrate": 0.8,
             "commander": [
                 "Flaming Fist",
                 "Wilson, Refined Grizzly"
@@ -318,6 +325,7 @@
             "deck_id": "505151",
             "rank": "4",
             "player": "Ryan Beley",
+            "winrate": 0.6,
             "commander": [
                 "Grist, the Hunger Tide"
             ],
@@ -417,9 +425,5 @@
                 "1 Yawgmoth, Thran Physician"
             ]
         }
-    ],
-    "name": "Win-a-Box",
-    "place": "Mox & Lotus Southgate Mall (Magallanes, Philippines)",
-    "players": "18 players",
-    "date": "22/01/23"
+    ]
 }

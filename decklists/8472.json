@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "8472",
+    "name": "EDH",
+    "place": "La règle du jeu (Tours)",
+    "players": "18 players",
+    "date": "08/11/14",
     "decks": [
         {
             "deck_id": "248637",
             "rank": "1",
             "player": "Guillaume Bigarré",
+            "winrate": 1.0,
             "commander": [
                 "Griselbrand"
             ],
@@ -86,6 +91,7 @@
             "deck_id": "248638",
             "rank": "2",
             "player": "Julien \"Sonte\" Sori",
+            "winrate": 0.8,
             "commander": [
                 "Vendilion Clique"
             ],
@@ -165,9 +171,5 @@
                 "1 Tunnel Vision"
             ]
         }
-    ],
-    "name": "EDH",
-    "place": "La règle du jeu (Tours)",
-    "players": "18 players",
-    "date": "08/11/14"
+    ]
 }

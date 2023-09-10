@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "24722",
+    "name": "Tournoi Duel Commander",
+    "place": "Pile ou face",
+    "players": "8 players",
+    "date": "23/02/20",
     "decks": [
         {
             "deck_id": "372946",
             "rank": "1",
             "player": "Kelig Maze",
+            "winrate": 1.0,
             "commander": [
                 "Uro, Titan of Nature's Wrath"
             ],
@@ -98,9 +103,5 @@
                 "1 Memory Lapse"
             ]
         }
-    ],
-    "name": "Tournoi Duel Commander",
-    "place": "Pile ou face",
-    "players": "8 players",
-    "date": "23/02/20"
+    ]
 }

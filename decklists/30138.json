@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "30138",
+    "name": "Bank President Cup",
+    "place": "Hongyu Store (Hefei, China)",
+    "players": "10 players",
+    "date": "11/04/21",
     "decks": [
         {
             "deck_id": "435944",
             "rank": "1",
             "player": "Stark.",
+            "winrate": 1.0,
             "commander": [
                 "Gallia of the Endless Dance"
             ],
@@ -105,6 +110,7 @@
             "deck_id": "435945",
             "rank": "2",
             "player": "Jian",
+            "winrate": 0.8,
             "commander": [
                 "Winota, Joiner of Forces"
             ],
@@ -205,6 +211,7 @@
             "deck_id": "435946",
             "rank": "3-4",
             "player": "Maver1k",
+            "winrate": 0.6,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -313,6 +320,7 @@
             "deck_id": "435947",
             "rank": "3-4",
             "player": "Jsd",
+            "winrate": 0.6,
             "commander": [
                 "Toggo, Goblin Weaponsmith",
                 "Dargo, the Shipwrecker"
@@ -396,9 +404,5 @@
                 "23 Snow-Covered Mountain"
             ]
         }
-    ],
-    "name": "Bank President Cup",
-    "place": "Hongyu Store (Hefei, China)",
-    "players": "10 players",
-    "date": "11/04/21"
+    ]
 }

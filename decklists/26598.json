@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "26598",
+    "name": "Commander League S3 Platinum",
+    "place": "",
+    "players": "7 players",
+    "date": "18/07/20",
     "decks": [
         {
             "deck_id": "405359",
             "rank": "1",
             "player": "Hannibal44",
+            "winrate": 1.0,
             "commander": [
                 "Niv-Mizzet Reborn"
             ],
@@ -115,6 +120,7 @@
             "deck_id": "405360",
             "rank": "2",
             "player": "Darkfistor",
+            "winrate": 0.6666666666666666,
             "commander": [
                 "Kinnan, Bonder Prodigy"
             ],
@@ -204,9 +210,5 @@
                 "1 Arcum's Astrolabe"
             ]
         }
-    ],
-    "name": "Commander League S3 Platinum",
-    "place": "",
-    "players": "7 players",
-    "date": "18/07/20"
+    ]
 }

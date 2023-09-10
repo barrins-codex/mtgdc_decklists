@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "37351",
+    "name": "Cóleras & DuWells #29",
+    "place": "CdT (Pelotas, Brazil)",
+    "players": "10 players",
+    "date": "15/07/22",
     "decks": [
         {
             "deck_id": "480052",
             "rank": "1",
             "player": "Barlawind",
+            "winrate": 1.0,
             "commander": [
                 "Sythis, Harvest's Hand"
             ],
@@ -100,6 +105,7 @@
             "deck_id": "480053",
             "rank": "2",
             "player": "Matheusmrs",
+            "winrate": 0.8,
             "commander": [
                 "Minsc &amp; Boo, Timeless Heroes"
             ],
@@ -197,9 +203,5 @@
                 "1 Yavimaya, Cradle of Growth"
             ]
         }
-    ],
-    "name": "Cóleras & DuWells #29",
-    "place": "CdT (Pelotas, Brazil)",
-    "players": "10 players",
-    "date": "15/07/22"
+    ]
 }

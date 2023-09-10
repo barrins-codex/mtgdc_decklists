@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "30604",
+    "name": "Commander League - S3 Main Event",
+    "place": "Discord",
+    "players": "48 players",
+    "date": "11/05/21",
     "decks": [
         {
             "deck_id": "438651",
             "rank": "1",
             "player": "Jesusextraturns",
+            "winrate": 0.8888888888888888,
             "commander": [
                 "Hogaak, Arisen Necropolis"
             ],
@@ -115,6 +120,7 @@
             "deck_id": "438652",
             "rank": "2",
             "player": "Korn411",
+            "winrate": 0.7777777777777778,
             "commander": [
                 "Emmara, Soul of the Accord"
             ],
@@ -213,6 +219,7 @@
             "deck_id": "438653",
             "rank": "3",
             "player": "Fowcus",
+            "winrate": 0.75,
             "commander": [
                 "Venser, Shaper Savant"
             ],
@@ -293,6 +300,7 @@
             "deck_id": "438654",
             "rank": "4",
             "player": "Venice",
+            "winrate": 0.75,
             "commander": [
                 "Kinnan, Bonder Prodigy"
             ],
@@ -390,6 +398,7 @@
             "deck_id": "438655",
             "rank": "5",
             "player": "Domino",
+            "winrate": 0.75,
             "commander": [
                 "Cosima, God of the Voyage"
             ],
@@ -468,6 +477,7 @@
             "deck_id": "438656",
             "rank": "6",
             "player": "Kaboz",
+            "winrate": 0.75,
             "commander": [
                 "Tevesh Szat, Doom of Fools",
                 "Gilanra, Caller of Wirewood"
@@ -558,6 +568,7 @@
             "deck_id": "438657",
             "rank": "7",
             "player": "Hannibal44",
+            "winrate": 0.75,
             "commander": [
                 "Niv-Mizzet Reborn"
             ],
@@ -667,6 +678,7 @@
             "deck_id": "438658",
             "rank": "8",
             "player": "Batsumi",
+            "winrate": 0.75,
             "commander": [
                 "Zareth San, the Trickster"
             ],
@@ -761,9 +773,5 @@
                 "10 Snow-Covered Island"
             ]
         }
-    ],
-    "name": "Commander League - S3 Main Event",
-    "place": "Discord",
-    "players": "48 players",
-    "date": "11/05/21"
+    ]
 }

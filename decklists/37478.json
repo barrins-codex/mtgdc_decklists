@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "37478",
+    "name": "WANTED Saison 4 #9",
+    "place": "CartaRennes (Rennes, France)",
+    "players": "18 players",
+    "date": "20/07/22",
     "decks": [
         {
             "deck_id": "480910",
             "rank": "1",
             "player": "Ylan Le Bris",
+            "winrate": 1.0,
             "commander": [
                 "Gut, True Soul Zealot",
                 "Faceless One"
@@ -102,6 +107,7 @@
             "deck_id": "480911",
             "rank": "2",
             "player": "Adrien Jouan",
+            "winrate": 0.8,
             "commander": [
                 "Slogurk, the Overslime"
             ],
@@ -198,9 +204,5 @@
                 "8 Snow-Covered Island"
             ]
         }
-    ],
-    "name": "WANTED Saison 4 #9",
-    "place": "CartaRennes (Rennes, France)",
-    "players": "18 players",
-    "date": "20/07/22"
+    ]
 }

@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "11613",
+    "name": "Duel Commander - Aux 2 Légendes (Chicoutimi, Canada)",
+    "place": "",
+    "players": "8 players",
+    "date": "20/02/16",
     "decks": [
         {
             "deck_id": "266104",
             "rank": "1",
             "player": "Felix Tremblay",
+            "winrate": 1.0,
             "commander": [
                 "Surrak Dragonclaw"
             ],
@@ -105,9 +110,5 @@
                 "4 Island"
             ]
         }
-    ],
-    "name": "Duel Commander - Aux 2 Légendes (Chicoutimi, Canada)",
-    "place": "",
-    "players": "8 players",
-    "date": "20/02/16"
+    ]
 }

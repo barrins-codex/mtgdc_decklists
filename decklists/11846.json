@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "11846",
+    "name": "Duel Commander - Aux 2 Légendes",
+    "place": "",
+    "players": "12 players",
+    "date": "12/03/16",
     "decks": [
         {
             "deck_id": "267763",
             "rank": "1",
             "player": "Jean-Philip Tremblay",
+            "winrate": 1.0,
             "commander": [
                 "Thraximundar"
             ],
@@ -111,6 +116,7 @@
             "deck_id": "267764",
             "rank": "2",
             "player": "Kroston Tremblay",
+            "winrate": 0.8,
             "commander": [
                 "Vendilion Clique"
             ],
@@ -194,9 +200,5 @@
                 "1 Vedalken Shackles"
             ]
         }
-    ],
-    "name": "Duel Commander - Aux 2 Légendes",
-    "place": "",
-    "players": "12 players",
-    "date": "12/03/16"
+    ]
 }

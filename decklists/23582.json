@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "23582",
+    "name": "DcTg",
+    "place": "Tapped Games (Marikina City, Philippines)",
+    "players": "11 players",
+    "date": "02/11/19",
     "decks": [
         {
             "deck_id": "363312",
             "rank": "1",
             "player": "Jerry Red Cabardo",
+            "winrate": 1.0,
             "commander": [
                 "Azusa, Lost but Seeking"
             ],
@@ -101,6 +106,7 @@
             "deck_id": "363313",
             "rank": "2",
             "player": "Jeremiah Maigue",
+            "winrate": 0.8,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -173,9 +179,5 @@
                 "34 Mountain"
             ]
         }
-    ],
-    "name": "DcTg",
-    "place": "Tapped Games (Marikina City, Philippines)",
-    "players": "11 players",
-    "date": "02/11/19"
+    ]
 }

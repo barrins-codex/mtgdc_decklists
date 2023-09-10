@@ -1,15 +1,20 @@
 {
     "format": "Duel Commander",
-    "id": 45245,
+    "id": "45245",
     "name": "Lachesis Cup",
     "place": "Nice Club (Wuxi,China)",
     "players": "8 players",
     "date": "17/06/23",
     "decks": [
         {
-            "player": "Dawei.gu",
-            "rank": "1",
             "deck_id": "534105",
+            "rank": "1",
+            "player": "Dawei.gu",
+            "winrate": 1.0,
+            "commander": [
+                "Wilson, Refined Grizzly",
+                "Sword Coast Sailor"
+            ],
             "decklist": [
                 "1 Embiggen",
                 "1 Fall from Favor",
@@ -107,16 +112,16 @@
                 "1 Scalding Tarn",
                 "1 Polluted Delta",
                 "3 Island"
-            ],
-            "commander": [
-                "Wilson, Refined Grizzly",
-                "Sword Coast Sailor"
             ]
         },
         {
-            "player": "Zichao,qian",
-            "rank": "2",
             "deck_id": "534106",
+            "rank": "2",
+            "player": "Zichao,qian",
+            "winrate": 0.6666666666666666,
+            "commander": [
+                "Ratchet, Field Medic"
+            ],
             "decklist": [
                 "1 Flawless Maneuver",
                 "1 Flowering of the White Tree",
@@ -197,9 +202,6 @@
                 "1 Urza's Saga",
                 "1 Minas Tirith",
                 "21 Snow-Covered Plains"
-            ],
-            "commander": [
-                "Ratchet, Field Medic"
             ]
         }
     ]

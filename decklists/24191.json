@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "24191",
+    "name": "95th \"New Year Cake\" Cup",
+    "place": "Shanghai (China)",
+    "players": "8 players",
+    "date": "28/12/19",
     "decks": [
         {
             "deck_id": "368831",
             "rank": "1",
             "player": "Yang Yang",
+            "winrate": 1.0,
             "commander": [
                 "Azusa, Lost but Seeking"
             ],
@@ -97,9 +102,5 @@
                 "1 All Is Dust"
             ]
         }
-    ],
-    "name": "95th \"New Year Cake\" Cup",
-    "place": "Shanghai (China)",
-    "players": "8 players",
-    "date": "28/12/19"
+    ]
 }

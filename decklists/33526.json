@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "33526",
+    "name": "Win Cup Weekly DC",
+    "place": "MYY Club (Shanghai, China)",
+    "players": "8 players",
+    "date": "27/11/21",
     "decks": [
         {
             "deck_id": "455459",
             "rank": "1",
             "player": "He Ying",
+            "winrate": 1.0,
             "commander": [
                 "Tevesh Szat, Doom of Fools",
                 "Malcolm, Keen-Eyed Navigator"
@@ -106,6 +111,7 @@
             "deck_id": "455460",
             "rank": "2",
             "player": "Wang Daisun",
+            "winrate": 0.6666666666666666,
             "commander": [
                 "Azusa, Lost but Seeking"
             ],
@@ -199,9 +205,5 @@
                 "1 Wild Growth"
             ]
         }
-    ],
-    "name": "Win Cup Weekly DC",
-    "place": "MYY Club (Shanghai, China)",
-    "players": "8 players",
-    "date": "27/11/21"
+    ]
 }

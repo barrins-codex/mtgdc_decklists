@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "39005",
+    "name": "KQ & TG UNF Duel",
+    "place": "King and Queen Milktea (Marikina City, Philippines)",
+    "players": "14 players",
+    "date": "22/10/22",
     "decks": [
         {
             "deck_id": "490839",
             "rank": "1",
             "player": "Rexel Tenorio",
+            "winrate": 1.0,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -115,6 +120,7 @@
             "deck_id": "490840",
             "rank": "2",
             "player": "Dinno Zaide",
+            "winrate": 0.8,
             "commander": [
                 "Ghyrson Starn, Kelermorph"
             ],
@@ -215,6 +221,7 @@
             "deck_id": "490841",
             "rank": "3",
             "player": "Van Acordon",
+            "winrate": 0.6,
             "commander": [
                 "Ludevic, Necro-Alchemist",
                 "Yoshimaru, Ever Faithful"
@@ -324,6 +331,7 @@
             "deck_id": "490842",
             "rank": "4",
             "player": "Randy Mestiola",
+            "winrate": 0.6,
             "commander": [
                 "The Ur-Dragon"
             ],
@@ -421,9 +429,5 @@
                 "1 Ziatora's Proving Ground"
             ]
         }
-    ],
-    "name": "KQ & TG UNF Duel",
-    "place": "King and Queen Milktea (Marikina City, Philippines)",
-    "players": "14 players",
-    "date": "22/10/22"
+    ]
 }

@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "40838",
+    "name": "1k DC",
+    "place": "XPlace (Guilhermina Esperança,Brasil)",
+    "players": "16 players",
+    "date": "21/01/23",
     "decks": [
         {
             "deck_id": "503726",
             "rank": "1",
             "player": "Guilherme Bellagente",
+            "winrate": 1.0,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -115,6 +120,7 @@
             "deck_id": "503727",
             "rank": "2",
             "player": "Renan Nascimento",
+            "winrate": 0.8,
             "commander": [
                 "Feldon, Ronom Excavator"
             ],
@@ -195,9 +201,5 @@
                 "1 Zurgo Bellstriker"
             ]
         }
-    ],
-    "name": "1k DC",
-    "place": "XPlace (Guilhermina Esperança,Brasil)",
-    "players": "16 players",
-    "date": "21/01/23"
+    ]
 }

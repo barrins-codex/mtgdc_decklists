@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "13110",
+    "name": "35th \"New Year Cake\" Cup (Shanghai)",
+    "place": "",
+    "players": "12 players",
+    "date": "15/05/16",
     "decks": [
         {
             "deck_id": "276705",
             "rank": "1",
             "player": "Jiang Jiahe",
+            "winrate": 1.0,
             "commander": [
                 "Jenara, Asura of War"
             ],
@@ -115,6 +120,7 @@
             "deck_id": "276706",
             "rank": "2",
             "player": "Yao Yao",
+            "winrate": 0.8,
             "commander": [
                 "Sen Triplets"
             ],
@@ -220,9 +226,5 @@
                 "1 River of Tears"
             ]
         }
-    ],
-    "name": "35th \"New Year Cake\" Cup (Shanghai)",
-    "place": "",
-    "players": "12 players",
-    "date": "15/05/16"
+    ]
 }

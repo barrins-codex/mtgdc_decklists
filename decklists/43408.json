@@ -1,15 +1,19 @@
 {
     "format": "Duel Commander",
-    "id": 43408,
+    "id": "43408",
     "name": "Weekly DC",
     "place": "FENIXcards (Trnava, Slovakia)",
     "players": "15 players",
     "date": "07/04/23",
     "decks": [
         {
-            "player": "Filip Rázga",
-            "rank": "1",
             "deck_id": "520696",
+            "rank": "1",
+            "player": "Filip Rázga",
+            "winrate": 1.0,
+            "commander": [
+                "Sidisi, Undead Vizier"
+            ],
             "decklist": [
                 "1 Halls of Mist",
                 "1 Memnite",
@@ -71,15 +75,16 @@
                 "1 Ad Nauseam",
                 "1 Dark Ritual",
                 "1 Urza's Saga"
-            ],
-            "commander": [
-                "Sidisi, Undead Vizier"
             ]
         },
         {
-            "player": "Patrik Frio",
-            "rank": "2",
             "deck_id": "520697",
+            "rank": "2",
+            "player": "Patrik Frio",
+            "winrate": 0.8,
+            "commander": [
+                "Dihada, Binder of Wills"
+            ],
             "decklist": [
                 "1 Animate Dead",
                 "1 Arcane Signet",
@@ -180,15 +185,16 @@
                 "1 Wall of Omens",
                 "1 Windswept Heath",
                 "1 Wooded Foothills"
-            ],
-            "commander": [
-                "Dihada, Binder of Wills"
             ]
         },
         {
-            "player": "Richard Kolenič",
-            "rank": "3",
             "deck_id": "520698",
+            "rank": "3",
+            "player": "Richard Kolenič",
+            "winrate": 0.6,
+            "commander": [
+                "Feldon, Ronom Excavator"
+            ],
             "decklist": [
                 "1 Ahn-Crop Crasher",
                 "1 Arc Trail",
@@ -268,15 +274,16 @@
                 "1 Wild Slash",
                 "1 Wooded Foothills",
                 "1 Zurgo Bellstriker"
-            ],
-            "commander": [
-                "Feldon, Ronom Excavator"
             ]
         },
         {
-            "player": "Dominik Repa",
-            "rank": "4",
             "deck_id": "520699",
+            "rank": "4",
+            "player": "Dominik Repa",
+            "winrate": 0.6,
+            "commander": [
+                "Golos, Tireless Pilgrim"
+            ],
             "decklist": [
                 "1 Abrupt Decay",
                 "1 Arbor Elf",
@@ -377,9 +384,6 @@
                 "1 Wrenn and Six",
                 "1 Yavimaya, Cradle of Growth",
                 "1 Zagoth Triome"
-            ],
-            "commander": [
-                "Golos, Tireless Pilgrim"
             ]
         }
     ]

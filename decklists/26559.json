@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "26559",
+    "name": "Summer Tournament",
+    "place": "Tolarie.cz (Pardubice)",
+    "players": "39 players",
+    "date": "18/07/20",
     "decks": [
         {
             "deck_id": "405000",
             "rank": "1",
             "player": "Jan Kousal",
+            "winrate": 0.7777777777777778,
             "commander": [
                 "Ludevic, Necro-Alchemist",
                 "Akiri, Line-Slinger"
@@ -115,6 +120,7 @@
             "deck_id": "405001",
             "rank": "2",
             "player": "Tomá Hanousek",
+            "winrate": 0.6666666666666666,
             "commander": [
                 "Anafenza, the Foremost"
             ],
@@ -224,6 +230,7 @@
             "deck_id": "405002",
             "rank": "3",
             "player": "Petr tefan",
+            "winrate": 0.625,
             "commander": [
                 "Kraum, Ludevic's Opus",
                 "Tymna the Weaver"
@@ -333,6 +340,7 @@
             "deck_id": "405003",
             "rank": "4",
             "player": "Michael Olsen",
+            "winrate": 0.625,
             "commander": [
                 "Ludevic, Necro-Alchemist",
                 "Kraum, Ludevic's Opus"
@@ -426,6 +434,7 @@
             "deck_id": "405004",
             "rank": "5",
             "player": "Vojtech Benes",
+            "winrate": 0.625,
             "commander": [
                 "Uro, Titan of Nature's Wrath"
             ],
@@ -522,6 +531,7 @@
             "deck_id": "405005",
             "rank": "6",
             "player": "Jan Jílek",
+            "winrate": 0.625,
             "commander": [
                 "Thrasios, Triton Hero",
                 "Tymna the Weaver"
@@ -631,6 +641,7 @@
             "deck_id": "405006",
             "rank": "7",
             "player": "Jan tefan",
+            "winrate": 0.625,
             "commander": [
                 "Kess, Dissident Mage"
             ],
@@ -737,6 +748,7 @@
             "deck_id": "405007",
             "rank": "8",
             "player": "Robert Starke",
+            "winrate": 0.625,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -842,9 +854,5 @@
                 "1 Wishclaw Talisman"
             ]
         }
-    ],
-    "name": "Summer Tournament",
-    "place": "Tolarie.cz (Pardubice)",
-    "players": "39 players",
-    "date": "18/07/20"
+    ]
 }

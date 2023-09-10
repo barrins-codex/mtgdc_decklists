@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "35786",
+    "name": "Shoturday Night Magic",
+    "place": "Antipolo (Philippines)",
+    "players": "9 players",
+    "date": "16/04/22",
     "decks": [
         {
             "deck_id": "469853",
             "rank": "1",
             "player": "Juan Antonio Agoncillo",
+            "winrate": 1.0,
             "commander": [
                 "Magda, Brazen Outlaw"
             ],
@@ -96,6 +101,7 @@
             "deck_id": "469854",
             "rank": "2",
             "player": "Tim Amagna",
+            "winrate": 0.8,
             "commander": [
                 "Adeliz, the Cinder Wind"
             ],
@@ -193,9 +199,5 @@
                 "5 Mountain"
             ]
         }
-    ],
-    "name": "Shoturday Night Magic",
-    "place": "Antipolo (Philippines)",
-    "players": "9 players",
-    "date": "16/04/22"
+    ]
 }

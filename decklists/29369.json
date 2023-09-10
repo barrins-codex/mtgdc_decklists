@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "29369",
+    "name": "1st Webcam-League",
+    "place": "Leipzig (Germany)",
+    "players": "10 players",
+    "date": "24/02/21",
     "decks": [
         {
             "deck_id": "430904",
             "rank": "1",
             "player": "Jonas Jörns",
+            "winrate": 1.0,
             "commander": [
                 "Tevesh Szat, Doom of Fools",
                 "Rograkh, Son of Rohgahh"
@@ -102,6 +107,7 @@
             "deck_id": "430905",
             "rank": "2",
             "player": "Simon The Sorcerer",
+            "winrate": 0.8,
             "commander": [
                 "Kraum, Ludevic's Opus",
                 "Ludevic, Necro-Alchemist"
@@ -189,9 +195,5 @@
                 "1 Fiery Confluence"
             ]
         }
-    ],
-    "name": "1st Webcam-League",
-    "place": "Leipzig (Germany)",
-    "players": "10 players",
-    "date": "24/02/21"
+    ]
 }

@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "24197",
+    "name": "FNM",
+    "place": "Hiveworld Cologne",
+    "players": "13 players",
+    "date": "27/12/19",
     "decks": [
         {
             "deck_id": "368888",
             "rank": "1",
             "player": "Kevin H",
+            "winrate": 1.0,
             "commander": [
                 "Hapatra, Vizier of Poisons"
             ],
@@ -102,6 +107,7 @@
             "deck_id": "368889",
             "rank": "2",
             "player": "Lukas E",
+            "winrate": 0.8,
             "commander": [
                 "Tymna the Weaver",
                 "Ravos, Soultender"
@@ -195,9 +201,5 @@
                 "1 Zealous Persecution"
             ]
         }
-    ],
-    "name": "FNM",
-    "place": "Hiveworld Cologne",
-    "players": "13 players",
-    "date": "27/12/19"
+    ]
 }

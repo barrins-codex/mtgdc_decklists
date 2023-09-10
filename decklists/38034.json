@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "38034",
+    "name": "RJ Cup 2022 #27",
+    "place": "League Castle (Mong Kok, Hong Kong)",
+    "players": "8 players",
+    "date": "13/08/22",
     "decks": [
         {
             "deck_id": "484521",
             "rank": "1",
             "player": "Jun Hao Chu",
+            "winrate": 1.0,
             "commander": [
                 "Hogaak, Arisen Necropolis"
             ],
@@ -115,6 +120,7 @@
             "deck_id": "484522",
             "rank": "2",
             "player": "Wilson Lai",
+            "winrate": 0.6666666666666666,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -220,9 +226,5 @@
                 "1 Memory Lapse"
             ]
         }
-    ],
-    "name": "RJ Cup 2022 #27",
-    "place": "League Castle (Mong Kok, Hong Kong)",
-    "players": "8 players",
-    "date": "13/08/22"
+    ]
 }

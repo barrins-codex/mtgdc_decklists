@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "41052",
+    "name": "Duelan sa TG Pod 1",
+    "place": "Tapped Games (Marikina City, Philippines)",
+    "players": "10 players",
+    "date": "27/01/23",
     "decks": [
         {
             "deck_id": "505152",
             "rank": "1",
             "player": "Dinno Zaide",
+            "winrate": 1.0,
             "commander": [
                 "Ghyrson Starn, Kelermorph"
             ],
@@ -106,6 +111,7 @@
             "deck_id": "505153",
             "rank": "2",
             "player": "Jonathan Dolor",
+            "winrate": 0.8,
             "commander": [
                 "Feldon, Ronom Excavator"
             ],
@@ -192,6 +198,7 @@
             "deck_id": "505154",
             "rank": "3",
             "player": "Mark Lasam",
+            "winrate": 0.6,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -301,6 +308,7 @@
             "deck_id": "505155",
             "rank": "4",
             "player": "Van Acordon",
+            "winrate": 0.6,
             "commander": [
                 "Kraum, Ludevic's Opus",
                 "Yoshimaru, Ever Faithful"
@@ -405,9 +413,5 @@
                 "2 Snow-Covered Plains"
             ]
         }
-    ],
-    "name": "Duelan sa TG Pod 1",
-    "place": "Tapped Games (Marikina City, Philippines)",
-    "players": "10 players",
-    "date": "27/01/23"
+    ]
 }

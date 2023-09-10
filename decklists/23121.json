@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "23121",
+    "name": "Saturday Dc",
+    "place": "Tapped Games (Marikina City, Philippines)",
+    "players": "10 players",
+    "date": "14/09/19",
     "decks": [
         {
             "deck_id": "358870",
             "rank": "1",
             "player": "Louie Gil Frial Siongco",
+            "winrate": 1.0,
             "commander": [
                 "Tymna the Weaver",
                 "Kraum, Ludevic's Opus"
@@ -115,6 +120,7 @@
             "deck_id": "358871",
             "rank": "2",
             "player": "Cilbert Corpuz",
+            "winrate": 0.8,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -192,9 +198,5 @@
                 "1 Zurgo Bellstriker"
             ]
         }
-    ],
-    "name": "Saturday Dc",
-    "place": "Tapped Games (Marikina City, Philippines)",
-    "players": "10 players",
-    "date": "14/09/19"
+    ]
 }

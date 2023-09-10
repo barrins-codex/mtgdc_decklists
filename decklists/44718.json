@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "44718",
+    "name": "Weekly DC",
+    "place": "Slow Drake (Beijing, China)",
+    "players": "14 players",
+    "date": "27/05/23",
     "decks": [
         {
             "deck_id": "529816",
             "rank": "1",
             "player": "Lyuhong Chen",
+            "winrate": 1.0,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -115,6 +120,7 @@
             "deck_id": "529817",
             "rank": "2",
             "player": "Shuyao Liu",
+            "winrate": 0.8,
             "commander": [
                 "Tana, the Bloodsower",
                 "Yoshimaru, Ever Faithful"
@@ -223,6 +229,7 @@
             "deck_id": "529818",
             "rank": "3",
             "player": "Ceyao Duan",
+            "winrate": 0.6,
             "commander": [
                 "Kydele, Chosen of Kruphix",
                 "Tymna the Weaver"
@@ -332,6 +339,7 @@
             "deck_id": "529819",
             "rank": "4",
             "player": "Ruji Li",
+            "winrate": 0.6,
             "commander": [
                 "Errant and Giada"
             ],
@@ -429,9 +437,5 @@
                 "5 Snow-Covered Island"
             ]
         }
-    ],
-    "name": "Weekly DC",
-    "place": "Slow Drake (Beijing, China)",
-    "players": "14 players",
-    "date": "27/05/23"
+    ]
 }

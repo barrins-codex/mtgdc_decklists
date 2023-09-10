@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
-    "id": 45570,
+    "id": "45570",
+    "name": "Lachesis Cup",
+    "place": "Nice Club (Wuxi,China)",
+    "players": "8 players",
+    "date": "02/07/23",
     "decks": [
         {
             "deck_id": "536659",
             "rank": "1",
             "player": "Jiawei,chen",
+            "winrate": 1.0,
             "commander": [
                 "Aragorn, King of Gondor"
             ],
@@ -114,6 +119,7 @@
             "deck_id": "536660",
             "rank": "2",
             "player": "Zhaoyang,liu",
+            "winrate": 0.6666666666666666,
             "commander": [
                 "Feldon, Ronom Excavator"
             ],
@@ -194,9 +200,5 @@
                 "1 Zurgo Bellstriker"
             ]
         }
-    ],
-    "name": "Lachesis Cup",
-    "place": "Nice Club (Wuxi,China)",
-    "players": "8 players",
-    "date": "02/07/23"
+    ]
 }

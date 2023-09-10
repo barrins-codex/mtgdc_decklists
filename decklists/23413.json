@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "23413",
+    "name": "Friday Night Duel",
+    "place": "Greenpark (Cainta Rizal, Philippines)",
+    "players": "8 players",
+    "date": "19/10/19",
     "decks": [
         {
             "deck_id": "361661",
             "rank": "1",
             "player": "Jerry Red Cabardo",
+            "winrate": 1.0,
             "commander": [
                 "Azusa, Lost but Seeking"
             ],
@@ -101,6 +106,7 @@
             "deck_id": "361662",
             "rank": "2",
             "player": "Martin John Ogayon",
+            "winrate": 0.6666666666666666,
             "commander": [
                 "Queen Marchesa"
             ],
@@ -206,9 +212,5 @@
                 "1 Wurmcoil Engine"
             ]
         }
-    ],
-    "name": "Friday Night Duel",
-    "place": "Greenpark (Cainta Rizal, Philippines)",
-    "players": "8 players",
-    "date": "19/10/19"
+    ]
 }

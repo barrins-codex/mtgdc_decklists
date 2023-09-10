@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "39163",
+    "name": "FNM DC des K'artonnés",
+    "place": "La Teste De Buch (France)",
+    "players": "14 players",
+    "date": "28/10/22",
     "decks": [
         {
             "deck_id": "491905",
             "rank": "1",
-            "player": "Philippe 'kinder' Métivier ",
+            "player": "Philippe 'kinder' Métivier",
+            "winrate": 1.0,
             "commander": [
                 "Grist, the Hunger Tide"
             ],
@@ -104,9 +109,5 @@
                 "1 Yavimaya, Cradle of Growth"
             ]
         }
-    ],
-    "name": "FNM DC des K'artonnés",
-    "place": "La Teste De Buch (France)",
-    "players": "14 players",
-    "date": "28/10/22"
+    ]
 }

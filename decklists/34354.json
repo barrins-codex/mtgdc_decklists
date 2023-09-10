@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "34354",
+    "name": "24th Bank President Cup",
+    "place": "Hongyu（Hefei，China）",
+    "players": "8 players",
+    "date": "23/01/22",
     "decks": [
         {
             "deck_id": "460872",
             "rank": "1",
             "player": "Jsd",
+            "winrate": 1.0,
             "commander": [
                 "Jegantha, the Wellspring",
                 "The First Sliver"
@@ -116,6 +121,7 @@
             "deck_id": "460873",
             "rank": "2",
             "player": "Duoyan Li",
+            "winrate": 0.6666666666666666,
             "commander": [
                 "Ludevic, Necrogenius"
             ],
@@ -213,9 +219,5 @@
                 "6 Island"
             ]
         }
-    ],
-    "name": "24th Bank President Cup",
-    "place": "Hongyu（Hefei，China）",
-    "players": "8 players",
-    "date": "23/01/22"
+    ]
 }

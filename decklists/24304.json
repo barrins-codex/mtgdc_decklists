@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "24304",
+    "name": "Trial ZAP Janvier",
+    "place": "Amiens (France)",
+    "players": "13 players",
+    "date": "04/01/20",
     "decks": [
         {
             "deck_id": "369701",
             "rank": "1",
             "player": "Lavender Gaetan",
+            "winrate": 1.0,
             "commander": [
                 "Golos, Tireless Pilgrim"
             ],
@@ -115,6 +120,7 @@
             "deck_id": "369702",
             "rank": "2",
             "player": "Leroyer Alexandre (zankou)",
+            "winrate": 0.8,
             "commander": [
                 "Akiri, Line-Slinger",
                 "Silas Renn, Seeker Adept"
@@ -220,9 +226,5 @@
                 "1 Volcanic Island"
             ]
         }
-    ],
-    "name": "Trial ZAP Janvier",
-    "place": "Amiens (France)",
-    "players": "13 players",
-    "date": "04/01/20"
+    ]
 }

@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "17812",
+    "name": "FNM Hiveworld Cologne",
+    "place": "",
+    "players": "8 players",
+    "date": "01/12/17",
     "decks": [
         {
             "deck_id": "310408",
             "rank": "1",
             "player": "Sebastian Haines",
+            "winrate": 1.0,
             "commander": [
                 "Leovold, Emissary of Trest"
             ],
@@ -111,9 +116,5 @@
                 "1 Scavenging Ooze"
             ]
         }
-    ],
-    "name": "FNM Hiveworld Cologne",
-    "place": "",
-    "players": "8 players",
-    "date": "01/12/17"
+    ]
 }

@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "27596",
+    "name": "Duel Commander",
+    "place": "Jeux Barjo (Bordeaux, France)",
+    "players": "17 players",
+    "date": "04/10/20",
     "decks": [
         {
             "deck_id": "419271",
             "rank": "1",
             "player": "Nicolas Soulé",
+            "winrate": 1.0,
             "commander": [
                 "Kraum, Ludevic's Opus",
                 "Ludevic, Necro-Alchemist"
@@ -98,6 +103,7 @@
             "deck_id": "419272",
             "rank": "2",
             "player": "Romain Peressoni",
+            "winrate": 0.8,
             "commander": [
                 "Omnath, Locus of Creation"
             ],
@@ -199,9 +205,5 @@
                 "1 Explore"
             ]
         }
-    ],
-    "name": "Duel Commander",
-    "place": "Jeux Barjo (Bordeaux, France)",
-    "players": "17 players",
-    "date": "04/10/20"
+    ]
 }

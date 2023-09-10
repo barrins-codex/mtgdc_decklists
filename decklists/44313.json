@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "44313",
+    "name": "Galaxy Cup #4",
+    "place": "Naya (Jinan, China)",
+    "players": "9 players",
+    "date": "14/05/23",
     "decks": [
         {
             "deck_id": "526945",
             "rank": "1",
             "player": "Yang Jinlin",
+            "winrate": 1.0,
             "commander": [
                 "Slimefoot and Squee"
             ],
@@ -115,6 +120,7 @@
             "deck_id": "526946",
             "rank": "2",
             "player": "Xing Galaxy",
+            "winrate": 0.8,
             "commander": [
                 "Errant and Giada"
             ],
@@ -213,9 +219,5 @@
                 "6 Snow-Covered Island"
             ]
         }
-    ],
-    "name": "Galaxy Cup #4",
-    "place": "Naya (Jinan, China)",
-    "players": "9 players",
-    "date": "14/05/23"
+    ]
 }

@@ -1,6 +1,6 @@
 {
     "format": "Duel Commander",
-    "id": 46217,
+    "id": "46217",
     "name": "Summer Break",
     "place": "Goupiya (Antony, France)",
     "players": "24 players",
@@ -8,6 +8,13 @@
     "decks": [
         {
             "deck_id": "541402",
+            "rank": "1",
+            "player": "Louis Binse",
+            "winrate": 1.0,
+            "commander": [
+                "Tevesh Szat, Doom of Fools",
+                "Rograkh, Son of Rohgahh"
+            ],
             "decklist": [
                 "1 ________ Goblin",
                 "1 Culling the Weak",
@@ -97,16 +104,16 @@
                 "1 Polluted Delta",
                 "1 Prismatic Vista",
                 "11 Snow-Covered Swamp"
-            ],
-            "commander": [
-                "Tevesh Szat, Doom of Fools",
-                "Rograkh, Son of Rohgahh"
-            ],
-            "rank": "1",
-            "player": "Louis Binse"
+            ]
         },
         {
             "deck_id": "541403",
+            "rank": "2",
+            "player": "Sylvain \"zohoz\" Zozaya",
+            "winrate": 0.8,
+            "commander": [
+                "Niv-Mizzet Reborn"
+            ],
             "decklist": [
                 "1 Drown in the Loch",
                 "1 Expressive Iteration",
@@ -207,15 +214,16 @@
                 "1 Savannah",
                 "1 Scalding Tarn",
                 "1 Plains"
-            ],
-            "commander": [
-                "Niv-Mizzet Reborn"
-            ],
-            "rank": "2",
-            "player": "Sylvain \"zohoz\" Zozaya"
+            ]
         },
         {
             "deck_id": "541404",
+            "rank": "3",
+            "player": "Flavien \"crimelune\" Paillet",
+            "winrate": 0.8,
+            "commander": [
+                "Sheoldred, the Apocalypse"
+            ],
             "decklist": [
                 "1 Thoughtseize",
                 "1 Toxic Deluge",
@@ -278,15 +286,16 @@
                 "1 Cabal Coffers",
                 "1 Castle Locthwain",
                 "39 Snow-Covered Swamp"
-            ],
-            "commander": [
-                "Sheoldred, the Apocalypse"
-            ],
-            "rank": "3",
-            "player": "Flavien \"crimelune\" Paillet"
+            ]
         },
         {
             "deck_id": "541405",
+            "rank": "4",
+            "player": "Fredo3577",
+            "winrate": 0.8,
+            "commander": [
+                "Ghyrson Starn, Kelermorph"
+            ],
             "decklist": [
                 "1 Fire / Ice",
                 "1 Forbidden Friendship",
@@ -378,12 +387,7 @@
                 "1 Scalding Tarn",
                 "5 Mountain",
                 "6 Island"
-            ],
-            "commander": [
-                "Ghyrson Starn, Kelermorph"
-            ],
-            "rank": "4",
-            "player": "Fredo3577"
+            ]
         }
     ]
 }

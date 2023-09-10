@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "32396",
+    "name": "Win a Fetch",
+    "place": "Asgard TCG",
+    "players": "10 players",
+    "date": "12/09/21",
     "decks": [
         {
             "deck_id": "449085",
             "rank": "1",
             "player": "Pierre Clavieras-mengin",
+            "winrate": 1.0,
             "commander": [
                 "Kinnan, Bonder Prodigy"
             ],
@@ -107,6 +112,7 @@
             "deck_id": "449086",
             "rank": "2",
             "player": "Antoine \"chapeau\" Vieilledent",
+            "winrate": 0.8,
             "commander": [
                 "Golos, Tireless Pilgrim"
             ],
@@ -212,9 +218,5 @@
                 "1 Zagoth Triome"
             ]
         }
-    ],
-    "name": "Win a Fetch",
-    "place": "Asgard TCG",
-    "players": "10 players",
-    "date": "12/09/21"
+    ]
 }

@@ -1,15 +1,19 @@
 {
     "format": "Duel Commander",
-    "id": 41416,
+    "id": "41416",
     "name": "WANTED Saison 6 #6",
     "place": "Cartarennes (Rennes, France)",
     "players": "19 players",
     "date": "15/02/23",
     "decks": [
         {
-            "player": "Maxime Allée",
-            "rank": "1",
             "deck_id": "507633",
+            "rank": "1",
+            "player": "Maxime Allée",
+            "winrate": 1.0,
+            "commander": [
+                "Grist, the Hunger Tide"
+            ],
             "decklist": [
                 "1 Wall of Roots",
                 "1 Gemstone Caverns",
@@ -100,15 +104,16 @@
                 "1 Yavimaya, Cradle of Growth",
                 "1 Yawgmoth, Thran Physician",
                 "1 Gilded Goose"
-            ],
-            "commander": [
-                "Grist, the Hunger Tide"
             ]
         },
         {
-            "player": "Brieuc Evo",
-            "rank": "2",
             "deck_id": "507634",
+            "rank": "2",
+            "player": "Brieuc Evo",
+            "winrate": 0.8,
+            "commander": [
+                "Aminatou, the Fateshifter"
+            ],
             "decklist": [
                 "1 Agent of Treachery",
                 "1 Angel of Despair",
@@ -209,9 +214,6 @@
                 "1 Verdant Catacombs",
                 "1 Watery Grave",
                 "1 Windswept Heath"
-            ],
-            "commander": [
-                "Aminatou, the Fateshifter"
             ]
         }
     ]

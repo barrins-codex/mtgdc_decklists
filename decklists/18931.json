@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "18931",
+    "name": "[DDL] Duel Lounge",
+    "place": "",
+    "players": "8 players",
+    "date": "05/04/18",
     "decks": [
         {
             "deck_id": "318810",
             "rank": "1",
             "player": "Felix M.",
+            "winrate": 1.0,
             "commander": [
                 "Tymna the Weaver",
                 "Sidar Kondo of Jamuraa"
@@ -114,6 +119,7 @@
             "deck_id": "318811",
             "rank": "2",
             "player": "Simon M.",
+            "winrate": 0.6666666666666666,
             "commander": [
                 "Tana, the Bloodsower",
                 "Reyhan, Last of the Abzan"
@@ -219,9 +225,5 @@
                 "1 Arid Mesa"
             ]
         }
-    ],
-    "name": "[DDL] Duel Lounge",
-    "place": "",
-    "players": "8 players",
-    "date": "05/04/18"
+    ]
 }

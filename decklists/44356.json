@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "44356",
+    "name": "[DDL] Lounge League",
+    "place": "Darmstadt (Germany)",
+    "players": "12 players",
+    "date": "16/05/23",
     "decks": [
         {
             "deck_id": "527207",
             "rank": "1",
             "player": "Mitja H.",
+            "winrate": 1.0,
             "commander": [
                 "Slimefoot and Squee"
             ],
@@ -115,6 +120,7 @@
             "deck_id": "527208",
             "rank": "2",
             "player": "Bitzelberg",
+            "winrate": 0.8,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -220,9 +226,5 @@
                 "1 Ertai Resurrected"
             ]
         }
-    ],
-    "name": "[DDL] Lounge League",
-    "place": "Darmstadt (Germany)",
-    "players": "12 players",
-    "date": "16/05/23"
+    ]
 }

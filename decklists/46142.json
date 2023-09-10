@@ -1,6 +1,6 @@
 {
     "format": "Duel Commander",
-    "id": 46142,
+    "id": "46142",
     "name": "TNDC \"Nelson Mandela Day\"",
     "place": "Bolovo Games ( Santos, Brazil)",
     "players": "10 players",
@@ -8,6 +8,12 @@
     "decks": [
         {
             "deck_id": "540887",
+            "rank": "1",
+            "player": "Hugo Shelling",
+            "winrate": 1.0,
+            "commander": [
+                "Aminatou, the Fateshifter"
+            ],
             "decklist": [
                 "1 Adarkar Wastes",
                 "1 Arid Mesa",
@@ -108,15 +114,16 @@
                 "1 Watery Grave",
                 "1 Windswept Heath",
                 "1 Wishclaw Talisman"
-            ],
-            "commander": [
-                "Aminatou, the Fateshifter"
-            ],
-            "rank": "1",
-            "player": "Hugo Shelling"
+            ]
         },
         {
             "deck_id": "540888",
+            "rank": "2",
+            "player": "Carlos Pires",
+            "winrate": 0.8,
+            "commander": [
+                "Ertai Resurrected"
+            ],
             "decklist": [
                 "1 Baleful Strix",
                 "1 Bloodchief's Thirst",
@@ -200,15 +207,16 @@
                 "1 Verdant Catacombs",
                 "1 Wash Away",
                 "1 Watery Grave"
-            ],
-            "commander": [
-                "Ertai Resurrected"
-            ],
-            "rank": "2",
-            "player": "Carlos Pires"
+            ]
         },
         {
             "deck_id": "540889",
+            "rank": "3-4",
+            "player": "Lucas Dias",
+            "winrate": 0.6,
+            "commander": [
+                "Aragorn, King of Gondor"
+            ],
             "decklist": [
                 "1 Abrade",
                 "1 Adeline, Resplendent Cathar",
@@ -306,15 +314,16 @@
                 "1 White Plume Adventurer",
                 "1 Windswept Heath",
                 "1 Wooded Foothills"
-            ],
-            "commander": [
-                "Aragorn, King of Gondor"
-            ],
-            "rank": "3-4",
-            "player": "Lucas Dias"
+            ]
         },
         {
             "deck_id": "540890",
+            "rank": "3-4",
+            "player": "Leonardo Maeda",
+            "winrate": 0.6,
+            "commander": [
+                "Minsc, Beloved Ranger"
+            ],
             "decklist": [
                 "1 Academy Rector",
                 "1 Arena Rector",
@@ -413,12 +422,7 @@
                 "1 Wooded Foothills",
                 "1 Wrenn and Six",
                 "1 Yavimaya, Cradle of Growth"
-            ],
-            "commander": [
-                "Minsc, Beloved Ranger"
-            ],
-            "rank": "3-4",
-            "player": "Leonardo Maeda"
+            ]
         }
     ]
 }

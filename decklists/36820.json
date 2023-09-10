@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "36820",
+    "name": "[RC] 7° Torneio",
+    "place": "Manavai (Campo Grande/RJ)",
+    "players": "11 players",
+    "date": "10/06/22",
     "decks": [
         {
             "deck_id": "476754",
             "rank": "1",
             "player": "Rodrigo \"rosa\"",
+            "winrate": 1.0,
             "commander": [
                 "Gallia of the Endless Dance"
             ],
@@ -99,6 +104,7 @@
             "deck_id": "476755",
             "rank": "2",
             "player": "Michel Xisto",
+            "winrate": 0.8,
             "commander": [
                 "Mina and Denn, Wildborn"
             ],
@@ -188,6 +194,7 @@
             "deck_id": "476756",
             "rank": "3-4",
             "player": "Estan",
+            "winrate": 0.6,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -267,6 +274,7 @@
             "deck_id": "476757",
             "rank": "3-4",
             "player": "Thales",
+            "winrate": 0.6,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -344,9 +352,5 @@
                 "1 Fireblast"
             ]
         }
-    ],
-    "name": "[RC] 7° Torneio",
-    "place": "Manavai (Campo Grande/RJ)",
-    "players": "11 players",
-    "date": "10/06/22"
+    ]
 }

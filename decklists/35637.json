@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "35637",
+    "name": "WANTED Saison 3 #7",
+    "place": "CartaRennes (Rennes, France)",
+    "players": "17 players",
+    "date": "06/04/22",
     "decks": [
         {
             "deck_id": "468910",
             "rank": "1",
             "player": "Aurèle Commeureuc",
+            "winrate": 1.0,
             "commander": [
                 "Vadrok, Apex of Thunder"
             ],
@@ -115,6 +120,7 @@
             "deck_id": "468911",
             "rank": "2",
             "player": "Valentin Avenel",
+            "winrate": 0.8,
             "commander": [
                 "Dennick, Pious Apprentice"
             ],
@@ -212,9 +218,5 @@
                 "1 Windswept Heath"
             ]
         }
-    ],
-    "name": "WANTED Saison 3 #7",
-    "place": "CartaRennes (Rennes, France)",
-    "players": "17 players",
-    "date": "06/04/22"
+    ]
 }

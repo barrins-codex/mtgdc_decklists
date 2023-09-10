@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "19794",
+    "name": "FNM Duel Commander 04",
+    "place": "Geneva Gaming Goat, IL",
+    "players": "12 players",
+    "date": "03/08/18",
     "decks": [
         {
             "deck_id": "327615",
             "rank": "1",
             "player": "Nikko Letteri",
+            "winrate": 1.0,
             "commander": [
                 "Kess, Dissident Mage"
             ],
@@ -111,6 +116,7 @@
             "deck_id": "327616",
             "rank": "2",
             "player": "Matthew Broviak",
+            "winrate": 0.8,
             "commander": [
                 "Ruhan of the Fomori"
             ],
@@ -208,9 +214,5 @@
                 "1 Flooded Strand"
             ]
         }
-    ],
-    "name": "FNM Duel Commander 04",
-    "place": "Geneva Gaming Goat, IL",
-    "players": "12 players",
-    "date": "03/08/18"
+    ]
 }

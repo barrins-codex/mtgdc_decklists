@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "40350",
+    "name": "TNDC \"Feast Day of Saint John\"",
+    "place": "Bolovo Games (Santos, Brasil)",
+    "players": "23 players",
+    "date": "27/12/22",
     "decks": [
         {
             "deck_id": "500275",
             "rank": "1",
             "player": "Carlos Pires",
+            "winrate": 1.0,
             "commander": [
                 "Jeska, Thrice Reborn",
                 "Ludevic, Necro-Alchemist"
@@ -103,6 +108,7 @@
             "deck_id": "500276",
             "rank": "2",
             "player": "Leonardo Maeda",
+            "winrate": 0.8,
             "commander": [
                 "Minsc, Beloved Ranger"
             ],
@@ -210,6 +216,7 @@
             "deck_id": "500277",
             "rank": "3",
             "player": "Leandro Lima",
+            "winrate": 0.8,
             "commander": [
                 "Yoshimaru, Ever Faithful",
                 "Silas Renn, Seeker Adept"
@@ -312,6 +319,7 @@
             "deck_id": "500278",
             "rank": "4",
             "player": "Arthur Dutra",
+            "winrate": 0.6,
             "commander": [
                 "Isamaru, Hound of Konda"
             ],
@@ -396,6 +404,7 @@
             "deck_id": "500279",
             "rank": "5",
             "player": "Victor Burghi",
+            "winrate": 0.6,
             "commander": [
                 "Hogaak, Arisen Necropolis"
             ],
@@ -505,6 +514,7 @@
             "deck_id": "500280",
             "rank": "6",
             "player": "Felipe Batista",
+            "winrate": 0.6,
             "commander": [
                 "Sheoldred, the Apocalypse"
             ],
@@ -588,6 +598,7 @@
             "deck_id": "500281",
             "rank": "7",
             "player": "Pablo Lima",
+            "winrate": 0.6,
             "commander": [
                 "Feldon, Ronom Excavator"
             ],
@@ -671,6 +682,7 @@
             "deck_id": "500282",
             "rank": "8",
             "player": "Lucas Ferraz",
+            "winrate": 0.6,
             "commander": [
                 "Sheoldred, the Apocalypse"
             ],
@@ -758,9 +770,5 @@
                 "19 Swamp"
             ]
         }
-    ],
-    "name": "TNDC \"Feast Day of Saint John\"",
-    "place": "Bolovo Games (Santos, Brasil)",
-    "players": "23 players",
-    "date": "27/12/22"
+    ]
 }

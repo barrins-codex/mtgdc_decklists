@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "38094",
+    "name": "Mtg Tournament Var Dc 3.4",
+    "place": "Fight Club (La Crau, France)",
+    "players": "15 players",
+    "date": "26/08/22",
     "decks": [
         {
             "deck_id": "484908",
             "rank": "1",
             "player": "Loïc Baverel",
+            "winrate": 1.0,
             "commander": [
                 "Saskia the Unyielding"
             ],
@@ -115,6 +120,7 @@
             "deck_id": "484909",
             "rank": "2",
             "player": "Alexandre Andouard",
+            "winrate": 0.8,
             "commander": [
                 "Kenrith, the Returned King"
             ],
@@ -224,6 +230,7 @@
             "deck_id": "484910",
             "rank": "3-4",
             "player": "Pierre Almaraz",
+            "winrate": 0.6,
             "commander": [
                 "Dennick, Pious Apprentice"
             ],
@@ -324,6 +331,7 @@
             "deck_id": "484911",
             "rank": "3-4",
             "player": "Laurent Sanchez",
+            "winrate": 0.6,
             "commander": [
                 "Killian, Ink Duelist"
             ],
@@ -425,9 +433,5 @@
                 "3 Swamp"
             ]
         }
-    ],
-    "name": "Mtg Tournament Var Dc 3.4",
-    "place": "Fight Club (La Crau, France)",
-    "players": "15 players",
-    "date": "26/08/22"
+    ]
 }

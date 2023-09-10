@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "35027",
+    "name": "Wool Cup 28",
+    "place": "Kadou (Beijing, China)",
+    "players": "9 players",
+    "date": "06/03/22",
     "decks": [
         {
             "deck_id": "464778",
             "rank": "1",
             "player": "Boran Gao",
+            "winrate": 1.0,
             "commander": [
                 "Grist, the Hunger Tide"
             ],
@@ -108,6 +113,7 @@
             "deck_id": "464779",
             "rank": "2",
             "player": "Hongchen Zhang",
+            "winrate": 0.8,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -191,9 +197,5 @@
                 "1 Skullclamp"
             ]
         }
-    ],
-    "name": "Wool Cup 28",
-    "place": "Kadou (Beijing, China)",
-    "players": "9 players",
-    "date": "06/03/22"
+    ]
 }

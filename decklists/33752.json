@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "33752",
+    "name": "RJ Cup 2021 #44",
+    "place": "League Castle (Mong Kok, Hong Kong)",
+    "players": "10 players",
+    "date": "04/12/21",
     "decks": [
         {
             "deck_id": "457254",
             "rank": "1",
             "player": "Pak Kei Leung",
+            "winrate": 1.0,
             "commander": [
                 "Galazeth Prismari"
             ],
@@ -101,6 +106,7 @@
             "deck_id": "457255",
             "rank": "2",
             "player": "Man Lok Wong",
+            "winrate": 0.8,
             "commander": [
                 "Saffi Eriksdotter"
             ],
@@ -201,9 +207,5 @@
                 "1 Yavimaya, Cradle of Growth"
             ]
         }
-    ],
-    "name": "RJ Cup 2021 #44",
-    "place": "League Castle (Mong Kok, Hong Kong)",
-    "players": "10 players",
-    "date": "04/12/21"
+    ]
 }

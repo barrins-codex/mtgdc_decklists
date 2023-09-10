@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "43725",
+    "name": "DC",
+    "place": "Manabolt (Limeira, Brazil)",
+    "players": "10 players",
+    "date": "22/04/23",
     "decks": [
         {
             "deck_id": "522832",
             "rank": "1",
             "player": "Pedro Bianchi",
+            "winrate": 1.0,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -111,6 +116,7 @@
             "deck_id": "522833",
             "rank": "2",
             "player": "Conja",
+            "winrate": 0.8,
             "commander": [
                 "Light-Paws, Emperor's Voice"
             ],
@@ -193,9 +199,5 @@
                 "1 Zealot's Conviction"
             ]
         }
-    ],
-    "name": "DC",
-    "place": "Manabolt (Limeira, Brazil)",
-    "players": "10 players",
-    "date": "22/04/23"
+    ]
 }

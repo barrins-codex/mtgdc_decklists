@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "32504",
+    "name": "Duel EDH v Gumárně č.1",
+    "place": "Čáslav (Czech Republic)",
+    "players": "9 players",
+    "date": "18/09/21",
     "decks": [
         {
             "deck_id": "449694",
             "rank": "1",
             "player": "Pavel Kuchař",
+            "winrate": 1.0,
             "commander": [
                 "Lavinia, Azorius Renegade"
             ],
@@ -94,6 +99,7 @@
             "deck_id": "449695",
             "rank": "2",
             "player": "Milan Nečas",
+            "winrate": 0.8,
             "commander": [
                 "Yawgmoth, Thran Physician"
             ],
@@ -166,9 +172,5 @@
                 "1 Zulaport Cutthroat"
             ]
         }
-    ],
-    "name": "Duel EDH v Gumárně č.1",
-    "place": "Čáslav (Czech Republic)",
-    "players": "9 players",
-    "date": "18/09/21"
+    ]
 }

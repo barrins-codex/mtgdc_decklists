@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "43527",
+    "name": "Lachesis Cup",
+    "place": "Nice Club (Wuxi,China)",
+    "players": "8 players",
+    "date": "15/04/23",
     "decks": [
         {
             "deck_id": "521519",
             "rank": "1",
             "player": "Dawei,gu",
+            "winrate": 1.0,
             "commander": [
                 "Yoshimaru, Ever Faithful",
                 "Jeska, Thrice Reborn"
@@ -111,6 +116,7 @@
             "deck_id": "521520",
             "rank": "2",
             "player": "Zhaoyang,liu",
+            "winrate": 0.6666666666666666,
             "commander": [
                 "Feldon, Ronom Excavator"
             ],
@@ -195,9 +201,5 @@
                 "1 Zurgo Bellstriker"
             ]
         }
-    ],
-    "name": "Lachesis Cup",
-    "place": "Nice Club (Wuxi,China)",
-    "players": "8 players",
-    "date": "15/04/23"
+    ]
 }

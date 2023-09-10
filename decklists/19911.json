@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "19911",
+    "name": "Duel Commander Tournament",
+    "place": "Regran Toys and Hobby, Philippines",
+    "players": "10 players",
+    "date": "18/08/18",
     "decks": [
         {
             "deck_id": "328785",
             "rank": "1",
             "player": "Tomee Tomelden",
+            "winrate": 1.0,
             "commander": [
                 "Will Kenrith",
                 "Rowan Kenrith"
@@ -88,6 +93,7 @@
             "deck_id": "328786",
             "rank": "2",
             "player": "Louie Siongco",
+            "winrate": 0.8,
             "commander": [
                 "Thrasios, Triton Hero",
                 "Tymna the Weaver"
@@ -190,9 +196,5 @@
                 "4 Forest"
             ]
         }
-    ],
-    "name": "Duel Commander Tournament",
-    "place": "Regran Toys and Hobby, Philippines",
-    "players": "10 players",
-    "date": "18/08/18"
+    ]
 }

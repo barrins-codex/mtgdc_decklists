@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "45037",
+    "name": "Wool Cup 66",
+    "place": "Kadou (Beijing, China)",
+    "players": "21 players",
+    "date": "11/06/23",
     "decks": [
         {
             "deck_id": "532440",
             "rank": "1",
             "player": "Yuchen Yang",
+            "winrate": 1.0,
             "commander": [
                 "Atraxa, Grand Unifier"
             ],
@@ -115,6 +120,7 @@
             "deck_id": "532441",
             "rank": "2",
             "player": "Yihan Ding",
+            "winrate": 0.8,
             "commander": [
                 "Grist, the Hunger Tide"
             ],
@@ -215,6 +221,7 @@
             "deck_id": "532442",
             "rank": "3",
             "player": "Yixuan Gao",
+            "winrate": 0.8,
             "commander": [
                 "Atraxa, Grand Unifier"
             ],
@@ -324,6 +331,7 @@
             "deck_id": "532443",
             "rank": "4",
             "player": "Ziqi Xi",
+            "winrate": 0.6,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -429,9 +437,5 @@
                 "1 Ayara's Oathsworn"
             ]
         }
-    ],
-    "name": "Wool Cup 66",
-    "place": "Kadou (Beijing, China)",
-    "players": "21 players",
-    "date": "11/06/23"
+    ]
 }

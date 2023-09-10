@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "7286",
+    "name": "Duel for the Duals #2 (Arnhem, Netherlands)",
+    "place": "",
+    "players": "17 players",
+    "date": "04/05/14",
     "decks": [
         {
             "deck_id": "241756",
             "rank": "1",
             "player": "Duco Weidema",
+            "winrate": 1.0,
             "commander": [
                 "Oloro, Ageless Ascetic"
             ],
@@ -114,6 +119,7 @@
             "deck_id": "241757",
             "rank": "2",
             "player": "Leroy la Fontaine",
+            "winrate": 0.8,
             "commander": [
                 "Jenara, Asura of War"
             ],
@@ -218,9 +224,5 @@
                 "1 Umezawa's Jitte"
             ]
         }
-    ],
-    "name": "Duel for the Duals #2 (Arnhem, Netherlands)",
-    "place": "",
-    "players": "17 players",
-    "date": "04/05/14"
+    ]
 }

@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "27767",
+    "name": "Sunday DC",
+    "place": "Contemp nook (Marikina City, Philippines)",
+    "players": "8 players",
+    "date": "11/10/20",
     "decks": [
         {
             "deck_id": "420394",
             "rank": "1",
             "player": "Agustin Ireneo",
+            "winrate": 1.0,
             "commander": [
                 "Nissa, Vastwood Seer"
             ],
@@ -96,6 +101,7 @@
             "deck_id": "420395",
             "rank": "2",
             "player": "Paul Relativo",
+            "winrate": 0.6666666666666666,
             "commander": [
                 "Niv-Mizzet Reborn"
             ],
@@ -201,9 +207,5 @@
                 "1 Zagoth Triome"
             ]
         }
-    ],
-    "name": "Sunday DC",
-    "place": "Contemp nook (Marikina City, Philippines)",
-    "players": "8 players",
-    "date": "11/10/20"
+    ]
 }

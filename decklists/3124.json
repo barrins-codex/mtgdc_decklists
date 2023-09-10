@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "3124",
+    "name": "EDH (Saint-Nazaire)",
+    "place": "",
+    "players": "68 players",
+    "date": "02/09/12",
     "decks": [
         {
             "deck_id": "219619",
             "rank": "1",
             "player": "Martial \"Mars\" Moreau",
+            "winrate": 0.9,
             "commander": [
                 "Ruhan of the Fomori"
             ],
@@ -106,6 +111,7 @@
             "deck_id": "219620",
             "rank": "2",
             "player": "Benjamin \"Benjamindu44\" François",
+            "winrate": 0.8,
             "commander": [
                 "Rhys the Redeemed"
             ],
@@ -206,6 +212,7 @@
             "deck_id": "219621",
             "rank": "3",
             "player": "Maxime Allée",
+            "winrate": 0.7777777777777778,
             "commander": [
                 "Karador, Ghost Chieftain"
             ],
@@ -315,6 +322,7 @@
             "deck_id": "219622",
             "rank": "4",
             "player": "Pierre \"LaPince\" Laisné",
+            "winrate": 0.7777777777777778,
             "commander": [
                 "Maelstrom Wanderer"
             ],
@@ -424,6 +432,7 @@
             "deck_id": "219623",
             "rank": "5",
             "player": "Claire Genest",
+            "winrate": 0.7777777777777778,
             "commander": [
                 "Griselbrand"
             ],
@@ -505,6 +514,7 @@
             "deck_id": "219624",
             "rank": "6",
             "player": "Thomas Orsini",
+            "winrate": 0.7777777777777778,
             "commander": [
                 "Talrand, Sky Summoner"
             ],
@@ -592,6 +602,7 @@
             "deck_id": "219625",
             "rank": "7",
             "player": "Alexis Toublanc",
+            "winrate": 0.7777777777777778,
             "commander": [
                 "Edric, Spymaster of Trest"
             ],
@@ -690,6 +701,7 @@
             "deck_id": "219626",
             "rank": "8",
             "player": "Stéphane Riou",
+            "winrate": 0.7777777777777778,
             "commander": [
                 "Griselbrand"
             ],
@@ -768,9 +780,5 @@
                 "1 Massacre"
             ]
         }
-    ],
-    "name": "EDH (Saint-Nazaire)",
-    "place": "",
-    "players": "68 players",
-    "date": "02/09/12"
+    ]
 }

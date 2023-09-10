@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "27170",
+    "name": "Duel Commander",
+    "place": "Le Vizz (Rouen, France)",
+    "players": "18 players",
+    "date": "29/08/20",
     "decks": [
         {
             "deck_id": "413776",
             "rank": "2",
             "player": "Diego \"dmyr\" Rio",
+            "winrate": 0.8,
             "commander": [
                 "Jirina Kudro"
             ],
@@ -115,6 +120,7 @@
             "deck_id": "413777",
             "rank": "2",
             "player": "Julien Boulet",
+            "winrate": 0.8,
             "commander": [
                 "Yorion, Sky Nomad"
             ],
@@ -212,6 +218,7 @@
             "deck_id": "413778",
             "rank": "3-4",
             "player": "Idris Achouri",
+            "winrate": 0.8,
             "commander": [
                 "Azusa, Lost but Seeking"
             ],
@@ -310,6 +317,7 @@
             "deck_id": "413779",
             "rank": "3-4",
             "player": "Shandra Ickowicz",
+            "winrate": 0.8,
             "commander": [
                 "Daretti, Scrap Savant"
             ],
@@ -395,9 +403,5 @@
                 "1 Tectonic Edge"
             ]
         }
-    ],
-    "name": "Duel Commander",
-    "place": "Le Vizz (Rouen, France)",
-    "players": "18 players",
-    "date": "29/08/20"
+    ]
 }

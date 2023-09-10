@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "38186",
+    "name": "Mtg Var Tournament Dc 3.5",
+    "place": "Fight Club (La Crau, France)",
+    "players": "20 players",
+    "date": "02/09/22",
     "decks": [
         {
             "deck_id": "485520",
             "rank": "1",
-            "player": "Loïc Baverel ",
+            "player": "Loïc Baverel",
+            "winrate": 1.0,
             "commander": [
                 "Saskia the Unyielding"
             ],
@@ -115,6 +120,7 @@
             "deck_id": "485521",
             "rank": "2",
             "player": "Pierre-louis Biet",
+            "winrate": 0.8,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -224,6 +230,7 @@
             "deck_id": "485522",
             "rank": "3-4",
             "player": "Edouard Lecocq",
+            "winrate": 0.8,
             "commander": [
                 "Dennick, Pious Apprentice"
             ],
@@ -324,6 +331,7 @@
             "deck_id": "485523",
             "rank": "3-4",
             "player": "Alexandre Andouard",
+            "winrate": 0.8,
             "commander": [
                 "Slogurk, the Overslime"
             ],
@@ -416,9 +424,5 @@
                 "11 Snow-Covered Island"
             ]
         }
-    ],
-    "name": "Mtg Var Tournament Dc 3.5",
-    "place": "Fight Club (La Crau, France)",
-    "players": "20 players",
-    "date": "02/09/22"
+    ]
 }

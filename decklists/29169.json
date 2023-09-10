@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "29169",
+    "name": "Cup",
+    "place": "Mana Underground (Lagro QC, Philippines)",
+    "players": "30 players",
+    "date": "06/02/21",
     "decks": [
         {
             "deck_id": "429629",
             "rank": "1",
             "player": "John Daroen Sahagun",
+            "winrate": 1.0,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -115,6 +120,7 @@
             "deck_id": "429630",
             "rank": "2",
             "player": "Bruce Kho Valero",
+            "winrate": 0.8,
             "commander": [
                 "Karlov of the Ghost Council"
             ],
@@ -221,6 +227,7 @@
             "deck_id": "429631",
             "rank": "3",
             "player": "Ryan Simon Payabyab",
+            "winrate": 0.8,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -330,6 +337,7 @@
             "deck_id": "429632",
             "rank": "4",
             "player": "Lawrence Samaniego",
+            "winrate": 0.8,
             "commander": [
                 "Ludevic, Necro-Alchemist",
                 "Kraum, Ludevic's Opus"
@@ -421,6 +429,7 @@
             "deck_id": "429633",
             "rank": "5",
             "player": "Guillermo Cortezo",
+            "winrate": 0.6,
             "commander": [
                 "Golos, Tireless Pilgrim"
             ],
@@ -530,6 +539,7 @@
             "deck_id": "429634",
             "rank": "6",
             "player": "Exequiel Brian Lim",
+            "winrate": 0.6,
             "commander": [
                 "Titania, Protector of Argoth"
             ],
@@ -625,6 +635,7 @@
             "deck_id": "429635",
             "rank": "7",
             "player": "Jasper Feliciano",
+            "winrate": 0.6,
             "commander": [
                 "Winota, Joiner of Forces"
             ],
@@ -724,6 +735,7 @@
             "deck_id": "429636",
             "rank": "8",
             "player": "Ste Villaraza",
+            "winrate": 0.6,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -829,9 +841,5 @@
                 "1 Yorion, Sky Nomad"
             ]
         }
-    ],
-    "name": "Cup",
-    "place": "Mana Underground (Lagro QC, Philippines)",
-    "players": "30 players",
-    "date": "06/02/21"
+    ]
 }

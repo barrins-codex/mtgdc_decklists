@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "34383",
+    "name": "7th Webcam-League",
+    "place": "Leipzig (Germany)",
+    "players": "8 players",
+    "date": "21/01/22",
     "decks": [
         {
             "deck_id": "461085",
             "rank": "1",
             "player": "Sebastian Kött",
+            "winrate": 1.0,
             "commander": [
                 "Grenzo, Dungeon Warden"
             ],
@@ -102,6 +107,7 @@
             "deck_id": "461086",
             "rank": "2",
             "player": "Jonas Jörns",
+            "winrate": 0.6666666666666666,
             "commander": [
                 "Kelsien, the Plague"
             ],
@@ -207,9 +213,5 @@
                 "1 Blood Crypt"
             ]
         }
-    ],
-    "name": "7th Webcam-League",
-    "place": "Leipzig (Germany)",
-    "players": "8 players",
-    "date": "21/01/22"
+    ]
 }

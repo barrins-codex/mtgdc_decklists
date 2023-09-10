@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "33911",
+    "name": "Duel commander online 3",
+    "place": "France",
+    "players": "20 players",
+    "date": "18/12/21",
     "decks": [
         {
             "deck_id": "458210",
             "rank": "1",
             "player": "Adrien Gau",
+            "winrate": 1.0,
             "commander": [
                 "Kess, Dissident Mage"
             ],
@@ -115,6 +120,7 @@
             "deck_id": "458211",
             "rank": "2",
             "player": "Franc St.",
+            "winrate": 0.8,
             "commander": [
                 "The Gitrog Monster"
             ],
@@ -219,6 +225,7 @@
             "deck_id": "458212",
             "rank": "3-4",
             "player": "Marc",
+            "winrate": 0.8,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -328,6 +335,7 @@
             "deck_id": "458213",
             "rank": "3-4",
             "player": "Fred",
+            "winrate": 0.8,
             "commander": [
                 "Kess, Dissident Mage"
             ],
@@ -433,9 +441,5 @@
                 "1 Fiery Islet"
             ]
         }
-    ],
-    "name": "Duel commander online 3",
-    "place": "France",
-    "players": "20 players",
-    "date": "18/12/21"
+    ]
 }

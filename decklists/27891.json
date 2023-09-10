@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "27891",
+    "name": "RJ Cup",
+    "place": "League Castle (Mong Kok, Hong Kok)",
+    "players": "8 players",
+    "date": "26/10/20",
     "decks": [
         {
             "deck_id": "421218",
             "rank": "1",
             "player": "Wong Man Lok",
+            "winrate": 1.0,
             "commander": [
                 "Kinnan, Bonder Prodigy"
             ],
@@ -110,6 +115,7 @@
             "deck_id": "421219",
             "rank": "2",
             "player": "Jack Ho",
+            "winrate": 0.6666666666666666,
             "commander": [
                 "Omnath, Locus of Creation"
             ],
@@ -208,9 +214,5 @@
                 "1 Izzet Charm"
             ]
         }
-    ],
-    "name": "RJ Cup",
-    "place": "League Castle (Mong Kok, Hong Kok)",
-    "players": "8 players",
-    "date": "26/10/20"
+    ]
 }

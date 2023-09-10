@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "33092",
+    "name": "Tropical Island For a Cause",
+    "place": "Mana Underground (Lagro, Philippines)",
+    "players": "25 players",
+    "date": "31/10/21",
     "decks": [
         {
             "deck_id": "453052",
             "rank": "1",
             "player": "Jarbs Sahagun",
+            "winrate": 1.0,
             "commander": [
                 "Livio, Oathsworn Sentinel",
                 "Sakashima of a Thousand Faces"
@@ -104,6 +109,7 @@
             "deck_id": "453053",
             "rank": "2",
             "player": "Jonathan Bagotlo",
+            "winrate": 0.8,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -188,6 +194,7 @@
             "deck_id": "453054",
             "rank": "3-4",
             "player": "Rexel Tenorio",
+            "winrate": 0.8,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -297,6 +304,7 @@
             "deck_id": "453055",
             "rank": "3-4",
             "player": "Exequiel \"pando\" Lim",
+            "winrate": 0.8,
             "commander": [
                 "Titania, Protector of Argoth"
             ],
@@ -392,6 +400,7 @@
             "deck_id": "453056",
             "rank": "5-8",
             "player": "Chris Abgon",
+            "winrate": 0.6,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -479,6 +488,7 @@
             "deck_id": "453057",
             "rank": "5-8",
             "player": "Roi \"kadamay\" Dagang",
+            "winrate": 0.6,
             "commander": [
                 "Klothys, God of Destiny"
             ],
@@ -580,6 +590,7 @@
             "deck_id": "453058",
             "rank": "5-8",
             "player": "Gabe Enriquez",
+            "winrate": 0.6,
             "commander": [
                 "Malcolm, Keen-Eyed Navigator",
                 "Kraum, Ludevic's Opus"
@@ -675,6 +686,7 @@
             "deck_id": "453059",
             "rank": "5-8",
             "player": "Glenn Alesna",
+            "winrate": 0.6,
             "commander": [
                 "Tajic, Legion's Edge"
             ],
@@ -771,9 +783,5 @@
                 "1 Zurgo Bellstriker"
             ]
         }
-    ],
-    "name": "Tropical Island For a Cause",
-    "place": "Mana Underground (Lagro, Philippines)",
-    "players": "25 players",
-    "date": "31/10/21"
+    ]
 }

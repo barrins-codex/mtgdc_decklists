@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "21632",
+    "name": "Online Tournament #2",
+    "place": "MagicVille",
+    "players": "8 players",
+    "date": "14/04/19",
     "decks": [
         {
             "deck_id": "345245",
             "rank": "1",
             "player": "Kaourintin \"falaakr\" Le Guiban",
+            "winrate": 1.0,
             "commander": [
                 "Silas Renn, Seeker Adept",
                 "Akiri, Line-Slinger"
@@ -115,6 +120,7 @@
             "deck_id": "346258",
             "rank": "2",
             "player": "Juzaamrecall",
+            "winrate": 0.6666666666666666,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -220,9 +226,5 @@
                 "1 Arid Mesa"
             ]
         }
-    ],
-    "name": "Online Tournament #2",
-    "place": "MagicVille",
-    "players": "8 players",
-    "date": "14/04/19"
+    ]
 }

@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "29818",
+    "name": "Opening tour duel",
+    "place": "Tapped Games (Marikina City, Philippines)",
+    "players": "12 players",
+    "date": "20/03/21",
     "decks": [
         {
             "deck_id": "433532",
             "rank": "1",
             "player": "Christian Agbon",
+            "winrate": 1.0,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -90,6 +95,7 @@
             "deck_id": "433533",
             "rank": "2",
             "player": "Reuben Ferrer",
+            "winrate": 0.8,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -199,6 +205,7 @@
             "deck_id": "433534",
             "rank": "3",
             "player": "Iverson Wayne Bulauan",
+            "winrate": 0.6,
             "commander": [
                 "Reyhan, Last of the Abzan",
                 "Tana, the Bloodsower"
@@ -297,9 +304,5 @@
                 "3 Forest"
             ]
         }
-    ],
-    "name": "Opening tour duel",
-    "place": "Tapped Games (Marikina City, Philippines)",
-    "players": "12 players",
-    "date": "20/03/21"
+    ]
 }

@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "35832",
+    "name": "Weekly Challenge",
+    "place": "Mana Underground (Lagro, Philippines)",
+    "players": "14 players",
+    "date": "16/04/22",
     "decks": [
         {
             "deck_id": "470166",
             "rank": "1",
             "player": "Exequiel 'pando' Lim",
+            "winrate": 1.0,
             "commander": [
                 "Titania, Protector of Argoth"
             ],
@@ -102,6 +107,7 @@
             "deck_id": "470167",
             "rank": "2",
             "player": "Robert Soriano",
+            "winrate": 0.8,
             "commander": [
                 "Grist, the Hunger Tide"
             ],
@@ -202,9 +208,5 @@
                 "1 Yavimaya, Cradle of Growth"
             ]
         }
-    ],
-    "name": "Weekly Challenge",
-    "place": "Mana Underground (Lagro, Philippines)",
-    "players": "14 players",
-    "date": "16/04/22"
+    ]
 }

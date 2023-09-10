@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
-    "id": 46065,
+    "id": "46065",
+    "name": "Kapayapaan Tourney",
+    "place": "Aling Marings Dojo (Rizal, Philippines)",
+    "players": "19 players",
+    "date": "16/07/23",
     "decks": [
         {
             "deck_id": "540412",
             "rank": "1",
             "player": "Jomar Co",
+            "winrate": 1.0,
             "commander": [
                 "Éomer, Marshal of Rohan"
             ],
@@ -88,6 +93,7 @@
             "deck_id": "540413",
             "rank": "2",
             "player": "Deej \"el Cholo Loco\" Miranda",
+            "winrate": 0.8,
             "commander": [
                 "Merry, Esquire of Rohan"
             ],
@@ -193,6 +199,7 @@
             "deck_id": "540414",
             "rank": "3",
             "player": "Edison Gabutero",
+            "winrate": 0.8,
             "commander": [
                 "Reyhan, Last of the Abzan",
                 "Yoshimaru, Ever Faithful"
@@ -295,9 +302,5 @@
                 "1 Umezawa's Jitte"
             ]
         }
-    ],
-    "name": "Kapayapaan Tourney",
-    "place": "Aling Marings Dojo (Rizal, Philippines)",
-    "players": "19 players",
-    "date": "16/07/23"
+    ]
 }

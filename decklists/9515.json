@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "9515",
+    "name": "Link Nîmes Super Challenge 6 (Nîmes)",
+    "place": "",
+    "players": "33 players",
+    "date": "11/04/15",
     "decks": [
         {
             "deck_id": "254641",
             "rank": "1",
             "player": "Noham Maubert",
+            "winrate": 0.7777777777777778,
             "commander": [
                 "Prossh, Skyraider of Kher"
             ],
@@ -115,6 +120,7 @@
             "deck_id": "254642",
             "rank": "2",
             "player": "Thomas Guedj",
+            "winrate": 0.6666666666666666,
             "commander": [
                 "Vendilion Clique"
             ],
@@ -195,6 +201,7 @@
             "deck_id": "254643",
             "rank": "3-4",
             "player": "Bastien Coutarel",
+            "winrate": 0.625,
             "commander": [
                 "Daretti, Scrap Savant"
             ],
@@ -277,6 +284,7 @@
             "deck_id": "254644",
             "rank": "3-4",
             "player": "Steve Bringtown",
+            "winrate": 0.625,
             "commander": [
                 "Grand Arbiter Augustin IV"
             ],
@@ -367,9 +375,5 @@
                 "1 Adarkar Wastes"
             ]
         }
-    ],
-    "name": "Link Nîmes Super Challenge 6 (Nîmes)",
-    "place": "",
-    "players": "33 players",
-    "date": "11/04/15"
+    ]
 }

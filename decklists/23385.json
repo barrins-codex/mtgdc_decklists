@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "23385",
+    "name": "Trial Trole de Zap",
+    "place": "Châteauroux (France)",
+    "players": "8 players",
+    "date": "12/10/19",
     "decks": [
         {
             "deck_id": "361366",
             "rank": "1",
             "player": "Rullaud Quentin",
+            "winrate": 1.0,
             "commander": [
                 "Niv-Mizzet Reborn"
             ],
@@ -115,6 +120,7 @@
             "deck_id": "361367",
             "rank": "2",
             "player": "Payan Gregoire",
+            "winrate": 0.6666666666666666,
             "commander": [
                 "Narset, Enlightened Master"
             ],
@@ -216,9 +222,5 @@
                 "1 Brainstorm"
             ]
         }
-    ],
-    "name": "Trial Trole de Zap",
-    "place": "Châteauroux (France)",
-    "players": "8 players",
-    "date": "12/10/19"
+    ]
 }

@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "44343",
+    "name": "Lachesis Cup",
+    "place": "Nice Club (Wuxi,China)",
+    "players": "10 players",
+    "date": "14/05/23",
     "decks": [
         {
             "deck_id": "527127",
             "rank": "1",
             "player": "Jia Wei,chen",
+            "winrate": 1.0,
             "commander": [
                 "The Beamtown Bullies"
             ],
@@ -115,6 +120,7 @@
             "deck_id": "527128",
             "rank": "2",
             "player": "Dawei,gu",
+            "winrate": 0.8,
             "commander": [
                 "Sword Coast Sailor",
                 "Wilson, Refined Grizzly"
@@ -216,9 +222,5 @@
                 "1 Yavimaya Hollow"
             ]
         }
-    ],
-    "name": "Lachesis Cup",
-    "place": "Nice Club (Wuxi,China)",
-    "players": "10 players",
-    "date": "14/05/23"
+    ]
 }

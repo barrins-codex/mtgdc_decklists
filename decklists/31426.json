@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "31426",
+    "name": "Weekly DC",
+    "place": "Santos (Brazil)",
+    "players": "11 players",
+    "date": "06/07/21",
     "decks": [
         {
             "deck_id": "443652",
             "rank": "1",
             "player": "Felipe Santos",
+            "winrate": 1.0,
             "commander": [
                 "Inalla, Archmage Ritualist"
             ],
@@ -115,6 +120,7 @@
             "deck_id": "443653",
             "rank": "2",
             "player": "Felipe Batista",
+            "winrate": 0.8,
             "commander": [
                 "Yawgmoth, Thran Physician"
             ],
@@ -198,6 +204,7 @@
             "deck_id": "443654",
             "rank": "3-4",
             "player": "Leonardo Maeda",
+            "winrate": 0.6,
             "commander": [
                 "Grist, the Hunger Tide"
             ],
@@ -292,6 +299,7 @@
             "deck_id": "443655",
             "rank": "3-4",
             "player": "Artur Pacheco",
+            "winrate": 0.6,
             "commander": [
                 "Winota, Joiner of Forces"
             ],
@@ -386,9 +394,5 @@
                 "1 Zurgo Bellstriker"
             ]
         }
-    ],
-    "name": "Weekly DC",
-    "place": "Santos (Brazil)",
-    "players": "11 players",
-    "date": "06/07/21"
+    ]
 }

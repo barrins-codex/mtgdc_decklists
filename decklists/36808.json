@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "36808",
+    "name": "FNM",
+    "place": "City Comics (Leipzig, Germany)",
+    "players": "13 players",
+    "date": "09/06/22",
     "decks": [
         {
             "deck_id": "476693",
             "rank": "1",
             "player": "Jonas Kretzschmar",
+            "winrate": 1.0,
             "commander": [
                 "Isamaru, Hound of Konda"
             ],
@@ -93,6 +98,7 @@
             "deck_id": "476694",
             "rank": "2",
             "player": "Femi Heartman",
+            "winrate": 0.8,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -168,9 +174,5 @@
                 "1 Zurgo Bellstriker"
             ]
         }
-    ],
-    "name": "FNM",
-    "place": "City Comics (Leipzig, Germany)",
-    "players": "13 players",
-    "date": "09/06/22"
+    ]
 }

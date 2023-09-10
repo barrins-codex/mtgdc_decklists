@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "27864",
+    "name": "Chicken-Pie Cup",
+    "place": "FanYun Store (NanJing, China)",
+    "players": "8 players",
+    "date": "24/10/20",
     "decks": [
         {
             "deck_id": "421033",
             "rank": "1",
             "player": "Ziyan,rong",
+            "winrate": 1.0,
             "commander": [
                 "Omnath, Locus of Creation"
             ],
@@ -113,6 +118,7 @@
             "deck_id": "421036",
             "rank": "2",
             "player": "Jingting,wu",
+            "winrate": 0.6666666666666666,
             "commander": [
                 "Omnath, Locus of Creation"
             ],
@@ -216,9 +222,5 @@
                 "1 Future Sight"
             ]
         }
-    ],
-    "name": "Chicken-Pie Cup",
-    "place": "FanYun Store (NanJing, China)",
-    "players": "8 players",
-    "date": "24/10/20"
+    ]
 }

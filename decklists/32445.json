@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "32445",
+    "name": "Trial n°2 FACT",
+    "place": "Lyon (France)",
+    "players": "30 players",
+    "date": "18/09/21",
     "decks": [
         {
             "deck_id": "449375",
             "rank": "1",
             "player": "Jules Lestienne",
+            "winrate": 1.0,
             "commander": [
                 "Asmoranomardicadaistinaculdacar"
             ],
@@ -111,6 +116,7 @@
             "deck_id": "449376",
             "rank": "2",
             "player": "Renaud \"Hyps\" Besson",
+            "winrate": 0.8,
             "commander": [
                 "Grist, the Hunger Tide"
             ],
@@ -208,6 +214,7 @@
             "deck_id": "449377",
             "rank": "3-4",
             "player": "Vincent \"Kizumeh\" Ringuedé",
+            "winrate": 0.8,
             "commander": [
                 "Asmoranomardicadaistinaculdacar"
             ],
@@ -310,6 +317,7 @@
             "deck_id": "449378",
             "rank": "3-4",
             "player": "Erwann \"Kroloc\" Brunel",
+            "winrate": 0.8,
             "commander": [
                 "Winota, Joiner of Forces"
             ],
@@ -404,9 +412,5 @@
                 "8 Snow-Covered Plains"
             ]
         }
-    ],
-    "name": "Trial n°2 FACT",
-    "place": "Lyon (France)",
-    "players": "30 players",
-    "date": "18/09/21"
+    ]
 }

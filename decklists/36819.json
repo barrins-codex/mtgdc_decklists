@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "36819",
+    "name": "World BloodDonor Day Event",
+    "place": "Caverna do Dragão (Santos-SP, Brazil)",
+    "players": "18 players",
+    "date": "14/06/22",
     "decks": [
         {
             "deck_id": "476750",
             "rank": "1",
             "player": "Thiago Saporito",
+            "winrate": 1.0,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -110,6 +115,7 @@
             "deck_id": "476751",
             "rank": "2",
             "player": "Orlando Bibiano",
+            "winrate": 0.8,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -192,6 +198,7 @@
             "deck_id": "476752",
             "rank": "3-4",
             "player": "Fernando \"yprincipe\" Martin",
+            "winrate": 0.8,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -301,6 +308,7 @@
             "deck_id": "476753",
             "rank": "3-4",
             "player": "Leonardo Maeda",
+            "winrate": 0.8,
             "commander": [
                 "Titania, Protector of Argoth"
             ],
@@ -386,9 +394,5 @@
                 "1 Zuran Orb"
             ]
         }
-    ],
-    "name": "World BloodDonor Day Event",
-    "place": "Caverna do Dragão (Santos-SP, Brazil)",
-    "players": "18 players",
-    "date": "14/06/22"
+    ]
 }

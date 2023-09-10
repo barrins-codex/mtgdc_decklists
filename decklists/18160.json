@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "18160",
+    "name": "Hiveworld Cologne FNM",
+    "place": "",
+    "players": "12 players",
+    "date": "12/01/18",
     "decks": [
         {
             "deck_id": "312562",
             "rank": "1",
             "player": "Richard Müller",
+            "winrate": 1.0,
             "commander": [
                 "Prossh, Skyraider of Kher"
             ],
@@ -101,6 +106,7 @@
             "deck_id": "312563",
             "rank": "2",
             "player": "Alexander Schmoll",
+            "winrate": 0.8,
             "commander": [
                 "Karlov of the Ghost Council"
             ],
@@ -200,9 +206,5 @@
                 "1 Godless Shrine"
             ]
         }
-    ],
-    "name": "Hiveworld Cologne FNM",
-    "place": "",
-    "players": "12 players",
-    "date": "12/01/18"
+    ]
 }

@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "23538",
+    "name": "DC",
+    "place": "ludis factory (Pontivy, France)",
+    "players": "20 players",
+    "date": "27/10/19",
     "decks": [
         {
             "deck_id": "362937",
             "rank": "1",
             "player": "Jean-louis Collet",
+            "winrate": 1.0,
             "commander": [
                 "Titania, Protector of Argoth"
             ],
@@ -96,9 +101,5 @@
                 "1 Boreal Druid"
             ]
         }
-    ],
-    "name": "DC",
-    "place": "ludis factory (Pontivy, France)",
-    "players": "20 players",
-    "date": "27/10/19"
+    ]
 }

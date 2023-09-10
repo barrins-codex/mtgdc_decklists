@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "11104",
+    "name": "Shanghai Commander Master",
+    "place": "",
+    "players": "24 players",
+    "date": "13/12/15",
     "decks": [
         {
             "deck_id": "263176",
             "rank": "1",
             "player": "Yang Yang",
+            "winrate": 1.0,
             "commander": [
                 "Tasigur, the Golden Fang"
             ],
@@ -115,6 +120,7 @@
             "deck_id": "263177",
             "rank": "2",
             "player": "Shen Shiyang",
+            "winrate": 0.8,
             "commander": [
                 "Surrak Dragonclaw"
             ],
@@ -220,6 +226,7 @@
             "deck_id": "263178",
             "rank": "3-4",
             "player": "Hu Minzhe",
+            "winrate": 0.8,
             "commander": [
                 "Marath, Will of the Wild"
             ],
@@ -327,6 +334,7 @@
             "deck_id": "263179",
             "rank": "3-4",
             "player": "Dai Wenbin",
+            "winrate": 0.8,
             "commander": [
                 "Tasigur, the Golden Fang"
             ],
@@ -429,9 +437,5 @@
                 "3 Island"
             ]
         }
-    ],
-    "name": "Shanghai Commander Master",
-    "place": "",
-    "players": "24 players",
-    "date": "13/12/15"
+    ]
 }

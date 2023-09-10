@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "45227",
+    "name": "Weekly DC",
+    "place": "Slow Drake (Beijing, China)",
+    "players": "12 players",
+    "date": "17/06/23",
     "decks": [
         {
             "deck_id": "533855",
             "rank": "1",
             "player": "Shuyao Liu",
+            "winrate": 1.0,
             "commander": [
                 "Bruse Tarl, Boorish Herder",
                 "Yoshimaru, Ever Faithful"
@@ -110,6 +115,7 @@
             "deck_id": "533856",
             "rank": "2",
             "player": "Yihan Ding",
+            "winrate": 0.8,
             "commander": [
                 "Grist, the Hunger Tide"
             ],
@@ -206,9 +212,5 @@
                 "1 Young Wolf"
             ]
         }
-    ],
-    "name": "Weekly DC",
-    "place": "Slow Drake (Beijing, China)",
-    "players": "12 players",
-    "date": "17/06/23"
+    ]
 }

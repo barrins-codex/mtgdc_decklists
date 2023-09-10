@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "40777",
+    "name": "La Guilde - Open Qualifier",
+    "place": "La Rochelle (France)",
+    "players": "20 players",
+    "date": "14/01/23",
     "decks": [
         {
             "deck_id": "503347",
             "rank": "1",
             "player": "Alexis Mommée",
+            "winrate": 1.0,
             "commander": [
                 "Niv-Mizzet Reborn"
             ],
@@ -115,6 +120,7 @@
             "deck_id": "503348",
             "rank": "2",
             "player": "Clément Selles",
+            "winrate": 0.8,
             "commander": [
                 "Jeska, Thrice Reborn",
                 "Kraum, Ludevic's Opus"
@@ -211,6 +217,7 @@
             "deck_id": "503349",
             "rank": "3-4",
             "player": "Domino Pernes",
+            "winrate": 0.8,
             "commander": [
                 "Sword Coast Sailor",
                 "Wilson, Refined Grizzly"
@@ -310,37 +317,13 @@
             "deck_id": "503350",
             "rank": "3-4",
             "player": "Damienade",
+            "winrate": 0.8,
             "commander": [
-                "Wernog, Rider's Chaplain",
-                "Cecily, Haunted Mage"
+                "Cecily, Haunted Mage",
+                "Wernog, Rider's Chaplain"
             ],
             "decklist": [
-                "1 Expressive Iteration",
-                "1 Flame Slash",
-                "1 Force of Will",
-                "1 Force Spike",
-                "1 Gitaxian Probe",
-                "1 Inquisition of Kozilek",
-                "1 Intuition",
-                "1 Leyline Binding",
-                "1 Lightning Bolt",
-                "1 Lose Focus",
-                "1 Lotus Petal",
-                "1 Mana Leak",
-                "1 Mana Tithe",
-                "1 Memory Deluge",
-                "1 Memory Lapse",
-                "1 Night's Whisper",
-                "1 Fatal Push",
-                "1 Arcane Signet",
-                "1 Balance",
-                "1 Brain Freeze",
-                "1 Brainstorm",
-                "1 Oust",
-                "1 Counterspell",
-                "1 Cryptic Command",
                 "1 Cut Down",
-                "1 Damn",
                 "1 Deadly Rollick",
                 "1 Demonic Tutor",
                 "1 Drown in the Loch",
@@ -362,7 +345,32 @@
                 "1 Profane Tutor",
                 "1 Rain of Filth",
                 "1 Solve the Equation",
+                "1 Damn",
+                "1 Expressive Iteration",
+                "1 Flame Slash",
+                "1 Force of Will",
+                "1 Force Spike",
+                "1 Gitaxian Probe",
+                "1 Inquisition of Kozilek",
+                "1 Intuition",
+                "1 Leyline Binding",
+                "1 Lightning Bolt",
+                "1 Lose Focus",
+                "1 Lotus Petal",
                 "1 Rip Apart",
+                "1 Mana Tithe",
+                "1 Memory Deluge",
+                "1 Memory Lapse",
+                "1 Night's Whisper",
+                "1 Fatal Push",
+                "1 Arcane Signet",
+                "1 Balance",
+                "1 Brain Freeze",
+                "1 Brainstorm",
+                "1 Oust",
+                "1 Counterspell",
+                "1 Cryptic Command",
+                "1 Mana Leak",
                 "1 Sevinne's Reclamation",
                 "1 Shadow Prophecy",
                 "1 Shorikai, Genesis Engine",
@@ -372,10 +380,34 @@
                 "1 Spellseeker",
                 "1 Wall of Omens",
                 "1 Solitude",
+                "1 Command Tower",
+                "1 Steam Vents",
+                "1 Swamp",
+                "1 Path of Ancestry",
+                "1 Underground River",
+                "1 Underground Sea",
+                "1 Verdant Catacombs",
+                "1 Volcanic Island",
+                "1 Watery Grave",
+                "1 Windswept Heath",
+                "1 Wooded Foothills",
+                "1 Tundra",
+                "1 Plateau",
+                "1 Polluted Delta",
+                "1 Raffine's Tower",
+                "1 Raugrin Triome",
+                "1 Reflecting Pool",
+                "1 River of Tears",
+                "1 Savai Triome",
+                "1 Scalding Tarn",
+                "1 Scrubland",
+                "1 Seachrome Coast",
+                "1 Shipwreck Marsh",
+                "1 Xander's Lounge",
                 "1 Flooded Strand",
                 "1 Glacial Fortress",
                 "1 Hallowed Fountain",
-                "1 Haunted Ridge",
+                "1 Drowned Catacomb",
                 "1 Marsh Flats",
                 "1 Misty Rainforest",
                 "1 Arid Mesa",
@@ -388,37 +420,27 @@
                 "1 Creeping Tar Pit",
                 "1 Darkslick Shores",
                 "1 Deserted Beach",
-                "1 Drowned Catacomb",
-                "1 Command Tower",
-                "1 Steam Vents",
-                "1 Swamp",
-                "1 Path of Ancestry",
-                "1 Underground River",
-                "1 Underground Sea",
-                "1 Verdant Catacombs",
-                "1 Volcanic Island",
-                "1 Watery Grave",
-                "1 Windswept Heath",
-                "1 Wooded Foothills",
-                "1 Xander's Lounge",
-                "1 Tundra",
-                "1 Plateau",
-                "1 Polluted Delta",
-                "1 Raffine's Tower",
-                "1 Raugrin Triome",
-                "1 Reflecting Pool",
-                "1 River of Tears",
-                "1 Savai Triome",
-                "1 Scalding Tarn",
-                "1 Scrubland",
-                "1 Seachrome Coast",
-                "1 Shipwreck Marsh"
+                "1 Haunted Ridge"
+            ]
+        },
+        {
+            "deck_id": "503351",
+            "rank": "5-8",
+            "player": "Quentin T",
+            "winrate": 0.6,
+            "commander": [
+                "Klothys, God of Destiny"
+            ],
+            "decklist": [
+                "1 Erase",
+                "98 Mountain"
             ]
         },
         {
             "deck_id": "503352",
             "rank": "5-8",
             "player": "Ambroise Berthe",
+            "winrate": 0.6,
             "commander": [
                 "Acererak the Archlich"
             ],
@@ -490,6 +512,7 @@
             "deck_id": "503353",
             "rank": "5-8",
             "player": "Lucas Forlacroix",
+            "winrate": 0.6,
             "commander": [
                 "The Ur-Dragon"
             ],
@@ -599,6 +622,7 @@
             "deck_id": "503354",
             "rank": "5-8",
             "player": "Sébastien Rhaegar",
+            "winrate": 0.6,
             "commander": [
                 "Kelsien, the Plague"
             ],
@@ -703,22 +727,6 @@
                 "1 Windswept Heath",
                 "1 Wooded Foothills"
             ]
-        },
-        {
-            "deck_id": "503351",
-            "rank": "5-8",
-            "player": "Quentin T",
-            "commander": [
-                "Klothys, God of Destiny"
-            ],
-            "decklist": [
-                "1 Erase",
-                "98 Mountain"
-            ]
         }
-    ],
-    "name": "La Guilde - Open Qualifier",
-    "place": "La Rochelle (France)",
-    "players": "20 players",
-    "date": "14/01/23"
+    ]
 }

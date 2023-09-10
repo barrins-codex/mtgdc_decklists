@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "30888",
+    "name": "Hongyu Commander Challenge",
+    "place": "Hefei（China）",
+    "players": "8 players",
+    "date": "30/05/21",
     "decks": [
         {
             "deck_id": "440237",
             "rank": "1",
             "player": "Jingyi Pan",
+            "winrate": 1.0,
             "commander": [
                 "Niv-Mizzet Reborn"
             ],
@@ -115,6 +120,7 @@
             "deck_id": "440238",
             "rank": "2",
             "player": "Jsd",
+            "winrate": 0.6666666666666666,
             "commander": [
                 "Malcolm, Keen-Eyed Navigator",
                 "Kraum, Ludevic's Opus"
@@ -211,9 +217,5 @@
                 "7 Snow-Covered Island"
             ]
         }
-    ],
-    "name": "Hongyu Commander Challenge",
-    "place": "Hefei（China）",
-    "players": "8 players",
-    "date": "30/05/21"
+    ]
 }

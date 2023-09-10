@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "15822",
+    "name": "FNM Hiveworld",
+    "place": "",
+    "players": "11 players",
+    "date": "09/06/17",
     "decks": [
         {
             "deck_id": "297101",
             "rank": "1",
             "player": "Richard Müller",
+            "winrate": 1.0,
             "commander": [
                 "Prossh, Skyraider of Kher"
             ],
@@ -99,6 +104,7 @@
             "deck_id": "297102",
             "rank": "2",
             "player": "Sebastian Haines",
+            "winrate": 0.8,
             "commander": [
                 "Leovold, Emissary of Trest"
             ],
@@ -204,9 +210,5 @@
                 "1 Island"
             ]
         }
-    ],
-    "name": "FNM Hiveworld",
-    "place": "",
-    "players": "11 players",
-    "date": "09/06/17"
+    ]
 }

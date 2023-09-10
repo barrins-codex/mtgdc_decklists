@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "40883",
+    "name": "Etneb Etneb Gaming",
+    "place": "Aling Marings Dojo (Rizal, Philippines)",
+    "players": "8 players",
+    "date": "22/01/23",
     "decks": [
         {
             "deck_id": "504052",
             "rank": "1",
             "player": "Darren Almondia",
+            "winrate": 1.0,
             "commander": [
                 "Juri, Master of the Revue"
             ],
@@ -106,6 +111,7 @@
             "deck_id": "504053",
             "rank": "3-4",
             "player": "Joseph Ramos",
+            "winrate": 0.6666666666666666,
             "commander": [
                 "Grist, the Hunger Tide"
             ],
@@ -204,9 +210,5 @@
                 "1 Wild Growth"
             ]
         }
-    ],
-    "name": "Etneb Etneb Gaming",
-    "place": "Aling Marings Dojo (Rizal, Philippines)",
-    "players": "8 players",
-    "date": "22/01/23"
+    ]
 }

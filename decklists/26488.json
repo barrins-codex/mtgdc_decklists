@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "26488",
+    "name": "the 2nd \"Toutou\"cup",
+    "place": "hongyu mtg store (Hefei, China)",
+    "players": "10 players",
+    "date": "11/07/20",
     "decks": [
         {
             "deck_id": "403415",
             "rank": "1",
             "player": "Jsd",
+            "winrate": 1.0,
             "commander": [
                 "Thrasios, Triton Hero",
                 "Tymna the Weaver"
@@ -111,9 +116,5 @@
                 "1 Titans' Nest"
             ]
         }
-    ],
-    "name": "the 2nd \"Toutou\"cup",
-    "place": "hongyu mtg store (Hefei, China)",
-    "players": "10 players",
-    "date": "11/07/20"
+    ]
 }

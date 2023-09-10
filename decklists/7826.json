@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "7826",
+    "name": "Game Gate Series 3 (São Paulo, Brazil)",
+    "place": "",
+    "players": "54 players",
+    "date": "15/06/14",
     "decks": [
         {
             "deck_id": "245058",
             "rank": "1",
             "player": "Fabio Fossa",
+            "winrate": 0.8888888888888888,
             "commander": [
                 "Xenagos, God of Revels"
             ],
@@ -104,6 +109,7 @@
             "deck_id": "245059",
             "rank": "2",
             "player": "Daniel Frias",
+            "winrate": 0.7777777777777778,
             "commander": [
                 "Prossh, Skyraider of Kher"
             ],
@@ -213,6 +219,7 @@
             "deck_id": "245060",
             "rank": "3-4",
             "player": "Pedro Fongaro",
+            "winrate": 0.75,
             "commander": [
                 "Oloro, Ageless Ascetic"
             ],
@@ -322,6 +329,7 @@
             "deck_id": "245061",
             "rank": "3-4",
             "player": "Felipe Pellegrini",
+            "winrate": 0.75,
             "commander": [
                 "Seton, Krosan Protector"
             ],
@@ -415,6 +423,7 @@
             "deck_id": "245062",
             "rank": "5-8",
             "player": "Gerson Pomin",
+            "winrate": 0.75,
             "commander": [
                 "Geist of Saint Traft"
             ],
@@ -519,6 +528,7 @@
             "deck_id": "245063",
             "rank": "5-8",
             "player": "Bruno Cezar",
+            "winrate": 0.75,
             "commander": [
                 "Grand Arbiter Augustin IV"
             ],
@@ -619,6 +629,7 @@
             "deck_id": "245064",
             "rank": "5-8",
             "player": "Anderson Akihiro",
+            "winrate": 0.75,
             "commander": [
                 "Oloro, Ageless Ascetic"
             ],
@@ -716,6 +727,7 @@
             "deck_id": "245065",
             "rank": "5-8",
             "player": "Henrique Augusto",
+            "winrate": 0.75,
             "commander": [
                 "Prime Speaker Zegana"
             ],
@@ -804,9 +816,5 @@
                 "1 Jace, the Mind Sculptor"
             ]
         }
-    ],
-    "name": "Game Gate Series 3 (São Paulo, Brazil)",
-    "place": "",
-    "players": "54 players",
-    "date": "15/06/14"
+    ]
 }

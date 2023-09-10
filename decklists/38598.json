@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "38598",
+    "name": "Jsst Nice DC de Septembre",
+    "place": "France",
+    "players": "8 players",
+    "date": "25/09/22",
     "decks": [
         {
             "deck_id": "488236",
             "rank": "1",
             "player": "Jb Petiti",
+            "winrate": 1.0,
             "commander": [
                 "Cultist of the Absolute",
                 "Gut, True Soul Zealot"
@@ -108,6 +113,7 @@
             "deck_id": "488237",
             "rank": "2",
             "player": "Pl Julewitz",
+            "winrate": 0.6666666666666666,
             "commander": [
                 "Rocco, Cabaretti Caterer"
             ],
@@ -208,9 +214,5 @@
                 "6 Forest"
             ]
         }
-    ],
-    "name": "Jsst Nice DC de Septembre",
-    "place": "France",
-    "players": "8 players",
-    "date": "25/09/22"
+    ]
 }

@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "31910",
+    "name": "DC",
+    "place": "Wonderlandes (Dax, France)",
+    "players": "11 players",
+    "date": "08/08/21",
     "decks": [
         {
             "deck_id": "446508",
             "rank": "1",
             "player": "Nicolas Soulé",
+            "winrate": 1.0,
             "commander": [
                 "Kytheon, Hero of Akros"
             ],
@@ -91,6 +96,7 @@
             "deck_id": "446509",
             "rank": "2",
             "player": "Frédéric Pon",
+            "winrate": 0.8,
             "commander": [
                 "Toggo, Goblin Weaponsmith",
                 "Dargo, the Shipwrecker"
@@ -170,9 +176,5 @@
                 "27 Mountain"
             ]
         }
-    ],
-    "name": "DC",
-    "place": "Wonderlandes (Dax, France)",
-    "players": "11 players",
-    "date": "08/08/21"
+    ]
 }

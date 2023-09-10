@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "45124",
+    "name": "Final Split Championnat DC",
+    "place": "île de la Réunion",
+    "players": "8 players",
+    "date": "11/06/23",
     "decks": [
         {
             "deck_id": "533129",
             "rank": "1",
             "player": "Randrianome Lalaïna",
+            "winrate": 1.0,
             "commander": [
                 "Ertai Resurrected"
             ],
@@ -105,6 +110,7 @@
             "deck_id": "533130",
             "rank": "2",
             "player": "Leclerc \"aloth\" Olivier",
+            "winrate": 0.6666666666666666,
             "commander": [
                 "Kroxa, Titan of Death's Hunger"
             ],
@@ -203,6 +209,7 @@
             "deck_id": "533131",
             "rank": "3-4",
             "player": "Vitry \"avyc\" Anthony",
+            "winrate": 0.6666666666666666,
             "commander": [
                 "Errant and Giada"
             ],
@@ -301,6 +308,7 @@
             "deck_id": "533132",
             "rank": "3-4",
             "player": "Turpin \"olla\" Raphael",
+            "winrate": 0.6666666666666666,
             "commander": [
                 "Bruse Tarl, Boorish Herder",
                 "Yoshimaru, Ever Faithful"
@@ -398,9 +406,5 @@
                 "1 Zurgo Bellstriker"
             ]
         }
-    ],
-    "name": "Final Split Championnat DC",
-    "place": "île de la Réunion",
-    "players": "8 players",
-    "date": "11/06/23"
+    ]
 }

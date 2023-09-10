@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "34385",
+    "name": "DC",
+    "place": "Havre des Arpenteurs (Amiens, France)",
+    "players": "13 players",
+    "date": "22/01/22",
     "decks": [
         {
             "deck_id": "461091",
             "rank": "1",
             "player": "Zankou",
+            "winrate": 1.0,
             "commander": [
                 "Emmara, Soul of the Accord"
             ],
@@ -104,6 +109,7 @@
             "deck_id": "461092",
             "rank": "2",
             "player": "Aurelien",
+            "winrate": 0.8,
             "commander": [
                 "Tevesh Szat, Doom of Fools",
                 "Kraum, Ludevic's Opus"
@@ -212,6 +218,7 @@
             "deck_id": "461093",
             "rank": "3-4",
             "player": "Lolink",
+            "winrate": 0.6,
             "commander": [
                 "Old Stickfingers"
             ],
@@ -313,6 +320,7 @@
             "deck_id": "461094",
             "rank": "3-4",
             "player": "Julien",
+            "winrate": 0.6,
             "commander": [
                 "Yorvo, Lord of Garenbrig"
             ],
@@ -390,9 +398,5 @@
                 "29 Forest"
             ]
         }
-    ],
-    "name": "DC",
-    "place": "Havre des Arpenteurs (Amiens, France)",
-    "players": "13 players",
-    "date": "22/01/22"
+    ]
 }

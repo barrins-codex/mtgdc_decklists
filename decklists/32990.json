@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "32990",
+    "name": "Duel Gumárně č.2",
+    "place": "Čáslav (CZE)",
+    "players": "8 players",
+    "date": "23/10/21",
     "decks": [
         {
             "deck_id": "452508",
             "rank": "1",
             "player": "Jakub Pilc",
+            "winrate": 1.0,
             "commander": [
                 "Thrun, the Last Troll"
             ],
@@ -85,6 +90,7 @@
             "deck_id": "452509",
             "rank": "2",
             "player": "Luká Mádle",
+            "winrate": 0.6666666666666666,
             "commander": [
                 "Sythis, Harvest's Hand"
             ],
@@ -181,9 +187,5 @@
                 "1 Yavimaya, Cradle of Growth"
             ]
         }
-    ],
-    "name": "Duel Gumárně č.2",
-    "place": "Čáslav (CZE)",
-    "players": "8 players",
-    "date": "23/10/21"
+    ]
 }

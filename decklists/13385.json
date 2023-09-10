@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "13385",
+    "name": "Duel Commander Semanal - MTG Brasil",
+    "place": "",
+    "players": "9 players",
+    "date": "24/08/16",
     "decks": [
         {
             "deck_id": "278495",
             "rank": "1",
             "player": "Eduardo Shimizu",
+            "winrate": 1.0,
             "commander": [
                 "Wydwen, the Biting Gale"
             ],
@@ -99,9 +104,5 @@
                 "1 To the Slaughter"
             ]
         }
-    ],
-    "name": "Duel Commander Semanal - MTG Brasil",
-    "place": "",
-    "players": "9 players",
-    "date": "24/08/16"
+    ]
 }

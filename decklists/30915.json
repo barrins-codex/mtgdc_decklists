@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "30915",
+    "name": "Duel Commander",
+    "place": "Manabolt (Limeira, Brazil)",
+    "players": "8 players",
+    "date": "22/05/21",
     "decks": [
         {
             "deck_id": "440399",
             "rank": "1",
             "player": "Ravi Zörnig",
+            "winrate": 1.0,
             "commander": [
                 "Hogaak, Arisen Necropolis"
             ],
@@ -115,6 +120,7 @@
             "deck_id": "440400",
             "rank": "2",
             "player": "Felipe Ramos",
+            "winrate": 0.6666666666666666,
             "commander": [
                 "Kroxa, Titan of Death's Hunger"
             ],
@@ -218,6 +224,7 @@
             "deck_id": "440401",
             "rank": "3",
             "player": "Conja",
+            "winrate": 0.6666666666666666,
             "commander": [
                 "Heliod, Sun-Crowned"
             ],
@@ -300,6 +307,7 @@
             "deck_id": "440402",
             "rank": "4",
             "player": "Victor Kyon",
+            "winrate": 0.6666666666666666,
             "commander": [
                 "Octavia, Living Thesis"
             ],
@@ -369,9 +377,5 @@
                 "1 Slip Through Space"
             ]
         }
-    ],
-    "name": "Duel Commander",
-    "place": "Manabolt (Limeira, Brazil)",
-    "players": "8 players",
-    "date": "22/05/21"
+    ]
 }

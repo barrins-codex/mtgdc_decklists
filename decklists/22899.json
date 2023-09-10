@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "22899",
+    "name": "87th \"New Year Cake\" Cup",
+    "place": "Shanghai",
+    "players": "8 players",
+    "date": "18/08/19",
     "decks": [
         {
             "deck_id": "356636",
             "rank": "1",
             "player": "Gu Jiaping",
+            "winrate": 1.0,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -92,6 +97,7 @@
             "deck_id": "356637",
             "rank": "2",
             "player": "Yuan Luyang",
+            "winrate": 0.6666666666666666,
             "commander": [
                 "Niv-Mizzet, Parun"
             ],
@@ -177,9 +183,5 @@
                 "1 Chemister's Insight"
             ]
         }
-    ],
-    "name": "87th \"New Year Cake\" Cup",
-    "place": "Shanghai",
-    "players": "8 players",
-    "date": "18/08/19"
+    ]
 }

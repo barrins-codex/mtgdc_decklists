@@ -1,6 +1,6 @@
 {
     "format": "Duel Commander",
-    "id": 46218,
+    "id": "46218",
     "name": "Lachesis Cup",
     "place": "Nice Club (Wuxi, China)",
     "players": "8 players",
@@ -8,6 +8,12 @@
     "decks": [
         {
             "deck_id": "541406",
+            "rank": "1",
+            "player": "Jiaxuan,wu",
+            "winrate": 1.0,
+            "commander": [
+                "Azusa, Lost but Seeking"
+            ],
             "decklist": [
                 "1 All Is Dust",
                 "1 Argoth, Sanctum of Nature",
@@ -94,15 +100,16 @@
                 "1 Worldly Tutor",
                 "1 Yavimaya Hollow",
                 "1 Yavimaya, Cradle of Growth"
-            ],
-            "commander": [
-                "Azusa, Lost but Seeking"
-            ],
-            "rank": "1",
-            "player": "Jiaxuan,wu"
+            ]
         },
         {
             "deck_id": "541407",
+            "rank": "2",
+            "player": "Haoyu,gu",
+            "winrate": 0.6666666666666666,
+            "commander": [
+                "Sheoldred, the Apocalypse"
+            ],
             "decklist": [
                 "1 Cling to Dust",
                 "1 Collective Brutality",
@@ -179,12 +186,7 @@
                 "1 Rishadan Port",
                 "1 City of Traitors",
                 "26 Snow-Covered Swamp"
-            ],
-            "commander": [
-                "Sheoldred, the Apocalypse"
-            ],
-            "rank": "2",
-            "player": "Haoyu,gu"
+            ]
         }
     ]
 }

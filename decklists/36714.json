@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "36714",
+    "name": "[RC] 4º Torneio",
+    "place": "Tower of Cards (Bangu-RJ, Brazil)",
+    "players": "13 players",
+    "date": "21/05/22",
     "decks": [
         {
             "deck_id": "476083",
             "rank": "1",
             "player": "Michel Xisto",
+            "winrate": 1.0,
             "commander": [
                 "Prossh, Skyraider of Kher"
             ],
@@ -93,6 +98,7 @@
             "deck_id": "476084",
             "rank": "2",
             "player": "Clemilson",
+            "winrate": 0.8,
             "commander": [
                 "Magda, Brazen Outlaw"
             ],
@@ -169,6 +175,7 @@
             "deck_id": "476085",
             "rank": "3-4",
             "player": "Kauan",
+            "winrate": 0.6,
             "commander": [
                 "Adeline, Resplendent Cathar"
             ],
@@ -248,9 +255,5 @@
                 "1 Giant Killer"
             ]
         }
-    ],
-    "name": "[RC] 4º Torneio",
-    "place": "Tower of Cards (Bangu-RJ, Brazil)",
-    "players": "13 players",
-    "date": "21/05/22"
+    ]
 }

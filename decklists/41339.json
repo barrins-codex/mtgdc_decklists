@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "41339",
+    "name": "Bank President Cup Weekly DC",
+    "place": "Hongyu（Hefei，China）",
+    "players": "13 players",
+    "date": "11/02/23",
     "decks": [
         {
             "deck_id": "507128",
             "rank": "1",
             "player": "Duoyan Li",
+            "winrate": 1.0,
             "commander": [
                 "Rick, Steadfast Leader"
             ],
@@ -92,6 +97,7 @@
             "deck_id": "507129",
             "rank": "2",
             "player": "Xuanyi Zhu",
+            "winrate": 0.8,
             "commander": [
                 "Grist, the Hunger Tide"
             ],
@@ -188,6 +194,7 @@
             "deck_id": "507130",
             "rank": "3-4",
             "player": "Zeyu Zhang",
+            "winrate": 0.6,
             "commander": [
                 "Dennick, Pious Apprentice"
             ],
@@ -291,6 +298,7 @@
             "deck_id": "507131",
             "rank": "3-4",
             "player": "Snoopy",
+            "winrate": 0.6,
             "commander": [
                 "Dihada, Binder of Wills"
             ],
@@ -396,9 +404,5 @@
                 "1 Tomb Fortress"
             ]
         }
-    ],
-    "name": "Bank President Cup Weekly DC",
-    "place": "Hongyu（Hefei，China）",
-    "players": "13 players",
-    "date": "11/02/23"
+    ]
 }

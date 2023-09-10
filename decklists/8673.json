@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "8673",
+    "name": "16th \"New Year Cake\" Cup (Shanghai)",
+    "place": "",
+    "players": "25 players",
+    "date": "30/11/14",
     "decks": [
         {
             "deck_id": "249583",
             "rank": "1",
             "player": "Li Jiayu",
+            "winrate": 1.0,
             "commander": [
                 "Azami, Lady of Scrolls"
             ],
@@ -85,6 +90,7 @@
             "deck_id": "249584",
             "rank": "2",
             "player": "Song Yue",
+            "winrate": 0.8,
             "commander": [
                 "Thraximundar"
             ],
@@ -194,6 +200,7 @@
             "deck_id": "249585",
             "rank": "3-4",
             "player": "Shen Shiyang",
+            "winrate": 0.8,
             "commander": [
                 "Prossh, Skyraider of Kher"
             ],
@@ -303,6 +310,7 @@
             "deck_id": "249586",
             "rank": "3-4",
             "player": "Li Yijie",
+            "winrate": 0.8,
             "commander": [
                 "Yisan, the Wanderer Bard"
             ],
@@ -384,9 +392,5 @@
                 "1 Yavimaya Hollow"
             ]
         }
-    ],
-    "name": "16th \"New Year Cake\" Cup (Shanghai)",
-    "place": "",
-    "players": "25 players",
-    "date": "30/11/14"
+    ]
 }

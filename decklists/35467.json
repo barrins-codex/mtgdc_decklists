@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "35467",
+    "name": "S.A.L.T.Y.2",
+    "place": "Val Des Jeux (Valréas, France)",
+    "players": "36 players",
+    "date": "27/03/22",
     "decks": [
         {
             "deck_id": "467857",
             "rank": "1",
             "player": "Cyril Querenet",
+            "winrate": 0.7777777777777778,
             "commander": [
                 "Queen Marchesa"
             ],
@@ -115,6 +120,7 @@
             "deck_id": "467858",
             "rank": "2",
             "player": "David Fontraille",
+            "winrate": 0.6666666666666666,
             "commander": [
                 "Niv-Mizzet Reborn"
             ],
@@ -224,6 +230,7 @@
             "deck_id": "467859",
             "rank": "3-4",
             "player": "Florian Trotte",
+            "winrate": 0.625,
             "commander": [
                 "Golos, Tireless Pilgrim"
             ],
@@ -333,6 +340,7 @@
             "deck_id": "467860",
             "rank": "3-4",
             "player": "Aurelien Ulpat",
+            "winrate": 0.625,
             "commander": [
                 "Isamaru, Hound of Konda"
             ],
@@ -420,6 +428,7 @@
             "deck_id": "467861",
             "rank": "5-8",
             "player": "Aurélien Simondet",
+            "winrate": 0.625,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -525,7 +534,8 @@
         {
             "deck_id": "467862",
             "rank": "5-8",
-            "player": "\tDamien \"eventwin\" Jantzen",
+            "player": "Damien \"eventwin\" Jantzen",
+            "winrate": 0.625,
             "commander": [
                 "Grist, the Hunger Tide"
             ],
@@ -623,6 +633,7 @@
             "deck_id": "467863",
             "rank": "5-8",
             "player": "Matthieu Mizac",
+            "winrate": 0.625,
             "commander": [
                 "Juri, Master of the Revue"
             ],
@@ -723,6 +734,7 @@
             "deck_id": "467864",
             "rank": "5-8",
             "player": "Alexandre Martial",
+            "winrate": 0.625,
             "commander": [
                 "Niv-Mizzet Reborn"
             ],
@@ -828,9 +840,5 @@
                 "1 Volcanic Island"
             ]
         }
-    ],
-    "name": "S.A.L.T.Y.2",
-    "place": "Val Des Jeux (Valréas, France)",
-    "players": "36 players",
-    "date": "27/03/22"
+    ]
 }

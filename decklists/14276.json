@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "14276",
+    "name": "Jsst (Nice) Tournoi Mensuel",
+    "place": "",
+    "players": "8 players",
+    "date": "16/12/16",
     "decks": [
         {
             "deck_id": "285179",
             "rank": "1",
             "player": "Laurent dit \"Bango\"",
+            "winrate": 1.0,
             "commander": [
                 "Kraum, Ludevic's Opus",
                 "Bruse Tarl, Boorish Herder"
@@ -104,9 +109,5 @@
                 "5 Island"
             ]
         }
-    ],
-    "name": "Jsst (Nice) Tournoi Mensuel",
-    "place": "",
-    "players": "8 players",
-    "date": "16/12/16"
+    ]
 }

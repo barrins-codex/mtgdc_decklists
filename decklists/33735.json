@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "33735",
+    "name": "Weekly DC \"Civil Aviation Day\"",
+    "place": "Caverna do Dragão(Santos, Brazil)",
+    "players": "13 players",
+    "date": "07/12/21",
     "decks": [
         {
             "deck_id": "457167",
             "rank": "1",
             "player": "Victor Burghi",
+            "winrate": 1.0,
             "commander": [
                 "Jirina Kudro"
             ],
@@ -115,6 +120,7 @@
             "deck_id": "457168",
             "rank": "2",
             "player": "Leonardo Maeda",
+            "winrate": 0.8,
             "commander": [
                 "Tevesh Szat, Doom of Fools",
                 "Prava of the Steel Legion"
@@ -212,6 +218,7 @@
             "deck_id": "457169",
             "rank": "3-4",
             "player": "Felipe \"raizen\" Santos",
+            "winrate": 0.6,
             "commander": [
                 "Cosima, God of the Voyage"
             ],
@@ -295,6 +302,7 @@
             "deck_id": "457170",
             "rank": "3-4",
             "player": "Arthur Dutra",
+            "winrate": 0.6,
             "commander": [
                 "Kytheon, Hero of Akros"
             ],
@@ -373,9 +381,5 @@
                 "1 Winter Orb"
             ]
         }
-    ],
-    "name": "Weekly DC \"Civil Aviation Day\"",
-    "place": "Caverna do Dragão(Santos, Brazil)",
-    "players": "13 players",
-    "date": "07/12/21"
+    ]
 }

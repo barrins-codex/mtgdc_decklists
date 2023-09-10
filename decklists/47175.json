@@ -10,6 +10,7 @@
             "deck_id": "548639",
             "rank": "1",
             "player": "Pierre Almaraz",
+            "winrate": 1.0,
             "commander": [
                 "Marath, Will of the Wild"
             ],
@@ -109,6 +110,7 @@
             "deck_id": "548640",
             "rank": "2",
             "player": "Pierre-louis Biet",
+            "winrate": 0.8,
             "commander": [
                 "Tivit, Seller of Secrets"
             ],
@@ -218,6 +220,7 @@
             "deck_id": "548641",
             "rank": "3-4",
             "player": "Axel Marti",
+            "winrate": 0.8,
             "commander": [
                 "Aragorn, King of Gondor"
             ],
@@ -325,6 +328,7 @@
             "deck_id": "548642",
             "rank": "3-4",
             "player": "Franck Gauci",
+            "winrate": 0.8,
             "commander": [
                 "Tivit, Seller of Secrets"
             ],

@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "31161",
+    "name": "RJ Cup 2021 #23",
+    "place": "Mong Kong (Hong Kong)",
+    "players": "9 players",
+    "date": "19/06/21",
     "decks": [
         {
             "deck_id": "442140",
             "rank": "1",
             "player": "Chung Tang",
+            "winrate": 1.0,
             "commander": [
                 "Ragavan, Nimble Pilferer"
             ],
@@ -90,6 +95,7 @@
             "deck_id": "442141",
             "rank": "2",
             "player": "Man Lok Wong",
+            "winrate": 0.8,
             "commander": [
                 "Ragavan, Nimble Pilferer"
             ],
@@ -175,9 +181,5 @@
                 "1 Wooded Foothills"
             ]
         }
-    ],
-    "name": "RJ Cup 2021 #23",
-    "place": "Mong Kong (Hong Kong)",
-    "players": "9 players",
-    "date": "19/06/21"
+    ]
 }

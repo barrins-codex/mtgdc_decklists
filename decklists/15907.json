@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "15907",
+    "name": "FNM Hiveworld",
+    "place": "",
+    "players": "9 players",
+    "date": "16/06/17",
     "decks": [
         {
             "deck_id": "297787",
             "rank": "1",
             "player": "Sebastian Haines",
+            "winrate": 1.0,
             "commander": [
                 "Leovold, Emissary of Trest"
             ],
@@ -115,6 +120,7 @@
             "deck_id": "297788",
             "rank": "2",
             "player": "Stefan Jacobs",
+            "winrate": 0.8,
             "commander": [
                 "Atraxa, Praetors' Voice"
             ],
@@ -220,9 +226,5 @@
                 "1 Aven Mindcensor"
             ]
         }
-    ],
-    "name": "FNM Hiveworld",
-    "place": "",
-    "players": "9 players",
-    "date": "16/06/17"
+    ]
 }

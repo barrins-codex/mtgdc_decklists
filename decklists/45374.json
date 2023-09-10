@@ -1,15 +1,19 @@
 {
     "format": "Duel Commander",
-    "id": 45374,
+    "id": "45374",
     "name": "Rice dumpling Cup",
     "place": "Slow Drake (Beijing, China)",
     "players": "19 players",
     "date": "24/06/23",
     "decks": [
         {
-            "player": "Yang Du",
-            "rank": "1",
             "deck_id": "535177",
+            "rank": "1",
+            "player": "Yang Du",
+            "winrate": 1.0,
+            "commander": [
+                "Aragorn, King of Gondor"
+            ],
             "decklist": [
                 "1 Teferi, Time Raveler",
                 "1 The Wandering Emperor",
@@ -107,15 +111,16 @@
                 "1 Command Tower",
                 "2 Plains",
                 "3 Island"
-            ],
-            "commander": [
-                "Aragorn, King of Gondor"
             ]
         },
         {
-            "player": "Guanglei Li",
-            "rank": "2",
             "deck_id": "535178",
+            "rank": "2",
+            "player": "Guanglei Li",
+            "winrate": 0.8,
+            "commander": [
+                "Raffine, Scheming Seer"
+            ],
             "decklist": [
                 "1 Adarkar Wastes",
                 "1 Arid Mesa",
@@ -216,15 +221,16 @@
                 "1 Watery Grave",
                 "1 White Plume Adventurer",
                 "1 Windswept Heath"
-            ],
-            "commander": [
-                "Raffine, Scheming Seer"
             ]
         },
         {
-            "player": "Yiduo Fan",
-            "rank": "3-4",
             "deck_id": "535179",
+            "rank": "3-4",
+            "player": "Yiduo Fan",
+            "winrate": 0.8,
+            "commander": [
+                "Grenzo, Dungeon Warden"
+            ],
             "decklist": [
                 "1 Ardoz, Cobbler of War",
                 "1 Barbarian Ring",
@@ -320,15 +326,16 @@
                 "1 Urborg, Tomb of Yawgmoth",
                 "1 Verdant Catacombs",
                 "1 Wooded Foothills"
-            ],
-            "commander": [
-                "Grenzo, Dungeon Warden"
             ]
         },
         {
-            "player": "Haobo Ma",
-            "rank": "3-4",
             "deck_id": "535180",
+            "rank": "3-4",
+            "player": "Haobo Ma",
+            "winrate": 0.8,
+            "commander": [
+                "Niv-Mizzet, Parun"
+            ],
             "decklist": [
                 "1 Fire / Ice",
                 "1 Arcane Signet",
@@ -420,9 +427,6 @@
                 "1 Volcanic Island",
                 "1 Whir of Invention",
                 "1 Wooded Foothills"
-            ],
-            "commander": [
-                "Niv-Mizzet, Parun"
             ]
         }
     ]

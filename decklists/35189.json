@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "35189",
+    "name": "DC Monthly",
+    "place": "Tableraze (Montpellier, France)",
+    "players": "20 players",
+    "date": "13/03/22",
     "decks": [
         {
             "deck_id": "466167",
             "rank": "1",
             "player": "Jean-loup Michel",
+            "winrate": 1.0,
             "commander": [
                 "Niv-Mizzet Reborn"
             ],
@@ -115,6 +120,7 @@
             "deck_id": "466168",
             "rank": "2",
             "player": "Matthieu Mizac",
+            "winrate": 0.8,
             "commander": [
                 "Juri, Master of the Revue"
             ],
@@ -215,6 +221,7 @@
             "deck_id": "466169",
             "rank": "3",
             "player": "Thomas Plieger",
+            "winrate": 0.8,
             "commander": [
                 "Galazeth Prismari"
             ],
@@ -312,6 +319,7 @@
             "deck_id": "466170",
             "rank": "4",
             "player": "Antoine Colomb",
+            "winrate": 0.6,
             "commander": [
                 "Grist, the Hunger Tide"
             ],
@@ -410,6 +418,7 @@
             "deck_id": "466171",
             "rank": "5",
             "player": "Ghislain Rea",
+            "winrate": 0.6,
             "commander": [
                 "Shorikai, Genesis Engine"
             ],
@@ -511,6 +520,7 @@
             "deck_id": "466172",
             "rank": "6",
             "player": "Geoffrey Julbe",
+            "winrate": 0.6,
             "commander": [
                 "Queen Marchesa"
             ],
@@ -619,6 +629,7 @@
             "deck_id": "466173",
             "rank": "7",
             "player": "Maxime Catala",
+            "winrate": 0.6,
             "commander": [
                 "Atraxa, Praetors' Voice"
             ],
@@ -728,6 +739,7 @@
             "deck_id": "466174",
             "rank": "8",
             "player": "Dylan Subielos",
+            "winrate": 0.6,
             "commander": [
                 "Niv-Mizzet Reborn"
             ],
@@ -833,9 +845,5 @@
                 "1 Jegantha, the Wellspring"
             ]
         }
-    ],
-    "name": "DC Monthly",
-    "place": "Tableraze (Montpellier, France)",
-    "players": "20 players",
-    "date": "13/03/22"
+    ]
 }

@@ -1,15 +1,19 @@
 {
     "format": "Duel Commander",
-    "id": 46542,
+    "id": "46542",
     "name": "Lachesis Cup",
     "place": "Nice Club (Wuxi,China)",
     "players": "8 players",
     "date": "04/08/23",
     "decks": [
         {
-            "player": "Haoyu,gu",
-            "rank": "1",
             "deck_id": "543966",
+            "rank": "1",
+            "player": "Haoyu,gu",
+            "winrate": 1.0,
+            "commander": [
+                "Sheoldred, the Apocalypse"
+            ],
             "decklist": [
                 "1 Animate Dead",
                 "1 Baleful Mastery",
@@ -85,15 +89,16 @@
                 "1 War Room",
                 "1 Wishclaw Talisman",
                 "1 Yawgmoth's Bargain"
-            ],
-            "commander": [
-                "Sheoldred, the Apocalypse"
             ]
         },
         {
-            "player": "Jiawei,chen",
-            "rank": "2",
             "deck_id": "543967",
+            "rank": "2",
+            "player": "Jiawei,chen",
+            "winrate": 0.6666666666666666,
+            "commander": [
+                "Teferi, Temporal Archmage"
+            ],
             "decklist": [
                 "1 Baral, Chief of Compliance",
                 "1 Blink of an Eye",
@@ -162,9 +167,6 @@
                 "1 Ugin, the Spirit Dragon",
                 "1 Unsubstantiate",
                 "1 Wash Away"
-            ],
-            "commander": [
-                "Teferi, Temporal Archmage"
             ]
         }
     ]

@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "7827",
+    "name": "Link Commander Challenge 3 (Nîmes)",
+    "place": "",
+    "players": "14 players",
+    "date": "05/07/14",
     "decks": [
         {
             "deck_id": "245066",
             "rank": "1",
             "player": "Florian Trotte",
+            "winrate": 1.0,
             "commander": [
                 "Maelstrom Wanderer"
             ],
@@ -112,6 +117,7 @@
             "deck_id": "245067",
             "rank": "2",
             "player": "Patrick Gamblin",
+            "winrate": 0.8,
             "commander": [
                 "Maelstrom Wanderer"
             ],
@@ -215,9 +221,5 @@
                 "1 Sneak Attack"
             ]
         }
-    ],
-    "name": "Link Commander Challenge 3 (Nîmes)",
-    "place": "",
-    "players": "14 players",
-    "date": "05/07/14"
+    ]
 }

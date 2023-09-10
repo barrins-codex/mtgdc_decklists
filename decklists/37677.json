@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "37677",
+    "name": "Duel Commander 1K",
+    "place": "XPlace (São Paulo-SP, Brasil)",
+    "players": "46 players",
+    "date": "30/07/22",
     "decks": [
         {
             "deck_id": "482184",
             "rank": "1",
             "player": "Felipe \"the Raizen\" Santos",
+            "winrate": 0.8888888888888888,
             "commander": [
                 "Juri, Master of the Revue"
             ],
@@ -105,6 +110,7 @@
             "deck_id": "482185",
             "rank": "2",
             "player": "Guilherme Bellagente",
+            "winrate": 0.7777777777777778,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -214,6 +220,7 @@
             "deck_id": "482186",
             "rank": "3",
             "player": "Ivan Bais",
+            "winrate": 0.75,
             "commander": [
                 "Esika, God of the Tree"
             ],
@@ -323,6 +330,7 @@
             "deck_id": "482187",
             "rank": "4",
             "player": "David Oscar",
+            "winrate": 0.75,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -432,6 +440,7 @@
             "deck_id": "482188",
             "rank": "5",
             "player": "Euro Figueiredo",
+            "winrate": 0.75,
             "commander": [
                 "Arcum Dagsson"
             ],
@@ -517,6 +526,7 @@
             "deck_id": "482189",
             "rank": "6",
             "player": "Lucas \"ppm\" Portela",
+            "winrate": 0.75,
             "commander": [
                 "Wilson, Refined Grizzly",
                 "Tavern Brawler"
@@ -619,6 +629,7 @@
             "deck_id": "482190",
             "rank": "7",
             "player": "Orlando Bibiano",
+            "winrate": 0.75,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -728,6 +739,7 @@
             "deck_id": "482191",
             "rank": "8",
             "player": "Rafael Ozores",
+            "winrate": 0.75,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -810,6 +822,11 @@
             "deck_id": "482192",
             "rank": "9",
             "player": "Fulvio Simionato",
+            "winrate": 0.6666666666666666,
+            "commander": [
+                "Jeska, Thrice Reborn",
+                "Bruse Tarl, Boorish Herder"
+            ],
             "decklist": [
                 "1 Pillarverge Pathway - Art",
                 "1 Eiganjo Castle",
@@ -901,16 +918,17 @@
                 "1 Fury",
                 "1 Solitude",
                 "1 Pyrokinesis"
-            ],
-            "commander": [
-                "Jeska, Thrice Reborn",
-                "Bruse Tarl, Boorish Herder"
             ]
         },
         {
             "deck_id": "482193",
             "rank": "10",
             "player": "Lucas Santos",
+            "winrate": 0.6666666666666666,
+            "commander": [
+                "Jeska, Thrice Reborn",
+                "Ludevic, Necro-Alchemist"
+            ],
             "decklist": [
                 "1 Abrade",
                 "1 Arid Mesa",
@@ -1000,15 +1018,7 @@
                 "1 Wooded Foothills",
                 "1 Young Pyromancer",
                 "1 Zurgo Bellstriker"
-            ],
-            "commander": [
-                "Jeska, Thrice Reborn",
-                "Ludevic, Necro-Alchemist"
             ]
         }
-    ],
-    "name": "Duel Commander 1K",
-    "place": "XPlace (São Paulo-SP, Brasil)",
-    "players": "46 players",
-    "date": "30/07/22"
+    ]
 }

@@ -1,15 +1,20 @@
 {
     "format": "Duel Commander",
-    "id": 41468,
+    "id": "41468",
     "name": "Sunday Duel Commander",
     "place": "Upkeep Hobbies (Philippines)",
     "players": "8 players",
     "date": "12/02/23",
     "decks": [
         {
-            "player": "Ricky Madrigal",
-            "rank": "1",
             "deck_id": "508168",
+            "rank": "1",
+            "player": "Ricky Madrigal",
+            "winrate": 1.0,
+            "commander": [
+                "Gut, True Soul Zealot",
+                "Veteran Soldier"
+            ],
             "decklist": [
                 "1 Rip Apart",
                 "1 Lightning Helix",
@@ -106,16 +111,16 @@
                 "1 Resolute Reinforcements",
                 "1 Seasoned Dungeoneer",
                 "1 Inspiring Vantage"
-            ],
-            "commander": [
-                "Gut, True Soul Zealot",
-                "Veteran Soldier"
             ]
         },
         {
-            "player": "Ronnel Malate",
-            "rank": "2",
             "deck_id": "508169",
+            "rank": "2",
+            "player": "Ronnel Malate",
+            "winrate": 0.6666666666666666,
+            "commander": [
+                "Raffine, Scheming Seer"
+            ],
             "decklist": [
                 "1 Marsh Flats",
                 "1 Adarkar Wastes",
@@ -216,9 +221,6 @@
                 "1 Watery Grave",
                 "1 White Plume Adventurer",
                 "1 Windswept Heath"
-            ],
-            "commander": [
-                "Raffine, Scheming Seer"
             ]
         }
     ]

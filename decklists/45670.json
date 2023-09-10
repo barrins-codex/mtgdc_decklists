@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
-    "id": 45670,
+    "id": "45670",
+    "name": "Duelan sa TG",
+    "place": "Tapped Games and Hobbies (Philippines)",
+    "players": "8 players",
+    "date": "01/07/23",
     "decks": [
         {
             "deck_id": "537477",
             "rank": "1",
             "player": "Rexel Tenorio",
+            "winrate": 1.0,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -115,6 +120,7 @@
             "deck_id": "537478",
             "rank": "2",
             "player": "Van Acordon",
+            "winrate": 0.6666666666666666,
             "commander": [
                 "Aragorn, King of Gondor"
             ],
@@ -218,9 +224,5 @@
                 "1 Wooded Foothills"
             ]
         }
-    ],
-    "name": "Duelan sa TG",
-    "place": "Tapped Games and Hobbies (Philippines)",
-    "players": "8 players",
-    "date": "01/07/23"
+    ]
 }

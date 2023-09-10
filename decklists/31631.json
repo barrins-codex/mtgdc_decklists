@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "31631",
+    "name": "Weekly DC",
+    "place": "Santos (Brazil)",
+    "players": "9 players",
+    "date": "20/07/21",
     "decks": [
         {
             "deck_id": "444849",
             "rank": "1",
             "player": "Victor Burghi",
+            "winrate": 1.0,
             "commander": [
                 "Kytheon, Hero of Akros"
             ],
@@ -88,6 +93,7 @@
             "deck_id": "444850",
             "rank": "2",
             "player": "Rafael Ozores",
+            "winrate": 0.8,
             "commander": [
                 "Ragavan, Nimble Pilferer"
             ],
@@ -165,9 +171,5 @@
                 "1 Acidic Soil"
             ]
         }
-    ],
-    "name": "Weekly DC",
-    "place": "Santos (Brazil)",
-    "players": "9 players",
-    "date": "20/07/21"
+    ]
 }

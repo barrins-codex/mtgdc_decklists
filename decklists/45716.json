@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
-    "id": 45716,
+    "id": "45716",
+    "name": "152nd New Year Cake Cup",
+    "place": "Buban Club (Shanghai, China)",
+    "players": "9 players",
+    "date": "02/07/23",
     "decks": [
         {
             "deck_id": "537793",
             "rank": "1",
             "player": "Yuan Luyang",
+            "winrate": 1.0,
             "commander": [
                 "Zimone and Dina"
             ],
@@ -115,6 +120,7 @@
             "deck_id": "537794",
             "rank": "2",
             "player": "He Ying",
+            "winrate": 0.8,
             "commander": [
                 "Cormela, Glamour Thief"
             ],
@@ -220,9 +226,5 @@
                 "1 Badlands"
             ]
         }
-    ],
-    "name": "152nd New Year Cake Cup",
-    "place": "Buban Club (Shanghai, China)",
-    "players": "9 players",
-    "date": "02/07/23"
+    ]
 }

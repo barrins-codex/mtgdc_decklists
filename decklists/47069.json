@@ -1,15 +1,19 @@
 {
     "format": "Duel Commander",
-    "id": 47069,
+    "id": "47069",
     "name": "FNM",
     "place": "City Comics (Leipzig, Germany)",
     "players": "11 players",
     "date": "18/08/23",
     "decks": [
         {
-            "player": "Sebastian Reichert",
-            "rank": "1",
             "deck_id": "547856",
+            "rank": "1",
+            "player": "Sebastian Reichert",
+            "winrate": 1.0,
+            "commander": [
+                "Gollum, Patient Plotter"
+            ],
             "decklist": [
                 "1 Deadly Dispute",
                 "1 Defile",
@@ -84,15 +88,16 @@
                 "1 Urza's Saga",
                 "1 Maze of Ith",
                 "27 Snow-Covered Swamp"
-            ],
-            "commander": [
-                "Gollum, Patient Plotter"
             ]
         },
         {
-            "player": "Robo-bo-bots",
-            "rank": "2",
             "deck_id": "547857",
+            "rank": "2",
+            "player": "Robo-bo-bots",
+            "winrate": 0.8,
+            "commander": [
+                "Ratchet, Field Medic"
+            ],
             "decklist": [
                 "1 Implement of Improvement",
                 "1 Lotus Petal",
@@ -172,9 +177,6 @@
                 "1 Treasure Vault",
                 "1 Urza's Saga",
                 "22 Snow-Covered Plains"
-            ],
-            "commander": [
-                "Ratchet, Field Medic"
             ]
         }
     ]

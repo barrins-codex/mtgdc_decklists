@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "12858",
+    "name": "WNM",
+    "place": "Jeuxjubes",
+    "players": "13 players",
+    "date": "22/06/16",
     "decks": [
         {
             "deck_id": "274677",
             "rank": "1",
             "player": "---",
+            "winrate": 1.0,
             "commander": [
                 "Animar, Soul of Elements"
             ],
@@ -104,9 +109,5 @@
                 "1 Brainstorm"
             ]
         }
-    ],
-    "name": "WNM",
-    "place": "Jeuxjubes",
-    "players": "13 players",
-    "date": "22/06/16"
+    ]
 }

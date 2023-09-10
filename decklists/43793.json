@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "43793",
+    "name": "Win Cup Weekly DC",
+    "place": "Buban Club (Shanghai, China)",
+    "players": "10 players",
+    "date": "23/04/23",
     "decks": [
         {
             "deck_id": "523302",
             "rank": "1",
             "player": "Hui Hehua",
+            "winrate": 1.0,
             "commander": [
                 "Elenda and Azor"
             ],
@@ -115,6 +120,7 @@
             "deck_id": "523303",
             "rank": "2",
             "player": "Hu Minzhe",
+            "winrate": 0.8,
             "commander": [
                 "Golos, Tireless Pilgrim"
             ],
@@ -220,9 +226,5 @@
                 "1 Lightning Bolt"
             ]
         }
-    ],
-    "name": "Win Cup Weekly DC",
-    "place": "Buban Club (Shanghai, China)",
-    "players": "10 players",
-    "date": "23/04/23"
+    ]
 }

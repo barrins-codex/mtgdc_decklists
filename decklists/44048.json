@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "44048",
+    "name": "Open DC",
+    "place": "La Boite-Monde (Évreux, France)",
+    "players": "16 players",
+    "date": "06/05/23",
     "decks": [
         {
             "deck_id": "525197",
             "rank": "1",
             "player": "Cédric Collin",
+            "winrate": 1.0,
             "commander": [
                 "Niv-Mizzet Reborn"
             ],
@@ -115,6 +120,7 @@
             "deck_id": "525198",
             "rank": "2",
             "player": "Erwan Bertrand",
+            "winrate": 0.8,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -224,6 +230,7 @@
             "deck_id": "525199",
             "rank": "3",
             "player": "Alex Bertrand",
+            "winrate": 0.8,
             "commander": [
                 "Dragonlord Ojutai"
             ],
@@ -322,9 +329,5 @@
                 "1 Mana Leak"
             ]
         }
-    ],
-    "name": "Open DC",
-    "place": "La Boite-Monde (Évreux, France)",
-    "players": "16 players",
-    "date": "06/05/23"
+    ]
 }

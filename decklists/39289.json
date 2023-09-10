@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "39289",
+    "name": "DC",
+    "place": "Manabolt (Limeira, Brazil)",
+    "players": "8 players",
+    "date": "05/11/22",
     "decks": [
         {
             "deck_id": "492564",
             "rank": "1",
             "player": "Felipe Cruz",
+            "winrate": 1.0,
             "commander": [
                 "Yoshimaru, Ever Faithful",
                 "Breeches, Brazen Plunderer"
@@ -103,6 +108,7 @@
             "deck_id": "492565",
             "rank": "2",
             "player": "Adriano Santos",
+            "winrate": 0.6666666666666666,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -208,9 +214,5 @@
                 "1 Windswept Heath"
             ]
         }
-    ],
-    "name": "DC",
-    "place": "Manabolt (Limeira, Brazil)",
-    "players": "8 players",
-    "date": "05/11/22"
+    ]
 }

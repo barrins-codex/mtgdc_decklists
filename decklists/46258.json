@@ -1,6 +1,6 @@
 {
     "format": "Duel Commander",
-    "id": 46258,
+    "id": "46258",
     "name": "Win a biland",
     "place": "Fantasy sphere (Toulouse, France)",
     "players": "50 players",
@@ -8,6 +8,12 @@
     "decks": [
         {
             "deck_id": "541655",
+            "rank": "2",
+            "player": "Kilian Boulhais",
+            "winrate": 0.7777777777777778,
+            "commander": [
+                "Kess, Dissident Mage"
+            ],
             "decklist": [
                 "1 Flame Slash",
                 "1 Xander's Lounge",
@@ -107,15 +113,16 @@
                 "2 Island",
                 "1 Snow-Covered Island",
                 "1 Volcanic Island"
-            ],
-            "commander": [
-                "Kess, Dissident Mage"
-            ],
-            "rank": "2",
-            "player": "Kilian Boulhais"
+            ]
         },
         {
             "deck_id": "541656",
+            "rank": "3-4",
+            "player": "Anthony Nunez",
+            "winrate": 0.75,
+            "commander": [
+                "Ghyrson Starn, Kelermorph"
+            ],
             "decklist": [
                 "1 Wooded Foothills",
                 "1 Ponder",
@@ -207,15 +214,16 @@
                 "8 Island",
                 "1 Volcanic Island",
                 "1 Fiery Islet"
-            ],
-            "commander": [
-                "Ghyrson Starn, Kelermorph"
-            ],
-            "rank": "3-4",
-            "player": "Anthony Nunez"
+            ]
         },
         {
             "deck_id": "541657",
+            "rank": "3-4",
+            "player": "Andy Sieurac",
+            "winrate": 0.75,
+            "commander": [
+                "Raffine, Scheming Seer"
+            ],
             "decklist": [
                 "1 Adeline, Resplendent Cathar",
                 "1 Spectral Adversary",
@@ -316,117 +324,16 @@
                 "1 Reprieve",
                 "1 Faerie Mastermind",
                 "1 Snow-Covered Island"
-            ],
-            "commander": [
-                "Raffine, Scheming Seer"
-            ],
-            "rank": "3-4",
-            "player": "Andy Sieurac"
-        },
-        {
-            "deck_id": "541661",
-            "decklist": [
-                "1 Archangel Elspeth",
-                "1 Umezawa's Jitte",
-                "1 Council's Judgment",
-                "1 The One Ring",
-                "1 The Wandering Emperor",
-                "1 Smuggler's Copter",
-                "1 Fateful Absence",
-                "1 Eladamri's Call",
-                "1 Dromoka's Command",
-                "1 Parallax Wave",
-                "1 Veil of Summer",
-                "1 Wild Growth",
-                "1 Green Sun's Zenith",
-                "1 Reprieve",
-                "1 Ephemerate",
-                "1 Utopia Sprawl",
-                "1 Oust",
-                "1 Eldritch Evolution",
-                "1 Shadowspear",
-                "1 Skullclamp",
-                "1 Animist's Might",
-                "1 Portable Hole",
-                "1 Swords to Plowshares",
-                "1 Melira, the Living Cure",
-                "1 Giver of Runes",
-                "1 Boreal Druid",
-                "1 Elesh Norn",
-                "1 Fyndhorn Elves",
-                "1 Llanowar Elves",
-                "1 Seasoned Dungeoneer",
-                "1 Palace Jailer",
-                "1 Delighted Halfling",
-                "1 Heliod, Sun-Crowned",
-                "1 Adeline, Resplendent Cathar",
-                "1 Restoration Angel",
-                "1 Skyclave Apparition",
-                "1 Archon of Emeria",
-                "1 Luminarch Aspirant",
-                "1 Undermountain Adventurer",
-                "1 White Plume Adventurer",
-                "1 Brimaz, King of Oreskos",
-                "1 Questing Beast",
-                "1 Knight of Autumn",
-                "1 Sigarda, Host of Herons",
-                "1 Solitude",
-                "1 Thalia, Heretic Cathar",
-                "1 Thalia, Guardian of Thraben",
-                "1 Thrun, the Last Troll",
-                "1 Carnage Tyrant",
-                "1 Drannith Magistrate",
-                "1 Wilson, Refined Grizzly",
-                "1 Voice of Resurgence",
-                "1 Elvish Mystic",
-                "1 Stoneforge Mystic",
-                "1 Mother of Runes",
-                "1 Birds of Paradise",
-                "1 Haywire Mite",
-                "1 Avacyn's Pilgrim",
-                "1 Renegade Rallier",
-                "1 Endurance",
-                "1 Cemetery Prowler",
-                "1 Eiganjo, Seat of the Empire",
-                "1 Misty Rainforest",
-                "1 Flooded Strand",
-                "1 Razorverge Thicket",
-                "1 Temple Garden",
-                "1 Windswept Heath",
-                "1 Stirring Wildwood",
-                "1 Wooded Foothills",
-                "1 Sunpetal Grove",
-                "1 Scattered Groves",
-                "1 Brushland",
-                "1 Horizon Canopy",
-                "1 Verdant Catacombs",
-                "1 Dryad Arbor",
-                "1 Eiganjo Castle",
-                "1 Boseiju, Who Endures",
-                "1 Overgrown Farmland",
-                "1 Command Tower",
-                "1 Prismatic Vista",
-                "1 Yavimaya, Cradle of Growth",
-                "1 Urza's Saga",
-                "1 Arid Mesa",
-                "1 Minas Tirith",
-                "1 Mirrex",
-                "1 Okina, Temple to the Grandfathers",
-                "1 Branchloft Pathway",
-                "1 Marsh Flats",
-                "1 Lair of the Hydra",
-                "1 Savannah",
-                "4 Plains",
-                "5 Forest"
-            ],
-            "commander": [
-                "Arwen, Mortal Queen"
-            ],
-            "rank": "5-8",
-            "player": "Marvin Liozu"
+            ]
         },
         {
             "deck_id": "541658",
+            "rank": "5-8",
+            "player": "Alexandre Habert",
+            "winrate": 0.75,
+            "commander": [
+                "Leovold, Emissary of Trest"
+            ],
             "decklist": [
                 "1 Force Spike",
                 "1 Spellseeker",
@@ -527,15 +434,17 @@
                 "1 Prismatic Vista",
                 "1 Island",
                 "1 Tropical Island"
-            ],
-            "commander": [
-                "Leovold, Emissary of Trest"
-            ],
-            "rank": "5-8",
-            "player": "Alexandre Habert"
+            ]
         },
         {
             "deck_id": "541659",
+            "rank": "5-8",
+            "player": "Pierre Clavieras Mengin",
+            "winrate": 0.75,
+            "commander": [
+                "Bruse Tarl, Boorish Herder",
+                "Yoshimaru, Ever Faithful"
+            ],
             "decklist": [
                 "1 Unexpectedly Absent",
                 "1 Adeline, Resplendent Cathar",
@@ -629,16 +538,17 @@
                 "1 Éowyn, Fearless Knight",
                 "1 Urza's Saga",
                 "1 Oust"
-            ],
-            "commander": [
-                "Bruse Tarl, Boorish Herder",
-                "Yoshimaru, Ever Faithful"
-            ],
-            "rank": "5-8",
-            "player": "Pierre Clavieras Mengin "
+            ]
         },
         {
             "deck_id": "541660",
+            "rank": "5-8",
+            "player": "Clément Achard",
+            "winrate": 0.75,
+            "commander": [
+                "Tana, the Bloodsower",
+                "Yoshimaru, Ever Faithful"
+            ],
             "decklist": [
                 "1 Luminarch Aspirant",
                 "1 Arwen, Mortal Queen",
@@ -738,13 +648,110 @@
                 "1 Wrenn and Six",
                 "1 Yavimaya, Cradle of Growth",
                 "1 Oust"
-            ],
-            "commander": [
-                "Tana, the Bloodsower",
-                "Yoshimaru, Ever Faithful"
-            ],
+            ]
+        },
+        {
+            "deck_id": "541661",
             "rank": "5-8",
-            "player": "Clément Achard"
+            "player": "Marvin Liozu",
+            "winrate": 0.75,
+            "commander": [
+                "Arwen, Mortal Queen"
+            ],
+            "decklist": [
+                "1 Archangel Elspeth",
+                "1 Umezawa's Jitte",
+                "1 Council's Judgment",
+                "1 The One Ring",
+                "1 The Wandering Emperor",
+                "1 Smuggler's Copter",
+                "1 Fateful Absence",
+                "1 Eladamri's Call",
+                "1 Dromoka's Command",
+                "1 Parallax Wave",
+                "1 Veil of Summer",
+                "1 Wild Growth",
+                "1 Green Sun's Zenith",
+                "1 Reprieve",
+                "1 Ephemerate",
+                "1 Utopia Sprawl",
+                "1 Oust",
+                "1 Eldritch Evolution",
+                "1 Shadowspear",
+                "1 Skullclamp",
+                "1 Animist's Might",
+                "1 Portable Hole",
+                "1 Swords to Plowshares",
+                "1 Melira, the Living Cure",
+                "1 Giver of Runes",
+                "1 Boreal Druid",
+                "1 Elesh Norn",
+                "1 Fyndhorn Elves",
+                "1 Llanowar Elves",
+                "1 Seasoned Dungeoneer",
+                "1 Palace Jailer",
+                "1 Delighted Halfling",
+                "1 Heliod, Sun-Crowned",
+                "1 Adeline, Resplendent Cathar",
+                "1 Restoration Angel",
+                "1 Skyclave Apparition",
+                "1 Archon of Emeria",
+                "1 Luminarch Aspirant",
+                "1 Undermountain Adventurer",
+                "1 White Plume Adventurer",
+                "1 Brimaz, King of Oreskos",
+                "1 Questing Beast",
+                "1 Knight of Autumn",
+                "1 Sigarda, Host of Herons",
+                "1 Solitude",
+                "1 Thalia, Heretic Cathar",
+                "1 Thalia, Guardian of Thraben",
+                "1 Thrun, the Last Troll",
+                "1 Carnage Tyrant",
+                "1 Drannith Magistrate",
+                "1 Wilson, Refined Grizzly",
+                "1 Voice of Resurgence",
+                "1 Elvish Mystic",
+                "1 Stoneforge Mystic",
+                "1 Mother of Runes",
+                "1 Birds of Paradise",
+                "1 Haywire Mite",
+                "1 Avacyn's Pilgrim",
+                "1 Renegade Rallier",
+                "1 Endurance",
+                "1 Cemetery Prowler",
+                "1 Eiganjo, Seat of the Empire",
+                "1 Misty Rainforest",
+                "1 Flooded Strand",
+                "1 Razorverge Thicket",
+                "1 Temple Garden",
+                "1 Windswept Heath",
+                "1 Stirring Wildwood",
+                "1 Wooded Foothills",
+                "1 Sunpetal Grove",
+                "1 Scattered Groves",
+                "1 Brushland",
+                "1 Horizon Canopy",
+                "1 Verdant Catacombs",
+                "1 Dryad Arbor",
+                "1 Eiganjo Castle",
+                "1 Boseiju, Who Endures",
+                "1 Overgrown Farmland",
+                "1 Command Tower",
+                "1 Prismatic Vista",
+                "1 Yavimaya, Cradle of Growth",
+                "1 Urza's Saga",
+                "1 Arid Mesa",
+                "1 Minas Tirith",
+                "1 Mirrex",
+                "1 Okina, Temple to the Grandfathers",
+                "1 Branchloft Pathway",
+                "1 Marsh Flats",
+                "1 Lair of the Hydra",
+                "1 Savannah",
+                "4 Plains",
+                "5 Forest"
+            ]
         }
     ]
 }

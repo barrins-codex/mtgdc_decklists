@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "44730",
+    "name": "DC",
+    "place": "Mont Shop (Campinas, São Paulo, Brazil)",
+    "players": "11 players",
+    "date": "30/05/23",
     "decks": [
         {
             "deck_id": "529887",
             "rank": "1",
             "player": "Luis Hamaguchi",
+            "winrate": 1.0,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -115,6 +120,7 @@
             "deck_id": "529888",
             "rank": "2",
             "player": "Felipe Gonçalves",
+            "winrate": 0.8,
             "commander": [
                 "Lurrus of the Dream-Den",
                 "Jirina, Dauntless General"
@@ -215,9 +221,5 @@
                 "6 Snow-Covered Plains"
             ]
         }
-    ],
-    "name": "DC",
-    "place": "Mont Shop (Campinas, São Paulo, Brazil)",
-    "players": "11 players",
-    "date": "30/05/23"
+    ]
 }

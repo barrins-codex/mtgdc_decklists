@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "18726",
+    "name": "FNM Hiveworld Cologne",
+    "place": "",
+    "players": "17 players",
+    "date": "09/03/18",
     "decks": [
         {
             "deck_id": "317027",
             "rank": "1",
             "player": "Ralph \"ralle\" Esser",
+            "winrate": 1.0,
             "commander": [
                 "Baral, Chief of Compliance"
             ],
@@ -81,6 +86,7 @@
             "deck_id": "317028",
             "rank": "2",
             "player": "Andre Luff",
+            "winrate": 0.8,
             "commander": [
                 "Sygg, River Cutthroat"
             ],
@@ -176,6 +182,7 @@
             "deck_id": "317029",
             "rank": "3-4",
             "player": "Alex Schmoll",
+            "winrate": 0.8,
             "commander": [
                 "Animar, Soul of Elements"
             ],
@@ -278,6 +285,7 @@
             "deck_id": "317030",
             "rank": "3-4",
             "player": "Richard Müller",
+            "winrate": 0.8,
             "commander": [
                 "Prossh, Skyraider of Kher"
             ],
@@ -369,9 +377,5 @@
                 "1 Arbor Elf"
             ]
         }
-    ],
-    "name": "FNM Hiveworld Cologne",
-    "place": "",
-    "players": "17 players",
-    "date": "09/03/18"
+    ]
 }

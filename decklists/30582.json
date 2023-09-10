@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "30582",
+    "name": "DC mini - MAY I.",
+    "place": "EDH Base",
+    "players": "8 players",
+    "date": "05/05/21",
     "decks": [
         {
             "deck_id": "438512",
             "rank": "1",
             "player": "Robert Starke",
+            "winrate": 1.0,
             "commander": [
                 "Lord Windgrace"
             ],
@@ -115,6 +120,7 @@
             "deck_id": "438513",
             "rank": "2",
             "player": "David Stepanek",
+            "winrate": 0.6666666666666666,
             "commander": [
                 "Octavia, Living Thesis"
             ],
@@ -193,9 +199,5 @@
                 "28 Island"
             ]
         }
-    ],
-    "name": "DC mini - MAY I.",
-    "place": "EDH Base",
-    "players": "8 players",
-    "date": "05/05/21"
+    ]
 }

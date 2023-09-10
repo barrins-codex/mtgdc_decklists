@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "33326",
+    "name": "Duel Commander",
+    "place": "Fulcrum ESports (Cainta, Philippines)",
+    "players": "8 players",
+    "date": "14/11/21",
     "decks": [
         {
             "deck_id": "454332",
             "rank": "1",
             "player": "Cilbert Corpuz",
+            "winrate": 1.0,
             "commander": [
                 "Rem Karolus, Stalwart Slayer"
             ],
@@ -109,6 +114,7 @@
             "deck_id": "454333",
             "rank": "2",
             "player": "Rai Reyes",
+            "winrate": 0.6666666666666666,
             "commander": [
                 "Klothys, God of Destiny"
             ],
@@ -204,9 +210,5 @@
                 "1 Zurgo Bellstriker"
             ]
         }
-    ],
-    "name": "Duel Commander",
-    "place": "Fulcrum ESports (Cainta, Philippines)",
-    "players": "8 players",
-    "date": "14/11/21"
+    ]
 }

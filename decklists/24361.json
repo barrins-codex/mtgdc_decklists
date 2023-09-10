@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "24361",
+    "name": "[DDL] Lounge League",
+    "place": "Darmstadt (Germany)",
+    "players": "8 players",
+    "date": "16/01/20",
     "decks": [
         {
             "deck_id": "370160",
             "rank": "1",
             "player": "Felix M.",
+            "winrate": 1.0,
             "commander": [
                 "Hogaak, Arisen Necropolis"
             ],
@@ -115,6 +120,7 @@
             "deck_id": "370161",
             "rank": "2",
             "player": "Stefan C.",
+            "winrate": 0.6666666666666666,
             "commander": [
                 "Akiri, Line-Slinger",
                 "Thrasios, Triton Hero"
@@ -220,9 +226,5 @@
                 "1 Seachrome Coast"
             ]
         }
-    ],
-    "name": "[DDL] Lounge League",
-    "place": "Darmstadt (Germany)",
-    "players": "8 players",
-    "date": "16/01/20"
+    ]
 }

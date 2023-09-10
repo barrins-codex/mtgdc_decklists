@@ -1,15 +1,19 @@
 {
     "format": "Duel Commander",
-    "id": 45371,
+    "id": "45371",
     "name": "FNM des K'artonnés",
     "place": "La Teste De Buch (France)",
     "players": "11 players",
     "date": "23/06/23",
     "decks": [
         {
-            "player": "Franck Thubé",
-            "rank": "1",
             "deck_id": "535158",
+            "rank": "1",
+            "player": "Franck Thubé",
+            "winrate": 1.0,
+            "commander": [
+                "Tivit, Seller of Secrets"
+            ],
             "decklist": [
                 "1 Arid Mesa",
                 "1 Baleful Strix",
@@ -110,15 +114,16 @@
                 "1 Watery Grave",
                 "1 Windswept Heath",
                 "1 Wrath of God"
-            ],
-            "commander": [
-                "Tivit, Seller of Secrets"
             ]
         },
         {
-            "player": "Philippe 'kinder' Métivier ",
-            "rank": "2",
             "deck_id": "535159",
+            "rank": "2",
+            "player": "Philippe 'kinder' Métivier",
+            "winrate": 0.8,
+            "commander": [
+                "The Beamtown Bullies"
+            ],
             "decklist": [
                 "1 Abrupt Decay",
                 "1 Arbor Elf",
@@ -219,9 +224,6 @@
                 "1 Wrenn and Six",
                 "1 Yavimaya, Cradle of Growth",
                 "1 Ziatora's Proving Ground"
-            ],
-            "commander": [
-                "The Beamtown Bullies"
             ]
         }
     ]

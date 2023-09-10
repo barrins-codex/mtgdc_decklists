@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "34722",
+    "name": "WANTED Saison 2 #9",
+    "place": "CartaRennes (Rennes, France)",
+    "players": "18 players",
+    "date": "09/02/22",
     "decks": [
         {
             "deck_id": "463004",
             "rank": "1",
             "player": "Ylan Lebris",
+            "winrate": 1.0,
             "commander": [
                 "Isamaru, Hound of Konda"
             ],
@@ -90,6 +95,7 @@
             "deck_id": "463005",
             "rank": "2",
             "player": "Lassa Yvonet",
+            "winrate": 0.8,
             "commander": [
                 "Adeliz, the Cinder Wind"
             ],
@@ -188,6 +194,7 @@
             "deck_id": "463006",
             "rank": "3",
             "player": "Mathieu Laurent",
+            "winrate": 0.8,
             "commander": [
                 "Marath, Will of the Wild"
             ],
@@ -294,6 +301,7 @@
             "deck_id": "463007",
             "rank": "4",
             "player": "Charlie Cha",
+            "winrate": 0.6,
             "commander": [
                 "Grenzo, Dungeon Warden"
             ],
@@ -393,9 +401,5 @@
                 "1 Wooded Foothills"
             ]
         }
-    ],
-    "name": "WANTED Saison 2 #9",
-    "place": "CartaRennes (Rennes, France)",
-    "players": "18 players",
-    "date": "09/02/22"
+    ]
 }

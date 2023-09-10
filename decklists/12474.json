@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "12474",
+    "name": "SuperCommander4 Sassari",
+    "place": "",
+    "players": "14 players",
+    "date": "13/05/16",
     "decks": [
         {
             "deck_id": "271791",
             "rank": "1",
             "player": "Bazzoni",
+            "winrate": 1.0,
             "commander": [
                 "Maelstrom Wanderer"
             ],
@@ -109,6 +114,7 @@
             "deck_id": "271792",
             "rank": "2",
             "player": "Simone Vernice",
+            "winrate": 0.8,
             "commander": [
                 "Grand Arbiter Augustin IV"
             ],
@@ -206,9 +212,5 @@
                 "1 Narset Transcendent"
             ]
         }
-    ],
-    "name": "SuperCommander4 Sassari",
-    "place": "",
-    "players": "14 players",
-    "date": "13/05/16"
+    ]
 }

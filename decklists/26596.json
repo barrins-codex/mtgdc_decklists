@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "26596",
+    "name": "Commander League S2 Bronze 2",
+    "place": "",
+    "players": "7 players",
+    "date": "18/07/20",
     "decks": [
         {
             "deck_id": "405355",
             "rank": "1",
             "player": "Fowcus",
+            "winrate": 1.0,
             "commander": [
                 "Venser, Shaper Savant"
             ],
@@ -85,6 +90,7 @@
             "deck_id": "405356",
             "rank": "2",
             "player": "Zoubrowska",
+            "winrate": 0.6666666666666666,
             "commander": [
                 "Thrasios, Triton Hero",
                 "Tymna the Weaver"
@@ -190,9 +196,5 @@
                 "1 Vizier of Remedies"
             ]
         }
-    ],
-    "name": "Commander League S2 Bronze 2",
-    "place": "",
-    "players": "7 players",
-    "date": "18/07/20"
+    ]
 }

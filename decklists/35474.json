@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "35474",
+    "name": "Vanguarda 3",
+    "place": "Vanguarda Geek (Bangu, Rio de Janeiro, Brazil)",
+    "players": "8 players",
+    "date": "27/03/22",
     "decks": [
         {
             "deck_id": "467887",
             "rank": "1",
             "player": "Caio",
+            "winrate": 1.0,
             "commander": [
                 "Shorikai, Genesis Engine"
             ],
@@ -92,6 +97,7 @@
             "deck_id": "467888",
             "rank": "2",
             "player": "Primo",
+            "winrate": 0.6666666666666666,
             "commander": [
                 "Trostani, Selesnya's Voice"
             ],
@@ -176,9 +182,5 @@
                 "13 Forest"
             ]
         }
-    ],
-    "name": "Vanguarda 3",
-    "place": "Vanguarda Geek (Bangu, Rio de Janeiro, Brazil)",
-    "players": "8 players",
-    "date": "27/03/22"
+    ]
 }

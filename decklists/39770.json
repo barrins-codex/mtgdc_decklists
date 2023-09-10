@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "39770",
+    "name": "Weatherlight Completed Cup",
+    "place": "Yichang (China)",
+    "players": "8 players",
+    "date": "27/11/22",
     "decks": [
         {
             "deck_id": "496423",
             "rank": "1",
             "player": "Neku",
+            "winrate": 1.0,
             "commander": [
                 "Juri, Master of the Revue"
             ],
@@ -105,6 +110,7 @@
             "deck_id": "496424",
             "rank": "2",
             "player": "Sorin",
+            "winrate": 0.6666666666666666,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -210,9 +216,5 @@
                 "1 Bone Shards"
             ]
         }
-    ],
-    "name": "Weatherlight Completed Cup",
-    "place": "Yichang (China)",
-    "players": "8 players",
-    "date": "27/11/22"
+    ]
 }

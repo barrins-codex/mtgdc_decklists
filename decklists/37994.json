@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "37994",
+    "name": "Wool Cup 41",
+    "place": "Kadou (Beijing, China)",
+    "players": "18 players",
+    "date": "21/08/22",
     "decks": [
         {
             "deck_id": "484251",
             "rank": "1",
             "player": "Xu Han",
+            "winrate": 1.0,
             "commander": [
                 "Niv-Mizzet Reborn"
             ],
@@ -115,6 +120,7 @@
             "deck_id": "484252",
             "rank": "2",
             "player": "Ziqi Xi",
+            "winrate": 0.8,
             "commander": [
                 "Golos, Tireless Pilgrim"
             ],
@@ -224,6 +230,7 @@
             "deck_id": "484253",
             "rank": "3-4",
             "player": "Zhenhao Chen",
+            "winrate": 0.8,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -333,6 +340,7 @@
             "deck_id": "484254",
             "rank": "3-4",
             "player": "Ruiyuan Shao",
+            "winrate": 0.8,
             "commander": [
                 "Sythis, Harvest's Hand"
             ],
@@ -432,9 +440,5 @@
                 "1 Yavimaya, Cradle of Growth"
             ]
         }
-    ],
-    "name": "Wool Cup 41",
-    "place": "Kadou (Beijing, China)",
-    "players": "18 players",
-    "date": "21/08/22"
+    ]
 }

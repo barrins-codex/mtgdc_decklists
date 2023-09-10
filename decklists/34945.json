@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "34945",
+    "name": "Duelan sa TG",
+    "place": "Tapped Games (Marikina City, Philippines)",
+    "players": "17 players",
+    "date": "26/02/22",
     "decks": [
         {
             "deck_id": "464348",
             "rank": "1",
             "player": "Gabe Enriquez",
+            "winrate": 1.0,
             "commander": [
                 "Klothys, God of Destiny"
             ],
@@ -110,6 +115,7 @@
             "deck_id": "464349",
             "rank": "2",
             "player": "Iverson Wayne Bulauan",
+            "winrate": 0.8,
             "commander": [
                 "Queen Marchesa"
             ],
@@ -216,6 +222,7 @@
             "deck_id": "464350",
             "rank": "3-4",
             "player": "Joel San Jose, Jr.",
+            "winrate": 0.8,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -325,6 +332,7 @@
             "deck_id": "464351",
             "rank": "3-4",
             "player": "Raymond Sanglay",
+            "winrate": 0.8,
             "commander": [
                 "Naban, Dean of Iteration"
             ],
@@ -406,9 +414,5 @@
                 "25 Snow-Covered Island"
             ]
         }
-    ],
-    "name": "Duelan sa TG",
-    "place": "Tapped Games (Marikina City, Philippines)",
-    "players": "17 players",
-    "date": "26/02/22"
+    ]
 }

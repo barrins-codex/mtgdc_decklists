@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "41157",
+    "name": "Weatherlight Completed Cup",
+    "place": "Yichang(China)",
+    "players": "8 players",
+    "date": "05/01/23",
     "decks": [
         {
             "deck_id": "505860",
             "rank": "1",
             "player": "Rong Ziyan",
+            "winrate": 1.0,
             "commander": [
                 "Niv-Mizzet Reborn"
             ],
@@ -115,6 +120,7 @@
             "deck_id": "505861",
             "rank": "2",
             "player": "Fu Hao",
+            "winrate": 0.6666666666666666,
             "commander": [
                 "Jeska, Thrice Reborn",
                 "Kraum, Ludevic's Opus"
@@ -207,9 +213,5 @@
                 "1 Zephyr Sentinel"
             ]
         }
-    ],
-    "name": "Weatherlight Completed Cup",
-    "place": "Yichang(China)",
-    "players": "8 players",
-    "date": "05/01/23"
+    ]
 }

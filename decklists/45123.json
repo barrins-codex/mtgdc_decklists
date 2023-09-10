@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "45123",
+    "name": "DC - EDH Brazil Championship",
+    "place": "Campinas (Campinas, São Paulo, Brazil)",
+    "players": "15 players",
+    "date": "06/06/23",
     "decks": [
         {
             "deck_id": "533127",
             "rank": "1",
             "player": "Pedro Bianchi",
+            "winrate": 1.0,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -115,6 +120,7 @@
             "deck_id": "533128",
             "rank": "2",
             "player": "Felipe Gonçalves",
+            "winrate": 0.8,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -220,9 +226,5 @@
                 "1 Windswept Heath"
             ]
         }
-    ],
-    "name": "DC - EDH Brazil Championship",
-    "place": "Campinas (Campinas, São Paulo, Brazil)",
-    "players": "15 players",
-    "date": "06/06/23"
+    ]
 }

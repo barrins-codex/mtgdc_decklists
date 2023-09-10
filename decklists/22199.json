@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "22199",
+    "name": "81st \"New Year Cake\" Cup",
+    "place": "Shanghai",
+    "players": "12 players",
+    "date": "02/06/19",
     "decks": [
         {
             "deck_id": "350299",
             "rank": "1",
             "player": "Jiang Ling",
+            "winrate": 1.0,
             "commander": [
                 "Saskia the Unyielding"
             ],
@@ -111,9 +116,5 @@
                 "1 Bayou"
             ]
         }
-    ],
-    "name": "81st \"New Year Cake\" Cup",
-    "place": "Shanghai",
-    "players": "12 players",
-    "date": "02/06/19"
+    ]
 }

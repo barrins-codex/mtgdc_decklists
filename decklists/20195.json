@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "20195",
+    "name": "MP - Monthly Duel Commander",
+    "place": "",
+    "players": "11 players",
+    "date": "23/09/18",
     "decks": [
         {
             "deck_id": "331631",
             "rank": "1",
             "player": "Jasper Robin Nielsen",
+            "winrate": 1.0,
             "commander": [
                 "Tymna the Weaver",
                 "Kraum, Ludevic's Opus"
@@ -115,6 +120,7 @@
             "deck_id": "331632",
             "rank": "2",
             "player": "Daniel Lind",
+            "winrate": 0.8,
             "commander": [
                 "Titania, Protector of Argoth"
             ],
@@ -202,9 +208,5 @@
                 "1 Mouth of Ronom"
             ]
         }
-    ],
-    "name": "MP - Monthly Duel Commander",
-    "place": "",
-    "players": "11 players",
-    "date": "23/09/18"
+    ]
 }

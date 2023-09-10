@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "37513",
+    "name": "Circuit Season1 Trial4",
+    "place": "Forge North Point (Caloocan, Philippines)",
+    "players": "16 players",
+    "date": "23/07/22",
     "decks": [
         {
             "deck_id": "481120",
             "rank": "1",
             "player": "Mark Toh",
+            "winrate": 1.0,
             "commander": [
                 "Minsc &amp; Boo, Timeless Heroes"
             ],
@@ -107,6 +112,7 @@
             "deck_id": "481121",
             "rank": "2",
             "player": "Mark Lasam",
+            "winrate": 0.8,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -216,6 +222,7 @@
             "deck_id": "481122",
             "rank": "3",
             "player": "Patrick Pineda",
+            "winrate": 0.8,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -323,6 +330,7 @@
             "deck_id": "481123",
             "rank": "4",
             "player": "Ben Co",
+            "winrate": 0.6,
             "commander": [
                 "Dennick, Pious Apprentice"
             ],
@@ -420,9 +428,5 @@
                 "1 Windswept Heath"
             ]
         }
-    ],
-    "name": "Circuit Season1 Trial4",
-    "place": "Forge North Point (Caloocan, Philippines)",
-    "players": "16 players",
-    "date": "23/07/22"
+    ]
 }

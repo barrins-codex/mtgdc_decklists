@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "30769",
+    "name": "RJ Cup 2021 #19",
+    "place": "League Castle (Mong Kok, Hong Kong)",
+    "players": "10 players",
+    "date": "22/05/21",
     "decks": [
         {
             "deck_id": "439644",
             "rank": "1",
             "player": "Christopher Tong",
+            "winrate": 1.0,
             "commander": [
                 "Kraum, Ludevic's Opus",
                 "Malcolm, Keen-Eyed Navigator"
@@ -104,6 +109,7 @@
             "deck_id": "439645",
             "rank": "2",
             "player": "Wilson Lai",
+            "winrate": 0.8,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -209,9 +215,5 @@
                 "1 Cryptic Command"
             ]
         }
-    ],
-    "name": "RJ Cup 2021 #19",
-    "place": "League Castle (Mong Kok, Hong Kong)",
-    "players": "10 players",
-    "date": "22/05/21"
+    ]
 }

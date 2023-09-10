@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "25698",
+    "name": "Commander League S1 Gold",
+    "place": "",
+    "players": "6 players",
+    "date": "15/05/20",
     "decks": [
         {
             "deck_id": "391068",
             "rank": "1",
             "player": "Soullessoni",
+            "winrate": 1.0,
             "commander": [
                 "Lutri, the Spellchaser",
                 "Rielle, the Everwise"
@@ -104,6 +109,7 @@
             "deck_id": "391069",
             "rank": "2",
             "player": "Tutu",
+            "winrate": 0.6666666666666666,
             "commander": [
                 "Kinnan, Bonder Prodigy"
             ],
@@ -195,9 +201,5 @@
                 "8 Snow-Covered Forest"
             ]
         }
-    ],
-    "name": "Commander League S1 Gold",
-    "place": "",
-    "players": "6 players",
-    "date": "15/05/20"
+    ]
 }

@@ -1,15 +1,20 @@
 {
     "format": "Duel Commander",
-    "id": 42106,
+    "id": "42106",
     "name": "Etneb Gaming",
     "place": "Aling Marings Dojo (Rizal, Philippines)",
     "players": "16 players",
     "date": "05/03/23",
     "decks": [
         {
-            "player": "Edison Gabutero",
-            "rank": "1",
             "deck_id": "512142",
+            "rank": "1",
+            "player": "Edison Gabutero",
+            "winrate": 1.0,
+            "commander": [
+                "Reyhan, Last of the Abzan",
+                "Yoshimaru, Ever Faithful"
+            ],
             "decklist": [
                 "1 Arid Mesa",
                 "1 Boseiju, Who Endures",
@@ -102,16 +107,17 @@
                 "1 The Ozolith",
                 "1 The Wandering Emperor",
                 "1 Umezawa's Jitte"
-            ],
-            "commander": [
-                "Reyhan, Last of the Abzan",
-                "Yoshimaru, Ever Faithful"
             ]
         },
         {
-            "player": "Deej \"el Cholo Loco\" Miranda",
-            "rank": "2",
             "deck_id": "512143",
+            "rank": "2",
+            "player": "Deej \"el Cholo Loco\" Miranda",
+            "winrate": 0.8,
+            "commander": [
+                "Faceless One",
+                "Gut, True Soul Zealot"
+            ],
             "decklist": [
                 "1 Ancient Den",
                 "1 Arid Mesa",
@@ -206,16 +212,16 @@
                 "1 Parallax Wave",
                 "1 Skullclamp",
                 "1 Smuggler's Copter"
-            ],
-            "commander": [
-                "Faceless One",
-                "Gut, True Soul Zealot"
             ]
         },
         {
-            "player": "Paolo \"wetpacker\" Tolentino",
-            "rank": "3-4",
             "deck_id": "512144",
+            "rank": "3-4",
+            "player": "Paolo \"wetpacker\" Tolentino",
+            "winrate": 0.8,
+            "commander": [
+                "Dragonlord Ojutai"
+            ],
             "decklist": [
                 "1 Celestial Colonnade",
                 "1 Silundi Vision",
@@ -311,15 +317,16 @@
                 "1 Reconnaissance",
                 "1 Treachery",
                 "1 Out of Time"
-            ],
-            "commander": [
-                "Dragonlord Ojutai"
             ]
         },
         {
-            "player": "Darren Almondia",
-            "rank": "3-4",
             "deck_id": "512145",
+            "rank": "3-4",
+            "player": "Darren Almondia",
+            "winrate": 0.8,
+            "commander": [
+                "Juri, Master of the Revue"
+            ],
             "decklist": [
                 "1 Claim the Firstborn",
                 "1 Collateral Damage",
@@ -410,9 +417,6 @@
                 "1 Wooded Foothills",
                 "5 Swamp",
                 "7 Mountain"
-            ],
-            "commander": [
-                "Juri, Master of the Revue"
             ]
         }
     ]

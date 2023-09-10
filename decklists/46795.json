@@ -1,15 +1,19 @@
 {
     "format": "Duel Commander",
-    "id": 46795,
+    "id": "46795",
     "name": "Glass City Duel Commander #5",
     "place": "Toledo Game Room (Toledo, OH)",
     "players": "11 players",
     "date": "13/08/23",
     "decks": [
         {
-            "player": "Anthony Vasaturo",
-            "rank": "1",
             "deck_id": "545950",
+            "rank": "1",
+            "player": "Anthony Vasaturo",
+            "winrate": 1.0,
+            "commander": [
+                "Tivit, Seller of Secrets"
+            ],
             "decklist": [
                 "1 Archmage's Charm",
                 "1 Arid Mesa",
@@ -110,15 +114,16 @@
                 "1 Wash Away",
                 "1 Watery Grave",
                 "1 Windswept Heath"
-            ],
-            "commander": [
-                "Tivit, Seller of Secrets"
             ]
         },
         {
-            "player": "Dennis Venier",
-            "rank": "2",
             "deck_id": "545951",
+            "rank": "2",
+            "player": "Dennis Venier",
+            "winrate": 0.8,
+            "commander": [
+                "Kytheon, Hero of Akros"
+            ],
             "decklist": [
                 "1 Adeline, Resplendent Cathar",
                 "1 Akroma's Will",
@@ -191,15 +196,16 @@
                 "1 White Plume Adventurer",
                 "1 Winter Orb",
                 "1 Yoshimaru, Ever Faithful"
-            ],
-            "commander": [
-                "Kytheon, Hero of Akros"
             ]
         },
         {
-            "player": "Brennan Mcalear",
-            "rank": "3-4",
             "deck_id": "545952",
+            "rank": "3-4",
+            "player": "Brennan Mcalear",
+            "winrate": 0.6,
+            "commander": [
+                "Yawgmoth, Thran Physician"
+            ],
             "decklist": [
                 "1 Ayara, First of Locthwain",
                 "1 Bastion of Remembrance",
@@ -274,15 +280,16 @@
                 "1 Vraan, Executioner Thane",
                 "1 Woe Strider",
                 "1 Zulaport Cutthroat"
-            ],
-            "commander": [
-                "Yawgmoth, Thran Physician"
             ]
         },
         {
-            "player": "Jayme Mcbride",
-            "rank": "3-4",
             "deck_id": "545953",
+            "rank": "3-4",
+            "player": "Jayme Mcbride",
+            "winrate": 0.6,
+            "commander": [
+                "Tivit, Seller of Secrets"
+            ],
             "decklist": [
                 "1 Archmage's Charm",
                 "1 Arid Mesa",
@@ -383,9 +390,6 @@
                 "1 Watery Grave",
                 "1 Windswept Heath",
                 "1 Wrath of God"
-            ],
-            "commander": [
-                "Tivit, Seller of Secrets"
             ]
         }
     ]

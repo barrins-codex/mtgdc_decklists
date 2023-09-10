@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "34118",
+    "name": "DC",
+    "place": "Omegastore (Périgueux, France)",
+    "players": "16 players",
+    "date": "02/01/22",
     "decks": [
         {
             "deck_id": "459447",
             "rank": "1",
             "player": "Sebastien Flottes",
+            "winrate": 1.0,
             "commander": [
                 "Malcolm, Keen-Eyed Navigator",
                 "Kraum, Ludevic's Opus"
@@ -99,6 +104,7 @@
             "deck_id": "459448",
             "rank": "2",
             "player": "Jonathan Eme",
+            "winrate": 0.8,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -186,6 +192,7 @@
             "deck_id": "459449",
             "rank": "3-4",
             "player": "Cédric Allemandou",
+            "winrate": 0.8,
             "commander": [
                 "Malcolm, Keen-Eyed Navigator",
                 "Livio, Oathsworn Sentinel"
@@ -284,9 +291,5 @@
                 "5 Snow-Covered Island"
             ]
         }
-    ],
-    "name": "DC",
-    "place": "Omegastore (Périgueux, France)",
-    "players": "16 players",
-    "date": "02/01/22"
+    ]
 }

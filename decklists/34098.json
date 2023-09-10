@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "34098",
+    "name": "Duel Commander Weekly Pod B",
+    "place": "Mana Underground (Lagro, Philippines)",
+    "players": "10 players",
+    "date": "02/01/22",
     "decks": [
         {
             "deck_id": "459323",
             "rank": "1",
             "player": "Paul \"shaq\" Pecaoco",
+            "winrate": 1.0,
             "commander": [
                 "Sythis, Harvest's Hand"
             ],
@@ -106,6 +111,7 @@
             "deck_id": "459324",
             "rank": "2",
             "player": "Robert Soriano",
+            "winrate": 0.8,
             "commander": [
                 "Hogaak, Arisen Necropolis"
             ],
@@ -211,9 +217,5 @@
                 "1 Yavimaya, Cradle of Growth"
             ]
         }
-    ],
-    "name": "Duel Commander Weekly Pod B",
-    "place": "Mana Underground (Lagro, Philippines)",
-    "players": "10 players",
-    "date": "02/01/22"
+    ]
 }

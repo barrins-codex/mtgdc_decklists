@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "25357",
+    "name": "COVID Confinment Event",
+    "place": "Online",
+    "players": "14 players",
+    "date": "22/04/20",
     "decks": [
         {
             "deck_id": "381252",
             "rank": "1",
             "player": "Eric \"morchiswe\" Genin",
+            "winrate": 1.0,
             "commander": [
                 "Iname, Death Aspect"
             ],
@@ -91,6 +96,7 @@
             "deck_id": "381253",
             "rank": "2",
             "player": "Antoine Urset",
+            "winrate": 0.8,
             "commander": [
                 "Isamaru, Hound of Konda"
             ],
@@ -170,9 +176,5 @@
                 "1 Mana Tithe"
             ]
         }
-    ],
-    "name": "COVID Confinment Event",
-    "place": "Online",
-    "players": "14 players",
-    "date": "22/04/20"
+    ]
 }

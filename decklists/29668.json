@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "29668",
+    "name": "Commander League - S2 Side-Event",
+    "place": "Discord",
+    "players": "20 players",
+    "date": "13/03/21",
     "decks": [
         {
             "deck_id": "432715",
             "rank": "1",
             "player": "Hannibal44",
+            "winrate": 1.0,
             "commander": [
                 "Rograkh, Son of Rohgahh",
                 "Keleth, Sunmane Familiar"
@@ -108,6 +113,7 @@
             "deck_id": "432716",
             "rank": "2",
             "player": "Midas",
+            "winrate": 0.8,
             "commander": [
                 "Rograkh, Son of Rohgahh",
                 "Keleth, Sunmane Familiar"
@@ -205,6 +211,7 @@
             "deck_id": "432717",
             "rank": "3",
             "player": "Wentals",
+            "winrate": 0.8,
             "commander": [
                 "Klothys, God of Destiny"
             ],
@@ -299,6 +306,7 @@
             "deck_id": "432718",
             "rank": "4",
             "player": "teepex",
+            "winrate": 0.6,
             "commander": [
                 "Dargo, the Shipwrecker",
                 "Silas Renn, Seeker Adept"
@@ -404,9 +412,5 @@
                 "1 Darkslick Shores"
             ]
         }
-    ],
-    "name": "Commander League - S2 Side-Event",
-    "place": "Discord",
-    "players": "20 players",
-    "date": "13/03/21"
+    ]
 }

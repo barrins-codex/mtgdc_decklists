@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "35517",
+    "name": "29th Bank President Cup",
+    "place": "Hongyu (Hefei, China)",
+    "players": "8 players",
+    "date": "02/04/22",
     "decks": [
         {
             "deck_id": "468103",
             "rank": "1",
             "player": "Jsd",
+            "winrate": 1.0,
             "commander": [
                 "Light-Paws, Emperor's Voice"
             ],
@@ -96,6 +101,7 @@
             "deck_id": "468104",
             "rank": "2",
             "player": "Duoyan Li",
+            "winrate": 0.6666666666666666,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -187,9 +193,5 @@
                 "1 Blood Moon"
             ]
         }
-    ],
-    "name": "29th Bank President Cup",
-    "place": "Hongyu (Hefei, China)",
-    "players": "8 players",
-    "date": "02/04/22"
+    ]
 }

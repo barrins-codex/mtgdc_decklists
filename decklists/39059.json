@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "39059",
+    "name": "Monthly DC",
+    "place": "Role Games (France)",
+    "players": "10 players",
+    "date": "23/10/22",
     "decks": [
         {
             "deck_id": "491206",
             "rank": "1",
             "player": "Jonathan Gomis",
+            "winrate": 1.0,
             "commander": [
                 "Light-Paws, Emperor's Voice"
             ],
@@ -85,6 +90,7 @@
             "deck_id": "491207",
             "rank": "2",
             "player": "Matthieu Tassa",
+            "winrate": 0.8,
             "commander": [
                 "Octavia, Living Thesis"
             ],
@@ -168,9 +174,5 @@
                 "1 Winds of Rebuke"
             ]
         }
-    ],
-    "name": "Monthly DC",
-    "place": "Role Games (France)",
-    "players": "10 players",
-    "date": "23/10/22"
+    ]
 }

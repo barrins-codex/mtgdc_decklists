@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "32554",
+    "name": "Duel Commander REM",
+    "place": "Le vizz boutique (Rouen, France)",
+    "players": "13 players",
+    "date": "26/09/21",
     "decks": [
         {
             "deck_id": "449978",
             "rank": "1",
             "player": "Julien Boulet",
+            "winrate": 1.0,
             "commander": [
                 "Yorion, Sky Nomad"
             ],
@@ -99,6 +104,7 @@
             "deck_id": "449979",
             "rank": "2",
             "player": "Victor Sorreau",
+            "winrate": 0.8,
             "commander": [
                 "Grist, the Hunger Tide"
             ],
@@ -191,9 +197,5 @@
                 "8 Forest"
             ]
         }
-    ],
-    "name": "Duel Commander REM",
-    "place": "Le vizz boutique (Rouen, France)",
-    "players": "13 players",
-    "date": "26/09/21"
+    ]
 }

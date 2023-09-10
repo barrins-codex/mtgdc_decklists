@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "21580",
+    "name": "Trial Zap",
+    "place": "Asian Gate (Blois)",
+    "players": "18 players",
+    "date": "07/04/19",
     "decks": [
         {
             "deck_id": "344874",
             "rank": "1",
             "player": "Remy Gaspard (reyanderson7)",
+            "winrate": 1.0,
             "commander": [
                 "Tajic, Legion's Edge"
             ],
@@ -102,6 +107,7 @@
             "deck_id": "344875",
             "rank": "2",
             "player": "Quentin Rullaud (bobota852)",
+            "winrate": 0.8,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -185,6 +191,7 @@
             "deck_id": "344876",
             "rank": "3",
             "player": "Grégoire Payan (koraysh)",
+            "winrate": 0.8,
             "commander": [
                 "Karador, Ghost Chieftain"
             ],
@@ -291,6 +298,7 @@
             "deck_id": "344877",
             "rank": "4",
             "player": "Jeoffrey Nicolas",
+            "winrate": 0.6,
             "commander": [
                 "Yuriko, the Tiger's Shadow"
             ],
@@ -382,9 +390,5 @@
                 "1 Unsubstantiate"
             ]
         }
-    ],
-    "name": "Trial Zap",
-    "place": "Asian Gate (Blois)",
-    "players": "18 players",
-    "date": "07/04/19"
+    ]
 }

@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "34190",
+    "name": "WANTED Saison 2 #4",
+    "place": "CartaRennes (Rennes, France)",
+    "players": "14 players",
+    "date": "05/01/22",
     "decks": [
         {
             "deck_id": "459879",
             "rank": "1",
             "player": "Ylan Le Bris",
+            "winrate": 1.0,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -91,6 +96,7 @@
             "deck_id": "459880",
             "rank": "2",
             "player": "Aurélien Lion",
+            "winrate": 0.8,
             "commander": [
                 "The First Sliver"
             ],
@@ -200,6 +206,7 @@
             "deck_id": "459881",
             "rank": "3",
             "player": "Léon Le Loir",
+            "winrate": 0.6,
             "commander": [
                 "Bruvac the Grandiloquent"
             ],
@@ -276,9 +283,5 @@
                 "30 Island"
             ]
         }
-    ],
-    "name": "WANTED Saison 2 #4",
-    "place": "CartaRennes (Rennes, France)",
-    "players": "14 players",
-    "date": "05/01/22"
+    ]
 }

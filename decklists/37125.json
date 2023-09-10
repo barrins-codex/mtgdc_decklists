@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "37125",
+    "name": "Mtg Var Tournament Dc 3.1",
+    "place": "Fight Club (La Crau France)",
+    "players": "12 players",
+    "date": "01/07/22",
     "decks": [
         {
             "deck_id": "478685",
             "rank": "1",
             "player": "Loïc Baverel",
+            "winrate": 1.0,
             "commander": [
                 "Minsc &amp; Boo, Timeless Heroes"
             ],
@@ -106,6 +111,7 @@
             "deck_id": "478686",
             "rank": "2",
             "player": "Eric Capitao",
+            "winrate": 0.8,
             "commander": [
                 "Minsc &amp; Boo, Timeless Heroes"
             ],
@@ -203,6 +209,7 @@
             "deck_id": "478687",
             "rank": "3-4",
             "player": "Pierre Almaraz",
+            "winrate": 0.6,
             "commander": [
                 "Dennick, Pious Apprentice"
             ],
@@ -303,6 +310,7 @@
             "deck_id": "478688",
             "rank": "3-4",
             "player": "David Cremieux",
+            "winrate": 0.6,
             "commander": [
                 "Xenagos, God of Revels"
             ],
@@ -396,9 +404,5 @@
                 "8 Forest"
             ]
         }
-    ],
-    "name": "Mtg Var Tournament Dc 3.1",
-    "place": "Fight Club (La Crau France)",
-    "players": "12 players",
-    "date": "01/07/22"
+    ]
 }

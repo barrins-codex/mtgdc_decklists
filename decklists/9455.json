@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "9455",
+    "name": "8th Commander 1x1 (Rio de Janeiro, Brazil)",
+    "place": "",
+    "players": "8 players",
+    "date": "28/03/15",
     "decks": [
         {
             "deck_id": "254194",
             "rank": "1",
             "player": "Fernando Secco",
+            "winrate": 1.0,
             "commander": [
                 "Daretti, Scrap Savant"
             ],
@@ -89,9 +94,5 @@
                 "1 Scrap Mastery"
             ]
         }
-    ],
-    "name": "8th Commander 1x1 (Rio de Janeiro, Brazil)",
-    "place": "",
-    "players": "8 players",
-    "date": "28/03/15"
+    ]
 }

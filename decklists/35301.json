@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "35301",
+    "name": "DC Weekly Pod B",
+    "place": "Mana Underground (Lagro, Philippines)",
+    "players": "12 players",
+    "date": "13/03/22",
     "decks": [
         {
             "deck_id": "466829",
             "rank": "1",
             "player": "Jobe Pre",
+            "winrate": 1.0,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -92,6 +97,7 @@
             "deck_id": "466830",
             "rank": "2",
             "player": "Rossini Buado",
+            "winrate": 0.8,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -177,9 +183,5 @@
                 "1 Zurgo Bellstriker"
             ]
         }
-    ],
-    "name": "DC Weekly Pod B",
-    "place": "Mana Underground (Lagro, Philippines)",
-    "players": "12 players",
-    "date": "13/03/22"
+    ]
 }

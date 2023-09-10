@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "9844",
+    "name": "EDH",
+    "place": "Get Your Game On (Ann Arbor, MI)",
+    "players": "19 players",
+    "date": "30/05/15",
     "decks": [
         {
             "deck_id": "256736",
             "rank": "1",
             "player": "Bryan Hockey",
+            "winrate": 1.0,
             "commander": [
                 "Grand Arbiter Augustin IV"
             ],
@@ -103,6 +108,7 @@
             "deck_id": "256737",
             "rank": "2",
             "player": "David Naszradi",
+            "winrate": 0.8,
             "commander": [
                 "Anafenza, the Foremost"
             ],
@@ -212,6 +218,7 @@
             "deck_id": "256738",
             "rank": "3-4",
             "player": "Wes Herr",
+            "winrate": 0.8,
             "commander": [
                 "Daretti, Scrap Savant"
             ],
@@ -298,6 +305,7 @@
             "deck_id": "256739",
             "rank": "3-4",
             "player": "Charlie Trepod",
+            "winrate": 0.8,
             "commander": [
                 "Tasigur, the Golden Fang"
             ],
@@ -400,9 +408,5 @@
                 "1 Woodland Cemetery"
             ]
         }
-    ],
-    "name": "EDH",
-    "place": "Get Your Game On (Ann Arbor, MI)",
-    "players": "19 players",
-    "date": "30/05/15"
+    ]
 }

@@ -1,15 +1,19 @@
 {
     "format": "Duel Commander",
-    "id": 42255,
+    "id": "42255",
     "name": "DC Event Unofficial",
     "place": "Naya (Jinan, China)",
     "players": "8 players",
     "date": "11/03/23",
     "decks": [
         {
-            "player": "Qin Zihao",
-            "rank": "1",
             "deck_id": "512919",
+            "rank": "1",
+            "player": "Qin Zihao",
+            "winrate": 1.0,
+            "commander": [
+                "Aminatou, the Fateshifter"
+            ],
             "decklist": [
                 "1 Abdel Adrian, Gorion's Ward",
                 "1 Adarkar Wastes",
@@ -110,15 +114,17 @@
                 "1 Wash Away",
                 "1 Watery Grave",
                 "1 Windswept Heath"
-            ],
-            "commander": [
-                "Aminatou, the Fateshifter"
             ]
         },
         {
-            "player": "Yu Hang",
-            "rank": "2",
             "deck_id": "512920",
+            "rank": "2",
+            "player": "Yu Hang",
+            "winrate": 0.6666666666666666,
+            "commander": [
+                "Tana, the Bloodsower",
+                "Yoshimaru, Ever Faithful"
+            ],
             "decklist": [
                 "1 Abrade",
                 "1 Adeline, Resplendent Cathar",
@@ -216,10 +222,6 @@
                 "1 Wooded Foothills",
                 "1 Yavimaya, Cradle of Growth",
                 "1 Zurgo Bellstriker"
-            ],
-            "commander": [
-                "Tana, the Bloodsower",
-                "Yoshimaru, Ever Faithful"
             ]
         }
     ]

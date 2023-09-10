@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "20443",
+    "name": "64th \"New Year Cake\" Cup",
+    "place": "Shanghai",
+    "players": "9 players",
+    "date": "28/10/18",
     "decks": [
         {
             "deck_id": "333969",
             "rank": "1",
             "player": "Dai Wenbin",
+            "winrate": 1.0,
             "commander": [
                 "Azusa, Lost but Seeking"
             ],
@@ -93,9 +98,5 @@
                 "1 Lotus Cobra"
             ]
         }
-    ],
-    "name": "64th \"New Year Cake\" Cup",
-    "place": "Shanghai",
-    "players": "9 players",
-    "date": "28/10/18"
+    ]
 }

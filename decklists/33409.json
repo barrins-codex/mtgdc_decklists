@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "33409",
+    "name": "Bank President Cup",
+    "place": "Hefei (China)",
+    "players": "8 players",
+    "date": "21/11/21",
     "decks": [
         {
             "deck_id": "454770",
             "rank": "1",
             "player": "Hang Suo",
+            "winrate": 1.0,
             "commander": [
                 "The Scarab God"
             ],
@@ -103,6 +108,7 @@
             "deck_id": "454771",
             "rank": "2",
             "player": "Zhenyuan Ma",
+            "winrate": 0.6666666666666666,
             "commander": [
                 "Adeliz, the Cinder Wind"
             ],
@@ -199,9 +205,5 @@
                 "1 Wooded Foothills"
             ]
         }
-    ],
-    "name": "Bank President Cup",
-    "place": "Hefei (China)",
-    "players": "8 players",
-    "date": "21/11/21"
+    ]
 }

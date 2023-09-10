@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "43828",
+    "name": "Bank President Cup",
+    "place": "Hongyu Store (Hefei, China)",
+    "players": "14 players",
+    "date": "29/04/23",
     "decks": [
         {
             "deck_id": "523541",
             "rank": "1",
             "player": "Jingyi Pan",
+            "winrate": 1.0,
             "commander": [
                 "Atraxa, Grand Unifier"
             ],
@@ -115,6 +120,7 @@
             "deck_id": "523542",
             "rank": "2",
             "player": "Ning Du",
+            "winrate": 0.8,
             "commander": [
                 "Juri, Master of the Revue"
             ],
@@ -212,9 +218,5 @@
                 "1 Chandra, Acolyte of Flame"
             ]
         }
-    ],
-    "name": "Bank President Cup",
-    "place": "Hongyu Store (Hefei, China)",
-    "players": "14 players",
-    "date": "29/04/23"
+    ]
 }

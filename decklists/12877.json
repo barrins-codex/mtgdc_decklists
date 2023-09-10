@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "12877",
+    "name": "WNM",
+    "place": "Jeuxjubes",
+    "players": "10 players",
+    "date": "29/06/16",
     "decks": [
         {
             "deck_id": "274874",
             "rank": "1",
             "player": "Guillaume Pirat",
+            "winrate": 1.0,
             "commander": [
                 "Ezuri, Renegade Leader"
             ],
@@ -84,9 +89,5 @@
                 "28 Forest"
             ]
         }
-    ],
-    "name": "WNM",
-    "place": "Jeuxjubes",
-    "players": "10 players",
-    "date": "29/06/16"
+    ]
 }

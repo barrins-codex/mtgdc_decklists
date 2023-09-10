@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "31093",
+    "name": "Duel Commander",
+    "place": "Manabolt (Limeira, Brazil)",
+    "players": "8 players",
+    "date": "12/06/21",
     "decks": [
         {
             "deck_id": "441795",
             "rank": "1",
             "player": "Lucas Feliz",
+            "winrate": 1.0,
             "commander": [
                 "Octavia, Living Thesis"
             ],
@@ -89,6 +94,7 @@
             "deck_id": "441796",
             "rank": "2",
             "player": "Ivan Bais",
+            "winrate": 0.6666666666666666,
             "commander": [
                 "Esika, God of the Tree"
             ],
@@ -194,9 +200,5 @@
                 "1 Bayou"
             ]
         }
-    ],
-    "name": "Duel Commander",
-    "place": "Manabolt (Limeira, Brazil)",
-    "players": "8 players",
-    "date": "12/06/21"
+    ]
 }

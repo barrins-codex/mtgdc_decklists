@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "24173",
+    "name": "Dankeschön Event",
+    "place": "Hiveworld (Cologne)",
+    "players": "12 players",
+    "date": "28/12/19",
     "decks": [
         {
             "deck_id": "368711",
             "rank": "1",
             "player": "Julian Heßling",
+            "winrate": 1.0,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -87,6 +92,7 @@
             "deck_id": "368712",
             "rank": "2",
             "player": "Kevin Hucklenbroich",
+            "winrate": 0.8,
             "commander": [
                 "Hapatra, Vizier of Poisons"
             ],
@@ -179,9 +185,5 @@
                 "8 Forest"
             ]
         }
-    ],
-    "name": "Dankeschön Event",
-    "place": "Hiveworld (Cologne)",
-    "players": "12 players",
-    "date": "28/12/19"
+    ]
 }

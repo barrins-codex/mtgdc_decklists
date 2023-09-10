@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "41240",
+    "name": "Monarch Tuesday Night Duel",
+    "place": "Monarch Games (Marikina City, Philippines)",
+    "players": "12 players",
+    "date": "07/02/23",
     "decks": [
         {
             "deck_id": "506448",
             "rank": "1",
             "player": "Dinno Zaide",
+            "winrate": 1.0,
             "commander": [
                 "Ghyrson Starn, Kelermorph"
             ],
@@ -106,6 +111,7 @@
             "deck_id": "506449",
             "rank": "2",
             "player": "Richmond Ortiz",
+            "winrate": 0.8,
             "commander": [
                 "Yoshimaru, Ever Faithful",
                 "Bruse Tarl, Boorish Herder"
@@ -215,6 +221,7 @@
             "deck_id": "506450",
             "rank": "3",
             "player": "Ezra Mendiola",
+            "winrate": 0.6,
             "commander": [
                 "Tivit, Seller of Secrets"
             ],
@@ -324,6 +331,7 @@
             "deck_id": "506451",
             "rank": "4",
             "player": "Lorenzo Paredes",
+            "winrate": 0.6,
             "commander": [
                 "The Gitrog Monster"
             ],
@@ -421,9 +429,5 @@
                 "1 Gerrard's Hourglass Pendant"
             ]
         }
-    ],
-    "name": "Monarch Tuesday Night Duel",
-    "place": "Monarch Games (Marikina City, Philippines)",
-    "players": "12 players",
-    "date": "07/02/23"
+    ]
 }

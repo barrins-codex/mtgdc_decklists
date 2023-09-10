@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "41288",
+    "name": "Fight Club Mtg Var Dc 1.3",
+    "place": "La Crau (France)",
+    "players": "20 players",
+    "date": "10/02/23",
     "decks": [
         {
             "deck_id": "506783",
             "rank": "1",
             "player": "Mickael Youssouf",
+            "winrate": 1.0,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -115,6 +120,7 @@
             "deck_id": "506784",
             "rank": "2",
             "player": "Pierre Almaraz",
+            "winrate": 0.8,
             "commander": [
                 "Dennick, Pious Apprentice"
             ],
@@ -215,6 +221,7 @@
             "deck_id": "506785",
             "rank": "3-4",
             "player": "Pierre-louis Biet",
+            "winrate": 0.8,
             "commander": [
                 "Dihada, Binder of Wills"
             ],
@@ -324,6 +331,7 @@
             "deck_id": "506786",
             "rank": "3-4",
             "player": "Francis Figue",
+            "winrate": 0.8,
             "commander": [
                 "Grist, the Hunger Tide"
             ],
@@ -421,9 +429,5 @@
                 "1 Utopia Sprawl"
             ]
         }
-    ],
-    "name": "Fight Club Mtg Var Dc 1.3",
-    "place": "La Crau (France)",
-    "players": "20 players",
-    "date": "10/02/23"
+    ]
 }

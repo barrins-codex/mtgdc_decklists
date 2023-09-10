@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "38770",
+    "name": "RJ Cup 2022 #31",
+    "place": "League Castle (Mong Kok, Hong Kong)",
+    "players": "9 players",
+    "date": "08/10/22",
     "decks": [
         {
             "deck_id": "489339",
             "rank": "1",
             "player": "Man Lok Wong",
+            "winrate": 1.0,
             "commander": [
                 "Balmor, Battlemage Captain"
             ],
@@ -107,6 +112,7 @@
             "deck_id": "489340",
             "rank": "2",
             "player": "Armando Lo",
+            "winrate": 0.8,
             "commander": [
                 "Bruse Tarl, Boorish Herder",
                 "Yoshimaru, Ever Faithful"
@@ -210,9 +216,5 @@
                 "3 Snow-Covered Plains"
             ]
         }
-    ],
-    "name": "RJ Cup 2022 #31",
-    "place": "League Castle (Mong Kok, Hong Kong)",
-    "players": "9 players",
-    "date": "08/10/22"
+    ]
 }

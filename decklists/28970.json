@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "28970",
+    "name": "Duel Commander",
+    "place": "Dragon's Lair (Maceda, Philippines)",
+    "players": "9 players",
+    "date": "23/01/21",
     "decks": [
         {
             "deck_id": "428406",
             "rank": "1",
             "player": "Alexander Andrei Pe",
+            "winrate": 1.0,
             "commander": [
                 "Esior, Wardwing Familiar",
                 "Ardenn, Intrepid Archaeologist"
@@ -104,6 +109,7 @@
             "deck_id": "428407",
             "rank": "2",
             "player": "Myke Nismal",
+            "winrate": 0.8,
             "commander": [
                 "Esior, Wardwing Familiar",
                 "Jeska, Thrice Reborn"
@@ -202,6 +208,7 @@
             "deck_id": "428408",
             "rank": "3-4",
             "player": "Chris Sta Maria",
+            "winrate": 0.6,
             "commander": [
                 "Karlov of the Ghost Council"
             ],
@@ -303,6 +310,7 @@
             "deck_id": "428409",
             "rank": "3-4",
             "player": "Joey Catalan",
+            "winrate": 0.6,
             "commander": [
                 "Jeska, Thrice Reborn",
                 "Krark, the Thumbless"
@@ -377,9 +385,5 @@
                 "32 Snow-Covered Mountain"
             ]
         }
-    ],
-    "name": "Duel Commander",
-    "place": "Dragon's Lair (Maceda, Philippines)",
-    "players": "9 players",
-    "date": "23/01/21"
+    ]
 }

@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "31912",
+    "name": "RJ Cup 2021 #29",
+    "place": "League Castle (Mong Kok, Hong Kong)",
+    "players": "8 players",
+    "date": "07/08/21",
     "decks": [
         {
             "deck_id": "446512",
             "rank": "1",
             "player": "Man Lok Wong",
+            "winrate": 1.0,
             "commander": [
                 "Kroxa, Titan of Death's Hunger"
             ],
@@ -105,6 +110,7 @@
             "deck_id": "446513",
             "rank": "2",
             "player": "Jason Lam",
+            "winrate": 0.6666666666666666,
             "commander": [
                 "Minsc, Beloved Ranger"
             ],
@@ -210,9 +216,5 @@
                 "1 Fire-Lit Thicket"
             ]
         }
-    ],
-    "name": "RJ Cup 2021 #29",
-    "place": "League Castle (Mong Kok, Hong Kong)",
-    "players": "8 players",
-    "date": "07/08/21"
+    ]
 }

@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "38905",
+    "name": "DC Store Championship",
+    "place": "Storm (Bratislava, Slovakia)",
+    "players": "8 players",
+    "date": "15/10/22",
     "decks": [
         {
             "deck_id": "490249",
             "rank": "1",
             "player": "Dominik Cupal",
+            "winrate": 1.0,
             "commander": [
                 "Sythis, Harvest's Hand"
             ],
@@ -103,6 +108,7 @@
             "deck_id": "490250",
             "rank": "2",
             "player": "Matej Evin",
+            "winrate": 0.6666666666666666,
             "commander": [
                 "Adeliz, the Cinder Wind"
             ],
@@ -198,9 +204,5 @@
                 "1 Wizard's Lightning"
             ]
         }
-    ],
-    "name": "DC Store Championship",
-    "place": "Storm (Bratislava, Slovakia)",
-    "players": "8 players",
-    "date": "15/10/22"
+    ]
 }

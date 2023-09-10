@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "30999",
+    "name": "Wonderlandes DC",
+    "place": "Dax (France)",
+    "players": "9 players",
+    "date": "05/06/21",
     "decks": [
         {
             "deck_id": "441243",
             "rank": "1",
             "player": "Som40",
+            "winrate": 1.0,
             "commander": [
                 "Hogaak, Arisen Necropolis"
             ],
@@ -115,6 +120,7 @@
             "deck_id": "441244",
             "rank": "2",
             "player": "Loïc Graciet",
+            "winrate": 0.8,
             "commander": [
                 "Azusa, Lost but Seeking"
             ],
@@ -194,9 +200,5 @@
                 "1 Hickory Woodlot"
             ]
         }
-    ],
-    "name": "Wonderlandes DC",
-    "place": "Dax (France)",
-    "players": "9 players",
-    "date": "05/06/21"
+    ]
 }

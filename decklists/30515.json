@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "30515",
+    "name": "128th \"New Year Cake\" Cup",
+    "place": "Shanghai (China)",
+    "players": "8 players",
+    "date": "05/05/21",
     "decks": [
         {
             "deck_id": "438127",
             "rank": "1",
             "player": "He Ying",
+            "winrate": 1.0,
             "commander": [
                 "Inalla, Archmage Ritualist"
             ],
@@ -115,6 +120,7 @@
             "deck_id": "438192",
             "rank": "2",
             "player": "Yao Yao",
+            "winrate": 0.6666666666666666,
             "commander": [
                 "Narset, Enlightened Master"
             ],
@@ -219,9 +225,5 @@
                 "1 Shark Typhoon"
             ]
         }
-    ],
-    "name": "128th \"New Year Cake\" Cup",
-    "place": "Shanghai (China)",
-    "players": "8 players",
-    "date": "05/05/21"
+    ]
 }

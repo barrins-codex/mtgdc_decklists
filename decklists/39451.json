@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "39451",
+    "name": "Wool Cup 50",
+    "place": "Kadou (Beijing,China)",
+    "players": "10 players",
+    "date": "11/11/22",
     "decks": [
         {
             "deck_id": "493810",
             "rank": "1",
             "player": "Ruiyuan Shao",
+            "winrate": 1.0,
             "commander": [
                 "Dihada, Binder of Wills"
             ],
@@ -115,6 +120,7 @@
             "deck_id": "493811",
             "rank": "2",
             "player": "Ceyao Duan",
+            "winrate": 0.8,
             "commander": [
                 "Urza, Chief Artificer"
             ],
@@ -220,9 +226,5 @@
                 "1 Raffine's Tower"
             ]
         }
-    ],
-    "name": "Wool Cup 50",
-    "place": "Kadou (Beijing,China)",
-    "players": "10 players",
-    "date": "11/11/22"
+    ]
 }

@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "20232",
+    "name": "Duel Commander",
+    "place": "MAg,Napoli,Italy",
+    "players": "9 players",
+    "date": "06/10/18",
     "decks": [
         {
             "deck_id": "332045",
             "rank": "1",
             "player": "Nicola Improta",
+            "winrate": 1.0,
             "commander": [
                 "The Scarab God"
             ],
@@ -102,6 +107,7 @@
             "deck_id": "332046",
             "rank": "2",
             "player": "Giuseppe Martello",
+            "winrate": 0.8,
             "commander": [
                 "Kalitas, Traitor of Ghet"
             ],
@@ -178,9 +184,5 @@
                 "1 Nykthos, Shrine to Nyx"
             ]
         }
-    ],
-    "name": "Duel Commander",
-    "place": "MAg,Napoli,Italy",
-    "players": "9 players",
-    "date": "06/10/18"
+    ]
 }

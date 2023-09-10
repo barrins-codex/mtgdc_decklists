@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "28925",
+    "name": "Commander League V2 S1",
+    "place": "Discord",
+    "players": "24 players",
+    "date": "19/01/21",
     "decks": [
         {
             "deck_id": "428167",
             "rank": "1",
             "player": "Onesauk",
+            "winrate": 1.0,
             "commander": [
                 "Krark, the Thumbless",
                 "Jeska, Thrice Reborn"
@@ -84,6 +89,7 @@
             "deck_id": "428168",
             "rank": "2",
             "player": "Matxicoatl",
+            "winrate": 0.8,
             "commander": [
                 "Winota, Joiner of Forces"
             ],
@@ -180,6 +186,7 @@
             "deck_id": "428169",
             "rank": "3",
             "player": "Teepex",
+            "winrate": 0.8,
             "commander": [
                 "Esior, Wardwing Familiar",
                 "Jeska, Thrice Reborn"
@@ -278,6 +285,7 @@
             "deck_id": "428170",
             "rank": "4",
             "player": "Korn411",
+            "winrate": 0.8,
             "commander": [
                 "Grenzo, Dungeon Warden"
             ],
@@ -387,6 +395,7 @@
             "deck_id": "428171",
             "rank": "5",
             "player": "Hannibal44",
+            "winrate": 0.6,
             "commander": [
                 "Niv-Mizzet Reborn"
             ],
@@ -496,6 +505,7 @@
             "deck_id": "428172",
             "rank": "6",
             "player": "Carpenters",
+            "winrate": 0.6,
             "commander": [
                 "Sisay, Weatherlight Captain"
             ],
@@ -605,6 +615,7 @@
             "deck_id": "428173",
             "rank": "7",
             "player": "Som40",
+            "winrate": 0.6,
             "commander": [
                 "Leovold, Emissary of Trest"
             ],
@@ -714,6 +725,7 @@
             "deck_id": "428174",
             "rank": "8",
             "player": "Rafiqmen",
+            "winrate": 0.6,
             "commander": [
                 "Jenara, Asura of War"
             ],
@@ -819,9 +831,5 @@
                 "1 Tropical Island"
             ]
         }
-    ],
-    "name": "Commander League V2 S1",
-    "place": "Discord",
-    "players": "24 players",
-    "date": "19/01/21"
+    ]
 }

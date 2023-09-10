@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "35160",
+    "name": "Duel Commander",
+    "place": "Wonderlandes (Dax, France)",
+    "players": "8 players",
+    "date": "13/03/22",
     "decks": [
         {
             "deck_id": "465996",
             "rank": "1",
-            "player": "Kevin Saint-martin ",
+            "player": "Kevin Saint-martin",
+            "winrate": 1.0,
             "commander": [
                 "Kroxa, Titan of Death's Hunger"
             ],
@@ -106,6 +111,7 @@
             "deck_id": "465997",
             "rank": "2",
             "player": "Quentin Flores",
+            "winrate": 0.6666666666666666,
             "commander": [
                 "Grenzo, Dungeon Warden"
             ],
@@ -205,9 +211,5 @@
                 "1 Secluded Courtyard"
             ]
         }
-    ],
-    "name": "Duel Commander",
-    "place": "Wonderlandes (Dax, France)",
-    "players": "8 players",
-    "date": "13/03/22"
+    ]
 }

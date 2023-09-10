@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "38453",
+    "name": "SDM",
+    "place": "TCG Club (San Cristobal, Venezuela)",
+    "players": "13 players",
+    "date": "18/09/22",
     "decks": [
         {
             "deck_id": "487339",
             "rank": "1",
             "player": "Tomas Zambrano",
+            "winrate": 1.0,
             "commander": [
                 "Grist, the Hunger Tide"
             ],
@@ -103,6 +108,7 @@
             "deck_id": "487340",
             "rank": "2",
             "player": "Georgi Marquez",
+            "winrate": 0.8,
             "commander": [
                 "Elminster"
             ],
@@ -203,6 +209,7 @@
             "deck_id": "487341",
             "rank": "3-4",
             "player": "Carlos Maldonado",
+            "winrate": 0.6,
             "commander": [
                 "Emmara, Soul of the Accord"
             ],
@@ -289,6 +296,7 @@
             "deck_id": "487342",
             "rank": "3-4",
             "player": "Alberto Ruiz",
+            "winrate": 0.6,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -368,9 +376,5 @@
                 "1 Zurgo Bellstriker"
             ]
         }
-    ],
-    "name": "SDM",
-    "place": "TCG Club (San Cristobal, Venezuela)",
-    "players": "13 players",
-    "date": "18/09/22"
+    ]
 }

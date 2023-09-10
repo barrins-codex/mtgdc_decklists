@@ -1,15 +1,19 @@
 {
     "format": "Duel Commander",
-    "id": 42624,
+    "id": "42624",
     "name": "Monthly Duel",
     "place": "La Règle du Jeu (Tours, France)",
     "players": "24 players",
     "date": "04/03/23",
     "decks": [
         {
-            "player": "Ewen Robinet",
-            "rank": "1",
             "deck_id": "515177",
+            "rank": "1",
+            "player": "Ewen Robinet",
+            "winrate": 1.0,
+            "commander": [
+                "Feldon, Ronom Excavator"
+            ],
             "decklist": [
                 "1 Loyal Apprentice",
                 "1 Exquisite Firecraft",
@@ -87,15 +91,17 @@
                 "1 Forked Bolt",
                 "1 Light Up the Stage",
                 "1 Roil Eruption"
-            ],
-            "commander": [
-                "Feldon, Ronom Excavator"
             ]
         },
         {
-            "player": "Rémy.d Ramzouk ",
-            "rank": "2",
             "deck_id": "515178",
+            "rank": "2",
+            "player": "Rémy.d Ramzouk",
+            "winrate": 0.8,
+            "commander": [
+                "Tana, the Bloodsower",
+                "Yoshimaru, Ever Faithful"
+            ],
             "decklist": [
                 "1 Adeline, Resplendent Cathar",
                 "1 Skyclave Apparition",
@@ -194,16 +200,16 @@
                 "1 Parallax Wave",
                 "1 Prismatic Vista",
                 "1 Yavimaya, Cradle of Growth"
-            ],
-            "commander": [
-                "Tana, the Bloodsower",
-                "Yoshimaru, Ever Faithful"
             ]
         },
         {
-            "player": "Jean-david Pailleron",
-            "rank": "3-4",
             "deck_id": "515179",
+            "rank": "3-4",
+            "player": "Jean-david Pailleron",
+            "winrate": 0.8,
+            "commander": [
+                "Dihada, Binder of Wills"
+            ],
             "decklist": [
                 "1 Orim's Chant",
                 "1 Graven Cairns",
@@ -304,15 +310,16 @@
                 "1 From the Catacombs",
                 "1 Bone Shards",
                 "1 Serra's Emissary"
-            ],
-            "commander": [
-                "Dihada, Binder of Wills"
             ]
         },
         {
-            "player": "Clément Merceron ",
-            "rank": "3-4",
             "deck_id": "515180",
+            "rank": "3-4",
+            "player": "Clément Merceron",
+            "winrate": 0.8,
+            "commander": [
+                "Doran, the Siege Tower"
+            ],
             "decklist": [
                 "1 Anafenza, the Foremost",
                 "1 Skyclave Apparition",
@@ -413,9 +420,6 @@
                 "1 Lion Sash",
                 "1 Eliminate",
                 "1 Urza's Saga"
-            ],
-            "commander": [
-                "Doran, the Siege Tower"
             ]
         }
     ]

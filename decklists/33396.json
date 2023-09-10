@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "33396",
+    "name": "RJ Cup 2021 #42",
+    "place": "League Castle (Mong Kok, Hong Kong)",
+    "players": "8 players",
+    "date": "20/11/21",
     "decks": [
         {
             "deck_id": "454703",
             "rank": "1",
             "player": "Chung Tang",
+            "winrate": 1.0,
             "commander": [
                 "Kraum, Ludevic's Opus",
                 "Malcolm, Keen-Eyed Navigator"
@@ -102,6 +107,7 @@
             "deck_id": "454704",
             "rank": "2",
             "player": "Lap Chung Cheung",
+            "winrate": 0.6666666666666666,
             "commander": [
                 "Grist, the Hunger Tide"
             ],
@@ -198,9 +204,5 @@
                 "7 Forest"
             ]
         }
-    ],
-    "name": "RJ Cup 2021 #42",
-    "place": "League Castle (Mong Kok, Hong Kong)",
-    "players": "8 players",
-    "date": "20/11/21"
+    ]
 }

@@ -1,6 +1,6 @@
 {
     "format": "Duel Commander",
-    "id": 46275,
+    "id": "46275",
     "name": "Duel de commandants #8",
     "place": "Le Coin du Jeu (Terrebonne, Québec)",
     "players": "20 players",
@@ -8,6 +8,12 @@
     "decks": [
         {
             "deck_id": "541780",
+            "rank": "1",
+            "player": "Roch-antoine Lachaîne",
+            "winrate": 1.0,
+            "commander": [
+                "Animar, Soul of Elements"
+            ],
             "decklist": [
                 "1 Allosaurus Shepherd",
                 "1 Ancestral Statue",
@@ -108,15 +114,16 @@
                 "1 Wurmcoil Engine",
                 "1 Yavimaya Coast",
                 "1 Zealous Conscripts"
-            ],
-            "commander": [
-                "Animar, Soul of Elements"
-            ],
-            "rank": "1",
-            "player": "Roch-antoine Lachaîne"
+            ]
         },
         {
             "deck_id": "541781",
+            "rank": "2",
+            "player": "Samuel Samuel",
+            "winrate": 0.8,
+            "commander": [
+                "Feldon, Ronom Excavator"
+            ],
             "decklist": [
                 "1 Ahn-Crop Crasher",
                 "1 Arc Trail",
@@ -196,15 +203,16 @@
                 "1 Wooded Foothills",
                 "1 Wrenn's Resolve",
                 "1 Zurgo Bellstriker"
-            ],
-            "commander": [
-                "Feldon, Ronom Excavator"
-            ],
-            "rank": "2",
-            "player": "Samuel Samuel"
+            ]
         },
         {
             "deck_id": "541782",
+            "rank": "3-4",
+            "player": "Daniel Bilodeau",
+            "winrate": 0.8,
+            "commander": [
+                "Feldon, Ronom Excavator"
+            ],
             "decklist": [
                 "1 Chandra, Dressed to Kill",
                 "1 Chandra, Torch of Defiance",
@@ -281,15 +289,16 @@
                 "1 Ramunap Ruins",
                 "25 Snow-Covered Mountain",
                 "1 Sokenzan, Crucible of Defiance"
-            ],
-            "commander": [
-                "Feldon, Ronom Excavator"
-            ],
-            "rank": "3-4",
-            "player": "Daniel Bilodeau"
+            ]
         },
         {
             "deck_id": "541783",
+            "rank": "3-4",
+            "player": "Matt Gilbert",
+            "winrate": 0.8,
+            "commander": [
+                "Minsc, Beloved Ranger"
+            ],
             "decklist": [
                 "1 Academy Rector",
                 "1 Altar of Dementia",
@@ -387,12 +396,7 @@
                 "1 Worldly Tutor",
                 "1 Wrenn and Six",
                 "1 Yavimaya, Cradle of Growth"
-            ],
-            "commander": [
-                "Minsc, Beloved Ranger"
-            ],
-            "rank": "3-4",
-            "player": "Matt Gilbert"
+            ]
         }
     ]
 }

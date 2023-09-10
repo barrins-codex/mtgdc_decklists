@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "12676",
+    "name": "Weekly commmander",
+    "place": "Jeuxjubes",
+    "players": "8 players",
+    "date": "08/06/16",
     "decks": [
         {
             "deck_id": "273494",
             "rank": "1",
             "player": "Olivier Labelle",
+            "winrate": 1.0,
             "commander": [
                 "Marath, Will of the Wild"
             ],
@@ -101,9 +106,5 @@
                 "1 Command Tower"
             ]
         }
-    ],
-    "name": "Weekly commmander",
-    "place": "Jeuxjubes",
-    "players": "8 players",
-    "date": "08/06/16"
+    ]
 }

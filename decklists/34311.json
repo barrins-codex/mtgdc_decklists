@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "34311",
+    "name": "[DDL] Lounge League",
+    "place": "Darmstadt (Germany)",
+    "players": "10 players",
+    "date": "18/01/22",
     "decks": [
         {
             "deck_id": "460642",
             "rank": "1",
             "player": "Bitzelberg",
+            "winrate": 1.0,
             "commander": [
                 "Livio, Oathsworn Sentinel",
                 "Kraum, Ludevic's Opus"
@@ -115,6 +120,7 @@
             "deck_id": "460643",
             "rank": "2",
             "player": "Wolf A.",
+            "winrate": 0.8,
             "commander": [
                 "Dragonlord Ojutai"
             ],
@@ -212,9 +218,5 @@
                 "1 Wrath of God"
             ]
         }
-    ],
-    "name": "[DDL] Lounge League",
-    "place": "Darmstadt (Germany)",
-    "players": "10 players",
-    "date": "18/01/22"
+    ]
 }

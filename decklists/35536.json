@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "35536",
+    "name": "RJ Cup 2022 #11",
+    "place": "League Castle (Mong Kok, Hong Kong)",
+    "players": "8 players",
+    "date": "02/04/22",
     "decks": [
         {
             "deck_id": "468217",
             "rank": "1",
             "player": "Sze Hang Chan",
+            "winrate": 1.0,
             "commander": [
                 "Azusa, Lost but Seeking"
             ],
@@ -103,6 +108,7 @@
             "deck_id": "468218",
             "rank": "2",
             "player": "Lap Chung Cheung",
+            "winrate": 0.6666666666666666,
             "commander": [
                 "Grist, the Hunger Tide"
             ],
@@ -197,9 +203,5 @@
                 "1 Wild Growth"
             ]
         }
-    ],
-    "name": "RJ Cup 2022 #11",
-    "place": "League Castle (Mong Kok, Hong Kong)",
-    "players": "8 players",
-    "date": "02/04/22"
+    ]
 }

@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "25075",
+    "name": "99th \"New Year Cake\" Cup",
+    "place": "Shanghai (China)",
+    "players": "8 players",
+    "date": "29/03/20",
     "decks": [
         {
             "deck_id": "375463",
             "rank": "1",
             "player": "He Ying",
+            "winrate": 1.0,
             "commander": [
                 "Uro, Titan of Nature's Wrath"
             ],
@@ -109,6 +114,7 @@
             "deck_id": "375464",
             "rank": "2",
             "player": "Hu Minzhe",
+            "winrate": 0.6666666666666666,
             "commander": [
                 "Rowan Kenrith",
                 "Will Kenrith"
@@ -182,9 +188,5 @@
                 "33 Island"
             ]
         }
-    ],
-    "name": "99th \"New Year Cake\" Cup",
-    "place": "Shanghai (China)",
-    "players": "8 players",
-    "date": "29/03/20"
+    ]
 }

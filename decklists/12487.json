@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "12487",
+    "name": "DC - Chez le voisin (Tours)",
+    "place": "",
+    "players": "24 players",
+    "date": "22/05/16",
     "decks": [
         {
             "deck_id": "271925",
             "rank": "1",
             "player": "Cyrille Peuvion",
+            "winrate": 1.0,
             "commander": [
                 "Doran, the Siege Tower"
             ],
@@ -115,6 +120,7 @@
             "deck_id": "271926",
             "rank": "1",
             "player": "Fabien Pagnard",
+            "winrate": 1.0,
             "commander": [
                 "Teysa, Orzhov Scion"
             ],
@@ -210,6 +216,7 @@
             "deck_id": "271927",
             "rank": "3-4",
             "player": "Benoit Guironnet",
+            "winrate": 0.8,
             "commander": [
                 "Keranos, God of Storms"
             ],
@@ -295,6 +302,7 @@
             "deck_id": "271928",
             "rank": "3-4",
             "player": "Iwan Fournier",
+            "winrate": 0.8,
             "commander": [
                 "Zurgo Bellstriker"
             ],
@@ -364,9 +372,5 @@
                 "1 Volcanic Hammer"
             ]
         }
-    ],
-    "name": "DC - Chez le voisin (Tours)",
-    "place": "",
-    "players": "24 players",
-    "date": "22/05/16"
+    ]
 }

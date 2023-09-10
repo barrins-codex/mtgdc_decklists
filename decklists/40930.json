@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "40930",
+    "name": "JP's Birthday Tourney",
+    "place": "Monarch Games (Marikina City, Philippines)",
+    "players": "33 players",
+    "date": "22/01/23",
     "decks": [
         {
             "deck_id": "504343",
             "rank": "1",
             "player": "Iori Zugaikotsu",
+            "winrate": 0.7777777777777778,
             "commander": [
                 "Kotori, Pilot Prodigy"
             ],
@@ -111,6 +116,7 @@
             "deck_id": "504344",
             "rank": "2",
             "player": "Lamberto Demillo",
+            "winrate": 0.6666666666666666,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -214,6 +220,7 @@
             "deck_id": "504345",
             "rank": "3",
             "player": "Rexel Tenorio",
+            "winrate": 0.625,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -323,6 +330,7 @@
             "deck_id": "504346",
             "rank": "4",
             "player": "Nhald Adia",
+            "winrate": 0.625,
             "commander": [
                 "Hogaak, Arisen Necropolis"
             ],
@@ -431,6 +439,7 @@
             "deck_id": "504347",
             "rank": "5",
             "player": "Dinno Zaide",
+            "winrate": 0.625,
             "commander": [
                 "Ghyrson Starn, Kelermorph"
             ],
@@ -531,6 +540,7 @@
             "deck_id": "504348",
             "rank": "6",
             "player": "Rai Reyes",
+            "winrate": 0.625,
             "commander": [
                 "Ghyrson Starn, Kelermorph"
             ],
@@ -633,6 +643,7 @@
             "deck_id": "504349",
             "rank": "7",
             "player": "Ian Paul Roa",
+            "winrate": 0.625,
             "commander": [
                 "Hogaak, Arisen Necropolis"
             ],
@@ -740,6 +751,7 @@
             "deck_id": "504350",
             "rank": "8",
             "player": "Ken Decena",
+            "winrate": 0.625,
             "commander": [
                 "Ghyrson Starn, Kelermorph"
             ],
@@ -838,9 +850,5 @@
                 "1 Young Pyromancer"
             ]
         }
-    ],
-    "name": "JP's Birthday Tourney",
-    "place": "Monarch Games (Marikina City, Philippines)",
-    "players": "33 players",
-    "date": "22/01/23"
+    ]
 }

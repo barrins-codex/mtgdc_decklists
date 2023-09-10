@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "31509",
+    "name": "Wonderlandes DC",
+    "place": "Dax (France)",
+    "players": "10 players",
+    "date": "11/07/21",
     "decks": [
         {
             "deck_id": "444111",
             "rank": "1",
             "player": "Damien Garcia",
+            "winrate": 1.0,
             "commander": [
                 "Adeliz, the Cinder Wind"
             ],
@@ -100,6 +105,7 @@
             "deck_id": "444112",
             "rank": "2",
             "player": "Léopold Galbes",
+            "winrate": 0.8,
             "commander": [
                 "Ragavan, Nimble Pilferer"
             ],
@@ -178,9 +184,5 @@
                 "1 Loyal Apprentice"
             ]
         }
-    ],
-    "name": "Wonderlandes DC",
-    "place": "Dax (France)",
-    "players": "10 players",
-    "date": "11/07/21"
+    ]
 }

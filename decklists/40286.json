@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "40286",
+    "name": "TNDC \"Int Human Solidarity Day\"",
+    "place": "Bolovo Games (Santos, Brasil)",
+    "players": "16 players",
+    "date": "20/12/22",
     "decks": [
         {
             "deck_id": "499899",
             "rank": "1",
             "player": "Leonardo Maeda",
+            "winrate": 1.0,
             "commander": [
                 "Minsc, Beloved Ranger"
             ],
@@ -113,6 +118,7 @@
             "deck_id": "499900",
             "rank": "2",
             "player": "Giovanni Iannuzzi",
+            "winrate": 0.8,
             "commander": [
                 "Feldon, Ronom Excavator"
             ],
@@ -195,6 +201,7 @@
             "deck_id": "499901",
             "rank": "3",
             "player": "William Graciani",
+            "winrate": 0.8,
             "commander": [
                 "Niv-Mizzet Reborn"
             ],
@@ -304,6 +311,7 @@
             "deck_id": "499902",
             "rank": "4",
             "player": "Euro Figueiredo",
+            "winrate": 0.6,
             "commander": [
                 "Arcum Dagsson"
             ],
@@ -385,9 +393,5 @@
                 "25 Snow-Covered Island"
             ]
         }
-    ],
-    "name": "TNDC \"Int Human Solidarity Day\"",
-    "place": "Bolovo Games (Santos, Brasil)",
-    "players": "16 players",
-    "date": "20/12/22"
+    ]
 }

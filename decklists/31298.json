@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "31298",
+    "name": "FC Duel Commander",
+    "place": "Fulcrum Esports Hub (Cainta, Philippines)",
+    "players": "9 players",
+    "date": "26/06/21",
     "decks": [
         {
             "deck_id": "442908",
             "rank": "1",
             "player": "Ian Paul Roa",
+            "winrate": 1.0,
             "commander": [
                 "Pia and Kiran Nalaar"
             ],
@@ -87,6 +92,7 @@
             "deck_id": "442909",
             "rank": "2",
             "player": "Jeremiah Achay",
+            "winrate": 0.8,
             "commander": [
                 "Ragavan, Nimble Pilferer"
             ],
@@ -163,9 +169,5 @@
                 "30 Mountain"
             ]
         }
-    ],
-    "name": "FC Duel Commander",
-    "place": "Fulcrum Esports Hub (Cainta, Philippines)",
-    "players": "9 players",
-    "date": "26/06/21"
+    ]
 }

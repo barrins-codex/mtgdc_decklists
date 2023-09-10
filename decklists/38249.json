@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "38249",
+    "name": "WANTED Saison 4 #12",
+    "place": "CartaRennes (Rennes, France)",
+    "players": "19 players",
+    "date": "07/09/22",
     "decks": [
         {
             "deck_id": "485960",
             "rank": "1",
             "player": "Maxime Allée",
+            "winrate": 1.0,
             "commander": [
                 "Elmar, Ulvenwald Informant",
                 "Wernog, Rider's Chaplain"
@@ -115,6 +120,7 @@
             "deck_id": "485961",
             "rank": "2",
             "player": "Robin \"faarnn\" Angebaud",
+            "winrate": 0.8,
             "commander": [
                 "The Beamtown Bullies"
             ],
@@ -220,9 +226,5 @@
                 "1 Ziatora's Proving Ground"
             ]
         }
-    ],
-    "name": "WANTED Saison 4 #12",
-    "place": "CartaRennes (Rennes, France)",
-    "players": "19 players",
-    "date": "07/09/22"
+    ]
 }

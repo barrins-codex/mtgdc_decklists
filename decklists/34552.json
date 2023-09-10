@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "34552",
+    "name": "RJ Cup 2022 #6",
+    "place": "League Castle (Mong Kok, Hong Kong)",
+    "players": "8 players",
+    "date": "05/02/22",
     "decks": [
         {
             "deck_id": "461996",
             "rank": "1",
             "player": "Wing Tat Lee",
+            "winrate": 1.0,
             "commander": [
                 "Isamaru, Hound of Konda"
             ],
@@ -90,6 +95,7 @@
             "deck_id": "461997",
             "rank": "2",
             "player": "Wing Hong Kwok",
+            "winrate": 0.6666666666666666,
             "commander": [
                 "Toggo, Goblin Weaponsmith",
                 "Dargo, the Shipwrecker"
@@ -182,9 +188,5 @@
                 "14 Mountain"
             ]
         }
-    ],
-    "name": "RJ Cup 2022 #6",
-    "place": "League Castle (Mong Kok, Hong Kong)",
-    "players": "8 players",
-    "date": "05/02/22"
+    ]
 }

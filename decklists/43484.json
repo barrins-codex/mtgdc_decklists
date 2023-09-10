@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "43484",
+    "name": "Wool Cup 61",
+    "place": "Kadou (Beijing, China)",
+    "players": "12 players",
+    "date": "14/04/23",
     "decks": [
         {
             "deck_id": "521184",
             "rank": "1",
             "player": "Wong Dik Fan",
+            "winrate": 1.0,
             "commander": [
                 "Dennick, Pious Apprentice"
             ],
@@ -107,6 +112,7 @@
             "deck_id": "521185",
             "rank": "2",
             "player": "Ziqi Xi",
+            "winrate": 0.8,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -212,9 +218,5 @@
                 "1 White Plume Adventurer"
             ]
         }
-    ],
-    "name": "Wool Cup 61",
-    "place": "Kadou (Beijing, China)",
-    "players": "12 players",
-    "date": "14/04/23"
+    ]
 }

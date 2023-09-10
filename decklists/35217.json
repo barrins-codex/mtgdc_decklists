@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "35217",
+    "name": "27th Bank President Cup",
+    "place": "Hongyu (Hefei, China)",
+    "players": "8 players",
+    "date": "17/03/22",
     "decks": [
         {
             "deck_id": "466300",
             "rank": "1",
             "player": "Enzuo Zhu",
+            "winrate": 1.0,
             "commander": [
                 "Shorikai, Genesis Engine"
             ],
@@ -104,6 +109,7 @@
             "deck_id": "466301",
             "rank": "2",
             "player": "Duoyan Li",
+            "winrate": 0.6666666666666666,
             "commander": [
                 "Extus, Oriq Overlord"
             ],
@@ -209,9 +215,5 @@
                 "1 Flooded Strand"
             ]
         }
-    ],
-    "name": "27th Bank President Cup",
-    "place": "Hongyu (Hefei, China)",
-    "players": "8 players",
-    "date": "17/03/22"
+    ]
 }

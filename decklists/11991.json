@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "11991",
+    "name": "Classificatório Nacional Duel - A Guilda Colecionáveis",
+    "place": "",
+    "players": "8 players",
+    "date": "25/03/16",
     "decks": [
         {
             "deck_id": "268735",
             "rank": "1",
             "player": "Matheus Bonella",
+            "winrate": 1.0,
             "commander": [
                 "Doran, the Siege Tower"
             ],
@@ -111,9 +116,5 @@
                 "1 Garruk Relentless"
             ]
         }
-    ],
-    "name": "Classificatório Nacional Duel - A Guilda Colecionáveis",
-    "place": "",
-    "players": "8 players",
-    "date": "25/03/16"
+    ]
 }

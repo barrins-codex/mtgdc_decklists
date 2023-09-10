@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "44014",
+    "name": "Win Cup Weekly DC",
+    "place": "Buban Club (Shanghai, China)",
+    "players": "12 players",
+    "date": "29/04/23",
     "decks": [
         {
             "deck_id": "524694",
             "rank": "1",
             "player": "He Ying",
+            "winrate": 1.0,
             "commander": [
                 "Golos, Tireless Pilgrim"
             ],
@@ -115,6 +120,7 @@
             "deck_id": "524695",
             "rank": "2",
             "player": "Chen Sihong",
+            "winrate": 0.8,
             "commander": [
                 "Dihada, Binder of Wills"
             ],
@@ -220,9 +226,5 @@
                 "1 Wooded Foothills"
             ]
         }
-    ],
-    "name": "Win Cup Weekly DC",
-    "place": "Buban Club (Shanghai, China)",
-    "players": "12 players",
-    "date": "29/04/23"
+    ]
 }

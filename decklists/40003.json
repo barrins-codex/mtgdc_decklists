@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "40003",
+    "name": "Thursday Night DC",
+    "place": "Block101 (Pasig, Philippines",
+    "players": "16 players",
+    "date": "08/12/22",
     "decks": [
         {
             "deck_id": "497842",
             "rank": "1",
             "player": "Secret Player",
+            "winrate": 1.0,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -115,6 +120,7 @@
             "deck_id": "497843",
             "rank": "2",
             "player": "Josh Fuentes",
+            "winrate": 0.8,
             "commander": [
                 "Deathleaper, Terror Weapon"
             ],
@@ -214,9 +220,5 @@
                 "5 Snow-Covered Mountain"
             ]
         }
-    ],
-    "name": "Thursday Night DC",
-    "place": "Block101 (Pasig, Philippines",
-    "players": "16 players",
-    "date": "08/12/22"
+    ]
 }

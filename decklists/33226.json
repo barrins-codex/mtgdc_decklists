@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "33226",
+    "name": "Duel EDH v Gumárně č.3",
+    "place": "Čáslav (CZE)",
+    "players": "8 players",
+    "date": "06/11/21",
     "decks": [
         {
             "deck_id": "453753",
             "rank": "1",
             "player": "Jáchym Bártík",
+            "winrate": 1.0,
             "commander": [
                 "Leovold, Emissary of Trest"
             ],
@@ -115,6 +120,7 @@
             "deck_id": "453754",
             "rank": "2",
             "player": "Milan Vančo",
+            "winrate": 0.6666666666666666,
             "commander": [
                 "Isamaru, Hound of Konda"
             ],
@@ -195,9 +201,5 @@
                 "1 Banishing Light"
             ]
         }
-    ],
-    "name": "Duel EDH v Gumárně č.3",
-    "place": "Čáslav (CZE)",
-    "players": "8 players",
-    "date": "06/11/21"
+    ]
 }

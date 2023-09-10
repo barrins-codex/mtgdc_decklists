@@ -1,15 +1,19 @@
 {
     "format": "Duel Commander",
-    "id": 43412,
+    "id": "43412",
     "name": "Darren Bday tourney",
     "place": "Aling Marings Dojo (Rizal, Philippines)",
     "players": "10 players",
     "date": "09/04/23",
     "decks": [
         {
-            "player": "Jomar Co",
-            "rank": "1",
             "deck_id": "520720",
+            "rank": "1",
+            "player": "Jomar Co",
+            "winrate": 1.0,
+            "commander": [
+                "Ardoz, Cobbler of War"
+            ],
             "decklist": [
                 "1 Bonecrusher Giant",
                 "1 Earthshaker Khenra",
@@ -84,15 +88,17 @@
                 "1 Ramunap Ruins",
                 "1 Sokenzan, Crucible of Defiance",
                 "1 Tectonic Edge"
-            ],
-            "commander": [
-                "Ardoz, Cobbler of War"
             ]
         },
         {
-            "player": "Edison Gabutero",
-            "rank": "2",
             "deck_id": "520721",
+            "rank": "2",
+            "player": "Edison Gabutero",
+            "winrate": 0.8,
+            "commander": [
+                "Reyhan, Last of the Abzan",
+                "Yoshimaru, Ever Faithful"
+            ],
             "decklist": [
                 "1 Arid Mesa",
                 "1 Bayou",
@@ -188,10 +194,6 @@
                 "1 Tangle Wire",
                 "1 The Ozolith",
                 "1 Umezawa's Jitte"
-            ],
-            "commander": [
-                "Reyhan, Last of the Abzan",
-                "Yoshimaru, Ever Faithful"
             ]
         }
     ]

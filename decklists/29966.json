@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "29966",
+    "name": "2nd Webcam-League",
+    "place": "Leipzig (Germany)",
+    "players": "10 players",
+    "date": "24/03/21",
     "decks": [
         {
             "deck_id": "434874",
             "rank": "1",
             "player": "Simon The Sorcerer",
+            "winrate": 1.0,
             "commander": [
                 "Keleth, Sunmane Familiar",
                 "Rograkh, Son of Rohgahh"
@@ -105,6 +110,7 @@
             "deck_id": "434875",
             "rank": "2",
             "player": "Jonas Jörns",
+            "winrate": 0.8,
             "commander": [
                 "Rograkh, Son of Rohgahh",
                 "Tevesh Szat, Doom of Fools"
@@ -197,9 +203,5 @@
                 "1 Wooded Foothills"
             ]
         }
-    ],
-    "name": "2nd Webcam-League",
-    "place": "Leipzig (Germany)",
-    "players": "10 players",
-    "date": "24/03/21"
+    ]
 }

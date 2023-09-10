@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "27020",
+    "name": "[DDL] Lounge League",
+    "place": "Darmstadt (Germany)",
+    "players": "8 players",
+    "date": "18/08/20",
     "decks": [
         {
             "deck_id": "411728",
             "rank": "1",
             "player": "Markus S.",
+            "winrate": 1.0,
             "commander": [
                 "Kroxa, Titan of Death's Hunger"
             ],
@@ -101,6 +106,7 @@
             "deck_id": "411729",
             "rank": "2",
             "player": "Bitzelberg",
+            "winrate": 0.6666666666666666,
             "commander": [
                 "Hogaak, Arisen Necropolis"
             ],
@@ -206,9 +212,5 @@
                 "1 Umezawa's Jitte"
             ]
         }
-    ],
-    "name": "[DDL] Lounge League",
-    "place": "Darmstadt (Germany)",
-    "players": "8 players",
-    "date": "18/08/20"
+    ]
 }

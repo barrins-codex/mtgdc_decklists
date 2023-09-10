@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
-    "id": 45949,
+    "id": "45949",
+    "name": "Shoturday Night Magic",
+    "place": "Antipolo (Philippines)",
+    "players": "8 players",
+    "date": "15/07/23",
     "decks": [
         {
             "deck_id": "539491",
             "rank": "1",
             "player": "Juan Antonio Agoncillo",
+            "winrate": 1.0,
             "commander": [
                 "Magda, Brazen Outlaw"
             ],
@@ -90,9 +95,5 @@
                 "1 Xorn"
             ]
         }
-    ],
-    "name": "Shoturday Night Magic",
-    "place": "Antipolo (Philippines)",
-    "players": "8 players",
-    "date": "15/07/23"
+    ]
 }

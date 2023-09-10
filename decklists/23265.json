@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "23265",
+    "name": "5th Duel-League",
+    "place": "Leipzig",
+    "players": "13 players",
+    "date": "01/10/19",
     "decks": [
         {
             "deck_id": "360081",
             "rank": "1",
             "player": "Jan Schneider",
+            "winrate": 1.0,
             "commander": [
                 "Sai, Master Thopterist"
             ],
@@ -94,6 +99,7 @@
             "deck_id": "360082",
             "rank": "2",
             "player": "Jonas Jörns",
+            "winrate": 0.8,
             "commander": [
                 "Yawgmoth, Thran Physician"
             ],
@@ -174,9 +180,5 @@
                 "26 Swamp"
             ]
         }
-    ],
-    "name": "5th Duel-League",
-    "place": "Leipzig",
-    "players": "13 players",
-    "date": "01/10/19"
+    ]
 }

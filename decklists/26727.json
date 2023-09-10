@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "26727",
+    "name": "DC REM",
+    "place": "Le Vizz (Rouen, France)",
+    "players": "8 players",
+    "date": "02/08/20",
     "decks": [
         {
             "deck_id": "407030",
             "rank": "1",
             "player": "Diego \"dmyr\" Rio",
+            "winrate": 1.0,
             "commander": [
                 "Jirina Kudro"
             ],
@@ -115,6 +120,7 @@
             "deck_id": "407031",
             "rank": "2",
             "player": "Shandra Ickowicz",
+            "winrate": 0.6666666666666666,
             "commander": [
                 "Daretti, Scrap Savant"
             ],
@@ -200,9 +206,5 @@
                 "1 Mindslaver"
             ]
         }
-    ],
-    "name": "DC REM",
-    "place": "Le Vizz (Rouen, France)",
-    "players": "8 players",
-    "date": "02/08/20"
+    ]
 }

@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "13507",
+    "name": "Clash of Commander Titans 5 (9T, Temuco, Chile)",
+    "place": "",
+    "players": "14 players",
+    "date": "04/09/16",
     "decks": [
         {
             "deck_id": "279438",
             "rank": "1",
             "player": "Esteban Alonso",
+            "winrate": 1.0,
             "commander": [
                 "Narset, Enlightened Master"
             ],
@@ -111,6 +116,7 @@
             "deck_id": "279439",
             "rank": "2",
             "player": "Nicolas Perez",
+            "winrate": 0.8,
             "commander": [
                 "Kiku, Night's Flower"
             ],
@@ -182,9 +188,5 @@
                 "35 Swamp"
             ]
         }
-    ],
-    "name": "Clash of Commander Titans 5 (9T, Temuco, Chile)",
-    "place": "",
-    "players": "14 players",
-    "date": "04/09/16"
+    ]
 }

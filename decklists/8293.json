@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "8293",
+    "name": "13th \"New Year Cake\" Cup (Shanghai)",
+    "place": "",
+    "players": "9 players",
+    "date": "30/08/14",
     "decks": [
         {
             "deck_id": "247676",
             "rank": "1",
             "player": "Yao Yao",
+            "winrate": 1.0,
             "commander": [
                 "Jenara, Asura of War"
             ],
@@ -115,6 +120,7 @@
             "deck_id": "247677",
             "rank": "2",
             "player": "Yu Ke",
+            "winrate": 0.8,
             "commander": [
                 "Marchesa, the Black Rose"
             ],
@@ -216,9 +222,5 @@
                 "3 Swamp"
             ]
         }
-    ],
-    "name": "13th \"New Year Cake\" Cup (Shanghai)",
-    "place": "",
-    "players": "9 players",
-    "date": "30/08/14"
+    ]
 }

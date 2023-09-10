@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "36222",
+    "name": "Mayhem Event",
+    "place": "Mana Underground (Lagro, Philippines)",
+    "players": "14 players",
+    "date": "10/05/22",
     "decks": [
         {
             "deck_id": "472624",
             "rank": "1",
             "player": "Jacinto Mendoza",
+            "winrate": 1.0,
             "commander": [
                 "Dennick, Pious Apprentice"
             ],
@@ -108,6 +113,7 @@
             "deck_id": "472625",
             "rank": "2",
             "player": "Ste Villaraza",
+            "winrate": 0.8,
             "commander": [
                 "Shorikai, Genesis Engine"
             ],
@@ -201,9 +207,5 @@
                 "1 Windswept Heath"
             ]
         }
-    ],
-    "name": "Mayhem Event",
-    "place": "Mana Underground (Lagro, Philippines)",
-    "players": "14 players",
-    "date": "10/05/22"
+    ]
 }

@@ -1,6 +1,6 @@
 {
     "format": "Duel Commander",
-    "id": 46354,
+    "id": "46354",
     "name": "Galaxy Cup #9",
     "place": "Naya (Jinan, China)",
     "players": "9 players",
@@ -8,6 +8,12 @@
     "decks": [
         {
             "deck_id": "542569",
+            "rank": "1",
+            "player": "Yu Hang",
+            "winrate": 1.0,
+            "commander": [
+                "Aragorn, the Uniter"
+            ],
             "decklist": [
                 "1 Fable of the Mirror-Breaker",
                 "1 Fellwar Stone",
@@ -108,15 +114,16 @@
                 "1 Sacred Foundry",
                 "1 Scalding Tarn",
                 "1 Plateau"
-            ],
-            "commander": [
-                "Aragorn, the Uniter"
-            ],
-            "rank": "1",
-            "player": "Yu Hang"
+            ]
         },
         {
             "deck_id": "542570",
+            "rank": "2",
+            "player": "Xing Galaxy",
+            "winrate": 0.8,
+            "commander": [
+                "Kess, Dissident Mage"
+            ],
             "decklist": [
                 "1 Fire / Ice",
                 "1 Arid Mesa",
@@ -217,15 +224,17 @@
                 "1 Watery Grave",
                 "1 Wooded Foothills",
                 "1 Xander's Lounge"
-            ],
-            "commander": [
-                "Kess, Dissident Mage"
-            ],
-            "rank": "2",
-            "player": "Xing Galaxy"
+            ]
         },
         {
             "deck_id": "542571",
+            "rank": "3",
+            "player": "Yu Donghui",
+            "winrate": 0.6,
+            "commander": [
+                "Tavern Brawler",
+                "Wilson, Refined Grizzly"
+            ],
             "decklist": [
                 "1 Abrade",
                 "1 Arbor Elf",
@@ -311,13 +320,7 @@
                 "1 Yavimaya Hollow",
                 "1 Yavimaya Iconoclast",
                 "1 Yavimaya, Cradle of Growth"
-            ],
-            "commander": [
-                "Tavern Brawler",
-                "Wilson, Refined Grizzly"
-            ],
-            "rank": "3",
-            "player": "Yu Donghui"
+            ]
         }
     ]
 }

@@ -1,11 +1,16 @@
 {
     "format": "Duel Commander",
     "id": "39950",
+    "name": "DC East League Leg 13",
+    "place": "King and Queen Milktea (Marikina City, Philippines)",
+    "players": "12 players",
+    "date": "03/12/22",
     "decks": [
         {
             "deck_id": "497536",
             "rank": "1",
             "player": "Meng Hao",
+            "winrate": 1.0,
             "commander": [
                 "Kinnan, Bonder Prodigy"
             ],
@@ -113,6 +118,7 @@
             "deck_id": "497537",
             "rank": "2",
             "player": "Cilbert Corpuz",
+            "winrate": 0.8,
             "commander": [
                 "Inspiring Leader",
                 "Gut, True Soul Zealot"
@@ -219,6 +225,7 @@
             "deck_id": "497538",
             "rank": "3",
             "player": "Jan Hortaleza",
+            "winrate": 0.6,
             "commander": [
                 "Chainer, Nightmare Adept"
             ],
@@ -322,6 +329,7 @@
             "deck_id": "497539",
             "rank": "4",
             "player": "Van Acordon",
+            "winrate": 0.6,
             "commander": [
                 "Leovold, Emissary of Trest"
             ],
@@ -427,9 +435,5 @@
                 "1 Zagoth Triome"
             ]
         }
-    ],
-    "name": "DC East League Leg 13",
-    "place": "King and Queen Milktea (Marikina City, Philippines)",
-    "players": "12 players",
-    "date": "03/12/22"
+    ]
 }
