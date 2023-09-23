@@ -10,7 +10,6 @@
             "deck_id": "452508",
             "rank": "1",
             "player": "Jakub Pilc",
-            "winrate": 1.0,
             "commander": [
                 "Thrun, the Last Troll"
             ],
@@ -90,7 +89,6 @@
             "deck_id": "452509",
             "rank": "2",
             "player": "Luká Mádle",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Sythis, Harvest's Hand"
             ],

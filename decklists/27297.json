@@ -10,7 +10,6 @@
             "deck_id": "416204",
             "rank": "1",
             "player": "Guillaume \"mana\" Lacombe",
-            "winrate": 1.0,
             "commander": [
                 "Thrasios, Triton Hero",
                 "Tymna the Weaver"
@@ -120,7 +119,6 @@
             "deck_id": "416205",
             "rank": "2",
             "player": "Romain \"ejell\" Foucher",
-            "winrate": 0.8,
             "commander": [
                 "Grenzo, Dungeon Warden"
             ],
@@ -217,7 +215,6 @@
             "deck_id": "416206",
             "rank": "3-4",
             "player": "Killian Boulhaïs",
-            "winrate": 0.8,
             "commander": [
                 "Kess, Dissident Mage"
             ],
@@ -327,7 +324,6 @@
             "deck_id": "416207",
             "rank": "3-4",
             "player": "Andy Petit",
-            "winrate": 0.8,
             "commander": [
                 "Adeliz, the Cinder Wind"
             ],
@@ -425,7 +421,6 @@
             "deck_id": "416208",
             "rank": "5-8",
             "player": "Anthony \"tototake\" Ruer",
-            "winrate": 0.6,
             "commander": [
                 "Uro, Titan of Nature's Wrath"
             ],
@@ -519,7 +514,6 @@
             "deck_id": "416209",
             "rank": "5-8",
             "player": "Antoine Vieilledent",
-            "winrate": 0.6,
             "commander": [
                 "Kess, Dissident Mage"
             ],
@@ -629,7 +623,6 @@
             "deck_id": "416210",
             "rank": "5-8",
             "player": "Pierre Savignac",
-            "winrate": 0.6,
             "commander": [
                 "Saskia the Unyielding"
             ],
@@ -739,7 +732,6 @@
             "deck_id": "416211",
             "rank": "5-8",
             "player": "Pierre-antoine Schmidt",
-            "winrate": 0.6,
             "commander": [
                 "Uro, Titan of Nature's Wrath"
             ],

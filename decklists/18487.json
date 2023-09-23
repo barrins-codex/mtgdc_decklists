@@ -10,7 +10,6 @@
             "deck_id": "314930",
             "rank": "5-8",
             "player": "David Brinek",
-            "winrate": 0.75,
             "commander": [
                 "Titania, Protector of Argoth"
             ],
@@ -103,7 +102,6 @@
             "deck_id": "314931",
             "rank": "5-8",
             "player": "Ales Buben",
-            "winrate": 0.75,
             "commander": [
                 "Prossh, Skyraider of Kher"
             ],
@@ -206,7 +204,6 @@
             "deck_id": "314932",
             "rank": "5-8",
             "player": "Miloslav Brozek",
-            "winrate": 0.75,
             "commander": [
                 "Zurgo Bellstriker"
             ],
@@ -284,7 +281,6 @@
             "deck_id": "314933",
             "rank": "5-8",
             "player": "Ondrej Smetana",
-            "winrate": 0.75,
             "commander": [
                 "Karlov of the Ghost Council"
             ],
@@ -394,7 +390,6 @@
             "deck_id": "314934",
             "rank": "3-4",
             "player": "Jaroslav Chmelik",
-            "winrate": 0.75,
             "commander": [
                 "Kraum, Ludevic's Opus",
                 "Tymna the Weaver"
@@ -504,7 +499,6 @@
             "deck_id": "314935",
             "rank": "3-4",
             "player": "Petr Tejnsky",
-            "winrate": 0.75,
             "commander": [
                 "Animar, Soul of Elements"
             ],
@@ -608,7 +602,6 @@
             "deck_id": "314936",
             "rank": "2",
             "player": "Martin Vlnas",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Titania, Protector of Argoth"
             ],
@@ -702,7 +695,6 @@
             "deck_id": "314937",
             "rank": "1",
             "player": "Vitezslav Kacer Smid",
-            "winrate": 0.8888888888888888,
             "commander": [
                 "Tymna the Weaver",
                 "Kraum, Ludevic's Opus"

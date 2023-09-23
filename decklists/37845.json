@@ -10,7 +10,6 @@
             "deck_id": "483234",
             "rank": "1",
             "player": "Paul Séronie-vivien",
-            "winrate": 0.875,
             "commander": [
                 "Noble Heritage",
                 "Wilson, Refined Grizzly"
@@ -112,7 +111,6 @@
             "deck_id": "483235",
             "rank": "2",
             "player": "Alexandre Vilnet",
-            "winrate": 0.75,
             "commander": [
                 "Emmara, Soul of the Accord"
             ],
@@ -210,7 +208,6 @@
             "deck_id": "483236",
             "rank": "3-4",
             "player": "Julien Joie",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -320,7 +317,6 @@
             "deck_id": "483237",
             "rank": "3-4",
             "player": "Damien Garcia",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Tivit, Seller of Secrets"
             ],
@@ -430,7 +426,6 @@
             "deck_id": "483238",
             "rank": "5-8",
             "player": "Léo Facca",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Tivit, Seller of Secrets"
             ],
@@ -539,7 +534,6 @@
             "deck_id": "483239",
             "rank": "5-8",
             "player": "Julien Fedou",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -628,7 +622,6 @@
             "deck_id": "483240",
             "rank": "5-8",
             "player": "Anthony Nunez",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Adeliz, the Cinder Wind"
             ],
@@ -728,7 +721,6 @@
             "deck_id": "483241",
             "rank": "5-8",
             "player": "Aymeric Verniolle",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Grenzo, Dungeon Warden"
             ],

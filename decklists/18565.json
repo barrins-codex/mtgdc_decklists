@@ -10,7 +10,6 @@
             "deck_id": "315608",
             "rank": "1",
             "player": "Felix M.",
-            "winrate": 1.0,
             "commander": [
                 "Thrasios, Triton Hero",
                 "Sidar Kondo of Jamuraa"
@@ -118,7 +117,6 @@
             "deck_id": "315609",
             "rank": "2",
             "player": "Sebastian S.",
-            "winrate": 0.8,
             "commander": [
                 "Kess, Dissident Mage"
             ],

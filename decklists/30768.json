@@ -10,7 +10,6 @@
             "deck_id": "439640",
             "rank": "1",
             "player": "Lawrence Samaniego",
-            "winrate": 1.0,
             "commander": [
                 "Kraum, Ludevic's Opus",
                 "Malcolm, Keen-Eyed Navigator"
@@ -109,7 +108,6 @@
             "deck_id": "439641",
             "rank": "2",
             "player": "Jonathan Bagotlo",
-            "winrate": 0.8,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -194,7 +192,6 @@
             "deck_id": "439642",
             "rank": "3-4",
             "player": "Ste Villaraza",
-            "winrate": 0.6,
             "commander": [
                 "Tevesh Szat, Doom of Fools",
                 "Miara, Thorn of the Glade"
@@ -280,7 +277,6 @@
             "deck_id": "439643",
             "rank": "3-4",
             "player": "Ryan Payabyab",
-            "winrate": 0.6,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],

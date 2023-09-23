@@ -10,7 +10,6 @@
             "deck_id": "504558",
             "rank": "1",
             "player": "Pierre Almaraz",
-            "winrate": 1.0,
             "commander": [
                 "Noble Heritage",
                 "Gut, True Soul Zealot"
@@ -111,7 +110,6 @@
             "deck_id": "504559",
             "rank": "2",
             "player": "Thomas Ricci",
-            "winrate": 0.8,
             "commander": [
                 "Yoshimaru, Ever Faithful",
                 "Kraum, Ludevic's Opus"
@@ -221,7 +219,6 @@
             "deck_id": "504560",
             "rank": "3-4",
             "player": "Pierre-louis Biet",
-            "winrate": 0.8,
             "commander": [
                 "Niv-Mizzet Reborn"
             ],
@@ -331,7 +328,6 @@
             "deck_id": "504561",
             "rank": "3-4",
             "player": "Bastien Portier",
-            "winrate": 0.8,
             "commander": [
                 "Octavia, Living Thesis"
             ],

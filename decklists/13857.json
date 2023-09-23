@@ -10,7 +10,6 @@
             "deck_id": "281873",
             "rank": "3",
             "player": "Stéphane Rogard",
-            "winrate": 0.8,
             "commander": [
                 "Narset, Enlightened Master"
             ],
@@ -116,7 +115,6 @@
             "deck_id": "281874",
             "rank": "4",
             "player": "Marc Gennevois",
-            "winrate": 0.8,
             "commander": [
                 "Geist of Saint Traft"
             ],
@@ -215,7 +213,6 @@
             "deck_id": "281875",
             "rank": "2",
             "player": "Timothé Courant",
-            "winrate": 0.8,
             "commander": [
                 "Zurgo Bellstriker"
             ],
@@ -293,7 +290,6 @@
             "deck_id": "281876",
             "rank": "1",
             "player": "Maxime Allée",
-            "winrate": 1.0,
             "commander": [
                 "Doran, the Siege Tower"
             ],

@@ -10,7 +10,6 @@
             "deck_id": "533156",
             "rank": "1",
             "player": "Thorgal666",
-            "winrate": 1.0,
             "commander": [
                 "Elminster"
             ],
@@ -110,7 +109,6 @@
             "deck_id": "533157",
             "rank": "2",
             "player": "Guillaume totoroux Duday-marlot",
-            "winrate": 0.8,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -220,7 +218,6 @@
             "deck_id": "533158",
             "rank": "3-4",
             "player": "Maximilien Potel",
-            "winrate": 0.8,
             "commander": [
                 "Yoshimaru, Ever Faithful",
                 "Tana, the Bloodsower"
@@ -330,7 +327,6 @@
             "deck_id": "533159",
             "rank": "3-4",
             "player": "Maxime Valentin",
-            "winrate": 0.8,
             "commander": [
                 "Dragonlord Ojutai"
             ],

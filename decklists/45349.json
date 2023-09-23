@@ -10,7 +10,6 @@
             "deck_id": "534965",
             "rank": "1",
             "player": "Pierre Ambroise",
-            "winrate": 0.9,
             "commander": [
                 "Tivit, Seller of Secrets"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "534966",
             "rank": "2",
             "player": "Theau Mery",
-            "winrate": 0.8,
             "commander": [
                 "Skrelv, Defector Mite"
             ],
@@ -210,7 +208,6 @@
             "deck_id": "534967",
             "rank": "3-4",
             "player": "Ylan Le Bris",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Feldon, Ronom Excavator"
             ],
@@ -300,7 +297,6 @@
             "deck_id": "534968",
             "rank": "3-4",
             "player": "Jordan  Bizon",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -410,7 +406,6 @@
             "deck_id": "534969",
             "rank": "5-8",
             "player": "Cyril Fullbert",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Animar, Soul of Elements"
             ],
@@ -516,7 +511,6 @@
             "deck_id": "534970",
             "rank": "5-8",
             "player": "Yan Lorente",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Grist, the Hunger Tide"
             ],
@@ -617,7 +611,6 @@
             "deck_id": "534971",
             "rank": "5-8",
             "player": "Thibaut Cantaluppi",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -727,7 +720,6 @@
             "deck_id": "534972",
             "rank": "5-8",
             "player": "Juan Morales",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Tivit, Seller of Secrets"
             ],

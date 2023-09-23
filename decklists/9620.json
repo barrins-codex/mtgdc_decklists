@@ -10,7 +10,6 @@
             "deck_id": "255274",
             "rank": "1",
             "player": "Guillaume Picard",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Marath, Will of the Wild"
             ],
@@ -118,7 +117,6 @@
             "deck_id": "255275",
             "rank": "2",
             "player": "Martial \"Mars\" Moreau",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Grand Arbiter Augustin IV"
             ],
@@ -211,7 +209,6 @@
             "deck_id": "255276",
             "rank": "3-4",
             "player": "Julien \"Sonte\" Sori",
-            "winrate": 0.625,
             "commander": [
                 "Vendilion Clique"
             ],
@@ -296,7 +293,6 @@
             "deck_id": "255277",
             "rank": "3-4",
             "player": "Franck Da Silva",
-            "winrate": 0.625,
             "commander": [
                 "Azami, Lady of Scrolls"
             ],
@@ -374,7 +370,6 @@
             "deck_id": "255278",
             "rank": "5-8",
             "player": "Sébastien Pili",
-            "winrate": 0.625,
             "commander": [
                 "Jenara, Asura of War"
             ],
@@ -482,7 +477,6 @@
             "deck_id": "255279",
             "rank": "5-8",
             "player": "Alexandre Rebillout",
-            "winrate": 0.625,
             "commander": [
                 "Jenara, Asura of War"
             ],
@@ -592,7 +586,6 @@
             "deck_id": "255280",
             "rank": "5-8",
             "player": "Cyrille Peuvion",
-            "winrate": 0.625,
             "commander": [
                 "Doran, the Siege Tower"
             ],
@@ -702,7 +695,6 @@
             "deck_id": "255281",
             "rank": "5-8",
             "player": "Victor Capron",
-            "winrate": 0.625,
             "commander": [
                 "Sidisi, Undead Vizier"
             ],

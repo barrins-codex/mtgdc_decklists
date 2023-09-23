@@ -10,7 +10,6 @@
             "deck_id": "521038",
             "rank": "1",
             "player": "Julien Rouar",
-            "winrate": 1.0,
             "commander": [
                 "Hogaak, Arisen Necropolis"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "521039",
             "rank": "2",
             "player": "Floriant Larroche",
-            "winrate": 0.8,
             "commander": [
                 "Feldon, Ronom Excavator"
             ],
@@ -200,7 +198,6 @@
             "deck_id": "521040",
             "rank": "3",
             "player": "Clement Turpault",
-            "winrate": 0.8,
             "commander": [
                 "Niv-Mizzet Reborn"
             ],

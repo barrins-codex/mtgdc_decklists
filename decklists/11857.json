@@ -10,7 +10,6 @@
             "deck_id": "267836",
             "rank": "3-4",
             "player": "Vitaly Vasiliev",
-            "winrate": 0.8,
             "commander": [
                 "Grenzo, Dungeon Warden"
             ],
@@ -93,7 +92,6 @@
             "deck_id": "267837",
             "rank": "2",
             "player": "Alexander Sidorov",
-            "winrate": 0.8,
             "commander": [
                 "Keranos, God of Storms"
             ],
@@ -177,7 +175,6 @@
             "deck_id": "267838",
             "rank": "3-4",
             "player": "Dima Smirnov",
-            "winrate": 0.8,
             "commander": [
                 "Vendilion Clique"
             ],
@@ -266,7 +263,6 @@
             "deck_id": "267840",
             "rank": "1",
             "player": "Max Apletalin",
-            "winrate": 1.0,
             "commander": [
                 "Anafenza, the Foremost"
             ],

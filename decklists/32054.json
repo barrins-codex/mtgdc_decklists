@@ -10,7 +10,6 @@
             "deck_id": "447252",
             "rank": "1",
             "player": "Asbjørn Jensen",
-            "winrate": 1.0,
             "commander": [
                 "Minsc, Beloved Ranger"
             ],
@@ -114,7 +113,6 @@
             "deck_id": "447253",
             "rank": "2",
             "player": "Jasper R. Nielsen",
-            "winrate": 0.8,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -224,7 +222,6 @@
             "deck_id": "447254",
             "rank": "3-4",
             "player": "Lasse Hansen",
-            "winrate": 0.8,
             "commander": [
                 "Kroxa, Titan of Death's Hunger"
             ],
@@ -322,7 +319,6 @@
             "deck_id": "447255",
             "rank": "3-4",
             "player": "Emil Nielsen",
-            "winrate": 0.8,
             "commander": [
                 "Yawgmoth, Thran Physician"
             ],

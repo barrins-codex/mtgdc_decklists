@@ -10,7 +10,6 @@
             "deck_id": "448015",
             "rank": "1",
             "player": "Shamar Nelson",
-            "winrate": 1.0,
             "commander": [
                 "Sythis, Harvest's Hand"
             ],
@@ -108,7 +107,6 @@
             "deck_id": "448016",
             "rank": "2",
             "player": "Troy Clarke",
-            "winrate": 0.8,
             "commander": [
                 "Karlov of the Ghost Council"
             ],
@@ -207,7 +205,6 @@
             "deck_id": "448017",
             "rank": "3-4",
             "player": "Jared Holder",
-            "winrate": 0.6,
             "commander": [
                 "Sai, Master Thopterist"
             ],
@@ -297,7 +294,6 @@
             "deck_id": "448018",
             "rank": "3-4",
             "player": "Sean Pinder",
-            "winrate": 0.6,
             "commander": [
                 "Winota, Joiner of Forces"
             ],

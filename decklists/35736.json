@@ -10,7 +10,6 @@
             "deck_id": "469581",
             "rank": "1",
             "player": "Yann \"rs_black\" Meese",
-            "winrate": 1.0,
             "commander": [
                 "Shorikai, Genesis Engine"
             ],
@@ -111,7 +110,6 @@
             "deck_id": "469582",
             "rank": "2",
             "player": "Bilal \"rs_ Khan\" Moullan",
-            "winrate": 0.8,
             "commander": [
                 "Kraum, Ludevic's Opus",
                 "Ludevic, Necro-Alchemist"
@@ -208,7 +206,6 @@
             "deck_id": "469583",
             "rank": "3",
             "player": "Olivier \"aloth\" Leclercq",
-            "winrate": 0.8,
             "commander": [
                 "Millicent, Restless Revenant"
             ],
@@ -314,7 +311,6 @@
             "deck_id": "469584",
             "rank": "4",
             "player": "Anthony \"rs_ Avyc\" Vitry",
-            "winrate": 0.6,
             "commander": [
                 "Octavia, Living Thesis"
             ],
@@ -403,7 +399,6 @@
             "deck_id": "469585",
             "rank": "5-8",
             "player": "Mickaël \"joker\" Gence",
-            "winrate": 0.6,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -498,7 +493,6 @@
             "deck_id": "469586",
             "rank": "5-8",
             "player": "Matthieu Guertener",
-            "winrate": 0.6,
             "commander": [
                 "The Gitrog Monster"
             ],
@@ -599,7 +593,6 @@
             "deck_id": "469587",
             "rank": "5-8",
             "player": "Arthur \"oz\" Ozoux",
-            "winrate": 0.6,
             "commander": [
                 "Adeliz, the Cinder Wind"
             ],
@@ -698,7 +691,6 @@
             "deck_id": "469588",
             "rank": "5-8",
             "player": "Clément \"keyliar\" Thl",
-            "winrate": 0.6,
             "commander": [
                 "The Ur-Dragon"
             ],

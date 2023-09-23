@@ -10,7 +10,6 @@
             "deck_id": "454235",
             "rank": "1",
             "player": "Thomas « weezy » Plieger",
-            "winrate": 1.0,
             "commander": [
                 "Malcolm, Keen-Eyed Navigator",
                 "Livio, Oathsworn Sentinel"
@@ -112,7 +111,6 @@
             "deck_id": "454236",
             "rank": "2",
             "player": "Jean-loup Michel",
-            "winrate": 0.8,
             "commander": [
                 "Niv-Mizzet Reborn"
             ],
@@ -222,7 +220,6 @@
             "deck_id": "454237",
             "rank": "3-4",
             "player": "Louis « uuuuu » Richez",
-            "winrate": 0.8,
             "commander": [
                 "Tevesh Szat, Doom of Fools",
                 "Ishai, Ojutai Dragonspeaker"
@@ -332,7 +329,6 @@
             "deck_id": "454238",
             "rank": "3-4",
             "player": "Mathys Grapotte",
-            "winrate": 0.8,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],

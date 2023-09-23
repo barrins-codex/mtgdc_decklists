@@ -10,7 +10,6 @@
             "deck_id": "459071",
             "rank": "1",
             "player": "Thomas",
-            "winrate": 1.0,
             "commander": [
                 "Kroxa, Titan of Death's Hunger"
             ],
@@ -111,7 +110,6 @@
             "deck_id": "459072",
             "rank": "2",
             "player": "Adrien Gau",
-            "winrate": 0.8,
             "commander": [
                 "Kess, Dissident Mage"
             ],
@@ -221,7 +219,6 @@
             "deck_id": "459073",
             "rank": "3-4",
             "player": "Anonymous",
-            "winrate": 0.8,
             "commander": [
                 "Grist, the Hunger Tide"
             ],
@@ -321,7 +318,6 @@
             "deck_id": "459074",
             "rank": "3-4",
             "player": "Fabien",
-            "winrate": 0.8,
             "commander": [
                 "Galazeth Prismari"
             ],

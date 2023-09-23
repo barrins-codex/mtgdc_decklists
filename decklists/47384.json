@@ -10,7 +10,6 @@
             "deck_id": "549969",
             "rank": "1",
             "player": "Benjamin \"watanabe\" Guillerm",
-            "winrate": 1.0,
             "commander": [
                 "Leovold, Emissary of Trest"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "549970",
             "rank": "2",
             "player": "Guillaume \"vinzlar\" Vincent",
-            "winrate": 0.8,
             "commander": [
                 "Kess, Dissident Mage"
             ],

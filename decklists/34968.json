@@ -10,7 +10,6 @@
             "deck_id": "464445",
             "rank": "1",
             "player": "Michel Xisto",
-            "winrate": 1.0,
             "commander": [
                 "Mina and Denn, Wildborn"
             ],
@@ -100,7 +99,6 @@
             "deck_id": "464446",
             "rank": "2",
             "player": "Professor",
-            "winrate": 0.8,
             "commander": [
                 "General Ferrous Rokiric"
             ],
@@ -191,7 +189,6 @@
             "deck_id": "464447",
             "rank": "3-4",
             "player": "Adriano Yussuke",
-            "winrate": 0.6,
             "commander": [
                 "Saskia the Unyielding"
             ],
@@ -278,7 +275,6 @@
             "deck_id": "464448",
             "rank": "3-4",
             "player": "Juca",
-            "winrate": 0.6,
             "commander": [
                 "Imoti, Celebrant of Bounty"
             ],

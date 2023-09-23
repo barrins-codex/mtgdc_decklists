@@ -10,7 +10,6 @@
             "deck_id": "475805",
             "rank": "1",
             "player": "Maxime Valentin",
-            "winrate": 1.0,
             "commander": [
                 "Dragonlord Ojutai"
             ],
@@ -115,7 +114,6 @@
             "deck_id": "475806",
             "rank": "2",
             "player": "Hugo Fremont",
-            "winrate": 0.8,
             "commander": [
                 "Yisan, the Wanderer Bard"
             ],
@@ -203,7 +201,6 @@
             "deck_id": "475807",
             "rank": "3-4",
             "player": "Nicolas \"thorgal666\" François",
-            "winrate": 0.8,
             "commander": [
                 "Dennick, Pious Apprentice"
             ],
@@ -305,7 +302,6 @@
             "deck_id": "475808",
             "rank": "3-4",
             "player": "Pierre Henri François",
-            "winrate": 0.8,
             "commander": [
                 "Light-Paws, Emperor's Voice"
             ],
@@ -382,7 +378,6 @@
             "deck_id": "475809",
             "rank": "5-8",
             "player": "Antoine Marchand",
-            "winrate": 0.6,
             "commander": [
                 "Grist, the Hunger Tide"
             ],
@@ -481,7 +476,6 @@
             "deck_id": "475810",
             "rank": "5-8",
             "player": "Potel Maximilien",
-            "winrate": 0.6,
             "commander": [
                 "Isamaru, Hound of Konda"
             ],
@@ -570,7 +564,6 @@
             "deck_id": "475811",
             "rank": "5-8",
             "player": "Jeremy \"jayrems\" Gentil",
-            "winrate": 0.6,
             "commander": [
                 "Daretti, Scrap Savant"
             ],
@@ -653,7 +646,6 @@
             "deck_id": "475812",
             "rank": "5-8",
             "player": "Vincent \"loops\" Poirier",
-            "winrate": 0.6,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],

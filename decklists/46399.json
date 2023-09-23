@@ -10,7 +10,6 @@
             "deck_id": "543030",
             "rank": "1",
             "player": "Anthony Vasaturo",
-            "winrate": 1.0,
             "commander": [
                 "Aragorn, King of Gondor"
             ],
@@ -118,7 +117,6 @@
             "deck_id": "543031",
             "rank": "2",
             "player": "Sylvie Sibila",
-            "winrate": 0.8,
             "commander": [
                 "Atraxa, Grand Unifier"
             ],
@@ -228,7 +226,6 @@
             "deck_id": "543032",
             "rank": "3-4",
             "player": "Jayme Mcbride",
-            "winrate": 0.6,
             "commander": [
                 "Aragorn, King of Gondor"
             ],
@@ -336,7 +333,6 @@
             "deck_id": "543033",
             "rank": "3-4",
             "player": "Chris Nelson",
-            "winrate": 0.6,
             "commander": [
                 "Octavia, Living Thesis"
             ],

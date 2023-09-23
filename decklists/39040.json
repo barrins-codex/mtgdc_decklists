@@ -10,7 +10,6 @@
             "deck_id": "491078",
             "rank": "1",
             "player": "Jinlin Yang",
-            "winrate": 1.0,
             "commander": [
                 "Halana and Alena, Partners"
             ],
@@ -110,7 +109,6 @@
             "deck_id": "491079",
             "rank": "2",
             "player": "Char",
-            "winrate": 0.8,
             "commander": [
                 "Hogaak, Arisen Necropolis"
             ],
@@ -220,7 +218,6 @@
             "deck_id": "491080",
             "rank": "3-4",
             "player": "Greenskydragon",
-            "winrate": 0.8,
             "commander": [
                 "Light-Paws, Emperor's Voice"
             ],
@@ -301,7 +298,6 @@
             "deck_id": "491081",
             "rank": "3-4",
             "player": "Shoucong Wu",
-            "winrate": 0.8,
             "commander": [
                 "Soul of Windgrace"
             ],

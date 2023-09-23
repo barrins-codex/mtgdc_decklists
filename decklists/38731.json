@@ -10,7 +10,6 @@
             "deck_id": "489074",
             "rank": "1",
             "player": "Eventwin",
-            "winrate": 0.8888888888888888,
             "commander": [
                 "Elminster"
             ],
@@ -110,7 +109,6 @@
             "deck_id": "489075",
             "rank": "2",
             "player": "Xakuyer",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Juri, Master of the Revue"
             ],
@@ -211,7 +209,6 @@
             "deck_id": "489076",
             "rank": "3-4",
             "player": "Xbod",
-            "winrate": 0.75,
             "commander": [
                 "Soul of Windgrace"
             ],
@@ -315,7 +312,6 @@
             "deck_id": "489077",
             "rank": "3-4",
             "player": "Armov",
-            "winrate": 0.75,
             "commander": [
                 "Tivit, Seller of Secrets"
             ],
@@ -425,7 +421,6 @@
             "deck_id": "489078",
             "rank": "5-8",
             "player": "Alexandre Martial",
-            "winrate": 0.75,
             "commander": [
                 "Sidisi, Brood Tyrant"
             ],
@@ -534,7 +529,6 @@
             "deck_id": "489079",
             "rank": "5-8",
             "player": "Gari",
-            "winrate": 0.75,
             "commander": [
                 "Sai, Master Thopterist"
             ],
@@ -622,7 +616,6 @@
             "deck_id": "489080",
             "rank": "5-8",
             "player": "Djesteur",
-            "winrate": 0.75,
             "commander": [
                 "Ludevic, Necro-Alchemist",
                 "Yoshimaru, Ever Faithful"
@@ -731,7 +724,6 @@
             "deck_id": "489081",
             "rank": "5-8",
             "player": "Buisson \"bandol Du 38\" William",
-            "winrate": 0.75,
             "commander": [
                 "Jegantha, the Wellspring",
                 "Niv-Mizzet Reborn"

@@ -10,7 +10,6 @@
             "deck_id": "372787",
             "rank": "9-16",
             "player": "Jules Lestienne",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Venser, Shaper Savant"
             ],
@@ -91,7 +90,6 @@
             "deck_id": "372788",
             "rank": "9-16",
             "player": "Quentin Rullaud",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Hogaak, Arisen Necropolis"
             ],
@@ -201,7 +199,6 @@
             "deck_id": "372789",
             "rank": "9-16",
             "player": "Felix Calais",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Golos, Tireless Pilgrim"
             ],
@@ -311,7 +308,6 @@
             "deck_id": "372790",
             "rank": "9-16",
             "player": "Adrien \"soullessoni\" Demoget",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -421,7 +417,6 @@
             "deck_id": "372791",
             "rank": "9-16",
             "player": "Moncana",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Sai, Master Thopterist"
             ],
@@ -509,7 +504,6 @@
             "deck_id": "372792",
             "rank": "9-16",
             "player": "Alexandre Martial",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Uro, Titan of Nature's Wrath"
             ],
@@ -599,7 +593,6 @@
             "deck_id": "372793",
             "rank": "9-16",
             "player": "Jefferson Richard",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Venser, Shaper Savant"
             ],
@@ -674,7 +667,6 @@
             "deck_id": "372794",
             "rank": "5-8",
             "player": "Achille Fedioun",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Sisay, Weatherlight Captain"
             ],
@@ -784,7 +776,6 @@
             "deck_id": "372795",
             "rank": "5-8",
             "player": "Thomas \"yaga\" Brochard",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Syr Faren, the Hengehammer"
             ],
@@ -870,7 +861,6 @@
             "deck_id": "372796",
             "rank": "5-8",
             "player": "Diego Rio",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Heliod, Sun-Crowned"
             ],
@@ -955,7 +945,6 @@
             "deck_id": "372797",
             "rank": "9-16",
             "player": "Guillaume Audiffren",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Will Kenrith"
             ],
@@ -1034,7 +1023,6 @@
             "deck_id": "372798",
             "rank": "5-8",
             "player": "Yoan Escourrou",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Reyhan, Last of the Abzan",
                 "Kraum, Ludevic's Opus"
@@ -1143,7 +1131,6 @@
             "deck_id": "372799",
             "rank": "3-4",
             "player": "Nicolas \"nick 'yung Link' Fingertip\" Maurice",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Titania, Protector of Argoth"
             ],
@@ -1241,7 +1228,6 @@
             "deck_id": "372800",
             "rank": "2",
             "player": "Ugo Scaramelli",
-            "winrate": 0.8,
             "commander": [
                 "Tymna the Weaver",
                 "Thrasios, Triton Hero"
@@ -1351,7 +1337,6 @@
             "deck_id": "372801",
             "rank": "2",
             "player": "Lucas \"aethrix\" Gonzalez",
-            "winrate": 0.8,
             "commander": [
                 "Tymna the Weaver",
                 "Thrasios, Triton Hero"
@@ -1461,7 +1446,6 @@
             "deck_id": "372802",
             "rank": "3-4",
             "player": "Mathieu Briffaut",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Thrasios, Triton Hero",
                 "Tymna the Weaver"

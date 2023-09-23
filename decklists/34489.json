@@ -10,7 +10,6 @@
             "deck_id": "461698",
             "rank": "1",
             "player": "Matthieu Mizac",
-            "winrate": 1.0,
             "commander": [
                 "Juri, Master of the Revue"
             ],
@@ -110,7 +109,6 @@
             "deck_id": "461699",
             "rank": "2",
             "player": "Mathys Grapotte",
-            "winrate": 0.8,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -218,7 +216,6 @@
             "deck_id": "461700",
             "rank": "3-4",
             "player": "Antoine Colomb",
-            "winrate": 0.6,
             "commander": [
                 "Gilanra, Caller of Wirewood",
                 "Tevesh Szat, Doom of Fools"
@@ -316,7 +313,6 @@
             "deck_id": "461701",
             "rank": "3-4",
             "player": "Noah Silberfeld",
-            "winrate": 0.6,
             "commander": [
                 "Minsc, Beloved Ranger"
             ],

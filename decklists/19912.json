@@ -10,7 +10,6 @@
             "deck_id": "328787",
             "rank": "1",
             "player": "Bao Hongjie",
-            "winrate": 1.0,
             "commander": [
                 "Sidar Kondo of Jamuraa",
                 "Tymna the Weaver"
@@ -120,7 +119,6 @@
             "deck_id": "328788",
             "rank": "2",
             "player": "He Ying",
-            "winrate": 0.8,
             "commander": [
                 "Will Kenrith",
                 "Rowan Kenrith"

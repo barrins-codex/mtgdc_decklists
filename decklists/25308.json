@@ -10,7 +10,6 @@
             "deck_id": "380595",
             "rank": "3-4",
             "player": "Sczolk",
-            "winrate": 0.8,
             "commander": [
                 "Kenrith, the Returned King"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "380596",
             "rank": "3-4",
             "player": "Perfekt",
-            "winrate": 0.8,
             "commander": [
                 "Uro, Titan of Nature's Wrath"
             ],
@@ -225,7 +223,6 @@
             "deck_id": "380598",
             "rank": "1",
             "player": "Bitzelberg",
-            "winrate": 1.0,
             "commander": [
                 "Ludevic, Necro-Alchemist",
                 "Kraum, Ludevic's Opus"
@@ -317,7 +314,6 @@
             "deck_id": "380599",
             "rank": "2",
             "player": "Midas!",
-            "winrate": 0.8,
             "commander": [
                 "Kytheon, Hero of Akros"
             ],

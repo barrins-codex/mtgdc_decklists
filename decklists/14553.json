@@ -10,7 +10,6 @@
             "deck_id": "287318",
             "rank": "3-4",
             "player": "Linecker Kurebayashi",
-            "winrate": 0.6,
             "commander": [
                 "Jenara, Asura of War"
             ],
@@ -119,7 +118,6 @@
             "deck_id": "287319",
             "rank": "2",
             "player": "Ricardo Zanini",
-            "winrate": 0.8,
             "commander": [
                 "Saskia the Unyielding"
             ],
@@ -229,7 +227,6 @@
             "deck_id": "287322",
             "rank": "1",
             "player": "Fábio Fernandes Vieira",
-            "winrate": 1.0,
             "commander": [
                 "Breya, Etherium Shaper"
             ],
@@ -339,7 +336,6 @@
             "deck_id": "287323",
             "rank": "3-4",
             "player": "Pedro Monfort",
-            "winrate": 0.6,
             "commander": [
                 "Geist of Saint Traft"
             ],

@@ -10,7 +10,6 @@
             "deck_id": "412626",
             "rank": "1",
             "player": "Julien Lagardère",
-            "winrate": 1.0,
             "commander": [
                 "Ludevic, Necro-Alchemist",
                 "Kraum, Ludevic's Opus"
@@ -102,7 +101,6 @@
             "deck_id": "412627",
             "rank": "2",
             "player": "Yvan Lucas",
-            "winrate": 0.8,
             "commander": [
                 "Hogaak, Arisen Necropolis"
             ],

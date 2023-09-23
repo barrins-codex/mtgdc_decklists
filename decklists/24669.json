@@ -10,7 +10,6 @@
             "deck_id": "372563",
             "rank": "2",
             "player": "Jeppe Risager",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Kytheon, Hero of Akros"
             ],
@@ -94,7 +93,6 @@
             "deck_id": "372564",
             "rank": "1",
             "player": "Jasper R. Nielsen",
-            "winrate": 1.0,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],

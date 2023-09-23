@@ -10,7 +10,6 @@
             "deck_id": "349651",
             "rank": "1",
             "player": "Justo Chacon",
-            "winrate": 0.9,
             "commander": [
                 "Thrasios, Triton Hero",
                 "Tymna the Weaver"
@@ -119,7 +118,6 @@
             "deck_id": "349652",
             "rank": "2",
             "player": "Thomas Bagdadlian",
-            "winrate": 0.8,
             "commander": [
                 "Najeela, the Blade-Blossom"
             ],
@@ -229,7 +227,6 @@
             "deck_id": "349653",
             "rank": "3-4",
             "player": "Alexandre Vieu",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Prossh, Skyraider of Kher"
             ],
@@ -331,7 +328,6 @@
             "deck_id": "349654",
             "rank": "3-4",
             "player": "Yvan Lucas",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -410,7 +406,6 @@
             "deck_id": "349655",
             "rank": "5-8",
             "player": "Laurent Ferrandon",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Lord Windgrace"
             ],
@@ -517,7 +512,6 @@
             "deck_id": "349656",
             "rank": "5-8",
             "player": "Moondust",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Sai, Master Thopterist"
             ],
@@ -606,7 +600,6 @@
             "deck_id": "349657",
             "rank": "5-8",
             "player": "Florian Trotte",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Teferi, Temporal Archmage"
             ],
@@ -680,7 +673,6 @@
             "deck_id": "349658",
             "rank": "5-8",
             "player": "Cédric Robert",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Selvala, Heart of the Wilds"
             ],

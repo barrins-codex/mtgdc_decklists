@@ -10,7 +10,6 @@
             "deck_id": "438708",
             "rank": "1",
             "player": "Victor Burghi",
-            "winrate": 1.0,
             "commander": [
                 "Glenn, the Voice of Calm"
             ],
@@ -108,7 +107,6 @@
             "deck_id": "438709",
             "rank": "2",
             "player": "Rafael Ozores",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],

@@ -10,7 +10,6 @@
             "deck_id": "477520",
             "rank": "1",
             "player": "Euro Figueiredo",
-            "winrate": 1.0,
             "commander": [
                 "Arcum Dagsson"
             ],
@@ -93,7 +92,6 @@
             "deck_id": "477521",
             "rank": "2",
             "player": "Julio Bernardo",
-            "winrate": 0.8,
             "commander": [
                 "Light-Paws, Emperor's Voice"
             ],
@@ -171,7 +169,6 @@
             "deck_id": "477522",
             "rank": "3-4",
             "player": "Victor Burghi",
-            "winrate": 0.8,
             "commander": [
                 "Minsc &amp; Boo, Timeless Heroes"
             ],
@@ -272,7 +269,6 @@
             "deck_id": "477523",
             "rank": "3-4",
             "player": "Pablo Lima",
-            "winrate": 0.8,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],

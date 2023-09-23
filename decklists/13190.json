@@ -10,7 +10,6 @@
             "deck_id": "277272",
             "rank": "5-8",
             "player": "Stanislav Serov",
-            "winrate": 0.6,
             "commander": [
                 "Geist of Saint Traft"
             ],
@@ -107,7 +106,6 @@
             "deck_id": "277273",
             "rank": "5-8",
             "player": "Andrey Kostyn",
-            "winrate": 0.6,
             "commander": [
                 "Geist of Saint Traft"
             ],
@@ -206,7 +204,6 @@
             "deck_id": "277274",
             "rank": "3-4",
             "player": "Maxim Mesheryakov",
-            "winrate": 0.8,
             "commander": [
                 "Grand Arbiter Augustin IV"
             ],
@@ -306,7 +303,6 @@
             "deck_id": "277275",
             "rank": "3-4",
             "player": "Alexander Morozov",
-            "winrate": 0.8,
             "commander": [
                 "Anafenza, the Foremost"
             ],
@@ -415,7 +411,6 @@
             "deck_id": "277276",
             "rank": "1",
             "player": "Alexander Sidorov",
-            "winrate": 1.0,
             "commander": [
                 "Keranos, God of Storms"
             ],
@@ -500,7 +495,6 @@
             "deck_id": "277277",
             "rank": "2",
             "player": "Vyacheslav Serputko",
-            "winrate": 0.8,
             "commander": [
                 "Titania, Protector of Argoth"
             ],
@@ -591,7 +585,6 @@
             "deck_id": "277278",
             "rank": "5-8",
             "player": "Pavel Gorin",
-            "winrate": 0.6,
             "commander": [
                 "Prossh, Skyraider of Kher"
             ],
@@ -693,7 +686,6 @@
             "deck_id": "277279",
             "rank": "5-8",
             "player": "Sergey Izhersky",
-            "winrate": 0.6,
             "commander": [
                 "Karador, Ghost Chieftain"
             ],

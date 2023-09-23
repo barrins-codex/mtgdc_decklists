@@ -10,7 +10,6 @@
             "deck_id": "543966",
             "rank": "1",
             "player": "Haoyu,gu",
-            "winrate": 1.0,
             "commander": [
                 "Sheoldred, the Apocalypse"
             ],
@@ -95,7 +94,6 @@
             "deck_id": "543967",
             "rank": "2",
             "player": "Jiawei,chen",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Teferi, Temporal Archmage"
             ],

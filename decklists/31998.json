@@ -10,7 +10,6 @@
             "deck_id": "446954",
             "rank": "1",
             "player": "Melvin Marcus Magsino",
-            "winrate": 1.0,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "446955",
             "rank": "2",
             "player": "Nixon Tengco",
-            "winrate": 0.8,
             "commander": [
                 "Saskia the Unyielding"
             ],
@@ -222,7 +220,6 @@
             "deck_id": "446956",
             "rank": "3-4",
             "player": "Amer Nejadgholami",
-            "winrate": 0.6,
             "commander": [
                 "Grenzo, Dungeon Warden"
             ],
@@ -332,7 +329,6 @@
             "deck_id": "446957",
             "rank": "3-4",
             "player": "John Kobi Reynante",
-            "winrate": 0.6,
             "commander": [
                 "Adeliz, the Cinder Wind"
             ],

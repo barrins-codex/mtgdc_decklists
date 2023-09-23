@@ -10,7 +10,6 @@
             "deck_id": "548922",
             "rank": "1",
             "player": "Mathieu Chiron",
-            "winrate": 0.875,
             "commander": [
                 "Ghyrson Starn, Kelermorph"
             ],
@@ -109,7 +108,6 @@
             "deck_id": "548923",
             "rank": "2",
             "player": "Axel Dubois",
-            "winrate": 0.75,
             "commander": [
                 "Leovold, Emissary of Trest"
             ],
@@ -219,7 +217,6 @@
             "deck_id": "548924",
             "rank": "3-4",
             "player": "Raphaël Préau \"rafikh\"",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Lurrus of the Dream-Den",
                 "Wernog, Rider's Chaplain",
@@ -330,7 +327,6 @@
             "deck_id": "548925",
             "rank": "3-4",
             "player": "Laxus",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Tivit, Seller of Secrets"
             ],
@@ -440,7 +436,6 @@
             "deck_id": "548926",
             "rank": "5-8",
             "player": "Agowny",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Grist, the Hunger Tide"
             ],
@@ -539,7 +534,6 @@
             "deck_id": "548927",
             "rank": "5-8",
             "player": "Nicolas Bonnes",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Aragorn, King of Gondor"
             ],
@@ -648,7 +642,6 @@
             "deck_id": "548928",
             "rank": "5-8",
             "player": "Belconde A",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Atraxa, Grand Unifier"
             ],
@@ -758,7 +751,6 @@
             "deck_id": "548929",
             "rank": "5-8",
             "player": "Alexandre \"al_ex\" Mariet",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Errant and Giada"
             ],

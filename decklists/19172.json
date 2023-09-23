@@ -10,7 +10,6 @@
             "deck_id": "321290",
             "rank": "2",
             "player": "Michal Zdansky",
-            "winrate": 0.8,
             "commander": [
                 "Saskia the Unyielding"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "321291",
             "rank": "8",
             "player": "Miloslav Brozek",
-            "winrate": 0.6,
             "commander": [
                 "Tymna the Weaver",
                 "Kraum, Ludevic's Opus"
@@ -230,7 +228,6 @@
             "deck_id": "321292",
             "rank": "7",
             "player": "Petr Klima",
-            "winrate": 0.6,
             "commander": [
                 "Kraum, Ludevic's Opus",
                 "Tymna the Weaver"
@@ -340,7 +337,6 @@
             "deck_id": "321293",
             "rank": "6",
             "player": "Pavel Sevcik",
-            "winrate": 0.6,
             "commander": [
                 "Zurgo Bellstriker"
             ],
@@ -424,7 +420,6 @@
             "deck_id": "321294",
             "rank": "5",
             "player": "Roman Vejdelek",
-            "winrate": 0.6,
             "commander": [
                 "Kraum, Ludevic's Opus",
                 "Tymna the Weaver"
@@ -533,7 +528,6 @@
             "deck_id": "321295",
             "rank": "4",
             "player": "Stefan Grijincu",
-            "winrate": 0.8,
             "commander": [
                 "Surrak Dragonclaw"
             ],
@@ -628,7 +622,6 @@
             "deck_id": "321296",
             "rank": "3",
             "player": "Jan Kousal",
-            "winrate": 0.8,
             "commander": [
                 "Adeliz, the Cinder Wind"
             ],
@@ -725,7 +718,6 @@
             "deck_id": "321297",
             "rank": "1",
             "player": "Jakub Sykora",
-            "winrate": 1.0,
             "commander": [
                 "Kess, Dissident Mage"
             ],

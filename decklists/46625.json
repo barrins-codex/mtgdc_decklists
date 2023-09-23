@@ -10,7 +10,6 @@
             "deck_id": "544545",
             "rank": "1",
             "player": "Jeremiah Achay",
-            "winrate": 1.0,
             "commander": [
                 "Yoshimaru, Ever Faithful",
                 "Bruse Tarl, Boorish Herder"
@@ -114,7 +113,6 @@
             "deck_id": "544546",
             "rank": "2",
             "player": "Franklin Aguba",
-            "winrate": 0.8,
             "commander": [
                 "Cecily, Haunted Mage",
                 "Wernog, Rider's Chaplain"
@@ -224,7 +222,6 @@
             "deck_id": "544547",
             "rank": "3-4",
             "player": "Nhald Adia",
-            "winrate": 0.8,
             "commander": [
                 "Feldon, Ronom Excavator"
             ],
@@ -315,7 +312,6 @@
             "deck_id": "544548",
             "rank": "4",
             "player": "Jonathan Dolor",
-            "winrate": 0.6,
             "commander": [
                 "Feldon, Ronom Excavator"
             ],

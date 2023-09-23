@@ -10,7 +10,6 @@
             "deck_id": "541893",
             "rank": "1",
             "player": "Jonathan Montalva Alias The Malicious",
-            "winrate": 1.0,
             "commander": [
                 "Kess, Dissident Mage"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "541894",
             "rank": "2",
             "player": "Yannick Bouloc",
-            "winrate": 0.8,
             "commander": [
                 "Rem Karolus, Stalwart Slayer"
             ],

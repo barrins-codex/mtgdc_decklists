@@ -10,7 +10,6 @@
             "deck_id": "511839",
             "rank": "1",
             "player": "Richard Kolenič",
-            "winrate": 1.0,
             "commander": [
                 "Feldon, Ronom Excavator"
             ],
@@ -99,7 +98,6 @@
             "deck_id": "511840",
             "rank": "2",
             "player": "Dominik Repa",
-            "winrate": 0.8,
             "commander": [
                 "Golos, Tireless Pilgrim"
             ],
@@ -209,7 +207,6 @@
             "deck_id": "511841",
             "rank": "3",
             "player": "Patrik Horváth",
-            "winrate": 0.6,
             "commander": [
                 "Grist, the Hunger Tide"
             ],
@@ -308,7 +305,6 @@
             "deck_id": "511842",
             "rank": "4",
             "player": "Juraj Vlček",
-            "winrate": 0.6,
             "commander": [
                 "Kroxa, Titan of Death's Hunger"
             ],

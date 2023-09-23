@@ -10,7 +10,6 @@
             "deck_id": "520091",
             "rank": "1",
             "player": "Victor Burghi",
-            "winrate": 1.0,
             "commander": [
                 "Urza, Chief Artificer"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "520092",
             "rank": "2",
             "player": "Orlando Bibiano",
-            "winrate": 0.8,
             "commander": [
                 "Minsc, Beloved Ranger"
             ],
@@ -227,7 +225,6 @@
             "deck_id": "520093",
             "rank": "3-4",
             "player": "Tavares",
-            "winrate": 0.8,
             "commander": [
                 "Feldon, Ronom Excavator"
             ],
@@ -316,7 +313,6 @@
             "deck_id": "520094",
             "rank": "3-4",
             "player": "Euro Figueredo",
-            "winrate": 0.8,
             "commander": [
                 "Sai, Master Thopterist"
             ],

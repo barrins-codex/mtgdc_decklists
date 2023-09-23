@@ -10,7 +10,6 @@
             "deck_id": "375411",
             "rank": "3-4",
             "player": "Lukas \"lukasengels\" Engels",
-            "winrate": 0.8,
             "commander": [
                 "Queen Marchesa"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "375412",
             "rank": "1",
             "player": "Thomas \"lantariel\" Travert",
-            "winrate": 1.0,
             "commander": [
                 "Kenrith, the Returned King"
             ],
@@ -230,7 +228,6 @@
             "deck_id": "375413",
             "rank": "2",
             "player": "Alexander \"geam103\" Schmoll",
-            "winrate": 0.8,
             "commander": [
                 "Karlov of the Ghost Council"
             ],
@@ -333,7 +330,6 @@
             "deck_id": "375414",
             "rank": "3",
             "player": "Nils \"nils\" H.",
-            "winrate": 0.8,
             "commander": [
                 "Thrasios, Triton Hero",
                 "Akiri, Line-Slinger"

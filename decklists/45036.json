@@ -10,7 +10,6 @@
             "deck_id": "532436",
             "rank": "1",
             "player": "Marek Voráček",
-            "winrate": 1.0,
             "commander": [
                 "Minsc, Beloved Ranger"
             ],
@@ -117,7 +116,6 @@
             "deck_id": "532437",
             "rank": "2",
             "player": "Jan Faflík",
-            "winrate": 0.8,
             "commander": [
                 "Ertai Resurrected"
             ],
@@ -218,7 +216,6 @@
             "deck_id": "532438",
             "rank": "3-4",
             "player": "Miloslav Ponec",
-            "winrate": 0.6,
             "commander": [
                 "Ardoz, Cobbler of War"
             ],
@@ -304,7 +301,6 @@
             "deck_id": "532439",
             "rank": "3-4",
             "player": "Matou Pavlovský-fiala",
-            "winrate": 0.6,
             "commander": [
                 "Light-Paws, Emperor's Voice"
             ],

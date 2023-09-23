@@ -10,7 +10,6 @@
             "deck_id": "510102",
             "rank": "1",
             "player": "Victor Marques",
-            "winrate": 1.0,
             "commander": [
                 "Dihada, Binder of Wills"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "510103",
             "rank": "2",
             "player": "Brun V",
-            "winrate": 0.8,
             "commander": [
                 "Ghyrson Starn, Kelermorph"
             ],
@@ -217,7 +215,6 @@
             "deck_id": "510104",
             "rank": "3",
             "player": "Véi Comandeiro",
-            "winrate": 0.8,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -326,7 +323,6 @@
             "deck_id": "510105",
             "rank": "4",
             "player": "Cromado",
-            "winrate": 0.6,
             "commander": [
                 "Niv-Mizzet Reborn"
             ],
@@ -436,7 +432,6 @@
             "deck_id": "510106",
             "rank": "5",
             "player": "Vinicius Lopes",
-            "winrate": 0.6,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -546,7 +541,6 @@
             "deck_id": "510107",
             "rank": "6",
             "player": "Diego Maia",
-            "winrate": 0.6,
             "commander": [
                 "Dihada, Binder of Wills"
             ],
@@ -656,7 +650,6 @@
             "deck_id": "510108",
             "rank": "7",
             "player": "Raphael Cristofaro",
-            "winrate": 0.6,
             "commander": [
                 "Animar, Soul of Elements"
             ],
@@ -766,7 +759,6 @@
             "deck_id": "510109",
             "rank": "8",
             "player": "Paulo Sia",
-            "winrate": 0.6,
             "commander": [
                 "Balmor, Battlemage Captain"
             ],

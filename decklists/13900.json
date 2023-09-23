@@ -10,7 +10,6 @@
             "deck_id": "282225",
             "rank": "5-8",
             "player": "Luiz Felipe Fernandez Zumstein",
-            "winrate": 0.625,
             "commander": [
                 "Animar, Soul of Elements"
             ],
@@ -115,7 +114,6 @@
             "deck_id": "282226",
             "rank": "5-8",
             "player": "João Eduardo Santos",
-            "winrate": 0.625,
             "commander": [
                 "Leovold, Emissary of Trest"
             ],
@@ -219,7 +217,6 @@
             "deck_id": "282227",
             "rank": "5-8",
             "player": "Eduardo Shimizu",
-            "winrate": 0.625,
             "commander": [
                 "Jace, Vryn's Prodigy"
             ],
@@ -300,7 +297,6 @@
             "deck_id": "282228",
             "rank": "5-8",
             "player": "Fábio Fernandes Vieira",
-            "winrate": 0.625,
             "commander": [
                 "Leovold, Emissary of Trest"
             ],
@@ -407,7 +403,6 @@
             "deck_id": "282229",
             "rank": "3-4",
             "player": "Ricardo Wada",
-            "winrate": 0.625,
             "commander": [
                 "Titania, Protector of Argoth"
             ],
@@ -499,7 +494,6 @@
             "deck_id": "282230",
             "rank": "3-4",
             "player": "Diego Ganev",
-            "winrate": 0.625,
             "commander": [
                 "Jenara, Asura of War"
             ],
@@ -609,7 +603,6 @@
             "deck_id": "282231",
             "rank": "2",
             "player": "Henrique Rocha",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Zurgo Bellstriker"
             ],
@@ -690,7 +683,6 @@
             "deck_id": "282232",
             "rank": "1",
             "player": "Guilherme \"Demonic Tutor\" Machado",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Vendilion Clique"
             ],

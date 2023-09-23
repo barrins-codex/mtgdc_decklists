@@ -10,7 +10,6 @@
             "deck_id": "425401",
             "rank": "1",
             "player": "Vincent Lafond Puyo",
-            "winrate": 1.0,
             "commander": [
                 "Narset, Enlightened Master"
             ],
@@ -116,7 +115,6 @@
             "deck_id": "425402",
             "rank": "2",
             "player": "Willy De Almeida",
-            "winrate": 0.8,
             "commander": [
                 "Rograkh, Son of Rohgahh",
                 "Keleth, Sunmane Familiar"
@@ -214,7 +212,6 @@
             "deck_id": "425403",
             "rank": "3",
             "player": "Charlie Delabrousse",
-            "winrate": 0.8,
             "commander": [
                 "Sisay, Weatherlight Captain"
             ],
@@ -324,7 +321,6 @@
             "deck_id": "425404",
             "rank": "4",
             "player": "Jules Lestienne",
-            "winrate": 0.8,
             "commander": [
                 "Silas Renn, Seeker Adept",
                 "Krark, the Thumbless"
@@ -434,7 +430,6 @@
             "deck_id": "425405",
             "rank": "5",
             "player": "Maximilien Kalil",
-            "winrate": 0.8,
             "commander": [
                 "Jeska, Thrice Reborn",
                 "Esior, Wardwing Familiar"
@@ -530,7 +525,6 @@
             "deck_id": "425406",
             "rank": "6",
             "player": "Thomas Drucké",
-            "winrate": 0.6,
             "commander": [
                 "Esior, Wardwing Familiar",
                 "Ardenn, Intrepid Archaeologist"
@@ -630,7 +624,6 @@
             "deck_id": "425407",
             "rank": "7",
             "player": "Stefan Czolk",
-            "winrate": 0.6,
             "commander": [
                 "Esior, Wardwing Familiar",
                 "Dargo, the Shipwrecker"
@@ -725,7 +718,6 @@
             "deck_id": "425408",
             "rank": "8",
             "player": "Mathieu Briffaut",
-            "winrate": 0.6,
             "commander": [
                 "Jeska, Thrice Reborn",
                 "Esior, Wardwing Familiar"

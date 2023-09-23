@@ -10,7 +10,6 @@
             "deck_id": "391066",
             "rank": "1",
             "player": "Willydea",
-            "winrate": 1.0,
             "commander": [
                 "Rielle, the Everwise",
                 "Lutri, the Spellchaser"
@@ -108,7 +107,6 @@
             "deck_id": "391067",
             "rank": "2",
             "player": "Carpenters",
-            "winrate": 0.8,
             "commander": [
                 "Lutri, the Spellchaser",
                 "Akiri, Line-Slinger",

@@ -10,7 +10,6 @@
             "deck_id": "473269",
             "rank": "3",
             "player": "Sebastien Flotte",
-            "winrate": 0.8,
             "commander": [
                 "Ludevic, Necro-Alchemist",
                 "Bruse Tarl, Boorish Herder"
@@ -115,7 +114,6 @@
             "deck_id": "473270",
             "rank": "3",
             "player": "Cedric Roy",
-            "winrate": 0.8,
             "commander": [
                 "Sythis, Harvest's Hand"
             ],
@@ -222,7 +220,6 @@
             "deck_id": "473271",
             "rank": "3",
             "player": "Jonathan Valentin",
-            "winrate": 0.8,
             "commander": [
                 "Light-Paws, Emperor's Voice"
             ],

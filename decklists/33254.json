@@ -10,7 +10,6 @@
             "deck_id": "453925",
             "rank": "1",
             "player": "Jean-mathieu Gaffié",
-            "winrate": 0.9,
             "commander": [
                 "Malcolm, Keen-Eyed Navigator",
                 "Livio, Oathsworn Sentinel"
@@ -111,7 +110,6 @@
             "deck_id": "453926",
             "rank": "2",
             "player": "Marin Boulangé",
-            "winrate": 0.8,
             "commander": [
                 "Adeliz, the Cinder Wind"
             ],
@@ -209,7 +207,6 @@
             "deck_id": "453927",
             "rank": "3-4",
             "player": "Gaël Huber",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Jirina Kudro"
             ],
@@ -319,7 +316,6 @@
             "deck_id": "453928",
             "rank": "3-4",
             "player": "Jules Lestienne",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Venser, Shaper Savant"
             ],
@@ -397,7 +393,6 @@
             "deck_id": "453929",
             "rank": "5-8",
             "player": "Etienne Tehrani",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Livio, Oathsworn Sentinel",
                 "Kraum, Ludevic's Opus"
@@ -506,7 +501,6 @@
             "deck_id": "453930",
             "rank": "5-8",
             "player": "Adrien Demoget",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Sythis, Harvest's Hand"
             ],
@@ -614,7 +608,6 @@
             "deck_id": "453931",
             "rank": "5-8",
             "player": "Grégoire Payan",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "The Gitrog Monster"
             ],
@@ -713,7 +706,6 @@
             "deck_id": "453932",
             "rank": "5-8",
             "player": "Félix Calais",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Esika, God of the Tree"
             ],
@@ -823,7 +815,6 @@
             "deck_id": "453933",
             "rank": "10",
             "player": "Clément Selles",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Adeliz, the Cinder Wind"
             ],
@@ -918,7 +909,6 @@
             "deck_id": "453934",
             "rank": "14",
             "player": "Nathan Corrotte",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -1028,7 +1018,6 @@
             "deck_id": "453935",
             "rank": "13",
             "player": "Charles Wickham",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Dragonlord Ojutai"
             ],
@@ -1129,7 +1118,6 @@
             "deck_id": "453936",
             "rank": "16",
             "player": "Julien Bihet",
-            "winrate": 0.5714285714285714,
             "commander": [
                 "Grist, the Hunger Tide"
             ],
@@ -1230,7 +1218,6 @@
             "deck_id": "453937",
             "rank": "12",
             "player": "Kevin Douvry",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Kinnan, Bonder Prodigy"
             ],
@@ -1330,7 +1317,6 @@
             "deck_id": "453938",
             "rank": "11",
             "player": "Vincent Ringuedé",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Klothys, God of Destiny"
             ],
@@ -1432,7 +1418,6 @@
             "deck_id": "453939",
             "rank": "9",
             "player": "Clément Gillard",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Niv-Mizzet Reborn"
             ],
@@ -1542,7 +1527,6 @@
             "deck_id": "453940",
             "rank": "15",
             "player": "Christophe Casta",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Titania, Protector of Argoth"
             ],

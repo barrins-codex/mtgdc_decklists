@@ -10,7 +10,6 @@
             "deck_id": "420224",
             "rank": "1",
             "player": "Ligny Manuel",
-            "winrate": 1.0,
             "commander": [
                 "Braids, Cabal Minion"
             ],
@@ -90,7 +89,6 @@
             "deck_id": "420225",
             "rank": "2",
             "player": "Gaonach Damien",
-            "winrate": 0.8,
             "commander": [
                 "Niv-Mizzet Reborn"
             ],
@@ -200,7 +198,6 @@
             "deck_id": "420226",
             "rank": "3-4",
             "player": "Genvresse Mathieu",
-            "winrate": 0.8,
             "commander": [
                 "Karlov of the Ghost Council"
             ],
@@ -308,7 +305,6 @@
             "deck_id": "420227",
             "rank": "3-4",
             "player": "Calon Arnaud (doudou)",
-            "winrate": 0.8,
             "commander": [
                 "Rowan Kenrith",
                 "Will Kenrith"

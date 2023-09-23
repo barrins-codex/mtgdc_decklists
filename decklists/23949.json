@@ -10,7 +10,6 @@
             "deck_id": "366894",
             "rank": "8",
             "player": "Roman Vejdělek",
-            "winrate": 0.6,
             "commander": [
                 "Kraum, Ludevic's Opus",
                 "Ludevic, Necro-Alchemist"
@@ -104,7 +103,6 @@
             "deck_id": "366895",
             "rank": "7",
             "player": "Vladan Kváč",
-            "winrate": 0.6,
             "commander": [
                 "Prossh, Skyraider of Kher"
             ],
@@ -214,7 +212,6 @@
             "deck_id": "366896",
             "rank": "6",
             "player": "Jan Kousal",
-            "winrate": 0.6,
             "commander": [
                 "Kraum, Ludevic's Opus",
                 "Ludevic, Necro-Alchemist"
@@ -312,7 +309,6 @@
             "deck_id": "366897",
             "rank": "5",
             "player": "David \"anki\" Tran",
-            "winrate": 0.6,
             "commander": [
                 "Kess, Dissident Mage"
             ],
@@ -422,7 +418,6 @@
             "deck_id": "366898",
             "rank": "4",
             "player": "Martin Czech",
-            "winrate": 0.8,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -510,7 +505,6 @@
             "deck_id": "366899",
             "rank": "3",
             "player": "Petr tefan",
-            "winrate": 0.8,
             "commander": [
                 "Kess, Dissident Mage"
             ],
@@ -620,7 +614,6 @@
             "deck_id": "366900",
             "rank": "2",
             "player": "Jakub Lelek",
-            "winrate": 0.8,
             "commander": [
                 "Lord Windgrace"
             ],
@@ -728,7 +721,6 @@
             "deck_id": "366901",
             "rank": "1",
             "player": "Ale Buben",
-            "winrate": 1.0,
             "commander": [
                 "Kraum, Ludevic's Opus",
                 "Ludevic, Necro-Alchemist"

@@ -10,7 +10,6 @@
             "deck_id": "426963",
             "rank": "1",
             "player": "Sherwin Lobrigo",
-            "winrate": 1.0,
             "commander": [
                 "Prossh, Skyraider of Kher"
             ],
@@ -116,7 +115,6 @@
             "deck_id": "426964",
             "rank": "2",
             "player": "Timothy Agustin",
-            "winrate": 0.8,
             "commander": [
                 "Esior, Wardwing Familiar",
                 "Jeska, Thrice Reborn"

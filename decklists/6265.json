@@ -10,7 +10,6 @@
             "deck_id": "236914",
             "rank": "1",
             "player": "Ben Cardenas",
-            "winrate": 1.0,
             "commander": [
                 "Zur the Enchanter"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "236915",
             "rank": "1",
             "player": "Israel Rodriguez  Team Happy Meal",
-            "winrate": 1.0,
             "commander": [
                 "Zur the Enchanter"
             ],
@@ -230,7 +228,6 @@
             "deck_id": "236916",
             "rank": "3-4",
             "player": "Mike Rabanal",
-            "winrate": 0.8,
             "commander": [
                 "Skithiryx, the Blight Dragon"
             ],
@@ -313,7 +310,6 @@
             "deck_id": "236917",
             "rank": "3-4",
             "player": "Bryann Reynoso",
-            "winrate": 0.8,
             "commander": [
                 "Derevi, Empyrial Tactician"
             ],

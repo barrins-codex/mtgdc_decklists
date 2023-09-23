@@ -10,7 +10,6 @@
             "deck_id": "414447",
             "rank": "1",
             "player": "Guohao,cai",
-            "winrate": 1.0,
             "commander": [
                 "Winota, Joiner of Forces"
             ],
@@ -107,7 +106,6 @@
             "deck_id": "414448",
             "rank": "2",
             "player": "Gengnan,ren",
-            "winrate": 0.8,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -217,7 +215,6 @@
             "deck_id": "414449",
             "rank": "3",
             "player": "Yufei,shen",
-            "winrate": 0.6,
             "commander": [
                 "Klothys, God of Destiny"
             ],
@@ -321,7 +318,6 @@
             "deck_id": "414450",
             "rank": "4",
             "player": "Yixuan,bu",
-            "winrate": 0.6,
             "commander": [
                 "Shabraz, the Skyshark",
                 "Brallin, Skyshark Rider"

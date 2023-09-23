@@ -10,7 +10,6 @@
             "deck_id": "513083",
             "rank": "2",
             "player": "Chalres Da Cunha",
-            "winrate": 0.8,
             "commander": [
                 "Minsc, Beloved Ranger"
             ],
@@ -112,7 +111,6 @@
             "deck_id": "513084",
             "rank": "3-4",
             "player": "Romain Cozic",
-            "winrate": 0.8,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -222,7 +220,6 @@
             "deck_id": "513085",
             "rank": "3-4",
             "player": "Alexandre Benac",
-            "winrate": 0.8,
             "commander": [
                 "Hogaak, Arisen Necropolis"
             ],
@@ -332,7 +329,6 @@
             "deck_id": "513086",
             "rank": "5-8",
             "player": "Joss \"moon\" Cizaire",
-            "winrate": 0.6,
             "commander": [
                 "Niv-Mizzet Reborn"
             ],
@@ -442,7 +438,6 @@
             "deck_id": "513087",
             "rank": "5-8",
             "player": "Loic Barlet",
-            "winrate": 0.6,
             "commander": [
                 "Hogaak, Arisen Necropolis"
             ],
@@ -552,7 +547,6 @@
             "deck_id": "513088",
             "rank": "5-8",
             "player": "Jeremy Felix",
-            "winrate": 0.6,
             "commander": [
                 "Old Stickfingers"
             ],
@@ -653,7 +647,6 @@
             "deck_id": "513089",
             "rank": "5-8",
             "player": "Vincent Lebas",
-            "winrate": 0.6,
             "commander": [
                 "The Gitrog Monster"
             ],

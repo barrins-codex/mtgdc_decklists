@@ -10,7 +10,6 @@
             "deck_id": "495711",
             "rank": "1",
             "player": "Rafael Ozores",
-            "winrate": 1.0,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -94,7 +93,6 @@
             "deck_id": "495712",
             "rank": "2",
             "player": "Douglas Pacifico",
-            "winrate": 0.8,
             "commander": [
                 "Ghyrson Starn, Kelermorph"
             ],
@@ -192,7 +190,6 @@
             "deck_id": "495713",
             "rank": "3-4",
             "player": "Leandro Lima",
-            "winrate": 0.8,
             "commander": [
                 "Jeska, Thrice Reborn",
                 "Ludevic, Necro-Alchemist"
@@ -291,7 +288,6 @@
             "deck_id": "495714",
             "rank": "3-4",
             "player": "Guilherme Bellagente",
-            "winrate": 0.8,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -401,7 +397,6 @@
             "deck_id": "495715",
             "rank": "5-8",
             "player": "Paulo Galhardo",
-            "winrate": 0.6,
             "commander": [
                 "Sythis, Harvest's Hand"
             ],
@@ -504,7 +499,6 @@
             "deck_id": "495716",
             "rank": "5-8",
             "player": "Samuel Martins",
-            "winrate": 0.6,
             "commander": [
                 "Klothys, God of Destiny"
             ],
@@ -599,7 +593,6 @@
             "deck_id": "495717",
             "rank": "5-8",
             "player": "Carlos Pires",
-            "winrate": 0.6,
             "commander": [
                 "Jeska, Thrice Reborn",
                 "Ludevic, Necro-Alchemist"
@@ -697,7 +690,6 @@
             "deck_id": "495718",
             "rank": "5-8",
             "player": "Bruno Pereira",
-            "winrate": 0.6,
             "commander": [
                 "Sheoldred, the Apocalypse"
             ],

@@ -10,7 +10,6 @@
             "deck_id": "266743",
             "rank": "5-8",
             "player": "Fábio Kaneto",
-            "winrate": 0.75,
             "commander": [
                 "Yisan, the Wanderer Bard"
             ],
@@ -100,7 +99,6 @@
             "deck_id": "266744",
             "rank": "5-8",
             "player": "Eduardo Shimizu",
-            "winrate": 0.75,
             "commander": [
                 "Vendilion Clique"
             ],
@@ -188,7 +186,6 @@
             "deck_id": "266745",
             "rank": "5-8",
             "player": "Leonardo Tadeu Lima Almeida",
-            "winrate": 0.75,
             "commander": [
                 "Anafenza, the Foremost"
             ],
@@ -298,7 +295,6 @@
             "deck_id": "266746",
             "rank": "5-8",
             "player": "Julio Cesar Buttler",
-            "winrate": 0.75,
             "commander": [
                 "Obzedat, Ghost Council"
             ],
@@ -394,7 +390,6 @@
             "deck_id": "266747",
             "rank": "3-4",
             "player": "Rafael Schettini",
-            "winrate": 0.75,
             "commander": [
                 "Skithiryx, the Blight Dragon"
             ],
@@ -476,7 +471,6 @@
             "deck_id": "266748",
             "rank": "3-4",
             "player": "Andre Escudeiro",
-            "winrate": 0.75,
             "commander": [
                 "Maelstrom Wanderer"
             ],
@@ -579,7 +573,6 @@
             "deck_id": "266749",
             "rank": "2",
             "player": "Bruno Cezar Moreno",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Wydwen, the Biting Gale"
             ],
@@ -676,7 +669,6 @@
             "deck_id": "266750",
             "rank": "1",
             "player": "Miguel Rossi",
-            "winrate": 0.8888888888888888,
             "commander": [
                 "Yisan, the Wanderer Bard"
             ],

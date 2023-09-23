@@ -10,7 +10,6 @@
             "deck_id": "234626",
             "rank": "1",
             "player": "Hu Hanghao",
-            "winrate": 0.9,
             "commander": [
                 "Zur the Enchanter"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "234627",
             "rank": "5-8",
             "player": "Etienne Mauffret",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Doran, the Siege Tower"
             ],
@@ -230,7 +228,6 @@
             "deck_id": "234628",
             "rank": "2",
             "player": "Mickael Bernard",
-            "winrate": 0.8,
             "commander": [
                 "The Mimeoplasm"
             ],
@@ -337,7 +334,6 @@
             "deck_id": "234629",
             "rank": "3-4",
             "player": "Tony Dumont",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Prime Speaker Zegana"
             ],
@@ -431,7 +427,6 @@
             "deck_id": "234630",
             "rank": "3-4",
             "player": "Maxence Achoun",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Geist of Saint Traft"
             ],
@@ -523,7 +518,6 @@
             "deck_id": "234631",
             "rank": "5-8",
             "player": "Damien Marion",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Griselbrand"
             ],
@@ -604,7 +598,6 @@
             "deck_id": "234632",
             "rank": "5-8",
             "player": "Vivien \"Soratami\" Macé",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Zur the Enchanter"
             ],
@@ -714,7 +707,6 @@
             "deck_id": "234633",
             "rank": "5-8",
             "player": "Laury Risbec",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Marath, Will of the Wild"
             ],

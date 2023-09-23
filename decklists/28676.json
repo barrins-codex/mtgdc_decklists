@@ -10,7 +10,6 @@
             "deck_id": "426419",
             "rank": "1",
             "player": "Man Lok Wong",
-            "winrate": 1.0,
             "commander": [
                 "Jeska, Thrice Reborn",
                 "Esior, Wardwing Familiar"
@@ -116,7 +115,6 @@
             "deck_id": "426420",
             "rank": "2",
             "player": "Chi Hang Lai",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Winota, Joiner of Forces"
             ],

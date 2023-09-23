@@ -10,7 +10,6 @@
             "deck_id": "491863",
             "rank": "1",
             "player": "Moncana",
-            "winrate": 0.9,
             "commander": [
                 "Tivit, Seller of Secrets"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "491864",
             "rank": "2",
             "player": "Christophe Maymard",
-            "winrate": 0.8,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -230,7 +228,6 @@
             "deck_id": "491865",
             "rank": "3-4",
             "player": "Tanguy Dupont",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Balmor, Battlemage Captain"
             ],
@@ -326,7 +323,6 @@
             "deck_id": "491866",
             "rank": "3-4",
             "player": "Jeremy \"bigmalyon\" Poujade",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -434,7 +430,6 @@
             "deck_id": "491867",
             "rank": "5-8",
             "player": "Romain Cozic",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -544,7 +539,6 @@
             "deck_id": "491868",
             "rank": "5-8",
             "player": "Bastien \"isakami\" Guichard",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Yoshimaru, Ever Faithful",
                 "Rograkh, Son of Rohgahh"
@@ -627,7 +621,6 @@
             "deck_id": "491869",
             "rank": "5-8",
             "player": "Boris Ringotte",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Balmor, Battlemage Captain"
             ],
@@ -729,7 +722,6 @@
             "deck_id": "491870",
             "rank": "5-8",
             "player": "Alexandre \"barrettcall50\" Martial",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Old Rutstein"
             ],
@@ -833,7 +825,6 @@
             "deck_id": "491871",
             "rank": "9",
             "player": "Nagggash",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -943,7 +934,6 @@
             "deck_id": "491872",
             "rank": "10",
             "player": "Le Roux De Schrodinger",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "The Gitrog Monster"
             ],
@@ -1043,7 +1033,6 @@
             "deck_id": "491873",
             "rank": "11",
             "player": "Jeremy Cuvelier",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Grist, the Hunger Tide"
             ],
@@ -1142,7 +1131,6 @@
             "deck_id": "491874",
             "rank": "12",
             "player": "Damien \"eventwin\" Jantzen",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Elminster"
             ],
@@ -1242,7 +1230,6 @@
             "deck_id": "491875",
             "rank": "13",
             "player": "Yann Belmer",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -1352,7 +1339,6 @@
             "deck_id": "491876",
             "rank": "14",
             "player": "Alexandre \"onesauk\" Benac",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Kroxa, Titan of Death's Hunger"
             ],
@@ -1451,7 +1437,6 @@
             "deck_id": "491877",
             "rank": "15",
             "player": "Gael Huber",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Yoshimaru, Ever Faithful",
                 "Bruse Tarl, Boorish Herder"
@@ -1553,7 +1538,6 @@
             "deck_id": "491878",
             "rank": "16",
             "player": "Edouard Inanc",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "The Gitrog Monster"
             ],

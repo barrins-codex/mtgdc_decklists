@@ -10,7 +10,6 @@
             "deck_id": "255513",
             "rank": "1",
             "player": "Janji Naling",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Anafenza, the Foremost"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "255514",
             "rank": "1",
             "player": "Mark Edward Lasam",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Marath, Will of the Wild"
             ],
@@ -228,7 +226,6 @@
             "deck_id": "255515",
             "rank": "1",
             "player": "Richmund Lim",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Maelstrom Wanderer"
             ],
@@ -332,7 +329,6 @@
             "deck_id": "255516",
             "rank": "1",
             "player": "Chester Bausa",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Narset, Enlightened Master"
             ],
@@ -438,7 +434,6 @@
             "deck_id": "255517",
             "rank": "5-8",
             "player": "Tomee Tomelden",
-            "winrate": 0.625,
             "commander": [
                 "Prossh, Skyraider of Kher"
             ],
@@ -548,7 +543,6 @@
             "deck_id": "255518",
             "rank": "5-8",
             "player": "Earl Castel",
-            "winrate": 0.625,
             "commander": [
                 "Sen Triplets"
             ],
@@ -651,7 +645,6 @@
             "deck_id": "255519",
             "rank": "5-8",
             "player": "Manuel Flor Jr.",
-            "winrate": 0.625,
             "commander": [
                 "Sidisi, Brood Tyrant"
             ],
@@ -755,7 +748,6 @@
             "deck_id": "255520",
             "rank": "5-8",
             "player": "Ed Tanyag",
-            "winrate": 0.625,
             "commander": [
                 "Maelstrom Wanderer"
             ],

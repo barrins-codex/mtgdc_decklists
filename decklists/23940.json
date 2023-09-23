@@ -10,7 +10,6 @@
             "deck_id": "366755",
             "rank": "1",
             "player": "Yan Lorente",
-            "winrate": 0.8888888888888888,
             "commander": [
                 "Hogaak, Arisen Necropolis"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "366756",
             "rank": "2",
             "player": "Mathieu Laurent",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Tymna the Weaver",
                 "Thrasios, Triton Hero"
@@ -225,7 +223,6 @@
             "deck_id": "366757",
             "rank": "3-4",
             "player": "Nathan Lercier",
-            "winrate": 0.75,
             "commander": [
                 "Sai, Master Thopterist"
             ],
@@ -313,7 +310,6 @@
             "deck_id": "366758",
             "rank": "3-4",
             "player": "Robin Angebaud",
-            "winrate": 0.75,
             "commander": [
                 "Sai, Master Thopterist"
             ],
@@ -402,7 +398,6 @@
             "deck_id": "366759",
             "rank": "5-8",
             "player": "Steven Garnier",
-            "winrate": 0.75,
             "commander": [
                 "Kess, Dissident Mage"
             ],
@@ -512,7 +507,6 @@
             "deck_id": "366760",
             "rank": "5-8",
             "player": "Stéphane Rogard",
-            "winrate": 0.75,
             "commander": [
                 "Sidar Kondo of Jamuraa",
                 "Thrasios, Triton Hero"
@@ -621,7 +615,6 @@
             "deck_id": "366761",
             "rank": "5-8",
             "player": "Alexander \"newtraderdu78\" Loskoutoff",
-            "winrate": 0.75,
             "commander": [
                 "Brago, King Eternal"
             ],
@@ -717,7 +710,6 @@
             "deck_id": "366762",
             "rank": "5-8",
             "player": "Pierre Vallet",
-            "winrate": 0.75,
             "commander": [
                 "Titania, Protector of Argoth"
             ],

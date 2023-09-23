@@ -10,7 +10,6 @@
             "deck_id": "395877",
             "rank": "1",
             "player": "Rodolphe Grabowski",
-            "winrate": 1.0,
             "commander": [
                 "Ghired, Conclave Exile"
             ],
@@ -113,7 +112,6 @@
             "deck_id": "395878",
             "rank": "2",
             "player": "Hugo Dodelin",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Leovold, Emissary of Trest"
             ],

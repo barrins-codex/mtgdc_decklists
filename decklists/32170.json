@@ -10,7 +10,6 @@
             "deck_id": "447823",
             "rank": "1",
             "player": "Maciel Souza",
-            "winrate": 1.0,
             "commander": [
                 "Kroxa, Titan of Death's Hunger"
             ],
@@ -100,7 +99,6 @@
             "deck_id": "447824",
             "rank": "2",
             "player": "Gustavo",
-            "winrate": 0.8,
             "commander": [
                 "Titania, Protector of Argoth"
             ],
@@ -189,7 +187,6 @@
             "deck_id": "447825",
             "rank": "3-4",
             "player": "Victor Bonano",
-            "winrate": 0.6,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -299,7 +296,6 @@
             "deck_id": "447826",
             "rank": "3-4",
             "player": "Giovanni",
-            "winrate": 0.6,
             "commander": [
                 "Anje Falkenrath"
             ],

@@ -10,7 +10,6 @@
             "deck_id": "374132",
             "rank": "1",
             "player": "Manuel Faber",
-            "winrate": 1.0,
             "commander": [
                 "Hogaak, Arisen Necropolis"
             ],
@@ -113,7 +112,6 @@
             "deck_id": "374133",
             "rank": "2",
             "player": "Thomas Hirtz",
-            "winrate": 0.8,
             "commander": [
                 "Titania, Protector of Argoth"
             ],
@@ -207,7 +205,6 @@
             "deck_id": "374134",
             "rank": "3-4",
             "player": "Luis Kamper",
-            "winrate": 0.8,
             "commander": [
                 "Akiri, Line-Slinger",
                 "Silas Renn, Seeker Adept"
@@ -317,7 +314,6 @@
             "deck_id": "374135",
             "rank": "3-4",
             "player": "Lukas Engels",
-            "winrate": 0.8,
             "commander": [
                 "Queen Marchesa"
             ],

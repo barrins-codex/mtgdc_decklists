@@ -10,7 +10,6 @@
             "deck_id": "257309",
             "rank": "1",
             "player": "Michele Atzeni",
-            "winrate": 1.0,
             "commander": [
                 "Vendilion Clique"
             ],
@@ -96,7 +95,6 @@
             "deck_id": "257310",
             "rank": "2",
             "player": "Dario Belotti",
-            "winrate": 0.8,
             "commander": [
                 "Jenara, Asura of War"
             ],

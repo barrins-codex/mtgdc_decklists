@@ -10,7 +10,6 @@
             "deck_id": "533341",
             "rank": "1",
             "player": "Maxime Catala",
-            "winrate": 1.0,
             "commander": [
                 "Rona, Herald of Invasion"
             ],
@@ -109,7 +108,6 @@
             "deck_id": "533342",
             "rank": "2",
             "player": "Bastien Jegat",
-            "winrate": 0.8,
             "commander": [
                 "Light-Paws, Emperor's Voice"
             ],
@@ -192,7 +190,6 @@
             "deck_id": "533343",
             "rank": "3-4",
             "player": "Jean- Baptiste Canonici",
-            "winrate": 0.8,
             "commander": [
                 "Ertai Resurrected"
             ],
@@ -289,7 +286,6 @@
             "deck_id": "533344",
             "rank": "3-4",
             "player": "Enzo Russo",
-            "winrate": 0.8,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -399,7 +395,6 @@
             "deck_id": "533345",
             "rank": "5-8",
             "player": "Jérôme Perez",
-            "winrate": 0.6,
             "commander": [
                 "Tana, the Bloodsower",
                 "Yoshimaru, Ever Faithful"
@@ -508,7 +503,6 @@
             "deck_id": "533346",
             "rank": "5-8",
             "player": "Matthieu Mizac",
-            "winrate": 0.6,
             "commander": [
                 "Flamewar, Brash Veteran"
             ],
@@ -607,7 +601,6 @@
             "deck_id": "533347",
             "rank": "5-8",
             "player": "Yannick Bouloc",
-            "winrate": 0.6,
             "commander": [
                 "Sai, Master Thopterist"
             ],
@@ -699,7 +692,6 @@
             "deck_id": "533348",
             "rank": "5-8",
             "player": "Benoit Pierron",
-            "winrate": 0.6,
             "commander": [
                 "Balmor, Battlemage Captain"
             ],

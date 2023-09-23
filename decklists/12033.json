@@ -10,7 +10,6 @@
             "deck_id": "268999",
             "rank": "3",
             "player": "Yao Yao",
-            "winrate": 0.8,
             "commander": [
                 "Azusa, Lost but Seeking"
             ],
@@ -105,7 +104,6 @@
             "deck_id": "269000",
             "rank": "4",
             "player": "Pan Yude",
-            "winrate": 0.6,
             "commander": [
                 "Captain Sisay"
             ],
@@ -209,7 +207,6 @@
             "deck_id": "269001",
             "rank": "1",
             "player": "Dai Wenbin",
-            "winrate": 1.0,
             "commander": [
                 "Tasigur, the Golden Fang"
             ],
@@ -316,7 +313,6 @@
             "deck_id": "269002",
             "rank": "2",
             "player": "Jiang Jiahe",
-            "winrate": 0.8,
             "commander": [
                 "Jenara, Asura of War"
             ],

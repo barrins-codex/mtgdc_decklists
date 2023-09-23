@@ -10,7 +10,6 @@
             "deck_id": "246572",
             "rank": "1",
             "player": "Manuel Le Marec",
-            "winrate": 1.0,
             "commander": [
                 "Nin, the Pain Artist"
             ],
@@ -90,7 +89,6 @@
             "deck_id": "246573",
             "rank": "1",
             "player": "Thomas Mechin",
-            "winrate": 1.0,
             "commander": [
                 "Marath, Will of the Wild"
             ],

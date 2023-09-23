@@ -10,7 +10,6 @@
             "deck_id": "532125",
             "rank": "1",
             "player": "Brieuc Evo",
-            "winrate": 0.9,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "532126",
             "rank": "2",
             "player": "Gael Huber",
-            "winrate": 0.8,
             "commander": [
                 "Bruse Tarl, Boorish Herder",
                 "Yoshimaru, Ever Faithful"
@@ -222,7 +220,6 @@
             "deck_id": "532127",
             "rank": "3-4",
             "player": "Maël \"nothappyend\" Froger",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Light-Paws, Emperor's Voice"
             ],
@@ -306,7 +303,6 @@
             "deck_id": "532128",
             "rank": "3-4",
             "player": "Thomas Mechin",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Dihada, Binder of Wills"
             ],
@@ -415,7 +411,6 @@
             "deck_id": "532129",
             "rank": "5-8",
             "player": "Ambroise Berthe",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Feldon, Ronom Excavator"
             ],
@@ -501,7 +496,6 @@
             "deck_id": "532130",
             "rank": "5-8",
             "player": "Jordan Bizon",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -611,7 +605,6 @@
             "deck_id": "532131",
             "rank": "5-8",
             "player": "Unmecsansnomangevin",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -721,7 +714,6 @@
             "deck_id": "532132",
             "rank": "5-8",
             "player": "Yan Lorente",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Hogaak, Arisen Necropolis"
             ],

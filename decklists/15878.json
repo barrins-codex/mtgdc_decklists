@@ -10,7 +10,6 @@
             "deck_id": "297503",
             "rank": "5-8",
             "player": "Christian",
-            "winrate": 0.6,
             "commander": [
                 "Bruse Tarl, Boorish Herder",
                 "Reyhan, Last of the Abzan"
@@ -120,7 +119,6 @@
             "deck_id": "297504",
             "rank": "5-8",
             "player": "Greg",
-            "winrate": 0.6,
             "commander": [
                 "Grenzo, Dungeon Warden"
             ],
@@ -221,7 +219,6 @@
             "deck_id": "297505",
             "rank": "5-8",
             "player": "Tim",
-            "winrate": 0.6,
             "commander": [
                 "Titania, Protector of Argoth"
             ],
@@ -316,7 +313,6 @@
             "deck_id": "297506",
             "rank": "3-4",
             "player": "Sylvain",
-            "winrate": 0.8,
             "commander": [
                 "Reyhan, Last of the Abzan",
                 "Bruse Tarl, Boorish Herder"
@@ -426,7 +422,6 @@
             "deck_id": "297507",
             "rank": "5-8",
             "player": "Julien",
-            "winrate": 0.6,
             "commander": [
                 "Leovold, Emissary of Trest"
             ],
@@ -534,7 +529,6 @@
             "deck_id": "297508",
             "rank": "3-4",
             "player": "Boris",
-            "winrate": 0.8,
             "commander": [
                 "Bruse Tarl, Boorish Herder",
                 "Reyhan, Last of the Abzan"
@@ -644,7 +638,6 @@
             "deck_id": "297509",
             "rank": "2",
             "player": "Michael",
-            "winrate": 0.8,
             "commander": [
                 "Zurgo Bellstriker"
             ],
@@ -725,7 +718,6 @@
             "deck_id": "297510",
             "rank": "1",
             "player": "Kozent",
-            "winrate": 1.0,
             "commander": [
                 "Sidar Kondo of Jamuraa",
                 "Thrasios, Triton Hero"

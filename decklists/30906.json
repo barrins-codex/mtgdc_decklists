@@ -10,7 +10,6 @@
             "deck_id": "440345",
             "rank": "1",
             "player": "Victor Lavialle",
-            "winrate": 1.0,
             "commander": [
                 "Inalla, Archmage Ritualist"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "440346",
             "rank": "2",
             "player": "Flavien \"crimelune\" Paillet",
-            "winrate": 0.8,
             "commander": [
                 "Malcolm, Keen-Eyed Navigator",
                 "Livio, Oathsworn Sentinel"
@@ -218,7 +216,6 @@
             "deck_id": "440347",
             "rank": "3-4",
             "player": "Nicolas \"nickfingertip\" Maurice",
-            "winrate": 0.6,
             "commander": [
                 "Kinnan, Bonder Prodigy"
             ],
@@ -313,7 +310,6 @@
             "deck_id": "440348",
             "rank": "3-4",
             "player": "Roman \"karrel\"",
-            "winrate": 0.6,
             "commander": [
                 "Inalla, Archmage Ritualist"
             ],

@@ -10,7 +10,6 @@
             "deck_id": "517925",
             "rank": "1",
             "player": "Felipe Cruz",
-            "winrate": 1.0,
             "commander": [
                 "Feldon, Ronom Excavator"
             ],
@@ -97,7 +96,6 @@
             "deck_id": "517926",
             "rank": "2",
             "player": "Ivan Bais",
-            "winrate": 0.8,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -207,7 +205,6 @@
             "deck_id": "517927",
             "rank": "3",
             "player": "Rafael Georgetti",
-            "winrate": 0.8,
             "commander": [
                 "Old Stickfingers"
             ],
@@ -309,7 +306,6 @@
             "deck_id": "517928",
             "rank": "4",
             "player": "Lucas Felix",
-            "winrate": 0.6,
             "commander": [
                 "Azusa, Lost but Seeking"
             ],
@@ -410,7 +406,6 @@
             "deck_id": "517929",
             "rank": "5",
             "player": "Conja",
-            "winrate": 0.6,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -520,7 +515,6 @@
             "deck_id": "517930",
             "rank": "6",
             "player": "Joao Scandolera",
-            "winrate": 0.6,
             "commander": [
                 "Feldon, Ronom Excavator"
             ],
@@ -607,7 +601,6 @@
             "deck_id": "517931",
             "rank": "7",
             "player": "Vinícius Metal",
-            "winrate": 0.6,
             "commander": [
                 "Kess, Dissident Mage"
             ],
@@ -712,7 +705,6 @@
             "deck_id": "517932",
             "rank": "8",
             "player": "Arnaldo Costa",
-            "winrate": 0.6,
             "commander": [
                 "Minsc, Beloved Ranger"
             ],

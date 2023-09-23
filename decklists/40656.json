@@ -10,7 +10,6 @@
             "deck_id": "502383",
             "rank": "1",
             "player": "Henryk Hecht",
-            "winrate": 1.0,
             "commander": [
                 "Sythis, Harvest's Hand"
             ],
@@ -110,7 +109,6 @@
             "deck_id": "502384",
             "rank": "2",
             "player": "Sebastian Kött",
-            "winrate": 0.8,
             "commander": [
                 "Juri, Master of the Revue"
             ],

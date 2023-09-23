@@ -10,7 +10,6 @@
             "deck_id": "503387",
             "rank": "1",
             "player": "Wallace Oliveira",
-            "winrate": 1.0,
             "commander": [
                 "Kinnan, Bonder Prodigy"
             ],
@@ -99,7 +98,6 @@
             "deck_id": "503388",
             "rank": "2",
             "player": "Gabriel Bonotto",
-            "winrate": 0.8,
             "commander": [
                 "Maelstrom Wanderer"
             ],
@@ -198,7 +196,6 @@
             "deck_id": "503389",
             "rank": "3-4",
             "player": "Ismael Lessa",
-            "winrate": 0.8,
             "commander": [
                 "Ertai Resurrected"
             ],
@@ -296,7 +293,6 @@
             "deck_id": "503390",
             "rank": "3-4",
             "player": "Leandro Floresta",
-            "winrate": 0.8,
             "commander": [
                 "Jared Carthalion"
             ],
@@ -400,7 +396,6 @@
             "deck_id": "503391",
             "rank": "5-8",
             "player": "Gleison Silva",
-            "winrate": 0.6,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -481,7 +476,6 @@
             "deck_id": "503392",
             "rank": "5-8",
             "player": "Lauro Hanna",
-            "winrate": 0.6,
             "commander": [
                 "Prossh, Skyraider of Kher"
             ],
@@ -569,7 +563,6 @@
             "deck_id": "503393",
             "rank": "5-8",
             "player": "Júlio Gouvêa",
-            "winrate": 0.6,
             "commander": [
                 "Grist, the Hunger Tide"
             ],
@@ -661,7 +654,6 @@
             "deck_id": "503394",
             "rank": "5-8",
             "player": "Nelson Paes",
-            "winrate": 0.6,
             "commander": [
                 "Ghyrson Starn, Kelermorph"
             ],

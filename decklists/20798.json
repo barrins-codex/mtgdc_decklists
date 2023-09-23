@@ -10,7 +10,6 @@
             "deck_id": "337506",
             "rank": "5-8",
             "player": "Robin Jacqueline",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Saskia the Unyielding"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "337507",
             "rank": "5-8",
             "player": "Nicolas Amans",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Sram, Senior Edificer"
             ],
@@ -210,7 +208,6 @@
             "deck_id": "337508",
             "rank": "5-8",
             "player": "Stephane Copreaux",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Tajic, Legion's Edge"
             ],
@@ -305,7 +302,6 @@
             "deck_id": "337509",
             "rank": "2",
             "player": "Gabriel Manieca",
-            "winrate": 0.8,
             "commander": [
                 "Tymna the Weaver",
                 "Thrasios, Triton Hero"
@@ -415,7 +411,6 @@
             "deck_id": "337510",
             "rank": "3-4",
             "player": "Gregoire \"koraysh\" Payan",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "The Gitrog Monster"
             ],
@@ -513,7 +508,6 @@
             "deck_id": "337511",
             "rank": "3-4",
             "player": "Nicolas \"ariesnomu\" Honnorat",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Saskia the Unyielding"
             ],
@@ -623,7 +617,6 @@
             "deck_id": "337512",
             "rank": "5-8",
             "player": "Adrien \"soullessoni\" Demoget",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "The Gitrog Monster"
             ],
@@ -722,7 +715,6 @@
             "deck_id": "337513",
             "rank": "1",
             "player": "Léo \"kiku\" Brouard",
-            "winrate": 0.9,
             "commander": [
                 "Teferi, Temporal Archmage"
             ],

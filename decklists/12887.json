@@ -10,7 +10,6 @@
             "deck_id": "274943",
             "rank": "1",
             "player": "Sergey \"Loxmatii\" Lamzin",
-            "winrate": 1.0,
             "commander": [
                 "Animar, Soul of Elements"
             ],
@@ -112,7 +111,6 @@
             "deck_id": "274944",
             "rank": "2",
             "player": "\"Asimov\"",
-            "winrate": 0.8,
             "commander": [
                 "Kytheon, Hero of Akros"
             ],
@@ -194,7 +192,6 @@
             "deck_id": "274945",
             "rank": "3",
             "player": "Aristide Blanpier",
-            "winrate": 0.6,
             "commander": [
                 "Grenzo, Dungeon Warden"
             ],

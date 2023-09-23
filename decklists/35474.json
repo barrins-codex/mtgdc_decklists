@@ -10,7 +10,6 @@
             "deck_id": "467887",
             "rank": "1",
             "player": "Caio",
-            "winrate": 1.0,
             "commander": [
                 "Shorikai, Genesis Engine"
             ],
@@ -97,7 +96,6 @@
             "deck_id": "467888",
             "rank": "2",
             "player": "Primo",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Trostani, Selesnya's Voice"
             ],

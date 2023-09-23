@@ -10,7 +10,6 @@
             "deck_id": "367737",
             "rank": "2",
             "player": "He Ying",
-            "winrate": 0.8,
             "commander": [
                 "Golos, Tireless Pilgrim"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "367738",
             "rank": "1",
             "player": "Li Hanzhi",
-            "winrate": 1.0,
             "commander": [
                 "Kraum, Ludevic's Opus",
                 "Thrasios, Triton Hero"

@@ -10,7 +10,6 @@
             "deck_id": "293377",
             "rank": "1",
             "player": "Pavel Sevcik",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Nin, the Pain Artist"
             ],
@@ -94,7 +93,6 @@
             "deck_id": "293378",
             "rank": "2",
             "player": "Michal Zdansky",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Saskia the Unyielding"
             ],
@@ -204,7 +202,6 @@
             "deck_id": "293379",
             "rank": "3",
             "player": "Dominik Maly",
-            "winrate": 0.625,
             "commander": [
                 "Reyhan, Last of the Abzan",
                 "Bruse Tarl, Boorish Herder"
@@ -314,7 +311,6 @@
             "deck_id": "293380",
             "rank": "4",
             "player": "Vaclav Mysak",
-            "winrate": 0.625,
             "commander": [
                 "Baral, Chief of Compliance"
             ],
@@ -395,7 +391,6 @@
             "deck_id": "293381",
             "rank": "5",
             "player": "Viktor Jasansky",
-            "winrate": 0.625,
             "commander": [
                 "Leovold, Emissary of Trest"
             ],
@@ -502,7 +497,6 @@
             "deck_id": "293382",
             "rank": "6",
             "player": "Vitezslav Smid",
-            "winrate": 0.625,
             "commander": [
                 "Narset, Enlightened Master"
             ],
@@ -609,7 +603,6 @@
             "deck_id": "293383",
             "rank": "7",
             "player": "Milos Jedlicka",
-            "winrate": 0.625,
             "commander": [
                 "Zurgo Bellstriker"
             ],
@@ -693,7 +686,6 @@
             "deck_id": "293384",
             "rank": "8",
             "player": "Jakub Mejznar",
-            "winrate": 0.625,
             "commander": [
                 "Zurgo Bellstriker"
             ],

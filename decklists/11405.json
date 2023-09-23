@@ -10,7 +10,6 @@
             "deck_id": "264715",
             "rank": "1",
             "player": "Fabio Kaneto",
-            "winrate": 0.8888888888888888,
             "commander": [
                 "Yisan, the Wanderer Bard"
             ],
@@ -97,7 +96,6 @@
             "deck_id": "264716",
             "rank": "2",
             "player": "Lucas Joly Rodrigues",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Tasigur, the Golden Fang"
             ],
@@ -207,7 +205,6 @@
             "deck_id": "264717",
             "rank": "3-4",
             "player": "Jorge Seiji Tanaka",
-            "winrate": 0.75,
             "commander": [
                 "Teferi, Temporal Archmage"
             ],
@@ -287,7 +284,6 @@
             "deck_id": "264718",
             "rank": "3-4",
             "player": "Marcelo Montserrat",
-            "winrate": 0.75,
             "commander": [
                 "Tymaret, the Murder King"
             ],
@@ -379,7 +375,6 @@
             "deck_id": "264719",
             "rank": "5-8",
             "player": "Everton Nonato",
-            "winrate": 0.75,
             "commander": [
                 "Ezuri, Claw of Progress"
             ],
@@ -474,7 +469,6 @@
             "deck_id": "264720",
             "rank": "5-8",
             "player": "Bruno Moreno",
-            "winrate": 0.75,
             "commander": [
                 "Wydwen, the Biting Gale"
             ],
@@ -571,7 +565,6 @@
             "deck_id": "264721",
             "rank": "5-8",
             "player": "Paulo Bezzegh",
-            "winrate": 0.75,
             "commander": [
                 "Animar, Soul of Elements"
             ],
@@ -678,7 +671,6 @@
             "deck_id": "264722",
             "rank": "5-8",
             "player": "Lucas Betarello",
-            "winrate": 0.75,
             "commander": [
                 "Ob Nixilis, the Fallen"
             ],

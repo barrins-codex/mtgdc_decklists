@@ -10,7 +10,6 @@
             "deck_id": "534890",
             "rank": "1",
             "player": "Matheus Jardim",
-            "winrate": 1.0,
             "commander": [
                 "Tana, the Bloodsower",
                 "Yoshimaru, Ever Faithful"
@@ -120,7 +119,6 @@
             "deck_id": "534891",
             "rank": "3",
             "player": "Victor Marques",
-            "winrate": 0.8,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -230,7 +228,6 @@
             "deck_id": "534892",
             "rank": "4",
             "player": "Felipe Gonçalves",
-            "winrate": 0.6,
             "commander": [
                 "Raffine, Scheming Seer"
             ],

@@ -10,7 +10,6 @@
             "deck_id": "464374",
             "rank": "1",
             "player": "Nhald Adia",
-            "winrate": 1.0,
             "commander": [
                 "Klothys, God of Destiny"
             ],
@@ -110,7 +109,6 @@
             "deck_id": "464375",
             "rank": "2",
             "player": "Dinno Zaide",
-            "winrate": 0.8,
             "commander": [
                 "Queen Marchesa"
             ],
@@ -217,7 +215,6 @@
             "deck_id": "464376",
             "rank": "3-4",
             "player": "Ian Paul Roa",
-            "winrate": 0.8,
             "commander": [
                 "Laelia, the Blade Reforged"
             ],
@@ -304,7 +301,6 @@
             "deck_id": "464377",
             "rank": "3-4",
             "player": "Rai Reyes",
-            "winrate": 0.8,
             "commander": [
                 "Kraum, Ludevic's Opus",
                 "Ludevic, Necro-Alchemist"

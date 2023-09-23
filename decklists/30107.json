@@ -10,7 +10,6 @@
             "deck_id": "435682",
             "rank": "1",
             "player": "Christopher Tong",
-            "winrate": 1.0,
             "commander": [
                 "Kraum, Ludevic's Opus",
                 "Malcolm, Keen-Eyed Navigator"
@@ -109,7 +108,6 @@
             "deck_id": "435683",
             "rank": "2",
             "player": "Jason Lam",
-            "winrate": 0.8,
             "commander": [
                 "Fynn, the Fangbearer"
             ],

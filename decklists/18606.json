@@ -10,7 +10,6 @@
             "deck_id": "315872",
             "rank": "1",
             "player": "Timothée Courant",
-            "winrate": 0.9,
             "commander": [
                 "Zurgo Bellstriker"
             ],
@@ -89,7 +88,6 @@
             "deck_id": "315873",
             "rank": "5-8",
             "player": "Justo Chacon",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Venser, Shaper Savant"
             ],
@@ -183,7 +181,6 @@
             "deck_id": "315874",
             "rank": "3-4",
             "player": "Sergey \"loxmatii\" Lamzin",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Tymna the Weaver",
                 "Thrasios, Triton Hero"
@@ -288,7 +285,6 @@
             "deck_id": "315875",
             "rank": "5-8",
             "player": "Pierre-jean Eychenne",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Zurgo Bellstriker"
             ],
@@ -369,7 +365,6 @@
             "deck_id": "315876",
             "rank": "5-8",
             "player": "Alexandre Leroyer",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Titania, Protector of Argoth"
             ],
@@ -463,7 +458,6 @@
             "deck_id": "315877",
             "rank": "5-8",
             "player": "Alexander Shust",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Saskia the Unyielding"
             ],
@@ -573,7 +567,6 @@
             "deck_id": "315878",
             "rank": "2",
             "player": "Alexis \"strange\" Roman",
-            "winrate": 0.8,
             "commander": [
                 "Karlov of the Ghost Council"
             ],
@@ -683,7 +676,6 @@
             "deck_id": "315879",
             "rank": "3-4",
             "player": "Alexander Loskoutoff",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Tymna the Weaver",
                 "Thrasios, Triton Hero"

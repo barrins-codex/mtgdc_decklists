@@ -10,7 +10,6 @@
             "deck_id": "347740",
             "rank": "3-4",
             "player": "Maxime Allée",
-            "winrate": 0.8,
             "commander": [
                 "Reyhan, Last of the Abzan",
                 "Thrasios, Triton Hero"
@@ -117,7 +116,6 @@
             "deck_id": "347741",
             "rank": "1",
             "player": "Alban Genest",
-            "winrate": 1.0,
             "commander": [
                 "Tajic, Legion's Edge"
             ],
@@ -211,7 +209,6 @@
             "deck_id": "347742",
             "rank": "2",
             "player": "Julien Faidherbe",
-            "winrate": 0.8,
             "commander": [
                 "Titania, Protector of Argoth"
             ],
@@ -306,7 +303,6 @@
             "deck_id": "347743",
             "rank": "3-4",
             "player": "Jonathan Thiévin",
-            "winrate": 0.8,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],

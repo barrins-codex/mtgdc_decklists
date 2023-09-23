@@ -10,7 +10,6 @@
             "deck_id": "461974",
             "rank": "1",
             "player": "Wai Fai Ha",
-            "winrate": 1.0,
             "commander": [
                 "Maelstrom Wanderer"
             ],
@@ -110,7 +109,6 @@
             "deck_id": "461975",
             "rank": "2",
             "player": "Ar Lo",
-            "winrate": 0.8,
             "commander": [
                 "Malcolm, Keen-Eyed Navigator",
                 "Kraum, Ludevic's Opus"

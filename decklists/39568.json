@@ -10,7 +10,6 @@
             "deck_id": "494646",
             "rank": "1",
             "player": "Baekstra",
-            "winrate": 0.875,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "494647",
             "rank": "2",
             "player": "Nicolas Prail",
-            "winrate": 0.75,
             "commander": [
                 "Ghyrson Starn, Kelermorph"
             ],
@@ -218,7 +216,6 @@
             "deck_id": "494648",
             "rank": "3-4",
             "player": "Carpenters",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Jenson Carthalion, Druid Exile"
             ],
@@ -328,7 +325,6 @@
             "deck_id": "494649",
             "rank": "3-4",
             "player": "Moncana",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Tivit, Seller of Secrets"
             ],
@@ -438,7 +434,6 @@
             "deck_id": "494650",
             "rank": "5-8",
             "player": "Zohoz",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Jegantha, the Wellspring",
                 "Niv-Mizzet Reborn"
@@ -549,7 +544,6 @@
             "deck_id": "494651",
             "rank": "5-8",
             "player": "Didou",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -658,7 +652,6 @@
             "deck_id": "494652",
             "rank": "5-8",
             "player": "Admab",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -768,7 +761,6 @@
             "deck_id": "494653",
             "rank": "5-8",
             "player": "Domino",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Damia, Sage of Stone"
             ],

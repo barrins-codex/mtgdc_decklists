@@ -10,7 +10,6 @@
             "deck_id": "270047",
             "rank": "1",
             "player": "Richard Calma",
-            "winrate": 1.0,
             "commander": [
                 "Marath, Will of the Wild"
             ],
@@ -119,7 +118,6 @@
             "deck_id": "270048",
             "rank": "2",
             "player": "Randy De Rueda",
-            "winrate": 0.8,
             "commander": [
                 "Jace, Vryn's Prodigy"
             ],
@@ -200,7 +198,6 @@
             "deck_id": "270049",
             "rank": "3-4",
             "player": "Glenn Alesna",
-            "winrate": 0.8,
             "commander": [
                 "Griselbrand"
             ],
@@ -290,7 +287,6 @@
             "deck_id": "270050",
             "rank": "3-4",
             "player": "Jeric Go",
-            "winrate": 0.8,
             "commander": [
                 "The Gitrog Monster"
             ],

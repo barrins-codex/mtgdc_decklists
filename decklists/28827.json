@@ -10,7 +10,6 @@
             "deck_id": "427544",
             "rank": "1",
             "player": "Zhang Cang",
-            "winrate": 1.0,
             "commander": [
                 "Rograkh, Son of Rohgahh",
                 "Keleth, Sunmane Familiar"
@@ -108,7 +107,6 @@
             "deck_id": "427545",
             "rank": "2",
             "player": "He Ying",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Golos, Tireless Pilgrim"
             ],

@@ -10,7 +10,6 @@
             "deck_id": "450632",
             "rank": "1",
             "player": "Duoyan Li",
-            "winrate": 1.0,
             "commander": [
                 "Rem Karolus, Stalwart Slayer"
             ],
@@ -112,7 +111,6 @@
             "deck_id": "450633",
             "rank": "2",
             "player": "Enzuo Zhu",
-            "winrate": 0.8,
             "commander": [
                 "Azusa, Lost but Seeking"
             ],
@@ -210,7 +208,6 @@
             "deck_id": "450634",
             "rank": "3-4",
             "player": "Xiaoyang Yan",
-            "winrate": 0.8,
             "commander": [
                 "Svyelun of Sea and Sky"
             ],
@@ -298,7 +295,6 @@
             "deck_id": "450635",
             "rank": "3-4",
             "player": "Constantine",
-            "winrate": 0.8,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],

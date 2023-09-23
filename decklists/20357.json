@@ -10,7 +10,6 @@
             "deck_id": "333214",
             "rank": "5-8",
             "player": "The Nameless One",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "The Gitrog Monster"
             ],
@@ -106,7 +105,6 @@
             "deck_id": "333215",
             "rank": "5-8",
             "player": "Lucas Gonzalez",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Dragonlord Ojutai"
             ],
@@ -204,7 +202,6 @@
             "deck_id": "333216",
             "rank": "5-8",
             "player": "Roman Leconte",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Khorvath Brightflame",
                 "Sylvia Brightspear"
@@ -296,7 +293,6 @@
             "deck_id": "333217",
             "rank": "1",
             "player": "Guillaume Audiffren",
-            "winrate": 0.9,
             "commander": [
                 "Baral, Chief of Compliance"
             ],
@@ -368,7 +364,6 @@
             "deck_id": "333218",
             "rank": "2",
             "player": "Noham Maubert",
-            "winrate": 0.8,
             "commander": [
                 "Thrasios, Triton Hero",
                 "Tymna the Weaver"
@@ -478,7 +473,6 @@
             "deck_id": "333219",
             "rank": "3-4",
             "player": "Alban \"BANBAN14\" Coutrot",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -561,7 +555,6 @@
             "deck_id": "333220",
             "rank": "5-8",
             "player": "Soratami",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Teferi, Temporal Archmage"
             ],
@@ -635,7 +628,6 @@
             "deck_id": "333221",
             "rank": "3-4",
             "player": "Justo Chacon",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Thrasios, Triton Hero",
                 "Tymna the Weaver"

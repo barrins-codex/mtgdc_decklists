@@ -10,7 +10,6 @@
             "deck_id": "267070",
             "rank": "1",
             "player": "Olivier \"OLiv7\" Pavin",
-            "winrate": 1.0,
             "commander": [
                 "Yisan, the Wanderer Bard"
             ],
@@ -97,7 +96,6 @@
             "deck_id": "267071",
             "rank": "2",
             "player": "Maxime \"Makexime\" Lemoine",
-            "winrate": 0.8,
             "commander": [
                 "Braids, Cabal Minion"
             ],

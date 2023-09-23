@@ -10,7 +10,6 @@
             "deck_id": "442140",
             "rank": "1",
             "player": "Chung Tang",
-            "winrate": 1.0,
             "commander": [
                 "Ragavan, Nimble Pilferer"
             ],
@@ -95,7 +94,6 @@
             "deck_id": "442141",
             "rank": "2",
             "player": "Man Lok Wong",
-            "winrate": 0.8,
             "commander": [
                 "Ragavan, Nimble Pilferer"
             ],

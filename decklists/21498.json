@@ -10,7 +10,6 @@
             "deck_id": "344063",
             "rank": "2",
             "player": "Denis Gusev",
-            "winrate": 0.8,
             "commander": [
                 "Teferi, Temporal Archmage"
             ],
@@ -84,7 +83,6 @@
             "deck_id": "344064",
             "rank": "1",
             "player": "Maxim Erikhov",
-            "winrate": 1.0,
             "commander": [
                 "Tajic, Legion's Edge"
             ],

@@ -10,7 +10,6 @@
             "deck_id": "239494",
             "rank": "1",
             "player": "Mickael Robin",
-            "winrate": 1.0,
             "commander": [
                 "Animar, Soul of Elements"
             ],
@@ -119,7 +118,6 @@
             "deck_id": "239495",
             "rank": "2",
             "player": "Pierre Fenouil",
-            "winrate": 0.8,
             "commander": [
                 "Maelstrom Wanderer"
             ],
@@ -229,7 +227,6 @@
             "deck_id": "239496",
             "rank": "3-4",
             "player": "Tom Tanguy",
-            "winrate": 0.8,
             "commander": [
                 "Prossh, Skyraider of Kher"
             ],
@@ -339,7 +336,6 @@
             "deck_id": "239497",
             "rank": "3-4",
             "player": "Régis Vatel",
-            "winrate": 0.8,
             "commander": [
                 "Karador, Ghost Chieftain"
             ],

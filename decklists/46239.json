@@ -10,7 +10,6 @@
             "deck_id": "541546",
             "rank": "1",
             "player": "Shoucong Wu",
-            "winrate": 1.0,
             "commander": [
                 "Sauron, the Dark Lord"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "541547",
             "rank": "2",
             "player": "Xiangjun Dai",
-            "winrate": 0.8,
             "commander": [
                 "Dennick, Pious Apprentice"
             ],

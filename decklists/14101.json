@@ -10,7 +10,6 @@
             "deck_id": "283846",
             "rank": "5-8",
             "player": "Ricardo Menking",
-            "winrate": 0.6,
             "commander": [
                 "Drana, Liberator of Malakir"
             ],
@@ -97,7 +96,6 @@
             "deck_id": "283847",
             "rank": "5-8",
             "player": "Axel Grasse",
-            "winrate": 0.6,
             "commander": [
                 "Geist of Saint Traft"
             ],
@@ -189,7 +187,6 @@
             "deck_id": "283848",
             "rank": "5-8",
             "player": "Michael Fecke",
-            "winrate": 0.6,
             "commander": [
                 "Nissa, Vastwood Seer"
             ],
@@ -273,7 +270,6 @@
             "deck_id": "283849",
             "rank": "3-4",
             "player": "Sebastian Winkler",
-            "winrate": 0.8,
             "commander": [
                 "Zurgo Bellstriker"
             ],
@@ -358,7 +354,6 @@
             "deck_id": "283850",
             "rank": "5-8",
             "player": "Lukas Dechant",
-            "winrate": 0.6,
             "commander": [
                 "Zurgo Bellstriker"
             ],
@@ -439,7 +434,6 @@
             "deck_id": "283851",
             "rank": "3-4",
             "player": "Alexander Stockrahm",
-            "winrate": 0.8,
             "commander": [
                 "Geist of Saint Traft"
             ],
@@ -528,7 +522,6 @@
             "deck_id": "283852",
             "rank": "2",
             "player": "Daniel Blanke",
-            "winrate": 0.8,
             "commander": [
                 "Maelstrom Wanderer"
             ],
@@ -631,7 +624,6 @@
             "deck_id": "283853",
             "rank": "1",
             "player": "Arne Menting",
-            "winrate": 1.0,
             "commander": [
                 "Zurgo Bellstriker"
             ],

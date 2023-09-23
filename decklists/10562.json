@@ -10,7 +10,6 @@
             "deck_id": "260416",
             "rank": "2",
             "player": "[iplaymtg]ValentineXia",
-            "winrate": 0.8,
             "commander": [
                 "Tasigur, the Golden Fang"
             ],
@@ -117,7 +116,6 @@
             "deck_id": "260417",
             "rank": "3-4",
             "player": "Jinwen Yao",
-            "winrate": 0.8,
             "commander": [
                 "Jenara, Asura of War"
             ],
@@ -227,7 +225,6 @@
             "deck_id": "260418",
             "rank": "3-4",
             "player": "Felix Shen",
-            "winrate": 0.8,
             "commander": [
                 "Grand Arbiter Augustin IV"
             ],
@@ -323,7 +320,6 @@
             "deck_id": "260419",
             "rank": "1",
             "player": "Akira Osumi",
-            "winrate": 1.0,
             "commander": [
                 "Alesha, Who Smiles at Death"
             ],

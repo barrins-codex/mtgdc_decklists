@@ -10,7 +10,6 @@
             "deck_id": "333604",
             "rank": "3-4",
             "player": "Vince Patrick Taccayan",
-            "winrate": 0.6,
             "commander": [
                 "Kraum, Ludevic's Opus",
                 "Tymna the Weaver"
@@ -120,7 +119,6 @@
             "deck_id": "333605",
             "rank": "3-4",
             "player": "Weisser Coilan",
-            "winrate": 0.6,
             "commander": [
                 "Selvala, Heart of the Wilds"
             ],
@@ -214,7 +212,6 @@
             "deck_id": "333606",
             "rank": "2",
             "player": "Liam Kessel",
-            "winrate": 0.8,
             "commander": [
                 "Yuriko, the Tiger's Shadow"
             ],
@@ -302,7 +299,6 @@
             "deck_id": "333607",
             "rank": "1",
             "player": "Roland Alipio",
-            "winrate": 1.0,
             "commander": [
                 "Yuriko, the Tiger's Shadow"
             ],

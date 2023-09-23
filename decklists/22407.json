@@ -10,7 +10,6 @@
             "deck_id": "352187",
             "rank": "2",
             "player": "Benjamin Béouche-hélias",
-            "winrate": 0.8,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -91,7 +90,6 @@
             "deck_id": "352188",
             "rank": "3-4",
             "player": "Ludovic",
-            "winrate": 0.8,
             "commander": [
                 "Olivia, Mobilized for War"
             ],
@@ -187,7 +185,6 @@
             "deck_id": "352189",
             "rank": "3-4",
             "player": "Alexis Mommee",
-            "winrate": 0.8,
             "commander": [
                 "Urza, Lord High Artificer"
             ],
@@ -274,7 +271,6 @@
             "deck_id": "352190",
             "rank": "1",
             "player": "Anthonin Michelet",
-            "winrate": 1.0,
             "commander": [
                 "Kytheon, Hero of Akros"
             ],

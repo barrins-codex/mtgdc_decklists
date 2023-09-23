@@ -10,7 +10,6 @@
             "deck_id": "359014",
             "rank": "1",
             "player": "Gregor G.",
-            "winrate": 1.0,
             "commander": [
                 "Edric, Spymaster of Trest"
             ],
@@ -99,7 +98,6 @@
             "deck_id": "359015",
             "rank": "2",
             "player": "Samuel Z.",
-            "winrate": 0.8,
             "commander": [
                 "Golos, Tireless Pilgrim"
             ],

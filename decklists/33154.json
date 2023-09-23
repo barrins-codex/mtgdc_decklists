@@ -10,7 +10,6 @@
             "deck_id": "453309",
             "rank": "1",
             "player": "Roman Leconte",
-            "winrate": 0.9,
             "commander": [
                 "Tiamat"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "453310",
             "rank": "2",
             "player": "Maximilien Kalil",
-            "winrate": 0.8,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -230,7 +228,6 @@
             "deck_id": "453311",
             "rank": "3-4",
             "player": "Jules Lestienne",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Venser, Shaper Savant"
             ],
@@ -308,7 +305,6 @@
             "deck_id": "453312",
             "rank": "3-4",
             "player": "Pyrrhus",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "The Gitrog Monster"
             ],
@@ -407,7 +403,6 @@
             "deck_id": "453313",
             "rank": "5-8",
             "player": "Baptiste Hilmann",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Will Kenrith",
                 "Rowan Kenrith"
@@ -498,7 +493,6 @@
             "deck_id": "453314",
             "rank": "5-8",
             "player": "Romain Lamine",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "The Gitrog Monster"
             ],
@@ -598,7 +592,6 @@
             "deck_id": "453315",
             "rank": "5-8",
             "player": "Nicolas \"thorgal666\" François",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Malcolm, Keen-Eyed Navigator",
                 "Kraum, Ludevic's Opus"
@@ -693,7 +686,6 @@
             "deck_id": "453316",
             "rank": "5-8",
             "player": "Flavien \"crimelune\" Paillet",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Malcolm, Keen-Eyed Navigator",
                 "Livio, Oathsworn Sentinel"
@@ -793,7 +785,6 @@
             "deck_id": "453317",
             "rank": "9-16",
             "player": "Guillaume Audiffren",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Golos, Tireless Pilgrim"
             ],
@@ -903,7 +894,6 @@
             "deck_id": "453318",
             "rank": "9-16",
             "player": "Louis Guichard",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -991,7 +981,6 @@
             "deck_id": "453319",
             "rank": "9-16",
             "player": "Florian Trotte",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Esika, God of the Tree"
             ],
@@ -1101,7 +1090,6 @@
             "deck_id": "453320",
             "rank": "9-16",
             "player": "Cyrille Peuvion",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Doran, the Siege Tower"
             ],
@@ -1211,7 +1199,6 @@
             "deck_id": "453321",
             "rank": "9-16",
             "player": "Jean-baptiste Mandar",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Miara, Thorn of the Glade",
                 "Tevesh Szat, Doom of Fools"
@@ -1290,7 +1277,6 @@
             "deck_id": "453322",
             "rank": "9-16",
             "player": "Ugo Scaramelli",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Malcolm, Keen-Eyed Navigator",
                 "Livio, Oathsworn Sentinel"
@@ -1390,7 +1376,6 @@
             "deck_id": "453323",
             "rank": "9-16",
             "player": "Théo Couppey",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Adeliz, the Cinder Wind"
             ],
@@ -1490,7 +1475,6 @@
             "deck_id": "453324",
             "rank": "9-16",
             "player": "Adrien Penard",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Grist, the Hunger Tide"
             ],

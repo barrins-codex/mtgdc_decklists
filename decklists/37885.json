@@ -10,7 +10,6 @@
             "deck_id": "483484",
             "rank": "1",
             "player": "Jeremy Leininger",
-            "winrate": 1.0,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "483485",
             "rank": "2",
             "player": "Mathieu Bouhr",
-            "winrate": 0.8,
             "commander": [
                 "Saskia the Unyielding"
             ],
@@ -230,7 +228,6 @@
             "deck_id": "483486",
             "rank": "3-4",
             "player": "Thibaut Huss",
-            "winrate": 0.8,
             "commander": [
                 "Immard, the Stormcleaver"
             ],
@@ -339,7 +336,6 @@
             "deck_id": "483487",
             "rank": "3-4",
             "player": "Alexis Gosset",
-            "winrate": 0.8,
             "commander": [
                 "Jeska, Thrice Reborn",
                 "Ludevic, Necro-Alchemist"
@@ -442,7 +438,6 @@
             "deck_id": "483488",
             "rank": "5-8",
             "player": "Valentin Orange",
-            "winrate": 0.6,
             "commander": [
                 "Grist, the Hunger Tide"
             ],
@@ -543,7 +538,6 @@
             "deck_id": "483489",
             "rank": "5-8",
             "player": "Hervé Brocker",
-            "winrate": 0.6,
             "commander": [
                 "Kroxa, Titan of Death's Hunger"
             ],
@@ -649,7 +643,6 @@
             "deck_id": "483490",
             "rank": "5-8",
             "player": "Mathieu Cunrath",
-            "winrate": 0.6,
             "commander": [
                 "Octavia, Living Thesis"
             ],
@@ -739,7 +732,6 @@
             "deck_id": "483491",
             "rank": "5-8",
             "player": "Cyprien Willmann",
-            "winrate": 0.6,
             "commander": [
                 "Kinnan, Bonder Prodigy"
             ],

@@ -10,7 +10,6 @@
             "deck_id": "420829",
             "rank": "1",
             "player": "Guillemot Cédric",
-            "winrate": 1.0,
             "commander": [
                 "Sidisi, Brood Tyrant"
             ],
@@ -114,7 +113,6 @@
             "deck_id": "420830",
             "rank": "2",
             "player": "Henri Guillouzic",
-            "winrate": 0.8,
             "commander": [
                 "Doran, the Siege Tower"
             ],
@@ -214,7 +212,6 @@
             "deck_id": "420831",
             "rank": "3-4",
             "player": "Arnaud Quignon",
-            "winrate": 0.8,
             "commander": [
                 "Jenara, Asura of War"
             ],
@@ -324,7 +321,6 @@
             "deck_id": "420832",
             "rank": "3-4",
             "player": "David Le Moullec",
-            "winrate": 0.8,
             "commander": [
                 "Cromat"
             ],

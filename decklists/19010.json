@@ -10,7 +10,6 @@
             "deck_id": "319591",
             "rank": "5-8",
             "player": "Matthieu Villechalanne \"mimchamanes\"",
-            "winrate": 0.6,
             "commander": [
                 "Arahbo, Roar of the World"
             ],
@@ -109,7 +108,6 @@
             "deck_id": "319592",
             "rank": "5-8",
             "player": "Martin Guet \"izma\"",
-            "winrate": 0.6,
             "commander": [
                 "Teferi, Temporal Archmage"
             ],
@@ -183,7 +181,6 @@
             "deck_id": "319593",
             "rank": "5-8",
             "player": "Sylvain Magnac",
-            "winrate": 0.6,
             "commander": [
                 "Arahbo, Roar of the World"
             ],
@@ -286,7 +283,6 @@
             "deck_id": "319594",
             "rank": "5-8",
             "player": "Iwan Fournier",
-            "winrate": 0.6,
             "commander": [
                 "Baral, Chief of Compliance"
             ],
@@ -360,7 +356,6 @@
             "deck_id": "319595",
             "rank": "3-4",
             "player": "Sylvain \"princesse\" Bombard",
-            "winrate": 0.8,
             "commander": [
                 "Queen Marchesa"
             ],
@@ -470,7 +465,6 @@
             "deck_id": "319596",
             "rank": "3-4",
             "player": "Thomas Nouzilleau",
-            "winrate": 0.8,
             "commander": [
                 "Baral, Chief of Compliance"
             ],
@@ -545,7 +539,6 @@
             "deck_id": "319597",
             "rank": "2",
             "player": "Julien Nicolet",
-            "winrate": 0.8,
             "commander": [
                 "Tymna the Weaver",
                 "Kraum, Ludevic's Opus"
@@ -655,7 +648,6 @@
             "deck_id": "319598",
             "rank": "1",
             "player": "Romain Lamine \"grenur\"",
-            "winrate": 1.0,
             "commander": [
                 "The Gitrog Monster"
             ],

@@ -10,7 +10,6 @@
             "deck_id": "464916",
             "rank": "1",
             "player": "Adrien Gau",
-            "winrate": 1.0,
             "commander": [
                 "Teferi, Temporal Archmage"
             ],
@@ -93,7 +92,6 @@
             "deck_id": "464917",
             "rank": "2",
             "player": "Erick",
-            "winrate": 0.8,
             "commander": [
                 "Esika, God of the Tree"
             ],
@@ -203,7 +201,6 @@
             "deck_id": "464918",
             "rank": "3-4",
             "player": "Anonymous",
-            "winrate": 0.8,
             "commander": [
                 "Grist, the Hunger Tide"
             ],
@@ -303,7 +300,6 @@
             "deck_id": "464919",
             "rank": "3-4",
             "player": "Thomas",
-            "winrate": 0.8,
             "commander": [
                 "Kroxa, Titan of Death's Hunger"
             ],

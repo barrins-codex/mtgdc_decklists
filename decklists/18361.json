@@ -10,7 +10,6 @@
             "deck_id": "313982",
             "rank": "2",
             "player": "Constantin Bone",
-            "winrate": 0.8,
             "commander": [
                 "Queen Marchesa"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "313983",
             "rank": "3-4",
             "player": "Nicolas \"ariesnomu\" Honnorat",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Saskia the Unyielding"
             ],
@@ -230,7 +228,6 @@
             "deck_id": "313984",
             "rank": "5-8",
             "player": "Grégoire \"koraysh\" Payan",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "The Gitrog Monster"
             ],
@@ -326,7 +323,6 @@
             "deck_id": "313985",
             "rank": "5-8",
             "player": "Jean Francois Durmont",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Titania, Protector of Argoth"
             ],
@@ -419,7 +415,6 @@
             "deck_id": "313986",
             "rank": "5-8",
             "player": "Soratami",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Yisan, the Wanderer Bard"
             ],
@@ -509,7 +504,6 @@
             "deck_id": "313987",
             "rank": "5-8",
             "player": "Pierre Axel Bral",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Kraum, Ludevic's Opus",
                 "Tymna the Weaver"
@@ -619,7 +613,6 @@
             "deck_id": "313988",
             "rank": "3-4",
             "player": "Antoine Morera",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Silas Renn, Seeker Adept",
                 "Akiri, Line-Slinger"
@@ -729,7 +722,6 @@
             "deck_id": "313989",
             "rank": "1",
             "player": "Alexander \"newtraderdu78\" Loskoutoff",
-            "winrate": 0.9,
             "commander": [
                 "Silas Renn, Seeker Adept",
                 "Akiri, Line-Slinger"

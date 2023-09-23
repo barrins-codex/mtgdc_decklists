@@ -10,7 +10,6 @@
             "deck_id": "510029",
             "rank": "1",
             "player": "Martin Ogayon",
-            "winrate": 1.0,
             "commander": [
                 "Grist, the Hunger Tide"
             ],
@@ -112,7 +111,6 @@
             "deck_id": "510030",
             "rank": "2",
             "player": "Ray Anthony Villegas",
-            "winrate": 0.8,
             "commander": [
                 "Saskia the Unyielding"
             ],

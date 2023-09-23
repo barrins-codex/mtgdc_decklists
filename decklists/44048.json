@@ -10,7 +10,6 @@
             "deck_id": "525197",
             "rank": "1",
             "player": "Cédric Collin",
-            "winrate": 1.0,
             "commander": [
                 "Niv-Mizzet Reborn"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "525198",
             "rank": "2",
             "player": "Erwan Bertrand",
-            "winrate": 0.8,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -230,7 +228,6 @@
             "deck_id": "525199",
             "rank": "3",
             "player": "Alex Bertrand",
-            "winrate": 0.8,
             "commander": [
                 "Dragonlord Ojutai"
             ],

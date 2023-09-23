@@ -10,7 +10,6 @@
             "deck_id": "451672",
             "rank": "1",
             "player": "Fan Yang",
-            "winrate": 1.0,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "451673",
             "rank": "2",
             "player": "Ceyao Duan",
-            "winrate": 0.8,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -230,7 +228,6 @@
             "deck_id": "451674",
             "rank": "3-4",
             "player": "Qian Xue",
-            "winrate": 0.6,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -315,7 +312,6 @@
             "deck_id": "451675",
             "rank": "3-4",
             "player": "Char",
-            "winrate": 0.6,
             "commander": [
                 "Niv-Mizzet Reborn"
             ],

@@ -10,7 +10,6 @@
             "deck_id": "270108",
             "rank": "5-8",
             "player": "Justin Anderson",
-            "winrate": 0.6,
             "commander": [
                 "Daretti, Scrap Savant"
             ],
@@ -100,7 +99,6 @@
             "deck_id": "270109",
             "rank": "5-8",
             "player": "Dennis Venier",
-            "winrate": 0.6,
             "commander": [
                 "Kytheon, Hero of Akros"
             ],
@@ -182,7 +180,6 @@
             "deck_id": "270110",
             "rank": "1",
             "player": "William Belloli",
-            "winrate": 1.0,
             "commander": [
                 "Maelstrom Wanderer"
             ],
@@ -285,7 +282,6 @@
             "deck_id": "270111",
             "rank": "2",
             "player": "Wes Herr",
-            "winrate": 0.8,
             "commander": [
                 "Wydwen, the Biting Gale"
             ],
@@ -382,7 +378,6 @@
             "deck_id": "270112",
             "rank": "3-4",
             "player": "Daniel Tice",
-            "winrate": 0.8,
             "commander": [
                 "Keranos, God of Storms"
             ],
@@ -469,7 +464,6 @@
             "deck_id": "270113",
             "rank": "3-4",
             "player": "Brennan McAlear",
-            "winrate": 0.8,
             "commander": [
                 "Grenzo, Dungeon Warden"
             ],
@@ -566,7 +560,6 @@
             "deck_id": "270114",
             "rank": "5-8",
             "player": "Justin Giddis",
-            "winrate": 0.6,
             "commander": [
                 "Keranos, God of Storms"
             ],
@@ -656,7 +649,6 @@
             "deck_id": "270115",
             "rank": "5-8",
             "player": "Charlie Trepod",
-            "winrate": 0.6,
             "commander": [
                 "Jenara, Asura of War"
             ],

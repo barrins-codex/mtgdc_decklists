@@ -10,7 +10,6 @@
             "deck_id": "505257",
             "rank": "1",
             "player": "Thibault Bredzinski",
-            "winrate": 1.0,
             "commander": [
                 "Bruse Tarl, Boorish Herder",
                 "Yoshimaru, Ever Faithful"
@@ -113,7 +112,6 @@
             "deck_id": "505258",
             "rank": "2",
             "player": "Guillaume Garreau",
-            "winrate": 0.8,
             "commander": [
                 "Grist, the Hunger Tide"
             ],
@@ -215,7 +213,6 @@
             "deck_id": "505259",
             "rank": "3-4",
             "player": "Som40",
-            "winrate": 0.8,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -325,7 +322,6 @@
             "deck_id": "505260",
             "rank": "3-4",
             "player": "Mathieu P.s.",
-            "winrate": 0.8,
             "commander": [
                 "The Beamtown Bullies"
             ],
@@ -429,7 +425,6 @@
             "deck_id": "505261",
             "rank": "5-8",
             "player": "Mathieu Clav",
-            "winrate": 0.6,
             "commander": [
                 "The Ur-Dragon"
             ],
@@ -539,7 +534,6 @@
             "deck_id": "505262",
             "rank": "5-8",
             "player": "Melkior Leblanc",
-            "winrate": 0.6,
             "commander": [
                 "Dihada, Binder of Wills"
             ],
@@ -648,7 +642,6 @@
             "deck_id": "505263",
             "rank": "5-8",
             "player": "Kevin Gadsaud",
-            "winrate": 0.6,
             "commander": [
                 "Dennick, Pious Apprentice"
             ],
@@ -751,7 +744,6 @@
             "deck_id": "505264",
             "rank": "5-8",
             "player": "Laurent Portier",
-            "winrate": 0.6,
             "commander": [
                 "Bruse Tarl, Boorish Herder",
                 "Yoshimaru, Ever Faithful"

@@ -10,7 +10,6 @@
             "deck_id": "258525",
             "rank": "1",
             "player": "Jonathan Marvie",
-            "winrate": 1.0,
             "commander": [
                 "Anafenza, the Foremost"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "258526",
             "rank": "2",
             "player": "Vincent Hesnard",
-            "winrate": 0.8,
             "commander": [
                 "Nekusar, the Mindrazer"
             ],

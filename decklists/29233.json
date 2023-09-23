@@ -10,7 +10,6 @@
             "deck_id": "430043",
             "rank": "1",
             "player": "Reuben Ferrer",
-            "winrate": 1.0,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "430044",
             "rank": "2",
             "player": "Dinno Zaide",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Ludevic, Necro-Alchemist",
                 "Kraum, Ludevic's Opus"

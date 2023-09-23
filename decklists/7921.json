@@ -10,7 +10,6 @@
             "deck_id": "245575",
             "rank": "1",
             "player": "Dominik Maly",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Child of Alara"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "245576",
             "rank": "2",
             "player": "Martin Kubik",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Animar, Soul of Elements"
             ],
@@ -222,7 +220,6 @@
             "deck_id": "245577",
             "rank": "3-4",
             "player": "Drahomir Havlicek",
-            "winrate": 0.625,
             "commander": [
                 "Doran, the Siege Tower"
             ],
@@ -330,7 +327,6 @@
             "deck_id": "245578",
             "rank": "3-4",
             "player": "Drahomir Havlicek Jr.",
-            "winrate": 0.625,
             "commander": [
                 "Marath, Will of the Wild"
             ],
@@ -440,7 +436,6 @@
             "deck_id": "245579",
             "rank": "5-8",
             "player": "Ondrej Mojzis",
-            "winrate": 0.625,
             "commander": [
                 "Animar, Soul of Elements"
             ],
@@ -542,7 +537,6 @@
             "deck_id": "245580",
             "rank": "5-8",
             "player": "Vojtech Benes",
-            "winrate": 0.625,
             "commander": [
                 "Erebos, God of the Dead"
             ],
@@ -627,7 +621,6 @@
             "deck_id": "245581",
             "rank": "5-8",
             "player": "Viktor Jasansky",
-            "winrate": 0.625,
             "commander": [
                 "The Mimeoplasm"
             ],

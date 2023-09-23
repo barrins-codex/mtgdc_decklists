@@ -10,7 +10,6 @@
             "deck_id": "318642",
             "rank": "3-4",
             "player": "Luca Caucci",
-            "winrate": 0.6,
             "commander": [
                 "Nissa, Vastwood Seer"
             ],
@@ -101,7 +100,6 @@
             "deck_id": "318643",
             "rank": "3-4",
             "player": "Gianmarco Brandetti",
-            "winrate": 0.6,
             "commander": [
                 "Saskia the Unyielding"
             ],
@@ -200,7 +198,6 @@
             "deck_id": "318644",
             "rank": "1",
             "player": "Matteo Iommi",
-            "winrate": 1.0,
             "commander": [
                 "Queen Marchesa"
             ],
@@ -310,7 +307,6 @@
             "deck_id": "318645",
             "rank": "1",
             "player": "Enrico Ciccarelli",
-            "winrate": 1.0,
             "commander": [
                 "Dragonlord Ojutai"
             ],

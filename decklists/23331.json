@@ -10,7 +10,6 @@
             "deck_id": "360724",
             "rank": "1",
             "player": "Sebastian Nußbaum",
-            "winrate": 1.0,
             "commander": [
                 "Leovold, Emissary of Trest"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "360725",
             "rank": "2",
             "player": "Manuel Faber",
-            "winrate": 0.8,
             "commander": [
                 "Hogaak, Arisen Necropolis"
             ],

@@ -10,7 +10,6 @@
             "deck_id": "217622",
             "rank": "1",
             "player": "Mika Dupire",
-            "winrate": 0.875,
             "commander": [
                 "Braids, Cabal Minion"
             ],
@@ -103,7 +102,6 @@
             "deck_id": "217623",
             "rank": "2",
             "player": "Clément Pépin",
-            "winrate": 0.75,
             "commander": [
                 "Zur the Enchanter"
             ],
@@ -202,7 +200,6 @@
             "deck_id": "217811",
             "rank": "5-8",
             "player": "Frédéric Michalowski",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Sharuum the Hegemon"
             ],
@@ -300,7 +297,6 @@
             "deck_id": "217812",
             "rank": "3-4",
             "player": "Benoît Verwaerde",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Zur the Enchanter"
             ],
@@ -410,7 +406,6 @@
             "deck_id": "217813",
             "rank": "5-8",
             "player": "Anthony Castelain",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Zur the Enchanter"
             ],
@@ -510,7 +505,6 @@
             "deck_id": "217814",
             "rank": "5-8",
             "player": "Raphael Lesieur",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Kresh the Bloodbraided"
             ],
@@ -620,7 +614,6 @@
             "deck_id": "217815",
             "rank": "3-4",
             "player": "Guillaume \"mastman\" Letizia",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Rhys the Redeemed"
             ],
@@ -711,7 +704,6 @@
             "deck_id": "217816",
             "rank": "5-8",
             "player": "Maxime Lenglet",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Numot, the Devastator"
             ],

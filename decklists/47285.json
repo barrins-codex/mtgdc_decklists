@@ -10,7 +10,6 @@
             "deck_id": "549374",
             "rank": "1",
             "player": "Charles T",
-            "winrate": 1.0,
             "commander": [
                 "Flamewar, Brash Veteran"
             ],
@@ -112,7 +111,6 @@
             "deck_id": "549375",
             "rank": "2",
             "player": "Guillaume totoroux Duday-marlot",
-            "winrate": 0.8,
             "commander": [
                 "Light-Paws, Emperor's Voice"
             ],
@@ -201,7 +199,6 @@
             "deck_id": "549376",
             "rank": "3-4",
             "player": "Sylvain \"zohoz\" Zozaya",
-            "winrate": 0.6,
             "commander": [
                 "Tivit, Seller of Secrets"
             ],
@@ -311,7 +308,6 @@
             "deck_id": "549377",
             "rank": "3-4",
             "player": "Gaëtan \"teepex\" Pican",
-            "winrate": 0.6,
             "commander": [
                 "Cormela, Glamour Thief"
             ],

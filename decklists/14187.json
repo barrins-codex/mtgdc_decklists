@@ -10,7 +10,6 @@
             "deck_id": "284532",
             "rank": "2",
             "player": "Max \"Bieber\" Valentin",
-            "winrate": 0.8,
             "commander": [
                 "Prossh, Skyraider of Kher"
             ],
@@ -115,7 +114,6 @@
             "deck_id": "284535",
             "rank": "3-4",
             "player": "Vincent \"Looping\" Poirier",
-            "winrate": 0.8,
             "commander": [
                 "Titania, Protector of Argoth"
             ],
@@ -206,7 +204,6 @@
             "deck_id": "284536",
             "rank": "1",
             "player": "Mathieu \"Roukinou\" Guilloit",
-            "winrate": 1.0,
             "commander": [
                 "Geist of Saint Traft"
             ],
@@ -302,7 +299,6 @@
             "deck_id": "284537",
             "rank": "3-4",
             "player": "Yann \"Dr Doom\" Dommanschet",
-            "winrate": 0.8,
             "commander": [
                 "Geist of Saint Traft"
             ],

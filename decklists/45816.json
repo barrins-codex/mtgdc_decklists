@@ -10,7 +10,6 @@
             "deck_id": "538614",
             "rank": "1",
             "player": "Mel Bonoan",
-            "winrate": 1.0,
             "commander": [
                 "The Beamtown Bullies"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "538615",
             "rank": "2",
             "player": "Jose Goo",
-            "winrate": 0.8,
             "commander": [
                 "Karlov of the Ghost Council"
             ],
@@ -227,7 +225,6 @@
             "deck_id": "538616",
             "rank": "3",
             "player": "Cholo Pascual",
-            "winrate": 0.8,
             "commander": [
                 "Ghyrson Starn, Kelermorph"
             ],
@@ -333,7 +330,6 @@
             "deck_id": "538617",
             "rank": "4",
             "player": "Reuben Ferrer",
-            "winrate": 0.6,
             "commander": [
                 "Leovold, Emissary of Trest"
             ],
@@ -443,7 +439,6 @@
             "deck_id": "538618",
             "rank": "5",
             "player": "Aj De Leon",
-            "winrate": 0.6,
             "commander": [
                 "Tivit, Seller of Secrets"
             ],
@@ -553,7 +548,6 @@
             "deck_id": "538619",
             "rank": "6",
             "player": "Noel De Leon",
-            "winrate": 0.6,
             "commander": [
                 "Feldon, Ronom Excavator"
             ],
@@ -643,7 +637,6 @@
             "deck_id": "538620",
             "rank": "7",
             "player": "Daryl Alfane",
-            "winrate": 0.6,
             "commander": [
                 "Gut, True Soul Zealot",
                 "Inspiring Leader"
@@ -750,7 +743,6 @@
             "deck_id": "538621",
             "rank": "8",
             "player": "Erbil Sinforoso",
-            "winrate": 0.6,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],

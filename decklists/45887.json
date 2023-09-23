@@ -10,7 +10,6 @@
             "deck_id": "539080",
             "rank": "1",
             "player": "Victor Marques",
-            "winrate": 0.8888888888888888,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "539081",
             "rank": "3-4",
             "player": "Victor Burghi",
-            "winrate": 0.75,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -230,7 +228,6 @@
             "deck_id": "539082",
             "rank": "3-4",
             "player": "Carlos Pires",
-            "winrate": 0.75,
             "commander": [
                 "Ertai Resurrected"
             ],
@@ -323,7 +320,6 @@
             "deck_id": "539083",
             "rank": "5-8",
             "player": "Leonardo Maeda",
-            "winrate": 0.75,
             "commander": [
                 "Minsc, Beloved Ranger"
             ],
@@ -431,7 +427,6 @@
             "deck_id": "539084",
             "rank": "5-8",
             "player": "Pedro Bianchi",
-            "winrate": 0.75,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -541,7 +536,6 @@
             "deck_id": "539085",
             "rank": "5-8",
             "player": "Felipe Gonçalves",
-            "winrate": 0.75,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -651,7 +645,6 @@
             "deck_id": "539086",
             "rank": "5-8",
             "player": "Jacque",
-            "winrate": 0.75,
             "commander": [
                 "Aragorn, King of Gondor"
             ],

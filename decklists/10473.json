@@ -10,7 +10,6 @@
             "deck_id": "259896",
             "rank": "1",
             "player": "Julien Joie",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Wydwen, the Biting Gale"
             ],
@@ -106,7 +105,6 @@
             "deck_id": "259897",
             "rank": "2",
             "player": "Christophe Guillot",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Marath, Will of the Wild"
             ],
@@ -214,7 +212,6 @@
             "deck_id": "259898",
             "rank": "3",
             "player": "Anthony",
-            "winrate": 0.625,
             "commander": [
                 "Doran, the Siege Tower"
             ],
@@ -324,7 +321,6 @@
             "deck_id": "259899",
             "rank": "4",
             "player": "Damien Garcia",
-            "winrate": 0.625,
             "commander": [
                 "Keranos, God of Storms"
             ],
@@ -406,7 +402,6 @@
             "deck_id": "259900",
             "rank": "5",
             "player": "Julien Rouar",
-            "winrate": 0.625,
             "commander": [
                 "Daretti, Scrap Savant"
             ],
@@ -493,7 +488,6 @@
             "deck_id": "259901",
             "rank": "6",
             "player": "Samy Khalifa",
-            "winrate": 0.625,
             "commander": [
                 "Doran, the Siege Tower"
             ],
@@ -593,7 +587,6 @@
             "deck_id": "259902",
             "rank": "7",
             "player": "Willaim Guignot",
-            "winrate": 0.625,
             "commander": [
                 "Xenagos, God of Revels"
             ],
@@ -689,7 +682,6 @@
             "deck_id": "259903",
             "rank": "8",
             "player": "Frederic Pon",
-            "winrate": 0.625,
             "commander": [
                 "Marath, Will of the Wild"
             ],

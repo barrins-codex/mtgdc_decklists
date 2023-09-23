@@ -10,7 +10,6 @@
             "deck_id": "489048",
             "rank": "1",
             "player": "Michael Cabrera",
-            "winrate": 1.0,
             "commander": [
                 "Jeska, Thrice Reborn",
                 "Bruse Tarl, Boorish Herder"
@@ -112,7 +111,6 @@
             "deck_id": "489049",
             "rank": "2",
             "player": "Lorenzo Paredes",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Candlekeep Sage",
                 "Wilson, Refined Grizzly"

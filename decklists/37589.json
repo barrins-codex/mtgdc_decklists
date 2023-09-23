@@ -10,7 +10,6 @@
             "deck_id": "481635",
             "rank": "1",
             "player": "Juca",
-            "winrate": 1.0,
             "commander": [
                 "Rocco, Cabaretti Caterer"
             ],
@@ -109,7 +108,6 @@
             "deck_id": "481636",
             "rank": "2",
             "player": "Marcelino",
-            "winrate": 0.8,
             "commander": [
                 "General Ferrous Rokiric"
             ],
@@ -190,7 +188,6 @@
             "deck_id": "481637",
             "rank": "3-4",
             "player": "Elisson Primo",
-            "winrate": 0.8,
             "commander": [
                 "Kinnan, Bonder Prodigy"
             ],
@@ -273,7 +270,6 @@
             "deck_id": "481638",
             "rank": "3-4",
             "player": "Kauan",
-            "winrate": 0.8,
             "commander": [
                 "Adeline, Resplendent Cathar"
             ],
@@ -357,7 +353,6 @@
             "deck_id": "481639",
             "rank": "5-8",
             "player": "Aracaju",
-            "winrate": 0.6,
             "commander": [
                 "Dina, Soul Steeper"
             ],
@@ -448,7 +443,6 @@
             "deck_id": "481640",
             "rank": "5-8",
             "player": "Caio",
-            "winrate": 0.6,
             "commander": [
                 "Prosper, Tome-Bound"
             ],
@@ -530,7 +524,6 @@
             "deck_id": "481641",
             "rank": "5-8",
             "player": "Daniel Duarte",
-            "winrate": 0.6,
             "commander": [
                 "Krenko, Mob Boss"
             ],
@@ -611,7 +604,6 @@
             "deck_id": "481642",
             "rank": "5-8",
             "player": "Adriano Yusuke",
-            "winrate": 0.6,
             "commander": [
                 "Saskia the Unyielding"
             ],

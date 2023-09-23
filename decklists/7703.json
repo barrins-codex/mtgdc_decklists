@@ -10,7 +10,6 @@
             "deck_id": "244264",
             "rank": "1",
             "player": "Romain Sacaze",
-            "winrate": 1.0,
             "commander": [
                 "Oloro, Ageless Ascetic"
             ],
@@ -119,7 +118,6 @@
             "deck_id": "244265",
             "rank": "2",
             "player": "William Guignot",
-            "winrate": 0.8,
             "commander": [
                 "Doran, the Siege Tower"
             ],
@@ -229,7 +227,6 @@
             "deck_id": "244266",
             "rank": "3-4",
             "player": "Thomas Mestreau",
-            "winrate": 0.8,
             "commander": [
                 "Oloro, Ageless Ascetic"
             ],
@@ -323,7 +320,6 @@
             "deck_id": "244267",
             "rank": "3-4",
             "player": "Charles Dupont",
-            "winrate": 0.8,
             "commander": [
                 "Prime Speaker Zegana"
             ],
@@ -423,7 +419,6 @@
             "deck_id": "244268",
             "rank": "5-8",
             "player": "Simon Gradaive",
-            "winrate": 0.8,
             "commander": [
                 "Kaalia of the Vast"
             ],
@@ -522,7 +517,6 @@
             "deck_id": "244269",
             "rank": "5-8",
             "player": "Guillaume Bahin",
-            "winrate": 0.8,
             "commander": [
                 "Animar, Soul of Elements"
             ],
@@ -628,7 +622,6 @@
             "deck_id": "244270",
             "rank": "5-8",
             "player": "Matthieu Habersetzer",
-            "winrate": 0.8,
             "commander": [
                 "Marath, Will of the Wild"
             ],
@@ -735,7 +728,6 @@
             "deck_id": "244271",
             "rank": "5-8",
             "player": "Paul Deschene",
-            "winrate": 0.8,
             "commander": [
                 "Marath, Will of the Wild"
             ],

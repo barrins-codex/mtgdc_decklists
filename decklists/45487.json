@@ -10,7 +10,6 @@
             "deck_id": "536172",
             "rank": "1",
             "player": "Loïc Baverel",
-            "winrate": 1.0,
             "commander": [
                 "Marath, Will of the Wild"
             ],
@@ -115,7 +114,6 @@
             "deck_id": "536173",
             "rank": "2",
             "player": "Alexandre Andouard",
-            "winrate": 0.8,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -225,7 +223,6 @@
             "deck_id": "536174",
             "rank": "3-4",
             "player": "Jérémy Dewarez",
-            "winrate": 0.8,
             "commander": [
                 "Sythis, Harvest's Hand"
             ],
@@ -325,7 +322,6 @@
             "deck_id": "536175",
             "rank": "3-4",
             "player": "Brice Lamar",
-            "winrate": 0.8,
             "commander": [
                 "Raffine, Scheming Seer"
             ],

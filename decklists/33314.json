@@ -10,7 +10,6 @@
             "deck_id": "454231",
             "rank": "1",
             "player": "Leonardo Maeda",
-            "winrate": 1.0,
             "commander": [
                 "Tevesh Szat, Doom of Fools",
                 "Prava of the Steel Legion"
@@ -108,7 +107,6 @@
             "deck_id": "454232",
             "rank": "2",
             "player": "Felipe \"raizen\" Santos",
-            "winrate": 0.8,
             "commander": [
                 "Miara, Thorn of the Glade",
                 "Tevesh Szat, Doom of Fools"
@@ -190,7 +188,6 @@
             "deck_id": "454233",
             "rank": "3-4",
             "player": "João Paulo \"5cents\" Pontes",
-            "winrate": 0.6,
             "commander": [
                 "Dragonlord Ojutai"
             ],
@@ -289,7 +286,6 @@
             "deck_id": "454234",
             "rank": "3-4",
             "player": "Orlando Bibiano",
-            "winrate": 0.6,
             "commander": [
                 "Tajic, Legion's Edge"
             ],

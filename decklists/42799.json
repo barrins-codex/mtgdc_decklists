@@ -10,7 +10,6 @@
             "deck_id": "516340",
             "rank": "1",
             "player": "Thibaut Bredzinski",
-            "winrate": 0.8888888888888888,
             "commander": [
                 "Yoshimaru, Ever Faithful",
                 "Bruse Tarl, Boorish Herder"
@@ -113,7 +112,6 @@
             "deck_id": "516341",
             "rank": "2",
             "player": "Joakim Dubois",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Octavia, Living Thesis"
             ],
@@ -201,7 +199,6 @@
             "deck_id": "516342",
             "rank": "3-4",
             "player": "Harold Guarneri",
-            "winrate": 0.75,
             "commander": [
                 "Lord Windgrace"
             ],
@@ -307,7 +304,6 @@
             "deck_id": "516343",
             "rank": "3-4",
             "player": "Kinder",
-            "winrate": 0.75,
             "commander": [
                 "Grist, the Hunger Tide"
             ],
@@ -408,7 +404,6 @@
             "deck_id": "516344",
             "rank": "5-8",
             "player": "Damienade",
-            "winrate": 0.75,
             "commander": [
                 "Cecily, Haunted Mage",
                 "Wernog, Rider's Chaplain"
@@ -518,7 +513,6 @@
             "deck_id": "516345",
             "rank": "5-8",
             "player": "Gael Huber",
-            "winrate": 0.75,
             "commander": [
                 "Bruse Tarl, Boorish Herder",
                 "Yoshimaru, Ever Faithful"
@@ -621,7 +615,6 @@
             "deck_id": "516346",
             "rank": "5-8",
             "player": "Jordan Bizon",
-            "winrate": 0.75,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -731,7 +724,6 @@
             "deck_id": "516347",
             "rank": "5-8",
             "player": "Raffinecestlemagicquontaime",
-            "winrate": 0.75,
             "commander": [
                 "Raffine, Scheming Seer"
             ],

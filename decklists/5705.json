@@ -10,7 +10,6 @@
             "deck_id": "233095",
             "rank": "1",
             "player": "Daniel Kitachewsky",
-            "winrate": 1.0,
             "commander": [
                 "Azusa, Lost but Seeking"
             ],
@@ -101,7 +100,6 @@
             "deck_id": "233096",
             "rank": "2",
             "player": "Alexi Catelain",
-            "winrate": 0.8,
             "commander": [
                 "Jhoira of the Ghitu"
             ],
@@ -191,7 +189,6 @@
             "deck_id": "233097",
             "rank": "3-4",
             "player": "Mathieu Belfis",
-            "winrate": 0.8,
             "commander": [
                 "Horde of Notions"
             ],
@@ -296,7 +293,6 @@
             "deck_id": "233098",
             "rank": "3-4",
             "player": "Olivier Genero",
-            "winrate": 0.8,
             "commander": [
                 "Zur the Enchanter"
             ],

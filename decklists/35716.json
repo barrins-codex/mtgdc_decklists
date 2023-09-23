@@ -10,7 +10,6 @@
             "deck_id": "469438",
             "rank": "1",
             "player": "Vitezslav Smid",
-            "winrate": 0.8888888888888888,
             "commander": [
                 "Grist, the Hunger Tide"
             ],
@@ -113,7 +112,6 @@
             "deck_id": "469439",
             "rank": "2",
             "player": "Daniel Ditrych",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Yisan, the Wanderer Bard"
             ],
@@ -203,7 +201,6 @@
             "deck_id": "469440",
             "rank": "3-4",
             "player": "Josef Zivec",
-            "winrate": 0.75,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -292,7 +289,6 @@
             "deck_id": "469441",
             "rank": "3-4",
             "player": "Jakub Sykora",
-            "winrate": 0.75,
             "commander": [
                 "Grist, the Hunger Tide"
             ],
@@ -391,7 +387,6 @@
             "deck_id": "469442",
             "rank": "5-8",
             "player": "Vojta Kotek",
-            "winrate": 0.75,
             "commander": [
                 "Grenzo, Dungeon Warden"
             ],
@@ -491,7 +486,6 @@
             "deck_id": "469443",
             "rank": "5-8",
             "player": "Michal Mendl",
-            "winrate": 0.75,
             "commander": [
                 "Dennick, Pious Apprentice"
             ],
@@ -594,7 +588,6 @@
             "deck_id": "469444",
             "rank": "5-8",
             "player": "David Tran",
-            "winrate": 0.75,
             "commander": [
                 "Shorikai, Genesis Engine"
             ],
@@ -701,7 +694,6 @@
             "deck_id": "469445",
             "rank": "5-8",
             "player": "Zdenek Hlavsa",
-            "winrate": 0.75,
             "commander": [
                 "Niv-Mizzet Reborn"
             ],

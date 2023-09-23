@@ -10,7 +10,6 @@
             "deck_id": "379457",
             "rank": "4",
             "player": "Steamoak",
-            "winrate": 0.6,
             "commander": [
                 "Uro, Titan of Nature's Wrath"
             ],
@@ -117,7 +116,6 @@
             "deck_id": "379458",
             "rank": "3",
             "player": "Geam103",
-            "winrate": 0.6,
             "commander": [
                 "Karlov of the Ghost Council"
             ],
@@ -220,7 +218,6 @@
             "deck_id": "379459",
             "rank": "2",
             "player": "Imperfekt",
-            "winrate": 0.8,
             "commander": [
                 "Hogaak, Arisen Necropolis"
             ],
@@ -330,7 +327,6 @@
             "deck_id": "379460",
             "rank": "1",
             "player": "Bigmalyon",
-            "winrate": 1.0,
             "commander": [
                 "Prossh, Skyraider of Kher"
             ],

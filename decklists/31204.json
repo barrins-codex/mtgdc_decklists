@@ -10,7 +10,6 @@
             "deck_id": "442378",
             "rank": "1",
             "player": "Pablo Lima",
-            "winrate": 1.0,
             "commander": [
                 "Ragavan, Nimble Pilferer"
             ],
@@ -91,7 +90,6 @@
             "deck_id": "442379",
             "rank": "2",
             "player": "Victor Burghi",
-            "winrate": 0.8,
             "commander": [
                 "Glenn, the Voice of Calm"
             ],
@@ -189,7 +187,6 @@
             "deck_id": "442380",
             "rank": "3-4",
             "player": "Rafael Ozores",
-            "winrate": 0.6,
             "commander": [
                 "Ragavan, Nimble Pilferer"
             ],
@@ -272,7 +269,6 @@
             "deck_id": "442381",
             "rank": "3-4",
             "player": "Lucas Portela",
-            "winrate": 0.6,
             "commander": [
                 "Gallia of the Endless Dance"
             ],

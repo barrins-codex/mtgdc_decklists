@@ -10,7 +10,6 @@
             "deck_id": "546605",
             "rank": "1",
             "player": "Dawei,gu",
-            "winrate": 1.0,
             "commander": [
                 "Saffi Eriksdotter"
             ],
@@ -116,7 +115,6 @@
             "deck_id": "546606",
             "rank": "2",
             "player": "Jiaxuan,wu",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Azusa, Lost but Seeking"
             ],

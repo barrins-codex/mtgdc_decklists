@@ -10,7 +10,6 @@
             "deck_id": "273217",
             "rank": "3-4",
             "player": "Gaël Millet",
-            "winrate": 0.8,
             "commander": [
                 "Shu Yun, the Silent Tempest"
             ],
@@ -113,7 +112,6 @@
             "deck_id": "273218",
             "rank": "3-4",
             "player": "Manuel Le Marec",
-            "winrate": 0.8,
             "commander": [
                 "Teferi, Temporal Archmage"
             ],
@@ -190,7 +188,6 @@
             "deck_id": "273219",
             "rank": "2",
             "player": "Baptiste Touboulic",
-            "winrate": 0.8,
             "commander": [
                 "The Gitrog Monster"
             ],
@@ -286,7 +283,6 @@
             "deck_id": "273220",
             "rank": "1",
             "player": "Martial \"Mars\" Moreau",
-            "winrate": 1.0,
             "commander": [
                 "Gaddock Teeg"
             ],

@@ -10,7 +10,6 @@
             "deck_id": "339539",
             "rank": "2",
             "player": "Martin Vlnas",
-            "winrate": 0.8,
             "commander": [
                 "Najeela, the Blade-Blossom"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "339540",
             "rank": "1",
             "player": "Hellonewton",
-            "winrate": 1.0,
             "commander": [
                 "Grenzo, Dungeon Warden"
             ],

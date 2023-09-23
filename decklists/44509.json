@@ -10,7 +10,6 @@
             "deck_id": "528273",
             "rank": "1",
             "player": "Alex Gheysen",
-            "winrate": 1.0,
             "commander": [
                 "Dennick, Pious Apprentice"
             ],
@@ -112,7 +111,6 @@
             "deck_id": "528274",
             "rank": "2",
             "player": "Emmanuel Delvigne",
-            "winrate": 0.8,
             "commander": [
                 "Dihada, Binder of Wills"
             ],
@@ -222,7 +220,6 @@
             "deck_id": "528275",
             "rank": "3-4",
             "player": "Dosimont Amand",
-            "winrate": 0.8,
             "commander": [
                 "Rocco, Cabaretti Caterer"
             ],
@@ -332,7 +329,6 @@
             "deck_id": "528276",
             "rank": "3-4",
             "player": "Renaud \"butch\" Leboucher",
-            "winrate": 0.8,
             "commander": [
                 "Marath, Will of the Wild"
             ],

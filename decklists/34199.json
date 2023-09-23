@@ -10,7 +10,6 @@
             "deck_id": "459944",
             "rank": "1",
             "player": "Carlos Eduardo",
-            "winrate": 1.0,
             "commander": [
                 "Isamaru, Hound of Konda"
             ],
@@ -97,7 +96,6 @@
             "deck_id": "459945",
             "rank": "2",
             "player": "Tiago Coimbra",
-            "winrate": 0.8,
             "commander": [
                 "Kroxa, Titan of Death's Hunger"
             ],
@@ -192,7 +190,6 @@
             "deck_id": "459946",
             "rank": "3-4",
             "player": "Erick Buitrago",
-            "winrate": 0.6,
             "commander": [
                 "Marwyn, the Nurturer"
             ],
@@ -277,7 +274,6 @@
             "deck_id": "459947",
             "rank": "3-4",
             "player": "Jean Ribeiro",
-            "winrate": 0.6,
             "commander": [
                 "Kroxa, Titan of Death's Hunger"
             ],

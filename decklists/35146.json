@@ -10,7 +10,6 @@
             "deck_id": "465901",
             "rank": "1",
             "player": "Romain Chabaud",
-            "winrate": 1.0,
             "commander": [
                 "Jori En, Ruin Diver"
             ],
@@ -110,7 +109,6 @@
             "deck_id": "465902",
             "rank": "2",
             "player": "Sacha Keitel",
-            "winrate": 0.8,
             "commander": [
                 "Shorikai, Genesis Engine"
             ],
@@ -214,7 +212,6 @@
             "deck_id": "465903",
             "rank": "3-4",
             "player": "Nicolas Delalande",
-            "winrate": 0.8,
             "commander": [
                 "Prossh, Skyraider of Kher"
             ],
@@ -324,7 +321,6 @@
             "deck_id": "465904",
             "rank": "3-4",
             "player": "Axel Autiquet",
-            "winrate": 0.8,
             "commander": [
                 "Varolz, the Scar-Striped"
             ],
@@ -428,7 +424,6 @@
             "deck_id": "465905",
             "rank": "5-8",
             "player": "Maxime Ribeiro",
-            "winrate": 0.6,
             "commander": [
                 "Sythis, Harvest's Hand"
             ],
@@ -533,7 +528,6 @@
             "deck_id": "465906",
             "rank": "5-8",
             "player": "Antoine Colomb",
-            "winrate": 0.6,
             "commander": [
                 "Grist, the Hunger Tide"
             ],
@@ -632,7 +626,6 @@
             "deck_id": "465907",
             "rank": "5-8",
             "player": "Matthieu Mizac",
-            "winrate": 0.6,
             "commander": [
                 "Juri, Master of the Revue"
             ],
@@ -733,7 +726,6 @@
             "deck_id": "465908",
             "rank": "5-8",
             "player": "Ghislain Rhéa",
-            "winrate": 0.6,
             "commander": [
                 "Shorikai, Genesis Engine"
             ],

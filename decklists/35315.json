@@ -10,7 +10,6 @@
             "deck_id": "466914",
             "rank": "1",
             "player": "Baptiste Hilmann",
-            "winrate": 0.9,
             "commander": [
                 "Shorikai, Genesis Engine"
             ],
@@ -108,7 +107,6 @@
             "deck_id": "466915",
             "rank": "2",
             "player": "Jules Lestienne",
-            "winrate": 0.8,
             "commander": [
                 "Grist, the Hunger Tide"
             ],
@@ -207,7 +205,6 @@
             "deck_id": "466916",
             "rank": "3-4",
             "player": "Quentin Naille",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Kenrith, the Returned King"
             ],
@@ -317,7 +314,6 @@
             "deck_id": "466917",
             "rank": "3-4",
             "player": "Benjamin Van Koekenbeek",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Isamaru, Hound of Konda"
             ],
@@ -404,7 +400,6 @@
             "deck_id": "466918",
             "rank": "5-8",
             "player": "Jeremy Cuvelier",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Grist, the Hunger Tide"
             ],
@@ -504,7 +499,6 @@
             "deck_id": "466919",
             "rank": "5-8",
             "player": "Etienne Tehrani",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Shorikai, Genesis Engine"
             ],
@@ -606,7 +600,6 @@
             "deck_id": "466920",
             "rank": "5-8",
             "player": "Manuel Faber",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Hogaak, Arisen Necropolis"
             ],
@@ -716,7 +709,6 @@
             "deck_id": "466921",
             "rank": "5-8",
             "player": "Guillaume Audiffren",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Golos, Tireless Pilgrim"
             ],
@@ -826,7 +818,6 @@
             "deck_id": "466922",
             "rank": "9-16",
             "player": "Moncana",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Shorikai, Genesis Engine"
             ],
@@ -927,7 +918,6 @@
             "deck_id": "466923",
             "rank": "9-16",
             "player": "Roman Leconte",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Tiamat"
             ],
@@ -1037,7 +1027,6 @@
             "deck_id": "466924",
             "rank": "9-16",
             "player": "Seb Laplane",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -1126,7 +1115,6 @@
             "deck_id": "466925",
             "rank": "9-16",
             "player": "Alexandre Martial",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Niv-Mizzet Reborn"
             ],
@@ -1236,7 +1224,6 @@
             "deck_id": "466926",
             "rank": "9-16",
             "player": "Fabien Gibergues",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Shorikai, Genesis Engine"
             ],
@@ -1337,7 +1324,6 @@
             "deck_id": "466927",
             "rank": "9-16",
             "player": "Pyrrhus",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "The Gitrog Monster"
             ],
@@ -1437,7 +1423,6 @@
             "deck_id": "466928",
             "rank": "9-16",
             "player": "Kaourintin Le Guiban",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Kyodai, Soul of Kamigawa"
             ],
@@ -1547,7 +1532,6 @@
             "deck_id": "466929",
             "rank": "9-16",
             "player": "Mathieu Leclere",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Jegantha, the Wellspring",
                 "Niv-Mizzet Reborn"

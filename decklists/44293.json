@@ -10,7 +10,6 @@
             "deck_id": "526840",
             "rank": "1",
             "player": "Victor Burghi",
-            "winrate": 0.8888888888888888,
             "commander": [
                 "Lurrus of the Dream-Den",
                 "Jirina, Dauntless General"
@@ -115,7 +114,6 @@
             "deck_id": "526841",
             "rank": "2",
             "player": "Guilherme Bellagente",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -225,7 +223,6 @@
             "deck_id": "526842",
             "rank": "3",
             "player": "Victor Marques",
-            "winrate": 0.75,
             "commander": [
                 "Dihada, Binder of Wills"
             ],
@@ -335,7 +332,6 @@
             "deck_id": "526843",
             "rank": "4",
             "player": "Rafael Georgetti",
-            "winrate": 0.75,
             "commander": [
                 "Wernog, Rider's Chaplain",
                 "Cecily, Haunted Mage"
@@ -445,7 +441,6 @@
             "deck_id": "526844",
             "rank": "5",
             "player": "Leonardo Maeda",
-            "winrate": 0.75,
             "commander": [
                 "Minsc, Beloved Ranger"
             ],
@@ -552,7 +547,6 @@
             "deck_id": "526845",
             "rank": "6",
             "player": "Hugo Shelling",
-            "winrate": 0.75,
             "commander": [
                 "Dihada, Binder of Wills"
             ],
@@ -662,7 +656,6 @@
             "deck_id": "526846",
             "rank": "7",
             "player": "Gabriel Kawagoe",
-            "winrate": 0.75,
             "commander": [
                 "Skrelv, Defector Mite"
             ],
@@ -750,7 +743,6 @@
             "deck_id": "526847",
             "rank": "8",
             "player": "Silvio Paulino",
-            "winrate": 0.75,
             "commander": [
                 "Dihada, Binder of Wills"
             ],

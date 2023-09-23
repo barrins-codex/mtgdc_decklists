@@ -10,7 +10,6 @@
             "deck_id": "268736",
             "rank": "3-4",
             "player": "Chester Bausa",
-            "winrate": 0.8,
             "commander": [
                 "Narset, Enlightened Master"
             ],
@@ -115,7 +114,6 @@
             "deck_id": "268739",
             "rank": "2",
             "player": "Francis Tabangcura",
-            "winrate": 0.8,
             "commander": [
                 "Geist of Saint Traft"
             ],
@@ -206,7 +204,6 @@
             "deck_id": "268740",
             "rank": "1",
             "player": "Richmund Lim",
-            "winrate": 1.0,
             "commander": [
                 "Titania, Protector of Argoth"
             ],
@@ -298,7 +295,6 @@
             "deck_id": "268741",
             "rank": "3-4",
             "player": "JP Nicolas",
-            "winrate": 0.8,
             "commander": [
                 "Keranos, God of Storms"
             ],

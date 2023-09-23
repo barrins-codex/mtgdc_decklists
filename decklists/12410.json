@@ -10,7 +10,6 @@
             "deck_id": "271372",
             "rank": "1",
             "player": "Marco Boccalari",
-            "winrate": 1.0,
             "commander": [
                 "Geist of Saint Traft"
             ],
@@ -103,7 +102,6 @@
             "deck_id": "271373",
             "rank": "2",
             "player": "Francesco Galli",
-            "winrate": 0.8,
             "commander": [
                 "Keranos, God of Storms"
             ],
@@ -196,7 +194,6 @@
             "deck_id": "271374",
             "rank": "3-4",
             "player": "Matteo Marinelli",
-            "winrate": 0.8,
             "commander": [
                 "Kaalia of the Vast"
             ],
@@ -306,7 +303,6 @@
             "deck_id": "271375",
             "rank": "3-4",
             "player": "Francesco Belvedere",
-            "winrate": 0.8,
             "commander": [
                 "Titania, Protector of Argoth"
             ],

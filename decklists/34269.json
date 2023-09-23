@@ -10,7 +10,6 @@
             "deck_id": "460385",
             "rank": "1",
             "player": "Valentin Orange",
-            "winrate": 1.0,
             "commander": [
                 "Grist, the Hunger Tide"
             ],
@@ -111,7 +110,6 @@
             "deck_id": "460386",
             "rank": "2",
             "player": "Franck Adam",
-            "winrate": 0.8,
             "commander": [
                 "Sai, Master Thopterist"
             ],
@@ -199,7 +197,6 @@
             "deck_id": "460387",
             "rank": "3-4",
             "player": "Antoine Niederst",
-            "winrate": 0.8,
             "commander": [
                 "Livio, Oathsworn Sentinel",
                 "Kraum, Ludevic's Opus"
@@ -306,7 +303,6 @@
             "deck_id": "460388",
             "rank": "3-4",
             "player": "Quentin Jacob",
-            "winrate": 0.8,
             "commander": [
                 "Isamaru, Hound of Konda"
             ],

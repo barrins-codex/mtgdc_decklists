@@ -10,7 +10,6 @@
             "deck_id": "438418",
             "rank": "1",
             "player": "Jan Hortaleza",
-            "winrate": 1.0,
             "commander": [
                 "Magda, Brazen Outlaw"
             ],
@@ -99,7 +98,6 @@
             "deck_id": "438419",
             "rank": "2",
             "player": "Agustin Ireneo",
-            "winrate": 0.8,
             "commander": [
                 "Gilanra, Caller of Wirewood",
                 "Kodama of the East Tree"
@@ -190,7 +188,6 @@
             "deck_id": "438420",
             "rank": "3-4",
             "player": "Dhan Pajarillo",
-            "winrate": 0.6,
             "commander": [
                 "Leovold, Emissary of Trest"
             ],
@@ -300,7 +297,6 @@
             "deck_id": "438421",
             "rank": "3-4",
             "player": "Dinno Zaide",
-            "winrate": 0.6,
             "commander": [
                 "Queen Marchesa"
             ],

@@ -10,7 +10,6 @@
             "deck_id": "528432",
             "rank": "1",
             "player": "Florian Visset",
-            "winrate": 0.875,
             "commander": [
                 "Feldon, Ronom Excavator"
             ],
@@ -98,7 +97,6 @@
             "deck_id": "528433",
             "rank": "2",
             "player": "Martin \"spigushe\" Cuchet",
-            "winrate": 0.75,
             "commander": [
                 "Kess, Dissident Mage"
             ],
@@ -204,7 +202,6 @@
             "deck_id": "528434",
             "rank": "3-4",
             "player": "Baron Geoffrey",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Bruse Tarl, Boorish Herder",
                 "Yoshimaru, Ever Faithful"
@@ -305,7 +302,6 @@
             "deck_id": "528435",
             "rank": "3-4",
             "player": "Whitesev",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Ghyrson Starn, Kelermorph"
             ],
@@ -405,7 +401,6 @@
             "deck_id": "528436",
             "rank": "5-8",
             "player": "Zgana",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Octavia, Living Thesis"
             ],
@@ -489,7 +484,6 @@
             "deck_id": "528437",
             "rank": "5-8",
             "player": "Martial \"mars\" Moreau",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Dihada, Binder of Wills"
             ],
@@ -598,7 +592,6 @@
             "deck_id": "528438",
             "rank": "5-8",
             "player": "Oui",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Prossh, Skyraider of Kher"
             ],
@@ -705,7 +698,6 @@
             "deck_id": "528439",
             "rank": "5-8",
             "player": "Antonin Nicolas",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Tivit, Seller of Secrets"
             ],

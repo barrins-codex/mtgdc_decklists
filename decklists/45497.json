@@ -10,7 +10,6 @@
             "deck_id": "536243",
             "rank": "1",
             "player": "Jouan Adrien",
-            "winrate": 0.9,
             "commander": [
                 "Svyelun of Sea and Sky"
             ],
@@ -92,7 +91,6 @@
             "deck_id": "536244",
             "rank": "2",
             "player": "Kaourintin \"falaakr\" Le Guiban",
-            "winrate": 0.8,
             "commander": [
                 "Tivit, Seller of Secrets"
             ],
@@ -202,7 +200,6 @@
             "deck_id": "536245",
             "rank": "3-4",
             "player": "Lestienne Jules",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Lurrus of the Dream-Den",
                 "Wernog, Rider's Chaplain",
@@ -313,7 +310,6 @@
             "deck_id": "536246",
             "rank": "3-4",
             "player": "Boulic Audren",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Silas Renn, Seeker Adept",
                 "Rograkh, Son of Rohgahh"
@@ -423,7 +419,6 @@
             "deck_id": "536247",
             "rank": "5-8",
             "player": "Rivet Charles",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Ghyrson Starn, Kelermorph"
             ],
@@ -521,7 +516,6 @@
             "deck_id": "536248",
             "rank": "5-8",
             "player": "Drucké Thomas",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Niv-Mizzet Reborn"
             ],
@@ -631,7 +625,6 @@
             "deck_id": "536249",
             "rank": "5-8",
             "player": "Chiron Mathieu",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Ghyrson Starn, Kelermorph"
             ],
@@ -731,7 +724,6 @@
             "deck_id": "536250",
             "rank": "5-8",
             "player": "Guillaumont Antonin",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Tivit, Seller of Secrets"
             ],
@@ -841,7 +833,6 @@
             "deck_id": "536251",
             "rank": "9-16",
             "player": "Demoget Adrien",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Aragorn, King of Gondor"
             ],
@@ -945,7 +936,6 @@
             "deck_id": "536252",
             "rank": "9-16",
             "player": "Wisnicki Boris",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Kraum, Ludevic's Opus",
                 "Yoshimaru, Ever Faithful"
@@ -1053,7 +1043,6 @@
             "deck_id": "536253",
             "rank": "9-16",
             "player": "Khomutenko Bogdan",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Grist, the Hunger Tide"
             ],
@@ -1154,7 +1143,6 @@
             "deck_id": "536254",
             "rank": "9-16",
             "player": "Raveton Yanis",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Greasefang, Okiba Boss"
             ],
@@ -1258,7 +1246,6 @@
             "deck_id": "536255",
             "rank": "9-16",
             "player": "Paillet Flavien",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Ertai Resurrected"
             ],
@@ -1354,7 +1341,6 @@
             "deck_id": "536256",
             "rank": "9-16",
             "player": "Modolo Thierry",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Ghyrson Starn, Kelermorph"
             ],
@@ -1454,7 +1440,6 @@
             "deck_id": "536257",
             "rank": "9-16",
             "player": "Mouly Mickaël",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Elminster"
             ],
@@ -1555,7 +1540,6 @@
             "deck_id": "536258",
             "rank": "9-16",
             "player": "Bihet Julien",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Aragorn, King of Gondor"
             ],

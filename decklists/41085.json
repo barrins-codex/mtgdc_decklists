@@ -10,7 +10,6 @@
             "deck_id": "505378",
             "rank": "1",
             "player": "Josef Kumstyr",
-            "winrate": 1.0,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "505379",
             "rank": "2",
             "player": "Jan Kousal",
-            "winrate": 0.8,
             "commander": [
                 "Ratchet, Field Medic"
             ],
@@ -210,7 +208,6 @@
             "deck_id": "505380",
             "rank": "3-4",
             "player": "Roman Vejdelek",
-            "winrate": 0.8,
             "commander": [
                 "Saskia the Unyielding"
             ],
@@ -320,7 +317,6 @@
             "deck_id": "505381",
             "rank": "3-4",
             "player": "Jakub Havelka",
-            "winrate": 0.8,
             "commander": [
                 "Grist, the Hunger Tide"
             ],
@@ -425,7 +421,6 @@
             "deck_id": "505382",
             "rank": "5-8",
             "player": "Jiri Patocka",
-            "winrate": 0.6,
             "commander": [
                 "Grist, the Hunger Tide"
             ],
@@ -529,7 +524,6 @@
             "deck_id": "505383",
             "rank": "5-8",
             "player": "Viktor Coufal",
-            "winrate": 0.6,
             "commander": [
                 "Ezuri, Renegade Leader"
             ],
@@ -612,7 +606,6 @@
             "deck_id": "505384",
             "rank": "5-8",
             "player": "Jan Sir",
-            "winrate": 0.6,
             "commander": [
                 "Ghyrson Starn, Kelermorph"
             ],
@@ -716,7 +709,6 @@
             "deck_id": "505385",
             "rank": "5-8",
             "player": "Pavel Tvrznik",
-            "winrate": 0.6,
             "commander": [
                 "Sidisi, Undead Vizier"
             ],

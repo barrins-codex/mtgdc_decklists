@@ -10,7 +10,6 @@
             "deck_id": "536659",
             "rank": "1",
             "player": "Jiawei,chen",
-            "winrate": 1.0,
             "commander": [
                 "Aragorn, King of Gondor"
             ],
@@ -119,7 +118,6 @@
             "deck_id": "536660",
             "rank": "2",
             "player": "Zhaoyang,liu",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Feldon, Ronom Excavator"
             ],

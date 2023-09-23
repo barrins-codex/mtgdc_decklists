@@ -10,7 +10,6 @@
             "deck_id": "536414",
             "rank": "1",
             "player": "Damien \"damienade\" Mocquet",
-            "winrate": 0.8888888888888888,
             "commander": [
                 "Lurrus of the Dream-Den",
                 "Wernog, Rider's Chaplain",
@@ -121,7 +120,6 @@
             "deck_id": "536415",
             "rank": "2",
             "player": "Florian Cornet",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Leovold, Emissary of Trest"
             ],
@@ -231,7 +229,6 @@
             "deck_id": "536416",
             "rank": "3-4",
             "player": "Clément \"carpenters\" Gillard",
-            "winrate": 0.75,
             "commander": [
                 "Slimefoot and Squee"
             ],
@@ -340,7 +337,6 @@
             "deck_id": "536417",
             "rank": "3-4",
             "player": "Dimitri Saboureau",
-            "winrate": 0.75,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -450,7 +446,6 @@
             "deck_id": "536418",
             "rank": "5-8",
             "player": "Guillaume Batard",
-            "winrate": 0.75,
             "commander": [
                 "Feldon, Ronom Excavator"
             ],
@@ -537,7 +532,6 @@
             "deck_id": "536419",
             "rank": "5-8",
             "player": "Ewan La Banane",
-            "winrate": 0.75,
             "commander": [
                 "Pippin, Guard of the Citadel"
             ],
@@ -639,7 +633,6 @@
             "deck_id": "536420",
             "rank": "5-8",
             "player": "Micko",
-            "winrate": 0.75,
             "commander": [
                 "Tana, the Bloodsower",
                 "Yoshimaru, Ever Faithful"

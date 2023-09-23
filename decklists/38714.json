@@ -10,7 +10,6 @@
             "deck_id": "488961",
             "rank": "1",
             "player": "Léo Facca",
-            "winrate": 1.0,
             "commander": [
                 "Niv-Mizzet Reborn"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "488962",
             "rank": "2",
             "player": "Damien Garcia",
-            "winrate": 0.8,
             "commander": [
                 "Tivit, Seller of Secrets"
             ],
@@ -230,7 +228,6 @@
             "deck_id": "488963",
             "rank": "3-4",
             "player": "Audren Boulic",
-            "winrate": 0.8,
             "commander": [
                 "Tameshi, Reality Architect"
             ],
@@ -333,7 +330,6 @@
             "deck_id": "488964",
             "rank": "3-4",
             "player": "Julien Joie",
-            "winrate": 0.8,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -443,7 +439,6 @@
             "deck_id": "488965",
             "rank": "5-8",
             "player": "Marvin Liozu",
-            "winrate": 0.6,
             "commander": [
                 "Samut, Voice of Dissent"
             ],
@@ -552,7 +547,6 @@
             "deck_id": "488966",
             "rank": "5-8",
             "player": "Paul Séronie-vivien",
-            "winrate": 0.6,
             "commander": [
                 "Noble Heritage",
                 "Gut, True Soul Zealot"
@@ -654,7 +648,6 @@
             "deck_id": "488967",
             "rank": "5-8",
             "player": "Eric Vanderrusten",
-            "winrate": 0.6,
             "commander": [
                 "Leovold, Emissary of Trest"
             ],
@@ -764,7 +757,6 @@
             "deck_id": "488968",
             "rank": "5-8",
             "player": "Maxime Clavel",
-            "winrate": 0.6,
             "commander": [
                 "Isamaru, Hound of Konda"
             ],

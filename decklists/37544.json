@@ -10,7 +10,6 @@
             "deck_id": "481337",
             "rank": "1",
             "player": "Dinno Zaide",
-            "winrate": 1.0,
             "commander": [
                 "Ludevic, Necro-Alchemist",
                 "Jeska, Thrice Reborn"
@@ -110,7 +109,6 @@
             "deck_id": "481338",
             "rank": "2",
             "player": "Christian Agbon",
-            "winrate": 0.8,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -200,7 +198,6 @@
             "deck_id": "481339",
             "rank": "3-4",
             "player": "Joel San Jose, Jr.",
-            "winrate": 0.6,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -309,7 +306,6 @@
             "deck_id": "481340",
             "rank": "3-4",
             "player": "Rexel Tenorio",
-            "winrate": 0.6,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],

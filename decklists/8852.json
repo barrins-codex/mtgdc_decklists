@@ -10,7 +10,6 @@
             "deck_id": "250466",
             "rank": "1",
             "player": "Filip Biman",
-            "winrate": 0.8888888888888888,
             "commander": [
                 "Doran, the Siege Tower"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "250467",
             "rank": "2",
             "player": "Radim Havranek",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Grand Arbiter Augustin IV"
             ],
@@ -209,7 +207,6 @@
             "deck_id": "250468",
             "rank": "3-4",
             "player": "Pavel Sevcik",
-            "winrate": 0.75,
             "commander": [
                 "Anafenza, the Foremost"
             ],
@@ -319,7 +316,6 @@
             "deck_id": "250469",
             "rank": "3-4",
             "player": "Vit Cech",
-            "winrate": 0.75,
             "commander": [
                 "Rafiq of the Many"
             ],
@@ -427,7 +423,6 @@
             "deck_id": "250470",
             "rank": "5-8",
             "player": "Lukas Bayer",
-            "winrate": 0.75,
             "commander": [
                 "Marath, Will of the Wild"
             ],
@@ -537,7 +532,6 @@
             "deck_id": "250471",
             "rank": "5-8",
             "player": "Martin Borek",
-            "winrate": 0.75,
             "commander": [
                 "Geist of Saint Traft"
             ],
@@ -639,7 +633,6 @@
             "deck_id": "250472",
             "rank": "5-8",
             "player": "Jakub Sykora",
-            "winrate": 0.75,
             "commander": [
                 "Titania, Protector of Argoth"
             ],
@@ -730,7 +723,6 @@
             "deck_id": "250473",
             "rank": "5-8",
             "player": "Martin Vlnas",
-            "winrate": 0.75,
             "commander": [
                 "Kaalia of the Vast"
             ],

@@ -10,7 +10,6 @@
             "deck_id": "279890",
             "rank": "5-8",
             "player": "Hancock",
-            "winrate": 0.6,
             "commander": [
                 "Titania, Protector of Argoth"
             ],
@@ -100,7 +99,6 @@
             "deck_id": "279891",
             "rank": "3-4",
             "player": "Aurelien \"Mathan\" Mathias",
-            "winrate": 0.8,
             "commander": [
                 "Prossh, Skyraider of Kher"
             ],
@@ -206,7 +204,6 @@
             "deck_id": "279892",
             "rank": "2",
             "player": "Iris Glane",
-            "winrate": 0.8,
             "commander": [
                 "Leovold, Emissary of Trest"
             ],
@@ -316,7 +313,6 @@
             "deck_id": "279893",
             "rank": "3-4",
             "player": "Kaourintin \"Falaakr\" Le Guiban",
-            "winrate": 0.8,
             "commander": [
                 "Jace, Vryn's Prodigy"
             ],
@@ -399,7 +395,6 @@
             "deck_id": "279894",
             "rank": "1",
             "player": "Rimkkk",
-            "winrate": 1.0,
             "commander": [
                 "Queen Marchesa"
             ],
@@ -508,7 +503,6 @@
             "deck_id": "279895",
             "rank": "5-8",
             "player": "Thomas \"Lantariel\" Travert",
-            "winrate": 0.6,
             "commander": [
                 "Nin, the Pain Artist"
             ],
@@ -590,7 +584,6 @@
             "deck_id": "279896",
             "rank": "5-8",
             "player": "Mathieu Cocherel",
-            "winrate": 0.6,
             "commander": [
                 "The Gitrog Monster"
             ],
@@ -689,7 +682,6 @@
             "deck_id": "279897",
             "rank": "5-8",
             "player": "Jeffrey, Remets-nous-des-glaçons",
-            "winrate": 0.6,
             "commander": [
                 "Prossh, Skyraider of Kher"
             ],

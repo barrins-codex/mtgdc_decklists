@@ -10,7 +10,6 @@
             "deck_id": "464231",
             "rank": "1",
             "player": "Christian Agbon",
-            "winrate": 1.0,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -99,7 +98,6 @@
             "deck_id": "464232",
             "rank": "2",
             "player": "Iverson Wayne Bulauan",
-            "winrate": 0.8,
             "commander": [
                 "Queen Marchesa"
             ],
@@ -206,7 +204,6 @@
             "deck_id": "464233",
             "rank": "3-4",
             "player": "Ian Paul Roa",
-            "winrate": 0.6,
             "commander": [
                 "Laelia, the Blade Reforged"
             ],
@@ -293,7 +290,6 @@
             "deck_id": "464234",
             "rank": "3-4",
             "player": "Josh Fuentes",
-            "winrate": 0.6,
             "commander": [
                 "Tevesh Szat, Doom of Fools",
                 "Ishai, Ojutai Dragonspeaker"

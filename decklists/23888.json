@@ -10,7 +10,6 @@
             "deck_id": "366217",
             "rank": "2",
             "player": "Paul Michael Camitan",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "God-Eternal Kefnet"
             ],
@@ -85,7 +84,6 @@
             "deck_id": "366218",
             "rank": "1",
             "player": "Cilbert Corpuz",
-            "winrate": 1.0,
             "commander": [
                 "Kytheon, Hero of Akros"
             ],

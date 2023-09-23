@@ -10,7 +10,6 @@
             "deck_id": "513429",
             "rank": "1",
             "player": "Bor Samsa",
-            "winrate": 1.0,
             "commander": [
                 "Grist, the Hunger Tide"
             ],
@@ -114,7 +113,6 @@
             "deck_id": "513430",
             "rank": "2",
             "player": "Emerik Hodić",
-            "winrate": 0.8,
             "commander": [
                 "Silas Renn, Seeker Adept",
                 "Yoshimaru, Ever Faithful"
@@ -221,7 +219,6 @@
             "deck_id": "513431",
             "rank": "3",
             "player": "Marko tokelj",
-            "winrate": 0.6,
             "commander": [
                 "Prossh, Skyraider of Kher"
             ],
@@ -331,7 +328,6 @@
             "deck_id": "513432",
             "rank": "4",
             "player": "Nikola Ivanievič",
-            "winrate": 0.6,
             "commander": [
                 "Raffine, Scheming Seer"
             ],

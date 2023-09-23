@@ -10,7 +10,6 @@
             "deck_id": "471962",
             "rank": "1",
             "player": "Emeric \"eichimaru\" Durdos",
-            "winrate": 1.0,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "471963",
             "rank": "2",
             "player": "Thibaut Cantaluppi",
-            "winrate": 0.8,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],

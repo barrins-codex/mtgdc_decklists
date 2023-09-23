@@ -10,7 +10,6 @@
             "deck_id": "375008",
             "rank": "2",
             "player": "Julian Hessling",
-            "winrate": 0.8,
             "commander": [
                 "Anax, Hardened in the Forge"
             ],
@@ -96,7 +95,6 @@
             "deck_id": "375009",
             "rank": "2",
             "player": "Martin Gramatzki",
-            "winrate": 0.8,
             "commander": [
                 "Golos, Tireless Pilgrim"
             ],
@@ -206,7 +204,6 @@
             "deck_id": "375010",
             "rank": "1",
             "player": "Sebastian Nußbaum",
-            "winrate": 1.0,
             "commander": [
                 "Leovold, Emissary of Trest"
             ],

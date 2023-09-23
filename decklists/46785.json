@@ -10,7 +10,6 @@
             "deck_id": "545881",
             "rank": "1",
             "player": "Arnaldo Costa",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Saskia the Unyielding"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "545882",
             "rank": "2",
             "player": "Pedro Bianchi",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -230,7 +228,6 @@
             "deck_id": "545883",
             "rank": "3-4",
             "player": "Mateus Tófoli",
-            "winrate": 0.625,
             "commander": [
                 "Bruse Tarl, Boorish Herder",
                 "Yoshimaru, Ever Faithful"
@@ -335,7 +332,6 @@
             "deck_id": "545884",
             "rank": "3-4",
             "player": "Lucas Felix",
-            "winrate": 0.625,
             "commander": [
                 "Sythis, Harvest's Hand"
             ],
@@ -433,7 +429,6 @@
             "deck_id": "545885",
             "rank": "5-8",
             "player": "Ivan Bastos",
-            "winrate": 0.625,
             "commander": [
                 "Aragorn, King of Gondor"
             ],
@@ -538,7 +533,6 @@
             "deck_id": "545886",
             "rank": "5-8",
             "player": "Bruno Peres De Jesus",
-            "winrate": 0.625,
             "commander": [
                 "Tana, the Bloodsower",
                 "Yoshimaru, Ever Faithful"
@@ -649,7 +643,6 @@
             "deck_id": "545887",
             "rank": "5-8",
             "player": "Victor Marques",
-            "winrate": 0.625,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -759,7 +752,6 @@
             "deck_id": "545888",
             "rank": "5-8",
             "player": "Vinícius Lopes",
-            "winrate": 0.625,
             "commander": [
                 "Tivit, Seller of Secrets"
             ],

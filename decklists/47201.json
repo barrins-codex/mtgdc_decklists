@@ -10,7 +10,6 @@
             "deck_id": "548812",
             "rank": "1",
             "player": "Carlos Pires",
-            "winrate": 1.0,
             "commander": [
                 "Ertai Resurrected"
             ],
@@ -103,7 +102,6 @@
             "deck_id": "548813",
             "rank": "2",
             "player": "Ricardo Leite",
-            "winrate": 0.8,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -208,7 +206,6 @@
             "deck_id": "548814",
             "rank": "3-4",
             "player": "Lucas Dias",
-            "winrate": 0.6,
             "commander": [
                 "Aragorn, King of Gondor"
             ],
@@ -315,7 +312,6 @@
             "deck_id": "548815",
             "rank": "3-4",
             "player": "Rafael Fernandes",
-            "winrate": 0.6,
             "commander": [
                 "Feldon, Ronom Excavator"
             ],

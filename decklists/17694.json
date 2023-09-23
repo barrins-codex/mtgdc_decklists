@@ -10,7 +10,6 @@
             "deck_id": "309619",
             "rank": "5-8",
             "player": "David Stepanek",
-            "winrate": 0.8,
             "commander": [
                 "Braids, Cabal Minion"
             ],
@@ -97,7 +96,6 @@
             "deck_id": "309620",
             "rank": "5-8",
             "player": "Vladan Kvac",
-            "winrate": 0.8,
             "commander": [
                 "Prossh, Skyraider of Kher"
             ],
@@ -207,7 +205,6 @@
             "deck_id": "309621",
             "rank": "1",
             "player": "Dominik Maly",
-            "winrate": 1.0,
             "commander": [
                 "Silas Renn, Seeker Adept",
                 "Akiri, Line-Slinger"
@@ -317,7 +314,6 @@
             "deck_id": "309622",
             "rank": "2",
             "player": "Jakub Sykora",
-            "winrate": 0.8,
             "commander": [
                 "Kess, Dissident Mage"
             ],
@@ -427,7 +423,6 @@
             "deck_id": "309623",
             "rank": "3-4",
             "player": "Ales Buben",
-            "winrate": 0.8,
             "commander": [
                 "Prossh, Skyraider of Kher"
             ],
@@ -527,7 +522,6 @@
             "deck_id": "309624",
             "rank": "5-8",
             "player": "Jozef Kutny",
-            "winrate": 0.8,
             "commander": [
                 "Zurgo Bellstriker"
             ],
@@ -608,7 +602,6 @@
             "deck_id": "309625",
             "rank": "3-4",
             "player": "Jiri Pokorny",
-            "winrate": 0.8,
             "commander": [
                 "Tymna the Weaver",
                 "Akiri, Line-Slinger"
@@ -718,7 +711,6 @@
             "deck_id": "309626",
             "rank": "5-8",
             "player": "Vaclav Mysak",
-            "winrate": 0.8,
             "commander": [
                 "Baral, Chief of Compliance"
             ],

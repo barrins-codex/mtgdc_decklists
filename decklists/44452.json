@@ -10,7 +10,6 @@
             "deck_id": "527836",
             "rank": "1",
             "player": "Emmanuel Magat",
-            "winrate": 1.0,
             "commander": [
                 "Isamaru, Hound of Konda"
             ],
@@ -99,7 +98,6 @@
             "deck_id": "527837",
             "rank": "2",
             "player": "Leo Ferraton",
-            "winrate": 0.8,
             "commander": [
                 "Prossh, Skyraider of Kher"
             ],
@@ -209,7 +207,6 @@
             "deck_id": "527838",
             "rank": "3-4",
             "player": "Hugo Chossonerie",
-            "winrate": 0.8,
             "commander": [
                 "Grist, the Hunger Tide"
             ],
@@ -302,7 +299,6 @@
             "deck_id": "527839",
             "rank": "3-4",
             "player": "Stéphane Teisseyre",
-            "winrate": 0.8,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -409,7 +405,6 @@
             "deck_id": "527840",
             "rank": "5-8",
             "player": "Fabrice \"bart\" Bartezaghi",
-            "winrate": 0.6,
             "commander": [
                 "Niv-Mizzet Reborn"
             ],
@@ -519,7 +514,6 @@
             "deck_id": "527841",
             "rank": "5-8",
             "player": "Alexandre Frisson",
-            "winrate": 0.6,
             "commander": [
                 "Kess, Dissident Mage"
             ],
@@ -626,7 +620,6 @@
             "deck_id": "527842",
             "rank": "5-8",
             "player": "Denis \"tatito123\" Mosnier",
-            "winrate": 0.6,
             "commander": [
                 "Feldon, Ronom Excavator"
             ],
@@ -713,7 +706,6 @@
             "deck_id": "527843",
             "rank": "5-8",
             "player": "Loic \"spartaff\" Berthier",
-            "winrate": 0.6,
             "commander": [
                 "Kroxa, Titan of Death's Hunger"
             ],

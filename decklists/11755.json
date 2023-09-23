@@ -10,7 +10,6 @@
             "deck_id": "267018",
             "rank": "1",
             "player": "Tomee Tomelden",
-            "winrate": 0.875,
             "commander": [
                 "Narset, Enlightened Master"
             ],
@@ -115,7 +114,6 @@
             "deck_id": "267019",
             "rank": "2",
             "player": "Nelo Monteverde",
-            "winrate": 0.75,
             "commander": [
                 "Griselbrand"
             ],
@@ -205,7 +203,6 @@
             "deck_id": "267020",
             "rank": "3-4",
             "player": "Edwin Jocson",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Sidisi, Undead Vizier"
             ],
@@ -290,7 +287,6 @@
             "deck_id": "267021",
             "rank": "3-4",
             "player": "Mark Penaflorida",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Kaalia of the Vast"
             ],
@@ -400,7 +396,6 @@
             "deck_id": "267022",
             "rank": "5-8",
             "player": "Ed Tanyag",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Animar, Soul of Elements"
             ],
@@ -507,7 +502,6 @@
             "deck_id": "267023",
             "rank": "5-8",
             "player": "Ste Villaraza",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Surrak Dragonclaw"
             ],
@@ -610,7 +604,6 @@
             "deck_id": "267024",
             "rank": "5-8",
             "player": "Janji Naling",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Anafenza, the Foremost"
             ],
@@ -720,7 +713,6 @@
             "deck_id": "267025",
             "rank": "5-8",
             "player": "Ramil, Apa-ap",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Skithiryx, the Blight Dragon"
             ],

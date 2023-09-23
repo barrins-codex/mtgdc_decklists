@@ -10,7 +10,6 @@
             "deck_id": "457829",
             "rank": "1",
             "player": "Patrick Padilla",
-            "winrate": 1.0,
             "commander": [
                 "Hogaak, Arisen Necropolis"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "457830",
             "rank": "2",
             "player": "Elijah Guevara",
-            "winrate": 0.8,
             "commander": [
                 "Klothys, God of Destiny"
             ],
@@ -214,7 +212,6 @@
             "deck_id": "457831",
             "rank": "3-4",
             "player": "Reuben Ferrer",
-            "winrate": 0.8,
             "commander": [
                 "Ikra Shidiqi, the Usurper",
                 "Tevesh Szat, Doom of Fools"
@@ -304,7 +301,6 @@
             "deck_id": "457832",
             "rank": "3-4",
             "player": "Edwinn Chua",
-            "winrate": 0.8,
             "commander": [
                 "Doran, the Siege Tower"
             ],

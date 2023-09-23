@@ -10,7 +10,6 @@
             "deck_id": "265175",
             "rank": "5-8",
             "player": "Janji Naling",
-            "winrate": 0.75,
             "commander": [
                 "Anafenza, the Foremost"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "265176",
             "rank": "5-8",
             "player": "Blas Anthony Yu",
-            "winrate": 0.75,
             "commander": [
                 "Marath, Will of the Wild"
             ],
@@ -230,7 +228,6 @@
             "deck_id": "265177",
             "rank": "1",
             "player": "Jeff Leal",
-            "winrate": 0.8888888888888888,
             "commander": [
                 "Animar, Soul of Elements"
             ],
@@ -333,7 +330,6 @@
             "deck_id": "265178",
             "rank": "1",
             "player": "Earl Castel",
-            "winrate": 0.8888888888888888,
             "commander": [
                 "Sidisi, Undead Vizier"
             ],
@@ -414,7 +410,6 @@
             "deck_id": "265179",
             "rank": "5-8",
             "player": "Israel Rodriguez",
-            "winrate": 0.75,
             "commander": [
                 "Jenara, Asura of War"
             ],
@@ -519,7 +514,6 @@
             "deck_id": "265180",
             "rank": "5-8",
             "player": "Jun Era Cabezudo",
-            "winrate": 0.75,
             "commander": [
                 "Tasigur, the Golden Fang"
             ],
@@ -626,7 +620,6 @@
             "deck_id": "265181",
             "rank": "1",
             "player": "Edwin Jocson",
-            "winrate": 0.8888888888888888,
             "commander": [
                 "Sidisi, Undead Vizier"
             ],
@@ -711,7 +704,6 @@
             "deck_id": "265182",
             "rank": "1",
             "player": "Josh Fuentes",
-            "winrate": 0.8888888888888888,
             "commander": [
                 "Thrun, the Last Troll"
             ],

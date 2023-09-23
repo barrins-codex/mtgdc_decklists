@@ -10,7 +10,6 @@
             "deck_id": "300462",
             "rank": "5-8",
             "player": "Petr Luzakov",
-            "winrate": 0.6,
             "commander": [
                 "Yahenni, Undying Partisan"
             ],
@@ -100,7 +99,6 @@
             "deck_id": "300463",
             "rank": "5-8",
             "player": "Nikolay Krylov",
-            "winrate": 0.6,
             "commander": [
                 "Baral, Chief of Compliance"
             ],
@@ -182,7 +180,6 @@
             "deck_id": "300464",
             "rank": "5-8",
             "player": "Dmitry Fedorov",
-            "winrate": 0.6,
             "commander": [
                 "Karlov of the Ghost Council"
             ],
@@ -283,7 +280,6 @@
             "deck_id": "300465",
             "rank": "5-8",
             "player": "Dmitry Zelyanin",
-            "winrate": 0.6,
             "commander": [
                 "Bruse Tarl, Boorish Herder",
                 "Reyhan, Last of the Abzan"
@@ -393,7 +389,6 @@
             "deck_id": "300466",
             "rank": "3-4",
             "player": "Philipp Grabovoy",
-            "winrate": 0.8,
             "commander": [
                 "Bruse Tarl, Boorish Herder",
                 "Kraum, Ludevic's Opus"
@@ -499,7 +494,6 @@
             "deck_id": "300467",
             "rank": "1",
             "player": "Mikhail Protasov",
-            "winrate": 1.0,
             "commander": [
                 "Atraxa, Praetors' Voice"
             ],
@@ -609,7 +603,6 @@
             "deck_id": "300468",
             "rank": "2",
             "player": "Mikhail Shabalov",
-            "winrate": 0.8,
             "commander": [
                 "Bruse Tarl, Boorish Herder",
                 "Tymna the Weaver"
@@ -717,7 +710,6 @@
             "deck_id": "300469",
             "rank": "3-4",
             "player": "Sergey Putilov",
-            "winrate": 0.8,
             "commander": [
                 "Titania, Protector of Argoth"
             ],

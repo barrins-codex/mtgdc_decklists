@@ -10,7 +10,6 @@
             "deck_id": "264200",
             "rank": "2",
             "player": "Kaourintin Le Guiban",
-            "winrate": 0.8,
             "commander": [
                 "Narset, Enlightened Master"
             ],
@@ -116,7 +115,6 @@
             "deck_id": "264201",
             "rank": "3-4",
             "player": "Johan Archinard",
-            "winrate": 0.8,
             "commander": [
                 "Talrand, Sky Summoner"
             ],
@@ -200,7 +198,6 @@
             "deck_id": "264202",
             "rank": "3-4",
             "player": "Victor Capron",
-            "winrate": 0.8,
             "commander": [
                 "Sidisi, Undead Vizier"
             ],
@@ -283,7 +280,6 @@
             "deck_id": "264219",
             "rank": "1",
             "player": "Alexander \"newtraderdu78\" Loskoutoff",
-            "winrate": 1.0,
             "commander": [
                 "Tasigur, the Golden Fang"
             ],

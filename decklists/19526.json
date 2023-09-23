@@ -10,7 +10,6 @@
             "deck_id": "324898",
             "rank": "3-4",
             "player": "Zurgo Bellstriker",
-            "winrate": 0.8,
             "commander": [
                 "Zurgo Bellstriker"
             ],
@@ -91,7 +90,6 @@
             "deck_id": "324899",
             "rank": "3-4",
             "player": "James Larking",
-            "winrate": 0.8,
             "commander": [
                 "Taigam, Ojutai Master"
             ],
@@ -187,7 +185,6 @@
             "deck_id": "324900",
             "rank": "2",
             "player": "Michael Wong",
-            "winrate": 0.8,
             "commander": [
                 "Kess, Dissident Mage"
             ],
@@ -293,7 +290,6 @@
             "deck_id": "325547",
             "rank": "1",
             "player": "Colin Anderson",
-            "winrate": 1.0,
             "commander": [
                 "Leovold, Emissary of Trest"
             ],

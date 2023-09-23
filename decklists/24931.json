@@ -10,7 +10,6 @@
             "deck_id": "374500",
             "rank": "3-4",
             "player": "Oreshkin Dmitry",
-            "winrate": 0.6,
             "commander": [
                 "Anax, Hardened in the Forge"
             ],
@@ -89,7 +88,6 @@
             "deck_id": "374501",
             "rank": "3-4",
             "player": "Smirnov Alexander",
-            "winrate": 0.6,
             "commander": [
                 "Kess, Dissident Mage"
             ],
@@ -194,7 +192,6 @@
             "deck_id": "374502",
             "rank": "2",
             "player": "Mesheriakov Maxim",
-            "winrate": 0.8,
             "commander": [
                 "Uro, Titan of Nature's Wrath"
             ],
@@ -299,7 +296,6 @@
             "deck_id": "374503",
             "rank": "1",
             "player": "Gusev Denis",
-            "winrate": 1.0,
             "commander": [
                 "Golos, Tireless Pilgrim"
             ],

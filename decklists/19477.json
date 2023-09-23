@@ -10,7 +10,6 @@
             "deck_id": "324394",
             "rank": "3-4",
             "player": "Simon M.",
-            "winrate": 0.6,
             "commander": [
                 "Tana, the Bloodsower",
                 "Reyhan, Last of the Abzan"
@@ -120,7 +119,6 @@
             "deck_id": "324395",
             "rank": "2",
             "player": "Sebastian S.",
-            "winrate": 0.8,
             "commander": [
                 "Keranos, God of Storms"
             ],
@@ -206,7 +204,6 @@
             "deck_id": "324396",
             "rank": "1",
             "player": "Marc B.",
-            "winrate": 1.0,
             "commander": [
                 "Titania, Protector of Argoth"
             ],

@@ -10,7 +10,6 @@
             "deck_id": "524552",
             "rank": "1",
             "player": "Vinícius Lopes",
-            "winrate": 1.0,
             "commander": [
                 "Tivit, Seller of Secrets"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "524553",
             "rank": "2",
             "player": "Alexandre Chiaroni",
-            "winrate": 0.8,
             "commander": [
                 "Kinnan, Bonder Prodigy"
             ],
@@ -219,7 +217,6 @@
             "deck_id": "524554",
             "rank": "3",
             "player": "Felipe Gonçalves",
-            "winrate": 0.6,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -329,7 +326,6 @@
             "deck_id": "524555",
             "rank": "4",
             "player": "Tchesco",
-            "winrate": 0.6,
             "commander": [
                 "Ebondeath, Dracolich"
             ],

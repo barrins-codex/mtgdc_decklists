@@ -10,7 +10,6 @@
             "deck_id": "521611",
             "rank": "1",
             "player": "Maximilien Potel",
-            "winrate": 1.0,
             "commander": [
                 "Sythis, Harvest's Hand"
             ],
@@ -105,7 +104,6 @@
             "deck_id": "521612",
             "rank": "2",
             "player": "Hugo Fremont",
-            "winrate": 0.8,
             "commander": [
                 "Grist, the Hunger Tide"
             ],
@@ -204,7 +202,6 @@
             "deck_id": "521613",
             "rank": "3-4",
             "player": "Flavien Vérité",
-            "winrate": 0.8,
             "commander": [
                 "Yoshimaru, Ever Faithful",
                 "Tana, the Bloodsower"
@@ -313,7 +310,6 @@
             "deck_id": "521614",
             "rank": "3-4",
             "player": "Thibault Buisson",
-            "winrate": 0.8,
             "commander": [
                 "Wilson, Refined Grizzly",
                 "Sword Coast Sailor"

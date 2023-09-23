@@ -10,7 +10,6 @@
             "deck_id": "482520",
             "rank": "1",
             "player": "Felipe \"the Raizen\" Santos",
-            "winrate": 1.0,
             "commander": [
                 "Magda, Brazen Outlaw"
             ],
@@ -97,7 +96,6 @@
             "deck_id": "482521",
             "rank": "2",
             "player": "Marcelo Ruas",
-            "winrate": 0.8,
             "commander": [
                 "Ezuri, Renegade Leader"
             ],
@@ -184,7 +182,6 @@
             "deck_id": "482522",
             "rank": "3",
             "player": "Euro Figueiredo",
-            "winrate": 0.8,
             "commander": [
                 "Arcum Dagsson"
             ],
@@ -270,7 +267,6 @@
             "deck_id": "482523",
             "rank": "6",
             "player": "Fernando \"yprincipe\" Martin",
-            "winrate": 0.6,
             "commander": [
                 "Klothys, God of Destiny"
             ],
@@ -368,7 +364,6 @@
             "deck_id": "482524",
             "rank": "5",
             "player": "Orlando Bibiano",
-            "winrate": 0.6,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -478,7 +473,6 @@
             "deck_id": "482525",
             "rank": "4",
             "player": "Carlos Pires",
-            "winrate": 0.6,
             "commander": [
                 "Jeska, Thrice Reborn",
                 "Ludevic, Necro-Alchemist"

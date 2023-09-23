@@ -10,7 +10,6 @@
             "deck_id": "283652",
             "rank": "3-4",
             "player": "Ghuilherme \"Demonic Tutor\" Machadi",
-            "winrate": 0.8,
             "commander": [
                 "Wydwen, the Biting Gale"
             ],
@@ -103,7 +102,6 @@
             "deck_id": "283653",
             "rank": "3-4",
             "player": "Lucas Caparroz",
-            "winrate": 0.8,
             "commander": [
                 "Maelstrom Wanderer"
             ],
@@ -206,7 +204,6 @@
             "deck_id": "283654",
             "rank": "1",
             "player": "Fábio Gavazzi",
-            "winrate": 1.0,
             "commander": [
                 "Saskia the Unyielding"
             ],
@@ -316,7 +313,6 @@
             "deck_id": "283655",
             "rank": "2",
             "player": "Matheus Hruschka",
-            "winrate": 0.8,
             "commander": [
                 "Drana, Liberator of Malakir"
             ],
@@ -403,7 +399,6 @@
             "deck_id": "283656",
             "rank": "5-8",
             "player": "Miguel rossi",
-            "winrate": 0.6,
             "commander": [
                 "Titania, Protector of Argoth"
             ],
@@ -492,7 +487,6 @@
             "deck_id": "283657",
             "rank": "5-8",
             "player": "Bruno Karam",
-            "winrate": 0.6,
             "commander": [
                 "Titania, Protector of Argoth"
             ],
@@ -582,7 +576,6 @@
             "deck_id": "283658",
             "rank": "5-8",
             "player": "Linecker Kurebayashi",
-            "winrate": 0.6,
             "commander": [
                 "Vial Smasher the Fierce"
             ],

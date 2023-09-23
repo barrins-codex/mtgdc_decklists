@@ -10,7 +10,6 @@
             "deck_id": "475104",
             "rank": "1",
             "player": "Maxime Morillon",
-            "winrate": 0.8888888888888888,
             "commander": [
                 "Dennick, Pious Apprentice"
             ],
@@ -113,7 +112,6 @@
             "deck_id": "475105",
             "rank": "2",
             "player": "Baptiste Dumas",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -219,7 +217,6 @@
             "deck_id": "475106",
             "rank": "3",
             "player": "Thibaut Bredzinski",
-            "winrate": 0.75,
             "commander": [
                 "Tivit, Seller of Secrets"
             ],
@@ -329,7 +326,6 @@
             "deck_id": "475107",
             "rank": "4",
             "player": "Paul Ridoux",
-            "winrate": 0.75,
             "commander": [
                 "Golos, Tireless Pilgrim"
             ],
@@ -439,7 +435,6 @@
             "deck_id": "475108",
             "rank": "5",
             "player": "Mickael Leglise",
-            "winrate": 0.75,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -524,7 +519,6 @@
             "deck_id": "475109",
             "rank": "6",
             "player": "Raphael Preau",
-            "winrate": 0.75,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -609,7 +603,6 @@
             "deck_id": "475110",
             "rank": "7",
             "player": "Cedric Allemandou",
-            "winrate": 0.75,
             "commander": [
                 "Niv-Mizzet Reborn"
             ],
@@ -719,7 +712,6 @@
             "deck_id": "475111",
             "rank": "8",
             "player": "Fredy Tjeck",
-            "winrate": 0.75,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],

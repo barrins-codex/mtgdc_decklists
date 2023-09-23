@@ -10,7 +10,6 @@
             "deck_id": "539019",
             "rank": "1",
             "player": "Gaper Moderc",
-            "winrate": 1.0,
             "commander": [
                 "Aragorn, King of Gondor"
             ],
@@ -116,7 +115,6 @@
             "deck_id": "539020",
             "rank": "2",
             "player": "Emerik Hodić",
-            "winrate": 0.8,
             "commander": [
                 "Atraxa, Grand Unifier"
             ],

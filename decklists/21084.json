@@ -10,7 +10,6 @@
             "deck_id": "340194",
             "rank": "2",
             "player": "Björn Hofmann",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Reyhan, Last of the Abzan",
                 "Tymna the Weaver"
@@ -116,7 +115,6 @@
             "deck_id": "340195",
             "rank": "1",
             "player": "Christopher Caruso",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Jenara, Asura of War"
             ],
@@ -225,7 +223,6 @@
             "deck_id": "340196",
             "rank": "5-8",
             "player": "Luis Kamper",
-            "winrate": 0.625,
             "commander": [
                 "Leovold, Emissary of Trest"
             ],
@@ -335,7 +332,6 @@
             "deck_id": "340197",
             "rank": "5-8",
             "player": "Alexander Schmoll",
-            "winrate": 0.625,
             "commander": [
                 "Karlov of the Ghost Council"
             ],
@@ -438,7 +434,6 @@
             "deck_id": "340198",
             "rank": "5-8",
             "player": "Daniel Brixius",
-            "winrate": 0.625,
             "commander": [
                 "Adeliz, the Cinder Wind"
             ],
@@ -531,7 +526,6 @@
             "deck_id": "340199",
             "rank": "3-4",
             "player": "Sebastian Haines",
-            "winrate": 0.625,
             "commander": [
                 "Leovold, Emissary of Trest"
             ],
@@ -641,7 +635,6 @@
             "deck_id": "340200",
             "rank": "5-8",
             "player": "Samuel Zobeley",
-            "winrate": 0.625,
             "commander": [
                 "Ludevic, Necro-Alchemist",
                 "Thrasios, Triton Hero"
@@ -748,7 +741,6 @@
             "deck_id": "340201",
             "rank": "3-4",
             "player": "Julian Heßling",
-            "winrate": 0.625,
             "commander": [
                 "Sylvia Brightspear",
                 "Khorvath Brightflame"

@@ -10,7 +10,6 @@
             "deck_id": "503332",
             "rank": "1",
             "player": "Alexandre Benac",
-            "winrate": 0.9,
             "commander": [
                 "Hogaak, Arisen Necropolis"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "503333",
             "rank": "2",
             "player": "Alexis Dumay",
-            "winrate": 0.8,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -230,7 +228,6 @@
             "deck_id": "503334",
             "rank": "3-4",
             "player": "Fabien Bonfante",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Bruse Tarl, Boorish Herder",
                 "Yoshimaru, Ever Faithful"
@@ -333,7 +330,6 @@
             "deck_id": "503335",
             "rank": "3-4",
             "player": "Florian Trotte",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Golos, Tireless Pilgrim"
             ],
@@ -443,7 +439,6 @@
             "deck_id": "503336",
             "rank": "5-8",
             "player": "Mathieu Dekneudt",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Niv-Mizzet Reborn"
             ],
@@ -553,7 +548,6 @@
             "deck_id": "503337",
             "rank": "5-8",
             "player": "Jules Lestienne",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Wernog, Rider's Chaplain",
                 "Cecily, Haunted Mage"
@@ -663,7 +657,6 @@
             "deck_id": "503338",
             "rank": "5-8",
             "player": "Adrien Houssard",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Balmor, Battlemage Captain"
             ],
@@ -761,7 +754,6 @@
             "deck_id": "503339",
             "rank": "5-8",
             "player": "Thomas Bagdadlian",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Dihada, Binder of Wills"
             ],

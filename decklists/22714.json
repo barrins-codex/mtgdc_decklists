@@ -10,7 +10,6 @@
             "deck_id": "355095",
             "rank": "3-4",
             "player": "Miguel \"pitez\" Zulueta",
-            "winrate": 0.8,
             "commander": [
                 "Teysa, Orzhov Scion"
             ],
@@ -111,7 +110,6 @@
             "deck_id": "355096",
             "rank": "3-4",
             "player": "Hermilio Rosas",
-            "winrate": 0.8,
             "commander": [
                 "Niv-Mizzet Reborn"
             ],
@@ -221,7 +219,6 @@
             "deck_id": "355097",
             "rank": "2",
             "player": "Juan Carlos \"diva\" Quispe",
-            "winrate": 0.8,
             "commander": [
                 "Tajic, Legion's Edge"
             ],
@@ -319,7 +316,6 @@
             "deck_id": "355098",
             "rank": "1",
             "player": "Justo Chacón",
-            "winrate": 1.0,
             "commander": [
                 "Urza, Lord High Artificer"
             ],

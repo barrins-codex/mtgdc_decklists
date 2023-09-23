@@ -10,7 +10,6 @@
             "deck_id": "527320",
             "rank": "1",
             "player": "Rj Sanchez",
-            "winrate": 1.0,
             "commander": [
                 "Hogaak, Arisen Necropolis"
             ],
@@ -118,7 +117,6 @@
             "deck_id": "527321",
             "rank": "2",
             "player": "Renz Banez",
-            "winrate": 0.8,
             "commander": [
                 "Grist, the Hunger Tide"
             ],
@@ -217,7 +215,6 @@
             "deck_id": "527322",
             "rank": "3-4",
             "player": "Ryan Beley",
-            "winrate": 0.8,
             "commander": [
                 "Grist, the Hunger Tide"
             ],
@@ -320,7 +317,6 @@
             "deck_id": "527323",
             "rank": "3-4",
             "player": "Ace Herrera",
-            "winrate": 0.8,
             "commander": [
                 "Ghyrson Starn, Kelermorph"
             ],
@@ -424,7 +420,6 @@
             "deck_id": "527324",
             "rank": "5-8",
             "player": "Lawrence Errol Tales",
-            "winrate": 0.6,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -534,7 +529,6 @@
             "deck_id": "527325",
             "rank": "5-8",
             "player": "Alex Romero",
-            "winrate": 0.6,
             "commander": [
                 "Kroxa, Titan of Death's Hunger"
             ],
@@ -639,7 +633,6 @@
             "deck_id": "527326",
             "rank": "5-8",
             "player": "Ranier Maglantay",
-            "winrate": 0.6,
             "commander": [
                 "Tana, the Bloodsower",
                 "Yoshimaru, Ever Faithful"
@@ -747,7 +740,6 @@
             "deck_id": "527327",
             "rank": "5-8",
             "player": "Eton Del Moro",
-            "winrate": 0.6,
             "commander": [
                 "Dihada, Binder of Wills"
             ],

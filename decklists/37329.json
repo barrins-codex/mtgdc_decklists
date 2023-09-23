@@ -10,7 +10,6 @@
             "deck_id": "479938",
             "rank": "1",
             "player": "Hugo Eteradossi",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Maelstrom Wanderer"
             ],
@@ -118,7 +117,6 @@
             "deck_id": "479939",
             "rank": "2",
             "player": "Mael Paillier",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Jenara, Asura of War"
             ],
@@ -222,7 +220,6 @@
             "deck_id": "479940",
             "rank": "3-4",
             "player": "Kévin Jouet",
-            "winrate": 0.625,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -332,7 +329,6 @@
             "deck_id": "479941",
             "rank": "3-4",
             "player": "Damien Fragé",
-            "winrate": 0.625,
             "commander": [
                 "Niv-Mizzet Reborn"
             ],
@@ -442,7 +438,6 @@
             "deck_id": "479942",
             "rank": "5-8",
             "player": "Grégory Bradol",
-            "winrate": 0.625,
             "commander": [
                 "Tivit, Seller of Secrets"
             ],
@@ -552,7 +547,6 @@
             "deck_id": "479943",
             "rank": "5-8",
             "player": "Maxime Allée",
-            "winrate": 0.625,
             "commander": [
                 "Grist, the Hunger Tide"
             ],
@@ -652,7 +646,6 @@
             "deck_id": "479944",
             "rank": "5-8",
             "player": "Florian Foch",
-            "winrate": 0.625,
             "commander": [
                 "Dennick, Pious Apprentice"
             ],
@@ -754,7 +747,6 @@
             "deck_id": "479945",
             "rank": "5-8",
             "player": "Robin Angebaud",
-            "winrate": 0.625,
             "commander": [
                 "Tivit, Seller of Secrets"
             ],

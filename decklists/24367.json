@@ -10,7 +10,6 @@
             "deck_id": "370197",
             "rank": "4",
             "player": "Koraysh (grégoire Payan)",
-            "winrate": 0.6,
             "commander": [
                 "Sai, Master Thopterist"
             ],
@@ -98,7 +97,6 @@
             "deck_id": "370198",
             "rank": "3",
             "player": "Bobota (quentin Rullaud)",
-            "winrate": 0.8,
             "commander": [
                 "Hogaak, Arisen Necropolis"
             ],
@@ -208,7 +206,6 @@
             "deck_id": "370199",
             "rank": "1",
             "player": "Carpenters",
-            "winrate": 1.0,
             "commander": [
                 "Akiri, Line-Slinger",
                 "Silas Renn, Seeker Adept"
@@ -318,7 +315,6 @@
             "deck_id": "370200",
             "rank": "2",
             "player": "Yaugzebul (romain Testaert)",
-            "winrate": 0.8,
             "commander": [
                 "Azami, Lady of Scrolls"
             ],

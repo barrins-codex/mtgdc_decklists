@@ -10,7 +10,6 @@
             "deck_id": "361549",
             "rank": "3-4",
             "player": "Carlier P.",
-            "winrate": 0.8,
             "commander": [
                 "Silas Renn, Seeker Adept",
                 "Akiri, Line-Slinger"
@@ -120,7 +119,6 @@
             "deck_id": "361550",
             "rank": "3-4",
             "player": "Beguin Y.",
-            "winrate": 0.8,
             "commander": [
                 "Grand Arbiter Augustin IV"
             ],
@@ -206,7 +204,6 @@
             "deck_id": "361551",
             "rank": "2",
             "player": "Pestel A.",
-            "winrate": 0.8,
             "commander": [
                 "Isamaru, Hound of Konda"
             ],
@@ -290,7 +287,6 @@
             "deck_id": "361552",
             "rank": "1",
             "player": "Soyer-leroy A.",
-            "winrate": 1.0,
             "commander": [
                 "Dragonlord Ojutai"
             ],

@@ -10,7 +10,6 @@
             "deck_id": "452241",
             "rank": "1",
             "player": "Randy Mestiola",
-            "winrate": 1.0,
             "commander": [
                 "Azusa, Lost but Seeking"
             ],
@@ -109,7 +108,6 @@
             "deck_id": "452242",
             "rank": "2",
             "player": "Rovi Casado",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Sai, Master Thopterist"
             ],

@@ -10,7 +10,6 @@
             "deck_id": "535817",
             "rank": "1",
             "player": "Julien Borkowski",
-            "winrate": 1.0,
             "commander": [
                 "Kroxa, Titan of Death's Hunger"
             ],
@@ -115,7 +114,6 @@
             "deck_id": "535818",
             "rank": "2",
             "player": "Eliott Vivier",
-            "winrate": 0.8,
             "commander": [
                 "Ghyrson Starn, Kelermorph"
             ],
@@ -214,7 +212,6 @@
             "deck_id": "535819",
             "rank": "3-4",
             "player": "Robin Ollagnier",
-            "winrate": 0.8,
             "commander": [
                 "Feldon, Ronom Excavator"
             ],
@@ -302,7 +299,6 @@
             "deck_id": "535820",
             "rank": "3-4",
             "player": "Thibaud Bétencourt",
-            "winrate": 0.8,
             "commander": [
                 "Ertai Resurrected"
             ],
@@ -406,7 +402,6 @@
             "deck_id": "535821",
             "rank": "5-8",
             "player": "Paul Fermé",
-            "winrate": 0.6,
             "commander": [
                 "Octavia, Living Thesis"
             ],
@@ -494,7 +489,6 @@
             "deck_id": "535822",
             "rank": "5-8",
             "player": "Julien Schneider",
-            "winrate": 0.6,
             "commander": [
                 "Light-Paws, Emperor's Voice"
             ],
@@ -576,7 +570,6 @@
             "deck_id": "535823",
             "rank": "5-8",
             "player": "Yann Belmer",
-            "winrate": 0.6,
             "commander": [
                 "Saint Traft and Rem Karolus"
             ],
@@ -684,7 +677,6 @@
             "deck_id": "535824",
             "rank": "5-8",
             "player": "Idris Gil",
-            "winrate": 0.6,
             "commander": [
                 "Raffine, Scheming Seer"
             ],

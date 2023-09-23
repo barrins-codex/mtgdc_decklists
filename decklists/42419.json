@@ -10,7 +10,6 @@
             "deck_id": "514043",
             "rank": "1",
             "player": "Victor Marques",
-            "winrate": 1.0,
             "commander": [
                 "Dihada, Binder of Wills"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "514044",
             "rank": "2",
             "player": "Felipe Cruz",
-            "winrate": 0.8,
             "commander": [
                 "Feldon, Ronom Excavator"
             ],
@@ -207,7 +205,6 @@
             "deck_id": "514045",
             "rank": "3",
             "player": "Mateus Tomé",
-            "winrate": 0.8,
             "commander": [
                 "Light-Paws, Emperor's Voice"
             ],
@@ -295,7 +292,6 @@
             "deck_id": "514046",
             "rank": "4",
             "player": "Pedro Bianchi",
-            "winrate": 0.8,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -401,7 +397,6 @@
             "deck_id": "514047",
             "rank": "5",
             "player": "Felipe Gonçalves",
-            "winrate": 0.6,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -511,7 +506,6 @@
             "deck_id": "514048",
             "rank": "6",
             "player": "Cromado",
-            "winrate": 0.6,
             "commander": [
                 "Niv-Mizzet Reborn"
             ],
@@ -621,7 +615,6 @@
             "deck_id": "514049",
             "rank": "7",
             "player": "Eric Alvarenga",
-            "winrate": 0.6,
             "commander": [
                 "Prossh, Skyraider of Kher"
             ],
@@ -728,7 +721,6 @@
             "deck_id": "514050",
             "rank": "8",
             "player": "Arnaldo Costa",
-            "winrate": 0.6,
             "commander": [
                 "Minsc, Beloved Ranger"
             ],

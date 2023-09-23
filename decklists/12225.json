@@ -10,7 +10,6 @@
             "deck_id": "270345",
             "rank": "1",
             "player": "Alex Maccolini",
-            "winrate": 1.0,
             "commander": [
                 "Keranos, God of Storms"
             ],
@@ -96,7 +95,6 @@
             "deck_id": "270346",
             "rank": "2",
             "player": "Matteo Marinelli",
-            "winrate": 0.8,
             "commander": [
                 "Kaalia of the Vast"
             ],
@@ -206,7 +204,6 @@
             "deck_id": "270347",
             "rank": "3-4",
             "player": "Fabio d'Ambrosio",
-            "winrate": 0.8,
             "commander": [
                 "Narset, Enlightened Master"
             ],
@@ -309,7 +306,6 @@
             "deck_id": "270348",
             "rank": "3-4",
             "player": "Yari Arena",
-            "winrate": 0.8,
             "commander": [
                 "Titania, Protector of Argoth"
             ],

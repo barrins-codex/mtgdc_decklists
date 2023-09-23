@@ -10,7 +10,6 @@
             "deck_id": "366331",
             "rank": "2",
             "player": "Guillaume \"Cleomene\" Caillez",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Kess, Dissident Mage"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "366332",
             "rank": "1",
             "player": "Grégoire \"Koraysh\" Payan",
-            "winrate": 1.0,
             "commander": [
                 "Hogaak, Arisen Necropolis"
             ],

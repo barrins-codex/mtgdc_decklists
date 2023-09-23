@@ -10,7 +10,6 @@
             "deck_id": "505335",
             "rank": "1",
             "player": "Paul Relativo",
-            "winrate": 0.9,
             "commander": [
                 "Niv-Mizzet Reborn"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "505336",
             "rank": "2",
             "player": "Ste Villaraza",
-            "winrate": 0.8,
             "commander": [
                 "Elminster"
             ],
@@ -219,7 +217,6 @@
             "deck_id": "505337",
             "rank": "3-4",
             "player": "Dinno Zaide",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Ghyrson Starn, Kelermorph"
             ],
@@ -320,7 +317,6 @@
             "deck_id": "505338",
             "rank": "3-4",
             "player": "Martin Marcelo",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Ghyrson Starn, Kelermorph"
             ],
@@ -424,7 +420,6 @@
             "deck_id": "505339",
             "rank": "5-8",
             "player": "Earl Castel",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Old Stickfingers"
             ],
@@ -528,7 +523,6 @@
             "deck_id": "505340",
             "rank": "5-8",
             "player": "Roi \"subok Lang\" Dagang",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Klothys, God of Destiny"
             ],
@@ -631,7 +625,6 @@
             "deck_id": "505341",
             "rank": "5-8",
             "player": "Pepelepew",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -741,7 +734,6 @@
             "deck_id": "505342",
             "rank": "5-8",
             "player": "John Daroen Sahagun",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Elminster"
             ],

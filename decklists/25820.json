@@ -10,7 +10,6 @@
             "deck_id": "392641",
             "rank": "1",
             "player": "Alexis \"aztarot\"",
-            "winrate": 1.0,
             "commander": [
                 "Aphemia, the Cacophony"
             ],
@@ -94,7 +93,6 @@
             "deck_id": "392642",
             "rank": "2",
             "player": "Cristian Leiva",
-            "winrate": 0.8,
             "commander": [
                 "Lurrus of the Dream-Den",
                 "Karlov of the Ghost Council"
@@ -199,7 +197,6 @@
             "deck_id": "392643",
             "rank": "3-4",
             "player": "Miguel A. Zulueta\t\"mazr\"",
-            "winrate": 0.8,
             "commander": [
                 "Teysa, Orzhov Scion"
             ],
@@ -297,7 +294,6 @@
             "deck_id": "392644",
             "rank": "3-4",
             "player": "Bastien Guichard",
-            "winrate": 0.8,
             "commander": [
                 "Isamaru, Hound of Konda"
             ],

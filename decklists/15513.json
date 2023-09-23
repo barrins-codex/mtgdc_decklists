@@ -10,7 +10,6 @@
             "deck_id": "294576",
             "rank": "5-8",
             "player": "Jorge \"chungapedido\" Chunga Liu",
-            "winrate": 0.6,
             "commander": [
                 "Saskia the Unyielding"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "294577",
             "rank": "5-8",
             "player": "Claudio \"chamo\" Naranjo",
-            "winrate": 0.6,
             "commander": [
                 "Zurgo Bellstriker"
             ],
@@ -203,7 +201,6 @@
             "deck_id": "294578",
             "rank": "5-8",
             "player": "Carlos \"me Concedes?\" Noriega",
-            "winrate": 0.6,
             "commander": [
                 "Jace, Vryn's Prodigy"
             ],
@@ -279,7 +276,6 @@
             "deck_id": "294579",
             "rank": "5-8",
             "player": "Freddy \"carlos2\" Pittman",
-            "winrate": 0.6,
             "commander": [
                 "Titania, Protector of Argoth"
             ],
@@ -373,7 +369,6 @@
             "deck_id": "294580",
             "rank": "3-4",
             "player": "Manuel \"pos Hombre\" Caamaño",
-            "winrate": 0.8,
             "commander": [
                 "Geist of Saint Traft"
             ],
@@ -473,7 +468,6 @@
             "deck_id": "294581",
             "rank": "3-4",
             "player": "Enrique \"ike\" Meza",
-            "winrate": 0.8,
             "commander": [
                 "Leovold, Emissary of Trest"
             ],
@@ -582,7 +576,6 @@
             "deck_id": "294582",
             "rank": "2",
             "player": "Christian \"cristina\" Dammert",
-            "winrate": 0.8,
             "commander": [
                 "Narset, Enlightened Master"
             ],
@@ -687,7 +680,6 @@
             "deck_id": "294583",
             "rank": "1",
             "player": "Alessandro \"chipubandida\" Chipulina",
-            "winrate": 1.0,
             "commander": [
                 "Zurgo Bellstriker"
             ],

@@ -10,7 +10,6 @@
             "deck_id": "455975",
             "rank": "1",
             "player": "Leonardo Maeda",
-            "winrate": 1.0,
             "commander": [
                 "Prava of the Steel Legion",
                 "Tevesh Szat, Doom of Fools"
@@ -108,7 +107,6 @@
             "deck_id": "455976",
             "rank": "2",
             "player": "Allan Rodrigues",
-            "winrate": 0.8,
             "commander": [
                 "Kelsien, the Plague"
             ],
@@ -218,7 +216,6 @@
             "deck_id": "455977",
             "rank": "3-4",
             "player": "Victor Burghi",
-            "winrate": 0.6,
             "commander": [
                 "Torens, Fist of the Angels"
             ],
@@ -317,7 +314,6 @@
             "deck_id": "455978",
             "rank": "3-4",
             "player": "Rafael Barreto",
-            "winrate": 0.6,
             "commander": [
                 "Tevesh Szat, Doom of Fools",
                 "Malcolm, Keen-Eyed Navigator"

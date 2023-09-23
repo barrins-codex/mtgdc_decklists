@@ -10,7 +10,6 @@
             "deck_id": "472517",
             "rank": "1",
             "player": "Thomas Mechin",
-            "winrate": 0.8888888888888888,
             "commander": [
                 "Shorikai, Genesis Engine"
             ],
@@ -111,7 +110,6 @@
             "deck_id": "472518",
             "rank": "2",
             "player": "Théau Méry",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Isamaru, Hound of Konda"
             ],
@@ -196,7 +194,6 @@
             "deck_id": "472519",
             "rank": "3-4",
             "player": "Colas Vincent",
-            "winrate": 0.75,
             "commander": [
                 "Shorikai, Genesis Engine"
             ],
@@ -297,7 +294,6 @@
             "deck_id": "472520",
             "rank": "3-4",
             "player": "Lestienne Jules",
-            "winrate": 0.75,
             "commander": [
                 "Wernog, Rider's Chaplain",
                 "Lurrus of the Dream-Den",
@@ -408,7 +404,6 @@
             "deck_id": "472521",
             "rank": "5-8",
             "player": "Aethrix",
-            "winrate": 0.75,
             "commander": [
                 "Wernog, Rider's Chaplain",
                 "Lurrus of the Dream-Den",
@@ -519,7 +514,6 @@
             "deck_id": "472522",
             "rank": "5-8",
             "player": "Jolanda",
-            "winrate": 0.75,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -604,7 +598,6 @@
             "deck_id": "472523",
             "rank": "5-8",
             "player": "Krystanow",
-            "winrate": 0.75,
             "commander": [
                 "The Beamtown Bullies"
             ],
@@ -710,7 +703,6 @@
             "deck_id": "472524",
             "rank": "5-8",
             "player": "Tlt",
-            "winrate": 0.75,
             "commander": [
                 "Hogaak, Arisen Necropolis"
             ],

@@ -10,7 +10,6 @@
             "deck_id": "541402",
             "rank": "1",
             "player": "Louis Binse",
-            "winrate": 1.0,
             "commander": [
                 "Tevesh Szat, Doom of Fools",
                 "Rograkh, Son of Rohgahh"
@@ -110,7 +109,6 @@
             "deck_id": "541403",
             "rank": "2",
             "player": "Sylvain \"zohoz\" Zozaya",
-            "winrate": 0.8,
             "commander": [
                 "Niv-Mizzet Reborn"
             ],
@@ -220,7 +218,6 @@
             "deck_id": "541404",
             "rank": "3",
             "player": "Flavien \"crimelune\" Paillet",
-            "winrate": 0.8,
             "commander": [
                 "Sheoldred, the Apocalypse"
             ],
@@ -292,7 +289,6 @@
             "deck_id": "541405",
             "rank": "4",
             "player": "Fredo3577",
-            "winrate": 0.8,
             "commander": [
                 "Ghyrson Starn, Kelermorph"
             ],

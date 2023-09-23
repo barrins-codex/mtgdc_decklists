@@ -10,7 +10,6 @@
             "deck_id": "510035",
             "rank": "1",
             "player": "Mark Lasam",
-            "winrate": 1.0,
             "commander": [
                 "Skrelv, Defector Mite"
             ],
@@ -101,7 +100,6 @@
             "deck_id": "510036",
             "rank": "2",
             "player": "Dinno Zaide",
-            "winrate": 0.8,
             "commander": [
                 "Ghyrson Starn, Kelermorph"
             ],
@@ -202,7 +200,6 @@
             "deck_id": "510037",
             "rank": "3",
             "player": "Ricky Madrigal",
-            "winrate": 0.6,
             "commander": [
                 "Gut, True Soul Zealot",
                 "Veteran Soldier"
@@ -309,7 +306,6 @@
             "deck_id": "510038",
             "rank": "4",
             "player": "Irah Scott Naldoza",
-            "winrate": 0.6,
             "commander": [
                 "Ertai Resurrected"
             ],

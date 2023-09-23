@@ -10,7 +10,6 @@
             "deck_id": "458210",
             "rank": "1",
             "player": "Adrien Gau",
-            "winrate": 1.0,
             "commander": [
                 "Kess, Dissident Mage"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "458211",
             "rank": "2",
             "player": "Franc St.",
-            "winrate": 0.8,
             "commander": [
                 "The Gitrog Monster"
             ],
@@ -225,7 +223,6 @@
             "deck_id": "458212",
             "rank": "3-4",
             "player": "Marc",
-            "winrate": 0.8,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -335,7 +332,6 @@
             "deck_id": "458213",
             "rank": "3-4",
             "player": "Fred",
-            "winrate": 0.8,
             "commander": [
                 "Kess, Dissident Mage"
             ],

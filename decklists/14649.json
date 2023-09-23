@@ -10,7 +10,6 @@
             "deck_id": "287977",
             "rank": "1",
             "player": "Felipe Js",
-            "winrate": 1.0,
             "commander": [
                 "Thrun, the Last Troll"
             ],
@@ -87,7 +86,6 @@
             "deck_id": "287978",
             "rank": "2",
             "player": "Igor Hayashibara",
-            "winrate": 0.8,
             "commander": [
                 "Kraum, Ludevic's Opus",
                 "Vial Smasher the Fierce"
@@ -187,7 +185,6 @@
             "deck_id": "287979",
             "rank": "3",
             "player": "Rodrigo Honda",
-            "winrate": 0.6,
             "commander": [
                 "Meren of Clan Nel Toth"
             ],

@@ -10,7 +10,6 @@
             "deck_id": "507567",
             "rank": "1",
             "player": "Nikola Ivanievič",
-            "winrate": 1.0,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "507568",
             "rank": "2",
             "player": "Iztok Regent",
-            "winrate": 0.8,
             "commander": [
                 "Rograkh, Son of Rohgahh",
                 "Yoshimaru, Ever Faithful"
@@ -223,7 +221,6 @@
             "deck_id": "507569",
             "rank": "3",
             "player": "Bor Samsa",
-            "winrate": 0.6,
             "commander": [
                 "Grist, the Hunger Tide"
             ],
@@ -327,7 +324,6 @@
             "deck_id": "507570",
             "rank": "4",
             "player": "Gaper Moderc",
-            "winrate": 0.6,
             "commander": [
                 "Dennick, Pious Apprentice"
             ],

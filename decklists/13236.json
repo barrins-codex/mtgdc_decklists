@@ -10,7 +10,6 @@
             "deck_id": "277624",
             "rank": "3-4",
             "player": "Guilherme Figueira",
-            "winrate": 0.8,
             "commander": [
                 "Keranos, God of Storms"
             ],
@@ -102,7 +101,6 @@
             "deck_id": "277625",
             "rank": "1",
             "player": "Diego Ganev",
-            "winrate": 1.0,
             "commander": [
                 "Jenara, Asura of War"
             ],
@@ -212,7 +210,6 @@
             "deck_id": "277626",
             "rank": "2",
             "player": "Ricardo Gabriel Oliveira Maia",
-            "winrate": 0.8,
             "commander": [
                 "Daretti, Scrap Savant"
             ],
@@ -294,7 +291,6 @@
             "deck_id": "277627",
             "rank": "3-4",
             "player": "Renan Facchini",
-            "winrate": 0.8,
             "commander": [
                 "Titania, Protector of Argoth"
             ],

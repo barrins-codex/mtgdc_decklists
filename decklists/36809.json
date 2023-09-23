@@ -10,7 +10,6 @@
             "deck_id": "476695",
             "rank": "1",
             "player": "Mathieu Cunrath",
-            "winrate": 1.0,
             "commander": [
                 "Niv-Mizzet Reborn"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "476696",
             "rank": "2",
             "player": "Simon Calligaro",
-            "winrate": 0.8,
             "commander": [
                 "Lonis, Cryptozoologist"
             ],
@@ -218,7 +216,6 @@
             "deck_id": "476697",
             "rank": "3-4",
             "player": "Hervé Brocker",
-            "winrate": 0.8,
             "commander": [
                 "Kroxa, Titan of Death's Hunger"
             ],
@@ -324,7 +321,6 @@
             "deck_id": "476698",
             "rank": "3-4",
             "player": "Antoine Szabo",
-            "winrate": 0.8,
             "commander": [
                 "Azusa, Lost but Seeking"
             ],

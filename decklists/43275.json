@@ -10,7 +10,6 @@
             "deck_id": "519722",
             "rank": "1",
             "player": "Patrik Horváth",
-            "winrate": 1.0,
             "commander": [
                 "Dihada, Binder of Wills"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "519723",
             "rank": "2",
             "player": "Dominik Repa",
-            "winrate": 0.8,
             "commander": [
                 "Golos, Tireless Pilgrim"
             ],
@@ -230,7 +228,6 @@
             "deck_id": "519724",
             "rank": "3-4",
             "player": "Vincent Pálenik",
-            "winrate": 0.6,
             "commander": [
                 "Dennick, Pious Apprentice"
             ],
@@ -325,7 +322,6 @@
             "deck_id": "519725",
             "rank": "3-4",
             "player": "Juraj Vlček",
-            "winrate": 0.6,
             "commander": [
                 "Kroxa, Titan of Death's Hunger"
             ],

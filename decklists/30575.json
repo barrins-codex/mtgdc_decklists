@@ -10,7 +10,6 @@
             "deck_id": "438482",
             "rank": "1",
             "player": "Wilson Lai",
-            "winrate": 1.0,
             "commander": [
                 "Aminatou, the Fateshifter",
                 "Aminatou, the Fateshifter"
@@ -170,7 +169,6 @@
             "deck_id": "438489",
             "rank": "2",
             "player": "Andy Wong",
-            "winrate": 0.8,
             "commander": [
                 "Isamaru, Hound of Konda"
             ],

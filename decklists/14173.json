@@ -10,7 +10,6 @@
             "deck_id": "284397",
             "rank": "5-8",
             "player": "Martin Marcelo",
-            "winrate": 0.625,
             "commander": [
                 "Vendilion Clique"
             ],
@@ -99,7 +98,6 @@
             "deck_id": "284398",
             "rank": "2",
             "player": "Earl Castel",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Grenzo, Dungeon Warden"
             ],
@@ -192,7 +190,6 @@
             "deck_id": "284399",
             "rank": "2",
             "player": "Ste Villaraza",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Vial Smasher the Fierce"
             ],
@@ -298,7 +295,6 @@
             "deck_id": "284400",
             "rank": "3-4",
             "player": "Yves Bausa",
-            "winrate": 0.625,
             "commander": [
                 "Breya, Etherium Shaper"
             ],
@@ -408,7 +404,6 @@
             "deck_id": "284401",
             "rank": "3-4",
             "player": "Simon Bryan Floreza",
-            "winrate": 0.625,
             "commander": [
                 "Vial Smasher the Fierce"
             ],
@@ -518,7 +513,6 @@
             "deck_id": "284402",
             "rank": "5-8",
             "player": "Blas Anthony Yu",
-            "winrate": 0.625,
             "commander": [
                 "Vial Smasher the Fierce"
             ],
@@ -620,7 +614,6 @@
             "deck_id": "284403",
             "rank": "5-8",
             "player": "Jeffrey Leal",
-            "winrate": 0.625,
             "commander": [
                 "Selvala, Heart of the Wilds"
             ],
@@ -711,7 +704,6 @@
             "deck_id": "284404",
             "rank": "5-8",
             "player": "Richmund Lim",
-            "winrate": 0.625,
             "commander": [
                 "Titania, Protector of Argoth"
             ],

@@ -10,7 +10,6 @@
             "deck_id": "236639",
             "rank": "1",
             "player": "Pavel Sevcik",
-            "winrate": 1.0,
             "commander": [
                 "Zur the Enchanter"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "236640",
             "rank": "2",
             "player": "Viktor Jasansky",
-            "winrate": 0.8,
             "commander": [
                 "Zur the Enchanter"
             ],
@@ -230,7 +228,6 @@
             "deck_id": "236641",
             "rank": "3-4",
             "player": "Adam Koska",
-            "winrate": 0.8,
             "commander": [
                 "Geist of Saint Traft"
             ],
@@ -322,7 +319,6 @@
             "deck_id": "236642",
             "rank": "3-4",
             "player": "Martin Schanka",
-            "winrate": 0.8,
             "commander": [
                 "Zur the Enchanter"
             ],

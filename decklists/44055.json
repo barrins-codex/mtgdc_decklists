@@ -10,7 +10,6 @@
             "deck_id": "525233",
             "rank": "2",
             "player": "Leandro",
-            "winrate": 0.8,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "525234",
             "rank": "3",
             "player": "Gabriel Kawagoe",
-            "winrate": 0.6,
             "commander": [
                 "Skrelv, Defector Mite"
             ],
@@ -208,7 +206,6 @@
             "deck_id": "525235",
             "rank": "4",
             "player": "Leonardo Maeda",
-            "winrate": 0.6,
             "commander": [
                 "Minsc, Beloved Ranger"
             ],

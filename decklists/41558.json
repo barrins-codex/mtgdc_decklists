@@ -10,7 +10,6 @@
             "deck_id": "508751",
             "rank": "1",
             "player": "Alexandre \"onesauk\" Benac",
-            "winrate": 0.9,
             "commander": [
                 "Hogaak, Arisen Necropolis"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "508752",
             "rank": "2",
             "player": "Yoan Gariston",
-            "winrate": 0.8,
             "commander": [
                 "Sai, Master Thopterist"
             ],
@@ -207,7 +205,6 @@
             "deck_id": "508753",
             "rank": "3-4",
             "player": "Moondust",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Tunnel of Love",
                 "Trash Bin",
@@ -327,7 +324,6 @@
             "deck_id": "508754",
             "rank": "3-4",
             "player": "Maxime Pernin",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Balmor, Battlemage Captain"
             ],
@@ -428,7 +424,6 @@
             "deck_id": "508755",
             "rank": "5-8",
             "player": "Nicolas Prail",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Dihada, Binder of Wills"
             ],
@@ -538,7 +533,6 @@
             "deck_id": "508756",
             "rank": "5-8",
             "player": "Matthieu Berthier",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Cultist of the Absolute",
                 "Gut, True Soul Zealot"
@@ -648,7 +642,6 @@
             "deck_id": "508757",
             "rank": "5-8",
             "player": "Florian Trotte",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Golos, Tireless Pilgrim"
             ],
@@ -758,7 +751,6 @@
             "deck_id": "508758",
             "rank": "5-8",
             "player": "Cédric Krebs",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Feldon, Ronom Excavator"
             ],
@@ -846,7 +838,6 @@
             "deck_id": "508759",
             "rank": "9-16",
             "player": "Stephen Helmer",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -956,7 +947,6 @@
             "deck_id": "508760",
             "rank": "9-16",
             "player": "Jonathan Fleury",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Ghyrson Starn, Kelermorph"
             ],
@@ -1057,7 +1047,6 @@
             "deck_id": "508761",
             "rank": "9-16",
             "player": "Yiming Sun",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Bruse Tarl, Boorish Herder",
                 "Yoshimaru, Ever Faithful"
@@ -1160,7 +1149,6 @@
             "deck_id": "508762",
             "rank": "9-16",
             "player": "Jules Lestienne",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Cecily, Haunted Mage",
                 "Wernog, Rider's Chaplain"
@@ -1270,7 +1258,6 @@
             "deck_id": "508763",
             "rank": "9-16",
             "player": "Sébastien Laplane",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Feldon, Ronom Excavator"
             ],
@@ -1359,7 +1346,6 @@
             "deck_id": "508764",
             "rank": "9-16",
             "player": "Aubin Ronchant",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Bruse Tarl, Boorish Herder",
                 "Yoshimaru, Ever Faithful"
@@ -1461,7 +1447,6 @@
             "deck_id": "508765",
             "rank": "9-16",
             "player": "Bastien Guichard",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Isamaru, Hound of Konda"
             ],
@@ -1546,7 +1531,6 @@
             "deck_id": "508766",
             "rank": "9-16",
             "player": "Yann Belmer",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Raffine, Scheming Seer"
             ],

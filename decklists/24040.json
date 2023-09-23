@@ -10,7 +10,6 @@
             "deck_id": "367705",
             "rank": "5-8",
             "player": "Flavien \" Crimelune\" Paillet",
-            "winrate": 0.6,
             "commander": [
                 "Hogaak, Arisen Necropolis"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "367706",
             "rank": "5-8",
             "player": "Alex \"llojira\"",
-            "winrate": 0.6,
             "commander": [
                 "Daretti, Scrap Savant"
             ],
@@ -211,7 +209,6 @@
             "deck_id": "367707",
             "rank": "5-8",
             "player": "Arnaud \"nanau\" Bonenfant",
-            "winrate": 0.6,
             "commander": [
                 "Prossh, Skyraider of Kher"
             ],
@@ -321,7 +318,6 @@
             "deck_id": "367708",
             "rank": "5-8",
             "player": "Sylvain Poirré",
-            "winrate": 0.6,
             "commander": [
                 "Sai, Master Thopterist"
             ],
@@ -409,7 +405,6 @@
             "deck_id": "367709",
             "rank": "3-4",
             "player": "Florent \"garfild\" Loret",
-            "winrate": 0.8,
             "commander": [
                 "Prossh, Skyraider of Kher"
             ],
@@ -512,7 +507,6 @@
             "deck_id": "367710",
             "rank": "2",
             "player": "Gaël \"wentals\" André",
-            "winrate": 0.8,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -600,7 +594,6 @@
             "deck_id": "367711",
             "rank": "1",
             "player": "Kaourintin \"falaakr\" Le Guiban",
-            "winrate": 1.0,
             "commander": [
                 "Varina, Lich Queen"
             ],
@@ -710,7 +703,6 @@
             "deck_id": "367712",
             "rank": "3-4",
             "player": "Mathieu Belfis",
-            "winrate": 0.8,
             "commander": [
                 "Radha, Heir to Keld"
             ],

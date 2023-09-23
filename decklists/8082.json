@@ -10,7 +10,6 @@
             "deck_id": "246568",
             "rank": "1",
             "player": "Troy Clarke",
-            "winrate": 1.0,
             "commander": [
                 "Kaalia of the Vast"
             ],
@@ -115,7 +114,6 @@
             "deck_id": "246569",
             "rank": "2",
             "player": "Denzil Applewhaite",
-            "winrate": 0.8,
             "commander": [
                 "Rafiq of the Many"
             ],
@@ -213,7 +211,6 @@
             "deck_id": "246570",
             "rank": "3-4",
             "player": "Alchino Haynes",
-            "winrate": 0.8,
             "commander": [
                 "Marath, Will of the Wild"
             ],
@@ -322,7 +319,6 @@
             "deck_id": "246571",
             "rank": "3-4",
             "player": "Andwele Chase",
-            "winrate": 0.8,
             "commander": [
                 "Scion of the Ur-Dragon"
             ],

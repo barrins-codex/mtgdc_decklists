@@ -10,7 +10,6 @@
             "deck_id": "541670",
             "rank": "1",
             "player": "Luis Meza",
-            "winrate": 0.8888888888888888,
             "commander": [
                 "Atraxa, Grand Unifier"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "541671",
             "rank": "2",
             "player": "Jose Aliaga",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Slimefoot and Squee"
             ],
@@ -227,7 +225,6 @@
             "deck_id": "541672",
             "rank": "3-4",
             "player": "Eduardo Pérez",
-            "winrate": 0.75,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -337,7 +334,6 @@
             "deck_id": "541673",
             "rank": "3-4",
             "player": "Luis Morales",
-            "winrate": 0.75,
             "commander": [
                 "Kelsien, the Plague"
             ],
@@ -447,7 +443,6 @@
             "deck_id": "541674",
             "rank": "5-8",
             "player": "Oscar Miles",
-            "winrate": 0.75,
             "commander": [
                 "Svyelun of Sea and Sky"
             ],
@@ -530,7 +525,6 @@
             "deck_id": "541675",
             "rank": "5-8",
             "player": "Diego Paredes",
-            "winrate": 0.75,
             "commander": [
                 "Aragorn, King of Gondor"
             ],
@@ -636,7 +630,6 @@
             "deck_id": "541676",
             "rank": "5-8",
             "player": "Alfredo Mancheno",
-            "winrate": 0.75,
             "commander": [
                 "Ghyrson Starn, Kelermorph"
             ],
@@ -738,7 +731,6 @@
             "deck_id": "541677",
             "rank": "5-8",
             "player": "Gabriel Palomino",
-            "winrate": 0.75,
             "commander": [
                 "Aragorn, King of Gondor"
             ],
@@ -841,7 +833,6 @@
             "deck_id": "541678",
             "rank": "9-16",
             "player": "Fernando Mera",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Tivit, Seller of Secrets"
             ],
@@ -951,7 +942,6 @@
             "deck_id": "541679",
             "rank": "9-16",
             "player": "Thiago Mechan",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Ghyrson Starn, Kelermorph"
             ],
@@ -1052,7 +1042,6 @@
             "deck_id": "541680",
             "rank": "9-16",
             "player": "Francisco Uscamayta",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Ghyrson Starn, Kelermorph"
             ],
@@ -1155,7 +1144,6 @@
             "deck_id": "541681",
             "rank": "9-16",
             "player": "Omar Rohner",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Kess, Dissident Mage"
             ],
@@ -1248,7 +1236,6 @@
             "deck_id": "541682",
             "rank": "9-16",
             "player": "Juan Carlos Quispe",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Tana, the Bloodsower",
                 "Yoshimaru, Ever Faithful"
@@ -1358,7 +1345,6 @@
             "deck_id": "541683",
             "rank": "9-16",
             "player": "Julio Bejarano",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Atraxa, Grand Unifier"
             ],
@@ -1468,7 +1454,6 @@
             "deck_id": "541684",
             "rank": "9-16",
             "player": "Miguel Zulueta",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Feldon, Ronom Excavator"
             ],
@@ -1555,7 +1540,6 @@
             "deck_id": "541685",
             "rank": "9-16",
             "player": "Yerko Hinostroza",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Kenrith, the Returned King"
             ],

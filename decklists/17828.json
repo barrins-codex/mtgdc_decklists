@@ -10,7 +10,6 @@
             "deck_id": "310509",
             "rank": "1",
             "player": "Francois Jandaud (fjandaud )",
-            "winrate": 1.0,
             "commander": [
                 "Saskia the Unyielding"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "310510",
             "rank": "2",
             "player": "Maxime Damman (maxdamaan988)",
-            "winrate": 0.8,
             "commander": [
                 "Brago, King Eternal"
             ],
@@ -216,7 +214,6 @@
             "deck_id": "310511",
             "rank": "3-4",
             "player": "Pierre-emmanuel Cousty",
-            "winrate": 0.8,
             "commander": [
                 "Leovold, Emissary of Trest"
             ],
@@ -325,7 +322,6 @@
             "deck_id": "310628",
             "rank": "3-4",
             "player": "Moondust",
-            "winrate": 0.8,
             "commander": [
                 "Krenko, Mob Boss"
             ],

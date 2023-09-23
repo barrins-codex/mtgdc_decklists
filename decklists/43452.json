@@ -10,7 +10,6 @@
             "deck_id": "520990",
             "rank": "1",
             "player": "Vojta Kotek",
-            "winrate": 0.8888888888888888,
             "commander": [
                 "Unsanctioned / Ancient / Juggler",
                 "Unglued / Pea-Brained / Dinosaur",
@@ -130,7 +129,6 @@
             "deck_id": "520991",
             "rank": "2",
             "player": "Robo-bo-bots",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Ratchet, Field Medic"
             ],
@@ -220,7 +218,6 @@
             "deck_id": "520992",
             "rank": "3-4",
             "player": "Tomas Vardzik",
-            "winrate": 0.75,
             "commander": [
                 "Yoshimaru, Ever Faithful"
             ],
@@ -308,7 +305,6 @@
             "deck_id": "520993",
             "rank": "3-4",
             "player": "Zdenek Hlavsa",
-            "winrate": 0.75,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -418,7 +414,6 @@
             "deck_id": "520994",
             "rank": "5-8",
             "player": "Marek Vardzik",
-            "winrate": 0.75,
             "commander": [
                 "Rograkh, Son of Rohgahh",
                 "Silas Renn, Seeker Adept"
@@ -528,7 +523,6 @@
             "deck_id": "520995",
             "rank": "5-8",
             "player": "David Stepanek",
-            "winrate": 0.75,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -638,7 +632,6 @@
             "deck_id": "520996",
             "rank": "5-8",
             "player": "Jan Svoboda",
-            "winrate": 0.75,
             "commander": [
                 "Niv-Mizzet Reborn"
             ],
@@ -748,7 +741,6 @@
             "deck_id": "520997",
             "rank": "5-8",
             "player": "Jan Verner",
-            "winrate": 0.75,
             "commander": [
                 "Rocco, Cabaretti Caterer"
             ],

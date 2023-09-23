@@ -10,7 +10,6 @@
             "deck_id": "524406",
             "rank": "1",
             "player": "Sebastian Reichert",
-            "winrate": 1.0,
             "commander": [
                 "Jori En, Ruin Diver"
             ],
@@ -108,7 +107,6 @@
             "deck_id": "524407",
             "rank": "2",
             "player": "Max Dreste",
-            "winrate": 0.8,
             "commander": [
                 "Glissa Sunslayer"
             ],

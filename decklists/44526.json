@@ -10,7 +10,6 @@
             "deck_id": "528368",
             "rank": "1",
             "player": "Alexandre \"onesauk\" Benac",
-            "winrate": 1.0,
             "commander": [
                 "Hogaak, Arisen Necropolis"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "528369",
             "rank": "2",
             "player": "Eliott Vivier",
-            "winrate": 0.8,
             "commander": [
                 "Ghyrson Starn, Kelermorph"
             ],
@@ -219,7 +217,6 @@
             "deck_id": "528370",
             "rank": "3-4",
             "player": "Jonathan Marvie",
-            "winrate": 0.8,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -329,7 +326,6 @@
             "deck_id": "528371",
             "rank": "3-4",
             "player": "Anthony Dominguez",
-            "winrate": 0.8,
             "commander": [
                 "Niv-Mizzet Reborn"
             ],
@@ -439,7 +435,6 @@
             "deck_id": "528372",
             "rank": "5-8",
             "player": "Nathan Payre",
-            "winrate": 0.6,
             "commander": [
                 "Bruse Tarl, Boorish Herder",
                 "Yoshimaru, Ever Faithful"
@@ -542,7 +537,6 @@
             "deck_id": "528373",
             "rank": "5-8",
             "player": "Yann Belmer",
-            "winrate": 0.6,
             "commander": [
                 "Saint Traft and Rem Karolus"
             ],
@@ -650,7 +644,6 @@
             "deck_id": "528374",
             "rank": "5-8",
             "player": "Julien Borkowski",
-            "winrate": 0.6,
             "commander": [
                 "Dihada, Binder of Wills"
             ],
@@ -760,7 +753,6 @@
             "deck_id": "528375",
             "rank": "5-8",
             "player": "Nicolas Righi",
-            "winrate": 0.6,
             "commander": [
                 "Feldon, Ronom Excavator"
             ],

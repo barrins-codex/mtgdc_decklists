@@ -10,7 +10,6 @@
             "deck_id": "412616",
             "rank": "5-8",
             "player": "Clément Jouanjean",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Queen Marchesa"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "412617",
             "rank": "5-8",
             "player": "Jonathan Goumain",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Anje Falkenrath"
             ],
@@ -212,7 +210,6 @@
             "deck_id": "412618",
             "rank": "5-8",
             "player": "Aurélien Lion",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Sidar Kondo of Jamuraa",
                 "Tymna the Weaver"
@@ -322,7 +319,6 @@
             "deck_id": "412619",
             "rank": "5-8",
             "player": "Vincent Bruno",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Doran, the Siege Tower"
             ],
@@ -432,7 +428,6 @@
             "deck_id": "412620",
             "rank": "3-4",
             "player": "Kévin Roualen",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Doran, the Siege Tower"
             ],
@@ -542,7 +537,6 @@
             "deck_id": "412621",
             "rank": "3-4",
             "player": "Paul Lagues",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Uro, Titan of Nature's Wrath"
             ],
@@ -633,7 +627,6 @@
             "deck_id": "412622",
             "rank": "2",
             "player": "Alban Genest",
-            "winrate": 0.75,
             "commander": [
                 "The Gitrog Monster"
             ],
@@ -734,7 +727,6 @@
             "deck_id": "412623",
             "rank": "1",
             "player": "Alexandre Treupel",
-            "winrate": 0.875,
             "commander": [
                 "Judith, the Scourge Diva"
             ],

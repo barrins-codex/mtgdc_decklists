@@ -10,7 +10,6 @@
             "deck_id": "545917",
             "rank": "1",
             "player": "Léo Facca",
-            "winrate": 0.875,
             "commander": [
                 "Atraxa, Grand Unifier"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "545918",
             "rank": "2",
             "player": "Victor Bres",
-            "winrate": 0.75,
             "commander": [
                 "Faceless One",
                 "Gut, True Soul Zealot"
@@ -222,7 +220,6 @@
             "deck_id": "545919",
             "rank": "3-4",
             "player": "Pierre Clavieras Mengin",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Bruse Tarl, Boorish Herder",
                 "Yoshimaru, Ever Faithful"
@@ -325,7 +322,6 @@
             "deck_id": "545920",
             "rank": "3-4",
             "player": "Alexandre Habert",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Leovold, Emissary of Trest"
             ],
@@ -435,7 +431,6 @@
             "deck_id": "545921",
             "rank": "5-8",
             "player": "David Maleville",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "General Ferrous Rokiric"
             ],
@@ -525,7 +520,6 @@
             "deck_id": "545922",
             "rank": "5-8",
             "player": "Baptiste Manhaval",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Raff, Weatherlight Stalwart"
             ],
@@ -626,7 +620,6 @@
             "deck_id": "545923",
             "rank": "5-8",
             "player": "Kilian Zunino-boulhaïs",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Kess, Dissident Mage"
             ],

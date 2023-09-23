@@ -10,7 +10,6 @@
             "deck_id": "485080",
             "rank": "1",
             "player": "Ceyao Duan",
-            "winrate": 1.0,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "485081",
             "rank": "2",
             "player": "Poordonkey",
-            "winrate": 0.8,
             "commander": [
                 "Juri, Master of the Revue"
             ],
@@ -222,7 +220,6 @@
             "deck_id": "485082",
             "rank": "3-4",
             "player": "Wong Dik Fan",
-            "winrate": 0.6,
             "commander": [
                 "Dennick, Pious Apprentice"
             ],
@@ -325,7 +322,6 @@
             "deck_id": "485083",
             "rank": "3-4",
             "player": "Xu Han",
-            "winrate": 0.6,
             "commander": [
                 "Niv-Mizzet Reborn"
             ],

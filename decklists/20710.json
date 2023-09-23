@@ -10,7 +10,6 @@
             "deck_id": "336573",
             "rank": "2",
             "player": "Senseiidora",
-            "winrate": 0.8,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "336574",
             "rank": "3-4",
             "player": "Domati",
-            "winrate": 0.6,
             "commander": [
                 "Karlov of the Ghost Council"
             ],
@@ -209,7 +207,6 @@
             "deck_id": "336575",
             "rank": "3-4",
             "player": "Hippolyte",
-            "winrate": 0.6,
             "commander": [
                 "Arahbo, Roar of the World"
             ],
@@ -306,7 +303,6 @@
             "deck_id": "336576",
             "rank": "1",
             "player": "Luc",
-            "winrate": 1.0,
             "commander": [
                 "Thrun, the Last Troll"
             ],

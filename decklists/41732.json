@@ -10,7 +10,6 @@
             "deck_id": "509910",
             "rank": "1",
             "player": "Fabio Weber",
-            "winrate": 1.0,
             "commander": [
                 "Old Stickfingers"
             ],
@@ -111,7 +110,6 @@
             "deck_id": "509911",
             "rank": "2",
             "player": "Mickael Youssouf",
-            "winrate": 0.8,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -221,7 +219,6 @@
             "deck_id": "509912",
             "rank": "3",
             "player": "Remi Bellucci",
-            "winrate": 0.8,
             "commander": [
                 "Old Stickfingers"
             ],
@@ -324,7 +321,6 @@
             "deck_id": "509913",
             "rank": "4",
             "player": "Matthieu Tassa",
-            "winrate": 0.8,
             "commander": [
                 "Dihada, Binder of Wills"
             ],
@@ -434,7 +430,6 @@
             "deck_id": "509914",
             "rank": "5",
             "player": "Jeremy Dewares",
-            "winrate": 0.6,
             "commander": [
                 "Sythis, Harvest's Hand"
             ],

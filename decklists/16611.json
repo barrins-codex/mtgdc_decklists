@@ -10,7 +10,6 @@
             "deck_id": "302721",
             "rank": "3-4",
             "player": "Maxime Damman (maxdamaan988)",
-            "winrate": 0.8,
             "commander": [
                 "Brago, King Eternal"
             ],
@@ -106,7 +105,6 @@
             "deck_id": "302722",
             "rank": "3-4",
             "player": "Francois Jandaud (fjandaud)",
-            "winrate": 0.8,
             "commander": [
                 "Saskia the Unyielding"
             ],
@@ -216,7 +214,6 @@
             "deck_id": "302723",
             "rank": "2",
             "player": "Cesidio Vischi (meideros)",
-            "winrate": 0.8,
             "commander": [
                 "Daretti, Scrap Savant"
             ],
@@ -298,7 +295,6 @@
             "deck_id": "302724",
             "rank": "1",
             "player": "Gael Bailly-maitre",
-            "winrate": 1.0,
             "commander": [
                 "Nissa, Vastwood Seer"
             ],

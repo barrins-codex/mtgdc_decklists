@@ -10,7 +10,6 @@
             "deck_id": "492069",
             "rank": "1",
             "player": "Armov",
-            "winrate": 0.8888888888888888,
             "commander": [
                 "Tivit, Seller of Secrets"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "492070",
             "rank": "2",
             "player": "Sébastien Laplane",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Light-Paws, Emperor's Voice"
             ],
@@ -206,7 +204,6 @@
             "deck_id": "492071",
             "rank": "3-4",
             "player": "Alexandre \"onesauk\" Benac",
-            "winrate": 0.75,
             "commander": [
                 "Kroxa, Titan of Death's Hunger"
             ],
@@ -305,7 +302,6 @@
             "deck_id": "492072",
             "rank": "3-4",
             "player": "Maxdamaan988",
-            "winrate": 0.75,
             "commander": [
                 "Golos, Tireless Pilgrim"
             ],
@@ -415,7 +411,6 @@
             "deck_id": "492073",
             "rank": "5-8",
             "player": "Jeremy Cuvelier",
-            "winrate": 0.75,
             "commander": [
                 "Grist, the Hunger Tide"
             ],
@@ -514,7 +509,6 @@
             "deck_id": "492074",
             "rank": "5-8",
             "player": "Simon Forrat",
-            "winrate": 0.75,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -624,7 +618,6 @@
             "deck_id": "492075",
             "rank": "5-8",
             "player": "Adrien Houssard",
-            "winrate": 0.75,
             "commander": [
                 "Soul of Windgrace"
             ],
@@ -731,7 +724,6 @@
             "deck_id": "492076",
             "rank": "5-8",
             "player": "Spartaff",
-            "winrate": 0.75,
             "commander": [
                 "Soul of Windgrace"
             ],

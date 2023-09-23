@@ -10,7 +10,6 @@
             "deck_id": "346949",
             "rank": "2",
             "player": "Gaetan Lavender",
-            "winrate": 0.8,
             "commander": [
                 "Arahbo, Roar of the World"
             ],
@@ -111,7 +110,6 @@
             "deck_id": "346950",
             "rank": "1",
             "player": "Alexandre Leroyer",
-            "winrate": 1.0,
             "commander": [
                 "Titania, Protector of Argoth"
             ],

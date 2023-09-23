@@ -10,7 +10,6 @@
             "deck_id": "483675",
             "rank": "1",
             "player": "Valentin Orange",
-            "winrate": 1.0,
             "commander": [
                 "The Beamtown Bullies"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "483676",
             "rank": "2",
             "player": "Hervé Brocker",
-            "winrate": 0.8,
             "commander": [
                 "Kroxa, Titan of Death's Hunger"
             ],
@@ -226,7 +224,6 @@
             "deck_id": "483677",
             "rank": "3-4",
             "player": "Alexis Gosset",
-            "winrate": 0.6,
             "commander": [
                 "Jeska, Thrice Reborn",
                 "Ludevic, Necro-Alchemist"
@@ -330,7 +327,6 @@
             "deck_id": "483678",
             "rank": "3-4",
             "player": "Thibaut Huss",
-            "winrate": 0.6,
             "commander": [
                 "Immard, the Stormcleaver"
             ],

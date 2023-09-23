@@ -10,7 +10,6 @@
             "deck_id": "303102",
             "rank": "8",
             "player": "Gregoire Payan",
-            "winrate": 0.6,
             "commander": [
                 "The Gitrog Monster"
             ],
@@ -105,7 +104,6 @@
             "deck_id": "303103",
             "rank": "7",
             "player": "Matthieu Villechalane",
-            "winrate": 0.6,
             "commander": [
                 "Arahbo, Roar of the World"
             ],
@@ -202,7 +200,6 @@
             "deck_id": "303104",
             "rank": "1",
             "player": "Victor Capron",
-            "winrate": 1.0,
             "commander": [
                 "Edgar Markov"
             ],
@@ -294,7 +291,6 @@
             "deck_id": "303105",
             "rank": "2",
             "player": "Guillaume Picard",
-            "winrate": 0.8,
             "commander": [
                 "Edgar Markov"
             ],
@@ -396,7 +392,6 @@
             "deck_id": "303106",
             "rank": "3",
             "player": "Julien \"sonte\" Sori",
-            "winrate": 0.8,
             "commander": [
                 "Edgar Markov"
             ],
@@ -499,7 +494,6 @@
             "deck_id": "303107",
             "rank": "4",
             "player": "Sylvain Bombard",
-            "winrate": 0.8,
             "commander": [
                 "Queen Marchesa"
             ],
@@ -609,7 +603,6 @@
             "deck_id": "303108",
             "rank": "5",
             "player": "Nicolas David",
-            "winrate": 0.6,
             "commander": [
                 "Kalitas, Traitor of Ghet"
             ],
@@ -686,7 +679,6 @@
             "deck_id": "303109",
             "rank": "6",
             "player": "Graouland",
-            "winrate": 0.6,
             "commander": [
                 "Radha, Heir to Keld"
             ],

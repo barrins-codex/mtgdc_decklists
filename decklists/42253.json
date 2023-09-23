@@ -10,7 +10,6 @@
             "deck_id": "512911",
             "rank": "1",
             "player": "Brice Lamar",
-            "winrate": 1.0,
             "commander": [
                 "Dihada, Binder of Wills"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "512912",
             "rank": "2",
             "player": "Jérémy Dewarez",
-            "winrate": 0.8,
             "commander": [
                 "Sythis, Harvest's Hand"
             ],
@@ -221,7 +219,6 @@
             "deck_id": "512913",
             "rank": "3-4",
             "player": "Pierre Almaraz",
-            "winrate": 0.8,
             "commander": [
                 "Dennick, Pious Apprentice"
             ],
@@ -322,7 +319,6 @@
             "deck_id": "512914",
             "rank": "3-4",
             "player": "Thomas Ricci",
-            "winrate": 0.8,
             "commander": [
                 "Kraum, Ludevic's Opus",
                 "Yoshimaru, Ever Faithful"

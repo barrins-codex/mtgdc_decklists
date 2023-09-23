@@ -10,7 +10,6 @@
             "deck_id": "443443",
             "rank": "1",
             "player": "Killian Franchet",
-            "winrate": 1.0,
             "commander": [
                 "Saskia the Unyielding"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "443444",
             "rank": "2",
             "player": "Guillaume Venny",
-            "winrate": 0.8,
             "commander": [
                 "Inalla, Archmage Ritualist"
             ],
@@ -229,7 +227,6 @@
             "deck_id": "443445",
             "rank": "3-4",
             "player": "Michel Bardinal",
-            "winrate": 0.8,
             "commander": [
                 "Karlov of the Ghost Council"
             ],
@@ -328,7 +325,6 @@
             "deck_id": "443446",
             "rank": "3-4",
             "player": "Alexis Fontaine",
-            "winrate": 0.8,
             "commander": [
                 "Adeliz, the Cinder Wind"
             ],

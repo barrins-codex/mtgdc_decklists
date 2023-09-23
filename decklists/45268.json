@@ -10,7 +10,6 @@
             "deck_id": "534404",
             "rank": "1",
             "player": "Guanglei Li",
-            "winrate": 1.0,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "534405",
             "rank": "2",
             "player": "Shaofeng Xu",
-            "winrate": 0.8,
             "commander": [
                 "Nicol Bolas, the Ravager"
             ],
@@ -230,7 +228,6 @@
             "deck_id": "534406",
             "rank": "3",
             "player": "Yuchen Yang",
-            "winrate": 0.6,
             "commander": [
                 "Yoshimaru, Ever Faithful",
                 "Bruse Tarl, Boorish Herder"
@@ -335,7 +332,6 @@
             "deck_id": "534407",
             "rank": "4",
             "player": "Xu Han",
-            "winrate": 0.6,
             "commander": [
                 "Atraxa, Grand Unifier"
             ],

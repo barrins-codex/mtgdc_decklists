@@ -10,7 +10,6 @@
             "deck_id": "476079",
             "rank": "1",
             "player": "Victor Burghi",
-            "winrate": 1.0,
             "commander": [
                 "The Beamtown Bullies"
             ],
@@ -117,7 +116,6 @@
             "deck_id": "476080",
             "rank": "2",
             "player": "Fernando \"yprincipe\" Martin",
-            "winrate": 0.8,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -227,7 +225,6 @@
             "deck_id": "476081",
             "rank": "3-4",
             "player": "Felipe \"the Raizen\" Santos",
-            "winrate": 0.6,
             "commander": [
                 "Lynde, Cheerful Tormentor"
             ],
@@ -334,7 +331,6 @@
             "deck_id": "476082",
             "rank": "3-4",
             "player": "Gustavo Prol",
-            "winrate": 0.6,
             "commander": [
                 "Tatyova, Benthic Druid"
             ],

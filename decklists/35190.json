@@ -10,7 +10,6 @@
             "deck_id": "466175",
             "rank": "1",
             "player": "Dinno Zaide",
-            "winrate": 1.0,
             "commander": [
                 "Ludevic, Necro-Alchemist"
             ],
@@ -107,7 +106,6 @@
             "deck_id": "466176",
             "rank": "2",
             "player": "Meng Hao",
-            "winrate": 0.8,
             "commander": [
                 "Kinnan, Bonder Prodigy"
             ],
@@ -210,7 +208,6 @@
             "deck_id": "466177",
             "rank": "3-4",
             "player": "Martin Ogayon",
-            "winrate": 0.8,
             "commander": [
                 "Light-Paws, Emperor's Voice"
             ],
@@ -302,7 +299,6 @@
             "deck_id": "466178",
             "rank": "3-4",
             "player": "Cilbert Corpuz",
-            "winrate": 0.8,
             "commander": [
                 "Thalia, Guardian of Thraben"
             ],

@@ -10,7 +10,6 @@
             "deck_id": "317829",
             "rank": "5-8",
             "player": "Chris Sta. Maria",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Karlov of the Ghost Council"
             ],
@@ -117,7 +116,6 @@
             "deck_id": "317830",
             "rank": "5-8",
             "player": "Ronel Lajara",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Queen Marchesa"
             ],
@@ -227,7 +225,6 @@
             "deck_id": "317831",
             "rank": "5-8",
             "player": "Oryx Coilan",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Zurgo Bellstriker"
             ],
@@ -306,7 +303,6 @@
             "deck_id": "317832",
             "rank": "5-8",
             "player": "Roi Dagang",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Titania, Protector of Argoth"
             ],
@@ -398,7 +394,6 @@
             "deck_id": "317833",
             "rank": "3-4",
             "player": "Koijanus Nulud",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Zurgo Bellstriker"
             ],
@@ -477,7 +472,6 @@
             "deck_id": "317834",
             "rank": "3-4",
             "player": "Audwin Abellera",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Zurgo Bellstriker"
             ],
@@ -556,7 +550,6 @@
             "deck_id": "317835",
             "rank": "2",
             "player": "Raphael Unson",
-            "winrate": 0.75,
             "commander": [
                 "Arahbo, Roar of the World"
             ],
@@ -659,7 +652,6 @@
             "deck_id": "317836",
             "rank": "1",
             "player": "Rusty Capricho",
-            "winrate": 0.875,
             "commander": [
                 "Titania, Protector of Argoth"
             ],

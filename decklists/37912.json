@@ -10,7 +10,6 @@
             "deck_id": "483671",
             "rank": "1",
             "player": "Zhou Rui",
-            "winrate": 1.0,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -99,7 +98,6 @@
             "deck_id": "483672",
             "rank": "2",
             "player": "He Ying",
-            "winrate": 0.8,
             "commander": [
                 "Golos, Tireless Pilgrim"
             ],
@@ -209,7 +207,6 @@
             "deck_id": "483673",
             "rank": "3-4",
             "player": "Jiang Yan",
-            "winrate": 0.8,
             "commander": [
                 "Tivit, Seller of Secrets"
             ],
@@ -319,7 +316,6 @@
             "deck_id": "483674",
             "rank": "3-4",
             "player": "Pan Liangchen",
-            "winrate": 0.8,
             "commander": [
                 "Yorvo, Lord of Garenbrig"
             ],

@@ -10,7 +10,6 @@
             "deck_id": "358049",
             "rank": "5-8",
             "player": "Fontraille David \" Magicdadou\"",
-            "winrate": 0.75,
             "commander": [
                 "Silas Renn, Seeker Adept",
                 "Akiri, Line-Slinger"
@@ -120,7 +119,6 @@
             "deck_id": "358050",
             "rank": "5-8",
             "player": "Laleure Morgan \"ff26\"",
-            "winrate": 0.75,
             "commander": [
                 "Thrasios, Triton Hero",
                 "Tymna the Weaver"
@@ -230,7 +228,6 @@
             "deck_id": "358051",
             "rank": "3-4",
             "player": "Thomas Bagdadlian",
-            "winrate": 0.75,
             "commander": [
                 "Kykar, Wind's Fury"
             ],
@@ -337,7 +334,6 @@
             "deck_id": "358052",
             "rank": "3-4",
             "player": "Gaillard Arthur \" Xbod\"",
-            "winrate": 0.75,
             "commander": [
                 "Lord Windgrace"
             ],
@@ -439,7 +435,6 @@
             "deck_id": "358053",
             "rank": "2",
             "player": "Mrakovic Luka \"norrisback\"",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Kess, Dissident Mage"
             ],
@@ -549,7 +544,6 @@
             "deck_id": "358054",
             "rank": "1",
             "player": "Brugiere Yann \"nagggash\"",
-            "winrate": 0.8888888888888888,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -626,7 +620,6 @@
             "deck_id": "358055",
             "rank": "5-8",
             "player": "Vischi Cesidio \"meideros\"",
-            "winrate": 0.75,
             "commander": [
                 "Daretti, Scrap Savant"
             ],
@@ -710,7 +703,6 @@
             "deck_id": "358056",
             "rank": "5-8",
             "player": "Dhomps Florian \"dhomp5eur\"",
-            "winrate": 0.75,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],

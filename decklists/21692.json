@@ -10,7 +10,6 @@
             "deck_id": "345752",
             "rank": "2",
             "player": "Stefan C.",
-            "winrate": 0.8,
             "commander": [
                 "Teferi, Temporal Archmage"
             ],
@@ -83,7 +82,6 @@
             "deck_id": "345753",
             "rank": "1",
             "player": "Nils H.",
-            "winrate": 1.0,
             "commander": [
                 "Arahbo, Roar of the World"
             ],

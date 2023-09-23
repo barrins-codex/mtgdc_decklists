@@ -10,7 +10,6 @@
             "deck_id": "330047",
             "rank": "1",
             "player": "Wilmer Velches",
-            "winrate": 1.0,
             "commander": [
                 "Prossh, Skyraider of Kher"
             ],
@@ -113,7 +112,6 @@
             "deck_id": "330048",
             "rank": "2",
             "player": "Yves Bausa",
-            "winrate": 0.8,
             "commander": [
                 "Yuriko, the Tiger's Shadow"
             ],
@@ -211,7 +209,6 @@
             "deck_id": "330049",
             "rank": "3-4",
             "player": "Louie Siongco",
-            "winrate": 0.8,
             "commander": [
                 "Kraum, Ludevic's Opus",
                 "Tymna the Weaver"
@@ -321,7 +318,6 @@
             "deck_id": "330050",
             "rank": "3-4",
             "player": "Earl Castel",
-            "winrate": 0.8,
             "commander": [
                 "Kraum, Ludevic's Opus",
                 "Tymna the Weaver"
@@ -431,7 +427,6 @@
             "deck_id": "330051",
             "rank": "5-8",
             "player": "Ben Co",
-            "winrate": 0.6,
             "commander": [
                 "Teferi, Temporal Archmage"
             ],
@@ -507,7 +502,6 @@
             "deck_id": "330052",
             "rank": "5-8",
             "player": "Agustin Ireneo",
-            "winrate": 0.6,
             "commander": [
                 "Nissa, Vastwood Seer"
             ],
@@ -596,7 +590,6 @@
             "deck_id": "330053",
             "rank": "5-8",
             "player": "Wendell Castroverde",
-            "winrate": 0.6,
             "commander": [
                 "Queen Marchesa"
             ],
@@ -706,7 +699,6 @@
             "deck_id": "330054",
             "rank": "5-8",
             "player": "Aaron Blue Pumanes",
-            "winrate": 0.6,
             "commander": [
                 "Karlov of the Ghost Council"
             ],

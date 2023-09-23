@@ -10,7 +10,6 @@
             "deck_id": "257060",
             "rank": "1",
             "player": "Michele Atzeni",
-            "winrate": 1.0,
             "commander": [
                 "Vendilion Clique"
             ],
@@ -96,7 +95,6 @@
             "deck_id": "257061",
             "rank": "1",
             "player": "David Rodriguez Targa",
-            "winrate": 1.0,
             "commander": [
                 "Tasigur, the Golden Fang"
             ],

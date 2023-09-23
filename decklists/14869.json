@@ -10,7 +10,6 @@
             "deck_id": "289666",
             "rank": "3-4",
             "player": "Yann Belmer",
-            "winrate": 0.8,
             "commander": [
                 "Leovold, Emissary of Trest"
             ],
@@ -115,7 +114,6 @@
             "deck_id": "289667",
             "rank": "3-4",
             "player": "Maxime \"makexime\" Lemoine",
-            "winrate": 0.8,
             "commander": [
                 "Zurgo Bellstriker"
             ],
@@ -192,7 +190,6 @@
             "deck_id": "289668",
             "rank": "2",
             "player": "Arthur \"xdob\" Gaillard",
-            "winrate": 0.8,
             "commander": [
                 "Alesha, Who Smiles at Death"
             ],
@@ -302,7 +299,6 @@
             "deck_id": "289669",
             "rank": "1",
             "player": "Yannis \"demonium\" Henrion",
-            "winrate": 1.0,
             "commander": [
                 "Zurgo Bellstriker"
             ],

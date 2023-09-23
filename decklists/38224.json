@@ -10,7 +10,6 @@
             "deck_id": "485792",
             "rank": "1",
             "player": "Lantariel",
-            "winrate": 0.875,
             "commander": [
                 "Sai, Master Thopterist"
             ],
@@ -100,7 +99,6 @@
             "deck_id": "485793",
             "rank": "2",
             "player": "Hannibal44",
-            "winrate": 0.75,
             "commander": [
                 "Niv-Mizzet Reborn"
             ],
@@ -210,7 +208,6 @@
             "deck_id": "485794",
             "rank": "3-4",
             "player": "Bobota852",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Grist, the Hunger Tide"
             ],
@@ -311,7 +308,6 @@
             "deck_id": "485795",
             "rank": "3-4",
             "player": "Nicolasprail",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Juri, Master of the Revue"
             ],
@@ -409,7 +405,6 @@
             "deck_id": "485796",
             "rank": "5-8",
             "player": "Damien \"damienade\" Mocquet",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Grist, the Hunger Tide"
             ],
@@ -512,7 +507,6 @@
             "deck_id": "485797",
             "rank": "5-8",
             "player": "Zohoz",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Niv-Mizzet Reborn",
                 "Jegantha, the Wellspring"
@@ -623,7 +617,6 @@
             "deck_id": "485798",
             "rank": "5-8",
             "player": "Astierix",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "The Ur-Dragon"
             ],
@@ -733,7 +726,6 @@
             "deck_id": "485799",
             "rank": "5-8",
             "player": "Veames",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Grist, the Hunger Tide"
             ],

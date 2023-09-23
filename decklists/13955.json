@@ -10,7 +10,6 @@
             "deck_id": "282633",
             "rank": "1",
             "player": "Guilherme \"Demonic Tutor\" Machado",
-            "winrate": 1.0,
             "commander": [
                 "Wydwen, the Biting Gale"
             ],
@@ -103,7 +102,6 @@
             "deck_id": "282634",
             "rank": "2",
             "player": "Brunno \"NN\" Portella",
-            "winrate": 0.8,
             "commander": [
                 "Narset, Enlightened Master"
             ],
@@ -210,7 +208,6 @@
             "deck_id": "282635",
             "rank": "3-4",
             "player": "Pedro Monfort",
-            "winrate": 0.8,
             "commander": [
                 "Queen Marchesa"
             ],
@@ -319,7 +316,6 @@
             "deck_id": "282636",
             "rank": "5-8",
             "player": "Lucas Caparroz",
-            "winrate": 0.6,
             "commander": [
                 "Maelstrom Wanderer"
             ],
@@ -422,7 +418,6 @@
             "deck_id": "282637",
             "rank": "5-8",
             "player": "Mayckol Fernandes",
-            "winrate": 0.6,
             "commander": [
                 "Geist of Saint Traft"
             ],
@@ -516,7 +511,6 @@
             "deck_id": "282638",
             "rank": "5-8",
             "player": "Ricardo Zanini",
-            "winrate": 0.6,
             "commander": [
                 "Doran, the Siege Tower"
             ],
@@ -623,7 +617,6 @@
             "deck_id": "282639",
             "rank": "3-4",
             "player": "Akenammon Daher",
-            "winrate": 0.8,
             "commander": [
                 "Braids, Cabal Minion"
             ],

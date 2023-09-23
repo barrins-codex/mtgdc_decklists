@@ -10,7 +10,6 @@
             "deck_id": "263400",
             "rank": "1",
             "player": "Toby Hazes",
-            "winrate": 1.0,
             "commander": [
                 "Karador, Ghost Chieftain"
             ],
@@ -119,7 +118,6 @@
             "deck_id": "263404",
             "rank": "2",
             "player": "Bas de Vaan",
-            "winrate": 0.8,
             "commander": [
                 "Grenzo, Dungeon Warden"
             ],

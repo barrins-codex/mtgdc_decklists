@@ -10,7 +10,6 @@
             "deck_id": "286109",
             "rank": "3-4",
             "player": "Romain Bourdin",
-            "winrate": 0.8,
             "commander": [
                 "Zurgo Bellstriker"
             ],
@@ -90,7 +89,6 @@
             "deck_id": "286110",
             "rank": "3-4",
             "player": "Hugo Gaffet",
-            "winrate": 0.8,
             "commander": [
                 "Titania, Protector of Argoth"
             ],
@@ -181,7 +179,6 @@
             "deck_id": "286111",
             "rank": "1",
             "player": "Julien Guillermain",
-            "winrate": 1.0,
             "commander": [
                 "Selvala, Heart of the Wilds"
             ],
@@ -270,7 +267,6 @@
             "deck_id": "286112",
             "rank": "2",
             "player": "Kenny Dits",
-            "winrate": 0.8,
             "commander": [
                 "Zurgo Bellstriker"
             ],

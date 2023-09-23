@@ -10,7 +10,6 @@
             "deck_id": "287186",
             "rank": "5-8",
             "player": "Daniel Riha",
-            "winrate": 0.75,
             "commander": [
                 "Vial Smasher the Fierce",
                 "Reyhan, Last of the Abzan"
@@ -103,7 +102,6 @@
             "deck_id": "287187",
             "rank": "5-8",
             "player": "Radim Gecelovsky",
-            "winrate": 0.75,
             "commander": [
                 "Geist of Saint Traft"
             ],
@@ -200,7 +198,6 @@
             "deck_id": "287188",
             "rank": "1",
             "player": "Jakub Mejznar",
-            "winrate": 0.8888888888888888,
             "commander": [
                 "Zurgo Bellstriker"
             ],
@@ -284,7 +281,6 @@
             "deck_id": "287189",
             "rank": "2",
             "player": "Daniel Tochacek",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Breya, Etherium Shaper"
             ],
@@ -394,7 +390,6 @@
             "deck_id": "287190",
             "rank": "3-4",
             "player": "Michal Krkavec",
-            "winrate": 0.75,
             "commander": [
                 "Zurgo Bellstriker"
             ],
@@ -476,7 +471,6 @@
             "deck_id": "287191",
             "rank": "3-4",
             "player": "Vitezslav Smid",
-            "winrate": 0.75,
             "commander": [
                 "Breya, Etherium Shaper"
             ],
@@ -586,7 +580,6 @@
             "deck_id": "287192",
             "rank": "5-8",
             "player": "Dominik Maly",
-            "winrate": 0.75,
             "commander": [
                 "Breya, Etherium Shaper"
             ],
@@ -696,7 +689,6 @@
             "deck_id": "287193",
             "rank": "5-8",
             "player": "Petr Klima",
-            "winrate": 0.75,
             "commander": [
                 "Geist of Saint Traft"
             ],

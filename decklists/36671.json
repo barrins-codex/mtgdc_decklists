@@ -10,7 +10,6 @@
             "deck_id": "475833",
             "rank": "1",
             "player": "Allan Mariano",
-            "winrate": 1.0,
             "commander": [
                 "Isamaru, Hound of Konda"
             ],
@@ -98,7 +97,6 @@
             "deck_id": "475834",
             "rank": "2",
             "player": "Juan Antonio Agoncillo",
-            "winrate": 0.8,
             "commander": [
                 "Magda, Brazen Outlaw"
             ],
@@ -189,7 +187,6 @@
             "deck_id": "475835",
             "rank": "3-4",
             "player": "Martin Ogayon",
-            "winrate": 0.8,
             "commander": [
                 "Grist, the Hunger Tide"
             ],
@@ -290,7 +287,6 @@
             "deck_id": "475836",
             "rank": "3-4",
             "player": "Joel San Jose, Jr.",
-            "winrate": 0.8,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -400,7 +396,6 @@
             "deck_id": "475837",
             "rank": "5-8",
             "player": "Ste Villaraza",
-            "winrate": 0.6,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -510,7 +505,6 @@
             "deck_id": "475838",
             "rank": "5-8",
             "player": "Dinno Zaide",
-            "winrate": 0.6,
             "commander": [
                 "Ludevic, Necro-Alchemist",
                 "Jeska, Thrice Reborn"
@@ -610,7 +604,6 @@
             "deck_id": "475839",
             "rank": "5-8",
             "player": "Rai Reyes",
-            "winrate": 0.6,
             "commander": [
                 "Ludevic, Necro-Alchemist",
                 "Jeska, Thrice Reborn"
@@ -711,7 +704,6 @@
             "deck_id": "475840",
             "rank": "5-8",
             "player": "Mark Lasam",
-            "winrate": 0.6,
             "commander": [
                 "Dennick, Pious Apprentice"
             ],

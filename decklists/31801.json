@@ -10,7 +10,6 @@
             "deck_id": "445846",
             "rank": "1",
             "player": "Ryan Payabyab",
-            "winrate": 1.0,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "445847",
             "rank": "2",
             "player": "Robert Soriano",
-            "winrate": 0.8,
             "commander": [
                 "Hogaak, Arisen Necropolis"
             ],

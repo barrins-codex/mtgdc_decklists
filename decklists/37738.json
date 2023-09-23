@@ -10,7 +10,6 @@
             "deck_id": "482569",
             "rank": "1",
             "player": "Sebastian Kött",
-            "winrate": 1.0,
             "commander": [
                 "Tameshi, Reality Architect"
             ],
@@ -110,7 +109,6 @@
             "deck_id": "482570",
             "rank": "2",
             "player": "Jonas Jörns",
-            "winrate": 0.8,
             "commander": [
                 "Hogaak, Arisen Necropolis"
             ],

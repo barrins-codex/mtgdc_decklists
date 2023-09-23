@@ -10,7 +10,6 @@
             "deck_id": "505806",
             "rank": "2",
             "player": "Randy Mestiola",
-            "winrate": 0.8,
             "commander": [
                 "The Ur-Dragon"
             ],
@@ -113,7 +112,6 @@
             "deck_id": "505807",
             "rank": "1",
             "player": "Dexter Sienes",
-            "winrate": 1.0,
             "commander": [
                 "Lurrus of the Dream-Den",
                 "Wernog, Rider's Chaplain",

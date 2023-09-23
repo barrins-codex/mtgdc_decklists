@@ -10,7 +10,6 @@
             "deck_id": "232341",
             "rank": "1",
             "player": "Noham Maubert",
-            "winrate": 0.8888888888888888,
             "commander": [
                 "Vendilion Clique"
             ],
@@ -93,7 +92,6 @@
             "deck_id": "232342",
             "rank": "2",
             "player": "Yohann Dudognon",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Jenara, Asura of War"
             ],
@@ -199,7 +197,6 @@
             "deck_id": "232343",
             "rank": "3",
             "player": "Léo Carbonell",
-            "winrate": 0.75,
             "commander": [
                 "Ezuri, Renegade Leader"
             ],
@@ -286,7 +283,6 @@
             "deck_id": "232344",
             "rank": "4",
             "player": "Nicolas Baptiste",
-            "winrate": 0.75,
             "commander": [
                 "Talrand, Sky Summoner"
             ],
@@ -366,7 +362,6 @@
             "deck_id": "232345",
             "rank": "5",
             "player": "Elie Soubeyrand",
-            "winrate": 0.75,
             "commander": [
                 "Animar, Soul of Elements"
             ],
@@ -463,7 +458,6 @@
             "deck_id": "232346",
             "rank": "6",
             "player": "Aymeric Bouchery",
-            "winrate": 0.75,
             "commander": [
                 "Maelstrom Wanderer"
             ],
@@ -559,7 +553,6 @@
             "deck_id": "232347",
             "rank": "7",
             "player": "Nicolas Rabillard",
-            "winrate": 0.75,
             "commander": [
                 "Jenara, Asura of War"
             ],
@@ -667,7 +660,6 @@
             "deck_id": "232348",
             "rank": "8",
             "player": "Pierre Almaraz",
-            "winrate": 0.75,
             "commander": [
                 "Geist of Saint Traft"
             ],

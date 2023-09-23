@@ -10,7 +10,6 @@
             "deck_id": "490347",
             "rank": "1",
             "player": "Jan Hortaleza",
-            "winrate": 1.0,
             "commander": [
                 "General Ferrous Rokiric"
             ],
@@ -113,7 +112,6 @@
             "deck_id": "490348",
             "rank": "2",
             "player": "Jonathan Dolor",
-            "winrate": 0.8,
             "commander": [
                 "Lurrus of the Dream-Den",
                 "Karlov of the Ghost Council"
@@ -215,7 +213,6 @@
             "deck_id": "490349",
             "rank": "3",
             "player": "Rexel Tenorio",
-            "winrate": 0.8,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -325,7 +322,6 @@
             "deck_id": "490350",
             "rank": "4",
             "player": "Timothy Agustin",
-            "winrate": 0.8,
             "commander": [
                 "Gut, True Soul Zealot",
                 "Feywild Visitor"
@@ -427,7 +423,6 @@
             "deck_id": "490351",
             "rank": "5",
             "player": "Deks Sienes",
-            "winrate": 0.6,
             "commander": [
                 "Kess, Dissident Mage"
             ],
@@ -537,7 +532,6 @@
             "deck_id": "490352",
             "rank": "6",
             "player": "Nelvine Tuano",
-            "winrate": 0.6,
             "commander": [
                 "Yoshimaru, Ever Faithful"
             ],
@@ -630,7 +624,6 @@
             "deck_id": "490353",
             "rank": "7",
             "player": "Richmond Ortiz",
-            "winrate": 0.6,
             "commander": [
                 "Kroxa, Titan of Death's Hunger"
             ],
@@ -740,7 +733,6 @@
             "deck_id": "490354",
             "rank": "8",
             "player": "Paul Relativo",
-            "winrate": 0.6,
             "commander": [
                 "Niv-Mizzet Reborn"
             ],

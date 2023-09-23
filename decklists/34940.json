@@ -10,7 +10,6 @@
             "deck_id": "464312",
             "rank": "1",
             "player": "Pierre Ambroise",
-            "winrate": 0.8888888888888888,
             "commander": [
                 "Shorikai, Genesis Engine"
             ],
@@ -108,7 +107,6 @@
             "deck_id": "464313",
             "rank": "2",
             "player": "Thibaud Boivin",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Sythis, Harvest's Hand"
             ],
@@ -211,7 +209,6 @@
             "deck_id": "464314",
             "rank": "3-4",
             "player": "Sefrioui Enzo",
-            "winrate": 0.75,
             "commander": [
                 "Niv-Mizzet Reborn"
             ],
@@ -321,7 +318,6 @@
             "deck_id": "464315",
             "rank": "3-4",
             "player": "Louis Guichard",
-            "winrate": 0.75,
             "commander": [
                 "Marath, Will of the Wild"
             ],
@@ -427,7 +423,6 @@
             "deck_id": "464316",
             "rank": "5-8",
             "player": "Levionnais Bastien",
-            "winrate": 0.75,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -507,7 +502,6 @@
             "deck_id": "464317",
             "rank": "5-8",
             "player": "Bruno Vincent",
-            "winrate": 0.75,
             "commander": [
                 "Doran, the Siege Tower"
             ],
@@ -617,7 +611,6 @@
             "deck_id": "464318",
             "rank": "5-8",
             "player": "Bozec Johan",
-            "winrate": 0.75,
             "commander": [
                 "Grist, the Hunger Tide"
             ],
@@ -715,7 +708,6 @@
             "deck_id": "464319",
             "rank": "5-8",
             "player": "Benoit Rouault",
-            "winrate": 0.75,
             "commander": [
                 "Light-Paws, Emperor's Voice"
             ],

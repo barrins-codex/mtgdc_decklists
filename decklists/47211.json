@@ -10,7 +10,6 @@
             "deck_id": "548870",
             "rank": "1",
             "player": "Ken Decena",
-            "winrate": 1.0,
             "commander": [
                 "Ghyrson Starn, Kelermorph"
             ],
@@ -113,7 +112,6 @@
             "deck_id": "548871",
             "rank": "2",
             "player": "Mel Bonoan",
-            "winrate": 0.8,
             "commander": [
                 "The Beamtown Bullies"
             ],
@@ -223,7 +221,6 @@
             "deck_id": "548872",
             "rank": "3",
             "player": "Dinno Zaide",
-            "winrate": 0.6,
             "commander": [
                 "Ghyrson Starn, Kelermorph"
             ],
@@ -325,7 +322,6 @@
             "deck_id": "548873",
             "rank": "4",
             "player": "Van Acordon",
-            "winrate": 0.6,
             "commander": [
                 "Aragorn, King of Gondor"
             ],

@@ -10,7 +10,6 @@
             "deck_id": "262334",
             "rank": "1",
             "player": "Emilien Pichereau",
-            "winrate": 1.0,
             "commander": [
                 "Surrak Dragonclaw"
             ],
@@ -111,7 +110,6 @@
             "deck_id": "262335",
             "rank": "4",
             "player": "Groniac",
-            "winrate": 0.6,
             "commander": [
                 "Marath, Will of the Wild"
             ],
@@ -216,7 +214,6 @@
             "deck_id": "262340",
             "rank": "3",
             "player": "Graouland",
-            "winrate": 0.8,
             "commander": [
                 "Child of Alara"
             ],
@@ -326,7 +323,6 @@
             "deck_id": "262341",
             "rank": "2",
             "player": "Alexandre Rebillout",
-            "winrate": 0.8,
             "commander": [
                 "Zurgo Bellstriker"
             ],

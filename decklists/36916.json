@@ -10,7 +10,6 @@
             "deck_id": "477354",
             "rank": "1",
             "player": "Ste Villaraza",
-            "winrate": 1.0,
             "commander": [
                 "Minsc &amp; Boo, Timeless Heroes"
             ],
@@ -113,7 +112,6 @@
             "deck_id": "477355",
             "rank": "2",
             "player": "Aldz Bibera",
-            "winrate": 0.8,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -200,7 +198,6 @@
             "deck_id": "477356",
             "rank": "3",
             "player": "Exequiel Lim",
-            "winrate": 0.8,
             "commander": [
                 "Titania, Protector of Argoth"
             ],
@@ -297,7 +294,6 @@
             "deck_id": "477357",
             "rank": "4",
             "player": "Glenn Alesna",
-            "winrate": 0.8,
             "commander": [
                 "Inspiring Leader",
                 "Gut, True Soul Zealot"
@@ -403,7 +399,6 @@
             "deck_id": "477358",
             "rank": "5",
             "player": "Ben Co",
-            "winrate": 0.6,
             "commander": [
                 "Dennick, Pious Apprentice"
             ],
@@ -504,7 +499,6 @@
             "deck_id": "477359",
             "rank": "6",
             "player": "Jarbs Sahagun",
-            "winrate": 0.6,
             "commander": [
                 "Dragonlord Ojutai"
             ],
@@ -605,7 +599,6 @@
             "deck_id": "477360",
             "rank": "7",
             "player": "Rexel Tenorio",
-            "winrate": 0.6,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -715,7 +708,6 @@
             "deck_id": "477361",
             "rank": "8",
             "player": "Juan Antonio Agoncillo",
-            "winrate": 0.6,
             "commander": [
                 "Magda, Brazen Outlaw"
             ],

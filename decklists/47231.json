@@ -10,7 +10,6 @@
             "deck_id": "548982",
             "rank": "1",
             "player": "Jeremiah Maigue",
-            "winrate": 1.0,
             "commander": [
                 "Tana, the Bloodsower",
                 "Yoshimaru, Ever Faithful"
@@ -119,7 +118,6 @@
             "deck_id": "548983",
             "rank": "2",
             "player": "Aaron Macaso",
-            "winrate": 0.8,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -227,7 +225,6 @@
             "deck_id": "548984",
             "rank": "3",
             "player": "Josh Fuentes",
-            "winrate": 0.8,
             "commander": [
                 "Tivit, Seller of Secrets"
             ],
@@ -337,7 +334,6 @@
             "deck_id": "548985",
             "rank": "4",
             "player": "Iori Zugaikotsu",
-            "winrate": 0.6,
             "commander": [
                 "Kotori, Pilot Prodigy"
             ],

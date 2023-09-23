@@ -10,7 +10,6 @@
             "deck_id": "490247",
             "rank": "1",
             "player": "Hui Hehua",
-            "winrate": 1.0,
             "commander": [
                 "Kess, Dissident Mage"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "490248",
             "rank": "2",
             "player": "Cheng Zhenghuan",
-            "winrate": 0.8,
             "commander": [
                 "Dennick, Pious Apprentice"
             ],

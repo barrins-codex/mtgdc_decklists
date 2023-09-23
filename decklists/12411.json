@@ -10,7 +10,6 @@
             "deck_id": "271376",
             "rank": "5-8",
             "player": "Guilherme \"Demonic Tutor\" Machado",
-            "winrate": 0.75,
             "commander": [
                 "Wydwen, the Biting Gale"
             ],
@@ -107,7 +106,6 @@
             "deck_id": "271377",
             "rank": "5-8",
             "player": "Guilherme Mitsuru Fukuda",
-            "winrate": 0.75,
             "commander": [
                 "Marath, Will of the Wild"
             ],
@@ -215,7 +213,6 @@
             "deck_id": "271378",
             "rank": "5-8",
             "player": "Diego Ganev",
-            "winrate": 0.75,
             "commander": [
                 "Jenara, Asura of War"
             ],
@@ -325,7 +322,6 @@
             "deck_id": "271379",
             "rank": "5-8",
             "player": "Fabio Gavazzi",
-            "winrate": 0.75,
             "commander": [
                 "Sidisi, Undead Vizier"
             ],
@@ -415,7 +411,6 @@
             "deck_id": "271380",
             "rank": "3-4",
             "player": "André Escudeiro",
-            "winrate": 0.75,
             "commander": [
                 "Maelstrom Wanderer"
             ],
@@ -518,7 +513,6 @@
             "deck_id": "271381",
             "rank": "1",
             "player": "Lion Santiago",
-            "winrate": 0.8888888888888888,
             "commander": [
                 "Titania, Protector of Argoth"
             ],
@@ -608,7 +602,6 @@
             "deck_id": "271382",
             "rank": "2",
             "player": "Lucas Branco Viudes",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Surrak Dragonclaw"
             ],
@@ -714,7 +707,6 @@
             "deck_id": "271383",
             "rank": "3-4",
             "player": "Paulo Bezzegh",
-            "winrate": 0.75,
             "commander": [
                 "Animar, Soul of Elements"
             ],

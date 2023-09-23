@@ -10,7 +10,6 @@
             "deck_id": "449894",
             "rank": "1",
             "player": "Bredzinski Thibaut",
-            "winrate": 0.875,
             "commander": [
                 "Miara, Thorn of the Glade",
                 "Tevesh Szat, Doom of Fools"
@@ -93,7 +92,6 @@
             "deck_id": "449895",
             "rank": "2",
             "player": "Marceau Flottes",
-            "winrate": 0.75,
             "commander": [
                 "Klothys, God of Destiny"
             ],
@@ -186,7 +184,6 @@
             "deck_id": "449896",
             "rank": "3-4",
             "player": "Som40",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Leovold, Emissary of Trest"
             ],
@@ -296,7 +293,6 @@
             "deck_id": "449897",
             "rank": "3-4",
             "player": "Maxence Machinaud",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Gallia of the Endless Dance"
             ],
@@ -390,7 +386,6 @@
             "deck_id": "449898",
             "rank": "5-8",
             "player": "Leon Remi",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Atraxa, Praetors' Voice"
             ],
@@ -500,7 +495,6 @@
             "deck_id": "449899",
             "rank": "5-8",
             "player": "Kim Nguyen",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Kinnan, Bonder Prodigy"
             ],
@@ -595,7 +589,6 @@
             "deck_id": "449900",
             "rank": "5-8",
             "player": "Cedric Roy",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -705,7 +698,6 @@
             "deck_id": "449901",
             "rank": "5-8",
             "player": "Sebastien Flottes",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Malcolm, Keen-Eyed Navigator",
                 "Kraum, Ludevic's Opus"

@@ -10,7 +10,6 @@
             "deck_id": "307869",
             "rank": "2",
             "player": "Björn Hoffmann",
-            "winrate": 0.8,
             "commander": [
                 "Reyhan, Last of the Abzan",
                 "Tymna the Weaver"
@@ -114,7 +113,6 @@
             "deck_id": "307870",
             "rank": "1",
             "player": "Richard Müller",
-            "winrate": 1.0,
             "commander": [
                 "Prossh, Skyraider of Kher"
             ],

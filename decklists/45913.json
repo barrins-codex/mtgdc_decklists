@@ -10,7 +10,6 @@
             "deck_id": "539246",
             "rank": "1",
             "player": "Antonio Carlos",
-            "winrate": 1.0,
             "commander": [
                 "Feldon, Ronom Excavator"
             ],
@@ -96,7 +95,6 @@
             "deck_id": "539247",
             "rank": "2",
             "player": "Edmond Trindade",
-            "winrate": 0.8,
             "commander": [
                 "Kinnan, Bonder Prodigy"
             ],
@@ -193,7 +191,6 @@
             "deck_id": "539249",
             "rank": "3-4",
             "player": "Nelson Ancião",
-            "winrate": 0.6,
             "commander": [
                 "Leovold, Emissary of Trest"
             ],

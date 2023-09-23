@@ -10,7 +10,6 @@
             "deck_id": "407030",
             "rank": "1",
             "player": "Diego \"dmyr\" Rio",
-            "winrate": 1.0,
             "commander": [
                 "Jirina Kudro"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "407031",
             "rank": "2",
             "player": "Shandra Ickowicz",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Daretti, Scrap Savant"
             ],

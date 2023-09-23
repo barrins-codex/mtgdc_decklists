@@ -10,7 +10,6 @@
             "deck_id": "528671",
             "rank": "1",
             "player": "Pablo Lima",
-            "winrate": 1.0,
             "commander": [
                 "Feldon, Ronom Excavator"
             ],
@@ -93,7 +92,6 @@
             "deck_id": "528672",
             "rank": "2",
             "player": "Leonardo Maeda",
-            "winrate": 0.8,
             "commander": [
                 "Minsc, Beloved Ranger"
             ],
@@ -200,7 +198,6 @@
             "deck_id": "528673",
             "rank": "3",
             "player": "Hugo Shelling",
-            "winrate": 0.8,
             "commander": [
                 "Dihada, Binder of Wills"
             ],
@@ -310,7 +307,6 @@
             "deck_id": "528674",
             "rank": "4",
             "player": "Rafael Fernandes",
-            "winrate": 0.6,
             "commander": [
                 "Juri, Master of the Revue"
             ],

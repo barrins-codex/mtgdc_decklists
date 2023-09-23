@@ -10,7 +10,6 @@
             "deck_id": "249509",
             "rank": "1",
             "player": "Romain Sacaze",
-            "winrate": 1.0,
             "commander": [
                 "Narset, Enlightened Master"
             ],
@@ -116,7 +115,6 @@
             "deck_id": "249510",
             "rank": "2",
             "player": "Matthieu Habersetzer",
-            "winrate": 0.8,
             "commander": [
                 "Anafenza, the Foremost"
             ],
@@ -226,7 +224,6 @@
             "deck_id": "249511",
             "rank": "3-4",
             "player": "Cyril Hue",
-            "winrate": 0.8,
             "commander": [
                 "Skithiryx, the Blight Dragon"
             ],
@@ -313,7 +310,6 @@
             "deck_id": "249512",
             "rank": "3-4",
             "player": "Julien Caillaux",
-            "winrate": 0.8,
             "commander": [
                 "Prossh, Skyraider of Kher"
             ],
@@ -423,7 +419,6 @@
             "deck_id": "249513",
             "rank": "5-8",
             "player": "Simon Gradaive",
-            "winrate": 0.6,
             "commander": [
                 "Kaalia of the Vast"
             ],
@@ -522,7 +517,6 @@
             "deck_id": "249514",
             "rank": "5-8",
             "player": "Thomas Mestreau",
-            "winrate": 0.6,
             "commander": [
                 "Grand Arbiter Augustin IV"
             ],
@@ -608,7 +602,6 @@
             "deck_id": "249515",
             "rank": "5-8",
             "player": "William Guignot",
-            "winrate": 0.6,
             "commander": [
                 "Anafenza, the Foremost"
             ],
@@ -718,7 +711,6 @@
             "deck_id": "249516",
             "rank": "5-8",
             "player": "Julien Rouar",
-            "winrate": 0.6,
             "commander": [
                 "Keranos, God of Storms"
             ],

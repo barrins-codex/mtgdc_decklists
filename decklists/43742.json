@@ -10,7 +10,6 @@
             "deck_id": "522949",
             "rank": "1",
             "player": "Guilherme Bellagente",
-            "winrate": 1.0,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "522950",
             "rank": "2",
             "player": "Raul Borges",
-            "winrate": 0.8,
             "commander": [
                 "Ebondeath, Dracolich"
             ],
@@ -191,7 +189,6 @@
             "deck_id": "522951",
             "rank": "3-4",
             "player": "Samuel Martins",
-            "winrate": 0.6,
             "commander": [
                 "Hogaak, Arisen Necropolis"
             ],
@@ -301,7 +298,6 @@
             "deck_id": "522952",
             "rank": "3-4",
             "player": "Robs",
-            "winrate": 0.6,
             "commander": [
                 "Migloz, Maze Crusher"
             ],

@@ -10,7 +10,6 @@
             "deck_id": "266600",
             "rank": "2",
             "player": "Hector Poblete",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Kaalia of the Vast"
             ],
@@ -110,7 +109,6 @@
             "deck_id": "266602",
             "rank": "1",
             "player": "Claudio Barrera",
-            "winrate": 1.0,
             "commander": [
                 "Tasigur, the Golden Fang"
             ],

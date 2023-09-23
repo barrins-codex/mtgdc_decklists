@@ -10,7 +10,6 @@
             "deck_id": "430896",
             "rank": "1",
             "player": "M.das",
-            "winrate": 0.8888888888888888,
             "commander": [
                 "Rograkh, Son of Rohgahh",
                 "Keleth, Sunmane Familiar"
@@ -108,7 +107,6 @@
             "deck_id": "430898",
             "rank": "3",
             "player": "Mrelfor",
-            "winrate": 0.75,
             "commander": [
                 "Winota, Joiner of Forces"
             ],
@@ -204,7 +202,6 @@
             "deck_id": "430899",
             "rank": "4",
             "player": "Fowcus",
-            "winrate": 0.75,
             "commander": [
                 "Silas Renn, Seeker Adept",
                 "Krark, the Thumbless"
@@ -314,7 +311,6 @@
             "deck_id": "430900",
             "rank": "5",
             "player": "Matxicoatl",
-            "winrate": 0.75,
             "commander": [
                 "Winota, Joiner of Forces"
             ],
@@ -411,7 +407,6 @@
             "deck_id": "430901",
             "rank": "6",
             "player": "Hotcho",
-            "winrate": 0.75,
             "commander": [
                 "The First Sliver"
             ],
@@ -521,7 +516,6 @@
             "deck_id": "430902",
             "rank": "7",
             "player": "Onesauk",
-            "winrate": 0.75,
             "commander": [
                 "Krark, the Thumbless",
                 "Tevesh Szat, Doom of Fools"
@@ -619,7 +613,6 @@
             "deck_id": "430903",
             "rank": "8",
             "player": "Admab",
-            "winrate": 0.75,
             "commander": [
                 "Rograkh, Son of Rohgahh",
                 "Keleth, Sunmane Familiar"

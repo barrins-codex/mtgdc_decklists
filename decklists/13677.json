@@ -10,7 +10,6 @@
             "deck_id": "280576",
             "rank": "1",
             "player": "Julien Caillaux",
-            "winrate": 0.8888888888888888,
             "commander": [
                 "Maelstrom Wanderer"
             ],
@@ -113,7 +112,6 @@
             "deck_id": "280577",
             "rank": "2",
             "player": "Romain Sacaze",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Narset, Enlightened Master"
             ],
@@ -220,7 +218,6 @@
             "deck_id": "280578",
             "rank": "3-4",
             "player": "Damien Labruni",
-            "winrate": 0.75,
             "commander": [
                 "Narset, Enlightened Master"
             ],
@@ -327,7 +324,6 @@
             "deck_id": "280579",
             "rank": "3-4",
             "player": "Julien Gassemann",
-            "winrate": 0.75,
             "commander": [
                 "Vendilion Clique"
             ],
@@ -411,7 +407,6 @@
             "deck_id": "280580",
             "rank": "5-8",
             "player": "Cyril Hue",
-            "winrate": 0.75,
             "commander": [
                 "Thraximundar"
             ],
@@ -509,7 +504,6 @@
             "deck_id": "280581",
             "rank": "5-8",
             "player": "Paul Ridoux",
-            "winrate": 0.75,
             "commander": [
                 "Karador, Ghost Chieftain"
             ],
@@ -617,7 +611,6 @@
             "deck_id": "280582",
             "rank": "5-8",
             "player": "Julien Riuar",
-            "winrate": 0.75,
             "commander": [
                 "The Gitrog Monster"
             ],
@@ -722,7 +715,6 @@
             "deck_id": "280583",
             "rank": "5-8",
             "player": "Matthieu Habersetzer",
-            "winrate": 0.75,
             "commander": [
                 "Xenagos, God of Revels"
             ],

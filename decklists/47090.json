@@ -10,7 +10,6 @@
             "deck_id": "547976",
             "rank": "1",
             "player": "Jordan Bizon",
-            "winrate": 1.0,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "547977",
             "rank": "2",
             "player": "Epiard Simon",
-            "winrate": 0.8,
             "commander": [
                 "Tivit, Seller of Secrets"
             ],
@@ -230,7 +228,6 @@
             "deck_id": "547978",
             "rank": "3",
             "player": "Gilbert Fabien",
-            "winrate": 0.8,
             "commander": [
                 "Teferi, Temporal Archmage"
             ],
@@ -307,7 +304,6 @@
             "deck_id": "547979",
             "rank": "4",
             "player": "Cousseau Laurent",
-            "winrate": 0.6,
             "commander": [
                 "Ghyrson Starn, Kelermorph"
             ],

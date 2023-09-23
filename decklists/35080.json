@@ -10,7 +10,6 @@
             "deck_id": "465091",
             "rank": "1",
             "player": "Jonas Kretzschmar",
-            "winrate": 1.0,
             "commander": [
                 "Yisan, the Wanderer Bard"
             ],
@@ -102,7 +101,6 @@
             "deck_id": "465092",
             "rank": "2",
             "player": "Eik The Necromancer",
-            "winrate": 0.8,
             "commander": [
                 "Kroxa, Titan of Death's Hunger"
             ],
@@ -203,7 +201,6 @@
             "deck_id": "465093",
             "rank": "2",
             "player": "Henryk Hecht",
-            "winrate": 0.8,
             "commander": [
                 "Sythis, Harvest's Hand"
             ],

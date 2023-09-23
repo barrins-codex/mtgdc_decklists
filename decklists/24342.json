@@ -10,7 +10,6 @@
             "deck_id": "370025",
             "rank": "9-16",
             "player": "Baptiste Hilmann",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Will Kenrith",
                 "Rowan Kenrith"
@@ -99,7 +98,6 @@
             "deck_id": "370026",
             "rank": "9-16",
             "player": "Pierre-yves Lefebvre",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Zur the Enchanter"
             ],
@@ -209,7 +207,6 @@
             "deck_id": "370027",
             "rank": "9-16",
             "player": "Claude \"meuz\" Roger",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Questing Beast"
             ],
@@ -285,7 +282,6 @@
             "deck_id": "370028",
             "rank": "9-16",
             "player": "Flavien \"crimelune\" Paillet",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Hogaak, Arisen Necropolis"
             ],
@@ -395,7 +391,6 @@
             "deck_id": "370029",
             "rank": "9-16",
             "player": "Cyril Germain",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Kraum, Ludevic's Opus",
                 "Reyhan, Last of the Abzan"
@@ -505,7 +500,6 @@
             "deck_id": "370030",
             "rank": "9-16",
             "player": "Nicolas Jeoffrey",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -592,7 +586,6 @@
             "deck_id": "370031",
             "rank": "9-16",
             "player": "Alexis Roman",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Karlov of the Ghost Council"
             ],
@@ -702,7 +695,6 @@
             "deck_id": "370032",
             "rank": "1",
             "player": "Gaetan Pican",
-            "winrate": 0.9,
             "commander": [
                 "Rowan Kenrith",
                 "Will Kenrith"
@@ -792,7 +784,6 @@
             "deck_id": "370033",
             "rank": "2",
             "player": "Stephane Copreaux",
-            "winrate": 0.8,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -902,7 +893,6 @@
             "deck_id": "370034",
             "rank": "3-4",
             "player": "Eric \"morchiswe\" Genin",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Iname, Death Aspect"
             ],
@@ -988,7 +978,6 @@
             "deck_id": "370035",
             "rank": "3-4",
             "player": "Pyrrhus",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "The Gitrog Monster"
             ],
@@ -1087,7 +1076,6 @@
             "deck_id": "370036",
             "rank": "5-8",
             "player": "Martial Benoit",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Grenzo, Dungeon Warden"
             ],
@@ -1187,7 +1175,6 @@
             "deck_id": "370037",
             "rank": "5-8",
             "player": "Quentin Rullaud",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Hogaak, Arisen Necropolis"
             ],
@@ -1297,7 +1284,6 @@
             "deck_id": "370038",
             "rank": "5-8",
             "player": "Moncana",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Sai, Master Thopterist"
             ],
@@ -1385,7 +1371,6 @@
             "deck_id": "370039",
             "rank": "5-8",
             "player": "Gwenn Leroux",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Will Kenrith"
             ],
@@ -1457,7 +1442,6 @@
             "deck_id": "370040",
             "rank": "9-16",
             "player": "Julien Nicolet",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Kraum, Ludevic's Opus",
                 "Tymna the Weaver"

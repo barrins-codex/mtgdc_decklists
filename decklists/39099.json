@@ -10,7 +10,6 @@
             "deck_id": "491466",
             "rank": "1",
             "player": "Juca",
-            "winrate": 1.0,
             "commander": [
                 "Rowan Kenrith",
                 "Will Kenrith"
@@ -102,7 +101,6 @@
             "deck_id": "491467",
             "rank": "2",
             "player": "Ruan Rangel",
-            "winrate": 0.8,
             "commander": [
                 "Elminster"
             ],
@@ -189,7 +187,6 @@
             "deck_id": "491468",
             "rank": "3-4",
             "player": "Clemilson",
-            "winrate": 0.8,
             "commander": [
                 "Feather, the Redeemed"
             ],
@@ -275,7 +272,6 @@
             "deck_id": "491469",
             "rank": "3-4",
             "player": "Kauan",
-            "winrate": 0.8,
             "commander": [
                 "Light-Paws, Emperor's Voice"
             ],

@@ -10,7 +10,6 @@
             "deck_id": "520854",
             "rank": "1",
             "player": "Douglas Pacifico",
-            "winrate": 1.0,
             "commander": [
                 "Ghyrson Starn, Kelermorph"
             ],
@@ -106,7 +105,6 @@
             "deck_id": "520855",
             "rank": "2",
             "player": "Raul Borges",
-            "winrate": 0.8,
             "commander": [
                 "Jadar, Ghoulcaller of Nephalia"
             ],
@@ -179,7 +177,6 @@
             "deck_id": "520856",
             "rank": "3-4",
             "player": "Gustavo Silva",
-            "winrate": 0.6,
             "commander": [
                 "Grist, the Hunger Tide"
             ],
@@ -278,7 +275,6 @@
             "deck_id": "520857",
             "rank": "3-4",
             "player": "Samuel Martins",
-            "winrate": 0.6,
             "commander": [
                 "Hogaak, Arisen Necropolis"
             ],

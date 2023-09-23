@@ -10,7 +10,6 @@
             "deck_id": "525230",
             "rank": "1",
             "player": "Dawei,gu",
-            "winrate": 1.0,
             "commander": [
                 "Jeska, Thrice Reborn",
                 "Yoshimaru, Ever Faithful"
@@ -116,7 +115,6 @@
             "deck_id": "525231",
             "rank": "2",
             "player": "Haoyu,gu",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Juri, Master of the Revue"
             ],

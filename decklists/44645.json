@@ -10,7 +10,6 @@
             "deck_id": "529364",
             "rank": "1",
             "player": "Mathieu Leclere",
-            "winrate": 1.0,
             "commander": [
                 "Niv-Mizzet Reborn"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "529365",
             "rank": "3-4",
             "player": "Hugo Fremont",
-            "winrate": 0.8,
             "commander": [
                 "Grist, the Hunger Tide"
             ],
@@ -219,7 +217,6 @@
             "deck_id": "529366",
             "rank": "3-4",
             "player": "Erwan Bertrand",
-            "winrate": 0.8,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -329,7 +326,6 @@
             "deck_id": "529367",
             "rank": "5-8",
             "player": "Idris Achouri",
-            "winrate": 0.6,
             "commander": [
                 "Feldon, Ronom Excavator"
             ],
@@ -412,7 +408,6 @@
             "deck_id": "529368",
             "rank": "5-8",
             "player": "Nurbey « Agrian » Cerkezoglu",
-            "winrate": 0.6,
             "commander": [
                 "Ertai Resurrected"
             ],
@@ -522,7 +517,6 @@
             "deck_id": "529369",
             "rank": "5-8",
             "player": "Diego Rio",
-            "winrate": 0.6,
             "commander": [
                 "Dihada, Binder of Wills"
             ],
@@ -632,7 +626,6 @@
             "deck_id": "529370",
             "rank": "5-8",
             "player": "Alex Bertrand",
-            "winrate": 0.6,
             "commander": [
                 "Tivit, Seller of Secrets"
             ],
@@ -742,7 +735,6 @@
             "deck_id": "529824",
             "rank": "2",
             "player": "Guillaume « Totoroux » Duday-Marlot",
-            "winrate": 0.8,
             "commander": [
                 "Tunnel of Love",
                 "Trash Bin",

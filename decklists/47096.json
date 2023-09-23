@@ -10,7 +10,6 @@
             "deck_id": "548032",
             "rank": "1",
             "player": "Alexandre Boisvert",
-            "winrate": 1.0,
             "commander": [
                 "Trelasarra, Moon Dancer"
             ],
@@ -109,7 +108,6 @@
             "deck_id": "548033",
             "rank": "2",
             "player": "Phabien Lepage Mercier",
-            "winrate": 0.8,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -217,7 +215,6 @@
             "deck_id": "548034",
             "rank": "3-4",
             "player": "Dylan Maher",
-            "winrate": 0.6,
             "commander": [
                 "Feldon, Ronom Excavator"
             ],
@@ -305,7 +302,6 @@
             "deck_id": "548035",
             "rank": "3-4",
             "player": "Alex Dumont",
-            "winrate": 0.6,
             "commander": [
                 "Dennick, Pious Apprentice"
             ],

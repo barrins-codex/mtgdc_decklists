@@ -10,7 +10,6 @@
             "deck_id": "457778",
             "rank": "1",
             "player": "Roman Vejdelek",
-            "winrate": 1.0,
             "commander": [
                 "Kraum, Ludevic's Opus",
                 "Malcolm, Keen-Eyed Navigator"
@@ -107,7 +106,6 @@
             "deck_id": "457779",
             "rank": "2",
             "player": "Jan Stefan",
-            "winrate": 0.8,
             "commander": [
                 "Grenzo, Dungeon Warden"
             ],
@@ -203,7 +201,6 @@
             "deck_id": "457780",
             "rank": "3-4",
             "player": "Jan Jilek",
-            "winrate": 0.8,
             "commander": [
                 "Livio, Oathsworn Sentinel"
             ],
@@ -307,7 +304,6 @@
             "deck_id": "457781",
             "rank": "3-4",
             "player": "Jakub Lelek",
-            "winrate": 0.8,
             "commander": [
                 "Minsc, Beloved Ranger"
             ],
@@ -414,7 +410,6 @@
             "deck_id": "457782",
             "rank": "5-8",
             "player": "Martin Holek",
-            "winrate": 0.6,
             "commander": [
                 "Kess, Dissident Mage"
             ],
@@ -524,7 +519,6 @@
             "deck_id": "457783",
             "rank": "5-8",
             "player": "Jan Kousal",
-            "winrate": 0.6,
             "commander": [
                 "Saheeli, the Gifted"
             ],
@@ -624,7 +618,6 @@
             "deck_id": "457784",
             "rank": "5-8",
             "player": "Henrich Jencus",
-            "winrate": 0.6,
             "commander": [
                 "General Ferrous Rokiric"
             ],
@@ -715,7 +708,6 @@
             "deck_id": "457785",
             "rank": "5-8",
             "player": "Vojtech Benes",
-            "winrate": 0.6,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],

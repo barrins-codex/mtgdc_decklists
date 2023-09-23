@@ -10,7 +10,6 @@
             "deck_id": "496257",
             "rank": "1",
             "player": "Alexis",
-            "winrate": 0.875,
             "commander": [
                 "Sythis, Harvest's Hand"
             ],
@@ -109,7 +108,6 @@
             "deck_id": "496258",
             "rank": "2",
             "player": "Jean-loup Michel",
-            "winrate": 0.75,
             "commander": [
                 "Niv-Mizzet Reborn"
             ],
@@ -219,7 +217,6 @@
             "deck_id": "496259",
             "rank": "3-4",
             "player": "Quentin Jarjat",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Bruse Tarl, Boorish Herder",
                 "Yoshimaru, Ever Faithful"
@@ -315,7 +312,6 @@
             "deck_id": "496260",
             "rank": "3-4",
             "player": "Yoan Gariston",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Sai, Master Thopterist"
             ],
@@ -402,7 +398,6 @@
             "deck_id": "496261",
             "rank": "5-8",
             "player": "Hippolyte Sénéchau",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Prossh, Skyraider of Kher"
             ],
@@ -512,7 +507,6 @@
             "deck_id": "496262",
             "rank": "5-8",
             "player": "Kim-lâm Huynh",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Ghyrson Starn, Kelermorph"
             ],
@@ -613,7 +607,6 @@
             "deck_id": "496263",
             "rank": "5-8",
             "player": "Jérémie Dulac",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Azusa, Lost but Seeking"
             ],

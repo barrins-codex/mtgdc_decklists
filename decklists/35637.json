@@ -10,7 +10,6 @@
             "deck_id": "468910",
             "rank": "1",
             "player": "Aurèle Commeureuc",
-            "winrate": 1.0,
             "commander": [
                 "Vadrok, Apex of Thunder"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "468911",
             "rank": "2",
             "player": "Valentin Avenel",
-            "winrate": 0.8,
             "commander": [
                 "Dennick, Pious Apprentice"
             ],

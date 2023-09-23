@@ -10,7 +10,6 @@
             "deck_id": "356315",
             "rank": "8",
             "player": "Nicolas Jeoffrey",
-            "winrate": 0.6,
             "commander": [
                 "Daretti, Scrap Savant"
             ],
@@ -96,7 +95,6 @@
             "deck_id": "356317",
             "rank": "4",
             "player": "Remy Gaspard (reyanderson7)",
-            "winrate": 0.8,
             "commander": [
                 "Tajic, Legion's Edge"
             ],
@@ -195,7 +193,6 @@
             "deck_id": "356318",
             "rank": "5",
             "player": "Gillard Clément",
-            "winrate": 0.6,
             "commander": [
                 "Sai, Master Thopterist"
             ],
@@ -287,7 +284,6 @@
             "deck_id": "356319",
             "rank": "6",
             "player": "Rullaud Quentin (bobota852)",
-            "winrate": 0.6,
             "commander": [
                 "Yuriko, the Tiger's Shadow"
             ],
@@ -384,7 +380,6 @@
             "deck_id": "356320",
             "rank": "7",
             "player": "Le Saux Tristant",
-            "winrate": 0.6,
             "commander": [
                 "Lord Windgrace"
             ],
@@ -492,7 +487,6 @@
             "deck_id": "356321",
             "rank": "3",
             "player": "Cuchet Martin (spigusheegu)",
-            "winrate": 0.8,
             "commander": [
                 "Arahbo, Roar of the World"
             ],
@@ -594,7 +588,6 @@
             "deck_id": "356322",
             "rank": "2",
             "player": "Cailiez Guillaume",
-            "winrate": 0.8,
             "commander": [
                 "Kess, Dissident Mage"
             ],
@@ -704,7 +697,6 @@
             "deck_id": "356323",
             "rank": "1",
             "player": "Grégoire Payan (koraysh)",
-            "winrate": 1.0,
             "commander": [
                 "The Gitrog Monster"
             ],

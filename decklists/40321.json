@@ -10,7 +10,6 @@
             "deck_id": "500093",
             "rank": "1",
             "player": "Jindřich Hruka",
-            "winrate": 1.0,
             "commander": [
                 "Balmor, Battlemage Captain"
             ],
@@ -108,7 +107,6 @@
             "deck_id": "500094",
             "rank": "2",
             "player": "Jiří Varga",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Tivit, Seller of Secrets"
             ],

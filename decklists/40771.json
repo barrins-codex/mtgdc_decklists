@@ -10,7 +10,6 @@
             "deck_id": "503312",
             "rank": "1",
             "player": "Erick Ste-marie",
-            "winrate": 1.0,
             "commander": [
                 "Sythis, Harvest's Hand"
             ],
@@ -109,7 +108,6 @@
             "deck_id": "503313",
             "rank": "2",
             "player": "David Hébert",
-            "winrate": 0.8,
             "commander": [
                 "Light-Paws, Emperor's Voice"
             ],
@@ -190,7 +188,6 @@
             "deck_id": "503314",
             "rank": "3-4",
             "player": "Alex St-aubin",
-            "winrate": 0.6,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -275,7 +272,6 @@
             "deck_id": "503315",
             "rank": "3-4",
             "player": "Yan Bossé",
-            "winrate": 0.6,
             "commander": [
                 "Dargo, the Shipwrecker",
                 "Silas Renn, Seeker Adept"

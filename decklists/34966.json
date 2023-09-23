@@ -10,7 +10,6 @@
             "deck_id": "464429",
             "rank": "1",
             "player": "Maxime Morillon",
-            "winrate": 1.0,
             "commander": [
                 "Dennick, Pious Apprentice"
             ],
@@ -112,7 +111,6 @@
             "deck_id": "464430",
             "rank": "2",
             "player": "Alexis Mommee",
-            "winrate": 0.8,
             "commander": [
                 "Niv-Mizzet Reborn"
             ],
@@ -222,7 +220,6 @@
             "deck_id": "464431",
             "rank": "3-4",
             "player": "Damien Mocquet",
-            "winrate": 0.8,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -312,7 +309,6 @@
             "deck_id": "464432",
             "rank": "3-4",
             "player": "Raoul \"Senomar\" Chavialle",
-            "winrate": 0.8,
             "commander": [
                 "Otrimi, the Ever-Playful"
             ],
@@ -422,7 +418,6 @@
             "deck_id": "464433",
             "rank": "5-8",
             "player": "Clément Selles",
-            "winrate": 0.6,
             "commander": [
                 "Adeliz, the Cinder Wind"
             ],
@@ -519,7 +514,6 @@
             "deck_id": "464434",
             "rank": "5-8",
             "player": "Ambroise Berthe",
-            "winrate": 0.6,
             "commander": [
                 "Grist, the Hunger Tide"
             ],
@@ -617,7 +611,6 @@
             "deck_id": "464435",
             "rank": "5-8",
             "player": "Domino",
-            "winrate": 0.6,
             "commander": [
                 "Ishai, Ojutai Dragonspeaker",
                 "Tevesh Szat, Doom of Fools"
@@ -724,7 +717,6 @@
             "deck_id": "464436",
             "rank": "5-8",
             "player": "Gael Huber",
-            "winrate": 0.6,
             "commander": [
                 "Queen Marchesa"
             ],

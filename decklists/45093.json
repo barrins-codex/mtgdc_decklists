@@ -10,7 +10,6 @@
             "deck_id": "532918",
             "rank": "1",
             "player": "Mo Sun",
-            "winrate": 1.0,
             "commander": [
                 "Feldon, Ronom Excavator"
             ],
@@ -98,7 +97,6 @@
             "deck_id": "532919",
             "rank": "2",
             "player": "Ruji Li",
-            "winrate": 0.8,
             "commander": [
                 "Errant and Giada"
             ],

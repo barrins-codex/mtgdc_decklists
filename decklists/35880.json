@@ -10,7 +10,6 @@
             "deck_id": "470446",
             "rank": "1",
             "player": "Quentin Goyet",
-            "winrate": 1.0,
             "commander": [
                 "Light-Paws, Emperor's Voice"
             ],
@@ -93,7 +92,6 @@
             "deck_id": "470447",
             "rank": "2",
             "player": "Camille Bourgeon",
-            "winrate": 0.8,
             "commander": [
                 "Kelsien, the Plague"
             ],
@@ -203,7 +201,6 @@
             "deck_id": "470448",
             "rank": "3-4",
             "player": "Jean-alexis Lequoque",
-            "winrate": 0.8,
             "commander": [
                 "Sai, Master Thopterist"
             ],
@@ -291,7 +288,6 @@
             "deck_id": "470449",
             "rank": "3-4",
             "player": "Paul Juyaux",
-            "winrate": 0.8,
             "commander": [
                 "Anje Falkenrath"
             ],
@@ -389,7 +385,6 @@
             "deck_id": "470450",
             "rank": "5-8",
             "player": "Bastien Guichard",
-            "winrate": 0.6,
             "commander": [
                 "Isamaru, Hound of Konda"
             ],
@@ -475,7 +470,6 @@
             "deck_id": "470451",
             "rank": "5-8",
             "player": "Thomas Grillot",
-            "winrate": 0.6,
             "commander": [
                 "Grist, the Hunger Tide"
             ],
@@ -578,7 +572,6 @@
             "deck_id": "470452",
             "rank": "5-8",
             "player": "Anthony Dominguez",
-            "winrate": 0.6,
             "commander": [
                 "Niv-Mizzet Reborn"
             ],
@@ -688,7 +681,6 @@
             "deck_id": "470453",
             "rank": "5-8",
             "player": "Yann Belmer",
-            "winrate": 0.6,
             "commander": [
                 "Grist, the Hunger Tide"
             ],

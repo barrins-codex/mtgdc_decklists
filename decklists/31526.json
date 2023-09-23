@@ -10,7 +10,6 @@
             "deck_id": "444205",
             "rank": "1",
             "player": "Rexel Tenorio",
-            "winrate": 1.0,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "444206",
             "rank": "2",
             "player": "Dinno Zaide",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Tevesh Szat, Doom of Fools",
                 "Sakashima of a Thousand Faces"

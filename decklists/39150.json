@@ -10,7 +10,6 @@
             "deck_id": "491826",
             "rank": "1",
             "player": "Lucas Milani",
-            "winrate": 1.0,
             "commander": [
                 "Grist, the Hunger Tide"
             ],
@@ -110,7 +109,6 @@
             "deck_id": "491827",
             "rank": "2",
             "player": "Maxime Catala",
-            "winrate": 0.8,
             "commander": [
                 "Lurrus of the Dream-Den",
                 "Wernog, Rider's Chaplain",
@@ -221,7 +219,6 @@
             "deck_id": "491828",
             "rank": "3-4",
             "player": "Jerome Perez",
-            "winrate": 0.8,
             "commander": [
                 "Yoshimaru, Ever Faithful",
                 "Tana, the Bloodsower"
@@ -322,7 +319,6 @@
             "deck_id": "491829",
             "rank": "3-4",
             "player": "Adrien Auger",
-            "winrate": 0.8,
             "commander": [
                 "The Beamtown Bullies"
             ],

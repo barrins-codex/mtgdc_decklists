@@ -10,7 +10,6 @@
             "deck_id": "255375",
             "rank": "1",
             "player": "Michele Atzeni",
-            "winrate": 1.0,
             "commander": [
                 "Geist of Saint Traft"
             ],
@@ -105,7 +104,6 @@
             "deck_id": "255376",
             "rank": "2",
             "player": "Simone Davoli",
-            "winrate": 0.8,
             "commander": [
                 "Marath, Will of the Wild"
             ],

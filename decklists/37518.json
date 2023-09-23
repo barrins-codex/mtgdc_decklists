@@ -10,7 +10,6 @@
             "deck_id": "481152",
             "rank": "1",
             "player": "The Malicious",
-            "winrate": 1.0,
             "commander": [
                 "Elminster"
             ],
@@ -113,7 +112,6 @@
             "deck_id": "481153",
             "rank": "2",
             "player": "Azurella",
-            "winrate": 0.8,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -202,7 +200,6 @@
             "deck_id": "481154",
             "rank": "3-4",
             "player": "Torgnoles",
-            "winrate": 0.6,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -312,7 +309,6 @@
             "deck_id": "481155",
             "rank": "3-4",
             "player": "Jah Vaule",
-            "winrate": 0.6,
             "commander": [
                 "Sevinne, the Chronoclasm"
             ],

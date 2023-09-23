@@ -10,7 +10,6 @@
             "deck_id": "267960",
             "rank": "9-16",
             "player": "Guillaume Secher",
-            "winrate": 0.75,
             "commander": [
                 "Meren of Clan Nel Toth"
             ],
@@ -113,7 +112,6 @@
             "deck_id": "267961",
             "rank": "9-16",
             "player": "Théo Di Mambro",
-            "winrate": 0.75,
             "commander": [
                 "Yisan, the Wanderer Bard"
             ],
@@ -200,7 +198,6 @@
             "deck_id": "267962",
             "rank": "9-16",
             "player": "Damien \"Nagash76\" Marais",
-            "winrate": 0.75,
             "commander": [
                 "Jenara, Asura of War"
             ],
@@ -309,7 +306,6 @@
             "deck_id": "267963",
             "rank": "9-16",
             "player": "Yan Lorente",
-            "winrate": 0.75,
             "commander": [
                 "Sidisi, Brood Tyrant"
             ],
@@ -416,7 +412,6 @@
             "deck_id": "267964",
             "rank": "9-16",
             "player": "Robin Mickael",
-            "winrate": 0.75,
             "commander": [
                 "Animar, Soul of Elements"
             ],
@@ -524,7 +519,6 @@
             "deck_id": "267965",
             "rank": "9-16",
             "player": "Jonathan  \"Joedu76\" Solas",
-            "winrate": 0.75,
             "commander": [
                 "Doran, the Siege Tower"
             ],
@@ -634,7 +628,6 @@
             "deck_id": "267966",
             "rank": "9-16",
             "player": "Noham Maubert",
-            "winrate": 0.75,
             "commander": [
                 "Yisan, the Wanderer Bard"
             ],
@@ -721,7 +714,6 @@
             "deck_id": "267967",
             "rank": "9-16",
             "player": "Manuel Le Marec",
-            "winrate": 0.75,
             "commander": [
                 "Jace, Vryn's Prodigy"
             ],
@@ -800,7 +792,6 @@
             "deck_id": "267968",
             "rank": "5-8",
             "player": "Flavien Cote",
-            "winrate": 0.8,
             "commander": [
                 "Marath, Will of the Wild"
             ],
@@ -902,7 +893,6 @@
             "deck_id": "267969",
             "rank": "1",
             "player": "Mickael Bernard",
-            "winrate": 0.9090909090909091,
             "commander": [
                 "Geist of Saint Traft"
             ],
@@ -1002,7 +992,6 @@
             "deck_id": "267970",
             "rank": "1",
             "player": "Pierre \"LaPince\" Laisné",
-            "winrate": 0.9090909090909091,
             "commander": [
                 "Titania, Protector of Argoth"
             ],
@@ -1093,7 +1082,6 @@
             "deck_id": "267971",
             "rank": "1",
             "player": "Olivier \"Rofellos\" Arnold",
-            "winrate": 0.9090909090909091,
             "commander": [
                 "Jenara, Asura of War"
             ],
@@ -1202,7 +1190,6 @@
             "deck_id": "267972",
             "rank": "1",
             "player": "Constantin \"Goldberg21\" Ruellet",
-            "winrate": 0.9090909090909091,
             "commander": [
                 "Child of Alara"
             ],
@@ -1312,7 +1299,6 @@
             "deck_id": "267973",
             "rank": "5-8",
             "player": "Jérémy Lech",
-            "winrate": 0.8,
             "commander": [
                 "Tasigur, the Golden Fang"
             ],
@@ -1418,7 +1404,6 @@
             "deck_id": "267974",
             "rank": "5-8",
             "player": "\"Moondust\"",
-            "winrate": 0.8,
             "commander": [
                 "Marath, Will of the Wild"
             ],
@@ -1522,7 +1507,6 @@
             "deck_id": "267975",
             "rank": "5-8",
             "player": "Sylvain \"Warni\" Noël",
-            "winrate": 0.8,
             "commander": [
                 "Yisan, the Wanderer Bard"
             ],

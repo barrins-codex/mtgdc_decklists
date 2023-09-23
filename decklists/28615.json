@@ -10,7 +10,6 @@
             "deck_id": "426040",
             "rank": "1",
             "player": "Ste Villaraza",
-            "winrate": 1.0,
             "commander": [
                 "Keleth, Sunmane Familiar",
                 "Esior, Wardwing Familiar"
@@ -111,7 +110,6 @@
             "deck_id": "426041",
             "rank": "2",
             "player": "Glenn Marc Alesna",
-            "winrate": 0.8,
             "commander": [
                 "Keleth, Sunmane Familiar",
                 "Rograkh, Son of Rohgahh"
@@ -213,7 +211,6 @@
             "deck_id": "426042",
             "rank": "3",
             "player": "Jorrell Ang",
-            "winrate": 0.8,
             "commander": [
                 "Keleth, Sunmane Familiar",
                 "Esior, Wardwing Familiar"
@@ -310,7 +307,6 @@
             "deck_id": "426043",
             "rank": "4",
             "player": "Lawrence Samaniego",
-            "winrate": 0.6,
             "commander": [
                 "Ardenn, Intrepid Archaeologist",
                 "Esior, Wardwing Familiar"

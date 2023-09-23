@@ -10,7 +10,6 @@
             "deck_id": "492111",
             "rank": "1",
             "player": "Leonardo Maeda",
-            "winrate": 1.0,
             "commander": [
                 "Minsc &amp; Boo, Timeless Heroes"
             ],
@@ -118,7 +117,6 @@
             "deck_id": "492112",
             "rank": "2",
             "player": "William Graciane",
-            "winrate": 0.8,
             "commander": [
                 "Niv-Mizzet Reborn"
             ],
@@ -228,7 +226,6 @@
             "deck_id": "492113",
             "rank": "3-4",
             "player": "Rafael Ozores",
-            "winrate": 0.8,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -312,7 +309,6 @@
             "deck_id": "492114",
             "rank": "3-4",
             "player": "Felipe \"the Raizen\" Santos",
-            "winrate": 0.8,
             "commander": [
                 "Oskar, Rubbish Reclaimer"
             ],

@@ -10,7 +10,6 @@
             "deck_id": "282392",
             "rank": "1",
             "player": "Jose Arroyo",
-            "winrate": 1.0,
             "commander": [
                 "Prossh, Skyraider of Kher"
             ],
@@ -117,7 +116,6 @@
             "deck_id": "282393",
             "rank": "2",
             "player": "Claudio Barrera",
-            "winrate": 0.8,
             "commander": [
                 "Thraximundar"
             ],
@@ -224,7 +222,6 @@
             "deck_id": "282394",
             "rank": "3",
             "player": "Tomas Medina",
-            "winrate": 0.8,
             "commander": [
                 "Grenzo, Dungeon Warden"
             ],
@@ -323,7 +320,6 @@
             "deck_id": "282395",
             "rank": "4",
             "player": "Miguel Herrera",
-            "winrate": 0.6,
             "commander": [
                 "Olivia, Mobilized for War"
             ],

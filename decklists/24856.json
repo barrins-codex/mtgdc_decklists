@@ -10,7 +10,6 @@
             "deck_id": "373990",
             "rank": "5-8",
             "player": "Alex Dulawan",
-            "winrate": 0.6,
             "commander": [
                 "Titania, Protector of Argoth"
             ],
@@ -103,7 +102,6 @@
             "deck_id": "373991",
             "rank": "5-8",
             "player": "Agustin Ireneo",
-            "winrate": 0.6,
             "commander": [
                 "Reyhan, Last of the Abzan",
                 "Ikra Shidiqi, the Usurper"
@@ -213,7 +211,6 @@
             "deck_id": "373992",
             "rank": "3-4",
             "player": "Christian Agbon (agburn)",
-            "winrate": 0.8,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -299,7 +296,6 @@
             "deck_id": "373993",
             "rank": "5-8",
             "player": "Ryan Simon Payabyab",
-            "winrate": 0.6,
             "commander": [
                 "Dragonlord Ojutai"
             ],
@@ -397,7 +393,6 @@
             "deck_id": "373994",
             "rank": "5-8",
             "player": "Ige Domingo",
-            "winrate": 0.6,
             "commander": [
                 "Ludevic, Necro-Alchemist",
                 "Kraum, Ludevic's Opus"
@@ -494,7 +489,6 @@
             "deck_id": "373995",
             "rank": "3-4",
             "player": "Paul Relativo",
-            "winrate": 0.8,
             "commander": [
                 "Niv-Mizzet Reborn"
             ],
@@ -604,7 +598,6 @@
             "deck_id": "373996",
             "rank": "1",
             "player": "Louie Siongco",
-            "winrate": 1.0,
             "commander": [
                 "Zur the Enchanter"
             ],
@@ -714,7 +707,6 @@
             "deck_id": "373997",
             "rank": "2",
             "player": "Bruce Valero",
-            "winrate": 0.8,
             "commander": [
                 "Karlov of the Ghost Council"
             ],

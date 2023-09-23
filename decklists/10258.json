@@ -10,7 +10,6 @@
             "deck_id": "258874",
             "rank": "1",
             "player": "Yuriy Lata",
-            "winrate": 0.875,
             "commander": [
                 "Animar, Soul of Elements"
             ],
@@ -115,7 +114,6 @@
             "deck_id": "258875",
             "rank": "2",
             "player": "Michail Popov",
-            "winrate": 0.75,
             "commander": [
                 "Grand Arbiter Augustin IV"
             ],
@@ -212,7 +210,6 @@
             "deck_id": "258876",
             "rank": "3-4",
             "player": "Vladimir Bulanov",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Narset, Enlightened Master"
             ],
@@ -320,7 +317,6 @@
             "deck_id": "258877",
             "rank": "3-4",
             "player": "Sergey \"Loxmatii\" Lamzin",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Marath, Will of the Wild"
             ],

@@ -10,7 +10,6 @@
             "deck_id": "454893",
             "rank": "1",
             "player": "Boran Gao",
-            "winrate": 1.0,
             "commander": [
                 "Grist, the Hunger Tide"
             ],
@@ -112,7 +111,6 @@
             "deck_id": "454894",
             "rank": "2",
             "player": "Yi Gao",
-            "winrate": 0.8,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -197,7 +195,6 @@
             "deck_id": "454895",
             "rank": "3-4",
             "player": "Yixuan Gao",
-            "winrate": 0.6,
             "commander": [
                 "Maelstrom Wanderer"
             ],
@@ -301,7 +298,6 @@
             "deck_id": "454896",
             "rank": "3-4",
             "player": "Fengwen Gu",
-            "winrate": 0.6,
             "commander": [
                 "Adeliz, the Cinder Wind"
             ],

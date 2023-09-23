@@ -10,7 +10,6 @@
             "deck_id": "501663",
             "rank": "1",
             "player": "Cedric Froger",
-            "winrate": 0.875,
             "commander": [
                 "Veteran Soldier",
                 "Gut, True Soul Zealot"
@@ -115,7 +114,6 @@
             "deck_id": "501664",
             "rank": "2",
             "player": "Kilian Zunino-boulhaïs",
-            "winrate": 0.75,
             "commander": [
                 "Kess, Dissident Mage"
             ],
@@ -225,7 +223,6 @@
             "deck_id": "501665",
             "rank": "3-4",
             "player": "Anthony Ruer",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "The Gitrog Monster"
             ],
@@ -325,7 +322,6 @@
             "deck_id": "501666",
             "rank": "3-4",
             "player": "Andy Petit",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Noble Heritage",
                 "Gut, True Soul Zealot"
@@ -433,7 +429,6 @@
             "deck_id": "501667",
             "rank": "5-8",
             "player": "Paul Séronie-vivien",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Tana, the Bloodsower",
                 "Yoshimaru, Ever Faithful"
@@ -541,7 +536,6 @@
             "deck_id": "501668",
             "rank": "5-8",
             "player": "Julien Castéla",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Cecily, Haunted Mage",
                 "Wernog, Rider's Chaplain"
@@ -651,7 +645,6 @@
             "deck_id": "501669",
             "rank": "5-8",
             "player": "Paul Combalbert",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Niv-Mizzet Reborn"
             ],
@@ -761,7 +754,6 @@
             "deck_id": "501670",
             "rank": "5-8",
             "player": "Nicolas Alengry",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Ghired, Conclave Exile"
             ],

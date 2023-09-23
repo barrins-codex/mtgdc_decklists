@@ -10,7 +10,6 @@
             "deck_id": "284769",
             "rank": "5-8",
             "player": "Vyacheslav Serputko",
-            "winrate": 0.6,
             "commander": [
                 "Titania, Protector of Argoth"
             ],
@@ -100,7 +99,6 @@
             "deck_id": "284770",
             "rank": "5-8",
             "player": "Maxim Erikhov",
-            "winrate": 0.6,
             "commander": [
                 "Prossh, Skyraider of Kher"
             ],
@@ -183,7 +181,6 @@
             "deck_id": "284771",
             "rank": "5-8",
             "player": "Denis Kolesnikov",
-            "winrate": 0.6,
             "commander": [
                 "Griselbrand"
             ],
@@ -256,7 +253,6 @@
             "deck_id": "284772",
             "rank": "5-8",
             "player": "Dmitry Smirnov",
-            "winrate": 0.6,
             "commander": [
                 "Grand Arbiter Augustin IV"
             ],
@@ -353,7 +349,6 @@
             "deck_id": "284773",
             "rank": "3-4",
             "player": "Valentin Antonov",
-            "winrate": 0.8,
             "commander": [
                 "Zurgo Bellstriker"
             ],
@@ -430,7 +425,6 @@
             "deck_id": "284774",
             "rank": "3-4",
             "player": "Maxim Apletalin",
-            "winrate": 0.8,
             "commander": [
                 "Meren of Clan Nel Toth"
             ],
@@ -531,7 +525,6 @@
             "deck_id": "284775",
             "rank": "1",
             "player": "Maxim Mescheriakov",
-            "winrate": 1.0,
             "commander": [
                 "Geist of Saint Traft"
             ],
@@ -631,7 +624,6 @@
             "deck_id": "284776",
             "rank": "2",
             "player": "Alexander Smirnov",
-            "winrate": 0.8,
             "commander": [
                 "Narset, Enlightened Master"
             ],

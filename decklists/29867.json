@@ -10,7 +10,6 @@
             "deck_id": "434249",
             "rank": "1",
             "player": "Som40",
-            "winrate": 1.0,
             "commander": [
                 "Leovold, Emissary of Trest"
             ],
@@ -118,7 +117,6 @@
             "deck_id": "434250",
             "rank": "2",
             "player": "Mathieu Clavé",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Alesha, Who Smiles at Death"
             ],

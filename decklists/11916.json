@@ -10,7 +10,6 @@
             "deck_id": "268202",
             "rank": "5-8",
             "player": "Simon Gradaive",
-            "winrate": 0.6,
             "commander": [
                 "Karador, Ghost Chieftain"
             ],
@@ -118,7 +117,6 @@
             "deck_id": "268203",
             "rank": "5-8",
             "player": "Gaelle Paqué",
-            "winrate": 0.6,
             "commander": [
                 "Anafenza, the Foremost"
             ],
@@ -228,7 +226,6 @@
             "deck_id": "268204",
             "rank": "1",
             "player": "Benjamin Valay",
-            "winrate": 1.0,
             "commander": [
                 "Geist of Saint Traft"
             ],
@@ -327,7 +324,6 @@
             "deck_id": "268205",
             "rank": "5-8",
             "player": "Eric Leblond",
-            "winrate": 0.6,
             "commander": [
                 "Titania, Protector of Argoth"
             ],
@@ -424,7 +420,6 @@
             "deck_id": "268206",
             "rank": "3-4",
             "player": "Nicolas Pastural",
-            "winrate": 0.8,
             "commander": [
                 "Merieke Ri Berit"
             ],
@@ -531,7 +526,6 @@
             "deck_id": "268207",
             "rank": "3-4",
             "player": "Romain Sacaze",
-            "winrate": 0.8,
             "commander": [
                 "Narset, Enlightened Master"
             ],
@@ -635,7 +629,6 @@
             "deck_id": "268208",
             "rank": "2",
             "player": "William Guignot",
-            "winrate": 0.8,
             "commander": [
                 "Xenagos, God of Revels"
             ],
@@ -730,7 +723,6 @@
             "deck_id": "268209",
             "rank": "5-8",
             "player": "Floriant Larroche",
-            "winrate": 0.6,
             "commander": [
                 "Griselbrand"
             ],

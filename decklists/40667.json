@@ -10,7 +10,6 @@
             "deck_id": "502448",
             "rank": "1",
             "player": "Ken Decena",
-            "winrate": 1.0,
             "commander": [
                 "Ghyrson Starn, Kelermorph"
             ],
@@ -113,7 +112,6 @@
             "deck_id": "502449",
             "rank": "2",
             "player": "Franklin Aguba",
-            "winrate": 0.8,
             "commander": [
                 "Raffine, Scheming Seer"
             ],

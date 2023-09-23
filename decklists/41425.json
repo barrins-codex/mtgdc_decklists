@@ -10,7 +10,6 @@
             "deck_id": "507691",
             "rank": "1",
             "player": "Meng Hao",
-            "winrate": 1.0,
             "commander": [
                 "Kinnan, Bonder Prodigy"
             ],
@@ -118,7 +117,6 @@
             "deck_id": "507692",
             "rank": "2",
             "player": "Khris Mauricio",
-            "winrate": 0.8,
             "commander": [
                 "Grist, the Hunger Tide"
             ],
@@ -220,7 +218,6 @@
             "deck_id": "507693",
             "rank": "3",
             "player": "Franklin Aguba",
-            "winrate": 0.6,
             "commander": [
                 "Cecily, Haunted Mage",
                 "Wernog, Rider's Chaplain"
@@ -330,7 +327,6 @@
             "deck_id": "507694",
             "rank": "4",
             "player": "Martin Ogayon",
-            "winrate": 0.6,
             "commander": [
                 "Grist, the Hunger Tide"
             ],

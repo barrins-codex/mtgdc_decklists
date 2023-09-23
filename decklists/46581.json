@@ -10,7 +10,6 @@
             "deck_id": "544253",
             "rank": "1",
             "player": "Luca Barocco",
-            "winrate": 1.0,
             "commander": [
                 "Jadar, Ghoulcaller of Nephalia"
             ],
@@ -99,7 +98,6 @@
             "deck_id": "544254",
             "rank": "2",
             "player": "Giuseppe Martello",
-            "winrate": 0.8,
             "commander": [
                 "Yorvo, Lord of Garenbrig"
             ],

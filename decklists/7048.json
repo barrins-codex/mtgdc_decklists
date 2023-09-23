@@ -10,7 +10,6 @@
             "deck_id": "240527",
             "rank": "1",
             "player": "Fabien Brouty",
-            "winrate": 1.0,
             "commander": [
                 "Oloro, Ageless Ascetic"
             ],
@@ -119,7 +118,6 @@
             "deck_id": "240528",
             "rank": "2",
             "player": "Adrien \"ElFN0iR\" Rolandez",
-            "winrate": 0.8,
             "commander": [
                 "Maelstrom Wanderer"
             ],
@@ -229,7 +227,6 @@
             "deck_id": "240529",
             "rank": "3",
             "player": "Jean-Gabriel Blanc",
-            "winrate": 0.8,
             "commander": [
                 "Ezuri, Renegade Leader"
             ],
@@ -316,7 +313,6 @@
             "deck_id": "240530",
             "rank": "4",
             "player": "Sébastien Bernaud",
-            "winrate": 0.6,
             "commander": [
                 "Marath, Will of the Wild"
             ],

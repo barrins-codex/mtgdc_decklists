@@ -10,7 +10,6 @@
             "deck_id": "354503",
             "rank": "1",
             "player": "Lucas M.",
-            "winrate": 1.0,
             "commander": [
                 "Ezuri, Renegade Leader"
             ],
@@ -99,7 +98,6 @@
             "deck_id": "354504",
             "rank": "2",
             "player": "Jérémie A.",
-            "winrate": 0.8,
             "commander": [
                 "Brago, King Eternal"
             ],

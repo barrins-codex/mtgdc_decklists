@@ -10,7 +10,6 @@
             "deck_id": "291634",
             "rank": "1",
             "player": "Emanuele Carpigna",
-            "winrate": 1.0,
             "commander": [
                 "Zurgo Bellstriker"
             ],
@@ -88,7 +87,6 @@
             "deck_id": "291635",
             "rank": "2",
             "player": "Giulio Mattoni",
-            "winrate": 0.8,
             "commander": [
                 "Jori En, Ruin Diver"
             ],

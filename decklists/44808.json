@@ -10,7 +10,6 @@
             "deck_id": "530434",
             "rank": "1",
             "player": "Wai Kuen Wong",
-            "winrate": 1.0,
             "commander": [
                 "Saffi Eriksdotter"
             ],
@@ -105,7 +104,6 @@
             "deck_id": "530435",
             "rank": "2",
             "player": "Man Lok Wong",
-            "winrate": 0.8,
             "commander": [
                 "Jeska, Thrice Reborn",
                 "Silas Renn, Seeker Adept"

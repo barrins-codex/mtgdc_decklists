@@ -10,7 +10,6 @@
             "deck_id": "308036",
             "rank": "1",
             "player": "Léo Carbonell",
-            "winrate": 0.9,
             "commander": [
                 "Teferi, Temporal Archmage"
             ],
@@ -84,7 +83,6 @@
             "deck_id": "308037",
             "rank": "5-8",
             "player": "François Jandaud",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Saskia the Unyielding"
             ],
@@ -194,7 +192,6 @@
             "deck_id": "308038",
             "rank": "5-8",
             "player": "David Garnier",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Baral, Chief of Compliance"
             ],
@@ -270,7 +267,6 @@
             "deck_id": "308039",
             "rank": "5-8",
             "player": "Thomas Bagdadlian",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Saskia the Unyielding"
             ],
@@ -380,7 +376,6 @@
             "deck_id": "308040",
             "rank": "5-8",
             "player": "yrak",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Zurgo Bellstriker"
             ],
@@ -465,7 +460,6 @@
             "deck_id": "308041",
             "rank": "3-4",
             "player": "Loïc Baverel",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Selvala, Heart of the Wilds"
             ],
@@ -556,7 +550,6 @@
             "deck_id": "308042",
             "rank": "3-4",
             "player": "Noham Maubert",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Karlov of the Ghost Council"
             ],
@@ -666,7 +659,6 @@
             "deck_id": "308043",
             "rank": "2",
             "player": "Damien Jantzen",
-            "winrate": 0.8,
             "commander": [
                 "Kess, Dissident Mage"
             ],

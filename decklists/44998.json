@@ -10,7 +10,6 @@
             "deck_id": "532133",
             "rank": "2",
             "player": "Francys",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Grist, the Hunger Tide"
             ],
@@ -96,7 +95,6 @@
             "deck_id": "532134",
             "rank": "1",
             "player": "Vitor O",
-            "winrate": 1.0,
             "commander": [
                 "Klothys, God of Destiny"
             ],

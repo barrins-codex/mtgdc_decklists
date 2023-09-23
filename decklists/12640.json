@@ -10,7 +10,6 @@
             "deck_id": "273153",
             "rank": "5-8",
             "player": "Evgeniy \"bratbogomol\" Michailov",
-            "winrate": 0.625,
             "commander": [
                 "Narset, Enlightened Master"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "273154",
             "rank": "5-8",
             "player": "Andrey \"Franz\" Chaginskiy",
-            "winrate": 0.625,
             "commander": [
                 "Geist of Saint Traft"
             ],
@@ -220,7 +218,6 @@
             "deck_id": "273155",
             "rank": "5-8",
             "player": "Oleg \"oeoe\" Evseev",
-            "winrate": 0.625,
             "commander": [
                 "Child of Alara"
             ],
@@ -330,7 +327,6 @@
             "deck_id": "273156",
             "rank": "5-8",
             "player": "Sergey \"Loxmatii\" Lamzin",
-            "winrate": 0.625,
             "commander": [
                 "Animar, Soul of Elements"
             ],
@@ -432,7 +428,6 @@
             "deck_id": "273157",
             "rank": "3-4",
             "player": "Vlad \"vlaprohor\" Prohorov",
-            "winrate": 0.625,
             "commander": [
                 "Jace, Vryn's Prodigy"
             ],
@@ -515,7 +510,6 @@
             "deck_id": "273158",
             "rank": "3-4",
             "player": "Michail \"Sabor1\" Popov",
-            "winrate": 0.625,
             "commander": [
                 "Grand Arbiter Augustin IV"
             ],
@@ -611,7 +605,6 @@
             "deck_id": "273159",
             "rank": "2",
             "player": "Dmitriy \"Degal\" Tretyakov",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Jori En, Ruin Diver"
             ],
@@ -701,7 +694,6 @@
             "deck_id": "273160",
             "rank": "1",
             "player": "Vladimir \"Horobi\" Bulanov",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Narset, Enlightened Master"
             ],

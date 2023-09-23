@@ -10,7 +10,6 @@
             "deck_id": "520696",
             "rank": "1",
             "player": "Filip Rázga",
-            "winrate": 1.0,
             "commander": [
                 "Sidisi, Undead Vizier"
             ],
@@ -81,7 +80,6 @@
             "deck_id": "520697",
             "rank": "2",
             "player": "Patrik Frio",
-            "winrate": 0.8,
             "commander": [
                 "Dihada, Binder of Wills"
             ],
@@ -191,7 +189,6 @@
             "deck_id": "520698",
             "rank": "3",
             "player": "Richard Kolenič",
-            "winrate": 0.6,
             "commander": [
                 "Feldon, Ronom Excavator"
             ],
@@ -280,7 +277,6 @@
             "deck_id": "520699",
             "rank": "4",
             "player": "Dominik Repa",
-            "winrate": 0.6,
             "commander": [
                 "Golos, Tireless Pilgrim"
             ],

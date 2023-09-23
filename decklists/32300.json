@@ -10,7 +10,6 @@
             "deck_id": "448542",
             "rank": "1",
             "player": "Conja",
-            "winrate": 1.0,
             "commander": [
                 "Isamaru, Hound of Konda"
             ],
@@ -95,7 +94,6 @@
             "deck_id": "448543",
             "rank": "2",
             "player": "Lucas Feliz",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Azusa, Lost but Seeking"
             ],

@@ -10,7 +10,6 @@
             "deck_id": "373483",
             "rank": "5-8",
             "player": "Alexandre G",
-            "winrate": 0.625,
             "commander": [
                 "Tymna the Weaver",
                 "Thrasios, Triton Hero"
@@ -120,7 +119,6 @@
             "deck_id": "373484",
             "rank": "5-8",
             "player": "Raphaël L",
-            "winrate": 0.625,
             "commander": [
                 "Klothys, God of Destiny"
             ],
@@ -214,7 +212,6 @@
             "deck_id": "373485",
             "rank": "5-8",
             "player": "Stéphane C",
-            "winrate": 0.625,
             "commander": [
                 "Sai, Master Thopterist"
             ],
@@ -301,7 +298,6 @@
             "deck_id": "373486",
             "rank": "3-4",
             "player": "Michel L",
-            "winrate": 0.625,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -411,7 +407,6 @@
             "deck_id": "373487",
             "rank": "3-4",
             "player": "Guillaume O",
-            "winrate": 0.625,
             "commander": [
                 "Uro, Titan of Nature's Wrath"
             ],
@@ -511,7 +506,6 @@
             "deck_id": "373488",
             "rank": "2",
             "player": "Sebastien D",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Hogaak, Arisen Necropolis"
             ],
@@ -621,7 +615,6 @@
             "deck_id": "373489",
             "rank": "1",
             "player": "Mathieu P",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -728,7 +721,6 @@
             "deck_id": "373490",
             "rank": "5-8",
             "player": "Maxime M",
-            "winrate": 0.625,
             "commander": [
                 "Grenzo, Havoc Raiser"
             ],

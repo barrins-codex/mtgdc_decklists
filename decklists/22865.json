@@ -10,7 +10,6 @@
             "deck_id": "356348",
             "rank": "3-4",
             "player": "Sullivan Valdairon",
-            "winrate": 0.6,
             "commander": [
                 "Teferi, Temporal Archmage"
             ],
@@ -84,7 +83,6 @@
             "deck_id": "356349",
             "rank": "3-4",
             "player": "Aurélien Lion",
-            "winrate": 0.6,
             "commander": [
                 "Thrasios, Triton Hero",
                 "Ludevic, Necro-Alchemist"
@@ -194,7 +192,6 @@
             "deck_id": "356350",
             "rank": "1",
             "player": "Guillaume Petra",
-            "winrate": 1.0,
             "commander": [
                 "Urza, Lord High Artificer"
             ],
@@ -282,7 +279,6 @@
             "deck_id": "356351",
             "rank": "2",
             "player": "Emeric \"eichimaru\" Durdos",
-            "winrate": 0.8,
             "commander": [
                 "Judith, the Scourge Diva"
             ],

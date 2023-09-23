@@ -10,7 +10,6 @@
             "deck_id": "306478",
             "rank": "2",
             "player": "Roman Vejdelek",
-            "winrate": 0.8,
             "commander": [
                 "Jenara, Asura of War"
             ],
@@ -117,7 +116,6 @@
             "deck_id": "306479",
             "rank": "3",
             "player": "Martin Vlnas",
-            "winrate": 0.8,
             "commander": [
                 "Queen Marchesa"
             ],
@@ -227,7 +225,6 @@
             "deck_id": "306480",
             "rank": "1",
             "player": "Vitezslav Smid",
-            "winrate": 1.0,
             "commander": [
                 "Arahbo, Roar of the World"
             ],
@@ -330,7 +327,6 @@
             "deck_id": "306481",
             "rank": "4",
             "player": "Vaclav Mysak",
-            "winrate": 0.8,
             "commander": [
                 "Baral, Chief of Compliance"
             ],

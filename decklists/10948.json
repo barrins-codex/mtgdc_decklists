@@ -10,7 +10,6 @@
             "deck_id": "262356",
             "rank": "1",
             "player": "Nicolas David",
-            "winrate": 1.0,
             "commander": [
                 "Mayael the Anima"
             ],
@@ -116,7 +115,6 @@
             "deck_id": "262357",
             "rank": "2",
             "player": "Simonpietro Speziale",
-            "winrate": 0.8,
             "commander": [
                 "Azami, Lady of Scrolls"
             ],

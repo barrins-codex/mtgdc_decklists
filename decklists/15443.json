@@ -10,7 +10,6 @@
             "deck_id": "294032",
             "rank": "3-4",
             "player": "Michael Walker",
-            "winrate": 0.625,
             "commander": [
                 "Reyhan, Last of the Abzan",
                 "Bruse Tarl, Boorish Herder"
@@ -120,7 +119,6 @@
             "deck_id": "294033",
             "rank": "2",
             "player": "Nick Sirman",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Atraxa, Praetors' Voice"
             ],
@@ -230,7 +228,6 @@
             "deck_id": "294034",
             "rank": "1",
             "player": "James Larking",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Breya, Etherium Shaper"
             ],
@@ -340,7 +337,6 @@
             "deck_id": "294039",
             "rank": "3-4",
             "player": "Steve Ciaronni",
-            "winrate": 0.625,
             "commander": [
                 "Grand Arbiter Augustin IV"
             ],
@@ -431,7 +427,6 @@
             "deck_id": "294040",
             "rank": "5-8",
             "player": "Jay Macintosh",
-            "winrate": 0.625,
             "commander": [
                 "Brimaz, King of Oreskos"
             ],
@@ -509,7 +504,6 @@
             "deck_id": "294041",
             "rank": "5-8",
             "player": "Rusty Priske",
-            "winrate": 0.625,
             "commander": [
                 "Kambal, Consul of Allocation"
             ],
@@ -597,7 +591,6 @@
             "deck_id": "294042",
             "rank": "5-8",
             "player": "Aaron Lawrence",
-            "winrate": 0.625,
             "commander": [
                 "Narset, Enlightened Master"
             ],
@@ -699,7 +692,6 @@
             "deck_id": "294043",
             "rank": "5-8",
             "player": "Gilles Labelle",
-            "winrate": 0.625,
             "commander": [
                 "The Gitrog Monster"
             ],

@@ -10,7 +10,6 @@
             "deck_id": "391418",
             "rank": "1",
             "player": "Sunnysid",
-            "winrate": 1.0,
             "commander": [
                 "Klothys, God of Destiny"
             ],
@@ -100,7 +99,6 @@
             "deck_id": "391419",
             "rank": "1",
             "player": "Teepex",
-            "winrate": 1.0,
             "commander": [
                 "Lutri, the Spellchaser",
                 "Kess, Dissident Mage"
@@ -211,7 +209,6 @@
             "deck_id": "391420",
             "rank": "1",
             "player": "Caracole",
-            "winrate": 1.0,
             "commander": [
                 "Winota, Joiner of Forces"
             ],

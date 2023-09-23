@@ -10,7 +10,6 @@
             "deck_id": "509252",
             "rank": "1",
             "player": "Yuchen Yang",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Bruse Tarl, Boorish Herder",
                 "Yoshimaru, Ever Faithful"
@@ -114,7 +113,6 @@
             "deck_id": "509253",
             "rank": "1",
             "player": "Boran Gao",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Grist, the Hunger Tide"
             ],
@@ -213,7 +211,6 @@
             "deck_id": "509254",
             "rank": "1",
             "player": "Xu Han",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Niv-Mizzet Reborn"
             ],
@@ -323,7 +320,6 @@
             "deck_id": "509255",
             "rank": "1",
             "player": "Mingyang Chen",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -433,7 +429,6 @@
             "deck_id": "509256",
             "rank": "5-8",
             "player": "Chang Zheng",
-            "winrate": 0.625,
             "commander": [
                 "Ludevic, Necro-Alchemist",
                 "Yoshimaru, Ever Faithful"
@@ -537,7 +532,6 @@
             "deck_id": "509257",
             "rank": "5-8",
             "player": "Shoucong Wu",
-            "winrate": 0.625,
             "commander": [
                 "Soul of Windgrace"
             ],
@@ -645,7 +639,6 @@
             "deck_id": "509258",
             "rank": "5-8",
             "player": "Ruiyuan Shao",
-            "winrate": 0.625,
             "commander": [
                 "Dihada, Binder of Wills"
             ],
@@ -755,7 +748,6 @@
             "deck_id": "509259",
             "rank": "5-8",
             "player": "Wei Cheng",
-            "winrate": 0.625,
             "commander": [
                 "Ghyrson Starn, Kelermorph"
             ],

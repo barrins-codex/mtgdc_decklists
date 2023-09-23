@@ -10,7 +10,6 @@
             "deck_id": "495686",
             "rank": "1",
             "player": "Pablo Lima",
-            "winrate": 1.0,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -93,7 +92,6 @@
             "deck_id": "495687",
             "rank": "2",
             "player": "Rafael Barreto",
-            "winrate": 0.8,
             "commander": [
                 "Jeska, Thrice Reborn",
                 "Ludevic, Necro-Alchemist"
@@ -193,7 +191,6 @@
             "deck_id": "495688",
             "rank": "3",
             "player": "Euro Figueiredo",
-            "winrate": 0.6,
             "commander": [
                 "Arcum Dagsson"
             ],
@@ -279,7 +276,6 @@
             "deck_id": "495689",
             "rank": "4",
             "player": "Victor Burghi",
-            "winrate": 0.6,
             "commander": [
                 "Saskia the Unyielding"
             ],

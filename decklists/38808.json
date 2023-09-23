@@ -10,7 +10,6 @@
             "deck_id": "489625",
             "rank": "1",
             "player": "Sacha Keitel",
-            "winrate": 1.0,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "489626",
             "rank": "2",
             "player": "Maxime Catala",
-            "winrate": 0.8,
             "commander": [
                 "Ertai Resurrected"
             ],
@@ -220,7 +218,6 @@
             "deck_id": "489627",
             "rank": "3",
             "player": "Noah Silberfeld",
-            "winrate": 0.6,
             "commander": [
                 "Balmor, Battlemage Captain"
             ],
@@ -321,7 +318,6 @@
             "deck_id": "489628",
             "rank": "4",
             "player": "Xavier Terrien",
-            "winrate": 0.6,
             "commander": [
                 "Kaseto, Orochi Archmage"
             ],

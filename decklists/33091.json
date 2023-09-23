@@ -10,7 +10,6 @@
             "deck_id": "453050",
             "rank": "1",
             "player": "Xie Xiaofan",
-            "winrate": 1.0,
             "commander": [
                 "Galazeth Prismari"
             ],
@@ -110,7 +109,6 @@
             "deck_id": "453051",
             "rank": "2",
             "player": "Hui Hehua",
-            "winrate": 0.8,
             "commander": [
                 "Niv-Mizzet, Parun"
             ],

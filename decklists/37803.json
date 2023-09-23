@@ -10,7 +10,6 @@
             "deck_id": "482947",
             "rank": "1",
             "player": "Mikkel Høi Rasmussen",
-            "winrate": 1.0,
             "commander": [
                 "Juri, Master of the Revue"
             ],
@@ -111,7 +110,6 @@
             "deck_id": "482948",
             "rank": "2",
             "player": "Aaron Garber",
-            "winrate": 0.8,
             "commander": [
                 "Klothys, God of Destiny"
             ],
@@ -214,7 +212,6 @@
             "deck_id": "482949",
             "rank": "3",
             "player": "Simon Nielsen",
-            "winrate": 0.8,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -324,7 +321,6 @@
             "deck_id": "482950",
             "rank": "4",
             "player": "Jeppe Risager",
-            "winrate": 0.6,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -407,7 +403,6 @@
             "deck_id": "482951",
             "rank": "5",
             "player": "Sejer Friis",
-            "winrate": 0.6,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -517,7 +512,6 @@
             "deck_id": "482952",
             "rank": "6",
             "player": "Emil Mejer",
-            "winrate": 0.6,
             "commander": [
                 "Dennick, Pious Apprentice"
             ],
@@ -619,7 +613,6 @@
             "deck_id": "482953",
             "rank": "7",
             "player": "Daniel Lind",
-            "winrate": 0.6,
             "commander": [
                 "Dennick, Pious Apprentice"
             ],
@@ -722,7 +715,6 @@
             "deck_id": "482954",
             "rank": "8",
             "player": "Lasse Hansen",
-            "winrate": 0.6,
             "commander": [
                 "Narset, Enlightened Master"
             ],

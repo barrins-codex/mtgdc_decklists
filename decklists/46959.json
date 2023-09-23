@@ -10,7 +10,6 @@
             "deck_id": "547202",
             "rank": "1",
             "player": "Iori Zugaikotsu",
-            "winrate": 1.0,
             "commander": [
                 "Kotori, Pilot Prodigy"
             ],
@@ -116,7 +115,6 @@
             "deck_id": "547203",
             "rank": "2",
             "player": "Edison Gabutero",
-            "winrate": 0.8,
             "commander": [
                 "Reyhan, Last of the Abzan",
                 "Yoshimaru, Ever Faithful"
@@ -223,7 +221,6 @@
             "deck_id": "547204",
             "rank": "3-4",
             "player": "Darren \"bitterness\" Almondia",
-            "winrate": 0.6,
             "commander": [
                 "Kroxa, Titan of Death's Hunger"
             ],

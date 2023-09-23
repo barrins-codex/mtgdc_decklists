@@ -10,7 +10,6 @@
             "deck_id": "428402",
             "rank": "1",
             "player": "Man Lok Wong",
-            "winrate": 1.0,
             "commander": [
                 "Jeska, Thrice Reborn",
                 "Esior, Wardwing Familiar"
@@ -114,7 +113,6 @@
             "deck_id": "428403",
             "rank": "2",
             "player": "Chung Tang",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Ardenn, Intrepid Archaeologist",
                 "Esior, Wardwing Familiar"

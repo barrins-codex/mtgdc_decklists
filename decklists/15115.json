@@ -10,7 +10,6 @@
             "deck_id": "291566",
             "rank": "1",
             "player": "Diego De Castro",
-            "winrate": 1.0,
             "commander": [
                 "Rafiq of the Many"
             ],
@@ -118,7 +117,6 @@
             "deck_id": "291569",
             "rank": "2",
             "player": "Filippo Pizzichini",
-            "winrate": 0.8,
             "commander": [
                 "Zurgo Bellstriker"
             ],

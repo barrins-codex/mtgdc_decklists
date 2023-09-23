@@ -10,7 +10,6 @@
             "deck_id": "535829",
             "rank": "1",
             "player": "Victor Marques",
-            "winrate": 1.0,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "535830",
             "rank": "2",
             "player": "Cromado",
-            "winrate": 0.8,
             "commander": [
                 "Aragorn, King of Gondor"
             ],
@@ -227,7 +225,6 @@
             "deck_id": "535831",
             "rank": "3",
             "player": "Mateus Tomé",
-            "winrate": 0.8,
             "commander": [
                 "Bruse Tarl, Boorish Herder",
                 "Yoshimaru, Ever Faithful"
@@ -332,7 +329,6 @@
             "deck_id": "535832",
             "rank": "4",
             "player": "Cauê",
-            "winrate": 0.6,
             "commander": [
                 "Feldon, Ronom Excavator"
             ],

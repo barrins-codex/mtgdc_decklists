@@ -10,7 +10,6 @@
             "deck_id": "284606",
             "rank": "3-4",
             "player": "Artur de Oliveira Silva",
-            "winrate": 0.8,
             "commander": [
                 "Selvala, Explorer Returned"
             ],
@@ -107,7 +106,6 @@
             "deck_id": "284607",
             "rank": "5-8",
             "player": "Fábio Fernandes Vieira",
-            "winrate": 0.8,
             "commander": [
                 "Reyhan, Last of the Abzan",
                 "Vial Smasher the Fierce"
@@ -205,7 +203,6 @@
             "deck_id": "284608",
             "rank": "5-8",
             "player": "Júlio César Buttler",
-            "winrate": 0.8,
             "commander": [
                 "Obzedat, Ghost Council"
             ],
@@ -299,7 +296,6 @@
             "deck_id": "284609",
             "rank": "5-8",
             "player": "Luiz \"Lafon\" Bueno",
-            "winrate": 0.8,
             "commander": [
                 "Prossh, Skyraider of Kher"
             ],
@@ -408,7 +404,6 @@
             "deck_id": "284610",
             "rank": "5-8",
             "player": "Diego Ganev",
-            "winrate": 0.8,
             "commander": [
                 "Jenara, Asura of War"
             ],
@@ -518,7 +513,6 @@
             "deck_id": "284611",
             "rank": "1",
             "player": "Thiago \"Negrutis\" Novaes",
-            "winrate": 1.0,
             "commander": [
                 "Kraum, Ludevic's Opus",
                 "Vial Smasher the Fierce"
@@ -627,7 +621,6 @@
             "deck_id": "284612",
             "rank": "3-4",
             "player": "Fernando Campoli",
-            "winrate": 0.8,
             "commander": [
                 "Geist of Saint Traft"
             ],
@@ -729,7 +722,6 @@
             "deck_id": "284613",
             "rank": "2",
             "player": "Miguel Rossi",
-            "winrate": 0.8,
             "commander": [
                 "Titania, Protector of Argoth"
             ],

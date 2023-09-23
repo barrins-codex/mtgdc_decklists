@@ -10,7 +10,6 @@
             "deck_id": "493545",
             "rank": "1",
             "player": "Orlando Bibiano",
-            "winrate": 1.0,
             "commander": [
                 "Jeska, Thrice Reborn",
                 "Ludevic, Necro-Alchemist"
@@ -108,7 +107,6 @@
             "deck_id": "493546",
             "rank": "2",
             "player": "Gabriel Kawagoe",
-            "winrate": 0.8,
             "commander": [
                 "Isamaru, Hound of Konda"
             ],
@@ -197,7 +195,6 @@
             "deck_id": "493547",
             "rank": "3",
             "player": "Rafael Barreto",
-            "winrate": 0.8,
             "commander": [
                 "Jeska, Thrice Reborn",
                 "Ludevic, Necro-Alchemist"
@@ -297,7 +294,6 @@
             "deck_id": "493548",
             "rank": "4",
             "player": "Carlos Pires",
-            "winrate": 0.6,
             "commander": [
                 "Jeska, Thrice Reborn",
                 "Ludevic, Necro-Alchemist"
@@ -395,7 +391,6 @@
             "deck_id": "493549",
             "rank": "5",
             "player": "Rafael Ozores",
-            "winrate": 0.6,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -479,7 +474,6 @@
             "deck_id": "493550",
             "rank": "6",
             "player": "William Graciani",
-            "winrate": 0.6,
             "commander": [
                 "Niv-Mizzet Reborn"
             ],

@@ -10,7 +10,6 @@
             "deck_id": "452363",
             "rank": "1",
             "player": "Felix Calais",
-            "winrate": 1.0,
             "commander": [
                 "Minsc, Beloved Ranger"
             ],
@@ -116,7 +115,6 @@
             "deck_id": "452364",
             "rank": "2",
             "player": "Alexis Mommee",
-            "winrate": 0.8,
             "commander": [
                 "Adeliz, the Cinder Wind"
             ],
@@ -213,7 +211,6 @@
             "deck_id": "452365",
             "rank": "3-4",
             "player": "Maxime Morillon",
-            "winrate": 0.6,
             "commander": [
                 "Adeliz, the Cinder Wind"
             ],
@@ -312,7 +309,6 @@
             "deck_id": "452366",
             "rank": "3-4",
             "player": "Fabrice Amirault",
-            "winrate": 0.6,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],

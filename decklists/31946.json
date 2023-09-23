@@ -10,7 +10,6 @@
             "deck_id": "446729",
             "rank": "1",
             "player": "Ephraïm Zunino",
-            "winrate": 1.0,
             "commander": [
                 "Kess, Dissident Mage"
             ],
@@ -111,7 +110,6 @@
             "deck_id": "446730",
             "rank": "2",
             "player": "Anthony Ruer",
-            "winrate": 0.8,
             "commander": [
                 "Miara, Thorn of the Glade",
                 "Tevesh Szat, Doom of Fools"
@@ -195,7 +193,6 @@
             "deck_id": "446731",
             "rank": "3-4",
             "player": "Pierre-jean Eychenne",
-            "winrate": 0.8,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -274,7 +271,6 @@
             "deck_id": "446732",
             "rank": "3-4",
             "player": "Aurélien Gomez",
-            "winrate": 0.8,
             "commander": [
                 "Niv-Mizzet Reborn"
             ],
@@ -384,7 +380,6 @@
             "deck_id": "446733",
             "rank": "5-8",
             "player": "Julien \"la Tielle\" Castela",
-            "winrate": 0.6,
             "commander": [
                 "Kinnan, Bonder Prodigy"
             ],
@@ -487,7 +482,6 @@
             "deck_id": "446734",
             "rank": "5-8",
             "player": "Antoine \"chapeau\" Vieilledent",
-            "winrate": 0.6,
             "commander": [
                 "Golos, Tireless Pilgrim"
             ],
@@ -597,7 +591,6 @@
             "deck_id": "446735",
             "rank": "5-8",
             "player": "Flavien Richard",
-            "winrate": 0.6,
             "commander": [
                 "Grenzo, Dungeon Warden"
             ],
@@ -694,7 +687,6 @@
             "deck_id": "446736",
             "rank": "5-8",
             "player": "François \"didou\" Zbk",
-            "winrate": 0.6,
             "commander": [
                 "Kraum, Ludevic's Opus",
                 "Livio, Oathsworn Sentinel"

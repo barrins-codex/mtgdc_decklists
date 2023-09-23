@@ -10,7 +10,6 @@
             "deck_id": "516368",
             "rank": "1",
             "player": "Antonin Guillaumont",
-            "winrate": 0.875,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "516369",
             "rank": "2",
             "player": "Mathieu Leclere",
-            "winrate": 0.75,
             "commander": [
                 "Niv-Mizzet Reborn"
             ],
@@ -230,7 +228,6 @@
             "deck_id": "516370",
             "rank": "3-4",
             "player": "Adrien Demoget",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Old Stickfingers"
             ],
@@ -331,7 +328,6 @@
             "deck_id": "516371",
             "rank": "3-4",
             "player": "Arnaud Devineau",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Tana, the Bloodsower",
                 "Yoshimaru, Ever Faithful"
@@ -439,7 +435,6 @@
             "deck_id": "516372",
             "rank": "5-8",
             "player": "Cyprien Ruffino",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Ghyrson Starn, Kelermorph"
             ],
@@ -538,7 +533,6 @@
             "deck_id": "516373",
             "rank": "5-8",
             "player": "Diego Rio",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Dihada, Binder of Wills"
             ],
@@ -648,7 +642,6 @@
             "deck_id": "516374",
             "rank": "5-8",
             "player": "Joseph Doutreleau",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Ghyrson Starn, Kelermorph"
             ],
@@ -749,7 +742,6 @@
             "deck_id": "516375",
             "rank": "5-8",
             "player": "Victor Sorreau",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Tourach, Dread Cantor"
             ],

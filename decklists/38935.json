@@ -10,7 +10,6 @@
             "deck_id": "490437",
             "rank": "1",
             "player": "Victor Marques",
-            "winrate": 1.0,
             "commander": [
                 "Sai, Master Thopterist"
             ],
@@ -98,7 +97,6 @@
             "deck_id": "490438",
             "rank": "2",
             "player": "Conja",
-            "winrate": 0.8,
             "commander": [
                 "Juri, Master of the Revue"
             ],
@@ -198,7 +196,6 @@
             "deck_id": "490439",
             "rank": "3",
             "player": "Lucas Felix",
-            "winrate": 0.6,
             "commander": [
                 "Wilson, Refined Grizzly",
                 "Noble Heritage"
@@ -300,7 +297,6 @@
             "deck_id": "490440",
             "rank": "4",
             "player": "Rafael Georgetti",
-            "winrate": 0.6,
             "commander": [
                 "Acererak the Archlich"
             ],

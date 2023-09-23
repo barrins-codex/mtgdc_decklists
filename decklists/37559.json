@@ -10,7 +10,6 @@
             "deck_id": "481443",
             "rank": "1",
             "player": "Omar Rhoner",
-            "winrate": 0.8888888888888888,
             "commander": [
                 "Lurrus of the Dream-Den",
                 "Karlov of the Ghost Council"
@@ -111,7 +110,6 @@
             "deck_id": "481444",
             "rank": "2",
             "player": "Justo Chacón",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Sai, Master Thopterist"
             ],
@@ -198,7 +196,6 @@
             "deck_id": "481445",
             "rank": "3-4",
             "player": "Miguel Zulueta",
-            "winrate": 0.75,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -286,7 +283,6 @@
             "deck_id": "481446",
             "rank": "3-4",
             "player": "Luis Meza",
-            "winrate": 0.75,
             "commander": [
                 "Niv-Mizzet, Parun"
             ],
@@ -386,7 +382,6 @@
             "deck_id": "481447",
             "rank": "5-8",
             "player": "Cristhian Leiva",
-            "winrate": 0.75,
             "commander": [
                 "Minsc &amp; Boo, Timeless Heroes"
             ],
@@ -488,7 +483,6 @@
             "deck_id": "481448",
             "rank": "5-8",
             "player": "José Aliaga",
-            "winrate": 0.75,
             "commander": [
                 "Jirina Kudro"
             ],
@@ -598,7 +592,6 @@
             "deck_id": "481449",
             "rank": "5-8",
             "player": "Eduardo Céspedes",
-            "winrate": 0.75,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -681,7 +674,6 @@
             "deck_id": "481450",
             "rank": "5-8",
             "player": "Thiago Mechan",
-            "winrate": 0.75,
             "commander": [
                 "Adeliz, the Cinder Wind"
             ],
@@ -780,7 +772,6 @@
             "deck_id": "481451",
             "rank": "9-16",
             "player": "Juan Carlos Quispe",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Minsc &amp; Boo, Timeless Heroes"
             ],
@@ -883,7 +874,6 @@
             "deck_id": "481452",
             "rank": "9-16",
             "player": "Santiago Torres",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Hogaak, Arisen Necropolis"
             ],
@@ -993,7 +983,6 @@
             "deck_id": "481453",
             "rank": "9-16",
             "player": "Luis Morales",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Jirina Kudro"
             ],
@@ -1103,7 +1092,6 @@
             "deck_id": "481454",
             "rank": "9-16",
             "player": "Roger Basilio",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -1213,7 +1201,6 @@
             "deck_id": "481455",
             "rank": "9-16",
             "player": "José Alcántara",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Kinnan, Bonder Prodigy"
             ],
@@ -1318,7 +1305,6 @@
             "deck_id": "481456",
             "rank": "9-16",
             "player": "Daniel Díaz",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -1428,7 +1414,6 @@
             "deck_id": "481457",
             "rank": "9-16",
             "player": "Carlos Noriega",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -1538,7 +1523,6 @@
             "deck_id": "481458",
             "rank": "9-16",
             "player": "Jorge Chunga",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Sai, Master Thopterist"
             ],

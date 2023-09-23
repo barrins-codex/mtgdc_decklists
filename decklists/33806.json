@@ -10,7 +10,6 @@
             "deck_id": "457579",
             "rank": "1",
             "player": "Agustin Ireneo",
-            "winrate": 0.8888888888888888,
             "commander": [
                 "Questing Beast"
             ],
@@ -101,7 +100,6 @@
             "deck_id": "457580",
             "rank": "2",
             "player": "Ste Villaraza",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Sakashima of a Thousand Faces",
                 "Livio, Oathsworn Sentinel"
@@ -201,7 +199,6 @@
             "deck_id": "457581",
             "rank": "3-4",
             "player": "Rexel Tenorio",
-            "winrate": 0.75,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -311,7 +308,6 @@
             "deck_id": "457582",
             "rank": "3-4",
             "player": "Ian Paul Roa",
-            "winrate": 0.75,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -393,7 +389,6 @@
             "deck_id": "457583",
             "rank": "5-8",
             "player": "Dinno Zaide",
-            "winrate": 0.75,
             "commander": [
                 "Kraum, Ludevic's Opus",
                 "Malcolm, Keen-Eyed Navigator"
@@ -490,7 +485,6 @@
             "deck_id": "457584",
             "rank": "5-8",
             "player": "Reuben Ferrer",
-            "winrate": 0.75,
             "commander": [
                 "Miara, Thorn of the Glade",
                 "Tevesh Szat, Doom of Fools"
@@ -576,7 +570,6 @@
             "deck_id": "457585",
             "rank": "5-8",
             "player": "Aaron Macaso",
-            "winrate": 0.75,
             "commander": [
                 "Esika, God of the Tree"
             ],
@@ -686,7 +679,6 @@
             "deck_id": "457586",
             "rank": "5-8",
             "player": "Roi \"kadamay\" Dagang",
-            "winrate": 0.75,
             "commander": [
                 "Klothys, God of Destiny"
             ],

@@ -10,7 +10,6 @@
             "deck_id": "544844",
             "rank": "1",
             "player": "Tao Tang",
-            "winrate": 1.0,
             "commander": [
                 "Old Rutstein"
             ],
@@ -111,7 +110,6 @@
             "deck_id": "544845",
             "rank": "2",
             "player": "Yihan Ding",
-            "winrate": 0.8,
             "commander": [
                 "Grist, the Hunger Tide"
             ],
@@ -211,7 +209,6 @@
             "deck_id": "544846",
             "rank": "3",
             "player": "Xiangjun Dai",
-            "winrate": 0.8,
             "commander": [
                 "Dennick, Pious Apprentice"
             ],
@@ -312,7 +309,6 @@
             "deck_id": "544847",
             "rank": "4",
             "player": "Guanglei Li",
-            "winrate": 0.6,
             "commander": [
                 "Ghyrson Starn, Kelermorph"
             ],

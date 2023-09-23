@@ -10,7 +10,6 @@
             "deck_id": "503726",
             "rank": "1",
             "player": "Guilherme Bellagente",
-            "winrate": 1.0,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "503727",
             "rank": "2",
             "player": "Renan Nascimento",
-            "winrate": 0.8,
             "commander": [
                 "Feldon, Ronom Excavator"
             ],

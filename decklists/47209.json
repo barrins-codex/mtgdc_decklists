@@ -10,7 +10,6 @@
             "deck_id": "548858",
             "rank": "1",
             "player": "Van Acordon",
-            "winrate": 1.0,
             "commander": [
                 "Aragorn, King of Gondor"
             ],
@@ -117,7 +116,6 @@
             "deck_id": "548859",
             "rank": "2",
             "player": "Mel Bonoan",
-            "winrate": 0.8,
             "commander": [
                 "The Beamtown Bullies"
             ],
@@ -227,7 +225,6 @@
             "deck_id": "548860",
             "rank": "3",
             "player": "Lui Fabia",
-            "winrate": 0.6,
             "commander": [
                 "Ghyrson Starn, Kelermorph"
             ],
@@ -332,7 +329,6 @@
             "deck_id": "548861",
             "rank": "4",
             "player": "Allan Mariano",
-            "winrate": 0.6,
             "commander": [
                 "Bruse Tarl, Boorish Herder",
                 "Yoshimaru, Ever Faithful"

@@ -10,7 +10,6 @@
             "deck_id": "449073",
             "rank": "1",
             "player": "Mary Lyndel Amor",
-            "winrate": 1.0,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "449074",
             "rank": "2",
             "player": "Reuben Ferrer",
-            "winrate": 0.8,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -230,7 +228,6 @@
             "deck_id": "449075",
             "rank": "3-4",
             "player": "Justin Andrew Lawrence Rigor",
-            "winrate": 0.6,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -310,7 +307,6 @@
             "deck_id": "449076",
             "rank": "3-4",
             "player": "Rusty Capricho",
-            "winrate": 0.6,
             "commander": [
                 "The Gitrog Monster"
             ],

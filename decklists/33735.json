@@ -10,7 +10,6 @@
             "deck_id": "457167",
             "rank": "1",
             "player": "Victor Burghi",
-            "winrate": 1.0,
             "commander": [
                 "Jirina Kudro"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "457168",
             "rank": "2",
             "player": "Leonardo Maeda",
-            "winrate": 0.8,
             "commander": [
                 "Tevesh Szat, Doom of Fools",
                 "Prava of the Steel Legion"
@@ -218,7 +216,6 @@
             "deck_id": "457169",
             "rank": "3-4",
             "player": "Felipe \"raizen\" Santos",
-            "winrate": 0.6,
             "commander": [
                 "Cosima, God of the Voyage"
             ],
@@ -302,7 +299,6 @@
             "deck_id": "457170",
             "rank": "3-4",
             "player": "Arthur Dutra",
-            "winrate": 0.6,
             "commander": [
                 "Kytheon, Hero of Akros"
             ],

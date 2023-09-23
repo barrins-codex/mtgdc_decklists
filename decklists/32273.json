@@ -10,7 +10,6 @@
             "deck_id": "448386",
             "rank": "1",
             "player": "Pierre Clavieras",
-            "winrate": 1.0,
             "commander": [
                 "Kinnan, Bonder Prodigy"
             ],
@@ -112,7 +111,6 @@
             "deck_id": "448387",
             "rank": "2",
             "player": "Joffrey Herrier",
-            "winrate": 0.8,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -222,7 +220,6 @@
             "deck_id": "448388",
             "rank": "3-4",
             "player": "Léo Facca",
-            "winrate": 0.8,
             "commander": [
                 "Esika, God of the Tree"
             ],
@@ -332,7 +329,6 @@
             "deck_id": "448389",
             "rank": "3-4",
             "player": "Anthony Nunez",
-            "winrate": 0.8,
             "commander": [
                 "Adeliz, the Cinder Wind"
             ],
@@ -428,7 +424,6 @@
             "deck_id": "448390",
             "rank": "5-8",
             "player": "Mathieu Clavé",
-            "winrate": 0.6,
             "commander": [
                 "Alesha, Who Smiles at Death"
             ],
@@ -537,7 +532,6 @@
             "deck_id": "448391",
             "rank": "5-8",
             "player": "Benjamin Cottet",
-            "winrate": 0.6,
             "commander": [
                 "Atraxa, Praetors' Voice"
             ],
@@ -647,7 +641,6 @@
             "deck_id": "448392",
             "rank": "5-8",
             "player": "Som40",
-            "winrate": 0.6,
             "commander": [
                 "Leovold, Emissary of Trest"
             ],
@@ -757,7 +750,6 @@
             "deck_id": "448393",
             "rank": "5-8",
             "player": "Claudio Reis Marigo",
-            "winrate": 0.6,
             "commander": [
                 "Gallia of the Endless Dance"
             ],

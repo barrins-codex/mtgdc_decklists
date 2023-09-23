@@ -10,7 +10,6 @@
             "deck_id": "288833",
             "rank": "2",
             "player": "Morgan Laleure",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Thrasios, Triton Hero",
                 "Tymna the Weaver"
@@ -117,7 +116,6 @@
             "deck_id": "288834",
             "rank": "5-8",
             "player": "Benjamin Moncelet",
-            "winrate": 0.75,
             "commander": [
                 "Breya, Etherium Shaper"
             ],
@@ -226,7 +224,6 @@
             "deck_id": "288835",
             "rank": "5-8",
             "player": "David Fontraille",
-            "winrate": 0.75,
             "commander": [
                 "Vial Smasher the Fierce",
                 "Bruse Tarl, Boorish Herder"
@@ -336,7 +333,6 @@
             "deck_id": "288836",
             "rank": "5-8",
             "player": "Nicolas Rabillard",
-            "winrate": 0.75,
             "commander": [
                 "Bruse Tarl, Boorish Herder",
                 "Thrasios, Triton Hero"
@@ -446,7 +442,6 @@
             "deck_id": "288837",
             "rank": "3-4",
             "player": "Jeremy Heral",
-            "winrate": 0.75,
             "commander": [
                 "Vial Smasher the Fierce",
                 "Thrasios, Triton Hero"
@@ -554,7 +549,6 @@
             "deck_id": "288838",
             "rank": "3-4",
             "player": "Elie Soubeyrand",
-            "winrate": 0.75,
             "commander": [
                 "Baral, Chief of Compliance"
             ],
@@ -632,7 +626,6 @@
             "deck_id": "288839",
             "rank": "5-8",
             "player": "Alexandre Andouard",
-            "winrate": 0.75,
             "commander": [
                 "Baral, Chief of Compliance"
             ],
@@ -718,7 +711,6 @@
             "deck_id": "288840",
             "rank": "1",
             "player": "Pierre Almaraz",
-            "winrate": 0.8888888888888888,
             "commander": [
                 "Zurgo Bellstriker"
             ],

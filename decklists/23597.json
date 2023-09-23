@@ -10,7 +10,6 @@
             "deck_id": "363503",
             "rank": "4",
             "player": "Julian H",
-            "winrate": 0.6,
             "commander": [
                 "Daretti, Scrap Savant"
             ],
@@ -101,7 +100,6 @@
             "deck_id": "363504",
             "rank": "3",
             "player": "Ben H",
-            "winrate": 0.6,
             "commander": [
                 "Kenrith, the Returned King"
             ],
@@ -211,7 +209,6 @@
             "deck_id": "363505",
             "rank": "1",
             "player": "Lukas E",
-            "winrate": 1.0,
             "commander": [
                 "Ravos, Soultender",
                 "Tymna the Weaver"
@@ -311,7 +308,6 @@
             "deck_id": "363506",
             "rank": "2",
             "player": "David R",
-            "winrate": 0.8,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],

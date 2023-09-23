@@ -10,7 +10,6 @@
             "deck_id": "352636",
             "rank": "1",
             "player": "Jiang Jiahe",
-            "winrate": 1.0,
             "commander": [
                 "Urza, Lord High Artificer"
             ],
@@ -97,7 +96,6 @@
             "deck_id": "352637",
             "rank": "2",
             "player": "Zhou Rui",
-            "winrate": 0.8,
             "commander": [
                 "Yuriko, the Tiger's Shadow"
             ],
@@ -200,7 +198,6 @@
             "deck_id": "352638",
             "rank": "3-4",
             "player": "Shen Junkai",
-            "winrate": 0.8,
             "commander": [
                 "Reyhan, Last of the Abzan",
                 "Ludevic, Necro-Alchemist"
@@ -310,7 +307,6 @@
             "deck_id": "352639",
             "rank": "3-4",
             "player": "Jiang Ling",
-            "winrate": 0.8,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],

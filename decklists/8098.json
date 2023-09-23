@@ -10,7 +10,6 @@
             "deck_id": "246669",
             "rank": "1",
             "player": "Jean Fort",
-            "winrate": 1.0,
             "commander": [
                 "Doran, the Siege Tower"
             ],
@@ -117,7 +116,6 @@
             "deck_id": "246670",
             "rank": "2",
             "player": "Alexis Touleblanc",
-            "winrate": 0.8,
             "commander": [
                 "Grand Arbiter Augustin IV"
             ],

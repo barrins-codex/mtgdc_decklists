@@ -10,7 +10,6 @@
             "deck_id": "460964",
             "rank": "1",
             "player": "Adrien Gau",
-            "winrate": 1.0,
             "commander": [
                 "Sidar Kondo of Jamuraa",
                 "Malcolm, Keen-Eyed Navigator"
@@ -119,7 +118,6 @@
             "deck_id": "460965",
             "rank": "2",
             "player": "Marc",
-            "winrate": 0.8,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -229,7 +227,6 @@
             "deck_id": "460966",
             "rank": "3-4",
             "player": "Jean-baptiste",
-            "winrate": 0.8,
             "commander": [
                 "Queen Marchesa"
             ],
@@ -339,7 +336,6 @@
             "deck_id": "460967",
             "rank": "3-4",
             "player": "Sophie",
-            "winrate": 0.8,
             "commander": [
                 "Animar, Soul of Elements"
             ],

@@ -10,7 +10,6 @@
             "deck_id": "471837",
             "rank": "1",
             "player": "Antonin Guillaumont",
-            "winrate": 0.875,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "471838",
             "rank": "2",
             "player": "Quentin Rullaud",
-            "winrate": 0.75,
             "commander": [
                 "Grist, the Hunger Tide"
             ],
@@ -220,7 +218,6 @@
             "deck_id": "471839",
             "rank": "3-4",
             "player": "Mathys Grapotte",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Lurrus of the Dream-Den",
                 "Wernog, Rider's Chaplain",
@@ -331,7 +328,6 @@
             "deck_id": "471840",
             "rank": "3-4",
             "player": "Nicolas Maurice",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Kinnan, Bonder Prodigy"
             ],
@@ -434,7 +430,6 @@
             "deck_id": "471841",
             "rank": "5-8",
             "player": "Baptiste Hilmann",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Shorikai, Genesis Engine"
             ],
@@ -532,7 +527,6 @@
             "deck_id": "471842",
             "rank": "5-8",
             "player": "Adrien Demoget",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Sythis, Harvest's Hand"
             ],
@@ -638,7 +632,6 @@
             "deck_id": "471843",
             "rank": "5-8",
             "player": "Matthieu Mizac",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Juri, Master of the Revue"
             ],
@@ -739,7 +732,6 @@
             "deck_id": "471844",
             "rank": "5-8",
             "player": "Kaourintin Le Guiban",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Kyodai, Soul of Kamigawa"
             ],

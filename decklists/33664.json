@@ -10,7 +10,6 @@
             "deck_id": "456500",
             "rank": "1",
             "player": "He Ying",
-            "winrate": 1.0,
             "commander": [
                 "Jacob Hauken, Inspector"
             ],
@@ -103,7 +102,6 @@
             "deck_id": "456501",
             "rank": "2",
             "player": "Shen Junkai",
-            "winrate": 0.8,
             "commander": [
                 "Hogaak, Arisen Necropolis"
             ],
@@ -213,7 +211,6 @@
             "deck_id": "456502",
             "rank": "3",
             "player": "Hui Hehua",
-            "winrate": 0.6,
             "commander": [
                 "Niv-Mizzet, Parun"
             ],

@@ -10,7 +10,6 @@
             "deck_id": "417430",
             "rank": "5-8",
             "player": "Josef Kumstyr",
-            "winrate": 0.75,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "417431",
             "rank": "5-8",
             "player": "Miroslav Vana",
-            "winrate": 0.75,
             "commander": [
                 "Maelstrom Wanderer"
             ],
@@ -221,7 +219,6 @@
             "deck_id": "417432",
             "rank": "5-8",
             "player": "Dominik Maly",
-            "winrate": 0.75,
             "commander": [
                 "Tymna the Weaver",
                 "Thrasios, Triton Hero"
@@ -331,7 +328,6 @@
             "deck_id": "417433",
             "rank": "5-8",
             "player": "Jakub Lerl",
-            "winrate": 0.75,
             "commander": [
                 "Yawgmoth, Thran Physician"
             ],
@@ -410,7 +406,6 @@
             "deck_id": "417434",
             "rank": "3-4",
             "player": "Adam Fajkus",
-            "winrate": 0.75,
             "commander": [
                 "Tajic, Legion's Edge"
             ],
@@ -509,7 +504,6 @@
             "deck_id": "417435",
             "rank": "2",
             "player": "Roman Vejdelek",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Tymna the Weaver",
                 "Kraum, Ludevic's Opus"
@@ -619,7 +613,6 @@
             "deck_id": "417436",
             "rank": "3-4",
             "player": "Jakub Lelek",
-            "winrate": 0.75,
             "commander": [
                 "Ludevic, Necro-Alchemist",
                 "Kraum, Ludevic's Opus"
@@ -715,7 +708,6 @@
             "deck_id": "417437",
             "rank": "1",
             "player": "Vojtech Benes",
-            "winrate": 0.8888888888888888,
             "commander": [
                 "Uro, Titan of Nature's Wrath"
             ],

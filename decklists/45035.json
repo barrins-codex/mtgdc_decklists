@@ -10,7 +10,6 @@
             "deck_id": "532428",
             "rank": "1",
             "player": "Confusedcius",
-            "winrate": 1.0,
             "commander": [
                 "Atraxa, Grand Unifier"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "532429",
             "rank": "2",
             "player": "Neijuge",
-            "winrate": 0.8,
             "commander": [
                 "Ghyrson Starn, Kelermorph"
             ],
@@ -221,7 +219,6 @@
             "deck_id": "532430",
             "rank": "3-4",
             "player": "Thehack",
-            "winrate": 0.8,
             "commander": [
                 "Bruse Tarl, Boorish Herder",
                 "Yoshimaru, Ever Faithful"
@@ -324,7 +321,6 @@
             "deck_id": "532431",
             "rank": "3-4",
             "player": "Nivi3l",
-            "winrate": 0.8,
             "commander": [
                 "Grist, the Hunger Tide"
             ],
@@ -422,7 +418,6 @@
             "deck_id": "532432",
             "rank": "5-8",
             "player": "Tahitien_savoyard",
-            "winrate": 0.6,
             "commander": [
                 "Sythis, Harvest's Hand"
             ],
@@ -522,7 +517,6 @@
             "deck_id": "532433",
             "rank": "5-8",
             "player": "Hugostrapp",
-            "winrate": 0.6,
             "commander": [
                 "Elminster"
             ],
@@ -625,7 +619,6 @@
             "deck_id": "532434",
             "rank": "5-8",
             "player": "Le_roux_de_schrodinger",
-            "winrate": 0.6,
             "commander": [
                 "Soul of Windgrace"
             ],
@@ -730,7 +723,6 @@
             "deck_id": "532435",
             "rank": "5-8",
             "player": "Pilou",
-            "winrate": 0.6,
             "commander": [
                 "Juri, Master of the Revue"
             ],

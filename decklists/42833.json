@@ -10,7 +10,6 @@
             "deck_id": "516587",
             "rank": "1",
             "player": "Yoan Gariston",
-            "winrate": 0.8888888888888888,
             "commander": [
                 "Sai, Master Thopterist"
             ],
@@ -97,7 +96,6 @@
             "deck_id": "516588",
             "rank": "2",
             "player": "Martial Alexandre",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Old Rutstein"
             ],
@@ -198,7 +196,6 @@
             "deck_id": "516589",
             "rank": "3-4",
             "player": "Mathieu Calbo",
-            "winrate": 0.75,
             "commander": [
                 "Hogaak, Arisen Necropolis"
             ],
@@ -306,7 +303,6 @@
             "deck_id": "516590",
             "rank": "5-8",
             "player": "Clément Bourgeais",
-            "winrate": 0.75,
             "commander": [
                 "Gut, True Soul Zealot"
             ],
@@ -408,7 +404,6 @@
             "deck_id": "516591",
             "rank": "5-8",
             "player": "Sacha Keitel",
-            "winrate": 0.75,
             "commander": [
                 "Atraxa, Grand Unifier"
             ],
@@ -518,7 +513,6 @@
             "deck_id": "516592",
             "rank": "5-8",
             "player": "Florian Trotte",
-            "winrate": 0.75,
             "commander": [
                 "Golos, Tireless Pilgrim"
             ],
@@ -628,7 +622,6 @@
             "deck_id": "516593",
             "rank": "5-8",
             "player": "Léo Carbonell",
-            "winrate": 0.75,
             "commander": [
                 "Ertai Resurrected"
             ],

@@ -10,7 +10,6 @@
             "deck_id": "468046",
             "rank": "1",
             "player": "Jonas Kretzschmar",
-            "winrate": 1.0,
             "commander": [
                 "The Gitrog Monster"
             ],
@@ -110,7 +109,6 @@
             "deck_id": "468047",
             "rank": "2",
             "player": "Eik The Necromancer",
-            "winrate": 0.8,
             "commander": [
                 "Heliod, Sun-Crowned"
             ],

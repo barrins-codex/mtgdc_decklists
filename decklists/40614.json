@@ -10,7 +10,6 @@
             "deck_id": "502121",
             "rank": "1",
             "player": "Edison Gabutero",
-            "winrate": 1.0,
             "commander": [
                 "Doran, the Siege Tower"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "502122",
             "rank": "2",
             "player": "Jhay Brinquiz",
-            "winrate": 0.8,
             "commander": [
                 "Raised by Giants",
                 "Gut, True Soul Zealot"

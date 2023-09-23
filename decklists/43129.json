@@ -10,7 +10,6 @@
             "deck_id": "518694",
             "rank": "1",
             "player": "Shuyao Liu",
-            "winrate": 1.0,
             "commander": [
                 "Tana, the Bloodsower",
                 "Yoshimaru, Ever Faithful"
@@ -119,7 +118,6 @@
             "deck_id": "518695",
             "rank": "2",
             "player": "Yuchen Liu",
-            "winrate": 0.8,
             "commander": [
                 "The Beamtown Bullies"
             ],
@@ -229,7 +227,6 @@
             "deck_id": "518696",
             "rank": "3",
             "player": "Zeyu Zou",
-            "winrate": 0.6,
             "commander": [
                 "Feldon, Ronom Excavator"
             ],
@@ -320,7 +317,6 @@
             "deck_id": "518697",
             "rank": "4",
             "player": "Ruiyuan Shao",
-            "winrate": 0.6,
             "commander": [
                 "Dihada, Binder of Wills"
             ],

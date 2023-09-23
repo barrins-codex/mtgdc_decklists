@@ -10,7 +10,6 @@
             "deck_id": "454088",
             "rank": "1",
             "player": "Julien De Lardemelle",
-            "winrate": 0.8888888888888888,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "454089",
             "rank": "2",
             "player": "Alexandre Martial",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Niv-Mizzet Reborn",
                 "Jegantha, the Wellspring"
@@ -231,7 +229,6 @@
             "deck_id": "454090",
             "rank": "3-4",
             "player": "Thomas Bagdadlian",
-            "winrate": 0.75,
             "commander": [
                 "Sakashima of a Thousand Faces",
                 "Livio, Oathsworn Sentinel"
@@ -331,7 +328,6 @@
             "deck_id": "454091",
             "rank": "3-4",
             "player": "Jeremy Poujade",
-            "winrate": 0.75,
             "commander": [
                 "Prossh, Skyraider of Kher"
             ],
@@ -441,7 +437,6 @@
             "deck_id": "454092",
             "rank": "5-8",
             "player": "Thomas Plieger",
-            "winrate": 0.75,
             "commander": [
                 "Malcolm, Keen-Eyed Navigator",
                 "Livio, Oathsworn Sentinel"
@@ -542,7 +537,6 @@
             "deck_id": "454093",
             "rank": "5-8",
             "player": "Aurelien Ulpat",
-            "winrate": 0.75,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -629,7 +623,6 @@
             "deck_id": "454094",
             "rank": "5-8",
             "player": "Yann Brugiere",
-            "winrate": 0.75,
             "commander": [
                 "Rielle, the Everwise"
             ],
@@ -726,7 +719,6 @@
             "deck_id": "454095",
             "rank": "5-8",
             "player": "Paul Juyaut",
-            "winrate": 0.75,
             "commander": [
                 "Saskia the Unyielding"
             ],

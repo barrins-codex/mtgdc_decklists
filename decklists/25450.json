@@ -10,7 +10,6 @@
             "deck_id": "383731",
             "rank": "1",
             "player": "Bitzelberg",
-            "winrate": 1.0,
             "commander": [
                 "Thrasios, Triton Hero",
                 "Akiri, Line-Slinger"
@@ -120,7 +119,6 @@
             "deck_id": "383732",
             "rank": "2",
             "player": "Majig",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Saskia the Unyielding"
             ],

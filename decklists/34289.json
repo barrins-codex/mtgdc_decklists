@@ -10,7 +10,6 @@
             "deck_id": "460495",
             "rank": "1",
             "player": "François Nicolas",
-            "winrate": 0.9,
             "commander": [
                 "Malcolm, Keen-Eyed Navigator",
                 "Kraum, Ludevic's Opus"
@@ -108,7 +107,6 @@
             "deck_id": "460496",
             "rank": "2",
             "player": "Maxime Morillon",
-            "winrate": 0.8,
             "commander": [
                 "Malcolm, Keen-Eyed Navigator",
                 "Livio, Oathsworn Sentinel"
@@ -209,7 +207,6 @@
             "deck_id": "460497",
             "rank": "3-4",
             "player": "Clément Gillard",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Jegantha, the Wellspring",
                 "Niv-Mizzet Reborn"
@@ -320,7 +317,6 @@
             "deck_id": "460498",
             "rank": "3-4",
             "player": "Bastien Lambert",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Livio, Oathsworn Sentinel",
                 "Kraum, Ludevic's Opus"
@@ -428,7 +424,6 @@
             "deck_id": "460499",
             "rank": "5-8",
             "player": "Antoine Lamaud",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Malcolm, Keen-Eyed Navigator",
                 "Livio, Oathsworn Sentinel"
@@ -529,7 +524,6 @@
             "deck_id": "460500",
             "rank": "5-8",
             "player": "Quentin Rullaud",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -617,7 +611,6 @@
             "deck_id": "460501",
             "rank": "5-8",
             "player": "Bruno Vincent",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Doran, the Siege Tower"
             ],
@@ -727,7 +720,6 @@
             "deck_id": "460502",
             "rank": "5-8",
             "player": "Willy De Almeida",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Livio, Oathsworn Sentinel",
                 "Kraum, Ludevic's Opus"
@@ -837,7 +829,6 @@
             "deck_id": "460503",
             "rank": "9",
             "player": "Pierre Ambroise",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Malcolm, Keen-Eyed Navigator",
                 "Livio, Oathsworn Sentinel"
@@ -939,7 +930,6 @@
             "deck_id": "460504",
             "rank": "10",
             "player": "Nicolas Prail",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Alesha, Who Smiles at Death"
             ],
@@ -1048,7 +1038,6 @@
             "deck_id": "460505",
             "rank": "11",
             "player": "Adrien Penard",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Livio, Oathsworn Sentinel",
                 "Kraum, Ludevic's Opus"
@@ -1156,7 +1145,6 @@
             "deck_id": "460506",
             "rank": "12",
             "player": "Kilian Boulhais",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -1258,7 +1246,6 @@
             "deck_id": "460507",
             "rank": "13",
             "player": "Felix Calais",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "The Gitrog Monster"
             ],
@@ -1357,7 +1344,6 @@
             "deck_id": "460508",
             "rank": "14",
             "player": "Johan Bozec",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -1444,7 +1430,6 @@
             "deck_id": "460509",
             "rank": "15",
             "player": "Cédric Leizour",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -1532,7 +1517,6 @@
             "deck_id": "460510",
             "rank": "16",
             "player": "Marien Couvertier",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Malcolm, Keen-Eyed Navigator",
                 "Livio, Oathsworn Sentinel"

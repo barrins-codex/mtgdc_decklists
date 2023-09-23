@@ -10,7 +10,6 @@
             "deck_id": "531418",
             "rank": "1",
             "player": "Francis Figue",
-            "winrate": 1.0,
             "commander": [
                 "Elminster"
             ],
@@ -111,7 +110,6 @@
             "deck_id": "531419",
             "rank": "2",
             "player": "Jérémy Dewarez",
-            "winrate": 0.8,
             "commander": [
                 "Sythis, Harvest's Hand"
             ],
@@ -211,7 +209,6 @@
             "deck_id": "531420",
             "rank": "3-4",
             "player": "Brice Lamar",
-            "winrate": 0.8,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -321,7 +318,6 @@
             "deck_id": "531421",
             "rank": "3-4",
             "player": "Pierre-louis Biet",
-            "winrate": 0.8,
             "commander": [
                 "Raffine, Scheming Seer"
             ],

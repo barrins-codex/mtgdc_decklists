@@ -10,7 +10,6 @@
             "deck_id": "241186",
             "rank": "1",
             "player": "Erwan Maisonneuve",
-            "winrate": 0.9,
             "commander": [
                 "Oloro, Ageless Ascetic"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "241187",
             "rank": "2",
             "player": "Guillaume Wafo-Tapa",
-            "winrate": 0.8,
             "commander": [
                 "Azami, Lady of Scrolls"
             ],
@@ -194,7 +192,6 @@
             "deck_id": "241188",
             "rank": "3-4",
             "player": "Martial \"Mars\" Moreau",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Grand Arbiter Augustin IV"
             ],
@@ -288,7 +285,6 @@
             "deck_id": "241189",
             "rank": "3-4",
             "player": "Benjamin Jean",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Marath, Will of the Wild"
             ],
@@ -386,7 +382,6 @@
             "deck_id": "241190",
             "rank": "5-8",
             "player": "Geoffrey Baron",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Marath, Will of the Wild"
             ],
@@ -495,7 +490,6 @@
             "deck_id": "241191",
             "rank": "5-8",
             "player": "Enki \"Enkibye\" Londe",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Sek'Kuar, Deathkeeper"
             ],
@@ -599,7 +593,6 @@
             "deck_id": "241192",
             "rank": "5-8",
             "player": "Thomas Orsini",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Talrand, Sky Summoner"
             ],
@@ -682,7 +675,6 @@
             "deck_id": "241340",
             "rank": "5-8",
             "player": "Yan Lorente",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Radha, Heir to Keld"
             ],

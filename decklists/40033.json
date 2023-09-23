@@ -10,7 +10,6 @@
             "deck_id": "498093",
             "rank": "1",
             "player": "Jules Trousson",
-            "winrate": 0.8888888888888888,
             "commander": [
                 "Ghyrson Starn, Kelermorph"
             ],
@@ -106,7 +105,6 @@
             "deck_id": "498094",
             "rank": "2",
             "player": "Jules Lestienne",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Tunnel of Love",
                 "Trash Bin",
@@ -215,7 +213,6 @@
             "deck_id": "498095",
             "rank": "3-4",
             "player": "Anthonin Michelet",
-            "winrate": 0.75,
             "commander": [
                 "Azusa, Lost but Seeking"
             ],
@@ -311,7 +308,6 @@
             "deck_id": "498096",
             "rank": "3-4",
             "player": "Jean-david Pailleron",
-            "winrate": 0.75,
             "commander": [
                 "Dihada, Binder of Wills"
             ],
@@ -421,7 +417,6 @@
             "deck_id": "498097",
             "rank": "5-8",
             "player": "Gaël Huber",
-            "winrate": 0.75,
             "commander": [
                 "Yoshimaru, Ever Faithful",
                 "Bruse Tarl, Boorish Herder"
@@ -524,7 +519,6 @@
             "deck_id": "498098",
             "rank": "5-8",
             "player": "Florian Cornet",
-            "winrate": 0.75,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -634,7 +628,6 @@
             "deck_id": "498099",
             "rank": "5-8",
             "player": "Damien Mocquet",
-            "winrate": 0.75,
             "commander": [
                 "Grist, the Hunger Tide"
             ],
@@ -735,7 +728,6 @@
             "deck_id": "498100",
             "rank": "5-8",
             "player": "Grégoire Payan",
-            "winrate": 0.75,
             "commander": [
                 "Niv-Mizzet Reborn"
             ],

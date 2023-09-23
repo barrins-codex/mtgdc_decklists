@@ -10,7 +10,6 @@
             "deck_id": "528082",
             "rank": "1",
             "player": "Darren Almondia",
-            "winrate": 1.0,
             "commander": [
                 "Juri, Master of the Revue"
             ],
@@ -112,7 +111,6 @@
             "deck_id": "528083",
             "rank": "2",
             "player": "Edison Gabutero",
-            "winrate": 0.8,
             "commander": [
                 "Reyhan, Last of the Abzan",
                 "Yoshimaru, Ever Faithful"

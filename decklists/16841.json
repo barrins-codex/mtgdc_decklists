@@ -10,7 +10,6 @@
             "deck_id": "304188",
             "rank": "2",
             "player": "Gael Bailly-maitre",
-            "winrate": 0.8,
             "commander": [
                 "Nissa, Vastwood Seer"
             ],
@@ -101,7 +100,6 @@
             "deck_id": "304189",
             "rank": "3-4",
             "player": "Cesidio Vischi (madeiros)",
-            "winrate": 0.8,
             "commander": [
                 "Daretti, Scrap Savant"
             ],
@@ -183,7 +181,6 @@
             "deck_id": "304190",
             "rank": "1",
             "player": "Maxime Lemoine (makexime)",
-            "winrate": 1.0,
             "commander": [
                 "Zurgo Bellstriker"
             ],

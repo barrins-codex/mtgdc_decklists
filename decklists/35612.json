@@ -10,7 +10,6 @@
             "deck_id": "468749",
             "rank": "1",
             "player": "Gabe Enriquez",
-            "winrate": 0.8888888888888888,
             "commander": [
                 "Klothys, God of Destiny"
             ],
@@ -113,7 +112,6 @@
             "deck_id": "468750",
             "rank": "2",
             "player": "Michael Rodriguez",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Isamaru, Hound of Konda"
             ],
@@ -201,7 +199,6 @@
             "deck_id": "468751",
             "rank": "3",
             "player": "Glenn Alesna",
-            "winrate": 0.75,
             "commander": [
                 "Bruse Tarl, Boorish Herder",
                 "Jeska, Thrice Reborn"
@@ -304,7 +301,6 @@
             "deck_id": "468752",
             "rank": "4",
             "player": "Caloy Reyes",
-            "winrate": 0.75,
             "commander": [
                 "Galazeth Prismari"
             ],
@@ -402,7 +398,6 @@
             "deck_id": "468753",
             "rank": "5",
             "player": "Benjo G",
-            "winrate": 0.75,
             "commander": [
                 "Shorikai, Genesis Engine"
             ],
@@ -503,7 +498,6 @@
             "deck_id": "468754",
             "rank": "6",
             "player": "Exequiel Lim",
-            "winrate": 0.75,
             "commander": [
                 "Titania, Protector of Argoth"
             ],
@@ -599,7 +593,6 @@
             "deck_id": "468755",
             "rank": "7",
             "player": "Gulliermo Cortezo",
-            "winrate": 0.75,
             "commander": [
                 "Golos, Tireless Pilgrim"
             ],
@@ -709,7 +702,6 @@
             "deck_id": "468756",
             "rank": "8",
             "player": "Josh Fuentes",
-            "winrate": 0.75,
             "commander": [
                 "Klothys, God of Destiny"
             ],

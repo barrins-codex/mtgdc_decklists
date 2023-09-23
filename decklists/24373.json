@@ -10,7 +10,6 @@
             "deck_id": "370255",
             "rank": "5-8",
             "player": "Etienne Vincent",
-            "winrate": 0.6,
             "commander": [
                 "Yawgmoth, Thran Physician"
             ],
@@ -96,7 +95,6 @@
             "deck_id": "370256",
             "rank": "5-8",
             "player": "Sylvain Zozaya",
-            "winrate": 0.6,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -183,7 +181,6 @@
             "deck_id": "370257",
             "rank": "5-8",
             "player": "Aldo Moscatelli",
-            "winrate": 0.6,
             "commander": [
                 "Thrasios, Triton Hero",
                 "Tymna the Weaver"
@@ -293,7 +290,6 @@
             "deck_id": "370258",
             "rank": "5-8",
             "player": "Florent \"garfild \" Loret",
-            "winrate": 0.6,
             "commander": [
                 "Prossh, Skyraider of Kher"
             ],
@@ -396,7 +392,6 @@
             "deck_id": "370259",
             "rank": "3-4",
             "player": "Teddy Vancoellie",
-            "winrate": 0.8,
             "commander": [
                 "Azusa, Lost but Seeking"
             ],
@@ -493,7 +488,6 @@
             "deck_id": "370260",
             "rank": "3-4",
             "player": "Kevin \"darkfistor\" Douvry",
-            "winrate": 0.8,
             "commander": [
                 "Titania, Protector of Argoth"
             ],
@@ -590,7 +584,6 @@
             "deck_id": "370261",
             "rank": "2",
             "player": "Clément \"raclem\" Fusade",
-            "winrate": 0.8,
             "commander": [
                 "Daretti, Scrap Savant"
             ],
@@ -676,7 +669,6 @@
             "deck_id": "370262",
             "rank": "1",
             "player": "François Cloux",
-            "winrate": 1.0,
             "commander": [
                 "Ludevic, Necro-Alchemist",
                 "Kraum, Ludevic's Opus"

@@ -10,7 +10,6 @@
             "deck_id": "449450",
             "rank": "1",
             "player": "Maxime Allée",
-            "winrate": 1.0,
             "commander": [
                 "Grist, the Hunger Tide"
             ],
@@ -113,7 +112,6 @@
             "deck_id": "449451",
             "rank": "2",
             "player": "Mathieu Laurent",
-            "winrate": 0.8,
             "commander": [
                 "Asmoranomardicadaistinaculdacar"
             ],
@@ -218,7 +216,6 @@
             "deck_id": "449452",
             "rank": "3-4",
             "player": "Ylan Le Bris",
-            "winrate": 0.8,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -304,7 +301,6 @@
             "deck_id": "449453",
             "rank": "3-4",
             "player": "Aurélien Lion",
-            "winrate": 0.8,
             "commander": [
                 "Silas Renn, Seeker Adept",
                 "Dargo, the Shipwrecker"

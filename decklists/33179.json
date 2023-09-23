@@ -10,7 +10,6 @@
             "deck_id": "453490",
             "rank": "1",
             "player": "Myzho",
-            "winrate": 0.8888888888888888,
             "commander": [
                 "Niv-Mizzet Reborn"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "453491",
             "rank": "2",
             "player": "Alexandre \"onesauk\" Benac",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Kroxa, Titan of Death's Hunger"
             ],
@@ -222,7 +220,6 @@
             "deck_id": "453492",
             "rank": "3",
             "player": "Lionel Galliere \"hannibal44\"",
-            "winrate": 0.75,
             "commander": [
                 "Niv-Mizzet Reborn"
             ],
@@ -332,7 +329,6 @@
             "deck_id": "453493",
             "rank": "4",
             "player": "Hotcho",
-            "winrate": 0.75,
             "commander": [
                 "The First Sliver"
             ],
@@ -442,7 +438,6 @@
             "deck_id": "453494",
             "rank": "5-8",
             "player": "Admab",
-            "winrate": 0.75,
             "commander": [
                 "Laelia, the Blade Reforged"
             ],
@@ -529,7 +524,6 @@
             "deck_id": "453495",
             "rank": "5-8",
             "player": "Senseiidora",
-            "winrate": 0.75,
             "commander": [
                 "Kraum, Ludevic's Opus",
                 "Tevesh Szat, Doom of Fools"
@@ -638,7 +632,6 @@
             "deck_id": "453496",
             "rank": "5-8",
             "player": "Adrien \"soulless Oni\" Demoget",
-            "winrate": 0.75,
             "commander": [
                 "Sythis, Harvest's Hand"
             ],
@@ -746,7 +739,6 @@
             "deck_id": "453497",
             "rank": "5-8",
             "player": "Sunnysid",
-            "winrate": 0.75,
             "commander": [
                 "Klothys, God of Destiny"
             ],

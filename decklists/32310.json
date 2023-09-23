@@ -10,7 +10,6 @@
             "deck_id": "448588",
             "rank": "1",
             "player": "Vojta Kotek",
-            "winrate": 0.8888888888888888,
             "commander": [
                 "Grenzo, Dungeon Warden"
             ],
@@ -109,7 +108,6 @@
             "deck_id": "448589",
             "rank": "2",
             "player": "Vojtech Benes",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -219,7 +217,6 @@
             "deck_id": "448590",
             "rank": "3",
             "player": "David Mecl",
-            "winrate": 0.75,
             "commander": [
                 "Niv-Mizzet Reborn"
             ],
@@ -329,7 +326,6 @@
             "deck_id": "448591",
             "rank": "4",
             "player": "Martin Holek",
-            "winrate": 0.75,
             "commander": [
                 "Tevesh Szat, Doom of Fools",
                 "Sidar Kondo of Jamuraa"
@@ -435,7 +431,6 @@
             "deck_id": "448592",
             "rank": "5-8",
             "player": "Ondra Fabin",
-            "winrate": 0.75,
             "commander": [
                 "Kytheon, Hero of Akros"
             ],
@@ -521,7 +516,6 @@
             "deck_id": "448593",
             "rank": "5-8",
             "player": "Jakub Lerl",
-            "winrate": 0.75,
             "commander": [
                 "Asmoranomardicadaistinaculdacar"
             ],
@@ -621,7 +615,6 @@
             "deck_id": "448594",
             "rank": "5-8",
             "player": "Martin Vlnas",
-            "winrate": 0.75,
             "commander": [
                 "Winota, Joiner of Forces"
             ],
@@ -722,7 +715,6 @@
             "deck_id": "448595",
             "rank": "5-8",
             "player": "Libor Cajka",
-            "winrate": 0.75,
             "commander": [
                 "Queen Marchesa"
             ],

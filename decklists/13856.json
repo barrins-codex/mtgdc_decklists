@@ -10,7 +10,6 @@
             "deck_id": "281871",
             "rank": "1",
             "player": "Tomas Medina",
-            "winrate": 1.0,
             "commander": [
                 "Narset, Enlightened Master"
             ],
@@ -116,7 +115,6 @@
             "deck_id": "281872",
             "rank": "2",
             "player": "Nicolas Velazquez",
-            "winrate": 0.8,
             "commander": [
                 "Jenara, Asura of War"
             ],

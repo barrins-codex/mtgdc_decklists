@@ -10,7 +10,6 @@
             "deck_id": "239486",
             "rank": "1",
             "player": "Miguel Araya",
-            "winrate": 0.875,
             "commander": [
                 "Geist of Saint Traft"
             ],
@@ -109,7 +108,6 @@
             "deck_id": "239487",
             "rank": "2",
             "player": "Carlos Fuentes",
-            "winrate": 0.75,
             "commander": [
                 "Geist of Saint Traft"
             ],
@@ -207,7 +205,6 @@
             "deck_id": "239488",
             "rank": "3-4",
             "player": "Jose Arroyo",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Brimaz, King of Oreskos"
             ],
@@ -282,7 +279,6 @@
             "deck_id": "239489",
             "rank": "3-4",
             "player": "Sebastian Reyes",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Rith, the Awakener"
             ],
@@ -379,7 +375,6 @@
             "deck_id": "239490",
             "rank": "5-8",
             "player": "Carlos Vega",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Prossh, Skyraider of Kher"
             ],
@@ -473,7 +468,6 @@
             "deck_id": "239491",
             "rank": "5-8",
             "player": "Claudio Barrera",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "The Mimeoplasm"
             ],
@@ -570,7 +564,6 @@
             "deck_id": "239492",
             "rank": "5-8",
             "player": "Nicolas Gutierrez",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Maelstrom Wanderer"
             ],
@@ -677,7 +670,6 @@
             "deck_id": "239493",
             "rank": "5-8",
             "player": "Yanko Medina",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Damia, Sage of Stone"
             ],

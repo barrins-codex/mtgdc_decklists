@@ -10,7 +10,6 @@
             "deck_id": "294741",
             "rank": "3-4",
             "player": "Thomas Nouzilleau",
-            "winrate": 0.8,
             "commander": [
                 "Narset, Enlightened Master"
             ],
@@ -117,7 +116,6 @@
             "deck_id": "294742",
             "rank": "3-4",
             "player": "Iwan Fournier",
-            "winrate": 0.8,
             "commander": [
                 "Zurgo Bellstriker"
             ],
@@ -198,7 +196,6 @@
             "deck_id": "294743",
             "rank": "2",
             "player": "Manolo Castro",
-            "winrate": 0.8,
             "commander": [
                 "Reyhan, Last of the Abzan",
                 "Bruse Tarl, Boorish Herder"
@@ -308,7 +305,6 @@
             "deck_id": "294744",
             "rank": "1",
             "player": "Graouland",
-            "winrate": 1.0,
             "commander": [
                 "Geist of Saint Traft"
             ],

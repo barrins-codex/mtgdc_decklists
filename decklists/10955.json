@@ -10,7 +10,6 @@
             "deck_id": "262373",
             "rank": "3-4",
             "player": "Dominic Gentil",
-            "winrate": 0.8,
             "commander": [
                 "Child of Alara"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "262374",
             "rank": "3-4",
             "player": "Thomas Damoi",
-            "winrate": 0.8,
             "commander": [
                 "Animar, Soul of Elements"
             ],
@@ -224,7 +222,6 @@
             "deck_id": "262375",
             "rank": "2",
             "player": "D \"Ardo\" LC",
-            "winrate": 0.8,
             "commander": [
                 "Damia, Sage of Stone"
             ],
@@ -330,7 +327,6 @@
             "deck_id": "262376",
             "rank": "1",
             "player": "Jeff Berlou",
-            "winrate": 1.0,
             "commander": [
                 "Tasigur, the Golden Fang"
             ],

@@ -10,7 +10,6 @@
             "deck_id": "230590",
             "rank": "3-4",
             "player": "Paul Pecaoco",
-            "winrate": 0.75,
             "commander": [
                 "Thalia, Guardian of Thraben"
             ],
@@ -94,7 +93,6 @@
             "deck_id": "230591",
             "rank": "3-4",
             "player": "Gerry Ramos",
-            "winrate": 0.75,
             "commander": [
                 "Geist of Saint Traft"
             ],
@@ -193,7 +191,6 @@
             "deck_id": "230592",
             "rank": "1",
             "player": "Mik Regalado  Team Derp Derp Spirits",
-            "winrate": 0.8888888888888888,
             "commander": [
                 "Iname, Death Aspect"
             ],
@@ -280,7 +277,6 @@
             "deck_id": "230593",
             "rank": "1",
             "player": "Mark Edward Lasam",
-            "winrate": 0.8888888888888888,
             "commander": [
                 "Maelstrom Wanderer"
             ],
@@ -375,7 +371,6 @@
             "deck_id": "230594",
             "rank": "5-8",
             "player": "Simon Bryan Floreza  Team Oh No!",
-            "winrate": 0.75,
             "commander": [
                 "Maelstrom Wanderer"
             ],
@@ -478,7 +473,6 @@
             "deck_id": "230595",
             "rank": "5-8",
             "player": "Mike Rabanal  Team Derp Blue Collar Infect",
-            "winrate": 0.75,
             "commander": [
                 "Skithiryx, the Blight Dragon"
             ],
@@ -560,7 +554,6 @@
             "deck_id": "230596",
             "rank": "5-8",
             "player": "Jose Gabriel Cardenas",
-            "winrate": 0.75,
             "commander": [
                 "Zur the Enchanter"
             ],
@@ -669,7 +662,6 @@
             "deck_id": "230597",
             "rank": "5-8",
             "player": "Oliver Ortega",
-            "winrate": 0.75,
             "commander": [
                 "Wydwen, the Biting Gale"
             ],

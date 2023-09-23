@@ -10,7 +10,6 @@
             "deck_id": "543110",
             "rank": "1",
             "player": "Rafael Batista",
-            "winrate": 1.0,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "543111",
             "rank": "2",
             "player": "Edson Formiga",
-            "winrate": 0.8,
             "commander": [
                 "Hidetsugu and Kairi"
             ],
@@ -223,7 +221,6 @@
             "deck_id": "543112",
             "rank": "3-4",
             "player": "Guilherme (guima)",
-            "winrate": 0.6,
             "commander": [
                 "Niv-Mizzet Reborn"
             ],
@@ -333,7 +330,6 @@
             "deck_id": "543113",
             "rank": "3-4",
             "player": "Mykael Lundgren",
-            "winrate": 0.6,
             "commander": [
                 "Aragorn, King of Gondor"
             ],

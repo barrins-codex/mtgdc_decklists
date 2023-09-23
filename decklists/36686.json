@@ -10,7 +10,6 @@
             "deck_id": "475928",
             "rank": "1",
             "player": "Guillaumont Antonin",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "475929",
             "rank": "2",
             "player": "Guichard Louis",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Lurrus of the Dream-Den",
                 "Bjorna, Nightfall Alchemist",
@@ -231,7 +229,6 @@
             "deck_id": "475930",
             "rank": "3-4",
             "player": "Le Guiban \"falaakr\" Kaourintin",
-            "winrate": 0.625,
             "commander": [
                 "Kyodai, Soul of Kamigawa"
             ],
@@ -341,7 +338,6 @@
             "deck_id": "475931",
             "rank": "3-4",
             "player": "Vielledent \"chapeau\" Antoine",
-            "winrate": 0.625,
             "commander": [
                 "The Gitrog Monster"
             ],
@@ -440,7 +436,6 @@
             "deck_id": "475932",
             "rank": "5-8",
             "player": "Payan \"koraysh\" Grégoire",
-            "winrate": 0.625,
             "commander": [
                 "Azusa, Lost but Seeking"
             ],
@@ -535,7 +530,6 @@
             "deck_id": "475933",
             "rank": "5-8",
             "player": "Kalil Maximilien",
-            "winrate": 0.625,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -645,7 +639,6 @@
             "deck_id": "475934",
             "rank": "5-8",
             "player": "Huber \"gaoule\" Gaël",
-            "winrate": 0.625,
             "commander": [
                 "Kelsien, the Plague"
             ],
@@ -755,7 +748,6 @@
             "deck_id": "475935",
             "rank": "5-8",
             "player": "Audiffren Guillaume",
-            "winrate": 0.625,
             "commander": [
                 "Niambi, Esteemed Speaker"
             ],

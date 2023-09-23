@@ -10,7 +10,6 @@
             "deck_id": "498365",
             "rank": "1",
             "player": "Guilherme Bellagente",
-            "winrate": 1.0,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "498366",
             "rank": "2",
             "player": "Leandro Lima",
-            "winrate": 0.8,
             "commander": [
                 "Jeska, Thrice Reborn",
                 "Ludevic, Necro-Alchemist"
@@ -218,7 +216,6 @@
             "deck_id": "498367",
             "rank": "3-4",
             "player": "Leandro Maeda",
-            "winrate": 0.8,
             "commander": [
                 "Minsc, Beloved Ranger"
             ],
@@ -326,7 +323,6 @@
             "deck_id": "498368",
             "rank": "3-4",
             "player": "Gustavo Silva",
-            "winrate": 0.8,
             "commander": [
                 "Grist, the Hunger Tide"
             ],
@@ -425,7 +421,6 @@
             "deck_id": "498369",
             "rank": "5-8",
             "player": "Bruno Pereira",
-            "winrate": 0.6,
             "commander": [
                 "Sheoldred, the Apocalypse"
             ],
@@ -513,7 +508,6 @@
             "deck_id": "498370",
             "rank": "5-8",
             "player": "Samuel Martins",
-            "winrate": 0.6,
             "commander": [
                 "Klothys, God of Destiny"
             ],
@@ -610,7 +604,6 @@
             "deck_id": "498371",
             "rank": "5-8",
             "player": "Felipe Tavares",
-            "winrate": 0.6,
             "commander": [
                 "Acererak the Archlich"
             ],
@@ -687,7 +680,6 @@
             "deck_id": "498372",
             "rank": "5-8",
             "player": "Heitor Fernandes",
-            "winrate": 0.6,
             "commander": [
                 "Queen Marchesa"
             ],

@@ -10,7 +10,6 @@
             "deck_id": "462169",
             "rank": "1",
             "player": "Png Ngu",
-            "winrate": 1.0,
             "commander": [
                 "Niv-Mizzet Reborn"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "462170",
             "rank": "2",
             "player": "Thomas \"warboss\"",
-            "winrate": 0.8,
             "commander": [
                 "Klothys, God of Destiny"
             ],
@@ -226,7 +224,6 @@
             "deck_id": "462171",
             "rank": "3",
             "player": "Félix Calais \"midas\"",
-            "winrate": 0.8,
             "commander": [
                 "Marath, Will of the Wild"
             ],

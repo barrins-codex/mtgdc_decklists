@@ -10,7 +10,6 @@
             "deck_id": "337044",
             "rank": "3-4",
             "player": "Smirnov Alexander",
-            "winrate": 0.8,
             "commander": [
                 "Yuriko, the Tiger's Shadow"
             ],
@@ -106,7 +105,6 @@
             "deck_id": "337045",
             "rank": "3-4",
             "player": "Serputko Vyacheslav",
-            "winrate": 0.8,
             "commander": [
                 "Shalai, Voice of Plenty"
             ],
@@ -205,7 +203,6 @@
             "deck_id": "337046",
             "rank": "2",
             "player": "Butrimov Victor",
-            "winrate": 0.8,
             "commander": [
                 "Yuriko, the Tiger's Shadow"
             ],
@@ -300,7 +297,6 @@
             "deck_id": "337047",
             "rank": "1",
             "player": "Mesheriakov Maxim",
-            "winrate": 1.0,
             "commander": [
                 "Brago, King Eternal"
             ],

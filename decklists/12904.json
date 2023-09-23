@@ -10,7 +10,6 @@
             "deck_id": "275089",
             "rank": "1",
             "player": "Yuan Luyang",
-            "winrate": 1.0,
             "commander": [
                 "Wydwen, the Biting Gale"
             ],
@@ -107,7 +106,6 @@
             "deck_id": "275090",
             "rank": "2",
             "player": "Yang Jinlin",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Sidisi, Undead Vizier"
             ],

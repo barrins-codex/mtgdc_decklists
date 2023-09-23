@@ -10,7 +10,6 @@
             "deck_id": "332740",
             "rank": "2",
             "player": "Timéo Passard",
-            "winrate": 0.8,
             "commander": [
                 "Sylvia Brightspear",
                 "Khorvath Brightflame"
@@ -109,7 +108,6 @@
             "deck_id": "332741",
             "rank": "1",
             "player": "Marc Dumonchy",
-            "winrate": 1.0,
             "commander": [
                 "Reyhan, Last of the Abzan",
                 "Tana, the Bloodsower"

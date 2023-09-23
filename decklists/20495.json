@@ -10,7 +10,6 @@
             "deck_id": "334598",
             "rank": "3-4",
             "player": "Guillaume Audiffren",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Baral, Chief of Compliance"
             ],
@@ -82,7 +81,6 @@
             "deck_id": "334599",
             "rank": "3-4",
             "player": "Iwan Fournier",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -166,7 +164,6 @@
             "deck_id": "334600",
             "rank": "2",
             "player": "Alexander \"newtraderdu78\" Loskoutoff",
-            "winrate": 0.8,
             "commander": [
                 "Yuriko, the Tiger's Shadow"
             ],
@@ -263,7 +260,6 @@
             "deck_id": "334601",
             "rank": "1",
             "player": "Yacine Labidi",
-            "winrate": 0.9,
             "commander": [
                 "Najeela, the Blade-Blossom"
             ],
@@ -373,7 +369,6 @@
             "deck_id": "334602",
             "rank": "5-8",
             "player": "Alexandre \"OneSauk\" Benac",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Surrak, the Hunt Caller"
             ],
@@ -464,7 +459,6 @@
             "deck_id": "334603",
             "rank": "5-8",
             "player": "Maxence Achoun",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Baral, Chief of Compliance"
             ],
@@ -538,7 +532,6 @@
             "deck_id": "334604",
             "rank": "5-8",
             "player": "Martin Cuchet",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Arahbo, Roar of the World"
             ],
@@ -637,7 +630,6 @@
             "deck_id": "334605",
             "rank": "5-8",
             "player": "Kaourintin \"falaakr\" Le Guiban",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Akiri, Line-Slinger",
                 "Silas Renn, Seeker Adept"

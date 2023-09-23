@@ -10,7 +10,6 @@
             "deck_id": "451778",
             "rank": "1",
             "player": "Victor Marques",
-            "winrate": 1.0,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "451779",
             "rank": "2",
             "player": "Lucas Felix",
-            "winrate": 0.8,
             "commander": [
                 "Azusa, Lost but Seeking"
             ],

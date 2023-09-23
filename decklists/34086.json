@@ -10,7 +10,6 @@
             "deck_id": "459250",
             "rank": "1",
             "player": "Michael Dasalla",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Dargo, the Shipwrecker"
             ],
@@ -95,7 +94,6 @@
             "deck_id": "459251",
             "rank": "2",
             "player": "Jarbs Sahagun",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Narset, Enlightened Master"
             ],
@@ -203,7 +201,6 @@
             "deck_id": "459252",
             "rank": "3-4",
             "player": "Ste Villaraza",
-            "winrate": 0.625,
             "commander": [
                 "Niv-Mizzet, Parun"
             ],
@@ -305,7 +302,6 @@
             "deck_id": "459253",
             "rank": "3-4",
             "player": "Robert Soriano",
-            "winrate": 0.625,
             "commander": [
                 "Hogaak, Arisen Necropolis"
             ],
@@ -415,7 +411,6 @@
             "deck_id": "459254",
             "rank": "5-8",
             "player": "Ben Co",
-            "winrate": 0.625,
             "commander": [
                 "Octavia, Living Thesis"
             ],
@@ -503,7 +498,6 @@
             "deck_id": "459255",
             "rank": "5-8",
             "player": "Gabe Enriquez",
-            "winrate": 0.625,
             "commander": [
                 "Ghalta, Primal Hunger"
             ],
@@ -597,7 +591,6 @@
             "deck_id": "459256",
             "rank": "5-8",
             "player": "Allan Mariano",
-            "winrate": 0.625,
             "commander": [
                 "Zagras, Thief of Heartbeats"
             ],
@@ -697,7 +690,6 @@
             "deck_id": "459257",
             "rank": "5-8",
             "player": "Jacinto Mendoza",
-            "winrate": 0.625,
             "commander": [
                 "Dragonlord Dromoka"
             ],

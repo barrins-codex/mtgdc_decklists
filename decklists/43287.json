@@ -10,7 +10,6 @@
             "deck_id": "519789",
             "rank": "1",
             "player": "Felipe \"theraizen\" Santos",
-            "winrate": 1.0,
             "commander": [
                 "Jadar, Ghoulcaller of Nephalia"
             ],
@@ -97,7 +96,6 @@
             "deck_id": "519790",
             "rank": "2",
             "player": "Victor Burghi",
-            "winrate": 0.8,
             "commander": [
                 "Urza, Chief Artificer"
             ],
@@ -207,7 +205,6 @@
             "deck_id": "519791",
             "rank": "3",
             "player": "Lucas Santos",
-            "winrate": 0.8,
             "commander": [
                 "Tivit, Seller of Secrets"
             ],
@@ -317,7 +314,6 @@
             "deck_id": "519792",
             "rank": "4",
             "player": "Gabriel Kawagoe",
-            "winrate": 0.6,
             "commander": [
                 "Erayo, Soratami Ascendant"
             ],

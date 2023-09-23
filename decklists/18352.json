@@ -10,7 +10,6 @@
             "deck_id": "313932",
             "rank": "3-4",
             "player": "Sebastian S.",
-            "winrate": 0.6,
             "commander": [
                 "Kess, Dissident Mage"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "313933",
             "rank": "3-4",
             "player": "Simon M.",
-            "winrate": 0.6,
             "commander": [
                 "Reyhan, Last of the Abzan",
                 "Tana, the Bloodsower"
@@ -228,7 +226,6 @@
             "deck_id": "313934",
             "rank": "2",
             "player": "Felix M.",
-            "winrate": 0.8,
             "commander": [
                 "Thrasios, Triton Hero",
                 "Kraum, Ludevic's Opus"
@@ -336,7 +333,6 @@
             "deck_id": "313935",
             "rank": "1",
             "player": "Alexandru C.",
-            "winrate": 1.0,
             "commander": [
                 "Baral, Chief of Compliance"
             ],

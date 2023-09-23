@@ -10,7 +10,6 @@
             "deck_id": "261651",
             "rank": "1",
             "player": "Han Ziyu",
-            "winrate": 1.0,
             "commander": [
                 "Alesha, Who Smiles at Death"
             ],
@@ -118,7 +117,6 @@
             "deck_id": "261652",
             "rank": "2",
             "player": "Liu Lixuan",
-            "winrate": 0.8,
             "commander": [
                 "Narset, Enlightened Master"
             ],

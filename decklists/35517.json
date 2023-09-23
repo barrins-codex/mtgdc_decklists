@@ -10,7 +10,6 @@
             "deck_id": "468103",
             "rank": "1",
             "player": "Jsd",
-            "winrate": 1.0,
             "commander": [
                 "Light-Paws, Emperor's Voice"
             ],
@@ -101,7 +100,6 @@
             "deck_id": "468104",
             "rank": "2",
             "player": "Duoyan Li",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],

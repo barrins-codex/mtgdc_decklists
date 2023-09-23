@@ -10,7 +10,6 @@
             "deck_id": "476011",
             "rank": "1",
             "player": "Mathieu Laurent",
-            "winrate": 1.0,
             "commander": [
                 "Grist, the Hunger Tide"
             ],
@@ -108,7 +107,6 @@
             "deck_id": "476012",
             "rank": "2",
             "player": "Brieuc Evo",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],

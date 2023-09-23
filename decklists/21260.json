@@ -10,7 +10,6 @@
             "deck_id": "342061",
             "rank": "5-8",
             "player": "David Brinek",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Titania, Protector of Argoth"
             ],
@@ -103,7 +102,6 @@
             "deck_id": "342062",
             "rank": "5-8",
             "player": "Jiri Patocka",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "The Gitrog Monster"
             ],
@@ -205,7 +203,6 @@
             "deck_id": "342063",
             "rank": "5-8",
             "player": "Martin Holek",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Kess, Dissident Mage"
             ],
@@ -315,7 +312,6 @@
             "deck_id": "342064",
             "rank": "5-8",
             "player": "Pepa Cerha",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -395,7 +391,6 @@
             "deck_id": "342065",
             "rank": "3-4",
             "player": "David Stepanek",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Lazav, the Multifarious"
             ],
@@ -482,7 +477,6 @@
             "deck_id": "342066",
             "rank": "3-4",
             "player": "Tomas Koudelka",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Arahbo, Roar of the World"
             ],
@@ -582,7 +576,6 @@
             "deck_id": "342067",
             "rank": "1",
             "player": "Miroslav Kalina",
-            "winrate": 0.9,
             "commander": [
                 "Yuriko, the Tiger's Shadow"
             ],
@@ -676,7 +669,6 @@
             "deck_id": "342068",
             "rank": "2",
             "player": "Pavel Podlesak",
-            "winrate": 0.8,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],

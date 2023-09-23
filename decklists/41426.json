@@ -10,7 +10,6 @@
             "deck_id": "507695",
             "rank": "1",
             "player": "Lucas Santos",
-            "winrate": 1.0,
             "commander": [
                 "Bruse Tarl, Boorish Herder",
                 "Yoshimaru, Ever Faithful"
@@ -114,7 +113,6 @@
             "deck_id": "507696",
             "rank": "2",
             "player": "Euro Figueiredo",
-            "winrate": 0.8,
             "commander": [
                 "Arcum Dagsson"
             ],
@@ -199,7 +197,6 @@
             "deck_id": "507697",
             "rank": "3",
             "player": "Victor Burghi",
-            "winrate": 0.6,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -309,7 +306,6 @@
             "deck_id": "507698",
             "rank": "4",
             "player": "Lucas Augusto",
-            "winrate": 0.6,
             "commander": [
                 "Feldon, Ronom Excavator"
             ],

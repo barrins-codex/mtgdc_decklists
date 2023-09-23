@@ -10,7 +10,6 @@
             "deck_id": "507571",
             "rank": "2",
             "player": "Thibaut Bredzinski",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Bruse Tarl, Boorish Herder",
                 "Yoshimaru, Ever Faithful"
@@ -113,7 +112,6 @@
             "deck_id": "507572",
             "rank": "2",
             "player": "Ambroise Berthe",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Acererak the Archlich"
             ],
@@ -185,7 +183,6 @@
             "deck_id": "507573",
             "rank": "3",
             "player": "Karl Marsouin",
-            "winrate": 0.625,
             "commander": [
                 "Grist, the Hunger Tide"
             ],
@@ -284,7 +281,6 @@
             "deck_id": "507574",
             "rank": "4",
             "player": "Mickael Leglise",
-            "winrate": 0.625,
             "commander": [
                 "Feldon, Ronom Excavator"
             ],
@@ -372,7 +368,6 @@
             "deck_id": "507575",
             "rank": "5",
             "player": "Matthieu Habersetzer",
-            "winrate": 0.625,
             "commander": [
                 "The Beamtown Bullies"
             ],
@@ -480,7 +475,6 @@
             "deck_id": "507576",
             "rank": "6",
             "player": "Baptiste Berbille",
-            "winrate": 0.625,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -590,7 +584,6 @@
             "deck_id": "507577",
             "rank": "7",
             "player": "Philippe Metivier",
-            "winrate": 0.625,
             "commander": [
                 "Grist, the Hunger Tide"
             ],
@@ -691,7 +684,6 @@
             "deck_id": "507578",
             "rank": "8",
             "player": "Cedric Allemandou",
-            "winrate": 0.625,
             "commander": [
                 "Niv-Mizzet Reborn"
             ],

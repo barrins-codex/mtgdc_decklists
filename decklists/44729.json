@@ -10,7 +10,6 @@
             "deck_id": "529883",
             "rank": "1",
             "player": "Julien « Night » Caillaux",
-            "winrate": 1.0,
             "commander": [
                 "Dihada, Binder of Wills"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "529884",
             "rank": "2",
             "player": "Hugo Dodelin",
-            "winrate": 0.8,
             "commander": [
                 "Slimefoot and Squee"
             ],
@@ -230,7 +228,6 @@
             "deck_id": "529885",
             "rank": "3-4",
             "player": "Julien Lagardère",
-            "winrate": 0.8,
             "commander": [
                 "Ludevic, Necro-Alchemist",
                 "Yoshimaru, Ever Faithful"
@@ -339,7 +336,6 @@
             "deck_id": "529886",
             "rank": "3-4",
             "player": "Julien Rouar",
-            "winrate": 0.8,
             "commander": [
                 "Hogaak, Arisen Necropolis"
             ],

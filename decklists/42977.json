@@ -10,7 +10,6 @@
             "deck_id": "517712",
             "rank": "1",
             "player": "Gaper Moderc",
-            "winrate": 1.0,
             "commander": [
                 "Dennick, Pious Apprentice"
             ],
@@ -113,7 +112,6 @@
             "deck_id": "517713",
             "rank": "2",
             "player": "Marko tokelj",
-            "winrate": 0.8,
             "commander": [
                 "Laelia, the Blade Reforged"
             ],
@@ -194,7 +192,6 @@
             "deck_id": "517714",
             "rank": "3",
             "player": "Iztok Regent",
-            "winrate": 0.6,
             "commander": [
                 "Rograkh, Son of Rohgahh",
                 "Yoshimaru, Ever Faithful"
@@ -297,7 +294,6 @@
             "deck_id": "517715",
             "rank": "4",
             "player": "Emerik Hodić",
-            "winrate": 0.6,
             "commander": [
                 "Atraxa, Grand Unifier"
             ],

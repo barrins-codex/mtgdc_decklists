@@ -10,7 +10,6 @@
             "deck_id": "458061",
             "rank": "1",
             "player": "Xiong Jiateng",
-            "winrate": 1.0,
             "commander": [
                 "Klothys, God of Destiny"
             ],
@@ -102,7 +101,6 @@
             "deck_id": "458062",
             "rank": "2",
             "player": "Yao Han",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "The Ur-Dragon"
             ],

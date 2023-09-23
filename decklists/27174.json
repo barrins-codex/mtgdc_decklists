@@ -10,7 +10,6 @@
             "deck_id": "413797",
             "rank": "3-4",
             "player": "Lantariel",
-            "winrate": 0.8,
             "commander": [
                 "Hogaak, Arisen Necropolis"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "413798",
             "rank": "3-4",
             "player": "Fowcus",
-            "winrate": 0.8,
             "commander": [
                 "Venser, Shaper Savant"
             ],
@@ -200,7 +198,6 @@
             "deck_id": "413799",
             "rank": "2",
             "player": "Teepex",
-            "winrate": 0.8,
             "commander": [
                 "Uro, Titan of Nature's Wrath"
             ],
@@ -294,7 +291,6 @@
             "deck_id": "413800",
             "rank": "1",
             "player": "Hannibal44",
-            "winrate": 1.0,
             "commander": [
                 "Uro, Titan of Nature's Wrath"
             ],

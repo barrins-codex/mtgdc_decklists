@@ -10,7 +10,6 @@
             "deck_id": "261625",
             "rank": "5-8",
             "player": "Vojtech Benes",
-            "winrate": 0.75,
             "commander": [
                 "Sidisi, Undead Vizier"
             ],
@@ -93,7 +92,6 @@
             "deck_id": "261626",
             "rank": "5-8",
             "player": "Filip Sindler",
-            "winrate": 0.75,
             "commander": [
                 "Prime Speaker Zegana"
             ],
@@ -191,7 +189,6 @@
             "deck_id": "261627",
             "rank": "5-8",
             "player": "Martin Vlnas",
-            "winrate": 0.75,
             "commander": [
                 "Marath, Will of the Wild"
             ],
@@ -300,7 +297,6 @@
             "deck_id": "261628",
             "rank": "5-8",
             "player": "Jakub Havelka",
-            "winrate": 0.75,
             "commander": [
                 "Marath, Will of the Wild"
             ],
@@ -404,7 +400,6 @@
             "deck_id": "261629",
             "rank": "3-4",
             "player": "Petr Tejnsky",
-            "winrate": 0.75,
             "commander": [
                 "Alesha, Who Smiles at Death"
             ],
@@ -513,7 +508,6 @@
             "deck_id": "261630",
             "rank": "3-4",
             "player": "Jan Kousal",
-            "winrate": 0.75,
             "commander": [
                 "Radha, Heir to Keld"
             ],
@@ -614,7 +608,6 @@
             "deck_id": "261631",
             "rank": "2",
             "player": "Marek Paris",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Grand Arbiter Augustin IV"
             ],
@@ -710,7 +703,6 @@
             "deck_id": "261632",
             "rank": "1",
             "player": "Vitezslav Smid",
-            "winrate": 0.8888888888888888,
             "commander": [
                 "Tasigur, the Golden Fang"
             ],

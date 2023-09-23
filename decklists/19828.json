@@ -10,7 +10,6 @@
             "deck_id": "328000",
             "rank": "2",
             "player": "Nick Stamn",
-            "winrate": 0.8,
             "commander": [
                 "Queen Marchesa"
             ],
@@ -112,7 +111,6 @@
             "deck_id": "328001",
             "rank": "1",
             "player": "Michael Aquino",
-            "winrate": 1.0,
             "commander": [
                 "Leovold, Emissary of Trest"
             ],

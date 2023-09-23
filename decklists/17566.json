@@ -10,7 +10,6 @@
             "deck_id": "308832",
             "rank": "2",
             "player": "Antoine Delage \"new God Trader\"",
-            "winrate": 0.8,
             "commander": [
                 "Azusa, Lost but Seeking"
             ],
@@ -95,7 +94,6 @@
             "deck_id": "308833",
             "rank": "3-4",
             "player": "Mael Gourves",
-            "winrate": 0.8,
             "commander": [
                 "Saskia the Unyielding"
             ],
@@ -192,7 +190,6 @@
             "deck_id": "308837",
             "rank": "1",
             "player": "Maxime Chausson",
-            "winrate": 1.0,
             "commander": [
                 "The Gitrog Monster"
             ],
@@ -290,7 +287,6 @@
             "deck_id": "308838",
             "rank": "3-4",
             "player": "Brice Herbet",
-            "winrate": 0.8,
             "commander": [
                 "Titania, Protector of Argoth"
             ],

@@ -10,7 +10,6 @@
             "deck_id": "467954",
             "rank": "1",
             "player": "Alexandre",
-            "winrate": 1.0,
             "commander": [
                 "Dennick, Pious Apprentice"
             ],
@@ -99,7 +98,6 @@
             "deck_id": "467955",
             "rank": "2",
             "player": "Jean Aoshi",
-            "winrate": 0.8,
             "commander": [
                 "Gorex, the Tombshell"
             ],
@@ -183,7 +181,6 @@
             "deck_id": "467956",
             "rank": "3-4",
             "player": "Michel Xisto",
-            "winrate": 0.8,
             "commander": [
                 "Mina and Denn, Wildborn"
             ],
@@ -273,7 +270,6 @@
             "deck_id": "467957",
             "rank": "3-4",
             "player": "Juca",
-            "winrate": 0.8,
             "commander": [
                 "Ao, the Dawn Sky"
             ],
@@ -363,7 +359,6 @@
             "deck_id": "467958",
             "rank": "5-8",
             "player": "Caio",
-            "winrate": 0.6,
             "commander": [
                 "Shorikai, Genesis Engine"
             ],
@@ -449,7 +444,6 @@
             "deck_id": "467959",
             "rank": "5-8",
             "player": "Gabriel Matos",
-            "winrate": 0.6,
             "commander": [
                 "Karlov of the Ghost Council"
             ],
@@ -544,7 +538,6 @@
             "deck_id": "467960",
             "rank": "5-8",
             "player": "Antony",
-            "winrate": 0.6,
             "commander": [
                 "Octavia, Living Thesis"
             ],
@@ -620,7 +613,6 @@
             "deck_id": "467961",
             "rank": "5-8",
             "player": "Thales",
-            "winrate": 0.6,
             "commander": [
                 "Laelia, the Blade Reforged"
             ],

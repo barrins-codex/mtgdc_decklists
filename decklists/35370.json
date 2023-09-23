@@ -10,7 +10,6 @@
             "deck_id": "467257",
             "rank": "1",
             "player": "Léon Le Loir",
-            "winrate": 1.0,
             "commander": [
                 "Niv-Mizzet Reborn",
                 "Jegantha, the Wellspring"
@@ -121,7 +120,6 @@
             "deck_id": "467258",
             "rank": "2",
             "player": "Robin \"faarnn\" Angebaud",
-            "winrate": 0.8,
             "commander": [
                 "Shorikai, Genesis Engine"
             ],

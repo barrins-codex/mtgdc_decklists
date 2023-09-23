@@ -10,7 +10,6 @@
             "deck_id": "503590",
             "rank": "1",
             "player": "Leonardo Maeda",
-            "winrate": 1.0,
             "commander": [
                 "Minsc, Beloved Ranger"
             ],
@@ -118,7 +117,6 @@
             "deck_id": "503591",
             "rank": "2",
             "player": "Rafael",
-            "winrate": 0.8,
             "commander": [
                 "Feldon, Ronom Excavator"
             ],
@@ -202,7 +200,6 @@
             "deck_id": "503592",
             "rank": "3",
             "player": "Gustavo Rett",
-            "winrate": 0.6,
             "commander": [
                 "Balmor, Battlemage Captain"
             ],

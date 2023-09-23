@@ -10,7 +10,6 @@
             "deck_id": "403416",
             "rank": "2",
             "player": "Kelig Maze",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Zur the Enchanter"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "403417",
             "rank": "1",
             "player": "Baptiste Capou",
-            "winrate": 1.0,
             "commander": [
                 "Grenzo, Dungeon Warden"
             ],

@@ -10,7 +10,6 @@
             "deck_id": "504351",
             "rank": "1",
             "player": "Yuchen Yang",
-            "winrate": 1.0,
             "commander": [
                 "Niv-Mizzet Reborn"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "504352",
             "rank": "1",
             "player": "Ceyao Duan",
-            "winrate": 1.0,
             "commander": [
                 "Hogaak, Arisen Necropolis"
             ],
@@ -230,7 +228,6 @@
             "deck_id": "504353",
             "rank": "3-4",
             "player": "Hongchen Zhang",
-            "winrate": 0.8,
             "commander": [
                 "Inspiring Leader",
                 "Gut, True Soul Zealot"
@@ -335,7 +332,6 @@
             "deck_id": "504354",
             "rank": "3-4",
             "player": "Shijia Meng",
-            "winrate": 0.8,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -445,7 +441,6 @@
             "deck_id": "504355",
             "rank": "5-8",
             "player": "Wong Dik Fan",
-            "winrate": 0.6,
             "commander": [
                 "Ludevic, Necro-Alchemist",
                 "Yoshimaru, Ever Faithful"
@@ -548,7 +543,6 @@
             "deck_id": "504356",
             "rank": "5-8",
             "player": "Poordonkey",
-            "winrate": 0.6,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -658,7 +652,6 @@
             "deck_id": "504357",
             "rank": "5-8",
             "player": "Xu Han",
-            "winrate": 0.6,
             "commander": [
                 "Niv-Mizzet Reborn"
             ],
@@ -768,7 +761,6 @@
             "deck_id": "504358",
             "rank": "5-8",
             "player": "Bolong Sun",
-            "winrate": 0.6,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],

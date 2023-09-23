@@ -10,7 +10,6 @@
             "deck_id": "458919",
             "rank": "1",
             "player": "Primo",
-            "winrate": 1.0,
             "commander": [
                 "Kinnan, Bonder Prodigy"
             ],
@@ -90,7 +89,6 @@
             "deck_id": "458920",
             "rank": "2",
             "player": "Professor",
-            "winrate": 0.8,
             "commander": [
                 "General Ferrous Rokiric"
             ],
@@ -181,7 +179,6 @@
             "deck_id": "458921",
             "rank": "3-4",
             "player": "Bruno Santos",
-            "winrate": 0.8,
             "commander": [
                 "Karlov of the Ghost Council"
             ],
@@ -271,7 +268,6 @@
             "deck_id": "458922",
             "rank": "3-4",
             "player": "Michel Xisto",
-            "winrate": 0.8,
             "commander": [
                 "Gorex, the Tombshell"
             ],

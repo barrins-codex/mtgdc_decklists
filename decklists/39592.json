@@ -10,7 +10,6 @@
             "deck_id": "495095",
             "rank": "1",
             "player": "Conja",
-            "winrate": 1.0,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -96,7 +95,6 @@
             "deck_id": "495096",
             "rank": "2",
             "player": "Lucas Felix",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Grist, the Hunger Tide"
             ],
@@ -198,7 +196,6 @@
             "deck_id": "495097",
             "rank": "3",
             "player": "Victor Marques",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Tivit, Seller of Secrets"
             ],
@@ -308,7 +305,6 @@
             "deck_id": "495098",
             "rank": "4",
             "player": "Ravi Zornig",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Grist, the Hunger Tide"
             ],

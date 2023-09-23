@@ -10,7 +10,6 @@
             "deck_id": "439859",
             "rank": "1",
             "player": "Agustin Ireneo",
-            "winrate": 1.0,
             "commander": [
                 "Thrun, the Last Troll"
             ],
@@ -101,7 +100,6 @@
             "deck_id": "439860",
             "rank": "2",
             "player": "Mon Mon Bata",
-            "winrate": 0.8,
             "commander": [
                 "Winota, Joiner of Forces"
             ],
@@ -198,7 +196,6 @@
             "deck_id": "439861",
             "rank": "3-4",
             "player": "Jan Hortaleza",
-            "winrate": 0.6,
             "commander": [
                 "Magda, Brazen Outlaw"
             ],
@@ -288,7 +285,6 @@
             "deck_id": "439862",
             "rank": "3-4",
             "player": "Dhan Pajarillo",
-            "winrate": 0.6,
             "commander": [
                 "Kess, Dissident Mage"
             ],

@@ -10,7 +10,6 @@
             "deck_id": "226739",
             "rank": "1",
             "player": "Arnaud Baglin",
-            "winrate": 1.0,
             "commander": [
                 "Geist of Saint Traft"
             ],
@@ -110,7 +109,6 @@
             "deck_id": "226740",
             "rank": "2",
             "player": "Guillaume Franek",
-            "winrate": 0.8,
             "commander": [
                 "Horde of Notions"
             ],
@@ -220,7 +218,6 @@
             "deck_id": "226741",
             "rank": "3",
             "player": "Claude Herbez",
-            "winrate": 0.8,
             "commander": [
                 "Animar, Soul of Elements"
             ],
@@ -326,7 +323,6 @@
             "deck_id": "226742",
             "rank": "4",
             "player": "Antoine Dambron",
-            "winrate": 0.8,
             "commander": [
                 "Jenara, Asura of War"
             ],
@@ -431,7 +427,6 @@
             "deck_id": "226743",
             "rank": "5",
             "player": "Jean-François Durmont",
-            "winrate": 0.6,
             "commander": [
                 "Rhys the Redeemed"
             ],
@@ -533,7 +528,6 @@
             "deck_id": "226744",
             "rank": "6",
             "player": "Simon Legroux",
-            "winrate": 0.6,
             "commander": [
                 "Xiahou Dun, the One-Eyed"
             ],
@@ -610,7 +604,6 @@
             "deck_id": "226745",
             "rank": "7",
             "player": "Clément Carpentier",
-            "winrate": 0.6,
             "commander": [
                 "Krenko, Mob Boss"
             ],
@@ -692,7 +685,6 @@
             "deck_id": "226746",
             "rank": "8",
             "player": "Geoffroy D'Espinay",
-            "winrate": 0.6,
             "commander": [
                 "Animar, Soul of Elements"
             ],

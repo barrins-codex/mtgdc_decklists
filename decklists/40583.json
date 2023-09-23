@@ -10,7 +10,6 @@
             "deck_id": "501920",
             "rank": "1",
             "player": "Edouard Lecocq",
-            "winrate": 1.0,
             "commander": [
                 "Noble Heritage",
                 "Gut, True Soul Zealot"
@@ -110,7 +109,6 @@
             "deck_id": "501921",
             "rank": "2",
             "player": "Francis Figue",
-            "winrate": 0.8,
             "commander": [
                 "Grist, the Hunger Tide"
             ],
@@ -212,7 +210,6 @@
             "deck_id": "501922",
             "rank": "3-4",
             "player": "Alexandre \"tidus\" Andouard",
-            "winrate": 0.8,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -322,7 +319,6 @@
             "deck_id": "501923",
             "rank": "3-4",
             "player": "Loïc Baverel",
-            "winrate": 0.8,
             "commander": [
                 "Tana, the Bloodsower",
                 "Yoshimaru, Ever Faithful"

@@ -10,7 +10,6 @@
             "deck_id": "331453",
             "rank": "2",
             "player": "Michal Krkavec",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -89,7 +88,6 @@
             "deck_id": "331454",
             "rank": "5-8",
             "player": "Ales Buben",
-            "winrate": 0.75,
             "commander": [
                 "Prossh, Skyraider of Kher"
             ],
@@ -194,7 +192,6 @@
             "deck_id": "331455",
             "rank": "5-8",
             "player": "Vojtech Benes",
-            "winrate": 0.75,
             "commander": [
                 "Teferi, Temporal Archmage"
             ],
@@ -269,7 +266,6 @@
             "deck_id": "331456",
             "rank": "5-8",
             "player": "Jakub Sykora",
-            "winrate": 0.75,
             "commander": [
                 "Kess, Dissident Mage"
             ],
@@ -379,7 +375,6 @@
             "deck_id": "331457",
             "rank": "5-8",
             "player": "Dominik Maly",
-            "winrate": 0.75,
             "commander": [
                 "Silas Renn, Seeker Adept",
                 "Akiri, Line-Slinger"
@@ -489,7 +484,6 @@
             "deck_id": "331458",
             "rank": "3-4",
             "player": "Jan Jelinek",
-            "winrate": 0.75,
             "commander": [
                 "Yuriko, the Tiger's Shadow"
             ],
@@ -587,7 +581,6 @@
             "deck_id": "331459",
             "rank": "3-4",
             "player": "Josef Cerha",
-            "winrate": 0.75,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -665,7 +658,6 @@
             "deck_id": "331460",
             "rank": "1",
             "player": "Pavel Podlesak",
-            "winrate": 0.8888888888888888,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],

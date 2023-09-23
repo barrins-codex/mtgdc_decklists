@@ -10,7 +10,6 @@
             "deck_id": "411724",
             "rank": "1",
             "player": "Baptiste Touboulic",
-            "winrate": 1.0,
             "commander": [
                 "Uro, Titan of Nature's Wrath"
             ],
@@ -108,7 +107,6 @@
             "deck_id": "411725",
             "rank": "2",
             "player": "Lionel Gallière",
-            "winrate": 0.8,
             "commander": [
                 "Uro, Titan of Nature's Wrath"
             ],
@@ -201,7 +199,6 @@
             "deck_id": "411726",
             "rank": "3-4",
             "player": "Thomas Marchand",
-            "winrate": 0.8,
             "commander": [
                 "Arcades, the Strategist"
             ],
@@ -305,7 +302,6 @@
             "deck_id": "411727",
             "rank": "3-4",
             "player": "Boris Gaboriau",
-            "winrate": 0.8,
             "commander": [
                 "Ludevic, Necro-Alchemist",
                 "Kraum, Ludevic's Opus"

@@ -10,7 +10,6 @@
             "deck_id": "453705",
             "rank": "1",
             "player": "Bolong Sun",
-            "winrate": 1.0,
             "commander": [
                 "Queen Marchesa"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "453706",
             "rank": "2",
             "player": "Yi Gao",
-            "winrate": 0.8,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -205,7 +203,6 @@
             "deck_id": "453707",
             "rank": "3-4",
             "player": "Ceyao Duan",
-            "winrate": 0.6,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -315,7 +312,6 @@
             "deck_id": "453708",
             "rank": "3-4",
             "player": "Charles Wang",
-            "winrate": 0.6,
             "commander": [
                 "Karlov of the Ghost Council",
                 "Lurrus of the Dream-Den"

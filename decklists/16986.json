@@ -10,7 +10,6 @@
             "deck_id": "305060",
             "rank": "1",
             "player": "Richard Müller",
-            "winrate": 1.0,
             "commander": [
                 "Prossh, Skyraider of Kher"
             ],
@@ -105,7 +104,6 @@
             "deck_id": "305061",
             "rank": "2",
             "player": "Ben Hackländer",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "The Scarab God"
             ],

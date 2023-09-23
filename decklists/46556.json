@@ -10,7 +10,6 @@
             "deck_id": "544064",
             "rank": "1",
             "player": "Jiri Dvorak",
-            "winrate": 1.0,
             "commander": [
                 "Aragorn, King of Gondor"
             ],
@@ -117,7 +116,6 @@
             "deck_id": "544065",
             "rank": "2",
             "player": "Marek Voracek",
-            "winrate": 0.8,
             "commander": [
                 "Minsc, Beloved Ranger"
             ],
@@ -224,7 +222,6 @@
             "deck_id": "544066",
             "rank": "3-4",
             "player": "Vitezslav Smid",
-            "winrate": 0.8,
             "commander": [
                 "The Beamtown Bullies"
             ],
@@ -334,7 +331,6 @@
             "deck_id": "544067",
             "rank": "3-4",
             "player": "Daniel Krutil",
-            "winrate": 0.8,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -444,7 +440,6 @@
             "deck_id": "544068",
             "rank": "5-8",
             "player": "Patrik Horváth",
-            "winrate": 0.6,
             "commander": [
                 "Ghyrson Starn, Kelermorph"
             ],
@@ -545,7 +540,6 @@
             "deck_id": "544069",
             "rank": "5-8",
             "player": "Patrik Adler",
-            "winrate": 0.6,
             "commander": [
                 "Marath, Will of the Wild"
             ],
@@ -653,7 +647,6 @@
             "deck_id": "544070",
             "rank": "5-8",
             "player": "Vit Masek",
-            "winrate": 0.6,
             "commander": [
                 "Octavia, Living Thesis"
             ],
@@ -742,7 +735,6 @@
             "deck_id": "544071",
             "rank": "5-8",
             "player": "Brona Pecek",
-            "winrate": 0.6,
             "commander": [
                 "Gut, True Soul Zealot"
             ],

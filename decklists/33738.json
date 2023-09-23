@@ -10,7 +10,6 @@
             "deck_id": "457183",
             "rank": "1",
             "player": "Jan Hortaleza",
-            "winrate": 1.0,
             "commander": [
                 "General Ferrous Rokiric"
             ],
@@ -115,7 +114,6 @@
             "deck_id": "457184",
             "rank": "2",
             "player": "Jeremiah Achay",
-            "winrate": 0.8,
             "commander": [
                 "Livio, Oathsworn Sentinel",
                 "Sakashima of a Thousand Faces"
@@ -217,7 +215,6 @@
             "deck_id": "457185",
             "rank": "3-4",
             "player": "Randy Mestiola",
-            "winrate": 0.6,
             "commander": [
                 "Thrun, the Last Troll"
             ],
@@ -316,7 +313,6 @@
             "deck_id": "457186",
             "rank": "3-4",
             "player": "Martin Ogayon",
-            "winrate": 0.6,
             "commander": [
                 "Svyelun of Sea and Sky"
             ],

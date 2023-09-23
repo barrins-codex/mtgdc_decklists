@@ -10,7 +10,6 @@
             "deck_id": "421808",
             "rank": "1",
             "player": "Jiang Ling",
-            "winrate": 1.0,
             "commander": [
                 "Kinnan, Bonder Prodigy"
             ],
@@ -109,7 +108,6 @@
             "deck_id": "421809",
             "rank": "2",
             "player": "Hu Minzhe",
-            "winrate": 0.8,
             "commander": [
                 "Uro, Titan of Nature's Wrath"
             ],

@@ -10,7 +10,6 @@
             "deck_id": "351636",
             "rank": "2",
             "player": "Shen Junkai",
-            "winrate": 0.8,
             "commander": [
                 "Ludevic, Necro-Alchemist",
                 "Thrasios, Triton Hero"
@@ -114,7 +113,6 @@
             "deck_id": "351637",
             "rank": "1",
             "player": "Yang Yang",
-            "winrate": 1.0,
             "commander": [
                 "Yuriko, the Tiger's Shadow"
             ],

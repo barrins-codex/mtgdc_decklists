@@ -10,7 +10,6 @@
             "deck_id": "361164",
             "rank": "2",
             "player": "Josef Kumtýř",
-            "winrate": 0.8,
             "commander": [
                 "Zur the Enchanter"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "361165",
             "rank": "3-4",
             "player": "Jan Kousal",
-            "winrate": 0.6,
             "commander": [
                 "Kraum, Ludevic's Opus",
                 "Ludevic, Necro-Alchemist"
@@ -218,7 +216,6 @@
             "deck_id": "361166",
             "rank": "3-4",
             "player": "Martin Kuník",
-            "winrate": 0.6,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -301,7 +298,6 @@
             "deck_id": "361167",
             "rank": "1",
             "player": "Vojta Kotek",
-            "winrate": 1.0,
             "commander": [
                 "Grenzo, Dungeon Warden"
             ],

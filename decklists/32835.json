@@ -10,7 +10,6 @@
             "deck_id": "451575",
             "rank": "1",
             "player": "Loic \"spartaff\" Berthier",
-            "winrate": 1.0,
             "commander": [
                 "Kroxa, Titan of Death's Hunger"
             ],
@@ -112,7 +111,6 @@
             "deck_id": "451576",
             "rank": "2",
             "player": "Etienne Lavabre",
-            "winrate": 0.8,
             "commander": [
                 "Karlov of the Ghost Council"
             ],
@@ -200,7 +198,6 @@
             "deck_id": "451577",
             "rank": "3",
             "player": "Arthur \"xbod\" Gaillard",
-            "winrate": 0.8,
             "commander": [
                 "Lord Windgrace"
             ],
@@ -303,7 +300,6 @@
             "deck_id": "451578",
             "rank": "4",
             "player": "Maxime \"maxdamaan988\" Damman",
-            "winrate": 0.6,
             "commander": [
                 "Esika, God of the Tree"
             ],
@@ -413,7 +409,6 @@
             "deck_id": "451579",
             "rank": "5-8",
             "player": "Clément \"pommepelope\" Cousin",
-            "winrate": 0.6,
             "commander": [
                 "Kinnan, Bonder Prodigy"
             ],
@@ -516,7 +511,6 @@
             "deck_id": "451580",
             "rank": "5-8",
             "player": "Yannick \"forgeron69\" Dumelier",
-            "winrate": 0.6,
             "commander": [
                 "Klothys, God of Destiny"
             ],
@@ -612,7 +606,6 @@
             "deck_id": "451581",
             "rank": "5-8",
             "player": "Romain Cozic",
-            "winrate": 0.6,
             "commander": [
                 "Isamaru, Hound of Konda"
             ],
@@ -697,7 +690,6 @@
             "deck_id": "451582",
             "rank": "5-8",
             "player": "Bastien \"isakami\" Guichard",
-            "winrate": 0.6,
             "commander": [
                 "Isamaru, Hound of Konda"
             ],

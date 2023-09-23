@@ -10,7 +10,6 @@
             "deck_id": "536541",
             "rank": "1",
             "player": "Marcelo Teixeira",
-            "winrate": 1.0,
             "commander": [
                 "Prossh, Skyraider of Kher"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "536542",
             "rank": "2",
             "player": "Bruno Perez",
-            "winrate": 0.8,
             "commander": [
                 "Tana, the Bloodsower",
                 "Yoshimaru, Ever Faithful"
@@ -230,7 +228,6 @@
             "deck_id": "536543",
             "rank": "3-4",
             "player": "Jacque",
-            "winrate": 0.6,
             "commander": [
                 "Aragorn, King of Gondor"
             ],
@@ -338,7 +335,6 @@
             "deck_id": "536544",
             "rank": "3-4",
             "player": "Teferi_x",
-            "winrate": 0.6,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],

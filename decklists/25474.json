@@ -10,7 +10,6 @@
             "deck_id": "384221",
             "rank": "1",
             "player": "Donmartino",
-            "winrate": 1.0,
             "commander": [
                 "Golos, Tireless Pilgrim"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "384222",
             "rank": "2",
             "player": "Jasper R. Nielsen",
-            "winrate": 0.8,
             "commander": [
                 "Kraum, Ludevic's Opus",
                 "Tymna the Weaver"
@@ -230,7 +228,6 @@
             "deck_id": "384223",
             "rank": "3",
             "player": "Jeppe Risager",
-            "winrate": 0.8,
             "commander": [
                 "Sisay, Weatherlight Captain"
             ],
@@ -340,7 +337,6 @@
             "deck_id": "384224",
             "rank": "3-4",
             "player": "Mikinai",
-            "winrate": 0.8,
             "commander": [
                 "Sisay, Weatherlight Captain"
             ],
@@ -450,7 +446,6 @@
             "deck_id": "384225",
             "rank": "5-8",
             "player": "Martin Vlnas",
-            "winrate": 0.6,
             "commander": [
                 "Sidar Kondo of Jamuraa",
                 "Thrasios, Triton Hero"
@@ -558,7 +553,6 @@
             "deck_id": "384226",
             "rank": "5-8",
             "player": "Caxxen",
-            "winrate": 0.6,
             "commander": [
                 "Thrasios, Triton Hero",
                 "Kraum, Ludevic's Opus"
@@ -664,7 +658,6 @@
             "deck_id": "384227",
             "rank": "5-8",
             "player": "Kalosik",
-            "winrate": 0.6,
             "commander": [
                 "Prossh, Skyraider of Kher"
             ],
@@ -772,7 +765,6 @@
             "deck_id": "384228",
             "rank": "5-8",
             "player": "Zarlock",
-            "winrate": 0.6,
             "commander": [
                 "Thrasios, Triton Hero",
                 "Tymna the Weaver"

@@ -10,7 +10,6 @@
             "deck_id": "412702",
             "rank": "1",
             "player": "Eduardo Tognoli",
-            "winrate": 1.0,
             "commander": [
                 "Akiri, Line-Slinger",
                 "Tymna the Weaver"
@@ -117,7 +116,6 @@
             "deck_id": "412703",
             "rank": "2",
             "player": "Kelvin Gomes",
-            "winrate": 0.8,
             "commander": [
                 "Rowan Kenrith",
                 "Will Kenrith"

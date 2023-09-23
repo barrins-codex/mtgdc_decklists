@@ -10,7 +10,6 @@
             "deck_id": "341049",
             "rank": "2",
             "player": "Felix M.",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Grand Arbiter Augustin IV"
             ],
@@ -111,7 +110,6 @@
             "deck_id": "341050",
             "rank": "1",
             "player": "Samuel Z.",
-            "winrate": 1.0,
             "commander": [
                 "Varolz, the Scar-Striped"
             ],

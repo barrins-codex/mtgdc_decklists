@@ -10,7 +10,6 @@
             "deck_id": "504054",
             "rank": "1",
             "player": "Simon Calligaro",
-            "winrate": 0.9,
             "commander": [
                 "Ghyrson Starn, Kelermorph"
             ],
@@ -104,7 +103,6 @@
             "deck_id": "504055",
             "rank": "2",
             "player": "Adrien \"oni\" Demoget",
-            "winrate": 0.8,
             "commander": [
                 "Tunnel of Love",
                 "Trash Bin",
@@ -214,7 +212,6 @@
             "deck_id": "504056",
             "rank": "3-4",
             "player": "Thibaut Huss",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Immard, the Stormcleaver"
             ],
@@ -321,7 +318,6 @@
             "deck_id": "504057",
             "rank": "3-4",
             "player": "Alexis Gosset",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Gut, True Soul Zealot",
                 "Flaming Fist"
@@ -426,7 +422,6 @@
             "deck_id": "504058",
             "rank": "5-8",
             "player": "Quentin Delafosse",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Dihada, Binder of Wills"
             ],
@@ -536,7 +531,6 @@
             "deck_id": "504059",
             "rank": "5-8",
             "player": "Valentin Orange",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Old Stickfingers"
             ],
@@ -637,7 +631,6 @@
             "deck_id": "504060",
             "rank": "5-8",
             "player": "Cahu31",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Dihada, Binder of Wills"
             ],
@@ -747,7 +740,6 @@
             "deck_id": "504061",
             "rank": "5-8",
             "player": "Willy De Almeida",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Ghyrson Starn, Kelermorph"
             ],

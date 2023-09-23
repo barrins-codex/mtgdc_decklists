@@ -10,7 +10,6 @@
             "deck_id": "525464",
             "rank": "1",
             "player": "Ricky \"takoy\" Madrigal",
-            "winrate": 1.0,
             "commander": [
                 "Gut, True Soul Zealot",
                 "Veteran Soldier"
@@ -117,7 +116,6 @@
             "deck_id": "525465",
             "rank": "2",
             "player": "Ste Villaraza",
-            "winrate": 0.8,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -227,7 +225,6 @@
             "deck_id": "525466",
             "rank": "3-4",
             "player": "Dominic Yu Ping Kun",
-            "winrate": 0.8,
             "commander": [
                 "Ghyrson Starn, Kelermorph"
             ],
@@ -330,7 +327,6 @@
             "deck_id": "525467",
             "rank": "3-4",
             "player": "Lamberto Demillo",
-            "winrate": 0.8,
             "commander": [
                 "Yoshimaru, Ever Faithful",
                 "Tana, the Bloodsower"
@@ -439,7 +435,6 @@
             "deck_id": "525468",
             "rank": "5-8",
             "player": "Gabriel Castillan",
-            "winrate": 0.6,
             "commander": [
                 "Tivit, Seller of Secrets"
             ],
@@ -549,7 +544,6 @@
             "deck_id": "525469",
             "rank": "5-8",
             "player": "Volts Vitug",
-            "winrate": 0.6,
             "commander": [
                 "Titania, Protector of Argoth"
             ],
@@ -645,7 +639,6 @@
             "deck_id": "525470",
             "rank": "5-8",
             "player": "Rai Reyes",
-            "winrate": 0.6,
             "commander": [
                 "Tana, the Bloodsower",
                 "Yoshimaru, Ever Faithful"
@@ -754,7 +747,6 @@
             "deck_id": "525471",
             "rank": "5-8",
             "player": "Aj De Leon",
-            "winrate": 0.6,
             "commander": [
                 "Tivit, Seller of Secrets"
             ],

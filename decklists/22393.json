@@ -10,7 +10,6 @@
             "deck_id": "352101",
             "rank": "2",
             "player": "Killian Franchet",
-            "winrate": 0.8,
             "commander": [
                 "Surrak, the Hunt Caller"
             ],
@@ -99,7 +98,6 @@
             "deck_id": "352102",
             "rank": "3",
             "player": "Axel \"uni-jambon\" Carpentier",
-            "winrate": 0.8,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -209,7 +207,6 @@
             "deck_id": "352103",
             "rank": "4",
             "player": "Brieuc Evo",
-            "winrate": 0.6,
             "commander": [
                 "Sai, Master Thopterist"
             ],
@@ -297,7 +294,6 @@
             "deck_id": "352104",
             "rank": "1",
             "player": "Nicolas De Coster",
-            "winrate": 1.0,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],

@@ -10,7 +10,6 @@
             "deck_id": "541548",
             "rank": "1",
             "player": "Xiaoyuzhou",
-            "winrate": 1.0,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "541549",
             "rank": "2",
             "player": "Yu Hang",
-            "winrate": 0.8,
             "commander": [
                 "Aragorn, the Uniter"
             ],
@@ -230,7 +228,6 @@
             "deck_id": "541550",
             "rank": "3",
             "player": "Liang Yuanhao",
-            "winrate": 0.6,
             "commander": [
                 "Kroxa, Titan of Death's Hunger"
             ],

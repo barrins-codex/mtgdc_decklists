@@ -10,7 +10,6 @@
             "deck_id": "531946",
             "rank": "1",
             "player": "Leonardo Maeda",
-            "winrate": 1.0,
             "commander": [
                 "Samut, Vizier of Naktamun"
             ],
@@ -109,7 +108,6 @@
             "deck_id": "531947",
             "rank": "2",
             "player": "Carlos Pires",
-            "winrate": 0.8,
             "commander": [
                 "Ertai Resurrected"
             ],
@@ -202,7 +200,6 @@
             "deck_id": "531948",
             "rank": "3-4",
             "player": "Matheus Oliveira",
-            "winrate": 0.8,
             "commander": [
                 "Feldon, Ronom Excavator"
             ],
@@ -286,7 +283,6 @@
             "deck_id": "531949",
             "rank": "3-4",
             "player": "Victor Burghi",
-            "winrate": 0.8,
             "commander": [
                 "Tana, the Bloodsower",
                 "Yoshimaru, Ever Faithful"

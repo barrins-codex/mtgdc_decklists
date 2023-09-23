@@ -10,7 +10,6 @@
             "deck_id": "238722",
             "rank": "1",
             "player": "Leorenz Jamias",
-            "winrate": 1.0,
             "commander": [
                 "Skullbriar, the Walking Grave"
             ],
@@ -110,7 +109,6 @@
             "deck_id": "238723",
             "rank": "2",
             "player": "Eric Bondoc",
-            "winrate": 0.8,
             "commander": [
                 "Purphoros, God of the Forge"
             ],
@@ -195,7 +193,6 @@
             "deck_id": "238724",
             "rank": "3",
             "player": "Israel Rodriguez",
-            "winrate": 0.8,
             "commander": [
                 "Geist of Saint Traft"
             ],
@@ -295,7 +292,6 @@
             "deck_id": "238725",
             "rank": "4",
             "player": "Juin San Juan",
-            "winrate": 0.6,
             "commander": [
                 "Maelstrom Wanderer"
             ],

@@ -10,7 +10,6 @@
             "deck_id": "274309",
             "rank": "1",
             "player": "Thomas Nouzilleau",
-            "winrate": 1.0,
             "commander": [
                 "Vendilion Clique"
             ],
@@ -98,7 +97,6 @@
             "deck_id": "274310",
             "rank": "2",
             "player": "Joris Bastat",
-            "winrate": 0.8,
             "commander": [
                 "Child of Alara"
             ],
@@ -208,7 +206,6 @@
             "deck_id": "274311",
             "rank": "3-4",
             "player": "Romain Lamine",
-            "winrate": 0.8,
             "commander": [
                 "Titania, Protector of Argoth"
             ],
@@ -303,7 +300,6 @@
             "deck_id": "274312",
             "rank": "3-4",
             "player": "Cyrille Peuvion",
-            "winrate": 0.8,
             "commander": [
                 "Doran, the Siege Tower"
             ],

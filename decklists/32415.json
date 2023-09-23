@@ -10,7 +10,6 @@
             "deck_id": "449166",
             "rank": "1",
             "player": "Pierre Almaraz",
-            "winrate": 1.0,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -90,7 +89,6 @@
             "deck_id": "449167",
             "rank": "2",
             "player": "Thibault Dupuy",
-            "winrate": 0.8,
             "commander": [
                 "Kinnan, Bonder Prodigy"
             ],
@@ -181,7 +179,6 @@
             "deck_id": "449168",
             "rank": "3-4",
             "player": "Loïc Baverel",
-            "winrate": 0.8,
             "commander": [
                 "Minsc, Beloved Ranger"
             ],
@@ -288,7 +285,6 @@
             "deck_id": "449169",
             "rank": "3-4",
             "player": "Alexandre Andouard",
-            "winrate": 0.8,
             "commander": [
                 "Kinnan, Bonder Prodigy"
             ],

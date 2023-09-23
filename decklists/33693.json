@@ -10,7 +10,6 @@
             "deck_id": "456943",
             "rank": "1",
             "player": "François Maynadier",
-            "winrate": 0.875,
             "commander": [
                 "Kraum, Ludevic's Opus",
                 "Livio, Oathsworn Sentinel"
@@ -120,7 +119,6 @@
             "deck_id": "456944",
             "rank": "2",
             "player": "Alexandre Habert",
-            "winrate": 0.75,
             "commander": [
                 "Isamaru, Hound of Konda"
             ],
@@ -207,7 +205,6 @@
             "deck_id": "456945",
             "rank": "3-4",
             "player": "Jacques Campagnaro",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -291,7 +288,6 @@
             "deck_id": "456946",
             "rank": "3-4",
             "player": "Damien Garcia",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Venser, Shaper Savant"
             ],
@@ -369,7 +365,6 @@
             "deck_id": "456947",
             "rank": "5-8",
             "player": "Pierre Clavieras Mengin",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Esika, God of the Tree"
             ],
@@ -479,7 +474,6 @@
             "deck_id": "456948",
             "rank": "5-8",
             "player": "Quentin Pottier",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -589,7 +583,6 @@
             "deck_id": "456949",
             "rank": "5-8",
             "player": "Léo Poussou",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Doran, the Siege Tower"
             ],
@@ -699,7 +692,6 @@
             "deck_id": "456950",
             "rank": "5-8",
             "player": "Laurent Gadchaux",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Golos, Tireless Pilgrim"
             ],

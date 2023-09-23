@@ -10,7 +10,6 @@
             "deck_id": "369805",
             "rank": "3-4",
             "player": "Mathieu Calbot",
-            "winrate": 0.8,
             "commander": [
                 "Hogaak, Arisen Necropolis"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "369806",
             "rank": "3-4",
             "player": "Enzo Costa",
-            "winrate": 0.8,
             "commander": [
                 "Vendilion Clique"
             ],
@@ -201,7 +199,6 @@
             "deck_id": "369807",
             "rank": "5-8",
             "player": "Florian Trotte",
-            "winrate": 0.6,
             "commander": [
                 "Niv-Mizzet Reborn"
             ],
@@ -311,7 +308,6 @@
             "deck_id": "369808",
             "rank": "5-8",
             "player": "Martin Hugues",
-            "winrate": 0.6,
             "commander": [
                 "Saskia the Unyielding"
             ],
@@ -421,7 +417,6 @@
             "deck_id": "369809",
             "rank": "5-8",
             "player": "Julien Chiarvesio",
-            "winrate": 0.6,
             "commander": [
                 "Niv-Mizzet Reborn"
             ],
@@ -531,7 +526,6 @@
             "deck_id": "369810",
             "rank": "5-8",
             "player": "Thomas Pligier",
-            "winrate": 0.6,
             "commander": [
                 "Niv-Mizzet Reborn"
             ],
@@ -641,7 +635,6 @@
             "deck_id": "369811",
             "rank": "2",
             "player": "Mickaël Bruno",
-            "winrate": 0.8,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -721,7 +714,6 @@
             "deck_id": "369812",
             "rank": "1",
             "player": "Noham Maubert",
-            "winrate": 1.0,
             "commander": [
                 "Thrasios, Triton Hero",
                 "Tymna the Weaver"

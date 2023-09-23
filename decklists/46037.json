@@ -10,7 +10,6 @@
             "deck_id": "540187",
             "rank": "1",
             "player": "Julien Schneider",
-            "winrate": 1.0,
             "commander": [
                 "Light-Paws, Emperor's Voice"
             ],
@@ -93,7 +92,6 @@
             "deck_id": "540188",
             "rank": "2",
             "player": "Francois Grossi",
-            "winrate": 0.8,
             "commander": [
                 "Tivit, Seller of Secrets"
             ],
@@ -203,7 +201,6 @@
             "deck_id": "540189",
             "rank": "3-4",
             "player": "Aubin Ronchant",
-            "winrate": 0.8,
             "commander": [
                 "Yoshimaru, Ever Faithful",
                 "Bruse Tarl, Boorish Herder"
@@ -308,7 +305,6 @@
             "deck_id": "540190",
             "rank": "5-8",
             "player": "Quentin De Rivarola",
-            "winrate": 0.6,
             "commander": [
                 "Bruse Tarl, Boorish Herder",
                 "Yoshimaru, Ever Faithful"
@@ -411,7 +407,6 @@
             "deck_id": "540191",
             "rank": "5-8",
             "player": "Paul Joye",
-            "winrate": 0.6,
             "commander": [
                 "Atraxa, Grand Unifier"
             ],
@@ -521,7 +516,6 @@
             "deck_id": "540192",
             "rank": "5-8",
             "player": "Quentin Naille",
-            "winrate": 0.6,
             "commander": [
                 "Tivit, Seller of Secrets"
             ],
@@ -631,7 +625,6 @@
             "deck_id": "540193",
             "rank": "5-8",
             "player": "Clément De Rivarola",
-            "winrate": 0.6,
             "commander": [
                 "Rocco, Cabaretti Caterer"
             ],

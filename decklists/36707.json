@@ -10,7 +10,6 @@
             "deck_id": "476050",
             "rank": "1",
             "player": "Andre Moulin",
-            "winrate": 1.0,
             "commander": [
                 "Teysa, Orzhov Scion"
             ],
@@ -92,7 +91,6 @@
             "deck_id": "476051",
             "rank": "2",
             "player": "Yago Leal",
-            "winrate": 0.8,
             "commander": [
                 "Athreos, God of Passage"
             ],
@@ -184,7 +182,6 @@
             "deck_id": "476052",
             "rank": "3-4",
             "player": "Alan",
-            "winrate": 0.6,
             "commander": [
                 "Grazilaxx, Illithid Scholar"
             ],
@@ -260,7 +257,6 @@
             "deck_id": "476053",
             "rank": "3-4",
             "player": "Flavio Guio",
-            "winrate": 0.6,
             "commander": [
                 "Keranos, God of Storms"
             ],

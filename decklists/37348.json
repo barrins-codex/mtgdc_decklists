@@ -10,7 +10,6 @@
             "deck_id": "480028",
             "rank": "1",
             "player": "Marek Majer",
-            "winrate": 0.8888888888888888,
             "commander": [
                 "Juri, Master of the Revue"
             ],
@@ -111,7 +110,6 @@
             "deck_id": "480029",
             "rank": "2",
             "player": "Jiri Obraz",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Niv-Mizzet Reborn"
             ],
@@ -221,7 +219,6 @@
             "deck_id": "480030",
             "rank": "3-4",
             "player": "Roman Vejdelek",
-            "winrate": 0.75,
             "commander": [
                 "Minsc &amp; Boo, Timeless Heroes"
             ],
@@ -324,7 +321,6 @@
             "deck_id": "480031",
             "rank": "3-4",
             "player": "Petr Stefan",
-            "winrate": 0.75,
             "commander": [
                 "Minsc &amp; Boo, Timeless Heroes"
             ],
@@ -426,7 +422,6 @@
             "deck_id": "480032",
             "rank": "5-8",
             "player": "Zdenek Hlavsa",
-            "winrate": 0.75,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -536,7 +531,6 @@
             "deck_id": "480033",
             "rank": "5-8",
             "player": "Miloslav Ponec",
-            "winrate": 0.75,
             "commander": [
                 "Grenzo, Havoc Raiser"
             ],
@@ -622,7 +616,6 @@
             "deck_id": "480034",
             "rank": "5-8",
             "player": "Vaclav Hrdlicka",
-            "winrate": 0.75,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -732,7 +725,6 @@
             "deck_id": "480035",
             "rank": "5-8",
             "player": "Honza Lamper",
-            "winrate": 0.75,
             "commander": [
                 "Minsc &amp; Boo, Timeless Heroes"
             ],

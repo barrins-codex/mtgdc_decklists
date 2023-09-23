@@ -10,7 +10,6 @@
             "deck_id": "511875",
             "rank": "1",
             "player": "Mathieu Leclere",
-            "winrate": 0.875,
             "commander": [
                 "Niv-Mizzet Reborn"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "511876",
             "rank": "2",
             "player": "Guillaume Duday-marlot",
-            "winrate": 0.75,
             "commander": [
                 "Light-Paws, Emperor's Voice"
             ],
@@ -201,7 +199,6 @@
             "deck_id": "511877",
             "rank": "3-4",
             "player": "Diego Rio",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Dihada, Binder of Wills"
             ],
@@ -311,7 +308,6 @@
             "deck_id": "511878",
             "rank": "3-4",
             "player": "Maximilien Potel",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Bruse Tarl, Boorish Herder",
                 "Yoshimaru, Ever Faithful"
@@ -411,7 +407,6 @@
             "deck_id": "511879",
             "rank": "5-8",
             "player": "Hugo Ben Aych",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Prossh, Skyraider of Kher"
             ],
@@ -521,7 +516,6 @@
             "deck_id": "511880",
             "rank": "5-8",
             "player": "Quentin Guilbert",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Octavia, Living Thesis"
             ],
@@ -611,7 +605,6 @@
             "deck_id": "511881",
             "rank": "5-8",
             "player": "Victor Sorreau",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Tourach, Dread Cantor"
             ],
@@ -696,7 +689,6 @@
             "deck_id": "511882",
             "rank": "5-8",
             "player": "Nurbey « Agrian » Cerkezoglu",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Ertai Resurrected"
             ],

@@ -10,7 +10,6 @@
             "deck_id": "476013",
             "rank": "1",
             "player": "Pierre Bats",
-            "winrate": 1.0,
             "commander": [
                 "Tivit, Seller of Secrets"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "476014",
             "rank": "2",
             "player": "Som40",
-            "winrate": 0.8,
             "commander": [
                 "Leovold, Emissary of Trest"
             ],

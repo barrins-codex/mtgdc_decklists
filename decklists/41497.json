@@ -10,7 +10,6 @@
             "deck_id": "508354",
             "rank": "1",
             "player": "Ken Decena",
-            "winrate": 1.0,
             "commander": [
                 "Ghyrson Starn, Kelermorph"
             ],
@@ -113,7 +112,6 @@
             "deck_id": "508355",
             "rank": "2",
             "player": "Jeremiah Maigue",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Ludevic, Necro-Alchemist",
                 "Yoshimaru, Ever Faithful"

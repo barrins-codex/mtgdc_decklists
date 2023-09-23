@@ -10,7 +10,6 @@
             "deck_id": "285487",
             "rank": "1",
             "player": "Douglas Rizzi",
-            "winrate": 1.0,
             "commander": [
                 "Geist of Saint Traft"
             ],
@@ -107,7 +106,6 @@
             "deck_id": "285488",
             "rank": "2",
             "player": "Maikon Marques",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Thalia, Guardian of Thraben"
             ],

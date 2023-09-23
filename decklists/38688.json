@@ -10,7 +10,6 @@
             "deck_id": "488798",
             "rank": "1",
             "player": "Yuchen Yang",
-            "winrate": 0.8888888888888888,
             "commander": [
                 "Niv-Mizzet Reborn"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "488799",
             "rank": "1",
             "player": "Haobo Ma",
-            "winrate": 0.8888888888888888,
             "commander": [
                 "Niv-Mizzet, Parun"
             ],
@@ -220,7 +218,6 @@
             "deck_id": "488800",
             "rank": "3-4",
             "player": "Boran Gao",
-            "winrate": 0.75,
             "commander": [
                 "Grist, the Hunger Tide"
             ],
@@ -320,7 +317,6 @@
             "deck_id": "488801",
             "rank": "3-4",
             "player": "Hongchen Zhang",
-            "winrate": 0.75,
             "commander": [
                 "Tavern Brawler",
                 "Wilson, Refined Grizzly"
@@ -420,7 +416,6 @@
             "deck_id": "488802",
             "rank": "5-8",
             "player": "Hongchen Jiao",
-            "winrate": 0.75,
             "commander": [
                 "Jeska, Thrice Reborn",
                 "Ludevic, Necro-Alchemist"
@@ -521,7 +516,6 @@
             "deck_id": "488803",
             "rank": "5-8",
             "player": "Qingzhi Chen",
-            "winrate": 0.75,
             "commander": [
                 "Niv-Mizzet Reborn"
             ],
@@ -631,7 +625,6 @@
             "deck_id": "488804",
             "rank": "5-8",
             "player": "Deyuan Huang",
-            "winrate": 0.75,
             "commander": [
                 "The Gitrog Monster"
             ],
@@ -734,7 +727,6 @@
             "deck_id": "488805",
             "rank": "5-8",
             "player": "Yuning Meng",
-            "winrate": 0.75,
             "commander": [
                 "Raffine, Scheming Seer"
             ],

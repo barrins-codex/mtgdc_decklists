@@ -10,7 +10,6 @@
             "deck_id": "291364",
             "rank": "3-4",
             "player": "Coreshock",
-            "winrate": 0.8,
             "commander": [
                 "Geist of Saint Traft"
             ],
@@ -110,7 +109,6 @@
             "deck_id": "291365",
             "rank": "3-4",
             "player": "Triip_utd",
-            "winrate": 0.8,
             "commander": [
                 "Reyhan, Last of the Abzan",
                 "Bruse Tarl, Boorish Herder"
@@ -220,7 +218,6 @@
             "deck_id": "291366",
             "rank": "2",
             "player": "Oeoe",
-            "winrate": 0.8,
             "commander": [
                 "Vial Smasher the Fierce",
                 "Kraum, Ludevic's Opus"
@@ -325,7 +322,6 @@
             "deck_id": "291367",
             "rank": "1",
             "player": "Vlaprohor",
-            "winrate": 1.0,
             "commander": [
                 "Jace, Vryn's Prodigy"
             ],

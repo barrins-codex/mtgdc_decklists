@@ -10,7 +10,6 @@
             "deck_id": "364415",
             "rank": "3-4",
             "player": "Samuel Roussel",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Grenzo, Havoc Raiser"
             ],
@@ -86,7 +85,6 @@
             "deck_id": "364416",
             "rank": "2",
             "player": "Anthoni Pellizzaro",
-            "winrate": 0.75,
             "commander": [
                 "Reyhan, Last of the Abzan",
                 "Tymna the Weaver"
@@ -196,7 +194,6 @@
             "deck_id": "364417",
             "rank": "1",
             "player": "Pierre Ambroise",
-            "winrate": 0.875,
             "commander": [
                 "Akiri, Line-Slinger",
                 "Silas Renn, Seeker Adept"
@@ -306,7 +303,6 @@
             "deck_id": "364418",
             "rank": "3-4",
             "player": "Hugo Eterradossi",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Maelstrom Wanderer"
             ],
@@ -407,7 +403,6 @@
             "deck_id": "364419",
             "rank": "5-8",
             "player": "Brice Herbet",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Isamaru, Hound of Konda"
             ],
@@ -497,7 +492,6 @@
             "deck_id": "364420",
             "rank": "5-8",
             "player": "Yohann Diliegro",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Edric, Spymaster of Trest"
             ],
@@ -592,7 +586,6 @@
             "deck_id": "364421",
             "rank": "5-8",
             "player": "Tugdual Kervoas",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Doran, the Siege Tower"
             ],
@@ -702,7 +695,6 @@
             "deck_id": "364422",
             "rank": "5-8",
             "player": "Kevin Roualen",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Maelstrom Wanderer"
             ],

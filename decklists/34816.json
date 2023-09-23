@@ -10,7 +10,6 @@
             "deck_id": "463568",
             "rank": "1",
             "player": "Ste Villaraza",
-            "winrate": 1.0,
             "commander": [
                 "Shorikai, Genesis Engine"
             ],
@@ -112,7 +111,6 @@
             "deck_id": "463569",
             "rank": "2",
             "player": "Chris Sta Maria",
-            "winrate": 0.8,
             "commander": [
                 "Lurrus of the Dream-Den",
                 "Karlov of the Ghost Council"
@@ -216,7 +214,6 @@
             "deck_id": "463570",
             "rank": "3-4",
             "player": "Alex Dulawan",
-            "winrate": 0.6,
             "commander": [
                 "Titania, Protector of Argoth"
             ],
@@ -312,7 +309,6 @@
             "deck_id": "463571",
             "rank": "3-4",
             "player": "Jacinto Mendoza",
-            "winrate": 0.6,
             "commander": [
                 "Dennick, Pious Apprentice"
             ],

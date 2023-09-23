@@ -10,7 +10,6 @@
             "deck_id": "399633",
             "rank": "1",
             "player": "Danziir",
-            "winrate": 1.0,
             "commander": [
                 "Kraum, Ludevic's Opus",
                 "Ludevic, Necro-Alchemist"
@@ -102,7 +101,6 @@
             "deck_id": "399634",
             "rank": "2",
             "player": "Japanese",
-            "winrate": 0.8,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],

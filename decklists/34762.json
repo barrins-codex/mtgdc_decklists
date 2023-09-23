@@ -10,7 +10,6 @@
             "deck_id": "463222",
             "rank": "1",
             "player": "Char",
-            "winrate": 1.0,
             "commander": [
                 "Hogaak, Arisen Necropolis"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "463223",
             "rank": "2",
             "player": "Boran Gao",
-            "winrate": 0.8,
             "commander": [
                 "Grist, the Hunger Tide"
             ],
@@ -223,7 +221,6 @@
             "deck_id": "463224",
             "rank": "3-4",
             "player": "Ceyao Duan",
-            "winrate": 0.6,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -333,7 +330,6 @@
             "deck_id": "463225",
             "rank": "3-4",
             "player": "Hongchen Zhang",
-            "winrate": 0.6,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],

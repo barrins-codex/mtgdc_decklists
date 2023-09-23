@@ -10,7 +10,6 @@
             "deck_id": "485922",
             "rank": "1",
             "player": "Cilbert Corpuz",
-            "winrate": 1.0,
             "commander": [
                 "Inspiring Leader",
                 "Gut, True Soul Zealot"
@@ -117,7 +116,6 @@
             "deck_id": "485923",
             "rank": "2",
             "player": "Nhald Adia",
-            "winrate": 0.8,
             "commander": [
                 "Klothys, God of Destiny"
             ],
@@ -220,7 +218,6 @@
             "deck_id": "485924",
             "rank": "3-4",
             "player": "Ezra Mendiola",
-            "winrate": 0.8,
             "commander": [
                 "Tivit, Seller of Secrets"
             ],
@@ -330,7 +327,6 @@
             "deck_id": "485925",
             "rank": "3-4",
             "player": "Jojo Francisco",
-            "winrate": 0.8,
             "commander": [
                 "Tourach, Dread Cantor"
             ],
@@ -421,7 +417,6 @@
             "deck_id": "485926",
             "rank": "5-8",
             "player": "Christian Agbon",
-            "winrate": 0.6,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -511,7 +506,6 @@
             "deck_id": "485927",
             "rank": "5-8",
             "player": "Paul Relativo",
-            "winrate": 0.6,
             "commander": [
                 "Niv-Mizzet Reborn"
             ],
@@ -621,7 +615,6 @@
             "deck_id": "485928",
             "rank": "5-8",
             "player": "Iori Zugaikotsu",
-            "winrate": 0.6,
             "commander": [
                 "Elminster"
             ],
@@ -726,7 +719,6 @@
             "deck_id": "485929",
             "rank": "5-8",
             "player": "Rexel Tenorio",
-            "winrate": 0.6,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],

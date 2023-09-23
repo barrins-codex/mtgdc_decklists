@@ -10,7 +10,6 @@
             "deck_id": "460537",
             "rank": "1",
             "player": "Thomas 'le Chancre' Polloni",
-            "winrate": 1.0,
             "commander": [
                 "The First Sliver"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "460538",
             "rank": "2",
             "player": "Maxime Terret",
-            "winrate": 0.8,
             "commander": [
                 "Octavia, Living Thesis"
             ],
@@ -209,7 +207,6 @@
             "deck_id": "460539",
             "rank": "3-4",
             "player": "Amaury Thomas",
-            "winrate": 0.8,
             "commander": [
                 "Miara, Thorn of the Glade",
                 "Tevesh Szat, Doom of Fools"
@@ -288,7 +285,6 @@
             "deck_id": "460540",
             "rank": "3-4",
             "player": "Baptiste Berbille",
-            "winrate": 0.8,
             "commander": [
                 "Isamaru, Hound of Konda"
             ],

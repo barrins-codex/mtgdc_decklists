@@ -10,7 +10,6 @@
             "deck_id": "546173",
             "rank": "1",
             "player": "Vinícius Metal",
-            "winrate": 1.0,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -119,7 +118,6 @@
             "deck_id": "546174",
             "rank": "2",
             "player": "Arnaldo Costa",
-            "winrate": 0.8,
             "commander": [
                 "Saskia the Unyielding"
             ],
@@ -229,7 +227,6 @@
             "deck_id": "546175",
             "rank": "3",
             "player": "Ravi Zornig",
-            "winrate": 0.8,
             "commander": [
                 "Thalia and The Gitrog Monster"
             ],
@@ -339,7 +336,6 @@
             "deck_id": "546176",
             "rank": "4",
             "player": "Vinícius Lopes",
-            "winrate": 0.6,
             "commander": [
                 "Leovold, Emissary of Trest"
             ],

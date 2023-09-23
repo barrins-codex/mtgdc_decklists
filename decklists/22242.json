@@ -10,7 +10,6 @@
             "deck_id": "350655",
             "rank": "1",
             "player": "Ben H.",
-            "winrate": 1.0,
             "commander": [
                 "Tymna the Weaver",
                 "Thrasios, Triton Hero"
@@ -120,7 +119,6 @@
             "deck_id": "350656",
             "rank": "2",
             "player": "Simon M.",
-            "winrate": 0.8,
             "commander": [
                 "Prossh, Skyraider of Kher"
             ],
@@ -222,7 +220,6 @@
             "deck_id": "350657",
             "rank": "3-4",
             "player": "Nils H.",
-            "winrate": 0.6,
             "commander": [
                 "Arahbo, Roar of the World"
             ],
@@ -319,7 +316,6 @@
             "deck_id": "350658",
             "rank": "3-4",
             "player": "Lion L.",
-            "winrate": 0.6,
             "commander": [
                 "Yidris, Maelstrom Wielder"
             ],

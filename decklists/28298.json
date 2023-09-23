@@ -10,7 +10,6 @@
             "deck_id": "424026",
             "rank": "1",
             "player": "Jesusextraturns",
-            "winrate": 1.0,
             "commander": [
                 "Uro, Titan of Nature's Wrath"
             ],
@@ -101,7 +100,6 @@
             "deck_id": "424027",
             "rank": "2",
             "player": "Merkabah",
-            "winrate": 0.8,
             "commander": [
                 "Thrasios, Triton Hero",
                 "Tymna the Weaver"
@@ -211,7 +209,6 @@
             "deck_id": "424028",
             "rank": "3-4",
             "player": "Zohoz",
-            "winrate": 0.8,
             "commander": [
                 "Zur the Enchanter"
             ],
@@ -321,7 +318,6 @@
             "deck_id": "424029",
             "rank": "3-4",
             "player": "Wentals",
-            "winrate": 0.8,
             "commander": [
                 "Klothys, God of Destiny"
             ],
@@ -420,7 +416,6 @@
             "deck_id": "424030",
             "rank": "5-8",
             "player": "Cleomene",
-            "winrate": 0.6,
             "commander": [
                 "Kess, Dissident Mage"
             ],
@@ -530,7 +525,6 @@
             "deck_id": "424031",
             "rank": "5-8",
             "player": "Spigushe",
-            "winrate": 0.6,
             "commander": [
                 "Winota, Joiner of Forces"
             ],
@@ -629,7 +623,6 @@
             "deck_id": "424032",
             "rank": "5-8",
             "player": "Carpenters",
-            "winrate": 0.6,
             "commander": [
                 "Sisay, Weatherlight Captain"
             ],
@@ -739,7 +732,6 @@
             "deck_id": "424033",
             "rank": "5-8",
             "player": "Huun",
-            "winrate": 0.6,
             "commander": [
                 "Inalla, Archmage Ritualist"
             ],

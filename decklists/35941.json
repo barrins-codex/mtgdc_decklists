@@ -10,7 +10,6 @@
             "deck_id": "470852",
             "rank": "1",
             "player": "Axel Autiquet",
-            "winrate": 1.0,
             "commander": [
                 "Varolz, the Scar-Striped"
             ],
@@ -113,7 +112,6 @@
             "deck_id": "470853",
             "rank": "2",
             "player": "Mathys Grapotte",
-            "winrate": 0.8,
             "commander": [
                 "Lurrus of the Dream-Den",
                 "Bjorna, Nightfall Alchemist",
@@ -224,7 +222,6 @@
             "deck_id": "470854",
             "rank": "3-4",
             "player": "Jean-loup Michel",
-            "winrate": 0.6,
             "commander": [
                 "Niv-Mizzet Reborn"
             ],
@@ -334,7 +331,6 @@
             "deck_id": "470855",
             "rank": "3-4",
             "player": "Guillaume Fabre",
-            "winrate": 0.6,
             "commander": [
                 "Klothys, God of Destiny"
             ],

@@ -10,7 +10,6 @@
             "deck_id": "463790",
             "rank": "1",
             "player": "Julien Gehan",
-            "winrate": 0.9,
             "commander": [
                 "Isamaru, Hound of Konda"
             ],
@@ -104,7 +103,6 @@
             "deck_id": "463791",
             "rank": "2",
             "player": "Julien Bihet",
-            "winrate": 0.8,
             "commander": [
                 "Lurrus of the Dream-Den",
                 "Wernog, Rider's Chaplain",
@@ -215,7 +213,6 @@
             "deck_id": "463792",
             "rank": "3-4",
             "player": "Guillaume Morin",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -304,7 +301,6 @@
             "deck_id": "463793",
             "rank": "3-4",
             "player": "Baptiste Hilmann",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Shorikai, Genesis Engine"
             ],
@@ -401,7 +397,6 @@
             "deck_id": "463794",
             "rank": "5-8",
             "player": "Jules Lestienne",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Grist, the Hunger Tide"
             ],
@@ -499,7 +494,6 @@
             "deck_id": "463795",
             "rank": "5-8",
             "player": "Guillaume Audiffren",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Lonis, Cryptozoologist"
             ],
@@ -599,7 +593,6 @@
             "deck_id": "463796",
             "rank": "5-8",
             "player": "Thomas Bijl",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Adeliz, the Cinder Wind"
             ],
@@ -697,7 +690,6 @@
             "deck_id": "463797",
             "rank": "5-8",
             "player": "Lyes Atta",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Tevesh Szat, Doom of Fools",
                 "Ishai, Ojutai Dragonspeaker"
@@ -807,7 +799,6 @@
             "deck_id": "463798",
             "rank": "9-16",
             "player": "Mickaël Mouly",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Jegantha, the Wellspring",
                 "Niv-Mizzet Reborn"
@@ -918,7 +909,6 @@
             "deck_id": "463799",
             "rank": "9-16",
             "player": "Merlin Moret",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "The Reality Chip"
             ],
@@ -1012,7 +1002,6 @@
             "deck_id": "463800",
             "rank": "9-16",
             "player": "Mathis Colas",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Octavia, Living Thesis"
             ],
@@ -1099,7 +1088,6 @@
             "deck_id": "463801",
             "rank": "9-16",
             "player": "Mathieu Hautot",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Kess, Dissident Mage"
             ],
@@ -1209,7 +1197,6 @@
             "deck_id": "463802",
             "rank": "9-16",
             "player": "Florent Loret",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Grenzo, Dungeon Warden"
             ],
@@ -1312,7 +1299,6 @@
             "deck_id": "463803",
             "rank": "9-16",
             "player": "Roman Leconte",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Tiamat"
             ],
@@ -1422,7 +1408,6 @@
             "deck_id": "463804",
             "rank": "9-16",
             "player": "Pierre-henri François",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Light-Paws, Emperor's Voice"
             ],
@@ -1498,7 +1483,6 @@
             "deck_id": "463805",
             "rank": "9-16",
             "player": "Maximilien Kalil",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Marath, Will of the Wild"
             ],

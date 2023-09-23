@@ -10,7 +10,6 @@
             "deck_id": "296396",
             "rank": "3-4",
             "player": "Adam Franck",
-            "winrate": 0.8,
             "commander": [
                 "Baral, Chief of Compliance"
             ],
@@ -92,7 +91,6 @@
             "deck_id": "296397",
             "rank": "2",
             "player": "Olivier \"strepsil\" Zwick",
-            "winrate": 0.8,
             "commander": [
                 "Reyhan, Last of the Abzan",
                 "Bruse Tarl, Boorish Herder"
@@ -203,7 +201,6 @@
             "deck_id": "296398",
             "rank": "1",
             "player": "Josselin \"asimov\" Laumont",
-            "winrate": 1.0,
             "commander": [
                 "Akiri, Line-Slinger",
                 "Bruse Tarl, Boorish Herder"
@@ -296,7 +293,6 @@
             "deck_id": "296417",
             "rank": "3-4",
             "player": "Kozent Vezuli",
-            "winrate": 0.8,
             "commander": [
                 "Ishai, Ojutai Dragonspeaker",
                 "Thrasios, Triton Hero"

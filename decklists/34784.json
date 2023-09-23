@@ -10,7 +10,6 @@
             "deck_id": "463375",
             "rank": "1",
             "player": "Fred G.",
-            "winrate": 0.8888888888888888,
             "commander": [
                 "Saskia the Unyielding"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "463376",
             "rank": "2",
             "player": "Anonymous",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Grist, the Hunger Tide"
             ],
@@ -220,7 +218,6 @@
             "deck_id": "463377",
             "rank": "3-4",
             "player": "Adrien Gau",
-            "winrate": 0.75,
             "commander": [
                 "Teferi, Temporal Archmage"
             ],
@@ -306,7 +303,6 @@
             "deck_id": "463378",
             "rank": "3-4",
             "player": "Victor",
-            "winrate": 0.75,
             "commander": [
                 "Hogaak, Arisen Necropolis"
             ],
@@ -412,7 +408,6 @@
             "deck_id": "463379",
             "rank": "5-8",
             "player": "Aymerick",
-            "winrate": 0.75,
             "commander": [
                 "Minsc, Beloved Ranger"
             ],
@@ -521,7 +516,6 @@
             "deck_id": "463380",
             "rank": "5-8",
             "player": "Raphaël",
-            "winrate": 0.75,
             "commander": [
                 "Wernog, Rider's Chaplain",
                 "Bjorna, Nightfall Alchemist"
@@ -631,7 +625,6 @@
             "deck_id": "463381",
             "rank": "5-8",
             "player": "Fabien",
-            "winrate": 0.75,
             "commander": [
                 "Galazeth Prismari"
             ],
@@ -730,7 +723,6 @@
             "deck_id": "463382",
             "rank": "5-8",
             "player": "Marc",
-            "winrate": 0.75,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],

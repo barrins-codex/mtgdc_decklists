@@ -10,7 +10,6 @@
             "deck_id": "299225",
             "rank": "1",
             "player": "Ben Heckländer",
-            "winrate": 1.0,
             "commander": [
                 "Jenara, Asura of War"
             ],
@@ -116,7 +115,6 @@
             "deck_id": "299226",
             "rank": "2",
             "player": "Julian Hessling",
-            "winrate": 0.8,
             "commander": [
                 "Daretti, Scrap Savant"
             ],

@@ -10,7 +10,6 @@
             "deck_id": "373982",
             "rank": "3-4",
             "player": "Thomas Mechin",
-            "winrate": 0.75,
             "commander": [
                 "Zur the Enchanter"
             ],
@@ -119,7 +118,6 @@
             "deck_id": "373983",
             "rank": "5-8",
             "player": "Joseph Reeves",
-            "winrate": 0.75,
             "commander": [
                 "Judith, the Scourge Diva"
             ],
@@ -211,7 +209,6 @@
             "deck_id": "373984",
             "rank": "3-4",
             "player": "Nathan Lercier",
-            "winrate": 0.75,
             "commander": [
                 "Sai, Master Thopterist"
             ],
@@ -302,7 +299,6 @@
             "deck_id": "373985",
             "rank": "2",
             "player": "Martial Moreau",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Anax, Hardened in the Forge"
             ],
@@ -388,7 +384,6 @@
             "deck_id": "373986",
             "rank": "1",
             "player": "Nathan Chagnon",
-            "winrate": 0.8888888888888888,
             "commander": [
                 "Tajic, Legion's Edge"
             ],
@@ -486,7 +481,6 @@
             "deck_id": "373987",
             "rank": "5-8",
             "player": "Kevin Vernhes",
-            "winrate": 0.75,
             "commander": [
                 "Gallia of the Endless Dance"
             ],
@@ -581,7 +575,6 @@
             "deck_id": "373988",
             "rank": "5-8",
             "player": "Bertrand Papin",
-            "winrate": 0.75,
             "commander": [
                 "Tymna the Weaver",
                 "Thrasios, Triton Hero"
@@ -691,7 +684,6 @@
             "deck_id": "373989",
             "rank": "5-8",
             "player": "Kevin Corbille",
-            "winrate": 0.75,
             "commander": [
                 "Will Kenrith",
                 "Rowan Kenrith"

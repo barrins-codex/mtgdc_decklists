@@ -10,7 +10,6 @@
             "deck_id": "363063",
             "rank": "3-4",
             "player": "Oleg \"oeoe\" Evseev",
-            "winrate": 0.6,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -89,7 +88,6 @@
             "deck_id": "363064",
             "rank": "3-4",
             "player": "Liach",
-            "winrate": 0.6,
             "commander": [
                 "Ludevic, Necro-Alchemist",
                 "Kraum, Ludevic's Opus"
@@ -181,7 +179,6 @@
             "deck_id": "363065",
             "rank": "2",
             "player": "Vanlee",
-            "winrate": 0.8,
             "commander": [
                 "Saskia the Unyielding"
             ],
@@ -291,7 +288,6 @@
             "deck_id": "363066",
             "rank": "1",
             "player": "Skifterok",
-            "winrate": 1.0,
             "commander": [
                 "Titania, Protector of Argoth"
             ],

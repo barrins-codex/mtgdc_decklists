@@ -10,7 +10,6 @@
             "deck_id": "239478",
             "rank": "1",
             "player": "Yohan Dudognon",
-            "winrate": 0.8888888888888888,
             "commander": [
                 "Jenara, Asura of War"
             ],
@@ -116,7 +115,6 @@
             "deck_id": "239479",
             "rank": "2",
             "player": "Pierre Almaraz",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Geist of Saint Traft"
             ],
@@ -214,7 +212,6 @@
             "deck_id": "239480",
             "rank": "3-4",
             "player": "Mickaël Ailloud",
-            "winrate": 0.75,
             "commander": [
                 "Oloro, Ageless Ascetic"
             ],
@@ -321,7 +318,6 @@
             "deck_id": "239481",
             "rank": "3-4",
             "player": "Damien Marion",
-            "winrate": 0.75,
             "commander": [
                 "Griselbrand"
             ],
@@ -333,7 +329,6 @@
             "deck_id": "239482",
             "rank": "5-8",
             "player": "Loïc Baverel",
-            "winrate": 0.75,
             "commander": [
                 "Marath, Will of the Wild"
             ],
@@ -443,7 +438,6 @@
             "deck_id": "239483",
             "rank": "5-8",
             "player": "Steve Bringtown",
-            "winrate": 0.75,
             "commander": [
                 "Vendilion Clique"
             ],
@@ -526,7 +520,6 @@
             "deck_id": "239484",
             "rank": "5-8",
             "player": "Rémi Vignon",
-            "winrate": 0.75,
             "commander": [
                 "Child of Alara"
             ],
@@ -636,7 +629,6 @@
             "deck_id": "239485",
             "rank": "5-8",
             "player": "François Mallet",
-            "winrate": 0.75,
             "commander": [
                 "Radha, Heir to Keld"
             ],

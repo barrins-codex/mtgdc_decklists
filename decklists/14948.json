@@ -10,7 +10,6 @@
             "deck_id": "290281",
             "rank": "1",
             "player": "Viktor Butrimov",
-            "winrate": 1.0,
             "commander": [
                 "The Gitrog Monster"
             ],
@@ -109,7 +108,6 @@
             "deck_id": "290282",
             "rank": "2",
             "player": "Denis Nebykov",
-            "winrate": 0.8,
             "commander": [
                 "Zurgo Bellstriker"
             ],
@@ -185,7 +183,6 @@
             "deck_id": "290283",
             "rank": "3-4",
             "player": "Pavel Gorin",
-            "winrate": 0.8,
             "commander": [
                 "Prossh, Skyraider of Kher"
             ],
@@ -286,7 +283,6 @@
             "deck_id": "290284",
             "rank": "5-8",
             "player": "Dmitry M. Smirnov",
-            "winrate": 0.6,
             "commander": [
                 "Breya, Etherium Shaper"
             ],
@@ -395,7 +391,6 @@
             "deck_id": "290285",
             "rank": "5-8",
             "player": "Maxim Mescheriakov",
-            "winrate": 0.6,
             "commander": [
                 "Breya, Etherium Shaper"
             ],
@@ -505,7 +500,6 @@
             "deck_id": "290286",
             "rank": "5-8",
             "player": "Vitaly Vasiliev",
-            "winrate": 0.6,
             "commander": [
                 "Titania, Protector of Argoth"
             ],
@@ -597,7 +591,6 @@
             "deck_id": "290287",
             "rank": "5-8",
             "player": "Max Apletalin",
-            "winrate": 0.6,
             "commander": [
                 "Saskia the Unyielding"
             ],
@@ -707,7 +700,6 @@
             "deck_id": "290288",
             "rank": "3-4",
             "player": "Vyacheslav Serputko",
-            "winrate": 0.8,
             "commander": [
                 "Selvala, Explorer Returned"
             ],

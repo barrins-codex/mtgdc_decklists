@@ -10,7 +10,6 @@
             "deck_id": "253628",
             "rank": "1",
             "player": "Michele Atzeni",
-            "winrate": 1.0,
             "commander": [
                 "Geist of Saint Traft"
             ],
@@ -107,7 +106,6 @@
             "deck_id": "253629",
             "rank": "1",
             "player": "Lorenzo Bianconi",
-            "winrate": 1.0,
             "commander": [
                 "Sidisi, Brood Tyrant"
             ],

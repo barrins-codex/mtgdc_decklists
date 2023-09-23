@@ -10,7 +10,6 @@
             "deck_id": "525350",
             "rank": "1",
             "player": "Clément Achard",
-            "winrate": 0.8888888888888888,
             "commander": [
                 "Tana, the Bloodsower",
                 "Yoshimaru, Ever Faithful"
@@ -119,7 +118,6 @@
             "deck_id": "525351",
             "rank": "2",
             "player": "Louis Roustant",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Marath, Will of the Wild"
             ],
@@ -227,7 +225,6 @@
             "deck_id": "525352",
             "rank": "3-4",
             "player": "Cyril Rols",
-            "winrate": 0.75,
             "commander": [
                 "Far Traveler",
                 "Gut, True Soul Zealot"
@@ -332,7 +329,6 @@
             "deck_id": "525353",
             "rank": "3-4",
             "player": "Quentin Bougnoteau",
-            "winrate": 0.75,
             "commander": [
                 "Sheoldred, the Apocalypse"
             ],
@@ -418,7 +414,6 @@
             "deck_id": "525354",
             "rank": "5-8",
             "player": "Mathieu Clavé",
-            "winrate": 0.75,
             "commander": [
                 "Dihada, Binder of Wills"
             ],
@@ -528,7 +523,6 @@
             "deck_id": "525355",
             "rank": "5-8",
             "player": "Guillaume Herman",
-            "winrate": 0.75,
             "commander": [
                 "Ghyrson Starn, Kelermorph"
             ],
@@ -629,7 +623,6 @@
             "deck_id": "525356",
             "rank": "5-8",
             "player": "Luc Akbal",
-            "winrate": 0.75,
             "commander": [
                 "Octavia, Living Thesis"
             ],
@@ -717,7 +710,6 @@
             "deck_id": "525357",
             "rank": "5-8",
             "player": "Philippe Métivier",
-            "winrate": 0.75,
             "commander": [
                 "Grist, the Hunger Tide"
             ],

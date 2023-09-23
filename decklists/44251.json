@@ -10,7 +10,6 @@
             "deck_id": "526509",
             "rank": "1",
             "player": "Aaron John Macaso",
-            "winrate": 0.8888888888888888,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -118,7 +117,6 @@
             "deck_id": "526510",
             "rank": "2",
             "player": "Martin Marcelo",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Ghyrson Starn, Kelermorph"
             ],
@@ -222,7 +220,6 @@
             "deck_id": "526511",
             "rank": "3-4",
             "player": "Lawrence Tales",
-            "winrate": 0.75,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -332,7 +329,6 @@
             "deck_id": "526512",
             "rank": "3-4",
             "player": "Rexel Tenorio",
-            "winrate": 0.75,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -442,7 +438,6 @@
             "deck_id": "526513",
             "rank": "5-8",
             "player": "Epi Ibanez",
-            "winrate": 0.75,
             "commander": [
                 "Tivit, Seller of Secrets"
             ],
@@ -552,7 +547,6 @@
             "deck_id": "526514",
             "rank": "5-8",
             "player": "Ryan Beley",
-            "winrate": 0.75,
             "commander": [
                 "Grist, the Hunger Tide"
             ],
@@ -655,7 +649,6 @@
             "deck_id": "526515",
             "rank": "5-8",
             "player": "Jorrell Ang",
-            "winrate": 0.75,
             "commander": [
                 "Tivit, Seller of Secrets"
             ],
@@ -765,7 +758,6 @@
             "deck_id": "526516",
             "rank": "5-8",
             "player": "Gabe Enriquez",
-            "winrate": 0.75,
             "commander": [
                 "Feldon, Ronom Excavator"
             ],

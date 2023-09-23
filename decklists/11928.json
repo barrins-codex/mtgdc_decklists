@@ -10,7 +10,6 @@
             "deck_id": "268277",
             "rank": "8",
             "player": "Simone Davoli",
-            "winrate": 0.6,
             "commander": [
                 "Marath, Will of the Wild"
             ],
@@ -118,7 +117,6 @@
             "deck_id": "268278",
             "rank": "5",
             "player": "Francesco Belvedere",
-            "winrate": 0.8,
             "commander": [
                 "Titania, Protector of Argoth"
             ],
@@ -206,7 +204,6 @@
             "deck_id": "268279",
             "rank": "6",
             "player": "Christian Guerrieri",
-            "winrate": 0.6,
             "commander": [
                 "Zurgo Bellstriker"
             ],
@@ -288,7 +285,6 @@
             "deck_id": "268280",
             "rank": "7",
             "player": "Mauro Conti",
-            "winrate": 0.6,
             "commander": [
                 "Maelstrom Wanderer"
             ],
@@ -392,7 +388,6 @@
             "deck_id": "268281",
             "rank": "1",
             "player": "David Rodriguez Targa",
-            "winrate": 1.0,
             "commander": [
                 "Tasigur, the Golden Fang"
             ],
@@ -500,7 +495,6 @@
             "deck_id": "268282",
             "rank": "2",
             "player": "Simonpietro Speziale",
-            "winrate": 0.8,
             "commander": [
                 "Azami, Lady of Scrolls"
             ],
@@ -586,7 +580,6 @@
             "deck_id": "268283",
             "rank": "3",
             "player": "Edoardo Guerretta",
-            "winrate": 0.8,
             "commander": [
                 "Marath, Will of the Wild"
             ],
@@ -689,7 +682,6 @@
             "deck_id": "268284",
             "rank": "4",
             "player": "Manuel Anselmo",
-            "winrate": 0.8,
             "commander": [
                 "Anafenza, the Foremost"
             ],

@@ -10,7 +10,6 @@
             "deck_id": "412955",
             "rank": "5-8",
             "player": "Garry Mallier",
-            "winrate": 0.625,
             "commander": [
                 "Klothys, God of Destiny"
             ],
@@ -99,7 +98,6 @@
             "deck_id": "412956",
             "rank": "5-8",
             "player": "Sébastien Martinez",
-            "winrate": 0.625,
             "commander": [
                 "Gallia of the Endless Dance"
             ],
@@ -198,7 +196,6 @@
             "deck_id": "412957",
             "rank": "5-8",
             "player": "Noël Sylvain",
-            "winrate": 0.625,
             "commander": [
                 "Silas Renn, Seeker Adept",
                 "Akiri, Line-Slinger"
@@ -308,7 +305,6 @@
             "deck_id": "412958",
             "rank": "5-8",
             "player": "Jérémy Héral",
-            "winrate": 0.625,
             "commander": [
                 "Tymna the Weaver",
                 "Thrasios, Triton Hero"
@@ -418,7 +414,6 @@
             "deck_id": "412959",
             "rank": "4",
             "player": "Axel Autiquet",
-            "winrate": 0.625,
             "commander": [
                 "Hogaak, Arisen Necropolis"
             ],
@@ -528,7 +523,6 @@
             "deck_id": "412960",
             "rank": "4",
             "player": "Lucas Blanfune",
-            "winrate": 0.625,
             "commander": [
                 "Kenrith, the Returned King"
             ],
@@ -638,7 +632,6 @@
             "deck_id": "412961",
             "rank": "4",
             "player": "Adrien Houssard",
-            "winrate": 0.625,
             "commander": [
                 "Uro, Titan of Nature's Wrath"
             ],
@@ -731,7 +724,6 @@
             "deck_id": "412962",
             "rank": "4",
             "player": "Damien 'eventwin' Jantzen",
-            "winrate": 0.625,
             "commander": [
                 "Zur the Enchanter"
             ],

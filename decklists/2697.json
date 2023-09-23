@@ -10,7 +10,6 @@
             "deck_id": "217421",
             "rank": "2",
             "player": "Antoine Dambron",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Jenara, Asura of War"
             ],
@@ -113,7 +112,6 @@
             "deck_id": "217422",
             "rank": "1",
             "player": "Roland Ta",
-            "winrate": 0.8888888888888888,
             "commander": [
                 "Edric, Spymaster of Trest"
             ],
@@ -209,7 +207,6 @@
             "deck_id": "217423",
             "rank": "3",
             "player": "Olivier \"Rofellos\" Arnold",
-            "winrate": 0.75,
             "commander": [
                 "Jenara, Asura of War"
             ],
@@ -316,7 +313,6 @@
             "deck_id": "217424",
             "rank": "4",
             "player": "Maxime Lenglet",
-            "winrate": 0.75,
             "commander": [
                 "Wydwen, the Biting Gale"
             ],
@@ -410,7 +406,6 @@
             "deck_id": "217425",
             "rank": "5",
             "player": "Maxime Allée",
-            "winrate": 0.75,
             "commander": [
                 "Ezuri, Renegade Leader"
             ],
@@ -499,7 +494,6 @@
             "deck_id": "217426",
             "rank": "6",
             "player": "François Bohl",
-            "winrate": 0.75,
             "commander": [
                 "Rhys the Redeemed"
             ],
@@ -592,7 +586,6 @@
             "deck_id": "217427",
             "rank": "7",
             "player": "Guillaume Michel",
-            "winrate": 0.75,
             "commander": [
                 "Doran, the Siege Tower"
             ],
@@ -700,7 +693,6 @@
             "deck_id": "217428",
             "rank": "8",
             "player": "Nicolas \"thorgal666\" François",
-            "winrate": 0.75,
             "commander": [
                 "Grand Arbiter Augustin IV"
             ],

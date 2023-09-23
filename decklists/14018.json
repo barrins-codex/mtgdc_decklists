@@ -10,7 +10,6 @@
             "deck_id": "283163",
             "rank": "1",
             "player": "Grabovoy, Philipp",
-            "winrate": 1.0,
             "commander": [
                 "Jori En, Ruin Diver"
             ],
@@ -101,7 +100,6 @@
             "deck_id": "283164",
             "rank": "8",
             "player": "Kadmin Anton",
-            "winrate": 0.6,
             "commander": [
                 "Shu Yun, the Silent Tempest"
             ],
@@ -209,7 +207,6 @@
             "deck_id": "283165",
             "rank": "7",
             "player": "Shabalov Michail",
-            "winrate": 0.6,
             "commander": [
                 "Sygg, River Cutthroat"
             ],
@@ -308,7 +305,6 @@
             "deck_id": "283166",
             "rank": "6",
             "player": "Zenkov Maksim",
-            "winrate": 0.6,
             "commander": [
                 "Prossh, Skyraider of Kher"
             ],
@@ -414,7 +410,6 @@
             "deck_id": "283167",
             "rank": "2",
             "player": "Vlad Kudryavtsev",
-            "winrate": 0.8,
             "commander": [
                 "Selvala, Heart of the Wilds"
             ],
@@ -505,7 +500,6 @@
             "deck_id": "283168",
             "rank": "5",
             "player": "Milukov Daniil",
-            "winrate": 0.6,
             "commander": [
                 "Thalia, Heretic Cathar"
             ],
@@ -595,7 +589,6 @@
             "deck_id": "283169",
             "rank": "3",
             "player": "Dudin, Matvei",
-            "winrate": 0.8,
             "commander": [
                 "Jeleva, Nephalia's Scourge"
             ],
@@ -705,7 +698,6 @@
             "deck_id": "283170",
             "rank": "4",
             "player": "Protasov, Mihail",
-            "winrate": 0.8,
             "commander": [
                 "Ruhan of the Fomori"
             ],

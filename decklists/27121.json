@@ -10,7 +10,6 @@
             "deck_id": "413305",
             "rank": "3-4",
             "player": "Moncana",
-            "winrate": 0.8,
             "commander": [
                 "Iname, Death Aspect"
             ],
@@ -94,7 +93,6 @@
             "deck_id": "413310",
             "rank": "3-4",
             "player": "D. \"spirit\" S.",
-            "winrate": 0.8,
             "commander": [
                 "Sisay, Weatherlight Captain"
             ],
@@ -204,7 +202,6 @@
             "deck_id": "413312",
             "rank": "2",
             "player": "Alexandre Charbonnier",
-            "winrate": 0.8,
             "commander": [
                 "Anax, Hardened in the Forge"
             ],
@@ -288,7 +285,6 @@
             "deck_id": "413313",
             "rank": "1",
             "player": "Romain Chassagne",
-            "winrate": 1.0,
             "commander": [
                 "Silas Renn, Seeker Adept",
                 "Akiri, Line-Slinger"

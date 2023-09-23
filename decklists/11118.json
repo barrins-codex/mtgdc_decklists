@@ -10,7 +10,6 @@
             "deck_id": "263228",
             "rank": "1",
             "player": "Sergey \"Loxmatii\" Lamzin",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Animar, Soul of Elements"
             ],
@@ -112,7 +111,6 @@
             "deck_id": "263229",
             "rank": "2",
             "player": "Michail Popov",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Grand Arbiter Augustin IV"
             ],
@@ -208,7 +206,6 @@
             "deck_id": "263230",
             "rank": "3-4",
             "player": "Ilya Chervonnov",
-            "winrate": 0.625,
             "commander": [
                 "Prossh, Skyraider of Kher"
             ],
@@ -315,7 +312,6 @@
             "deck_id": "263231",
             "rank": "3-4",
             "player": "Evgenyi Rodionov",
-            "winrate": 0.625,
             "commander": [
                 "Grenzo, Dungeon Warden"
             ],
@@ -416,7 +412,6 @@
             "deck_id": "263232",
             "rank": "5-8",
             "player": "Mikhail Protasov",
-            "winrate": 0.625,
             "commander": [
                 "Tasigur, the Golden Fang"
             ],
@@ -523,7 +518,6 @@
             "deck_id": "263233",
             "rank": "5-8",
             "player": "Alexander Smirnov",
-            "winrate": 0.625,
             "commander": [
                 "Tasigur, the Golden Fang"
             ],
@@ -633,7 +627,6 @@
             "deck_id": "263234",
             "rank": "5-8",
             "player": "Ilya Shumilov",
-            "winrate": 0.625,
             "commander": [
                 "Jeleva, Nephalia's Scourge"
             ],
@@ -743,7 +736,6 @@
             "deck_id": "263235",
             "rank": "5-8",
             "player": "Matvey Dolganov",
-            "winrate": 0.625,
             "commander": [
                 "Prossh, Skyraider of Kher"
             ],

@@ -10,7 +10,6 @@
             "deck_id": "484397",
             "rank": "1",
             "player": "Pierre Huet",
-            "winrate": 1.0,
             "commander": [
                 "Dragonlord Ojutai"
             ],
@@ -101,7 +100,6 @@
             "deck_id": "484398",
             "rank": "2",
             "player": "Julien Lagardère",
-            "winrate": 0.8,
             "commander": [
                 "Dargo, the Shipwrecker",
                 "Sidar Kondo of Jamuraa"

@@ -10,7 +10,6 @@
             "deck_id": "274678",
             "rank": "5-8",
             "player": "Romain Testaert",
-            "winrate": 0.75,
             "commander": [
                 "Sidisi, Undead Vizier"
             ],
@@ -93,7 +92,6 @@
             "deck_id": "274679",
             "rank": "5-8",
             "player": "Aurélien \"Mathan\" Mathias",
-            "winrate": 0.75,
             "commander": [
                 "Prossh, Skyraider of Kher"
             ],
@@ -199,7 +197,6 @@
             "deck_id": "274680",
             "rank": "1",
             "player": "Yohan Blanchard",
-            "winrate": 0.8888888888888888,
             "commander": [
                 "Nin, the Pain Artist"
             ],
@@ -281,7 +278,6 @@
             "deck_id": "274681",
             "rank": "2",
             "player": "Kaourintin \"Falaakr\" Le Guiban",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Narset, Enlightened Master"
             ],
@@ -387,7 +383,6 @@
             "deck_id": "274682",
             "rank": "3-4",
             "player": "Aurélien Cornet",
-            "winrate": 0.75,
             "commander": [
                 "Doran, the Siege Tower"
             ],
@@ -497,7 +492,6 @@
             "deck_id": "274683",
             "rank": "3-4",
             "player": "Maxence Achoun",
-            "winrate": 0.75,
             "commander": [
                 "Geist of Saint Traft"
             ],
@@ -595,7 +589,6 @@
             "deck_id": "274684",
             "rank": "5-8",
             "player": "\"Moncana\"",
-            "winrate": 0.75,
             "commander": [
                 "Sidisi, Undead Vizier"
             ],
@@ -672,7 +665,6 @@
             "deck_id": "274685",
             "rank": "5-8",
             "player": "Vivien \"Soratami\" Macé",
-            "winrate": 0.75,
             "commander": [
                 "Jenara, Asura of War"
             ],

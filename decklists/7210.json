@@ -10,7 +10,6 @@
             "deck_id": "241341",
             "rank": "1",
             "player": "Nicolas Mestreau",
-            "winrate": 1.0,
             "commander": [
                 "Thraximundar"
             ],
@@ -113,7 +112,6 @@
             "deck_id": "241342",
             "rank": "2",
             "player": "Pierre Goudin",
-            "winrate": 0.8,
             "commander": [
                 "Rafiq of the Many"
             ],

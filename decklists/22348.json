@@ -10,7 +10,6 @@
             "deck_id": "351668",
             "rank": "2",
             "player": "Maxime Allée",
-            "winrate": 0.8,
             "commander": [
                 "Kess, Dissident Mage"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "351669",
             "rank": "1",
             "player": "Alban Genest",
-            "winrate": 1.0,
             "commander": [
                 "Tajic, Legion's Edge"
             ],

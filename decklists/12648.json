@@ -10,7 +10,6 @@
             "deck_id": "273215",
             "rank": "2",
             "player": "Alexandre X",
-            "winrate": 0.8,
             "commander": [
                 "Surrak Dragonclaw"
             ],
@@ -117,7 +116,6 @@
             "deck_id": "273216",
             "rank": "1",
             "player": "Pierre Almaraz",
-            "winrate": 1.0,
             "commander": [
                 "Geist of Saint Traft"
             ],

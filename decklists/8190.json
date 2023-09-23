@@ -10,7 +10,6 @@
             "deck_id": "247182",
             "rank": "1",
             "player": "Lucas Mohallem",
-            "winrate": 0.8888888888888888,
             "commander": [
                 "Rafiq of the Many"
             ],
@@ -118,7 +117,6 @@
             "deck_id": "247183",
             "rank": "2",
             "player": "Carlos Tiberio",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Geist of Saint Traft"
             ],
@@ -218,7 +216,6 @@
             "deck_id": "247184",
             "rank": "3-4",
             "player": "Andre Luiz Belote",
-            "winrate": 0.75,
             "commander": [
                 "Varolz, the Scar-Striped"
             ],
@@ -328,7 +325,6 @@
             "deck_id": "247185",
             "rank": "3-4",
             "player": "Enio Batizeli",
-            "winrate": 0.75,
             "commander": [
                 "Skithiryx, the Blight Dragon"
             ],
@@ -412,7 +408,6 @@
             "deck_id": "247186",
             "rank": "5-8",
             "player": "Lucas Betarello",
-            "winrate": 0.75,
             "commander": [
                 "Jeleva, Nephalia's Scourge"
             ],
@@ -522,7 +517,6 @@
             "deck_id": "247187",
             "rank": "5-8",
             "player": "Felipe Jacob",
-            "winrate": 0.75,
             "commander": [
                 "Maelstrom Wanderer"
             ],
@@ -626,7 +620,6 @@
             "deck_id": "247188",
             "rank": "5-8",
             "player": "Caio Henrique",
-            "winrate": 0.75,
             "commander": [
                 "Doran, the Siege Tower"
             ],
@@ -737,7 +730,6 @@
             "deck_id": "247189",
             "rank": "5-8",
             "player": "Andre Escudeiro",
-            "winrate": 0.75,
             "commander": [
                 "Maelstrom Wanderer"
             ],

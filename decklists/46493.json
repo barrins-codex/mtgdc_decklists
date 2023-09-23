@@ -10,7 +10,6 @@
             "deck_id": "543619",
             "rank": "1",
             "player": "Aleksa Telarov",
-            "winrate": 1.0,
             "commander": [
                 "Leovold, Emissary of Trest"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "543620",
             "rank": "2",
             "player": "Luka Radosevic",
-            "winrate": 0.8,
             "commander": [
                 "Grist, the Hunger Tide"
             ],
@@ -220,7 +218,6 @@
             "deck_id": "543621",
             "rank": "3-4",
             "player": "Dusan Jovanovic",
-            "winrate": 0.8,
             "commander": [
                 "Feldon, Ronom Excavator"
             ],
@@ -304,7 +301,6 @@
             "deck_id": "543622",
             "rank": "3-4",
             "player": "Bosko Milakovic",
-            "winrate": 0.8,
             "commander": [
                 "Niv-Mizzet Reborn"
             ],
@@ -414,7 +410,6 @@
             "deck_id": "543623",
             "rank": "5-8",
             "player": "Dénes Gyarmati",
-            "winrate": 0.6,
             "commander": [
                 "Wernog, Rider's Chaplain",
                 "Cecily, Haunted Mage"
@@ -524,7 +519,6 @@
             "deck_id": "543624",
             "rank": "5-8",
             "player": "Zoltan Pasztor",
-            "winrate": 0.6,
             "commander": [
                 "Feldon, Ronom Excavator"
             ],
@@ -608,7 +602,6 @@
             "deck_id": "543625",
             "rank": "5-8",
             "player": "Artem Frantsek",
-            "winrate": 0.6,
             "commander": [
                 "Yoshimaru, Ever Faithful",
                 "Tana, the Bloodsower"
@@ -716,7 +709,6 @@
             "deck_id": "543626",
             "rank": "5-8",
             "player": "Michael Maskov",
-            "winrate": 0.6,
             "commander": [
                 "General Ferrous Rokiric"
             ],

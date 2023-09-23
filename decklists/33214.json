@@ -10,7 +10,6 @@
             "deck_id": "453682",
             "rank": "1",
             "player": "Epi Ibanez",
-            "winrate": 1.0,
             "commander": [
                 "Dragonlord Ojutai"
             ],
@@ -110,7 +109,6 @@
             "deck_id": "453683",
             "rank": "2",
             "player": "Rai Reyes",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Isamaru, Hound of Konda"
             ],

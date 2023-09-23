@@ -10,7 +10,6 @@
             "deck_id": "503806",
             "rank": "1",
             "player": "Juancho Morales",
-            "winrate": 1.0,
             "commander": [
                 "Grist, the Hunger Tide"
             ],
@@ -111,7 +110,6 @@
             "deck_id": "503807",
             "rank": "2",
             "player": "Reuben Ferrer",
-            "winrate": 0.8,
             "commander": [
                 "Tivit, Seller of Secrets"
             ],
@@ -221,7 +219,6 @@
             "deck_id": "503808",
             "rank": "3-4",
             "player": "Juancho Fabregas",
-            "winrate": 0.8,
             "commander": [
                 "Flaming Fist",
                 "Wilson, Refined Grizzly"
@@ -325,7 +322,6 @@
             "deck_id": "503809",
             "rank": "3-4",
             "player": "Ryan Beley",
-            "winrate": 0.8,
             "commander": [
                 "Grist, the Hunger Tide"
             ],
@@ -429,7 +425,6 @@
             "deck_id": "503810",
             "rank": "5-8",
             "player": "Ste Villaraza",
-            "winrate": 0.6,
             "commander": [
                 "Elminster"
             ],
@@ -528,7 +523,6 @@
             "deck_id": "503811",
             "rank": "5-8",
             "player": "Edwin Jocson",
-            "winrate": 0.6,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -638,7 +632,6 @@
             "deck_id": "503812",
             "rank": "5-8",
             "player": "Ace Herrera",
-            "winrate": 0.6,
             "commander": [
                 "Light-Paws, Emperor's Voice"
             ],
@@ -724,7 +717,6 @@
             "deck_id": "503813",
             "rank": "5-8",
             "player": "Allan Oca",
-            "winrate": 0.6,
             "commander": [
                 "Kroxa, Titan of Death's Hunger"
             ],

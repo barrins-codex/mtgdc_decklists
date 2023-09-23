@@ -10,7 +10,6 @@
             "deck_id": "363067",
             "rank": "3-4",
             "player": "Alex \" Riku \"",
-            "winrate": 0.8,
             "commander": [
                 "Anje Falkenrath"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "363068",
             "rank": "3-4",
             "player": "Martin Krawies",
-            "winrate": 0.8,
             "commander": [
                 "Kess, Dissident Mage"
             ],
@@ -225,7 +223,6 @@
             "deck_id": "363069",
             "rank": "2",
             "player": "Julien Boulet",
-            "winrate": 0.8,
             "commander": [
                 "Emry, Lurker of the Loch"
             ],
@@ -324,7 +321,6 @@
             "deck_id": "363070",
             "rank": "1",
             "player": "Diego \"dmyr\" Rio",
-            "winrate": 1.0,
             "commander": [
                 "Teshar, Ancestor's Apostle"
             ],

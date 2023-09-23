@@ -10,7 +10,6 @@
             "deck_id": "282532",
             "rank": "2",
             "player": "Artem Kuznecov",
-            "winrate": 0.8,
             "commander": [
                 "Ephara, God of the Polis"
             ],
@@ -105,7 +104,6 @@
             "deck_id": "282533",
             "rank": "1",
             "player": "Andrey Kostin",
-            "winrate": 1.0,
             "commander": [
                 "Geist of Saint Traft"
             ],
@@ -202,7 +200,6 @@
             "deck_id": "282534",
             "rank": "5-8",
             "player": "Ilia Snastin",
-            "winrate": 0.6,
             "commander": [
                 "Selvala, Heart of the Wilds"
             ],
@@ -293,7 +290,6 @@
             "deck_id": "282535",
             "rank": "5-8",
             "player": "Mikhail Protasov",
-            "winrate": 0.6,
             "commander": [
                 "Ruhan of the Fomori"
             ],
@@ -399,7 +395,6 @@
             "deck_id": "282536",
             "rank": "5-8",
             "player": "Maxim Volkov",
-            "winrate": 0.6,
             "commander": [
                 "Omnath, Locus of Mana"
             ],
@@ -481,7 +476,6 @@
             "deck_id": "282537",
             "rank": "5-8",
             "player": "Oleg \"oeoe\" Evseev",
-            "winrate": 0.6,
             "commander": [
                 "Titania, Protector of Argoth"
             ],
@@ -574,7 +568,6 @@
             "deck_id": "282538",
             "rank": "3-4",
             "player": "Erik Seviev",
-            "winrate": 0.8,
             "commander": [
                 "Maelstrom Wanderer"
             ],
@@ -679,7 +672,6 @@
             "deck_id": "282539",
             "rank": "3-4",
             "player": "Mike Kedrenovsky",
-            "winrate": 0.8,
             "commander": [
                 "Geist of Saint Traft"
             ],

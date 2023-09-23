@@ -10,7 +10,6 @@
             "deck_id": "513421",
             "rank": "3-4",
             "player": "Wenyu,guo",
-            "winrate": 0.625,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "513422",
             "rank": "3-4",
             "player": "Duo,wang",
-            "winrate": 0.625,
             "commander": [
                 "Elminster"
             ],
@@ -224,7 +222,6 @@
             "deck_id": "513423",
             "rank": "3-4",
             "player": "Ling,jiang",
-            "winrate": 0.625,
             "commander": [
                 "Dihada, Binder of Wills"
             ],
@@ -334,7 +331,6 @@
             "deck_id": "513424",
             "rank": "3-4",
             "player": "Jiahe,jiang",
-            "winrate": 0.625,
             "commander": [
                 "Dihada, Binder of Wills"
             ],
@@ -444,7 +440,6 @@
             "deck_id": "513425",
             "rank": "5-8",
             "player": "Zhe,tang",
-            "winrate": 0.625,
             "commander": [
                 "Grist, the Hunger Tide"
             ],
@@ -547,7 +542,6 @@
             "deck_id": "513426",
             "rank": "5-8",
             "player": "Fan,qi",
-            "winrate": 0.625,
             "commander": [
                 "Feldon, Ronom Excavator"
             ],
@@ -631,7 +625,6 @@
             "deck_id": "513427",
             "rank": "5-8",
             "player": "Yunchao,tu",
-            "winrate": 0.625,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -741,7 +734,6 @@
             "deck_id": "513428",
             "rank": "5-8",
             "player": "Weiyang,chen",
-            "winrate": 0.625,
             "commander": [
                 "Niv-Mizzet Reborn"
             ],

@@ -10,7 +10,6 @@
             "deck_id": "284381",
             "rank": "3",
             "player": "Benjamin VALAY",
-            "winrate": 0.625,
             "commander": [
                 "Geist of Saint Traft"
             ],
@@ -107,7 +106,6 @@
             "deck_id": "284382",
             "rank": "8",
             "player": "Alexandre URBIZU",
-            "winrate": 0.625,
             "commander": [
                 "Titania, Protector of Argoth"
             ],
@@ -196,7 +194,6 @@
             "deck_id": "284383",
             "rank": "6",
             "player": "Paul RIDOUX",
-            "winrate": 0.625,
             "commander": [
                 "Titania, Protector of Argoth"
             ],
@@ -288,7 +285,6 @@
             "deck_id": "284384",
             "rank": "7",
             "player": "Cyril \"HORSTY\" HUE",
-            "winrate": 0.625,
             "commander": [
                 "Reyhan, Last of the Abzan",
                 "Vial Smasher the Fierce"
@@ -382,7 +378,6 @@
             "deck_id": "284385",
             "rank": "1",
             "player": "Nicolas PASTURAL",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Geist of Saint Traft"
             ],
@@ -479,7 +474,6 @@
             "deck_id": "284386",
             "rank": "2",
             "player": "Frederic PON",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Zurgo Bellstriker"
             ],
@@ -555,7 +549,6 @@
             "deck_id": "284387",
             "rank": "4",
             "player": "William GUIGNOT",
-            "winrate": 0.625,
             "commander": [
                 "Saskia the Unyielding"
             ],
@@ -665,7 +658,6 @@
             "deck_id": "284388",
             "rank": "5",
             "player": "Guillaume Bahin",
-            "winrate": 0.625,
             "commander": [
                 "Kraum, Ludevic's Opus",
                 "Vial Smasher the Fierce"

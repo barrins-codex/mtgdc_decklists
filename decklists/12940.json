@@ -10,7 +10,6 @@
             "deck_id": "275353",
             "rank": "3-4",
             "player": "Chris Basile",
-            "winrate": 0.8,
             "commander": [
                 "Grenzo, Dungeon Warden"
             ],
@@ -108,7 +107,6 @@
             "deck_id": "275354",
             "rank": "3-4",
             "player": "Garret Grifka",
-            "winrate": 0.8,
             "commander": [
                 "Thalia, Guardian of Thraben"
             ],
@@ -190,7 +188,6 @@
             "deck_id": "275355",
             "rank": "1",
             "player": "William Belloli",
-            "winrate": 1.0,
             "commander": [
                 "Maelstrom Wanderer"
             ],
@@ -293,7 +290,6 @@
             "deck_id": "275356",
             "rank": "2",
             "player": "Chris Williams",
-            "winrate": 0.8,
             "commander": [
                 "Teferi, Temporal Archmage"
             ],

@@ -10,7 +10,6 @@
             "deck_id": "545950",
             "rank": "1",
             "player": "Anthony Vasaturo",
-            "winrate": 1.0,
             "commander": [
                 "Tivit, Seller of Secrets"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "545951",
             "rank": "2",
             "player": "Dennis Venier",
-            "winrate": 0.8,
             "commander": [
                 "Kytheon, Hero of Akros"
             ],
@@ -202,7 +200,6 @@
             "deck_id": "545952",
             "rank": "3-4",
             "player": "Brennan Mcalear",
-            "winrate": 0.6,
             "commander": [
                 "Yawgmoth, Thran Physician"
             ],
@@ -286,7 +283,6 @@
             "deck_id": "545953",
             "rank": "3-4",
             "player": "Jayme Mcbride",
-            "winrate": 0.6,
             "commander": [
                 "Tivit, Seller of Secrets"
             ],

@@ -10,7 +10,6 @@
             "deck_id": "315057",
             "rank": "1",
             "player": "Ben Co",
-            "winrate": 1.0,
             "commander": [
                 "Titania, Protector of Argoth"
             ],
@@ -101,7 +100,6 @@
             "deck_id": "315058",
             "rank": "3-4",
             "player": "Brian Lim",
-            "winrate": 0.8,
             "commander": [
                 "Titania, Protector of Argoth"
             ],
@@ -194,7 +192,6 @@
             "deck_id": "315059",
             "rank": "3-4",
             "player": "Mark Diaz",
-            "winrate": 0.8,
             "commander": [
                 "Sidar Kondo of Jamuraa",
                 "Thrasios, Triton Hero"
@@ -301,7 +298,6 @@
             "deck_id": "315060",
             "rank": "2",
             "player": "Billy Gragasin Jr.",
-            "winrate": 0.8,
             "commander": [
                 "Zurgo Bellstriker"
             ],

@@ -10,7 +10,6 @@
             "deck_id": "466300",
             "rank": "1",
             "player": "Enzuo Zhu",
-            "winrate": 1.0,
             "commander": [
                 "Shorikai, Genesis Engine"
             ],
@@ -109,7 +108,6 @@
             "deck_id": "466301",
             "rank": "2",
             "player": "Duoyan Li",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Extus, Oriq Overlord"
             ],

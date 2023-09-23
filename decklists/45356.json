@@ -10,7 +10,6 @@
             "deck_id": "535017",
             "rank": "1",
             "player": "Ziqi Xi",
-            "winrate": 1.0,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "535018",
             "rank": "1",
             "player": "Chuan Sun",
-            "winrate": 1.0,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -230,7 +228,6 @@
             "deck_id": "535019",
             "rank": "3-4",
             "player": "Guanglei Li",
-            "winrate": 0.8,
             "commander": [
                 "Feldon, Ronom Excavator"
             ],
@@ -315,7 +312,6 @@
             "deck_id": "535020",
             "rank": "3-4",
             "player": "Hongchen Zhang",
-            "winrate": 0.8,
             "commander": [
                 "Bruse Tarl, Boorish Herder",
                 "Yoshimaru, Ever Faithful"

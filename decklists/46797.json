@@ -10,7 +10,6 @@
             "deck_id": "545962",
             "rank": "1",
             "player": "Erwan Bertrand",
-            "winrate": 1.0,
             "commander": [
                 "Svyelun of Sea and Sky"
             ],
@@ -93,7 +92,6 @@
             "deck_id": "545963",
             "rank": "2",
             "player": "Maximilien Potel",
-            "winrate": 0.8,
             "commander": [
                 "Sythis, Harvest's Hand"
             ],

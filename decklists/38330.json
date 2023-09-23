@@ -10,7 +10,6 @@
             "deck_id": "486497",
             "rank": "1",
             "player": "Jeremy Poujade",
-            "winrate": 1.0,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -118,7 +117,6 @@
             "deck_id": "486498",
             "rank": "2",
             "player": "Thomas Volckmann",
-            "winrate": 0.8,
             "commander": [
                 "Tivit, Seller of Secrets"
             ],
@@ -228,7 +226,6 @@
             "deck_id": "486499",
             "rank": "3-4",
             "player": "Julien Maillet",
-            "winrate": 0.8,
             "commander": [
                 "The Beamtown Bullies"
             ],
@@ -334,7 +331,6 @@
             "deck_id": "486500",
             "rank": "3-4",
             "player": "Stephen",
-            "winrate": 0.8,
             "commander": [
                 "Tivit, Seller of Secrets"
             ],

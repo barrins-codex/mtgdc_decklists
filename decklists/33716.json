@@ -10,7 +10,6 @@
             "deck_id": "457070",
             "rank": "1",
             "player": "Lucas Dubois",
-            "winrate": 1.0,
             "commander": [
                 "Lonis, Cryptozoologist"
             ],
@@ -106,7 +105,6 @@
             "deck_id": "457071",
             "rank": "2",
             "player": "Charles Da Cunha",
-            "winrate": 0.8,
             "commander": [
                 "Minsc, Beloved Ranger"
             ],
@@ -214,7 +212,6 @@
             "deck_id": "457072",
             "rank": "3-4",
             "player": "Maxime Hoube",
-            "winrate": 0.8,
             "commander": [
                 "Livio, Oathsworn Sentinel",
                 "Malcolm, Keen-Eyed Navigator"
@@ -315,7 +312,6 @@
             "deck_id": "457073",
             "rank": "3-4",
             "player": "Kevin Tourret",
-            "winrate": 0.8,
             "commander": [
                 "Lord Windgrace"
             ],
@@ -420,7 +416,6 @@
             "deck_id": "457074",
             "rank": "5-8",
             "player": "Julien Fabry",
-            "winrate": 0.6,
             "commander": [
                 "Grenzo, Dungeon Warden"
             ],
@@ -514,7 +509,6 @@
             "deck_id": "457075",
             "rank": "5-8",
             "player": "Mathier Quillard",
-            "winrate": 0.6,
             "commander": [
                 "Dragonlord Ojutai"
             ],
@@ -607,7 +601,6 @@
             "deck_id": "457076",
             "rank": "5-8",
             "player": "Maxime Taborski",
-            "winrate": 0.6,
             "commander": [
                 "Katilda, Dawnhart Prime"
             ],
@@ -709,7 +702,6 @@
             "deck_id": "457077",
             "rank": "5-8",
             "player": "Loic Le Guennec",
-            "winrate": 0.6,
             "commander": [
                 "Sythis, Harvest's Hand"
             ],

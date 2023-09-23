@@ -10,7 +10,6 @@
             "deck_id": "518413",
             "rank": "1",
             "player": "Romain Begliomini",
-            "winrate": 0.875,
             "commander": [
                 "Sythis, Harvest's Hand"
             ],
@@ -109,7 +108,6 @@
             "deck_id": "518414",
             "rank": "2",
             "player": "Romain Vitacchio",
-            "winrate": 0.75,
             "commander": [
                 "Greasefang, Okiba Boss"
             ],
@@ -207,7 +205,6 @@
             "deck_id": "518415",
             "rank": "3-4",
             "player": "Nokiou",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Grist, the Hunger Tide"
             ],
@@ -307,7 +304,6 @@
             "deck_id": "518416",
             "rank": "3-4",
             "player": "Guillaume Carry",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Tana, the Bloodsower",
                 "Yoshimaru, Ever Faithful"
@@ -416,7 +412,6 @@
             "deck_id": "518417",
             "rank": "5-8",
             "player": "Jeremy Reigneux",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Cecily, Haunted Mage",
                 "Wernog, Rider's Chaplain"
@@ -526,7 +521,6 @@
             "deck_id": "518418",
             "rank": "5-8",
             "player": "Nicolas Erwin",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Azusa, Lost but Seeking"
             ],
@@ -623,7 +617,6 @@
             "deck_id": "518419",
             "rank": "5-8",
             "player": "Raphaël Choukadarian",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Go-Shintai of Life's Origin"
             ],
@@ -729,7 +722,6 @@
             "deck_id": "518420",
             "rank": "5-8",
             "player": "Vincent Bastianon",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],

@@ -10,7 +10,6 @@
             "deck_id": "509280",
             "rank": "1",
             "player": "Federo",
-            "winrate": 1.0,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "509281",
             "rank": "2",
             "player": "Aarón",
-            "winrate": 0.8,
             "commander": [
                 "Sythis, Harvest's Hand"
             ],
@@ -219,7 +217,6 @@
             "deck_id": "509282",
             "rank": "3",
             "player": "Jordi",
-            "winrate": 0.6,
             "commander": [
                 "Juri, Master of the Revue"
             ],

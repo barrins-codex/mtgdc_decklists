@@ -10,7 +10,6 @@
             "deck_id": "263757",
             "rank": "5-8",
             "player": "Jiří Balcar",
-            "winrate": 0.75,
             "commander": [
                 "Narset, Enlightened Master"
             ],
@@ -119,7 +118,6 @@
             "deck_id": "263758",
             "rank": "5-8",
             "player": "Martin Bořek",
-            "winrate": 0.75,
             "commander": [
                 "Jenara, Asura of War"
             ],
@@ -228,7 +226,6 @@
             "deck_id": "263759",
             "rank": "5-8",
             "player": "Vít Čech",
-            "winrate": 0.75,
             "commander": [
                 "Rafiq of the Many"
             ],
@@ -331,7 +328,6 @@
             "deck_id": "263760",
             "rank": "5-8",
             "player": "Pavel evčík",
-            "winrate": 0.75,
             "commander": [
                 "Animar, Soul of Elements"
             ],
@@ -434,7 +430,6 @@
             "deck_id": "263761",
             "rank": "3-4",
             "player": "Dominik Malý",
-            "winrate": 0.75,
             "commander": [
                 "Animar, Soul of Elements"
             ],
@@ -533,7 +528,6 @@
             "deck_id": "263762",
             "rank": "3-4",
             "player": "Vojtěch Kristen",
-            "winrate": 0.75,
             "commander": [
                 "Wydwen, the Biting Gale"
             ],
@@ -625,7 +619,6 @@
             "deck_id": "263763",
             "rank": "2",
             "player": "Drahomír Havlíček",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Marath, Will of the Wild"
             ],
@@ -733,7 +726,6 @@
             "deck_id": "263764",
             "rank": "1",
             "player": "Vítězslav míd",
-            "winrate": 0.8888888888888888,
             "commander": [
                 "Jace, Vryn's Prodigy"
             ],

@@ -10,7 +10,6 @@
             "deck_id": "249350",
             "rank": "1",
             "player": "Fu Yi",
-            "winrate": 1.0,
             "commander": [
                 "Sen Triplets"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "249351",
             "rank": "2",
             "player": "Shen Junkai",
-            "winrate": 0.8,
             "commander": [
                 "Rafiq of the Many"
             ],

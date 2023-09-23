@@ -10,7 +10,6 @@
             "deck_id": "338123",
             "rank": "2",
             "player": "Nebykov Denis",
-            "winrate": 0.8,
             "commander": [
                 "Yuriko, the Tiger's Shadow"
             ],
@@ -106,7 +105,6 @@
             "deck_id": "338124",
             "rank": "3-4",
             "player": "Burmistrov Alexey",
-            "winrate": 0.8,
             "commander": [
                 "Khorvath Brightflame",
                 "Sylvia Brightspear"
@@ -196,7 +194,6 @@
             "deck_id": "338125",
             "rank": "3-4",
             "player": "Mesheriakov Maxim",
-            "winrate": 0.8,
             "commander": [
                 "Brago, King Eternal"
             ],
@@ -291,7 +288,6 @@
             "deck_id": "338126",
             "rank": "1",
             "player": "Vedenin Roman",
-            "winrate": 1.0,
             "commander": [
                 "Nissa, Vastwood Seer"
             ],

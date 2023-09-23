@@ -10,7 +10,6 @@
             "deck_id": "468372",
             "rank": "1",
             "player": "Pierre Clavieras",
-            "winrate": 1.0,
             "commander": [
                 "Grist, the Hunger Tide"
             ],
@@ -111,7 +110,6 @@
             "deck_id": "468373",
             "rank": "2",
             "player": "Andy Sieurac",
-            "winrate": 0.8,
             "commander": [
                 "Shorikai, Genesis Engine"
             ],
@@ -214,7 +212,6 @@
             "deck_id": "468374",
             "rank": "3-4",
             "player": "Laurent Gadchaux",
-            "winrate": 0.8,
             "commander": [
                 "Isamaru, Hound of Konda"
             ],
@@ -309,7 +306,6 @@
             "deck_id": "468375",
             "rank": "3-4",
             "player": "Anthony Ruer",
-            "winrate": 0.8,
             "commander": [
                 "Shorikai, Genesis Engine"
             ],
@@ -412,7 +408,6 @@
             "deck_id": "468376",
             "rank": "5-8",
             "player": "Kilian Zunino",
-            "winrate": 0.6,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -515,7 +510,6 @@
             "deck_id": "468377",
             "rank": "5-8",
             "player": "Anthony Nunez",
-            "winrate": 0.6,
             "commander": [
                 "Adeliz, the Cinder Wind"
             ],
@@ -614,7 +608,6 @@
             "deck_id": "468378",
             "rank": "5-8",
             "player": "Hippolyte Sénéchau",
-            "winrate": 0.6,
             "commander": [
                 "Prossh, Skyraider of Kher"
             ],
@@ -724,7 +717,6 @@
             "deck_id": "468379",
             "rank": "5-8",
             "player": "Damien Garcia",
-            "winrate": 0.6,
             "commander": [
                 "Dennick, Pious Apprentice"
             ],

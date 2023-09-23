@@ -10,7 +10,6 @@
             "deck_id": "267755",
             "rank": "1",
             "player": "Carlos Tiberio",
-            "winrate": 1.0,
             "commander": [
                 "Jori En, Ruin Diver"
             ],
@@ -100,7 +99,6 @@
             "deck_id": "267756",
             "rank": "2",
             "player": "Fabio Kaneto",
-            "winrate": 0.8,
             "commander": [
                 "Yisan, the Wanderer Bard"
             ],
@@ -190,7 +188,6 @@
             "deck_id": "267757",
             "rank": "3-4",
             "player": "João Eduardo Santos",
-            "winrate": 0.8,
             "commander": [
                 "Jenara, Asura of War"
             ],
@@ -300,7 +297,6 @@
             "deck_id": "267758",
             "rank": "3-4",
             "player": "Fernando Yada Marinho",
-            "winrate": 0.8,
             "commander": [
                 "Keranos, God of Storms"
             ],
@@ -385,7 +381,6 @@
             "deck_id": "267759",
             "rank": "5-8",
             "player": "Lion Santiago",
-            "winrate": 0.8,
             "commander": [
                 "Yisan, the Wanderer Bard"
             ],
@@ -473,7 +468,6 @@
             "deck_id": "267760",
             "rank": "5-8",
             "player": "Mateus Marques",
-            "winrate": 0.8,
             "commander": [
                 "Kytheon, Hero of Akros"
             ],
@@ -560,7 +554,6 @@
             "deck_id": "267761",
             "rank": "5-8",
             "player": "Marcelo Montserrat",
-            "winrate": 0.8,
             "commander": [
                 "Tymaret, the Murder King"
             ],
@@ -652,7 +645,6 @@
             "deck_id": "267762",
             "rank": "5-8",
             "player": "Guilherme Machado Medeiros",
-            "winrate": 0.8,
             "commander": [
                 "Wydwen, the Biting Gale"
             ],

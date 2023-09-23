@@ -10,7 +10,6 @@
             "deck_id": "331523",
             "rank": "1",
             "player": "Francesco Accettura",
-            "winrate": 1.0,
             "commander": [
                 "Leovold, Emissary of Trest"
             ],
@@ -118,7 +117,6 @@
             "deck_id": "331524",
             "rank": "2",
             "player": "Nicola Improta",
-            "winrate": 0.8,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],

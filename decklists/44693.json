@@ -10,7 +10,6 @@
             "deck_id": "529641",
             "rank": "1",
             "player": "Arnaud Aubert",
-            "winrate": 0.875,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "529642",
             "rank": "2",
             "player": "Henneau Pierre Antoine",
-            "winrate": 0.75,
             "commander": [
                 "Bruse Tarl, Boorish Herder",
                 "Yoshimaru, Ever Faithful"
@@ -225,7 +223,6 @@
             "deck_id": "529643",
             "rank": "3-4",
             "player": "Snapcastor",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Feldon, Ronom Excavator"
             ],
@@ -313,7 +310,6 @@
             "deck_id": "529644",
             "rank": "3-4",
             "player": "Moi",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Ghyrson Starn, Kelermorph"
             ],
@@ -411,7 +407,6 @@
             "deck_id": "529645",
             "rank": "5-8",
             "player": "Julien Danger",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Dihada, Binder of Wills"
             ],
@@ -521,7 +516,6 @@
             "deck_id": "529646",
             "rank": "5-8",
             "player": "Sofiane \"mouss\" Cormier",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Tivit, Seller of Secrets"
             ],
@@ -631,7 +625,6 @@
             "deck_id": "529647",
             "rank": "5-8",
             "player": "Charlest",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Flamewar, Brash Veteran"
             ],
@@ -733,7 +726,6 @@
             "deck_id": "529648",
             "rank": "5-8",
             "player": "Nicolas \"fiever\" Danel",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Atraxa, Grand Unifier"
             ],

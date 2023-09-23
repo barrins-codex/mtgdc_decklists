@@ -10,7 +10,6 @@
             "deck_id": "478016",
             "rank": "1",
             "player": "Charles T.",
-            "winrate": 1.0,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "478017",
             "rank": "2",
             "player": "Gaëtan P.",
-            "winrate": 0.8,
             "commander": [
                 "Unknown Card"
             ],
@@ -224,7 +222,6 @@
             "deck_id": "478018",
             "rank": "3-4",
             "player": "Arnaud B.",
-            "winrate": 0.6,
             "commander": [
                 "Prossh, Skyraider of Kher"
             ],
@@ -334,7 +331,6 @@
             "deck_id": "478019",
             "rank": "3-4",
             "player": "Flavien P.",
-            "winrate": 0.6,
             "commander": [
                 "Tivit, Seller of Secrets"
             ],

@@ -10,7 +10,6 @@
             "deck_id": "505388",
             "rank": "1",
             "player": "Franklin Aguba",
-            "winrate": 1.0,
             "commander": [
                 "Wernog, Rider's Chaplain",
                 "Cecily, Haunted Mage"
@@ -120,7 +119,6 @@
             "deck_id": "505389",
             "rank": "2",
             "player": "Jonathan Dolor",
-            "winrate": 0.8,
             "commander": [
                 "Feldon, Ronom Excavator"
             ],
@@ -208,7 +206,6 @@
             "deck_id": "505390",
             "rank": "3-4",
             "player": "Nicolo Jacob Tiu",
-            "winrate": 0.6,
             "commander": [
                 "Octavia, Living Thesis"
             ],
@@ -297,7 +294,6 @@
             "deck_id": "505391",
             "rank": "3-4",
             "player": "Reuben Ferrer",
-            "winrate": 0.6,
             "commander": [
                 "Miara, Thorn of the Glade",
                 "Tevesh Szat, Doom of Fools"

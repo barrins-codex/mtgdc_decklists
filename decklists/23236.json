@@ -10,7 +10,6 @@
             "deck_id": "359804",
             "rank": "1",
             "player": "Lionel \"hannibal44\" Galliere",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Kess, Dissident Mage"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "359805",
             "rank": "1",
             "player": "Hugo Temple \"absolex\"",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Zur the Enchanter"
             ],
@@ -230,7 +228,6 @@
             "deck_id": "359806",
             "rank": "3-4",
             "player": "Martin Cuchet \"spigushe\"",
-            "winrate": 0.625,
             "commander": [
                 "The Gitrog Monster"
             ],
@@ -332,7 +329,6 @@
             "deck_id": "359807",
             "rank": "3-4",
             "player": "Charly Caquineau",
-            "winrate": 0.625,
             "commander": [
                 "Grenzo, Havoc Raiser"
             ],
@@ -407,7 +403,6 @@
             "deck_id": "359808",
             "rank": "5-8",
             "player": "Julien Boulinguez",
-            "winrate": 0.625,
             "commander": [
                 "Nissa, Vastwood Seer"
             ],
@@ -492,7 +487,6 @@
             "deck_id": "359809",
             "rank": "5-8",
             "player": "Guillaume Martin \"atomispliff\"",
-            "winrate": 0.625,
             "commander": [
                 "Will Kenrith",
                 "Rowan Kenrith"
@@ -579,7 +573,6 @@
             "deck_id": "359810",
             "rank": "5-8",
             "player": "Edwin Fremont",
-            "winrate": 0.625,
             "commander": [
                 "Selvala, Heart of the Wilds"
             ],
@@ -667,7 +660,6 @@
             "deck_id": "359811",
             "rank": "5-8",
             "player": "Baptiste Touboulic \"pantix\"",
-            "winrate": 0.625,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],

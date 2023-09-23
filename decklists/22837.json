@@ -10,7 +10,6 @@
             "deck_id": "356128",
             "rank": "2",
             "player": "Zhang Cang",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Hogaak, Arisen Necropolis"
             ],
@@ -115,7 +114,6 @@
             "deck_id": "356129",
             "rank": "1",
             "player": "Yin Qiong",
-            "winrate": 1.0,
             "commander": [
                 "The First Sliver"
             ],

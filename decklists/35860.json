@@ -10,7 +10,6 @@
             "deck_id": "470344",
             "rank": "1",
             "player": "Hervé Brocker",
-            "winrate": 1.0,
             "commander": [
                 "Kroxa, Titan of Death's Hunger"
             ],
@@ -116,7 +115,6 @@
             "deck_id": "470345",
             "rank": "2",
             "player": "Pierre Camps",
-            "winrate": 0.8,
             "commander": [
                 "Marath, Will of the Wild"
             ],
@@ -221,7 +219,6 @@
             "deck_id": "470346",
             "rank": "3-4",
             "player": "Valentin Orange",
-            "winrate": 0.6,
             "commander": [
                 "Grist, the Hunger Tide"
             ],
@@ -321,7 +318,6 @@
             "deck_id": "470347",
             "rank": "3-4",
             "player": "Clément Burger",
-            "winrate": 0.6,
             "commander": [
                 "Kyodai, Soul of Kamigawa"
             ],

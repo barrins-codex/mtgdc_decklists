@@ -10,7 +10,6 @@
             "deck_id": "287324",
             "rank": "1",
             "player": "Benjamin Valay",
-            "winrate": 0.8888888888888888,
             "commander": [
                 "Geist of Saint Traft"
             ],
@@ -110,7 +109,6 @@
             "deck_id": "287325",
             "rank": "3-4",
             "player": "Matthieu Habersetzer",
-            "winrate": 0.75,
             "commander": [
                 "Zurgo Bellstriker"
             ],
@@ -187,7 +185,6 @@
             "deck_id": "287326",
             "rank": "3-4",
             "player": "Frederic PON",
-            "winrate": 0.75,
             "commander": [
                 "Bruse Tarl, Boorish Herder",
                 "Akiri, Line-Slinger"
@@ -279,7 +276,6 @@
             "deck_id": "287327",
             "rank": "2",
             "player": "Guillaume Bahin",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Vial Smasher the Fierce",
                 "Kraum, Ludevic's Opus"
@@ -389,7 +385,6 @@
             "deck_id": "287328",
             "rank": "5-8",
             "player": "Nicolas Pastural",
-            "winrate": 0.75,
             "commander": [
                 "Geist of Saint Traft"
             ],
@@ -486,7 +481,6 @@
             "deck_id": "287329",
             "rank": "5-8",
             "player": "Anthony Picaud",
-            "winrate": 0.75,
             "commander": [
                 "Bruse Tarl, Boorish Herder",
                 "Reyhan, Last of the Abzan"
@@ -596,7 +590,6 @@
             "deck_id": "287330",
             "rank": "5-8",
             "player": "David Boyer",
-            "winrate": 0.75,
             "commander": [
                 "Zurgo Bellstriker"
             ],
@@ -672,7 +665,6 @@
             "deck_id": "287331",
             "rank": "5-8",
             "player": "David Dazols",
-            "winrate": 0.75,
             "commander": [
                 "Radha, Heir to Keld"
             ],

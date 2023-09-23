@@ -10,7 +10,6 @@
             "deck_id": "222975",
             "rank": "1",
             "player": "Cédric Marchet",
-            "winrate": 1.0,
             "commander": [
                 "Doran, the Siege Tower"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "222976",
             "rank": "2",
             "player": "Laurent Mailler",
-            "winrate": 0.8,
             "commander": [
                 "Geist of Saint Traft"
             ],

@@ -10,7 +10,6 @@
             "deck_id": "468107",
             "rank": "1",
             "player": "Victor Marques",
-            "winrate": 1.0,
             "commander": [
                 "Shorikai, Genesis Engine"
             ],
@@ -112,7 +111,6 @@
             "deck_id": "468108",
             "rank": "2",
             "player": "Ivan Bais",
-            "winrate": 0.8,
             "commander": [
                 "Esika, God of the Tree"
             ],
@@ -222,7 +220,6 @@
             "deck_id": "468109",
             "rank": "3-4",
             "player": "Rafael Georgetti",
-            "winrate": 0.6,
             "commander": [
                 "Jirina Kudro"
             ],
@@ -331,7 +328,6 @@
             "deck_id": "468110",
             "rank": "3-4",
             "player": "Ravi Zornig",
-            "winrate": 0.6,
             "commander": [
                 "Grist, the Hunger Tide"
             ],

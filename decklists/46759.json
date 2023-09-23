@@ -10,7 +10,6 @@
             "deck_id": "545615",
             "rank": "1",
             "player": "Jomar Co",
-            "winrate": 1.0,
             "commander": [
                 "Ardoz, Cobbler of War"
             ],
@@ -95,7 +94,6 @@
             "deck_id": "545616",
             "rank": "2",
             "player": "Darren Almondia",
-            "winrate": 0.8,
             "commander": [
                 "Kroxa, Titan of Death's Hunger"
             ],
@@ -202,7 +200,6 @@
             "deck_id": "545617",
             "rank": "3-4",
             "player": "John Augustine \"trex\" Cruz",
-            "winrate": 0.8,
             "commander": [
                 "The Gitrog Monster"
             ],
@@ -301,7 +298,6 @@
             "deck_id": "545618",
             "rank": "3-4",
             "player": "Edison Gabutero",
-            "winrate": 0.8,
             "commander": [
                 "Reyhan, Last of the Abzan",
                 "Yoshimaru, Ever Faithful"

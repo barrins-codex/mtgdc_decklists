@@ -10,7 +10,6 @@
             "deck_id": "257918",
             "rank": "1",
             "player": "Romain Sacaze",
-            "winrate": 0.875,
             "commander": [
                 "Narset, Enlightened Master"
             ],
@@ -112,7 +111,6 @@
             "deck_id": "257919",
             "rank": "3-4",
             "player": "Cyril Hue",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Braids, Cabal Minion"
             ],
@@ -202,7 +200,6 @@
             "deck_id": "257920",
             "rank": "3-4",
             "player": "Gaelle Pâque",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Anafenza, the Foremost"
             ],
@@ -312,7 +309,6 @@
             "deck_id": "257921",
             "rank": "5-8",
             "player": "Guillaume Bahin",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Narset, Enlightened Master"
             ],
@@ -416,7 +412,6 @@
             "deck_id": "257922",
             "rank": "5-8",
             "player": "Raphaël Preau",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Marath, Will of the Wild"
             ],
@@ -525,7 +520,6 @@
             "deck_id": "257923",
             "rank": "5-8",
             "player": "Thomas Mestreau",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Thraximundar"
             ],
@@ -630,7 +624,6 @@
             "deck_id": "257924",
             "rank": "5-8",
             "player": "Simon Gradaive",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Kaalia of the Vast"
             ],
@@ -735,7 +728,6 @@
             "deck_id": "257925",
             "rank": "2",
             "player": "Damien Garçon",
-            "winrate": 0.75,
             "commander": [
                 "Keranos, God of Storms"
             ],

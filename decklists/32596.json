@@ -10,7 +10,6 @@
             "deck_id": "450205",
             "rank": "1",
             "player": "Pacôme pakelito Seiden",
-            "winrate": 1.0,
             "commander": [
                 "Esika, God of the Tree"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "450206",
             "rank": "2",
             "player": "Franck Beauvironnois",
-            "winrate": 0.8,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -203,7 +201,6 @@
             "deck_id": "450207",
             "rank": "3-4",
             "player": "Axel nemo Autiquet",
-            "winrate": 0.8,
             "commander": [
                 "Varolz, the Scar-Striped"
             ],
@@ -306,7 +303,6 @@
             "deck_id": "450208",
             "rank": "3-4",
             "player": "Antoine mephy Colomb",
-            "winrate": 0.8,
             "commander": [
                 "Gilanra, Caller of Wirewood",
                 "Tevesh Szat, Doom of Fools"

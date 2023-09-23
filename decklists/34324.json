@@ -10,7 +10,6 @@
             "deck_id": "460707",
             "rank": "1",
             "player": "Mathieu Laurent",
-            "winrate": 1.0,
             "commander": [
                 "Kelsien, the Plague"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "460708",
             "rank": "2",
             "player": "Léon Le Loir",
-            "winrate": 0.8,
             "commander": [
                 "Bruvac the Grandiloquent"
             ],

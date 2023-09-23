@@ -10,7 +10,6 @@
             "deck_id": "481556",
             "rank": "1",
             "player": "Talmo Moraes",
-            "winrate": 1.0,
             "commander": [
                 "Light-Paws, Emperor's Voice"
             ],
@@ -90,7 +89,6 @@
             "deck_id": "481557",
             "rank": "2",
             "player": "André Moulin",
-            "winrate": 0.8,
             "commander": [
                 "Teysa, Orzhov Scion"
             ],
@@ -172,7 +170,6 @@
             "deck_id": "481558",
             "rank": "3-4",
             "player": "Matheus Brito",
-            "winrate": 0.6,
             "commander": [
                 "Skullbriar, the Walking Grave"
             ],
@@ -262,7 +259,6 @@
             "deck_id": "481559",
             "rank": "3-4",
             "player": "Flavio Guio",
-            "winrate": 0.6,
             "commander": [
                 "Prossh, Skyraider of Kher"
             ],

@@ -10,7 +10,6 @@
             "deck_id": "485431",
             "rank": "1",
             "player": "Gabriel Rufino",
-            "winrate": 1.0,
             "commander": [
                 "Grist, the Hunger Tide"
             ],
@@ -104,7 +103,6 @@
             "deck_id": "485432",
             "rank": "2",
             "player": "Adriano Yusuke",
-            "winrate": 0.8,
             "commander": [
                 "Saskia the Unyielding"
             ],
@@ -192,7 +190,6 @@
             "deck_id": "485433",
             "rank": "3-4",
             "player": "Talmo Moraes",
-            "winrate": 0.8,
             "commander": [
                 "Light-Paws, Emperor's Voice"
             ],
@@ -272,7 +269,6 @@
             "deck_id": "485434",
             "rank": "3-4",
             "player": "Bruno \"bruxão\"",
-            "winrate": 0.8,
             "commander": [
                 "Anafenza, the Foremost"
             ],
@@ -363,7 +359,6 @@
             "deck_id": "485435",
             "rank": "5-8",
             "player": "Daniel Duante",
-            "winrate": 0.6,
             "commander": [
                 "Gut, True Soul Zealot",
                 "Haunted One"
@@ -447,7 +442,6 @@
             "deck_id": "485436",
             "rank": "5-8",
             "player": "Michel Xisto",
-            "winrate": 0.6,
             "commander": [
                 "Tivit, Seller of Secrets"
             ],
@@ -540,7 +534,6 @@
             "deck_id": "485437",
             "rank": "5-8",
             "player": "Flavio Guio",
-            "winrate": 0.6,
             "commander": [
                 "Tergrid, God of Fright"
             ],
@@ -616,7 +609,6 @@
             "deck_id": "485438",
             "rank": "5-8",
             "player": "Felipe \"rubão\"",
-            "winrate": 0.6,
             "commander": [
                 "Tergrid, God of Fright"
             ],

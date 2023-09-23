@@ -10,7 +10,6 @@
             "deck_id": "541655",
             "rank": "2",
             "player": "Kilian Boulhais",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Kess, Dissident Mage"
             ],
@@ -119,7 +118,6 @@
             "deck_id": "541656",
             "rank": "3-4",
             "player": "Anthony Nunez",
-            "winrate": 0.75,
             "commander": [
                 "Ghyrson Starn, Kelermorph"
             ],
@@ -220,7 +218,6 @@
             "deck_id": "541657",
             "rank": "3-4",
             "player": "Andy Sieurac",
-            "winrate": 0.75,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -330,7 +327,6 @@
             "deck_id": "541658",
             "rank": "5-8",
             "player": "Alexandre Habert",
-            "winrate": 0.75,
             "commander": [
                 "Leovold, Emissary of Trest"
             ],
@@ -440,7 +436,6 @@
             "deck_id": "541659",
             "rank": "5-8",
             "player": "Pierre Clavieras Mengin",
-            "winrate": 0.75,
             "commander": [
                 "Bruse Tarl, Boorish Herder",
                 "Yoshimaru, Ever Faithful"
@@ -544,7 +539,6 @@
             "deck_id": "541660",
             "rank": "5-8",
             "player": "Clément Achard",
-            "winrate": 0.75,
             "commander": [
                 "Tana, the Bloodsower",
                 "Yoshimaru, Ever Faithful"
@@ -654,7 +648,6 @@
             "deck_id": "541661",
             "rank": "5-8",
             "player": "Marvin Liozu",
-            "winrate": 0.75,
             "commander": [
                 "Arwen, Mortal Queen"
             ],

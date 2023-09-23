@@ -10,7 +10,6 @@
             "deck_id": "547544",
             "rank": "1",
             "player": "Paulo Sia",
-            "winrate": 1.0,
             "commander": [
                 "Balmor, Battlemage Captain"
             ],
@@ -109,7 +108,6 @@
             "deck_id": "547545",
             "rank": "2",
             "player": "Fernando Hamaguchi",
-            "winrate": 0.8,
             "commander": [
                 "Ertai Resurrected"
             ],
@@ -197,7 +195,6 @@
             "deck_id": "547546",
             "rank": "3",
             "player": "Felipe Gonçalves",
-            "winrate": 0.8,
             "commander": [
                 "Aragorn, King of Gondor"
             ],
@@ -305,7 +302,6 @@
             "deck_id": "547547",
             "rank": "4",
             "player": "Rodolfo Helfenstein",
-            "winrate": 0.8,
             "commander": [
                 "Slimefoot and Squee"
             ],

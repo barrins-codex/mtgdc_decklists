@@ -10,7 +10,6 @@
             "deck_id": "537862",
             "rank": "1",
             "player": "Felipe Gonçalves",
-            "winrate": 1.0,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "537863",
             "rank": "2",
             "player": "Leonardo Somar",
-            "winrate": 0.8,
             "commander": [
                 "Bruse Tarl, Boorish Herder",
                 "Yoshimaru, Ever Faithful"
@@ -219,7 +217,6 @@
             "deck_id": "537864",
             "rank": "3",
             "player": "Victor Marques",
-            "winrate": 0.8,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -329,7 +326,6 @@
             "deck_id": "537865",
             "rank": "4",
             "player": "Pedro Bianchi",
-            "winrate": 0.8,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -439,7 +435,6 @@
             "deck_id": "537866",
             "rank": "5",
             "player": "Anderson Rogado",
-            "winrate": 0.6,
             "commander": [
                 "Feldon, Ronom Excavator"
             ],
@@ -526,7 +521,6 @@
             "deck_id": "537867",
             "rank": "6",
             "player": "Pj",
-            "winrate": 0.6,
             "commander": [
                 "Juri, Master of the Revue"
             ],
@@ -625,7 +619,6 @@
             "deck_id": "537868",
             "rank": "7",
             "player": "Luis Hamaguchi",
-            "winrate": 0.6,
             "commander": [
                 "Ertai Resurrected"
             ],
@@ -715,7 +708,6 @@
             "deck_id": "537869",
             "rank": "8",
             "player": "Mateus Tomé",
-            "winrate": 0.6,
             "commander": [
                 "Bruse Tarl, Boorish Herder",
                 "Yoshimaru, Ever Faithful"

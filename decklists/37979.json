@@ -10,7 +10,6 @@
             "deck_id": "484114",
             "rank": "1",
             "player": "Pablo Lima",
-            "winrate": 1.0,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -93,7 +92,6 @@
             "deck_id": "484115",
             "rank": "2",
             "player": "Orlando Bibiano",
-            "winrate": 0.8,
             "commander": [
                 "Niv-Mizzet Reborn"
             ],
@@ -203,7 +201,6 @@
             "deck_id": "484116",
             "rank": "3",
             "player": "João Paulo Pontes",
-            "winrate": 0.8,
             "commander": [
                 "Grand Arbiter Augustin IV"
             ],
@@ -305,7 +302,6 @@
             "deck_id": "484117",
             "rank": "4",
             "player": "Lucas Santos",
-            "winrate": 0.6,
             "commander": [
                 "Dennick, Pious Apprentice"
             ],
@@ -406,7 +402,6 @@
             "deck_id": "484118",
             "rank": "5",
             "player": "Victor Burghi",
-            "winrate": 0.6,
             "commander": [
                 "The Ur-Dragon"
             ],
@@ -509,7 +504,6 @@
             "deck_id": "484119",
             "rank": "6",
             "player": "Gabriel Kawagoe",
-            "winrate": 0.6,
             "commander": [
                 "Isamaru, Hound of Konda"
             ],

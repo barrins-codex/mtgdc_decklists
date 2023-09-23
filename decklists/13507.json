@@ -10,7 +10,6 @@
             "deck_id": "279438",
             "rank": "1",
             "player": "Esteban Alonso",
-            "winrate": 1.0,
             "commander": [
                 "Narset, Enlightened Master"
             ],
@@ -116,7 +115,6 @@
             "deck_id": "279439",
             "rank": "2",
             "player": "Nicolas Perez",
-            "winrate": 0.8,
             "commander": [
                 "Kiku, Night's Flower"
             ],

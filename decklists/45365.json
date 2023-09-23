@@ -10,7 +10,6 @@
             "deck_id": "535086",
             "rank": "1",
             "player": "Jordan Bizon",
-            "winrate": 1.0,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "535087",
             "rank": "2",
             "player": "Jonathan David",
-            "winrate": 0.8,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -230,7 +228,6 @@
             "deck_id": "535088",
             "rank": "3-4",
             "player": "Benoît Pelouse",
-            "winrate": 0.6,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -340,7 +337,6 @@
             "deck_id": "535089",
             "rank": "3-4",
             "player": "Fabien Gilbert",
-            "winrate": 0.6,
             "commander": [
                 "Aragorn, King of Gondor"
             ],

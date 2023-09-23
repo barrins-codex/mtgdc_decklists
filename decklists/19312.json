@@ -10,7 +10,6 @@
             "deck_id": "322598",
             "rank": "1",
             "player": "Brieuc Evo",
-            "winrate": 1.0,
             "commander": [
                 "Titania, Protector of Argoth"
             ],
@@ -99,7 +98,6 @@
             "deck_id": "322599",
             "rank": "2",
             "player": "Kevin Corbille",
-            "winrate": 0.8,
             "commander": [
                 "Baral, Chief of Compliance"
             ],
@@ -173,7 +171,6 @@
             "deck_id": "322600",
             "rank": "3-4",
             "player": "Aurelien Le Nain",
-            "winrate": 0.8,
             "commander": [
                 "Queen Marchesa"
             ],
@@ -283,7 +280,6 @@
             "deck_id": "322601",
             "rank": "3-4",
             "player": "Lionel Galliere",
-            "winrate": 0.8,
             "commander": [
                 "Jodah, Archmage Eternal"
             ],

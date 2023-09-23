@@ -10,7 +10,6 @@
             "deck_id": "285835",
             "rank": "1",
             "player": "\"Moondust\"",
-            "winrate": 1.0,
             "commander": [
                 "Breya, Etherium Shaper"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "285836",
             "rank": "2",
             "player": "Pierre Almaraz",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Geist of Saint Traft"
             ],
@@ -219,7 +217,6 @@
             "deck_id": "285837",
             "rank": "3",
             "player": "Maxence Achoun",
-            "winrate": 0.3333333333333333,
             "commander": [
                 "Jace, Vryn's Prodigy"
             ],

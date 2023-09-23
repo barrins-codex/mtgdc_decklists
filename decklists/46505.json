@@ -10,7 +10,6 @@
             "deck_id": "543709",
             "rank": "1",
             "player": "Yiduo Fan",
-            "winrate": 1.0,
             "commander": [
                 "Grenzo, Dungeon Warden"
             ],
@@ -115,7 +114,6 @@
             "deck_id": "543710",
             "rank": "2",
             "player": "Yang Du",
-            "winrate": 0.8,
             "commander": [
                 "Aragorn, King of Gondor"
             ],
@@ -222,7 +220,6 @@
             "deck_id": "543711",
             "rank": "3",
             "player": "Wei Cheng",
-            "winrate": 0.8,
             "commander": [
                 "Tivit, Seller of Secrets"
             ],
@@ -332,7 +329,6 @@
             "deck_id": "543712",
             "rank": "4",
             "player": "Pichen Liu",
-            "winrate": 0.8,
             "commander": [
                 "Bruse Tarl, Boorish Herder",
                 "Yoshimaru, Ever Faithful"

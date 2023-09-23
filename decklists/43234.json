@@ -10,7 +10,6 @@
             "deck_id": "519457",
             "rank": "1",
             "player": "Pierre Clavieras",
-            "winrate": 1.0,
             "commander": [
                 "Ghyrson Starn, Kelermorph"
             ],
@@ -108,7 +107,6 @@
             "deck_id": "519458",
             "rank": "2",
             "player": "Alexandre Habert",
-            "winrate": 0.8,
             "commander": [
                 "Leovold, Emissary of Trest"
             ],
@@ -218,7 +216,6 @@
             "deck_id": "519459",
             "rank": "3-4",
             "player": "Eric Vanderrusten",
-            "winrate": 0.8,
             "commander": [
                 "Grist, the Hunger Tide"
             ],
@@ -317,7 +314,6 @@
             "deck_id": "519460",
             "rank": "3-4",
             "player": "Toni De Paoli",
-            "winrate": 0.8,
             "commander": [
                 "Tana, the Bloodsower",
                 "Yoshimaru, Ever Faithful"
@@ -427,7 +423,6 @@
             "deck_id": "519461",
             "rank": "5-8",
             "player": "Léo Facca",
-            "winrate": 0.8,
             "commander": [
                 "Atraxa, Grand Unifier"
             ],
@@ -537,7 +532,6 @@
             "deck_id": "519462",
             "rank": "5-8",
             "player": "Nicolas Glatt",
-            "winrate": 0.8,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -647,7 +641,6 @@
             "deck_id": "519463",
             "rank": "5-8",
             "player": "Louis Zinsmeister",
-            "winrate": 0.8,
             "commander": [
                 "Tana, the Bloodsower",
                 "Yoshimaru, Ever Faithful"
@@ -756,7 +749,6 @@
             "deck_id": "519464",
             "rank": "5-8",
             "player": "Andy Sieurac",
-            "winrate": 0.8,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],

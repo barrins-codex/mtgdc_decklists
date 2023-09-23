@@ -10,7 +10,6 @@
             "deck_id": "403256",
             "rank": "1",
             "player": "Hannibal44",
-            "winrate": 1.0,
             "commander": [
                 "Niv-Mizzet Reborn"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "403257",
             "rank": "2",
             "player": "Gnomenmy",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],

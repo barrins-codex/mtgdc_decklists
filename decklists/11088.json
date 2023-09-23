@@ -10,7 +10,6 @@
             "deck_id": "263107",
             "rank": "1",
             "player": "Qi Zihao",
-            "winrate": 1.0,
             "commander": [
                 "Yisan, the Wanderer Bard"
             ],
@@ -96,7 +95,6 @@
             "deck_id": "263108",
             "rank": "2",
             "player": "Zhang Yichen",
-            "winrate": 0.8,
             "commander": [
                 "Animar, Soul of Elements"
             ],

@@ -10,7 +10,6 @@
             "deck_id": "498101",
             "rank": "1",
             "player": "Florian Boissière",
-            "winrate": 1.0,
             "commander": [
                 "Niv-Mizzet Reborn"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "498102",
             "rank": "2",
             "player": "Stéphane Rogard",
-            "winrate": 0.8,
             "commander": [
                 "Hogaak, Arisen Necropolis"
             ],
@@ -230,7 +228,6 @@
             "deck_id": "498103",
             "rank": "3-4",
             "player": "Yann Turcot",
-            "winrate": 0.8,
             "commander": [
                 "Titania, Protector of Argoth"
             ],
@@ -329,7 +326,6 @@
             "deck_id": "498104",
             "rank": "3-4",
             "player": "Anthony Rouis",
-            "winrate": 0.8,
             "commander": [
                 "Yoshimaru, Ever Faithful",
                 "Silas Renn, Seeker Adept"

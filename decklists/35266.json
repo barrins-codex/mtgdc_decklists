@@ -10,7 +10,6 @@
             "deck_id": "466601",
             "rank": "1",
             "player": "Etienne \"woordz\" Tehrani",
-            "winrate": 1.0,
             "commander": [
                 "Shorikai, Genesis Engine"
             ],
@@ -112,7 +111,6 @@
             "deck_id": "466602",
             "rank": "2",
             "player": "Mike Boulinguiez",
-            "winrate": 0.8,
             "commander": [
                 "Klothys, God of Destiny"
             ],
@@ -218,7 +216,6 @@
             "deck_id": "466603",
             "rank": "3-4",
             "player": "Mickael Diaz",
-            "winrate": 0.8,
             "commander": [
                 "Klothys, God of Destiny"
             ],
@@ -322,7 +319,6 @@
             "deck_id": "466604",
             "rank": "3-4",
             "player": "Sofiane Cormier",
-            "winrate": 0.8,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -411,7 +407,6 @@
             "deck_id": "466605",
             "rank": "5-8",
             "player": "Lolink",
-            "winrate": 0.6,
             "commander": [
                 "Isamaru, Hound of Konda"
             ],
@@ -498,7 +493,6 @@
             "deck_id": "466606",
             "rank": "5-8",
             "player": "Jonathan Chaplet",
-            "winrate": 0.6,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -587,7 +581,6 @@
             "deck_id": "466607",
             "rank": "5-8",
             "player": "Robin Lallart",
-            "winrate": 0.6,
             "commander": [
                 "Jirina Kudro"
             ],
@@ -696,7 +689,6 @@
             "deck_id": "466608",
             "rank": "5-8",
             "player": "Arnaud Aubert",
-            "winrate": 0.6,
             "commander": [
                 "Shorikai, Genesis Engine"
             ],

@@ -10,7 +10,6 @@
             "deck_id": "466044",
             "rank": "1",
             "player": "Robin \"faarnn\" Angebaud",
-            "winrate": 1.0,
             "commander": [
                 "Shorikai, Genesis Engine"
             ],
@@ -110,7 +109,6 @@
             "deck_id": "466045",
             "rank": "2",
             "player": "Adrien Jouan",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Toggo, Goblin Weaponsmith",
                 "Kodama of the East Tree"
@@ -213,7 +211,6 @@
             "deck_id": "466046",
             "rank": "3-4",
             "player": "Charlie Cha",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Grenzo, Dungeon Warden"
             ],
@@ -316,7 +313,6 @@
             "deck_id": "466047",
             "rank": "3-4",
             "player": "Brieuc Evo",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],

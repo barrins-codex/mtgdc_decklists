@@ -10,7 +10,6 @@
             "deck_id": "455451",
             "rank": "1",
             "player": "Anthony Ruer",
-            "winrate": 1.0,
             "commander": [
                 "Miara, Thorn of the Glade",
                 "Tevesh Szat, Doom of Fools"
@@ -95,7 +94,6 @@
             "deck_id": "455452",
             "rank": "2",
             "player": "Fabrice Azzouz",
-            "winrate": 0.8,
             "commander": [
                 "Malcolm, Keen-Eyed Navigator",
                 "Livio, Oathsworn Sentinel"
@@ -195,7 +193,6 @@
             "deck_id": "455453",
             "rank": "3-4",
             "player": "Léo Facca",
-            "winrate": 0.8,
             "commander": [
                 "Niv-Mizzet Reborn"
             ],
@@ -305,7 +302,6 @@
             "deck_id": "455454",
             "rank": "3-4",
             "player": "Simeon Gruel",
-            "winrate": 0.8,
             "commander": [
                 "Sythis, Harvest's Hand"
             ],
@@ -412,7 +408,6 @@
             "deck_id": "455455",
             "rank": "5-8",
             "player": "Jean Gouzy",
-            "winrate": 0.6,
             "commander": [
                 "Livio, Oathsworn Sentinel",
                 "Malcolm, Keen-Eyed Navigator"
@@ -513,7 +508,6 @@
             "deck_id": "455456",
             "rank": "5-8",
             "player": "Andy Sieurac",
-            "winrate": 0.6,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -623,7 +617,6 @@
             "deck_id": "455457",
             "rank": "5-8",
             "player": "Pierre Clavieras",
-            "winrate": 0.6,
             "commander": [
                 "Esika, God of the Tree"
             ],
@@ -733,7 +726,6 @@
             "deck_id": "455458",
             "rank": "5-8",
             "player": "Loïc Dougnac",
-            "winrate": 0.6,
             "commander": [
                 "Sythis, Harvest's Hand"
             ],

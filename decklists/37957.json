@@ -10,7 +10,6 @@
             "deck_id": "483984",
             "rank": "1",
             "player": "Sébastien Gay",
-            "winrate": 1.0,
             "commander": [
                 "Queen Marchesa"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "483985",
             "rank": "2",
             "player": "Jordan Bizon",
-            "winrate": 0.8,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -230,7 +228,6 @@
             "deck_id": "483986",
             "rank": "3-4",
             "player": "Florian Boissière",
-            "winrate": 0.8,
             "commander": [
                 "Niv-Mizzet Reborn"
             ],
@@ -340,7 +337,6 @@
             "deck_id": "483987",
             "rank": "3-4",
             "player": "Stéphane Rogard",
-            "winrate": 0.8,
             "commander": [
                 "Niv-Mizzet Reborn"
             ],
@@ -450,7 +446,6 @@
             "deck_id": "483988",
             "rank": "5-8",
             "player": "Clément Selles",
-            "winrate": 0.6,
             "commander": [
                 "Ludevic, Necro-Alchemist"
             ],
@@ -549,7 +544,6 @@
             "deck_id": "483989",
             "rank": "5-8",
             "player": "Malou Musset",
-            "winrate": 0.6,
             "commander": [
                 "Grist, the Hunger Tide"
             ],
@@ -649,7 +643,6 @@
             "deck_id": "483990",
             "rank": "5-8",
             "player": "Enzo Pernes",
-            "winrate": 0.6,
             "commander": [
                 "Sword Coast Sailor",
                 "Wilson, Refined Grizzly"
@@ -748,7 +741,6 @@
             "deck_id": "483991",
             "rank": "5-8",
             "player": "Yann Turcot",
-            "winrate": 0.6,
             "commander": [
                 "Prossh, Skyraider of Kher"
             ],

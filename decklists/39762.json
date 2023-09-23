@@ -10,7 +10,6 @@
             "deck_id": "496362",
             "rank": "1",
             "player": "Rexel Tenorio",
-            "winrate": 1.0,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "496363",
             "rank": "2",
             "player": "Nhald Adia",
-            "winrate": 0.8,
             "commander": [
                 "Gut, True Soul Zealot",
                 "Cloakwood Hermit"
@@ -224,7 +222,6 @@
             "deck_id": "496364",
             "rank": "3",
             "player": "Josh Fuentes",
-            "winrate": 0.8,
             "commander": [
                 "Tivit, Seller of Secrets"
             ],
@@ -334,7 +331,6 @@
             "deck_id": "496365",
             "rank": "4",
             "player": "Van Acordon",
-            "winrate": 0.6,
             "commander": [
                 "Inquisitor Eisenhorn"
             ],

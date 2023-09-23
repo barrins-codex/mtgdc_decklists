@@ -10,7 +10,6 @@
             "deck_id": "335600",
             "rank": "3-4",
             "player": "Dennis C.",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Tymna the Weaver",
                 "Reyhan, Last of the Abzan"
@@ -118,7 +117,6 @@
             "deck_id": "335601",
             "rank": "2",
             "player": "Matthias C.",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Teferi, Temporal Archmage"
             ],
@@ -195,7 +193,6 @@
             "deck_id": "335602",
             "rank": "1",
             "player": "Felix M.",
-            "winrate": 1.0,
             "commander": [
                 "Tymna the Weaver",
                 "Thrasios, Triton Hero"

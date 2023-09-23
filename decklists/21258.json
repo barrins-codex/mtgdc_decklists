@@ -10,7 +10,6 @@
             "deck_id": "342051",
             "rank": "5-8",
             "player": "Cédric Nantier",
-            "winrate": 0.75,
             "commander": [
                 "Narset, Enlightened Master"
             ],
@@ -118,7 +117,6 @@
             "deck_id": "342052",
             "rank": "5-8",
             "player": "Bastien Guichard",
-            "winrate": 0.75,
             "commander": [
                 "Isamaru, Hound of Konda"
             ],
@@ -193,7 +191,6 @@
             "deck_id": "342053",
             "rank": "5-8",
             "player": "Lucas Blanfuné",
-            "winrate": 0.75,
             "commander": [
                 "Kefnet the Mindful"
             ],
@@ -273,7 +270,6 @@
             "deck_id": "342054",
             "rank": "2",
             "player": "Flavien Mullet",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -352,7 +348,6 @@
             "deck_id": "342055",
             "rank": "2",
             "player": "Justo Chacon",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Sai, Master Thopterist"
             ],
@@ -442,7 +437,6 @@
             "deck_id": "342056",
             "rank": "3-4",
             "player": "Pat Shembri",
-            "winrate": 0.75,
             "commander": [
                 "Surrak, the Hunt Caller"
             ],
@@ -521,7 +515,6 @@
             "deck_id": "342057",
             "rank": "3-4",
             "player": "Yann Brugière",
-            "winrate": 0.75,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -599,7 +592,6 @@
             "deck_id": "342058",
             "rank": "5-8",
             "player": "Mathieu Crozet",
-            "winrate": 0.75,
             "commander": [
                 "Arcades, the Strategist"
             ],

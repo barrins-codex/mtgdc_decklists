@@ -10,7 +10,6 @@
             "deck_id": "452811",
             "rank": "1",
             "player": "Jingyi Pan",
-            "winrate": 1.0,
             "commander": [
                 "Sisay, Weatherlight Captain"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "452812",
             "rank": "2",
             "player": "Jsd",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Malcolm, Keen-Eyed Navigator",
                 "Kraum, Ludevic's Opus"

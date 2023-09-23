@@ -10,7 +10,6 @@
             "deck_id": "407504",
             "rank": "2",
             "player": "Martin Vlnas",
-            "winrate": 0.8,
             "commander": [
                 "Winota, Joiner of Forces"
             ],
@@ -109,7 +108,6 @@
             "deck_id": "407505",
             "rank": "3-4",
             "player": "Jasper R. Nielsen",
-            "winrate": 0.8,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -219,7 +217,6 @@
             "deck_id": "407506",
             "rank": "3-4",
             "player": "Grosduk",
-            "winrate": 0.8,
             "commander": [
                 "Kraum, Ludevic's Opus",
                 "Ludevic, Necro-Alchemist"
@@ -317,7 +314,6 @@
             "deck_id": "407507",
             "rank": "1",
             "player": "Japanese",
-            "winrate": 1.0,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],

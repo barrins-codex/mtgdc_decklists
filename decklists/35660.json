@@ -10,7 +10,6 @@
             "deck_id": "469074",
             "rank": "1",
             "player": "Yu Hongda",
-            "winrate": 1.0,
             "commander": [
                 "Sythis, Harvest's Hand"
             ],
@@ -115,7 +114,6 @@
             "deck_id": "469075",
             "rank": "2",
             "player": "Zhang Tianyi",
-            "winrate": 0.8,
             "commander": [
                 "Shorikai, Genesis Engine"
             ],
@@ -214,7 +212,6 @@
             "deck_id": "469076",
             "rank": "3-4",
             "player": "Hua Yukun",
-            "winrate": 0.6,
             "commander": [
                 "Shorikai, Genesis Engine"
             ],
@@ -315,7 +312,6 @@
             "deck_id": "469077",
             "rank": "3-4",
             "player": "Zheng Kaichen",
-            "winrate": 0.6,
             "commander": [
                 "Titania, Protector of Argoth"
             ],

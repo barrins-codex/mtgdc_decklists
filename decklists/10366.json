@@ -10,7 +10,6 @@
             "deck_id": "259300",
             "rank": "1",
             "player": "Frédéric Pon",
-            "winrate": 1.0,
             "commander": [
                 "Prossh, Skyraider of Kher"
             ],
@@ -117,7 +116,6 @@
             "deck_id": "259301",
             "rank": "2",
             "player": "Alexandre Canton",
-            "winrate": 0.8,
             "commander": [
                 "Maelstrom Wanderer"
             ],

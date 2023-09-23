@@ -10,7 +10,6 @@
             "deck_id": "368676",
             "rank": "1",
             "player": "Alexander Smirnov",
-            "winrate": 1.0,
             "commander": [
                 "Will Kenrith",
                 "Rowan Kenrith"
@@ -82,7 +81,6 @@
             "deck_id": "368677",
             "rank": "2",
             "player": "Mesheriakov Maxim",
-            "winrate": 0.8,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -192,7 +190,6 @@
             "deck_id": "368678",
             "rank": "3-4",
             "player": "Vasiliev Vitaly",
-            "winrate": 0.6,
             "commander": [
                 "The Gitrog Monster"
             ],
@@ -294,7 +291,6 @@
             "deck_id": "368679",
             "rank": "3-4",
             "player": "Serputko Vyacheslav",
-            "winrate": 0.6,
             "commander": [
                 "Selvala, Explorer Returned"
             ],

@@ -10,7 +10,6 @@
             "deck_id": "497715",
             "rank": "1",
             "player": "Loic Barlet",
-            "winrate": 1.0,
             "commander": [
                 "Hogaak, Arisen Necropolis"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "497716",
             "rank": "2",
             "player": "Romain Cozic",
-            "winrate": 0.8,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -230,7 +228,6 @@
             "deck_id": "497717",
             "rank": "3-4",
             "player": "Julien Fabry",
-            "winrate": 0.8,
             "commander": [
                 "Grenzo, Dungeon Warden"
             ],
@@ -332,7 +329,6 @@
             "deck_id": "497718",
             "rank": "3-4",
             "player": "Mathieu Quillard",
-            "winrate": 0.8,
             "commander": [
                 "Elminster"
             ],
@@ -434,7 +430,6 @@
             "deck_id": "497719",
             "rank": "5-8",
             "player": "Romain Ribet",
-            "winrate": 0.6,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -518,7 +513,6 @@
             "deck_id": "497720",
             "rank": "5-8",
             "player": "Jean Garreau",
-            "winrate": 0.6,
             "commander": [
                 "Yoshimaru, Ever Faithful",
                 "Bruse Tarl, Boorish Herder"
@@ -621,7 +615,6 @@
             "deck_id": "497721",
             "rank": "5-8",
             "player": "Kevin Tourret",
-            "winrate": 0.6,
             "commander": [
                 "Leovold, Emissary of Trest"
             ],
@@ -731,7 +724,6 @@
             "deck_id": "497722",
             "rank": "5-8",
             "player": "Lucas Dubois",
-            "winrate": 0.6,
             "commander": [
                 "Lonis, Cryptozoologist"
             ],

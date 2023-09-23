@@ -10,7 +10,6 @@
             "deck_id": "429348",
             "rank": "1",
             "player": "Rafael Barreto",
-            "winrate": 1.0,
             "commander": [
                 "Dargo, the Shipwrecker",
                 "Rograkh, Son of Rohgahh"
@@ -91,7 +90,6 @@
             "deck_id": "429349",
             "rank": "2",
             "player": "Lucas Portela",
-            "winrate": 0.8,
             "commander": [
                 "Klothys, God of Destiny"
             ],
@@ -188,7 +186,6 @@
             "deck_id": "429350",
             "rank": "3-4",
             "player": "Felipe Batista",
-            "winrate": 0.6,
             "commander": [
                 "Yawgmoth, Thran Physician"
             ],
@@ -276,7 +273,6 @@
             "deck_id": "429351",
             "rank": "3-4",
             "player": "Leonardo Maeda",
-            "winrate": 0.6,
             "commander": [
                 "Reyhan, Last of the Abzan",
                 "Keleth, Sunmane Familiar"

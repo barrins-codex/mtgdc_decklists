@@ -10,7 +10,6 @@
             "deck_id": "284389",
             "rank": "3-4",
             "player": "Alexander Fingerov",
-            "winrate": 0.8,
             "commander": [
                 "Zurgo Bellstriker"
             ],
@@ -92,7 +91,6 @@
             "deck_id": "284390",
             "rank": "5-8",
             "player": "Sergey \"Loxmatii\" Lamzin",
-            "winrate": 0.6,
             "commander": [
                 "Thrasios, Triton Hero",
                 "Vial Smasher the Fierce"
@@ -196,7 +194,6 @@
             "deck_id": "284391",
             "rank": "5-8",
             "player": "Matvey Dolganov",
-            "winrate": 0.6,
             "commander": [
                 "Kraum, Ludevic's Opus",
                 "Vial Smasher the Fierce"
@@ -301,7 +298,6 @@
             "deck_id": "284392",
             "rank": "5-8",
             "player": "Denis 'lat' Glukhov",
-            "winrate": 0.6,
             "commander": [
                 "Geist of Saint Traft"
             ],
@@ -401,7 +397,6 @@
             "deck_id": "284393",
             "rank": "5-8",
             "player": "Vlad \"vlaprohor\" Prohorov",
-            "winrate": 0.6,
             "commander": [
                 "Jace, Vryn's Prodigy"
             ],
@@ -487,7 +482,6 @@
             "deck_id": "284394",
             "rank": "3-4",
             "player": "Oleg \"oeoe\" Evseev",
-            "winrate": 0.8,
             "commander": [
                 "Vial Smasher the Fierce",
                 "Kraum, Ludevic's Opus"
@@ -592,7 +586,6 @@
             "deck_id": "284395",
             "rank": "2",
             "player": "Alexander \"Zamo\" Shust",
-            "winrate": 0.8,
             "commander": [
                 "Saskia the Unyielding"
             ],
@@ -702,7 +695,6 @@
             "deck_id": "284396",
             "rank": "1",
             "player": "Evgeniy \"bratbogomol\" Michailov",
-            "winrate": 1.0,
             "commander": [
                 "Zurgo Bellstriker"
             ],

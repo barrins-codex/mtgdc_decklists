@@ -10,7 +10,6 @@
             "deck_id": "348295",
             "rank": "5-8",
             "player": "Martin Lamr",
-            "winrate": 0.75,
             "commander": [
                 "Teferi, Temporal Archmage"
             ],
@@ -84,7 +83,6 @@
             "deck_id": "348296",
             "rank": "5-8",
             "player": "David Stepanek",
-            "winrate": 0.75,
             "commander": [
                 "Lazav, the Multifarious"
             ],
@@ -170,7 +168,6 @@
             "deck_id": "348297",
             "rank": "5-8",
             "player": "Jaroslav Chmelik",
-            "winrate": 0.75,
             "commander": [
                 "Kytheon, Hero of Akros"
             ],
@@ -255,7 +252,6 @@
             "deck_id": "348298",
             "rank": "5-8",
             "player": "Robert Starke",
-            "winrate": 0.75,
             "commander": [
                 "Saskia the Unyielding"
             ],
@@ -365,7 +361,6 @@
             "deck_id": "348299",
             "rank": "3-4",
             "player": "Felix M.",
-            "winrate": 0.75,
             "commander": [
                 "Thrasios, Triton Hero",
                 "Ludevic, Necro-Alchemist"
@@ -474,7 +469,6 @@
             "deck_id": "348300",
             "rank": "3-4",
             "player": "Tomas Koudelka",
-            "winrate": 0.75,
             "commander": [
                 "Arahbo, Roar of the World"
             ],
@@ -575,7 +569,6 @@
             "deck_id": "348301",
             "rank": "2",
             "player": "Daniel Ditrych",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Yisan, the Wanderer Bard"
             ],
@@ -664,7 +657,6 @@
             "deck_id": "348302",
             "rank": "1",
             "player": "Vojta Kotek",
-            "winrate": 0.8888888888888888,
             "commander": [
                 "Grenzo, Dungeon Warden"
             ],

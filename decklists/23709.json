@@ -10,7 +10,6 @@
             "deck_id": "364576",
             "rank": "2",
             "player": "Jannik Dewald",
-            "winrate": 0.8,
             "commander": [
                 "Grenzo, Dungeon Warden"
             ],
@@ -109,7 +108,6 @@
             "deck_id": "364577",
             "rank": "1",
             "player": "Julian Heßling",
-            "winrate": 1.0,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],

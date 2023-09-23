@@ -10,7 +10,6 @@
             "deck_id": "262845",
             "rank": "1",
             "player": "Salsero Spanedda",
-            "winrate": 1.0,
             "commander": [
                 "Griselbrand"
             ],
@@ -96,7 +95,6 @@
             "deck_id": "262846",
             "rank": "2",
             "player": "Antonio Sechi",
-            "winrate": 0.8,
             "commander": [
                 "Thalia, Guardian of Thraben"
             ],
@@ -182,7 +180,6 @@
             "deck_id": "262847",
             "rank": "3-4",
             "player": "Bazzoni",
-            "winrate": 0.8,
             "commander": [
                 "Skullbriar, the Walking Grave"
             ],
@@ -279,7 +276,6 @@
             "deck_id": "262848",
             "rank": "3-4",
             "player": "Alessandro Slago Salvago",
-            "winrate": 0.8,
             "commander": [
                 "Lyzolda, the Blood Witch"
             ],

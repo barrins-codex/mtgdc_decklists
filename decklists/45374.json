@@ -10,7 +10,6 @@
             "deck_id": "535177",
             "rank": "1",
             "player": "Yang Du",
-            "winrate": 1.0,
             "commander": [
                 "Aragorn, King of Gondor"
             ],
@@ -117,7 +116,6 @@
             "deck_id": "535178",
             "rank": "2",
             "player": "Guanglei Li",
-            "winrate": 0.8,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -227,7 +225,6 @@
             "deck_id": "535179",
             "rank": "3-4",
             "player": "Yiduo Fan",
-            "winrate": 0.8,
             "commander": [
                 "Grenzo, Dungeon Warden"
             ],
@@ -332,7 +329,6 @@
             "deck_id": "535180",
             "rank": "3-4",
             "player": "Haobo Ma",
-            "winrate": 0.8,
             "commander": [
                 "Niv-Mizzet, Parun"
             ],

@@ -10,7 +10,6 @@
             "deck_id": "292800",
             "rank": "2",
             "player": "Laure Massone",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Geist of Saint Traft"
             ],
@@ -105,7 +104,6 @@
             "deck_id": "292801",
             "rank": "1",
             "player": "Julien Junyck",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Breya, Etherium Shaper"
             ],
@@ -215,7 +213,6 @@
             "deck_id": "292802",
             "rank": "5-8",
             "player": "Pierre-henri Chatel",
-            "winrate": 0.625,
             "commander": [
                 "Animar, Soul of Elements"
             ],
@@ -316,7 +313,6 @@
             "deck_id": "292803",
             "rank": "5-8",
             "player": "Fred Marais",
-            "winrate": 0.625,
             "commander": [
                 "Tymna the Weaver",
                 "Vial Smasher the Fierce"
@@ -417,7 +413,6 @@
             "deck_id": "292804",
             "rank": "5-8",
             "player": "Qm",
-            "winrate": 0.625,
             "commander": [
                 "Baral, Chief of Compliance"
             ],
@@ -498,7 +493,6 @@
             "deck_id": "292805",
             "rank": "3-4",
             "player": "Jf Pillon",
-            "winrate": 0.625,
             "commander": [
                 "Geist of Saint Traft"
             ],
@@ -594,7 +588,6 @@
             "deck_id": "292806",
             "rank": "3-4",
             "player": "David \"ardo\" Le Corvec",
-            "winrate": 0.625,
             "commander": [
                 "Tymna the Weaver",
                 "Thrasios, Triton Hero"

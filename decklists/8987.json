@@ -10,7 +10,6 @@
             "deck_id": "251219",
             "rank": "1",
             "player": "Martial \"Mars\" Moreau",
-            "winrate": 0.8888888888888888,
             "commander": [
                 "Keranos, God of Storms"
             ],
@@ -91,7 +90,6 @@
             "deck_id": "251220",
             "rank": "2",
             "player": "Guillaume Picard",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Marath, Will of the Wild"
             ],
@@ -200,7 +198,6 @@
             "deck_id": "251221",
             "rank": "3-4",
             "player": "Alexandre Rebillout",
-            "winrate": 0.75,
             "commander": [
                 "Jenara, Asura of War"
             ],
@@ -308,7 +305,6 @@
             "deck_id": "251222",
             "rank": "3-4",
             "player": "Florent Beaufils",
-            "winrate": 0.75,
             "commander": [
                 "Geist of Saint Traft"
             ],
@@ -406,7 +402,6 @@
             "deck_id": "251223",
             "rank": "5-8",
             "player": "Julien \"Sonte\" Sori",
-            "winrate": 0.75,
             "commander": [
                 "Nin, the Pain Artist"
             ],
@@ -487,7 +482,6 @@
             "deck_id": "251224",
             "rank": "5-8",
             "player": "Charley Fevre",
-            "winrate": 0.75,
             "commander": [
                 "Grand Arbiter Augustin IV"
             ],
@@ -584,7 +578,6 @@
             "deck_id": "251225",
             "rank": "5-8",
             "player": "Julien Bachelier",
-            "winrate": 0.75,
             "commander": [
                 "Daretti, Scrap Savant"
             ],
@@ -667,7 +660,6 @@
             "deck_id": "251226",
             "rank": "5-8",
             "player": "Marius Bredon",
-            "winrate": 0.75,
             "commander": [
                 "Prossh, Skyraider of Kher"
             ],

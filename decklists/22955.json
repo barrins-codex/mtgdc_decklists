@@ -10,7 +10,6 @@
             "deck_id": "357270",
             "rank": "5-8",
             "player": "Francois Cloux",
-            "winrate": 0.75,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -96,7 +95,6 @@
             "deck_id": "357271",
             "rank": "5-8",
             "player": "Martin Gramatzki",
-            "winrate": 0.75,
             "commander": [
                 "Kraum, Ludevic's Opus",
                 "Tymna the Weaver"
@@ -206,7 +204,6 @@
             "deck_id": "357272",
             "rank": "5-8",
             "player": "Sebastian Nußbaum",
-            "winrate": 0.75,
             "commander": [
                 "Leovold, Emissary of Trest"
             ],
@@ -316,7 +313,6 @@
             "deck_id": "357273",
             "rank": "5-8",
             "player": "Julian Heßling",
-            "winrate": 0.75,
             "commander": [
                 "Daretti, Scrap Savant"
             ],
@@ -407,7 +403,6 @@
             "deck_id": "357274",
             "rank": "3-4",
             "player": "Martin Vlnas",
-            "winrate": 0.75,
             "commander": [
                 "Isamaru, Hound of Konda"
             ],
@@ -497,7 +492,6 @@
             "deck_id": "357275",
             "rank": "3-4",
             "player": "Björn Hoffmann",
-            "winrate": 0.75,
             "commander": [
                 "Reyhan, Last of the Abzan",
                 "Tymna the Weaver"
@@ -603,7 +597,6 @@
             "deck_id": "357276",
             "rank": "2",
             "player": "Jakub Lerl",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Thrasios, Triton Hero",
                 "Tymna the Weaver"
@@ -712,7 +705,6 @@
             "deck_id": "357277",
             "rank": "1",
             "player": "Hao Ninh",
-            "winrate": 0.8888888888888888,
             "commander": [
                 "Kraum, Ludevic's Opus",
                 "Ludevic, Necro-Alchemist"

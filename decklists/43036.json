@@ -10,7 +10,6 @@
             "deck_id": "518107",
             "rank": "1",
             "player": "Léon Le Loir",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Niv-Mizzet Reborn",
                 "Jegantha, the Wellspring"
@@ -121,7 +120,6 @@
             "deck_id": "518108",
             "rank": "2",
             "player": "Clément Di Ceglie",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Tivit, Seller of Secrets"
             ],
@@ -231,7 +229,6 @@
             "deck_id": "518109",
             "rank": "3",
             "player": "Thibaut Cantaluppi",
-            "winrate": 0.625,
             "commander": [
                 "Dennick, Pious Apprentice"
             ],
@@ -332,7 +329,6 @@
             "deck_id": "518110",
             "rank": "4",
             "player": "Robin Angebaud",
-            "winrate": 0.625,
             "commander": [
                 "Wernog, Rider's Chaplain",
                 "Cecily, Haunted Mage"
@@ -442,7 +438,6 @@
             "deck_id": "518111",
             "rank": "5-8",
             "player": "Guillaume Lopes",
-            "winrate": 0.625,
             "commander": [
                 "Ertai Resurrected"
             ],
@@ -539,7 +534,6 @@
             "deck_id": "518112",
             "rank": "5-8",
             "player": "Mathieu Chiron",
-            "winrate": 0.625,
             "commander": [
                 "Ghyrson Starn, Kelermorph"
             ],
@@ -637,7 +631,6 @@
             "deck_id": "518113",
             "rank": "5-8",
             "player": "Pablo Destrée",
-            "winrate": 0.625,
             "commander": [
                 "Tana, the Bloodsower",
                 "Yoshimaru, Ever Faithful"
@@ -746,7 +739,6 @@
             "deck_id": "518114",
             "rank": "5-8",
             "player": "Aurèle Commeureuc",
-            "winrate": 0.625,
             "commander": [
                 "Ghyrson Starn, Kelermorph"
             ],

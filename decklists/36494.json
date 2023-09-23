@@ -10,7 +10,6 @@
             "deck_id": "474729",
             "rank": "1",
             "player": "Maxime Allée",
-            "winrate": 1.0,
             "commander": [
                 "Lurrus of the Dream-Den",
                 "Wernog, Rider's Chaplain",
@@ -121,7 +120,6 @@
             "deck_id": "474730",
             "rank": "2",
             "player": "Léon Le Loir",
-            "winrate": 0.8,
             "commander": [
                 "Jegantha, the Wellspring",
                 "Niv-Mizzet Reborn"
@@ -232,7 +230,6 @@
             "deck_id": "474731",
             "rank": "3",
             "player": "Alexandre B.",
-            "winrate": 0.6,
             "commander": [
                 "Narset, Enlightened Master"
             ],
@@ -340,7 +337,6 @@
             "deck_id": "474732",
             "rank": "4",
             "player": "Valentin Avenel",
-            "winrate": 0.6,
             "commander": [
                 "Dennick, Pious Apprentice"
             ],

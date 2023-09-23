@@ -10,7 +10,6 @@
             "deck_id": "454332",
             "rank": "1",
             "player": "Cilbert Corpuz",
-            "winrate": 1.0,
             "commander": [
                 "Rem Karolus, Stalwart Slayer"
             ],
@@ -114,7 +113,6 @@
             "deck_id": "454333",
             "rank": "2",
             "player": "Rai Reyes",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Klothys, God of Destiny"
             ],

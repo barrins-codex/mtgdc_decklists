@@ -10,7 +10,6 @@
             "deck_id": "523737",
             "rank": "1",
             "player": "Stan",
-            "winrate": 1.0,
             "commander": [
                 "Grist, the Hunger Tide"
             ],
@@ -113,7 +112,6 @@
             "deck_id": "523738",
             "rank": "2",
             "player": "Marek Voráček",
-            "winrate": 0.8,
             "commander": [
                 "Yoshimaru, Ever Faithful",
                 "Tana, the Bloodsower"
@@ -223,7 +221,6 @@
             "deck_id": "523739",
             "rank": "3-4",
             "player": "Petr Vodička",
-            "winrate": 0.8,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -333,7 +330,6 @@
             "deck_id": "523740",
             "rank": "3-4",
             "player": "Matou Pavlovský-fiala",
-            "winrate": 0.8,
             "commander": [
                 "Light-Paws, Emperor's Voice"
             ],

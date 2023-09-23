@@ -10,7 +10,6 @@
             "deck_id": "447815",
             "rank": "1",
             "player": "Diogo Padilha",
-            "winrate": 1.0,
             "commander": [
                 "Winota, Joiner of Forces"
             ],
@@ -106,7 +105,6 @@
             "deck_id": "447816",
             "rank": "2",
             "player": "Maurício Castanho",
-            "winrate": 0.8,
             "commander": [
                 "Hogaak, Arisen Necropolis"
             ],
@@ -213,7 +211,6 @@
             "deck_id": "447817",
             "rank": "3",
             "player": "Henrique Langa",
-            "winrate": 0.6,
             "commander": [
                 "General Ferrous Rokiric"
             ],
@@ -305,7 +302,6 @@
             "deck_id": "447818",
             "rank": "4",
             "player": "Benedito Duarte",
-            "winrate": 0.6,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],

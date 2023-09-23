@@ -10,7 +10,6 @@
             "deck_id": "462263",
             "rank": "1",
             "player": "Julien Boulet",
-            "winrate": 1.0,
             "commander": [
                 "Isamaru, Hound of Konda"
             ],
@@ -92,7 +91,6 @@
             "deck_id": "462264",
             "rank": "2",
             "player": "Guillaume Duday-marlot",
-            "winrate": 0.8,
             "commander": [
                 "Titania, Protector of Argoth"
             ],
@@ -188,7 +186,6 @@
             "deck_id": "462265",
             "rank": "3-4",
             "player": "Hugo Ben Aych",
-            "winrate": 0.6,
             "commander": [
                 "Prossh, Skyraider of Kher"
             ],
@@ -298,7 +295,6 @@
             "deck_id": "462266",
             "rank": "3-4",
             "player": "Diego Rio",
-            "winrate": 0.6,
             "commander": [
                 "Laurine, the Diversion",
                 "Kamber, the Plunderer"

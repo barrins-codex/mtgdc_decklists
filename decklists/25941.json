@@ -10,7 +10,6 @@
             "deck_id": "394456",
             "rank": "3",
             "player": "Naughtykoopa",
-            "winrate": 0.8,
             "commander": [
                 "Klothys, God of Destiny"
             ],
@@ -107,7 +106,6 @@
             "deck_id": "394457",
             "rank": "2",
             "player": "Caxxen",
-            "winrate": 0.8,
             "commander": [
                 "Narset, Enlightened Master"
             ],
@@ -215,7 +213,6 @@
             "deck_id": "394458",
             "rank": "1",
             "player": "Duelcastermage",
-            "winrate": 1.0,
             "commander": [
                 "Kroxa, Titan of Death's Hunger"
             ],
@@ -317,7 +314,6 @@
             "deck_id": "394459",
             "rank": "4",
             "player": "Tuktukwhosthere",
-            "winrate": 0.6,
             "commander": [
                 "Grenzo, Dungeon Warden"
             ],

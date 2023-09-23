@@ -10,7 +10,6 @@
             "deck_id": "454701",
             "rank": "1",
             "player": "Juca",
-            "winrate": 1.0,
             "commander": [
                 "Phylath, World Sculptor"
             ],
@@ -95,7 +94,6 @@
             "deck_id": "454702",
             "rank": "2",
             "player": "Michel Xisto",
-            "winrate": 0.8,
             "commander": [
                 "Armix, Filigree Thrasher",
                 "Rebbec, Architect of Ascension"

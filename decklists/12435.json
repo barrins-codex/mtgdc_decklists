@@ -10,7 +10,6 @@
             "deck_id": "271524",
             "rank": "1",
             "player": "Guilherme Machado",
-            "winrate": 1.0,
             "commander": [
                 "Wydwen, the Biting Gale"
             ],
@@ -107,7 +106,6 @@
             "deck_id": "271525",
             "rank": "2",
             "player": "Leonardo Martins",
-            "winrate": 0.8,
             "commander": [
                 "Jace, Vryn's Prodigy"
             ],
@@ -189,7 +187,6 @@
             "deck_id": "271526",
             "rank": "3-4",
             "player": "Daniel Lestinge",
-            "winrate": 0.8,
             "commander": [
                 "Selvala, Explorer Returned"
             ],
@@ -287,7 +284,6 @@
             "deck_id": "271527",
             "rank": "3-4",
             "player": "Leonardo Araujo",
-            "winrate": 0.8,
             "commander": [
                 "Zurgo Bellstriker"
             ],
@@ -366,7 +362,6 @@
             "deck_id": "271528",
             "rank": "5-8",
             "player": "Bruno Karam",
-            "winrate": 0.6,
             "commander": [
                 "Titania, Protector of Argoth"
             ],
@@ -456,7 +451,6 @@
             "deck_id": "271529",
             "rank": "5-8",
             "player": "Lucas Branco Viudes",
-            "winrate": 0.6,
             "commander": [
                 "Surrak Dragonclaw"
             ],
@@ -562,7 +556,6 @@
             "deck_id": "271530",
             "rank": "5-8",
             "player": "Diego Ganev",
-            "winrate": 0.6,
             "commander": [
                 "Jenara, Asura of War"
             ],
@@ -672,7 +665,6 @@
             "deck_id": "271531",
             "rank": "5-8",
             "player": "Fabio Kaneto",
-            "winrate": 0.6,
             "commander": [
                 "Nissa, Vastwood Seer"
             ],

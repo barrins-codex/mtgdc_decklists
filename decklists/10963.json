@@ -10,7 +10,6 @@
             "deck_id": "262405",
             "rank": "3",
             "player": "Alexander \"newtraderdu78\" Loskoutoff",
-            "winrate": 0.8,
             "commander": [
                 "Meren of Clan Nel Toth"
             ],
@@ -110,7 +109,6 @@
             "deck_id": "262406",
             "rank": "2",
             "player": "Constantin \"Goldberg21\" Ruellet",
-            "winrate": 0.8,
             "commander": [
                 "Child of Alara"
             ],
@@ -220,7 +218,6 @@
             "deck_id": "262407",
             "rank": "1",
             "player": "\"Moondust\"",
-            "winrate": 1.0,
             "commander": [
                 "Meren of Clan Nel Toth"
             ],
@@ -320,7 +317,6 @@
             "deck_id": "262408",
             "rank": "4",
             "player": "Yohann Le Métté",
-            "winrate": 0.8,
             "commander": [
                 "Rafiq of the Many"
             ],

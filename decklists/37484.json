@@ -10,7 +10,6 @@
             "deck_id": "480948",
             "rank": "1",
             "player": "Victor Burghi",
-            "winrate": 1.0,
             "commander": [
                 "Minsc &amp; Boo, Timeless Heroes"
             ],
@@ -111,7 +110,6 @@
             "deck_id": "480949",
             "rank": "2",
             "player": "Thiago Saporito",
-            "winrate": 0.8,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -216,7 +214,6 @@
             "deck_id": "480950",
             "rank": "3-4",
             "player": "Leonardo Maeda",
-            "winrate": 0.8,
             "commander": [
                 "Minsc, Beloved Ranger"
             ],
@@ -326,7 +323,6 @@
             "deck_id": "480951",
             "rank": "3-4",
             "player": "Rafael Barreto",
-            "winrate": 0.8,
             "commander": [
                 "Jeska, Thrice Reborn",
                 "Ludevic, Necro-Alchemist"
@@ -426,7 +422,6 @@
             "deck_id": "480952",
             "rank": "5-8",
             "player": "Orlando Bibiano",
-            "winrate": 0.6,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -536,7 +531,6 @@
             "deck_id": "480953",
             "rank": "5-8",
             "player": "Lucas \"ppm\" Portela",
-            "winrate": 0.6,
             "commander": [
                 "Minsc &amp; Boo, Timeless Heroes"
             ],
@@ -644,7 +638,6 @@
             "deck_id": "480954",
             "rank": "5-8",
             "player": "Gabriel Kawa",
-            "winrate": 0.6,
             "commander": [
                 "Isamaru, Hound of Konda"
             ],
@@ -727,7 +720,6 @@
             "deck_id": "480955",
             "rank": "5-8",
             "player": "Giovanni Iannuzzi",
-            "winrate": 0.6,
             "commander": [
                 "Gut, True Soul Zealot",
                 "Agent of the Iron Throne"

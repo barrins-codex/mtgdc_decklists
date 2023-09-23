@@ -10,7 +10,6 @@
             "deck_id": "519591",
             "rank": "1",
             "player": "Eik The Necromancer",
-            "winrate": 1.0,
             "commander": [
                 "Reyhan, Last of the Abzan",
                 "Yoshimaru, Ever Faithful"
@@ -117,7 +116,6 @@
             "deck_id": "519592",
             "rank": "2",
             "player": "Jonas Jörns",
-            "winrate": 0.8,
             "commander": [
                 "Wernog, Rider's Chaplain",
                 "Elmar, Ulvenwald Informant"

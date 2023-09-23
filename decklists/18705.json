@@ -10,7 +10,6 @@
             "deck_id": "316792",
             "rank": "2",
             "player": "Lukas Kamps",
-            "winrate": 0.8,
             "commander": [
                 "Zurgo Bellstriker"
             ],
@@ -95,7 +94,6 @@
             "deck_id": "316793",
             "rank": "1",
             "player": "André Luff",
-            "winrate": 1.0,
             "commander": [
                 "Sygg, River Cutthroat"
             ],

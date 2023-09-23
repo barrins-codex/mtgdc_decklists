@@ -10,7 +10,6 @@
             "deck_id": "477873",
             "rank": "1",
             "player": "Sacha Keitel",
-            "winrate": 1.0,
             "commander": [
                 "Dennick, Pious Apprentice"
             ],
@@ -113,7 +112,6 @@
             "deck_id": "477874",
             "rank": "2",
             "player": "Guillaume \"djesteur\" Fabre",
-            "winrate": 0.8,
             "commander": [
                 "Elmar, Ulvenwald Informant",
                 "Wernog, Rider's Chaplain"
@@ -223,7 +221,6 @@
             "deck_id": "477875",
             "rank": "3-4",
             "player": "Ghislain Rea",
-            "winrate": 0.6,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -331,7 +328,6 @@
             "deck_id": "477876",
             "rank": "3-4",
             "player": "Dylan Bettendroffer",
-            "winrate": 0.6,
             "commander": [
                 "Lurrus of the Dream-Den"
             ],

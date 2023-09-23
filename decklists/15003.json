@@ -10,7 +10,6 @@
             "deck_id": "290740",
             "rank": "3-4",
             "player": "Maxcence Achoun",
-            "winrate": 0.75,
             "commander": [
                 "Jace, Vryn's Prodigy"
             ],
@@ -88,7 +87,6 @@
             "deck_id": "290741",
             "rank": "5-8",
             "player": "Gaël \" Gaviro \" Maloumian",
-            "winrate": 0.75,
             "commander": [
                 "Geist of Saint Traft"
             ],
@@ -185,7 +183,6 @@
             "deck_id": "290742",
             "rank": "3-4",
             "player": "Aristide Blanpied",
-            "winrate": 0.75,
             "commander": [
                 "Breya, Etherium Shaper"
             ],
@@ -295,7 +292,6 @@
             "deck_id": "290743",
             "rank": "5-8",
             "player": "The Nameless One",
-            "winrate": 0.75,
             "commander": [
                 "Baral, Chief of Compliance"
             ],
@@ -376,7 +372,6 @@
             "deck_id": "290744",
             "rank": "5-8",
             "player": "Victor Lavialle",
-            "winrate": 0.75,
             "commander": [
                 "Jace, Vryn's Prodigy"
             ],
@@ -451,7 +446,6 @@
             "deck_id": "290749",
             "rank": "5-8",
             "player": "Soratami",
-            "winrate": 0.75,
             "commander": [
                 "Breya, Etherium Shaper"
             ],
@@ -561,7 +555,6 @@
             "deck_id": "290750",
             "rank": "2",
             "player": "Ugo Scaramelli",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Breya, Etherium Shaper"
             ],
@@ -671,7 +664,6 @@
             "deck_id": "290751",
             "rank": "1",
             "player": "Yohan Blanchard",
-            "winrate": 0.8888888888888888,
             "commander": [
                 "Nin, the Pain Artist"
             ],

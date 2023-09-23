@@ -10,7 +10,6 @@
             "deck_id": "521193",
             "rank": "2",
             "player": "Lucas Santos",
-            "winrate": 0.8,
             "commander": [
                 "Tivit, Seller of Secrets"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "521194",
             "rank": "3",
             "player": "Hugo Shelling",
-            "winrate": 0.6,
             "commander": [
                 "Grist, the Hunger Tide"
             ],
@@ -221,7 +219,6 @@
             "deck_id": "521195",
             "rank": "4",
             "player": "Orlando Bibiano",
-            "winrate": 0.6,
             "commander": [
                 "Atraxa, Grand Unifier"
             ],

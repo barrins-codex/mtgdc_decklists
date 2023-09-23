@@ -10,7 +10,6 @@
             "deck_id": "271733",
             "rank": "3-4",
             "player": "Arturo Fux",
-            "winrate": 0.8,
             "commander": [
                 "Sidisi, Undead Vizier"
             ],
@@ -94,7 +93,6 @@
             "deck_id": "271734",
             "rank": "3-4",
             "player": "Marco Boccalari",
-            "winrate": 0.8,
             "commander": [
                 "Geist of Saint Traft"
             ],
@@ -188,7 +186,6 @@
             "deck_id": "271735",
             "rank": "5-8",
             "player": "Marco Sponza",
-            "winrate": 0.6,
             "commander": [
                 "Dragonlord Ojutai"
             ],
@@ -284,7 +281,6 @@
             "deck_id": "271736",
             "rank": "5-8",
             "player": "Manuel Anselmo",
-            "winrate": 0.6,
             "commander": [
                 "The Gitrog Monster"
             ],
@@ -383,7 +379,6 @@
             "deck_id": "271737",
             "rank": "5-8",
             "player": "Michele Atzeni",
-            "winrate": 0.6,
             "commander": [
                 "Jenara, Asura of War"
             ],
@@ -491,7 +486,6 @@
             "deck_id": "271738",
             "rank": "5-8",
             "player": "Alessandro \"Letalboro\" Carpita",
-            "winrate": 0.6,
             "commander": [
                 "Titania, Protector of Argoth"
             ],
@@ -579,7 +573,6 @@
             "deck_id": "271739",
             "rank": "2",
             "player": "Alessandro Madarena",
-            "winrate": 0.8,
             "commander": [
                 "Skithiryx, the Blight Dragon"
             ],
@@ -667,7 +660,6 @@
             "deck_id": "271740",
             "rank": "1",
             "player": "David Rodriguez Targa",
-            "winrate": 1.0,
             "commander": [
                 "Child of Alara"
             ],

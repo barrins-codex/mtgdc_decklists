@@ -10,7 +10,6 @@
             "deck_id": "466135",
             "rank": "1",
             "player": "Audwin Abellera",
-            "winrate": 1.0,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -92,7 +91,6 @@
             "deck_id": "466136",
             "rank": "2",
             "player": "Ralph Dolteo",
-            "winrate": 0.8,
             "commander": [
                 "Isamaru, Hound of Konda"
             ],
@@ -183,7 +181,6 @@
             "deck_id": "466137",
             "rank": "3-4",
             "player": "Alvin Cruz",
-            "winrate": 0.8,
             "commander": [
                 "Niv-Mizzet, Parun"
             ],
@@ -282,7 +279,6 @@
             "deck_id": "466138",
             "rank": "3-4",
             "player": "Fidel Alipio",
-            "winrate": 0.8,
             "commander": [
                 "Niv-Mizzet Reborn"
             ],
@@ -391,7 +387,6 @@
             "deck_id": "466139",
             "rank": "5-8",
             "player": "Jim Degsi",
-            "winrate": 0.6,
             "commander": [
                 "Kinnan, Bonder Prodigy"
             ],
@@ -486,7 +481,6 @@
             "deck_id": "466140",
             "rank": "5-8",
             "player": "Enrico Castro",
-            "winrate": 0.6,
             "commander": [
                 "Bruse Tarl, Boorish Herder",
                 "Jeska, Thrice Reborn"
@@ -588,7 +582,6 @@
             "deck_id": "466141",
             "rank": "5-8",
             "player": "Melvin Cabanlit",
-            "winrate": 0.6,
             "commander": [
                 "Adeliz, the Cinder Wind"
             ],
@@ -686,7 +679,6 @@
             "deck_id": "466142",
             "rank": "5-8",
             "player": "Spencer Wong",
-            "winrate": 0.6,
             "commander": [
                 "Vito, Thorn of the Dusk Rose"
             ],

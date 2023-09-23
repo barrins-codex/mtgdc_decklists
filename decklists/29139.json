@@ -10,7 +10,6 @@
             "deck_id": "429453",
             "rank": "1",
             "player": "Alexander Andrei Pe",
-            "winrate": 1.0,
             "commander": [
                 "Ludevic, Necro-Alchemist",
                 "Kraum, Ludevic's Opus"
@@ -106,7 +105,6 @@
             "deck_id": "429454",
             "rank": "2",
             "player": "Michael O'neall",
-            "winrate": 0.8,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -188,7 +186,6 @@
             "deck_id": "429455",
             "rank": "3",
             "player": "Gabe Enriquez",
-            "winrate": 0.6,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -270,7 +267,6 @@
             "deck_id": "429456",
             "rank": "4",
             "player": "Charles Pineda",
-            "winrate": 0.6,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],

@@ -10,7 +10,6 @@
             "deck_id": "483007",
             "rank": "1",
             "player": "Sebastian Kött",
-            "winrate": 1.0,
             "commander": [
                 "Tameshi, Reality Architect"
             ],
@@ -110,7 +109,6 @@
             "deck_id": "483008",
             "rank": "2",
             "player": "Simon The Sorcerer",
-            "winrate": 0.8,
             "commander": [
                 "Tivit, Seller of Secrets"
             ],

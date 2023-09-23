@@ -10,7 +10,6 @@
             "deck_id": "367831",
             "rank": "2",
             "player": "Sebastian Nußbaum",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Leovold, Emissary of Trest"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "367832",
             "rank": "1",
             "player": "Luis Kamper",
-            "winrate": 1.0,
             "commander": [
                 "Akiri, Line-Slinger",
                 "Silas Renn, Seeker Adept"

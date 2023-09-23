@@ -10,7 +10,6 @@
             "deck_id": "302725",
             "rank": "5-8",
             "player": "Ugo Scaramelli",
-            "winrate": 0.75,
             "commander": [
                 "Saskia the Unyielding"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "302726",
             "rank": "3-4",
             "player": "Boris Wisnicki",
-            "winrate": 0.75,
             "commander": [
                 "Queen Marchesa"
             ],
@@ -228,7 +226,6 @@
             "deck_id": "302727",
             "rank": "2",
             "player": "Vivien \"soratami\" Mace",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Zurgo Bellstriker"
             ],
@@ -314,7 +311,6 @@
             "deck_id": "302728",
             "rank": "1",
             "player": "Kaourintin \"falaakr\" Le Guiban",
-            "winrate": 0.8888888888888888,
             "commander": [
                 "The Gitrog Monster"
             ],
@@ -413,7 +409,6 @@
             "deck_id": "302729",
             "rank": "5-8",
             "player": "Pierre-axel Bral",
-            "winrate": 0.75,
             "commander": [
                 "Atraxa, Praetors' Voice"
             ],
@@ -523,7 +518,6 @@
             "deck_id": "302730",
             "rank": "5-8",
             "player": "Audren Boulic",
-            "winrate": 0.75,
             "commander": [
                 "Kraum, Ludevic's Opus",
                 "Tymna the Weaver"
@@ -633,7 +627,6 @@
             "deck_id": "302731",
             "rank": "5-8",
             "player": "Constantin Bône",
-            "winrate": 0.75,
             "commander": [
                 "Queen Marchesa"
             ],
@@ -743,7 +736,6 @@
             "deck_id": "302732",
             "rank": "3-4",
             "player": "Mathieu Chiron",
-            "winrate": 0.75,
             "commander": [
                 "Zurgo Bellstriker"
             ],

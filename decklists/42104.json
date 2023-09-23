@@ -10,7 +10,6 @@
             "deck_id": "512126",
             "rank": "1",
             "player": "Léo Facca",
-            "winrate": 0.875,
             "commander": [
                 "Atraxa, Grand Unifier"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "512127",
             "rank": "2",
             "player": "Sierra Luc",
-            "winrate": 0.75,
             "commander": [
                 "Tana, the Bloodsower",
                 "Yoshimaru, Ever Faithful"
@@ -229,7 +227,6 @@
             "deck_id": "512128",
             "rank": "3-4",
             "player": "Nicolas Glatt",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -339,7 +336,6 @@
             "deck_id": "512129",
             "rank": "3-4",
             "player": "Paul Séronie-vivien",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Tana, the Bloodsower",
                 "Yoshimaru, Ever Faithful"
@@ -448,7 +444,6 @@
             "deck_id": "512130",
             "rank": "5-8",
             "player": "William Tea",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Grist, the Hunger Tide"
             ],
@@ -549,7 +544,6 @@
             "deck_id": "512131",
             "rank": "5-8",
             "player": "Cedric Froger",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Tana, the Bloodsower",
                 "Yoshimaru, Ever Faithful"
@@ -658,7 +652,6 @@
             "deck_id": "512132",
             "rank": "5-8",
             "player": "Pierre Savignac",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Dihada, Binder of Wills"
             ],
@@ -768,7 +761,6 @@
             "deck_id": "512133",
             "rank": "5-8",
             "player": "Paul Combalbert",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Kinnan, Bonder Prodigy"
             ],

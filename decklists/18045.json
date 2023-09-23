@@ -10,7 +10,6 @@
             "deck_id": "311931",
             "rank": "2",
             "player": "Mass Mortensen",
-            "winrate": 0.8,
             "commander": [
                 "Jenara, Asura of War"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "311932",
             "rank": "1",
             "player": "Jeppe Risager",
-            "winrate": 1.0,
             "commander": [
                 "Zurgo Bellstriker"
             ],

@@ -10,7 +10,6 @@
             "deck_id": "313159",
             "rank": "3-4",
             "player": "Ben Milette",
-            "winrate": 0.8,
             "commander": [
                 "Xira Arien"
             ],
@@ -104,7 +103,6 @@
             "deck_id": "313160",
             "rank": "2",
             "player": "Nick Sirman",
-            "winrate": 0.8,
             "commander": [
                 "Reyhan, Last of the Abzan",
                 "Thrasios, Triton Hero"
@@ -208,7 +206,6 @@
             "deck_id": "313161",
             "rank": "1",
             "player": "Michael Wong",
-            "winrate": 1.0,
             "commander": [
                 "Prossh, Skyraider of Kher"
             ],
@@ -311,7 +308,6 @@
             "deck_id": "313169",
             "rank": "3-4",
             "player": "Chris Dionne",
-            "winrate": 0.8,
             "commander": [
                 "Ezuri, Claw of Progress"
             ],

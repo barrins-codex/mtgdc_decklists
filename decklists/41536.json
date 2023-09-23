@@ -10,7 +10,6 @@
             "deck_id": "508631",
             "rank": "1",
             "player": "Maxime Valentin",
-            "winrate": 0.8888888888888888,
             "commander": [
                 "Marath, Will of the Wild"
             ],
@@ -117,7 +116,6 @@
             "deck_id": "508632",
             "rank": "2",
             "player": "Antoine Coppens",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Karlov of the Ghost Council"
             ],
@@ -223,7 +221,6 @@
             "deck_id": "508633",
             "rank": "3-4",
             "player": "Ylan Le Bris",
-            "winrate": 0.75,
             "commander": [
                 "Feldon, Ronom Excavator"
             ],
@@ -311,7 +308,6 @@
             "deck_id": "508634",
             "rank": "3-4",
             "player": "Arnaud \"plaguerat\" Chalendard",
-            "winrate": 0.75,
             "commander": [
                 "Emmara, Soul of the Accord"
             ],
@@ -414,7 +410,6 @@
             "deck_id": "508635",
             "rank": "5-8",
             "player": "Johan Tridiel",
-            "winrate": 0.75,
             "commander": [
                 "Tana, the Bloodsower",
                 "Yoshimaru, Ever Faithful"
@@ -523,7 +518,6 @@
             "deck_id": "508636",
             "rank": "5-8",
             "player": "Guillaume \"totoroux\"  Duday-marlot",
-            "winrate": 0.75,
             "commander": [
                 "Light-Paws, Emperor's Voice"
             ],
@@ -604,7 +598,6 @@
             "deck_id": "508637",
             "rank": "5-8",
             "player": "Emilien Pichereau",
-            "winrate": 0.75,
             "commander": [
                 "Soul of Windgrace"
             ],
@@ -712,7 +705,6 @@
             "deck_id": "508638",
             "rank": "5-8",
             "player": "Jérémy Bellec",
-            "winrate": 0.75,
             "commander": [
                 "Dennick, Pious Apprentice"
             ],

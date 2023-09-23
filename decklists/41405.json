@@ -10,7 +10,6 @@
             "deck_id": "507559",
             "rank": "1",
             "player": "Nicolasp",
-            "winrate": 0.875,
             "commander": [
                 "Dihada, Binder of Wills"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "507560",
             "rank": "2",
             "player": "Skavout",
-            "winrate": 0.75,
             "commander": [
                 "Dihada, Binder of Wills"
             ],
@@ -230,7 +228,6 @@
             "deck_id": "507561",
             "rank": "3-4",
             "player": "Zankou",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Old Stickfingers"
             ],
@@ -331,7 +328,6 @@
             "deck_id": "507562",
             "rank": "3-4",
             "player": "Som40",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -441,7 +437,6 @@
             "deck_id": "507563",
             "rank": "5-8",
             "player": "Alexiskrempp",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Sidisi, Undead Vizier"
             ],
@@ -520,7 +515,6 @@
             "deck_id": "507564",
             "rank": "5-8",
             "player": "Hannibal44",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Niv-Mizzet Reborn"
             ],
@@ -630,7 +624,6 @@
             "deck_id": "507565",
             "rank": "5-8",
             "player": "Onesauk_",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Bruse Tarl, Boorish Herder",
                 "Yoshimaru, Ever Faithful"
@@ -733,7 +726,6 @@
             "deck_id": "507566",
             "rank": "5-8",
             "player": "Abibou",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Jeska, Thrice Reborn",
                 "Kraum, Ludevic's Opus"

@@ -10,7 +10,6 @@
             "deck_id": "365462",
             "rank": "1",
             "player": "Leclerc Maxime",
-            "winrate": 1.0,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -96,7 +95,6 @@
             "deck_id": "365463",
             "rank": "2",
             "player": "Baguet Mickael",
-            "winrate": 0.8,
             "commander": [
                 "Niv-Mizzet Reborn"
             ],

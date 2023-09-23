@@ -10,7 +10,6 @@
             "deck_id": "438127",
             "rank": "1",
             "player": "He Ying",
-            "winrate": 1.0,
             "commander": [
                 "Inalla, Archmage Ritualist"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "438192",
             "rank": "2",
             "player": "Yao Yao",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Narset, Enlightened Master"
             ],

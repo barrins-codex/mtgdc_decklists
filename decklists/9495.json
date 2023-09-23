@@ -10,7 +10,6 @@
             "deck_id": "254511",
             "rank": "1",
             "player": "Alexander \"newtraderdu78\" Loskoutoff",
-            "winrate": 0.875,
             "commander": [
                 "Grand Arbiter Augustin IV"
             ],
@@ -104,7 +103,6 @@
             "deck_id": "254512",
             "rank": "2",
             "player": "Antoine Watel",
-            "winrate": 0.75,
             "commander": [
                 "Animar, Soul of Elements"
             ],
@@ -210,7 +208,6 @@
             "deck_id": "254513",
             "rank": "3-4",
             "player": "Diego Rio",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Grand Arbiter Augustin IV"
             ],
@@ -308,7 +305,6 @@
             "deck_id": "254514",
             "rank": "3-4",
             "player": "Pierre-Jean Chaib",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Animar, Soul of Elements"
             ],
@@ -411,7 +407,6 @@
             "deck_id": "254515",
             "rank": "5-8",
             "player": "Nicolas Honnorat",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Grand Arbiter Augustin IV"
             ],
@@ -505,7 +500,6 @@
             "deck_id": "254516",
             "rank": "5-8",
             "player": "Christopher Lengline",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Sidisi, Brood Tyrant"
             ],
@@ -615,7 +609,6 @@
             "deck_id": "254517",
             "rank": "5-8",
             "player": "Antoine Marchand",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Sidisi, Brood Tyrant"
             ],
@@ -722,7 +715,6 @@
             "deck_id": "254518",
             "rank": "5-8",
             "player": "Vincent \"loops\" Poirier",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Karador, Ghost Chieftain"
             ],

@@ -10,7 +10,6 @@
             "deck_id": "305614",
             "rank": "3-4",
             "player": "David Cihak",
-            "winrate": 0.8,
             "commander": [
                 "Tymna the Weaver",
                 "Thrasios, Triton Hero"
@@ -120,7 +119,6 @@
             "deck_id": "305615",
             "rank": "2",
             "player": "Stefan Grijincu",
-            "winrate": 0.8,
             "commander": [
                 "Baral, Chief of Compliance"
             ],
@@ -200,7 +198,6 @@
             "deck_id": "305616",
             "rank": "1",
             "player": "Vojta Kotek",
-            "winrate": 1.0,
             "commander": [
                 "Tuktuk the Explorer"
             ],
@@ -284,7 +281,6 @@
             "deck_id": "305617",
             "rank": "3-4",
             "player": "Jakub Kral",
-            "winrate": 0.8,
             "commander": [
                 "Zurgo Bellstriker"
             ],

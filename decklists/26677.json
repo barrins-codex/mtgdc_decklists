@@ -10,7 +10,6 @@
             "deck_id": "406556",
             "rank": "1",
             "player": "Markus S.",
-            "winrate": 1.0,
             "commander": [
                 "Kroxa, Titan of Death's Hunger"
             ],
@@ -106,7 +105,6 @@
             "deck_id": "406557",
             "rank": "2",
             "player": "Samuel Z.",
-            "winrate": 0.8,
             "commander": [
                 "Akiri, Line-Slinger",
                 "Thrasios, Triton Hero"

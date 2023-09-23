@@ -10,7 +10,6 @@
             "deck_id": "460940",
             "rank": "1",
             "player": "William \"buisson\" Benaut",
-            "winrate": 0.9,
             "commander": [
                 "Niv-Mizzet Reborn"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "460941",
             "rank": "2",
             "player": "Thomas Volckmann",
-            "winrate": 0.8,
             "commander": [
                 "Niv-Mizzet Reborn"
             ],
@@ -230,7 +228,6 @@
             "deck_id": "460942",
             "rank": "3-4",
             "player": "Hervé Brocker",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Kroxa, Titan of Death's Hunger"
             ],
@@ -335,7 +332,6 @@
             "deck_id": "460943",
             "rank": "3-4",
             "player": "Charles Da Cunha",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Atraxa, Praetors' Voice"
             ],
@@ -445,7 +441,6 @@
             "deck_id": "460944",
             "rank": "5-8",
             "player": "Thomas Grillot",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Grenzo, Dungeon Warden"
             ],
@@ -545,7 +540,6 @@
             "deck_id": "460945",
             "rank": "5-8",
             "player": "Alan \"captaingalette\" Beuret",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Kinnan, Bonder Prodigy"
             ],
@@ -649,7 +643,6 @@
             "deck_id": "460946",
             "rank": "5-8",
             "player": "Thibaut Cantaluppi",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -738,7 +731,6 @@
             "deck_id": "460947",
             "rank": "5-8",
             "player": "Newtrader",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Livio, Oathsworn Sentinel",
                 "Kraum, Ludevic's Opus"
@@ -848,7 +840,6 @@
             "deck_id": "460948",
             "rank": "9",
             "player": "Yann Belmer",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -958,7 +949,6 @@
             "deck_id": "460949",
             "rank": "10",
             "player": "Baptiste Schmittlin",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Tevesh Szat, Doom of Fools",
                 "Ishai, Ojutai Dragonspeaker"
@@ -1068,7 +1058,6 @@
             "deck_id": "460950",
             "rank": "11",
             "player": "Florian Dhomps",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -1156,7 +1145,6 @@
             "deck_id": "460951",
             "rank": "12",
             "player": "Florian Trotte",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Esika, God of the Tree"
             ],
@@ -1266,7 +1254,6 @@
             "deck_id": "460952",
             "rank": "13",
             "player": "Thomas Bagdadlian",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -1376,7 +1363,6 @@
             "deck_id": "460953",
             "rank": "14",
             "player": "Nagggash",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Hogaak, Arisen Necropolis"
             ],
@@ -1486,7 +1472,6 @@
             "deck_id": "460954",
             "rank": "15",
             "player": "Etienne \"woordz\" Tehrani",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Livio, Oathsworn Sentinel",
                 "Kraum, Ludevic's Opus"
@@ -1596,7 +1581,6 @@
             "deck_id": "460955",
             "rank": "16",
             "player": "Huun",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Kraum, Ludevic's Opus",
                 "Armix, Filigree Thrasher"

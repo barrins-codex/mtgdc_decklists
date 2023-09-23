@@ -10,7 +10,6 @@
             "deck_id": "229029",
             "rank": "1",
             "player": "Randy De Rueda  Team Chopsuey",
-            "winrate": 0.8888888888888888,
             "commander": [
                 "Grand Arbiter Augustin IV"
             ],
@@ -111,7 +110,6 @@
             "deck_id": "229030",
             "rank": "1",
             "player": "Mik Regalado",
-            "winrate": 0.8888888888888888,
             "commander": [
                 "Doran, the Siege Tower"
             ],
@@ -221,7 +219,6 @@
             "deck_id": "229031",
             "rank": "3-4",
             "player": "Ted Suaco",
-            "winrate": 0.75,
             "commander": [
                 "Captain Sisay"
             ],
@@ -322,7 +319,6 @@
             "deck_id": "229032",
             "rank": "3-4",
             "player": "Simon Floreza",
-            "winrate": 0.75,
             "commander": [
                 "Maelstrom Wanderer"
             ],
@@ -425,7 +421,6 @@
             "deck_id": "229033",
             "rank": "5-8",
             "player": "Ric Monteverde  Team Chopsuey",
-            "winrate": 0.75,
             "commander": [
                 "Zur the Enchanter"
             ],
@@ -534,7 +529,6 @@
             "deck_id": "229034",
             "rank": "5-8",
             "player": "Michael Rabanal",
-            "winrate": 0.75,
             "commander": [
                 "Skithiryx, the Blight Dragon"
             ],
@@ -616,7 +610,6 @@
             "deck_id": "229035",
             "rank": "5-8",
             "player": "Roy Rivero",
-            "winrate": 0.75,
             "commander": [
                 "The Mimeoplasm"
             ],
@@ -722,7 +715,6 @@
             "deck_id": "229036",
             "rank": "5-8",
             "player": "Raymond Sia",
-            "winrate": 0.75,
             "commander": [
                 "Sharuum the Hegemon"
             ],

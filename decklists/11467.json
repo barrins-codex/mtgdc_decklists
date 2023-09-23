@@ -10,7 +10,6 @@
             "deck_id": "265140",
             "rank": "8",
             "player": "Alex Girelli",
-            "winrate": 0.6,
             "commander": [
                 "Maelstrom Wanderer"
             ],
@@ -110,7 +109,6 @@
             "deck_id": "265141",
             "rank": "6",
             "player": "Stefano Scardino",
-            "winrate": 0.6,
             "commander": [
                 "Wydwen, the Biting Gale"
             ],
@@ -211,7 +209,6 @@
             "deck_id": "265142",
             "rank": "7",
             "player": "Alessandro Calò",
-            "winrate": 0.6,
             "commander": [
                 "Keranos, God of Storms"
             ],
@@ -303,7 +300,6 @@
             "deck_id": "265143",
             "rank": "4",
             "player": "Mauro Conti",
-            "winrate": 0.8,
             "commander": [
                 "Grenzo, Dungeon Warden"
             ],
@@ -400,7 +396,6 @@
             "deck_id": "265144",
             "rank": "3",
             "player": "Francesco Belvedere",
-            "winrate": 0.8,
             "commander": [
                 "Titania, Protector of Argoth"
             ],
@@ -490,7 +485,6 @@
             "deck_id": "265145",
             "rank": "2",
             "player": "David Rodriguez Targa",
-            "winrate": 0.8,
             "commander": [
                 "Tasigur, the Golden Fang"
             ],
@@ -598,7 +592,6 @@
             "deck_id": "265146",
             "rank": "1",
             "player": "Andrea De Gradi",
-            "winrate": 1.0,
             "commander": [
                 "Gaddock Teeg"
             ],
@@ -702,7 +695,6 @@
             "deck_id": "265147",
             "rank": "5",
             "player": "Michele Atzeni",
-            "winrate": 0.6,
             "commander": [
                 "Grand Arbiter Augustin IV"
             ],

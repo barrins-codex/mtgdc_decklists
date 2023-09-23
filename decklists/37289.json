@@ -10,7 +10,6 @@
             "deck_id": "479723",
             "rank": "1",
             "player": "Marcelino",
-            "winrate": 1.0,
             "commander": [
                 "Rhonas the Indomitable"
             ],
@@ -84,7 +83,6 @@
             "deck_id": "479724",
             "rank": "2",
             "player": "Brendon",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Torbran, Thane of Red Fell"
             ],

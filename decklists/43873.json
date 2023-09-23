@@ -10,7 +10,6 @@
             "deck_id": "523811",
             "rank": "1",
             "player": "Pierre Almaraz",
-            "winrate": 1.0,
             "commander": [
                 "Dennick, Pious Apprentice"
             ],
@@ -111,7 +110,6 @@
             "deck_id": "523812",
             "rank": "2",
             "player": "Dylan Barbier",
-            "winrate": 0.8,
             "commander": [
                 "Feldon, Ronom Excavator"
             ],
@@ -197,7 +195,6 @@
             "deck_id": "523813",
             "rank": "3-4",
             "player": "Laurent Maillier",
-            "winrate": 0.8,
             "commander": [
                 "Yoshimaru, Ever Faithful",
                 "Ludevic, Necro-Alchemist"
@@ -307,7 +304,6 @@
             "deck_id": "523814",
             "rank": "3-4",
             "player": "Adrien Gaudemard",
-            "winrate": 0.8,
             "commander": [
                 "The Beamtown Bullies"
             ],
@@ -417,7 +413,6 @@
             "deck_id": "523815",
             "rank": "5-8",
             "player": "Anthony Petrowiche",
-            "winrate": 0.6,
             "commander": [
                 "Bruse Tarl, Boorish Herder",
                 "Yoshimaru, Ever Faithful"
@@ -516,7 +511,6 @@
             "deck_id": "523816",
             "rank": "5-8",
             "player": "Alexandre Andouard",
-            "winrate": 0.6,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -626,7 +620,6 @@
             "deck_id": "523817",
             "rank": "5-8",
             "player": "Brice Lamar",
-            "winrate": 0.6,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -736,7 +729,6 @@
             "deck_id": "523818",
             "rank": "5-8",
             "player": "Cyril Tournier",
-            "winrate": 0.6,
             "commander": [
                 "The Ur-Dragon"
             ],

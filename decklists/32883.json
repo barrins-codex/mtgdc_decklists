@@ -10,7 +10,6 @@
             "deck_id": "451848",
             "rank": "1",
             "player": "Barney Kiunisala",
-            "winrate": 1.0,
             "commander": [
                 "Winota, Joiner of Forces"
             ],
@@ -110,7 +109,6 @@
             "deck_id": "451849",
             "rank": "2",
             "player": "Martin Hildawa",
-            "winrate": 0.8,
             "commander": [
                 "Leovold, Emissary of Trest"
             ],
@@ -220,7 +218,6 @@
             "deck_id": "451850",
             "rank": "3-4",
             "player": "Patrick Padilla",
-            "winrate": 0.8,
             "commander": [
                 "Hogaak, Arisen Necropolis"
             ],
@@ -330,7 +327,6 @@
             "deck_id": "451851",
             "rank": "3-4",
             "player": "Rusty Capricho",
-            "winrate": 0.8,
             "commander": [
                 "Kroxa, Titan of Death's Hunger"
             ],

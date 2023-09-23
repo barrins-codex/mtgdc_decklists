@@ -10,7 +10,6 @@
             "deck_id": "420394",
             "rank": "1",
             "player": "Agustin Ireneo",
-            "winrate": 1.0,
             "commander": [
                 "Nissa, Vastwood Seer"
             ],
@@ -101,7 +100,6 @@
             "deck_id": "420395",
             "rank": "2",
             "player": "Paul Relativo",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Niv-Mizzet Reborn"
             ],

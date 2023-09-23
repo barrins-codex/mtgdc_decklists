@@ -10,7 +10,6 @@
             "deck_id": "247674",
             "rank": "1",
             "player": "Stephen Rosenthal",
-            "winrate": 1.0,
             "commander": [
                 "Geist of Saint Traft"
             ],
@@ -112,7 +111,6 @@
             "deck_id": "247675",
             "rank": "2",
             "player": "Rich Grimes",
-            "winrate": 0.8,
             "commander": [
                 "Maelstrom Wanderer"
             ],

@@ -10,7 +10,6 @@
             "deck_id": "486654",
             "rank": "1",
             "player": "Jules \"askeladden\" Lestienne",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Grist, the Hunger Tide"
             ],
@@ -112,7 +111,6 @@
             "deck_id": "486655",
             "rank": "2",
             "player": "Théo \"nostiga\" Couppey",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Lurrus of the Dream-Den",
                 "Wernog, Rider's Chaplain",
@@ -223,7 +221,6 @@
             "deck_id": "486656",
             "rank": "3-4",
             "player": "Thibaut \"thibs\" Huss",
-            "winrate": 0.625,
             "commander": [
                 "Immard, the Stormcleaver"
             ],
@@ -330,7 +327,6 @@
             "deck_id": "486657",
             "rank": "3-4",
             "player": "Mathieu \"moltes\" Cunrath",
-            "winrate": 0.625,
             "commander": [
                 "Niv-Mizzet Reborn"
             ],
@@ -440,7 +436,6 @@
             "deck_id": "486658",
             "rank": "5-8",
             "player": "Nicolas Prail",
-            "winrate": 0.625,
             "commander": [
                 "Grist, the Hunger Tide"
             ],
@@ -540,7 +535,6 @@
             "deck_id": "486659",
             "rank": "5-8",
             "player": "Alexis \"faerion\" Eck",
-            "winrate": 0.625,
             "commander": [
                 "Selvala, Heart of the Wilds"
             ],
@@ -626,7 +620,6 @@
             "deck_id": "486660",
             "rank": "5-8",
             "player": "Valentin \"valdorange\" Orange",
-            "winrate": 0.625,
             "commander": [
                 "The Beamtown Bullies"
             ],
@@ -736,7 +729,6 @@
             "deck_id": "486661",
             "rank": "5-8",
             "player": "Sebastian Ziesche",
-            "winrate": 0.625,
             "commander": [
                 "Dennick, Pious Apprentice"
             ],

@@ -10,7 +10,6 @@
             "deck_id": "538443",
             "rank": "1",
             "player": "Brennan Mcalear",
-            "winrate": 1.0,
             "commander": [
                 "Kess, Dissident Mage"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "538444",
             "rank": "2",
             "player": "Neil Newman",
-            "winrate": 0.8,
             "commander": [
                 "General Ferrous Rokiric"
             ],
@@ -222,7 +220,6 @@
             "deck_id": "538445",
             "rank": "3-4",
             "player": "Anthony Vasaturo",
-            "winrate": 0.6,
             "commander": [
                 "Tana, the Bloodsower",
                 "Yoshimaru, Ever Faithful"
@@ -332,7 +329,6 @@
             "deck_id": "538446",
             "rank": "3-4",
             "player": "Jayme Mcbride",
-            "winrate": 0.6,
             "commander": [
                 "Kess, Dissident Mage"
             ],

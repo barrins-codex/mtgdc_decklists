@@ -10,7 +10,6 @@
             "deck_id": "511227",
             "rank": "1",
             "player": "Samuel Martins",
-            "winrate": 1.0,
             "commander": [
                 "The Beamtown Bullies"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "511228",
             "rank": "2",
             "player": "Douglas Pacifico",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Octavia, Living Thesis"
             ],
@@ -204,7 +202,6 @@
             "deck_id": "511229",
             "rank": "3",
             "player": "Gustavo Silva",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Grist, the Hunger Tide"
             ],
@@ -303,7 +300,6 @@
             "deck_id": "511230",
             "rank": "4",
             "player": "Guilherme Bellagente",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],

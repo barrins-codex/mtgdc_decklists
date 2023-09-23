@@ -10,7 +10,6 @@
             "deck_id": "450507",
             "rank": "1",
             "player": "Pierre Huet",
-            "winrate": 1.0,
             "commander": [
                 "Narset, Enlightened Master"
             ],
@@ -107,7 +106,6 @@
             "deck_id": "450508",
             "rank": "2",
             "player": "Hugo Dodelib",
-            "winrate": 0.8,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],

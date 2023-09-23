@@ -10,7 +10,6 @@
             "deck_id": "464071",
             "rank": "1",
             "player": "Christopher \"venice\" Wilhelm",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Kinnan, Bonder Prodigy"
             ],
@@ -111,7 +110,6 @@
             "deck_id": "464072",
             "rank": "2",
             "player": "Ben Hackländer",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Sai, Master Thopterist"
             ],
@@ -203,7 +201,6 @@
             "deck_id": "464073",
             "rank": "3-4",
             "player": "Markus Schäfer",
-            "winrate": 0.625,
             "commander": [
                 "The Gitrog Monster"
             ],
@@ -307,7 +304,6 @@
             "deck_id": "464074",
             "rank": "3-4",
             "player": "Marco Del Grosso",
-            "winrate": 0.625,
             "commander": [
                 "Jegantha, the Wellspring",
                 "Sisay, Weatherlight Captain"
@@ -418,7 +414,6 @@
             "deck_id": "464075",
             "rank": "5-8",
             "player": "Jonas Kretzschmar",
-            "winrate": 0.625,
             "commander": [
                 "The Gitrog Monster"
             ],
@@ -518,7 +513,6 @@
             "deck_id": "464076",
             "rank": "5-8",
             "player": "Giuseppe Iacono",
-            "winrate": 0.625,
             "commander": [
                 "Minsc, Beloved Ranger"
             ],
@@ -628,7 +622,6 @@
             "deck_id": "464077",
             "rank": "5-8",
             "player": "Bitzelberg",
-            "winrate": 0.625,
             "commander": [
                 "Marath, Will of the Wild"
             ],
@@ -738,7 +731,6 @@
             "deck_id": "464078",
             "rank": "5-8",
             "player": "Hüseyin Balikci",
-            "winrate": 0.625,
             "commander": [
                 "Sythis, Harvest's Hand"
             ],

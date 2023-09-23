@@ -10,7 +10,6 @@
             "deck_id": "548486",
             "rank": "1",
             "player": "Damienade",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Lurrus of the Dream-Den",
                 "Wernog, Rider's Chaplain",
@@ -121,7 +120,6 @@
             "deck_id": "548487",
             "rank": "2",
             "player": "Matthieu Mizac",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Flamewar, Brash Veteran",
                 "Balloon Stand",
@@ -229,7 +227,6 @@
             "deck_id": "548488",
             "rank": "3-4",
             "player": "Damien Jantzen \"eventwin\"",
-            "winrate": 0.625,
             "commander": [
                 "Teferi, Temporal Archmage"
             ],
@@ -303,7 +300,6 @@
             "deck_id": "548489",
             "rank": "3-4",
             "player": "Canonici Jean-baptiste",
-            "winrate": 0.625,
             "commander": [
                 "Ertai Resurrected"
             ],

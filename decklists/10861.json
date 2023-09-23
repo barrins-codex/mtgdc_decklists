@@ -10,7 +10,6 @@
             "deck_id": "262050",
             "rank": "2",
             "player": "Andrea Rostellato",
-            "winrate": 0.8,
             "commander": [
                 "Doran, the Siege Tower"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "262051",
             "rank": "1",
             "player": "Simone Molaro",
-            "winrate": 1.0,
             "commander": [
                 "Titania, Protector of Argoth"
             ],

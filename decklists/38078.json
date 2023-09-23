@@ -10,7 +10,6 @@
             "deck_id": "484800",
             "rank": "1",
             "player": "Pablo Lima",
-            "winrate": 1.0,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -93,7 +92,6 @@
             "deck_id": "484801",
             "rank": "2",
             "player": "Carlos \"gordo\" Pires",
-            "winrate": 0.8,
             "commander": [
                 "Ludevic, Necro-Alchemist",
                 "Jeska, Thrice Reborn"
@@ -191,7 +189,6 @@
             "deck_id": "484802",
             "rank": "3",
             "player": "Rodrigo Torres",
-            "winrate": 0.8,
             "commander": [
                 "Grist, the Hunger Tide"
             ],
@@ -298,7 +295,6 @@
             "deck_id": "484803",
             "rank": "4",
             "player": "João Paulo Pontes",
-            "winrate": 0.6,
             "commander": [
                 "Grand Arbiter Augustin IV"
             ],
@@ -400,7 +396,6 @@
             "deck_id": "484804",
             "rank": "5",
             "player": "Victor Burghi",
-            "winrate": 0.6,
             "commander": [
                 "Saskia the Unyielding"
             ],
@@ -510,7 +505,6 @@
             "deck_id": "484805",
             "rank": "6",
             "player": "Orlando Bibiano",
-            "winrate": 0.6,
             "commander": [
                 "Niv-Mizzet Reborn"
             ],

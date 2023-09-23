@@ -10,7 +10,6 @@
             "deck_id": "285167",
             "rank": "2",
             "player": "Ak Ali",
-            "winrate": 0.8,
             "commander": [
                 "Prossh, Skyraider of Kher"
             ],
@@ -117,7 +116,6 @@
             "deck_id": "285168",
             "rank": "1",
             "player": "Michele Atzeni",
-            "winrate": 1.0,
             "commander": [
                 "Kraum, Ludevic's Opus",
                 "Vial Smasher the Fierce"

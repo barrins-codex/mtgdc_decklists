@@ -10,7 +10,6 @@
             "deck_id": "547199",
             "rank": "1",
             "player": "Bi Siqi",
-            "winrate": 1.0,
             "commander": [
                 "Dennick, Pious Apprentice"
             ],
@@ -112,7 +111,6 @@
             "deck_id": "547200",
             "rank": "2",
             "player": "Yu Hang",
-            "winrate": 0.8,
             "commander": [
                 "Aragorn, the Uniter"
             ],
@@ -222,7 +220,6 @@
             "deck_id": "547201",
             "rank": "3",
             "player": "Zhang Xu",
-            "winrate": 0.6,
             "commander": [
                 "Old Rutstein"
             ],

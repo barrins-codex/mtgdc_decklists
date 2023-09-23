@@ -10,7 +10,6 @@
             "deck_id": "441795",
             "rank": "1",
             "player": "Lucas Feliz",
-            "winrate": 1.0,
             "commander": [
                 "Octavia, Living Thesis"
             ],
@@ -94,7 +93,6 @@
             "deck_id": "441796",
             "rank": "2",
             "player": "Ivan Bais",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Esika, God of the Tree"
             ],

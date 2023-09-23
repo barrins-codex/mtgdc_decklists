@@ -10,7 +10,6 @@
             "deck_id": "547562",
             "rank": "1",
             "player": "Mario Antonio Rodrigues",
-            "winrate": 1.0,
             "commander": [
                 "Ardoz, Cobbler of War"
             ],
@@ -95,7 +94,6 @@
             "deck_id": "547563",
             "rank": "2",
             "player": "Vitor Henrique Broto",
-            "winrate": 0.8,
             "commander": [
                 "Kinnan, Bonder Prodigy"
             ],
@@ -186,7 +184,6 @@
             "deck_id": "547564",
             "rank": "3-4",
             "player": "Jhonatan Deleon (deleon91)",
-            "winrate": 0.8,
             "commander": [
                 "Torbran, Thane of Red Fell"
             ],
@@ -271,7 +268,6 @@
             "deck_id": "547565",
             "rank": "3-4",
             "player": "Luis Carlos Malamao",
-            "winrate": 0.8,
             "commander": [
                 "Balmor, Battlemage Captain"
             ],
@@ -359,7 +355,6 @@
             "deck_id": "547566",
             "rank": "5-8",
             "player": "Alessandro Hirayama",
-            "winrate": 0.6,
             "commander": [
                 "Dragonlord Ojutai"
             ],
@@ -445,7 +440,6 @@
             "deck_id": "547567",
             "rank": "5-8",
             "player": "Joao Victor Araujo Peppe",
-            "winrate": 0.6,
             "commander": [
                 "Elminster"
             ],
@@ -537,7 +531,6 @@
             "deck_id": "547568",
             "rank": "5-8",
             "player": "Francisco Carlos De Souza Junior",
-            "winrate": 0.6,
             "commander": [
                 "Light-Paws, Emperor's Voice"
             ],
@@ -623,7 +616,6 @@
             "deck_id": "547569",
             "rank": "5-8",
             "player": "Gustavo Pagnosi",
-            "winrate": 0.6,
             "commander": [
                 "Gix, Yawgmoth Praetor"
             ],

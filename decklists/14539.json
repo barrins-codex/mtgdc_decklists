@@ -10,7 +10,6 @@
             "deck_id": "287204",
             "rank": "5-8",
             "player": "Moncana",
-            "winrate": 0.75,
             "commander": [
                 "Karlov of the Ghost Council"
             ],
@@ -109,7 +108,6 @@
             "deck_id": "287205",
             "rank": "5-8",
             "player": "Roman Leconte",
-            "winrate": 0.75,
             "commander": [
                 "Bruse Tarl, Boorish Herder",
                 "Akiri, Line-Slinger"
@@ -202,7 +200,6 @@
             "deck_id": "287206",
             "rank": "5-8",
             "player": "Alexandre Carabias",
-            "winrate": 0.75,
             "commander": [
                 "Breya, Etherium Shaper"
             ],
@@ -312,7 +309,6 @@
             "deck_id": "287207",
             "rank": "5-8",
             "player": "Guillaume Venny",
-            "winrate": 0.75,
             "commander": [
                 "Zurgo Bellstriker"
             ],
@@ -392,7 +388,6 @@
             "deck_id": "287208",
             "rank": "3-4",
             "player": "Ugo Scaramelli",
-            "winrate": 0.75,
             "commander": [
                 "Breya, Etherium Shaper"
             ],
@@ -502,7 +497,6 @@
             "deck_id": "287209",
             "rank": "3-4",
             "player": "Victor Lavialle",
-            "winrate": 0.75,
             "commander": [
                 "Jace, Vryn's Prodigy"
             ],
@@ -577,7 +571,6 @@
             "deck_id": "287210",
             "rank": "2",
             "player": "Alexander \"newtraderdu78\" Loskoutoff",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Bruse Tarl, Boorish Herder",
                 "Reyhan, Last of the Abzan"
@@ -687,7 +680,6 @@
             "deck_id": "287211",
             "rank": "2",
             "player": "Kaourintin \"falaakr\" Le Guiban",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Breya, Etherium Shaper"
             ],

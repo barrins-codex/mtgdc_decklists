@@ -10,7 +10,6 @@
             "deck_id": "474664",
             "rank": "1",
             "player": "Rexel Tenorio",
-            "winrate": 1.0,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "474665",
             "rank": "2",
             "player": "Ken Decena",
-            "winrate": 0.8,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -201,7 +199,6 @@
             "deck_id": "474666",
             "rank": "3-4",
             "player": "Ian Paul Roa",
-            "winrate": 0.8,
             "commander": [
                 "The Beamtown Bullies"
             ],
@@ -298,7 +295,6 @@
             "deck_id": "474667",
             "rank": "3-4",
             "player": "Cilbert Corpuz",
-            "winrate": 0.8,
             "commander": [
                 "Giada, Font of Hope"
             ],

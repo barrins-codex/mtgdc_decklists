@@ -10,7 +10,6 @@
             "deck_id": "507124",
             "rank": "1",
             "player": "Jordan Bizon",
-            "winrate": 1.0,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "507125",
             "rank": "2",
             "player": "Kevin Brandon",
-            "winrate": 0.8,
             "commander": [
                 "Urza, Chief Artificer"
             ],
@@ -230,7 +228,6 @@
             "deck_id": "507126",
             "rank": "3-4",
             "player": "Fabien Gilbert",
-            "winrate": 0.8,
             "commander": [
                 "Tivit, Seller of Secrets"
             ],
@@ -340,7 +337,6 @@
             "deck_id": "507127",
             "rank": "3-4",
             "player": "Oliver Mickael",
-            "winrate": 0.8,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],

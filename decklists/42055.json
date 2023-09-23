@@ -10,7 +10,6 @@
             "deck_id": "511843",
             "rank": "1",
             "player": "Pavel Tvrznik",
-            "winrate": 1.0,
             "commander": [
                 "Lurrus of the Dream-Den"
             ],
@@ -111,7 +110,6 @@
             "deck_id": "511844",
             "rank": "2",
             "player": "Vadim Savinskii",
-            "winrate": 0.8,
             "commander": [
                 "Hogaak, Arisen Necropolis"
             ],
@@ -221,7 +219,6 @@
             "deck_id": "511845",
             "rank": "3",
             "player": "Roman Vejdelek",
-            "winrate": 0.8,
             "commander": [
                 "Niv-Mizzet Reborn"
             ],
@@ -331,7 +328,6 @@
             "deck_id": "511846",
             "rank": "4",
             "player": "Pavel Gric",
-            "winrate": 0.8,
             "commander": [
                 "Niv-Mizzet Reborn"
             ],
@@ -441,7 +437,6 @@
             "deck_id": "511847",
             "rank": "5",
             "player": "David \"anki\" Tran",
-            "winrate": 0.6,
             "commander": [
                 "Atraxa, Grand Unifier"
             ],
@@ -551,7 +546,6 @@
             "deck_id": "511848",
             "rank": "6",
             "player": "Petr Stefan",
-            "winrate": 0.6,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -661,7 +655,6 @@
             "deck_id": "511849",
             "rank": "7",
             "player": "Jan Stefan",
-            "winrate": 0.6,
             "commander": [
                 "Dihada, Binder of Wills"
             ],
@@ -765,7 +758,6 @@
             "deck_id": "511850",
             "rank": "8",
             "player": "David Simeonov",
-            "winrate": 0.6,
             "commander": [
                 "Jeska, Thrice Reborn",
                 "Kraum, Ludevic's Opus"

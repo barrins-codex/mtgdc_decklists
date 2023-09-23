@@ -10,7 +10,6 @@
             "deck_id": "510371",
             "rank": "1",
             "player": "He Ying",
-            "winrate": 1.0,
             "commander": [
                 "Jegantha, the Wellspring",
                 "Sisay, Weatherlight Captain"
@@ -121,7 +120,6 @@
             "deck_id": "510372",
             "rank": "2",
             "player": "Shen Junkai",
-            "winrate": 0.8,
             "commander": [
                 "Hogaak, Arisen Necropolis"
             ],
@@ -230,7 +228,6 @@
             "deck_id": "510373",
             "rank": "3-4",
             "player": "Zhang Cang",
-            "winrate": 0.6,
             "commander": [
                 "Oswald Fiddlebender"
             ],
@@ -319,7 +316,6 @@
             "deck_id": "510374",
             "rank": "3-4",
             "player": "Zhou Rui",
-            "winrate": 0.6,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],

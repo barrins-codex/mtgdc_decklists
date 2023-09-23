@@ -10,7 +10,6 @@
             "deck_id": "234382",
             "rank": "1",
             "player": "Janji Naling",
-            "winrate": 1.0,
             "commander": [
                 "Zur the Enchanter"
             ],
@@ -116,7 +115,6 @@
             "deck_id": "234383",
             "rank": "1",
             "player": "Gerry Ramos",
-            "winrate": 1.0,
             "commander": [
                 "Geist of Saint Traft"
             ],
@@ -217,7 +215,6 @@
             "deck_id": "234384",
             "rank": "1",
             "player": "Lawrence Follero",
-            "winrate": 1.0,
             "commander": [
                 "Geist of Saint Traft"
             ],
@@ -316,7 +313,6 @@
             "deck_id": "234385",
             "rank": "1",
             "player": "Juin Paul San Juan  Team Happy Meal",
-            "winrate": 1.0,
             "commander": [
                 "Maelstrom Wanderer"
             ],

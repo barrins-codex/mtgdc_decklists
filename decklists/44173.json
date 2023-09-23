@@ -10,7 +10,6 @@
             "deck_id": "525999",
             "rank": "1",
             "player": "Fernando \"yprincipe\" Martin",
-            "winrate": 1.0,
             "commander": [
                 "Tana, the Bloodsower",
                 "Yoshimaru, Ever Faithful"
@@ -116,7 +115,6 @@
             "deck_id": "526000",
             "rank": "2",
             "player": "Orlando Bibiano",
-            "winrate": 0.8,
             "commander": [
                 "Goro-Goro and Satoru"
             ],
@@ -226,7 +224,6 @@
             "deck_id": "526001",
             "rank": "3",
             "player": "Thiago Saporito",
-            "winrate": 0.6,
             "commander": [
                 "Feldon, Ronom Excavator"
             ],

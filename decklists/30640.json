@@ -10,7 +10,6 @@
             "deck_id": "438867",
             "rank": "1",
             "player": "Josh Fuentes",
-            "winrate": 1.0,
             "commander": [
                 "Tevesh Szat, Doom of Fools",
                 "Kraum, Ludevic's Opus"
@@ -120,7 +119,6 @@
             "deck_id": "438868",
             "rank": "2",
             "player": "Ste Villaraza",
-            "winrate": 0.8,
             "commander": [
                 "Miara, Thorn of the Glade",
                 "Tevesh Szat, Doom of Fools"
@@ -206,7 +204,6 @@
             "deck_id": "438869",
             "rank": "3-4",
             "player": "Aaron Blue Pumanes",
-            "winrate": 0.6,
             "commander": [
                 "Winota, Joiner of Forces"
             ],
@@ -310,7 +307,6 @@
             "deck_id": "438870",
             "rank": "3-4",
             "player": "Reuben Ferrer",
-            "winrate": 0.6,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],

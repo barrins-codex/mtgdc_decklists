@@ -10,7 +10,6 @@
             "deck_id": "522028",
             "rank": "1",
             "player": "Krebs Cédric - Cedric57200",
-            "winrate": 1.0,
             "commander": [
                 "Feldon, Ronom Excavator"
             ],
@@ -98,7 +97,6 @@
             "deck_id": "522029",
             "rank": "2",
             "player": "Mollon Valentin - Peppercarrot",
-            "winrate": 0.8,
             "commander": [
                 "Dihada, Binder of Wills"
             ],
@@ -208,7 +206,6 @@
             "deck_id": "522030",
             "rank": "3-4",
             "player": "Scheffer Dimitri - Moebius",
-            "winrate": 0.8,
             "commander": [
                 "Balmor, Battlemage Captain"
             ],
@@ -309,7 +306,6 @@
             "deck_id": "522031",
             "rank": "3-4",
             "player": "Blaise Jean-philippe - Idji",
-            "winrate": 0.8,
             "commander": [
                 "Karlov of the Ghost Council"
             ],
@@ -406,7 +402,6 @@
             "deck_id": "522032",
             "rank": "5-8",
             "player": "Gottfried Thiébaut - Asmadeur",
-            "winrate": 0.6,
             "commander": [
                 "Minsc, Beloved Ranger"
             ],
@@ -513,7 +508,6 @@
             "deck_id": "522033",
             "rank": "5-8",
             "player": "Bisson Andréa - Sunnysid",
-            "winrate": 0.6,
             "commander": [
                 "Sythis, Harvest's Hand"
             ],
@@ -611,7 +605,6 @@
             "deck_id": "522034",
             "rank": "5-8",
             "player": "Neumann Dylan - Noobawow",
-            "winrate": 0.6,
             "commander": [
                 "Ertai Resurrected"
             ],
@@ -711,7 +704,6 @@
             "deck_id": "522035",
             "rank": "5-8",
             "player": "Urset Antoine - Christophini",
-            "winrate": 0.6,
             "commander": [
                 "Niv-Mizzet Reborn"
             ],

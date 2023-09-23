@@ -10,7 +10,6 @@
             "deck_id": "503347",
             "rank": "1",
             "player": "Alexis Mommée",
-            "winrate": 1.0,
             "commander": [
                 "Niv-Mizzet Reborn"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "503348",
             "rank": "2",
             "player": "Clément Selles",
-            "winrate": 0.8,
             "commander": [
                 "Jeska, Thrice Reborn",
                 "Kraum, Ludevic's Opus"
@@ -217,7 +215,6 @@
             "deck_id": "503349",
             "rank": "3-4",
             "player": "Domino Pernes",
-            "winrate": 0.8,
             "commander": [
                 "Sword Coast Sailor",
                 "Wilson, Refined Grizzly"
@@ -317,7 +314,6 @@
             "deck_id": "503350",
             "rank": "3-4",
             "player": "Damienade",
-            "winrate": 0.8,
             "commander": [
                 "Cecily, Haunted Mage",
                 "Wernog, Rider's Chaplain"
@@ -427,7 +423,6 @@
             "deck_id": "503351",
             "rank": "5-8",
             "player": "Quentin T",
-            "winrate": 0.6,
             "commander": [
                 "Klothys, God of Destiny"
             ],
@@ -440,7 +435,6 @@
             "deck_id": "503352",
             "rank": "5-8",
             "player": "Ambroise Berthe",
-            "winrate": 0.6,
             "commander": [
                 "Acererak the Archlich"
             ],
@@ -512,7 +506,6 @@
             "deck_id": "503353",
             "rank": "5-8",
             "player": "Lucas Forlacroix",
-            "winrate": 0.6,
             "commander": [
                 "The Ur-Dragon"
             ],
@@ -622,7 +615,6 @@
             "deck_id": "503354",
             "rank": "5-8",
             "player": "Sébastien Rhaegar",
-            "winrate": 0.6,
             "commander": [
                 "Kelsien, the Plague"
             ],

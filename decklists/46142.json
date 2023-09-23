@@ -10,7 +10,6 @@
             "deck_id": "540887",
             "rank": "1",
             "player": "Hugo Shelling",
-            "winrate": 1.0,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "540888",
             "rank": "2",
             "player": "Carlos Pires",
-            "winrate": 0.8,
             "commander": [
                 "Ertai Resurrected"
             ],
@@ -213,7 +211,6 @@
             "deck_id": "540889",
             "rank": "3-4",
             "player": "Lucas Dias",
-            "winrate": 0.6,
             "commander": [
                 "Aragorn, King of Gondor"
             ],
@@ -320,7 +317,6 @@
             "deck_id": "540890",
             "rank": "3-4",
             "player": "Leonardo Maeda",
-            "winrate": 0.6,
             "commander": [
                 "Minsc, Beloved Ranger"
             ],

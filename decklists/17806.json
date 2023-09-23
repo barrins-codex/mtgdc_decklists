@@ -10,7 +10,6 @@
             "deck_id": "310392",
             "rank": "5-8",
             "player": "Christian \"cj\" Mendoza",
-            "winrate": 0.6,
             "commander": [
                 "Yisan, the Wanderer Bard"
             ],
@@ -96,7 +95,6 @@
             "deck_id": "310393",
             "rank": "1",
             "player": "Audwin \"no-cut\" Abellera",
-            "winrate": 1.0,
             "commander": [
                 "Zurgo Bellstriker"
             ],
@@ -174,7 +172,6 @@
             "deck_id": "310394",
             "rank": "2",
             "player": "\"doc\" Roland Alipio",
-            "winrate": 0.8,
             "commander": [
                 "The Scarab God"
             ],
@@ -271,7 +268,6 @@
             "deck_id": "310395",
             "rank": "3-4",
             "player": "Patrick Abrazado",
-            "winrate": 0.8,
             "commander": [
                 "The Gitrog Monster"
             ],
@@ -369,7 +365,6 @@
             "deck_id": "310396",
             "rank": "5-8",
             "player": "Oryx \"hoser Lord\" Coilan",
-            "winrate": 0.6,
             "commander": [
                 "Zurgo Bellstriker"
             ],
@@ -449,7 +444,6 @@
             "deck_id": "310397",
             "rank": "5-8",
             "player": "Ian Cachin",
-            "winrate": 0.6,
             "commander": [
                 "Karlov of the Ghost Council"
             ],
@@ -538,7 +532,6 @@
             "deck_id": "310398",
             "rank": "3-4",
             "player": "Christian \"dory\" Doriano",
-            "winrate": 0.8,
             "commander": [
                 "Thalia, Guardian of Thraben"
             ],
@@ -613,7 +606,6 @@
             "deck_id": "310399",
             "rank": "5-8",
             "player": "Weisser Coilan",
-            "winrate": 0.6,
             "commander": [
                 "Selvala, Heart of the Wilds"
             ],

@@ -10,7 +10,6 @@
             "deck_id": "523641",
             "rank": "1",
             "player": "Felipe Gonçalves",
-            "winrate": 0.8888888888888888,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "523642",
             "rank": "2",
             "player": "Victor Marques",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Dihada, Binder of Wills"
             ],
@@ -230,7 +228,6 @@
             "deck_id": "523643",
             "rank": "3-4",
             "player": "Euro Figueredo",
-            "winrate": 0.75,
             "commander": [
                 "Sai, Master Thopterist"
             ],
@@ -316,7 +313,6 @@
             "deck_id": "523644",
             "rank": "3-4",
             "player": "Giovane Sass",
-            "winrate": 0.75,
             "commander": [
                 "Light-Paws, Emperor's Voice"
             ],
@@ -405,7 +401,6 @@
             "deck_id": "523645",
             "rank": "5-8",
             "player": "Ivan Bastos",
-            "winrate": 0.75,
             "commander": [
                 "Esika, God of the Tree"
             ],
@@ -515,7 +510,6 @@
             "deck_id": "523646",
             "rank": "5-8",
             "player": "Gustavo Felix",
-            "winrate": 0.75,
             "commander": [
                 "Light-Paws, Emperor's Voice"
             ],
@@ -600,7 +594,6 @@
             "deck_id": "523647",
             "rank": "5-8",
             "player": "Thomas Mazzero",
-            "winrate": 0.75,
             "commander": [
                 "Saskia the Unyielding"
             ],
@@ -710,7 +703,6 @@
             "deck_id": "523648",
             "rank": "5-8",
             "player": "Gabriel Kawagoe",
-            "winrate": 0.75,
             "commander": [
                 "Skrelv, Defector Mite"
             ],

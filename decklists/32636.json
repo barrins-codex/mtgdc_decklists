@@ -10,7 +10,6 @@
             "deck_id": "450515",
             "rank": "1",
             "player": "Bernhard F.",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Varina, Lich Queen"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "450516",
             "rank": "2",
             "player": "Fabrice K.",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -230,7 +228,6 @@
             "deck_id": "450517",
             "rank": "3-4",
             "player": "Ingo M.",
-            "winrate": 0.625,
             "commander": [
                 "Kroxa, Titan of Death's Hunger"
             ],
@@ -324,7 +321,6 @@
             "deck_id": "450518",
             "rank": "3-4",
             "player": "James P.",
-            "winrate": 0.625,
             "commander": [
                 "Venser, Shaper Savant"
             ],
@@ -405,7 +401,6 @@
             "deck_id": "450519",
             "rank": "5-8",
             "player": "Dennis C.",
-            "winrate": 0.625,
             "commander": [
                 "Judith, the Scourge Diva"
             ],
@@ -507,7 +502,6 @@
             "deck_id": "450520",
             "rank": "5-8",
             "player": "Jan R.",
-            "winrate": 0.625,
             "commander": [
                 "Kraum, Ludevic's Opus",
                 "Malcolm, Keen-Eyed Navigator"
@@ -606,7 +600,6 @@
             "deck_id": "450521",
             "rank": "5-8",
             "player": "Thomas S.",
-            "winrate": 0.625,
             "commander": [
                 "Dargo, the Shipwrecker",
                 "Tevesh Szat, Doom of Fools"
@@ -708,7 +701,6 @@
             "deck_id": "450522",
             "rank": "5-8",
             "player": "Giuseppe I.",
-            "winrate": 0.625,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],

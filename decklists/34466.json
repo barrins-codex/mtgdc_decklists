@@ -10,7 +10,6 @@
             "deck_id": "461557",
             "rank": "1",
             "player": "Xu Peng",
-            "winrate": 1.0,
             "commander": [
                 "Minsc, Beloved Ranger"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "461558",
             "rank": "2",
             "player": "Jia Fei",
-            "winrate": 0.8,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -230,7 +228,6 @@
             "deck_id": "461559",
             "rank": "3-4",
             "player": "Zhao Linfei",
-            "winrate": 0.8,
             "commander": [
                 "Maelstrom Wanderer"
             ],
@@ -336,7 +333,6 @@
             "deck_id": "461560",
             "rank": "3-4",
             "player": "Cai Zhongze",
-            "winrate": 0.8,
             "commander": [
                 "Sai, Master Thopterist"
             ],

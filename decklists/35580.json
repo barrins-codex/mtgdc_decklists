@@ -10,7 +10,6 @@
             "deck_id": "468553",
             "rank": "1",
             "player": "Baptiste Bouvier",
-            "winrate": 1.0,
             "commander": [
                 "Grenzo, Dungeon Warden"
             ],
@@ -111,7 +110,6 @@
             "deck_id": "468554",
             "rank": "2",
             "player": "Jérémy Félix",
-            "winrate": 0.8,
             "commander": [
                 "Shorikai, Genesis Engine"
             ],
@@ -212,7 +210,6 @@
             "deck_id": "468555",
             "rank": "3-4",
             "player": "Maxime Pernin",
-            "winrate": 0.8,
             "commander": [
                 "Hinata, Dawn-Crowned"
             ],
@@ -312,7 +309,6 @@
             "deck_id": "468556",
             "rank": "3-4",
             "player": "Alexandre Casagrande",
-            "winrate": 0.8,
             "commander": [
                 "The Reality Chip"
             ],
@@ -393,7 +389,6 @@
             "deck_id": "468557",
             "rank": "5-8",
             "player": "Mathieu Quillard",
-            "winrate": 0.6,
             "commander": [
                 "Shorikai, Genesis Engine"
             ],
@@ -494,7 +489,6 @@
             "deck_id": "468558",
             "rank": "5-8",
             "player": "Jean Garreau",
-            "winrate": 0.6,
             "commander": [
                 "Hinata, Dawn-Crowned"
             ],
@@ -604,7 +598,6 @@
             "deck_id": "468559",
             "rank": "5-8",
             "player": "Kevin Tourret",
-            "winrate": 0.6,
             "commander": [
                 "Leovold, Emissary of Trest"
             ],
@@ -712,7 +705,6 @@
             "deck_id": "468560",
             "rank": "5-8",
             "player": "Jérôme Ceaux",
-            "winrate": 0.6,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],

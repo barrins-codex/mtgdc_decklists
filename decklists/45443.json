@@ -10,7 +10,6 @@
             "deck_id": "535879",
             "rank": "1",
             "player": "Ste Villaraza",
-            "winrate": 0.9,
             "commander": [
                 "Aragorn, King of Gondor"
             ],
@@ -116,7 +115,6 @@
             "deck_id": "535880",
             "rank": "2",
             "player": "Erbil Sinforoso",
-            "winrate": 0.8,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -226,7 +224,6 @@
             "deck_id": "535881",
             "rank": "3-4",
             "player": "Nicholas Price",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -336,7 +333,6 @@
             "deck_id": "535882",
             "rank": "3-4",
             "player": "Juancho Morales",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Atraxa, Grand Unifier"
             ],
@@ -446,7 +442,6 @@
             "deck_id": "535883",
             "rank": "5-8",
             "player": "Van Lauren Acordon",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Aragorn, King of Gondor"
             ],
@@ -554,7 +549,6 @@
             "deck_id": "535884",
             "rank": "5-8",
             "player": "Rexel Tenorio",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -664,7 +658,6 @@
             "deck_id": "535885",
             "rank": "5-8",
             "player": "Benj David",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Tivit, Seller of Secrets"
             ],
@@ -774,7 +767,6 @@
             "deck_id": "535886",
             "rank": "5-8",
             "player": "Nin Pangilinan",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Tivit, Seller of Secrets"
             ],

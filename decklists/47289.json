@@ -10,7 +10,6 @@
             "deck_id": "549404",
             "rank": "1",
             "player": "Jiawei,chen",
-            "winrate": 1.0,
             "commander": [
                 "Aragorn, the Uniter"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "549405",
             "rank": "2",
             "player": "Guanglan,cui",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Gut, True Soul Zealot",
                 "Inspiring Leader"

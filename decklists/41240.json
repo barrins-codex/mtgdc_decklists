@@ -10,7 +10,6 @@
             "deck_id": "506448",
             "rank": "1",
             "player": "Dinno Zaide",
-            "winrate": 1.0,
             "commander": [
                 "Ghyrson Starn, Kelermorph"
             ],
@@ -111,7 +110,6 @@
             "deck_id": "506449",
             "rank": "2",
             "player": "Richmond Ortiz",
-            "winrate": 0.8,
             "commander": [
                 "Yoshimaru, Ever Faithful",
                 "Bruse Tarl, Boorish Herder"
@@ -221,7 +219,6 @@
             "deck_id": "506450",
             "rank": "3",
             "player": "Ezra Mendiola",
-            "winrate": 0.6,
             "commander": [
                 "Tivit, Seller of Secrets"
             ],
@@ -331,7 +328,6 @@
             "deck_id": "506451",
             "rank": "4",
             "player": "Lorenzo Paredes",
-            "winrate": 0.6,
             "commander": [
                 "The Gitrog Monster"
             ],

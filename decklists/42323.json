@@ -10,7 +10,6 @@
             "deck_id": "513469",
             "rank": "1",
             "player": "Erik Szanto",
-            "winrate": 0.9,
             "commander": [
                 "Old Stickfingers"
             ],
@@ -112,7 +111,6 @@
             "deck_id": "513470",
             "rank": "2",
             "player": "Atraxa, Grand Unifier",
-            "winrate": 0.8,
             "commander": [
                 "Atraxa, Grand Unifier"
             ],
@@ -222,7 +220,6 @@
             "deck_id": "513471",
             "rank": "3-4",
             "player": "Michal Zdansky",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Saskia the Unyielding"
             ],
@@ -332,7 +329,6 @@
             "deck_id": "513472",
             "rank": "3-4",
             "player": "Tom Fischer",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Ghyrson Starn, Kelermorph"
             ],
@@ -433,7 +429,6 @@
             "deck_id": "513473",
             "rank": "5-8",
             "player": "Ondřej Hrubý",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -543,7 +538,6 @@
             "deck_id": "513474",
             "rank": "5-8",
             "player": "Robo-bo-bots",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Ratchet, Field Medic"
             ],
@@ -632,7 +626,6 @@
             "deck_id": "513475",
             "rank": "5-8",
             "player": "Michal Mendl",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Dennick, Pious Apprentice"
             ],
@@ -736,7 +729,6 @@
             "deck_id": "513476",
             "rank": "5-8",
             "player": "Tarox",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -844,7 +836,6 @@
             "deck_id": "513477",
             "rank": "9-16",
             "player": "David Stepanek",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -954,7 +945,6 @@
             "deck_id": "513478",
             "rank": "9-16",
             "player": "Bitzelberg",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Old Stickfingers"
             ],
@@ -1055,7 +1045,6 @@
             "deck_id": "513479",
             "rank": "9-16",
             "player": "David \"merla\" Mecl",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Sythis, Harvest's Hand"
             ],
@@ -1156,7 +1145,6 @@
             "deck_id": "513480",
             "rank": "9-16",
             "player": "Ninh Hao",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Ardoz, Cobbler of War"
             ],
@@ -1241,7 +1229,6 @@
             "deck_id": "513481",
             "rank": "9-16",
             "player": "Vadim Savinskii",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Hogaak, Arisen Necropolis"
             ],
@@ -1351,7 +1338,6 @@
             "deck_id": "513482",
             "rank": "9-16",
             "player": "Stadnik Jan",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Ghyrson Starn, Kelermorph"
             ],
@@ -1449,7 +1435,6 @@
             "deck_id": "513483",
             "rank": "9-16",
             "player": "Václav Hrdlička",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Soul of Windgrace"
             ],
@@ -1559,7 +1544,6 @@
             "deck_id": "513484",
             "rank": "9-16",
             "player": "Marek Vardik",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Rograkh, Son of Rohgahh",
                 "Silas Renn, Seeker Adept"

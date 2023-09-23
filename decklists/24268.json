@@ -10,7 +10,6 @@
             "deck_id": "369396",
             "rank": "3-4",
             "player": "Fan,qi",
-            "winrate": 0.6,
             "commander": [
                 "Jenara, Asura of War"
             ],
@@ -116,7 +115,6 @@
             "deck_id": "369397",
             "rank": "2",
             "player": "Yufei,shen",
-            "winrate": 0.8,
             "commander": [
                 "Captain Sisay"
             ],
@@ -220,7 +218,6 @@
             "deck_id": "369398",
             "rank": "3-4",
             "player": "Gong,chen",
-            "winrate": 0.6,
             "commander": [
                 "Niv-Mizzet, Parun"
             ],
@@ -316,7 +313,6 @@
             "deck_id": "369399",
             "rank": "1",
             "player": "Di,hu",
-            "winrate": 1.0,
             "commander": [
                 "Hogaak, Arisen Necropolis"
             ],

@@ -10,7 +10,6 @@
             "deck_id": "443474",
             "rank": "1",
             "player": "Yang Jinlin",
-            "winrate": 1.0,
             "commander": [
                 "Ragavan, Nimble Pilferer"
             ],
@@ -95,7 +94,6 @@
             "deck_id": "443475",
             "rank": "2",
             "player": "Niaoyu11",
-            "winrate": 0.8,
             "commander": [
                 "Inalla, Archmage Ritualist"
             ],
@@ -205,7 +203,6 @@
             "deck_id": "443476",
             "rank": "3-4",
             "player": "Luan Zhenting",
-            "winrate": 0.6,
             "commander": [
                 "Sai, Master Thopterist"
             ],
@@ -296,7 +293,6 @@
             "deck_id": "443477",
             "rank": "3-4",
             "player": "Char",
-            "winrate": 0.6,
             "commander": [
                 "Yasharn, Implacable Earth"
             ],

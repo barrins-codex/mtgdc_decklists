@@ -10,7 +10,6 @@
             "deck_id": "544840",
             "rank": "1",
             "player": "Yang Jinlin",
-            "winrate": 1.0,
             "commander": [
                 "Feldon, Ronom Excavator"
             ],
@@ -97,7 +96,6 @@
             "deck_id": "544841",
             "rank": "2",
             "player": "Chu Xiaoyi",
-            "winrate": 0.8,
             "commander": [
                 "Tivit, Seller of Secrets"
             ],

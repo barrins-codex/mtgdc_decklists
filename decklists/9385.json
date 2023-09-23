@@ -10,7 +10,6 @@
             "deck_id": "253845",
             "rank": "2",
             "player": "Yann Belmer",
-            "winrate": 0.8,
             "commander": [
                 "Tasigur, the Golden Fang"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "253846",
             "rank": "1",
             "player": "Gael Bailly-Maitre",
-            "winrate": 1.0,
             "commander": [
                 "Sidisi, Brood Tyrant"
             ],
@@ -228,7 +226,6 @@
             "deck_id": "253847",
             "rank": "3",
             "player": "Mickael Champilou",
-            "winrate": 0.8,
             "commander": [
                 "Narset, Enlightened Master"
             ],

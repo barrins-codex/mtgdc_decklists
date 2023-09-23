@@ -10,7 +10,6 @@
             "deck_id": "469306",
             "rank": "1",
             "player": "Yoann Lemoine",
-            "winrate": 0.8888888888888888,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -99,7 +98,6 @@
             "deck_id": "469307",
             "rank": "2",
             "player": "Julien Bihet",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Shorikai, Genesis Engine"
             ],
@@ -199,7 +197,6 @@
             "deck_id": "469308",
             "rank": "3-4",
             "player": "Raphael Behague",
-            "winrate": 0.75,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -286,7 +283,6 @@
             "deck_id": "469309",
             "rank": "3-4",
             "player": "Pierre Huet",
-            "winrate": 0.75,
             "commander": [
                 "Light-Paws, Emperor's Voice"
             ],
@@ -372,7 +368,6 @@
             "deck_id": "469310",
             "rank": "5-8",
             "player": "Thibault Talpin",
-            "winrate": 0.75,
             "commander": [
                 "Sythis, Harvest's Hand"
             ],
@@ -467,7 +462,6 @@
             "deck_id": "469311",
             "rank": "5-8",
             "player": "Damien Mocquet",
-            "winrate": 0.75,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -557,7 +551,6 @@
             "deck_id": "469312",
             "rank": "5-8",
             "player": "Florent Dubrana",
-            "winrate": 0.75,
             "commander": [
                 "Shorikai, Genesis Engine"
             ],
@@ -656,7 +649,6 @@
             "deck_id": "469313",
             "rank": "5-8",
             "player": "Charles Dupont",
-            "winrate": 0.75,
             "commander": [
                 "Ulamog, the Ceaseless Hunger"
             ],

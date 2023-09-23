@@ -10,7 +10,6 @@
             "deck_id": "284084",
             "rank": "5-8",
             "player": "Léo Carbonell",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Jace, Vryn's Prodigy"
             ],
@@ -88,7 +87,6 @@
             "deck_id": "284085",
             "rank": "5-8",
             "player": "Flavien Mullet",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Titania, Protector of Argoth"
             ],
@@ -177,7 +175,6 @@
             "deck_id": "284086",
             "rank": "5-8",
             "player": "Josselin \"Asimov\" Laumont",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Akiri, Line-Slinger",
                 "Bruse Tarl, Boorish Herder"
@@ -267,7 +264,6 @@
             "deck_id": "284087",
             "rank": "3-4",
             "player": "\"Moondust\"",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Breya, Etherium Shaper"
             ],
@@ -377,7 +373,6 @@
             "deck_id": "284088",
             "rank": "1",
             "player": "Noham Maubert",
-            "winrate": 0.9,
             "commander": [
                 "Thrasios, Triton Hero",
                 "Vial Smasher the Fierce"
@@ -487,7 +482,6 @@
             "deck_id": "284089",
             "rank": "2",
             "player": "Vincent Pinet",
-            "winrate": 0.8,
             "commander": [
                 "Zurgo Bellstriker"
             ],
@@ -566,7 +560,6 @@
             "deck_id": "284090",
             "rank": "3-4",
             "player": "Nicolas Rabillard",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Thrasios, Triton Hero",
                 "Bruse Tarl, Boorish Herder"
@@ -677,7 +670,6 @@
             "deck_id": "284092",
             "rank": "5-8",
             "player": "Alexandre Auge",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Selvala, Heart of the Wilds"
             ],

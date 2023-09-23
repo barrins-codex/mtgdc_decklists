@@ -10,7 +10,6 @@
             "deck_id": "332484",
             "rank": "1",
             "player": "Leny",
-            "winrate": 0.8888888888888888,
             "commander": [
                 "Yuriko, the Tiger's Shadow"
             ],
@@ -107,7 +106,6 @@
             "deck_id": "332485",
             "rank": "2",
             "player": "Nicolas",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Tajic, Legion's Edge"
             ],
@@ -202,7 +200,6 @@
             "deck_id": "332486",
             "rank": "3-4",
             "player": "Hugo",
-            "winrate": 0.75,
             "commander": [
                 "Maelstrom Wanderer"
             ],
@@ -301,7 +298,6 @@
             "deck_id": "332487",
             "rank": "3-4",
             "player": "Steven",
-            "winrate": 0.75,
             "commander": [
                 "Narset, Enlightened Master"
             ],
@@ -407,7 +403,6 @@
             "deck_id": "332488",
             "rank": "5-8",
             "player": "Brieuc",
-            "winrate": 0.75,
             "commander": [
                 "The Gitrog Monster"
             ],
@@ -505,7 +500,6 @@
             "deck_id": "332489",
             "rank": "5-8",
             "player": "Matthieu",
-            "winrate": 0.75,
             "commander": [
                 "Karlov of the Ghost Council"
             ],
@@ -611,7 +605,6 @@
             "deck_id": "332490",
             "rank": "5-8",
             "player": "Kévin",
-            "winrate": 0.75,
             "commander": [
                 "Baral, Chief of Compliance"
             ],
@@ -685,7 +678,6 @@
             "deck_id": "332491",
             "rank": "5-8",
             "player": "Clément",
-            "winrate": 0.75,
             "commander": [
                 "Queen Marchesa"
             ],

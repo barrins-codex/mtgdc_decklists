@@ -10,7 +10,6 @@
             "deck_id": "541542",
             "rank": "1",
             "player": "Brieuc Evo",
-            "winrate": 1.0,
             "commander": [
                 "Ertai Resurrected"
             ],
@@ -106,7 +105,6 @@
             "deck_id": "541543",
             "rank": "2",
             "player": "Alex Treupel",
-            "winrate": 0.8,
             "commander": [
                 "Leovold, Emissary of Trest"
             ],
@@ -216,7 +214,6 @@
             "deck_id": "541544",
             "rank": "3-4",
             "player": "Boubou La Gargouille",
-            "winrate": 0.8,
             "commander": [
                 "Old Rutstein"
             ],
@@ -312,7 +309,6 @@
             "deck_id": "541545",
             "rank": "3-4",
             "player": "Pablo Destrée",
-            "winrate": 0.8,
             "commander": [
                 "Tana, the Bloodsower",
                 "Yoshimaru, Ever Faithful"

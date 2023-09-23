@@ -10,7 +10,6 @@
             "deck_id": "311312",
             "rank": "7",
             "player": "Guillaume Wasselynck",
-            "winrate": 0.6,
             "commander": [
                 "Iname, Death Aspect"
             ],
@@ -89,7 +88,6 @@
             "deck_id": "311313",
             "rank": "8",
             "player": "Régis Corbillé",
-            "winrate": 0.6,
             "commander": [
                 "O-Kagachi, Vengeful Kami"
             ],
@@ -198,7 +196,6 @@
             "deck_id": "311314",
             "rank": "2",
             "player": "Kevin Bastide De Graves",
-            "winrate": 0.8,
             "commander": [
                 "Zo-Zu the Punisher"
             ],
@@ -277,7 +274,6 @@
             "deck_id": "311315",
             "rank": "3",
             "player": "Abraham Kindo",
-            "winrate": 0.8,
             "commander": [
                 "Vendilion Clique"
             ],
@@ -354,7 +350,6 @@
             "deck_id": "311316",
             "rank": "6",
             "player": "Joshua Montez",
-            "winrate": 0.6,
             "commander": [
                 "Rashmi, Eternities Crafter"
             ],
@@ -446,7 +441,6 @@
             "deck_id": "311317",
             "rank": "5",
             "player": "Kevin Corbillé \"iceman44\"",
-            "winrate": 0.6,
             "commander": [
                 "Teferi, Temporal Archmage"
             ],
@@ -519,7 +513,6 @@
             "deck_id": "311318",
             "rank": "4",
             "player": "Bruno Lefebvre",
-            "winrate": 0.8,
             "commander": [
                 "Ezuri, Renegade Leader"
             ],
@@ -599,7 +592,6 @@
             "deck_id": "311319",
             "rank": "1",
             "player": "Lionel \"hannibal44\" Galliere",
-            "winrate": 1.0,
             "commander": [
                 "Horde of Notions"
             ],

@@ -10,7 +10,6 @@
             "deck_id": "364592",
             "rank": "1",
             "player": "Lény Yahiaoui",
-            "winrate": 0.8888888888888888,
             "commander": [
                 "The Gitrog Monster"
             ],
@@ -111,7 +110,6 @@
             "deck_id": "364593",
             "rank": "5-8",
             "player": "Boris Gaboriau",
-            "winrate": 0.75,
             "commander": [
                 "Tajic, Legion's Edge"
             ],
@@ -209,7 +207,6 @@
             "deck_id": "364594",
             "rank": "5-8",
             "player": "Théo Guillonneau",
-            "winrate": 0.75,
             "commander": [
                 "Golos, Tireless Pilgrim"
             ],
@@ -319,7 +316,6 @@
             "deck_id": "364595",
             "rank": "5-8",
             "player": "Chandra Tirvengadum",
-            "winrate": 0.75,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -408,7 +404,6 @@
             "deck_id": "364596",
             "rank": "5-8",
             "player": "Geoffrey Baron",
-            "winrate": 0.75,
             "commander": [
                 "Judith, the Scourge Diva"
             ],
@@ -504,7 +499,6 @@
             "deck_id": "364597",
             "rank": "3-4",
             "player": "Kévin Corbillé",
-            "winrate": 0.75,
             "commander": [
                 "Emry, Lurker of the Loch"
             ],
@@ -590,7 +584,6 @@
             "deck_id": "364598",
             "rank": "3-4",
             "player": "Ciprianovic",
-            "winrate": 0.75,
             "commander": [
                 "Titania, Protector of Argoth"
             ],
@@ -687,7 +680,6 @@
             "deck_id": "364599",
             "rank": "2",
             "player": "Ugo Poiroux",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],

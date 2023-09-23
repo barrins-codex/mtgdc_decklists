@@ -10,7 +10,6 @@
             "deck_id": "438514",
             "rank": "3-4",
             "player": "Flavien Crimelune Paillet",
-            "winrate": 0.6,
             "commander": [
                 "Kelsien, the Plague"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "438515",
             "rank": "3-4",
             "player": "Maximilien Octave26o Kalil",
-            "winrate": 0.6,
             "commander": [
                 "Sisay, Weatherlight Captain"
             ],
@@ -230,7 +228,6 @@
             "deck_id": "438516",
             "rank": "2",
             "player": "Jules _h_ Lestienne",
-            "winrate": 0.8,
             "commander": [
                 "Venser, Shaper Savant"
             ],
@@ -310,7 +307,6 @@
             "deck_id": "438517",
             "rank": "1",
             "player": "Willy De Almeida",
-            "winrate": 1.0,
             "commander": [
                 "Klothys, God of Destiny"
             ],

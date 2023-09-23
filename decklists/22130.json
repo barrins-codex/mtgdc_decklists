@@ -10,7 +10,6 @@
             "deck_id": "349683",
             "rank": "1",
             "player": "Milan Nečas",
-            "winrate": 1.0,
             "commander": [
                 "Arahbo, Roar of the World"
             ],
@@ -100,7 +99,6 @@
             "deck_id": "349684",
             "rank": "2",
             "player": "Vojta Kotek",
-            "winrate": 0.8,
             "commander": [
                 "Grenzo, Dungeon Warden"
             ],
@@ -210,7 +208,6 @@
             "deck_id": "349685",
             "rank": "3-4",
             "player": "Ondřej Hrubý",
-            "winrate": 0.8,
             "commander": [
                 "Yuriko, the Tiger's Shadow"
             ],
@@ -307,7 +304,6 @@
             "deck_id": "349686",
             "rank": "3-4",
             "player": "Miroslav Kalina",
-            "winrate": 0.8,
             "commander": [
                 "Yuriko, the Tiger's Shadow"
             ],

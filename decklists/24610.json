@@ -10,7 +10,6 @@
             "deck_id": "372132",
             "rank": "5-8",
             "player": "Yann Brugiere",
-            "winrate": 0.6,
             "commander": [
                 "Thrasios, Triton Hero",
                 "Kraum, Ludevic's Opus"
@@ -113,7 +112,6 @@
             "deck_id": "372133",
             "rank": "5-8",
             "player": "Robin Ollagnier",
-            "winrate": 0.6,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -191,7 +189,6 @@
             "deck_id": "372134",
             "rank": "3-4",
             "player": "Yann Brugiere",
-            "winrate": 0.8,
             "commander": [
                 "Hogaak, Arisen Necropolis"
             ],
@@ -301,7 +298,6 @@
             "deck_id": "372135",
             "rank": "2",
             "player": "Alexandre Martial",
-            "winrate": 0.8,
             "commander": [
                 "Uro, Titan of Nature's Wrath"
             ],
@@ -392,7 +388,6 @@
             "deck_id": "372136",
             "rank": "3-4",
             "player": "Bastien Guichard",
-            "winrate": 0.8,
             "commander": [
                 "Isamaru, Hound of Konda"
             ],
@@ -477,7 +472,6 @@
             "deck_id": "372137",
             "rank": "1",
             "player": "Moondust",
-            "winrate": 1.0,
             "commander": [
                 "Thrasios, Triton Hero",
                 "Tymna the Weaver"
@@ -587,7 +581,6 @@
             "deck_id": "372138",
             "rank": "5-8",
             "player": "Sebastien Martinez",
-            "winrate": 0.6,
             "commander": [
                 "Maelstrom Wanderer"
             ],
@@ -688,7 +681,6 @@
             "deck_id": "372139",
             "rank": "5-8",
             "player": "Francois Jandaud",
-            "winrate": 0.6,
             "commander": [
                 "Saskia the Unyielding"
             ],

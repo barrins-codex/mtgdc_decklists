@@ -10,7 +10,6 @@
             "deck_id": "536391",
             "rank": "1",
             "player": "Jonathan Montalva Alias The Malicious",
-            "winrate": 1.0,
             "commander": [
                 "Kess, Dissident Mage"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "536392",
             "rank": "2",
             "player": "Alexis Dumay",
-            "winrate": 0.8,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],

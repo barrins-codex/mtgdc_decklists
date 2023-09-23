@@ -10,7 +10,6 @@
             "deck_id": "405768",
             "rank": "2",
             "player": "Yucheng,zhang",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Adeliz, the Cinder Wind"
             ],
@@ -106,7 +105,6 @@
             "deck_id": "405775",
             "rank": "1",
             "player": "Jingting,wu",
-            "winrate": 1.0,
             "commander": [
                 "Jegantha, the Wellspring",
                 "Sisay, Weatherlight Captain"

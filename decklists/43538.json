@@ -10,7 +10,6 @@
             "deck_id": "521609",
             "rank": "1",
             "player": "Jhay Brinquiz",
-            "winrate": 1.0,
             "commander": [
                 "Gut, True Soul Zealot",
                 "Raised by Giants"
@@ -116,7 +115,6 @@
             "deck_id": "521610",
             "rank": "2",
             "player": "Joseph Ramos",
-            "winrate": 0.8,
             "commander": [
                 "Grist, the Hunger Tide"
             ],

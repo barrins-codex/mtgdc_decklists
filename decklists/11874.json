@@ -10,7 +10,6 @@
             "deck_id": "267926",
             "rank": "3-4",
             "player": "Gaviro",
-            "winrate": 0.75,
             "commander": [
                 "Tasigur, the Golden Fang"
             ],
@@ -116,7 +115,6 @@
             "deck_id": "267927",
             "rank": "5-8",
             "player": "kriggy",
-            "winrate": 0.75,
             "commander": [
                 "Jori En, Ruin Diver"
             ],
@@ -207,7 +205,6 @@
             "deck_id": "267928",
             "rank": "5-8",
             "player": "Gemiinus",
-            "winrate": 0.75,
             "commander": [
                 "Grand Arbiter Augustin IV"
             ],
@@ -304,7 +301,6 @@
             "deck_id": "267929",
             "rank": "3-4",
             "player": "LaPince",
-            "winrate": 0.75,
             "commander": [
                 "Titania, Protector of Argoth"
             ],
@@ -394,7 +390,6 @@
             "deck_id": "267930",
             "rank": "5-8",
             "player": "TheGoldenBoy",
-            "winrate": 0.75,
             "commander": [
                 "Captain Sisay"
             ],
@@ -499,7 +494,6 @@
             "deck_id": "267931",
             "rank": "2",
             "player": "TANeoK",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Tasigur, the Golden Fang"
             ],
@@ -605,7 +599,6 @@
             "deck_id": "267932",
             "rank": "1",
             "player": "Ubeltaeter",
-            "winrate": 0.8888888888888888,
             "commander": [
                 "Jace, Vryn's Prodigy"
             ],
@@ -686,7 +679,6 @@
             "deck_id": "267933",
             "rank": "5-8",
             "player": "Yanks",
-            "winrate": 0.75,
             "commander": [
                 "Sidisi, Undead Vizier"
             ],

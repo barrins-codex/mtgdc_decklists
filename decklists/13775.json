@@ -10,7 +10,6 @@
             "deck_id": "281235",
             "rank": "2",
             "player": "Yang Jinlin",
-            "winrate": 0.8,
             "commander": [
                 "Jenara, Asura of War"
             ],
@@ -119,7 +118,6 @@
             "deck_id": "281236",
             "rank": "1",
             "player": "Wang Renke",
-            "winrate": 1.0,
             "commander": [
                 "Azusa, Lost but Seeking"
             ],

@@ -10,7 +10,6 @@
             "deck_id": "479012",
             "rank": "1",
             "player": "Fabinhobraz",
-            "winrate": 1.0,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -115,7 +114,6 @@
             "deck_id": "479013",
             "rank": "2",
             "player": "Well",
-            "winrate": 0.8,
             "commander": [
                 "Dennick, Pious Apprentice"
             ],
@@ -218,7 +216,6 @@
             "deck_id": "479014",
             "rank": "3",
             "player": "Renan Da Massa",
-            "winrate": 0.6,
             "commander": [
                 "Juri, Master of the Revue"
             ],

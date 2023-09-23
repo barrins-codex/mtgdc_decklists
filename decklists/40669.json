@@ -10,7 +10,6 @@
             "deck_id": "502458",
             "rank": "1",
             "player": "Francis Blanco",
-            "winrate": 1.0,
             "commander": [
                 "Ghyrson Starn, Kelermorph"
             ],
@@ -112,7 +111,6 @@
             "deck_id": "502459",
             "rank": "2",
             "player": "Ste Villaraza",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Elminster"
             ],

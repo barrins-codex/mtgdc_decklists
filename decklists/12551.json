@@ -10,7 +10,6 @@
             "deck_id": "272425",
             "rank": "1",
             "player": "Victor Butrimov",
-            "winrate": 1.0,
             "commander": [
                 "Sidisi, Undead Vizier"
             ],
@@ -93,7 +92,6 @@
             "deck_id": "272426",
             "rank": "2",
             "player": "Vyacheslav Serputko",
-            "winrate": 0.8,
             "commander": [
                 "Marath, Will of the Wild"
             ],
@@ -197,7 +195,6 @@
             "deck_id": "272427",
             "rank": "3-4",
             "player": "Alexey Simonov",
-            "winrate": 0.8,
             "commander": [
                 "Marath, Will of the Wild"
             ],
@@ -301,7 +298,6 @@
             "deck_id": "272428",
             "rank": "3-4",
             "player": "Sergey Sklyarenko",
-            "winrate": 0.8,
             "commander": [
                 "Thalia, Guardian of Thraben"
             ],

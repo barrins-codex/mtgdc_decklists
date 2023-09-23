@@ -10,7 +10,6 @@
             "deck_id": "499753",
             "rank": "2",
             "player": "Vojta Kotek",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Grenzo, Dungeon Warden"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "499754",
             "rank": "3-4",
             "player": "Ondrej Hatala",
-            "winrate": 0.625,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -230,7 +228,6 @@
             "deck_id": "499755",
             "rank": "3-4",
             "player": "David Stepanek",
-            "winrate": 0.625,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -340,7 +337,6 @@
             "deck_id": "499756",
             "rank": "5-8",
             "player": "Vaclav Hrdlicka",
-            "winrate": 0.625,
             "commander": [
                 "Soul of Windgrace"
             ],
@@ -450,7 +446,6 @@
             "deck_id": "499757",
             "rank": "5-8",
             "player": "Marek Majer",
-            "winrate": 0.625,
             "commander": [
                 "Grist, the Hunger Tide"
             ],
@@ -550,7 +545,6 @@
             "deck_id": "499758",
             "rank": "5-8",
             "player": "Miloslav Ponec",
-            "winrate": 0.625,
             "commander": [
                 "Hogaak, Arisen Necropolis"
             ],
@@ -658,7 +652,6 @@
             "deck_id": "499759",
             "rank": "5-8",
             "player": "Miroslav vec",
-            "winrate": 0.625,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],

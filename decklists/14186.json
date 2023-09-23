@@ -10,7 +10,6 @@
             "deck_id": "284522",
             "rank": "5-8",
             "player": "Fabio Kaneto",
-            "winrate": 0.6,
             "commander": [
                 "Titania, Protector of Argoth"
             ],
@@ -102,7 +101,6 @@
             "deck_id": "284523",
             "rank": "5-8",
             "player": "Vitor Sena",
-            "winrate": 0.6,
             "commander": [
                 "Jace, Vryn's Prodigy"
             ],
@@ -179,7 +177,6 @@
             "deck_id": "284524",
             "rank": "5-8",
             "player": "Guilherme Tavares",
-            "winrate": 0.6,
             "commander": [
                 "Jori En, Ruin Diver"
             ],
@@ -270,7 +267,6 @@
             "deck_id": "284525",
             "rank": "5-8",
             "player": "Daniel Dias",
-            "winrate": 0.6,
             "commander": [
                 "Kambal, Consul of Allocation"
             ],
@@ -359,7 +355,6 @@
             "deck_id": "284526",
             "rank": "1",
             "player": "Brunno \"NN\" Portella",
-            "winrate": 1.0,
             "commander": [
                 "Vial Smasher the Fierce"
             ],
@@ -461,7 +456,6 @@
             "deck_id": "284527",
             "rank": "2",
             "player": "Bruno Cezar Moreno",
-            "winrate": 0.8,
             "commander": [
                 "Wydwen, the Biting Gale"
             ],
@@ -554,7 +548,6 @@
             "deck_id": "284528",
             "rank": "3-4",
             "player": "Vitor Sznifer",
-            "winrate": 0.8,
             "commander": [
                 "Selvala, Heart of the Wilds"
             ],
@@ -636,7 +629,6 @@
             "deck_id": "284529",
             "rank": "3-4",
             "player": "Vitor Maia",
-            "winrate": 0.8,
             "commander": [
                 "Saskia the Unyielding"
             ],

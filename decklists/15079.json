@@ -10,7 +10,6 @@
             "deck_id": "291287",
             "rank": "3-4",
             "player": "Laurent Dit \"bango\"",
-            "winrate": 0.6,
             "commander": [
                 "The Gitrog Monster"
             ],
@@ -106,7 +105,6 @@
             "deck_id": "291288",
             "rank": "2",
             "player": "Bavassano Luca",
-            "winrate": 0.8,
             "commander": [
                 "Zurgo Bellstriker"
             ],
@@ -186,7 +184,6 @@
             "deck_id": "291289",
             "rank": "3-4",
             "player": "Kevin",
-            "winrate": 0.6,
             "commander": [
                 "Leovold, Emissary of Trest"
             ],
@@ -292,7 +289,6 @@
             "deck_id": "291290",
             "rank": "1",
             "player": "Gulewitz Axel",
-            "winrate": 1.0,
             "commander": [
                 "Geist of Saint Traft"
             ],

@@ -10,7 +10,6 @@
             "deck_id": "520700",
             "rank": "1",
             "player": "Dalibor Szegho",
-            "winrate": 1.0,
             "commander": [
                 "Grist, the Hunger Tide"
             ],
@@ -112,7 +111,6 @@
             "deck_id": "520701",
             "rank": "2",
             "player": "Samuel Zahorcak",
-            "winrate": 0.8,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -222,7 +220,6 @@
             "deck_id": "520702",
             "rank": "3-4",
             "player": "Richard Kolenič",
-            "winrate": 0.8,
             "commander": [
                 "Feldon, Ronom Excavator"
             ],
@@ -312,7 +309,6 @@
             "deck_id": "520703",
             "rank": "3-4",
             "player": "Patrik Szmatana",
-            "winrate": 0.8,
             "commander": [
                 "The Beamtown Bullies"
             ],
@@ -422,7 +418,6 @@
             "deck_id": "520704",
             "rank": "5-8",
             "player": "Patrik urab",
-            "winrate": 0.6,
             "commander": [
                 "Kytheon, Hero of Akros"
             ],
@@ -506,7 +501,6 @@
             "deck_id": "520705",
             "rank": "5-8",
             "player": "Dominik Repa",
-            "winrate": 0.6,
             "commander": [
                 "Golos, Tireless Pilgrim"
             ],
@@ -616,7 +610,6 @@
             "deck_id": "520706",
             "rank": "5-8",
             "player": "Matej Benedikovič",
-            "winrate": 0.6,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -726,7 +719,6 @@
             "deck_id": "520707",
             "rank": "5-8",
             "player": "Tomas Varga",
-            "winrate": 0.6,
             "commander": [
                 "Atraxa, Grand Unifier"
             ],

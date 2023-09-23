@@ -10,7 +10,6 @@
             "deck_id": "262971",
             "rank": "4",
             "player": "Artur de Oliveira Silva",
-            "winrate": 0.625,
             "commander": [
                 "Prossh, Skyraider of Kher"
             ],
@@ -113,7 +112,6 @@
             "deck_id": "262972",
             "rank": "3",
             "player": "Eduardo Shimizu",
-            "winrate": 0.625,
             "commander": [
                 "Tasigur, the Golden Fang"
             ],
@@ -219,7 +217,6 @@
             "deck_id": "262973",
             "rank": "1",
             "player": "Juliano Zimmermam",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Grand Arbiter Augustin IV"
             ],
@@ -323,7 +320,6 @@
             "deck_id": "262974",
             "rank": "2",
             "player": "Rafael Tanabe",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Tasigur, the Golden Fang"
             ],
@@ -432,7 +428,6 @@
             "deck_id": "262975",
             "rank": "5",
             "player": "Jorge Takana",
-            "winrate": 0.625,
             "commander": [
                 "Teferi, Temporal Archmage"
             ],
@@ -512,7 +507,6 @@
             "deck_id": "262976",
             "rank": "6",
             "player": "Fernando Yada Marinho",
-            "winrate": 0.625,
             "commander": [
                 "Narset, Enlightened Master"
             ],
@@ -618,7 +612,6 @@
             "deck_id": "262977",
             "rank": "7",
             "player": "Fabio Kaneto",
-            "winrate": 0.625,
             "commander": [
                 "Selvala, Explorer Returned"
             ],
@@ -722,7 +715,6 @@
             "deck_id": "262978",
             "rank": "8",
             "player": "João Lucas Caparroz",
-            "winrate": 0.625,
             "commander": [
                 "Maelstrom Wanderer"
             ],

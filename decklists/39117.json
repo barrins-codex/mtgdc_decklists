@@ -10,7 +10,6 @@
             "deck_id": "491582",
             "rank": "1",
             "player": "Guilherme Bellagente",
-            "winrate": 1.0,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "491583",
             "rank": "2",
             "player": "Felipe Caetano",
-            "winrate": 0.8,
             "commander": [
                 "Juri, Master of the Revue"
             ],
@@ -221,7 +219,6 @@
             "deck_id": "491584",
             "rank": "3-4",
             "player": "Guilherme Detling",
-            "winrate": 0.6,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -303,7 +300,6 @@
             "deck_id": "491585",
             "rank": "3-4",
             "player": "Douglas Pacifico",
-            "winrate": 0.6,
             "commander": [
                 "Octavia, Living Thesis"
             ],

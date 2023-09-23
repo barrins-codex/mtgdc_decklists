@@ -10,7 +10,6 @@
             "deck_id": "274712",
             "rank": "1",
             "player": "Ste Villaraza",
-            "winrate": 1.0,
             "commander": [
                 "Surrak Dragonclaw"
             ],
@@ -111,7 +110,6 @@
             "deck_id": "274713",
             "rank": "5-8",
             "player": "Paolo Jose Panganiban",
-            "winrate": 0.6,
             "commander": [
                 "Zurgo Bellstriker"
             ],
@@ -189,7 +187,6 @@
             "deck_id": "274714",
             "rank": "5-8",
             "player": "Yves Bausa",
-            "winrate": 0.6,
             "commander": [
                 "Narset, Enlightened Master"
             ],
@@ -293,7 +290,6 @@
             "deck_id": "274715",
             "rank": "5-8",
             "player": "Michael Diaz",
-            "winrate": 0.6,
             "commander": [
                 "Anafenza, the Foremost"
             ],
@@ -403,7 +399,6 @@
             "deck_id": "274716",
             "rank": "3-4",
             "player": "Daniel Pajarillo",
-            "winrate": 0.8,
             "commander": [
                 "Animar, Soul of Elements"
             ],
@@ -508,7 +503,6 @@
             "deck_id": "274717",
             "rank": "1",
             "player": "Simon Floreza",
-            "winrate": 1.0,
             "commander": [
                 "Narset, Enlightened Master"
             ],
@@ -614,7 +608,6 @@
             "deck_id": "274718",
             "rank": "3-4",
             "player": "Tomee Tomelden",
-            "winrate": 0.8,
             "commander": [
                 "Jace, Vryn's Prodigy"
             ],
@@ -696,7 +689,6 @@
             "deck_id": "274719",
             "rank": "5-8",
             "player": "Mark Diaz",
-            "winrate": 0.6,
             "commander": [
                 "Jenara, Asura of War"
             ],

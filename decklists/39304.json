@@ -10,7 +10,6 @@
             "deck_id": "492650",
             "rank": "1",
             "player": "Earl Castel",
-            "winrate": 1.0,
             "commander": [
                 "Old Stickfingers"
             ],
@@ -111,7 +110,6 @@
             "deck_id": "492651",
             "rank": "2",
             "player": "Allan Mariano",
-            "winrate": 0.8,
             "commander": [
                 "Ghyrson Starn, Kelermorph"
             ],
@@ -210,7 +208,6 @@
             "deck_id": "492652",
             "rank": "3-4",
             "player": "Aaron Macaso",
-            "winrate": 0.8,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -318,7 +315,6 @@
             "deck_id": "492653",
             "rank": "3-4",
             "player": "Ian Paul Roa",
-            "winrate": 0.8,
             "commander": [
                 "Feather, the Redeemed"
             ],
@@ -408,7 +404,6 @@
             "deck_id": "492654",
             "rank": "5-8",
             "player": "Cilbert Corpuz",
-            "winrate": 0.6,
             "commander": [
                 "Rem Karolus, Stalwart Slayer"
             ],
@@ -515,7 +510,6 @@
             "deck_id": "492655",
             "rank": "5-8",
             "player": "Martin Ogayon",
-            "winrate": 0.6,
             "commander": [
                 "Grist, the Hunger Tide"
             ],
@@ -617,7 +611,6 @@
             "deck_id": "492656",
             "rank": "5-8",
             "player": "Christian Agbon",
-            "winrate": 0.6,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -704,7 +697,6 @@
             "deck_id": "492657",
             "rank": "5-8",
             "player": "Mark Gonzales",
-            "winrate": 0.6,
             "commander": [
                 "Titania, Protector of Argoth"
             ],

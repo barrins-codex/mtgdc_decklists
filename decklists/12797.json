@@ -10,7 +10,6 @@
             "deck_id": "274259",
             "rank": "3-4",
             "player": "Akenamon Daher",
-            "winrate": 0.8,
             "commander": [
                 "Jhoira of the Ghitu"
             ],
@@ -105,7 +104,6 @@
             "deck_id": "274260",
             "rank": "3-4",
             "player": "Leonardo \"Estranho\" Martins",
-            "winrate": 0.8,
             "commander": [
                 "Jace, Vryn's Prodigy"
             ],
@@ -187,7 +185,6 @@
             "deck_id": "274261",
             "rank": "2",
             "player": "Diego Ganev",
-            "winrate": 0.8,
             "commander": [
                 "Anafenza, the Foremost"
             ],
@@ -297,7 +294,6 @@
             "deck_id": "274262",
             "rank": "1",
             "player": "Fabio Kaneta",
-            "winrate": 1.0,
             "commander": [
                 "Titania, Protector of Argoth"
             ],

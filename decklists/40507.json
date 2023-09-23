@@ -10,7 +10,6 @@
             "deck_id": "501407",
             "rank": "2",
             "player": "Jonas Kretzschmar",
-            "winrate": 0.8,
             "commander": [
                 "Dennick, Pious Apprentice"
             ],
@@ -114,7 +113,6 @@
             "deck_id": "501408",
             "rank": "2",
             "player": "Richard Kirsch",
-            "winrate": 0.8,
             "commander": [
                 "Balmor, Battlemage Captain"
             ],

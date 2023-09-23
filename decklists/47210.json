@@ -10,7 +10,6 @@
             "deck_id": "548862",
             "rank": "1",
             "player": "Jérémy Reigneux",
-            "winrate": 1.0,
             "commander": [
                 "Lurrus of the Dream-Den",
                 "Wernog, Rider's Chaplain",
@@ -121,7 +120,6 @@
             "deck_id": "548863",
             "rank": "2",
             "player": "Julien Schneider",
-            "winrate": 0.8,
             "commander": [
                 "Balmor, Battlemage Captain"
             ],
@@ -222,7 +220,6 @@
             "deck_id": "548864",
             "rank": "3-4",
             "player": "Adeline Sellier",
-            "winrate": 0.8,
             "commander": [
                 "Ghyrson Starn, Kelermorph"
             ],
@@ -320,7 +317,6 @@
             "deck_id": "548865",
             "rank": "3-4",
             "player": "Ramel Senoussi",
-            "winrate": 0.8,
             "commander": [
                 "Atraxa, Praetors' Voice"
             ],
@@ -429,7 +425,6 @@
             "deck_id": "548866",
             "rank": "5-8",
             "player": "Matthieu Langlet",
-            "winrate": 0.6,
             "commander": [
                 "Ertai Resurrected"
             ],
@@ -524,7 +519,6 @@
             "deck_id": "548867",
             "rank": "5-8",
             "player": "Onesauk",
-            "winrate": 0.6,
             "commander": [
                 "Tivit, Seller of Secrets"
             ],
@@ -634,7 +628,6 @@
             "deck_id": "548868",
             "rank": "5-8",
             "player": "Paul Joye",
-            "winrate": 0.6,
             "commander": [
                 "Atraxa, Grand Unifier"
             ],
@@ -744,7 +737,6 @@
             "deck_id": "548869",
             "rank": "5-8",
             "player": "Raphael Motais",
-            "winrate": 0.6,
             "commander": [
                 "Skrelv, Defector Mite"
             ],

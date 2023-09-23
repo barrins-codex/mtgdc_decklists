@@ -10,7 +10,6 @@
             "deck_id": "336839",
             "rank": "2",
             "player": "Jiang Ling",
-            "winrate": 0.8,
             "commander": [
                 "Saskia the Unyielding"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "336840",
             "rank": "1",
             "player": "Xu Zinan",
-            "winrate": 1.0,
             "commander": [
                 "Titania, Protector of Argoth"
             ],

@@ -10,7 +10,6 @@
             "deck_id": "536821",
             "rank": "1",
             "player": "Zhengyang Zhou",
-            "winrate": 0.9,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "536822",
             "rank": "2",
             "player": "Guanglei Li",
-            "winrate": 0.8,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -230,7 +228,6 @@
             "deck_id": "536823",
             "rank": "3-4",
             "player": "Yi Gao",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -340,7 +337,6 @@
             "deck_id": "536824",
             "rank": "3-4",
             "player": "Jiahe Jiang",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -450,7 +446,6 @@
             "deck_id": "536825",
             "rank": "5-8",
             "player": "Boran Gao",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Grist, the Hunger Tide"
             ],
@@ -549,7 +544,6 @@
             "deck_id": "536826",
             "rank": "5-8",
             "player": "Mo Sun",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Feldon, Ronom Excavator"
             ],
@@ -639,7 +633,6 @@
             "deck_id": "536827",
             "rank": "5-8",
             "player": "Yixuan Gao",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Atraxa, Grand Unifier"
             ],
@@ -749,7 +742,6 @@
             "deck_id": "536828",
             "rank": "5-8",
             "player": "Yuchen Yang",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Atraxa, Grand Unifier"
             ],

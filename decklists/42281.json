@@ -10,7 +10,6 @@
             "deck_id": "513098",
             "rank": "1",
             "player": "Edison Gabutero",
-            "winrate": 1.0,
             "commander": [
                 "Reyhan, Last of the Abzan",
                 "Yoshimaru, Ever Faithful"
@@ -112,7 +111,6 @@
             "deck_id": "513099",
             "rank": "2",
             "player": "Paolo \"wetpacker\" Tolentino",
-            "winrate": 0.8,
             "commander": [
                 "Dragonlord Ojutai"
             ],

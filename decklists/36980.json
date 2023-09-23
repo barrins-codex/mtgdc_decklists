@@ -10,7 +10,6 @@
             "deck_id": "477749",
             "rank": "1",
             "player": "Renan Da Massa",
-            "winrate": 1.0,
             "commander": [
                 "Gut, True Soul Zealot",
                 "Candlekeep Sage"
@@ -113,7 +112,6 @@
             "deck_id": "477750",
             "rank": "2",
             "player": "Cleber Vieira",
-            "winrate": 0.8,
             "commander": [
                 "Grist, the Hunger Tide"
             ],
@@ -214,7 +212,6 @@
             "deck_id": "477751",
             "rank": "3",
             "player": "Igor Da Silva Moncks Valério",
-            "winrate": 0.6,
             "commander": [
                 "Octavia, Living Thesis"
             ],

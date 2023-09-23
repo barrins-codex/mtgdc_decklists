@@ -10,7 +10,6 @@
             "deck_id": "504927",
             "rank": "1",
             "player": "Yann Belmer",
-            "winrate": 1.0,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "504928",
             "rank": "2",
             "player": "Raphaël Préau",
-            "winrate": 0.8,
             "commander": [
                 "Grist, the Hunger Tide"
             ],
@@ -220,7 +218,6 @@
             "deck_id": "504929",
             "rank": "3-4",
             "player": "Asae",
-            "winrate": 0.8,
             "commander": [
                 "Emmara, Soul of the Accord"
             ],
@@ -320,7 +317,6 @@
             "deck_id": "504930",
             "rank": "3-4",
             "player": "Paul Juyaux",
-            "winrate": 0.8,
             "commander": [
                 "Lurrus of the Dream-Den",
                 "Wernog, Rider's Chaplain",
@@ -431,7 +427,6 @@
             "deck_id": "504931",
             "rank": "5-8",
             "player": "Yann Herpe",
-            "winrate": 0.6,
             "commander": [
                 "Grist, the Hunger Tide"
             ],
@@ -531,7 +526,6 @@
             "deck_id": "504932",
             "rank": "5-8",
             "player": "Aubin Ronchant",
-            "winrate": 0.6,
             "commander": [
                 "Yoshimaru, Ever Faithful",
                 "Bruse Tarl, Boorish Herder"
@@ -634,7 +628,6 @@
             "deck_id": "504933",
             "rank": "5-8",
             "player": "Alexandre Benac",
-            "winrate": 0.6,
             "commander": [
                 "Hogaak, Arisen Necropolis"
             ],
@@ -744,7 +737,6 @@
             "deck_id": "504934",
             "rank": "5-8",
             "player": "Anthony Dominguez",
-            "winrate": 0.6,
             "commander": [
                 "Niv-Mizzet Reborn"
             ],

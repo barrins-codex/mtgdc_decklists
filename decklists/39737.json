@@ -10,7 +10,6 @@
             "deck_id": "496170",
             "rank": "1",
             "player": "Martial Moreau",
-            "winrate": 0.9,
             "commander": [
                 "Bruse Tarl, Boorish Herder",
                 "Yoshimaru, Ever Faithful"
@@ -113,7 +112,6 @@
             "deck_id": "496171",
             "rank": "2",
             "player": "Leo Etesse",
-            "winrate": 0.8,
             "commander": [
                 "Noble Heritage",
                 "Gut, True Soul Zealot"
@@ -215,7 +213,6 @@
             "deck_id": "496172",
             "rank": "3-4",
             "player": "Maximilien Kalil",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -325,7 +322,6 @@
             "deck_id": "496173",
             "rank": "3-4",
             "player": "Thomas Le Goff",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Grist, the Hunger Tide"
             ],
@@ -425,7 +421,6 @@
             "deck_id": "496174",
             "rank": "5-8",
             "player": "Yan Lorente",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -535,7 +530,6 @@
             "deck_id": "496175",
             "rank": "5-8",
             "player": "Geoffrey Metivier",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Gut, True Soul Zealot",
                 "Hardy Outlander"
@@ -640,7 +634,6 @@
             "deck_id": "496176",
             "rank": "5-8",
             "player": "Ronan Jouet",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Tana, the Bloodsower",
                 "Yoshimaru, Ever Faithful"
@@ -747,7 +740,6 @@
             "deck_id": "496177",
             "rank": "5-8",
             "player": "Tugdual Kervoas",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Niv-Mizzet Reborn"
             ],
@@ -857,7 +849,6 @@
             "deck_id": "496178",
             "rank": "9-16",
             "player": "Leo Viry",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Octavia, Living Thesis"
             ],
@@ -944,7 +935,6 @@
             "deck_id": "496179",
             "rank": "9-16",
             "player": "Aurèle Commeureuc",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Ghyrson Starn, Kelermorph"
             ],
@@ -1042,7 +1032,6 @@
             "deck_id": "496180",
             "rank": "9-16",
             "player": "Kevin Kernheres",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Gallia of the Endless Dance"
             ],
@@ -1141,7 +1130,6 @@
             "deck_id": "496181",
             "rank": "9-16",
             "player": "Maxime Allée",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Grist, the Hunger Tide"
             ],
@@ -1241,7 +1229,6 @@
             "deck_id": "496182",
             "rank": "9-16",
             "player": "Leo Ganachaud",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Greasefang, Okiba Boss"
             ],
@@ -1343,7 +1330,6 @@
             "deck_id": "496183",
             "rank": "9-16",
             "player": "Baptiste Touboulic",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "The Gitrog Monster"
             ],
@@ -1443,7 +1429,6 @@
             "deck_id": "496184",
             "rank": "9-16",
             "player": "Alexandre Chevret",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],

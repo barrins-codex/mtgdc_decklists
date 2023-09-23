@@ -10,7 +10,6 @@
             "deck_id": "268922",
             "rank": "5-8",
             "player": "Vitezslav Smid",
-            "winrate": 0.75,
             "commander": [
                 "Grand Arbiter Augustin IV"
             ],
@@ -107,7 +106,6 @@
             "deck_id": "268923",
             "rank": "5-8",
             "player": "Roman Vejdelek",
-            "winrate": 0.75,
             "commander": [
                 "Marath, Will of the Wild"
             ],
@@ -211,7 +209,6 @@
             "deck_id": "268924",
             "rank": "1",
             "player": "Dominik Maly",
-            "winrate": 0.8888888888888888,
             "commander": [
                 "Animar, Soul of Elements"
             ],
@@ -312,7 +309,6 @@
             "deck_id": "268925",
             "rank": "2",
             "player": "Petr Tejnsky",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Titania, Protector of Argoth"
             ],
@@ -403,7 +399,6 @@
             "deck_id": "268926",
             "rank": "3-4",
             "player": "Daniel Korec",
-            "winrate": 0.75,
             "commander": [
                 "Jenara, Asura of War"
             ],
@@ -512,7 +507,6 @@
             "deck_id": "268927",
             "rank": "3-4",
             "player": "Filip Sindler",
-            "winrate": 0.75,
             "commander": [
                 "Prime Speaker Zegana"
             ],
@@ -611,7 +605,6 @@
             "deck_id": "268928",
             "rank": "5-8",
             "player": "David Brinek",
-            "winrate": 0.75,
             "commander": [
                 "Yisan, the Wanderer Bard"
             ],
@@ -700,7 +693,6 @@
             "deck_id": "268929",
             "rank": "5-8",
             "player": "Vojtech Kristen",
-            "winrate": 0.75,
             "commander": [
                 "Wydwen, the Biting Gale"
             ],

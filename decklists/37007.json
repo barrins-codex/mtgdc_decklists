@@ -10,7 +10,6 @@
             "deck_id": "477949",
             "rank": "1",
             "player": "Michael Cabrera",
-            "winrate": 1.0,
             "commander": [
                 "Light-Paws, Emperor's Voice"
             ],
@@ -95,7 +94,6 @@
             "deck_id": "477950",
             "rank": "2",
             "player": "Joel San Jose, Jr.",
-            "winrate": 0.8,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -203,7 +201,6 @@
             "deck_id": "477951",
             "rank": "3-4",
             "player": "Sherwin Lobrigo",
-            "winrate": 0.8,
             "commander": [
                 "Minsc &amp; Boo, Timeless Heroes"
             ],
@@ -307,7 +304,6 @@
             "deck_id": "477952",
             "rank": "3-4",
             "player": "Aerwin Asico",
-            "winrate": 0.8,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -388,7 +384,6 @@
             "deck_id": "477953",
             "rank": "5-8",
             "player": "Paolo Tolentino",
-            "winrate": 0.6,
             "commander": [
                 "Dragonlord Ojutai"
             ],
@@ -492,7 +487,6 @@
             "deck_id": "477954",
             "rank": "5-8",
             "player": "Jhay Brinquiz",
-            "winrate": 0.6,
             "commander": [
                 "Marath, Will of the Wild"
             ],
@@ -601,7 +595,6 @@
             "deck_id": "477955",
             "rank": "5-8",
             "player": "Rexel Tenorio",
-            "winrate": 0.6,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -711,7 +704,6 @@
             "deck_id": "477956",
             "rank": "5-8",
             "player": "Paul Relativo",
-            "winrate": 0.6,
             "commander": [
                 "Niv-Mizzet Reborn"
             ],

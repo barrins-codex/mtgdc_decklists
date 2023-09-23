@@ -10,7 +10,6 @@
             "deck_id": "503798",
             "rank": "1",
             "player": "Kévin Luongo",
-            "winrate": 0.875,
             "commander": [
                 "Grist, the Hunger Tide"
             ],
@@ -111,7 +110,6 @@
             "deck_id": "503799",
             "rank": "2",
             "player": "Kelig Maze",
-            "winrate": 0.75,
             "commander": [
                 "Feldon, Ronom Excavator"
             ],
@@ -198,7 +196,6 @@
             "deck_id": "503800",
             "rank": "3-4",
             "player": "Cédric Froger",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Veteran Soldier",
                 "Gut, True Soul Zealot"
@@ -303,7 +300,6 @@
             "deck_id": "503801",
             "rank": "3-4",
             "player": "Anthony Ruer",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "The Gitrog Monster"
             ],
@@ -403,7 +399,6 @@
             "deck_id": "503802",
             "rank": "5-8",
             "player": "Yves Garrigues",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Tajic, Legion's Edge"
             ],
@@ -507,7 +502,6 @@
             "deck_id": "503803",
             "rank": "5-8",
             "player": "Damien Garcia",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Tivit, Seller of Secrets"
             ],
@@ -617,7 +611,6 @@
             "deck_id": "503804",
             "rank": "5-8",
             "player": "Toni De Paoli",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -727,7 +720,6 @@
             "deck_id": "503805",
             "rank": "5-8",
             "player": "Andy Sieurac",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],

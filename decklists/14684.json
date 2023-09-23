@@ -10,7 +10,6 @@
             "deck_id": "288242",
             "rank": "5-8",
             "player": "Daniel Corassa",
-            "winrate": 0.75,
             "commander": [
                 "Zurgo Bellstriker"
             ],
@@ -85,7 +84,6 @@
             "deck_id": "288243",
             "rank": "5-8",
             "player": "George Caetano",
-            "winrate": 0.75,
             "commander": [
                 "Geist of Saint Traft"
             ],
@@ -182,7 +180,6 @@
             "deck_id": "288244",
             "rank": "5-8",
             "player": "Irineu Mendes",
-            "winrate": 0.75,
             "commander": [
                 "Bruse Tarl, Boorish Herder",
                 "Akiri, Line-Slinger"
@@ -275,7 +272,6 @@
             "deck_id": "288245",
             "rank": "3-4",
             "player": "Fábio Fernandes Vieira",
-            "winrate": 0.75,
             "commander": [
                 "Reyhan, Last of the Abzan",
                 "Bruse Tarl, Boorish Herder"
@@ -385,7 +381,6 @@
             "deck_id": "288246",
             "rank": "3-4",
             "player": "Vitor Sznifer",
-            "winrate": 0.75,
             "commander": [
                 "Selvala, Heart of the Wilds"
             ],
@@ -471,7 +466,6 @@
             "deck_id": "288247",
             "rank": "2",
             "player": "Guilherme Sesso Bonella",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Breya, Etherium Shaper"
             ],
@@ -581,7 +575,6 @@
             "deck_id": "288248",
             "rank": "1",
             "player": "Fernando Yada Marinho",
-            "winrate": 0.8888888888888888,
             "commander": [
                 "Kraum, Ludevic's Opus",
                 "Vial Smasher the Fierce"
@@ -691,7 +684,6 @@
             "deck_id": "288249",
             "rank": "5-8",
             "player": "Luiz Felipe Zumnstein",
-            "winrate": 0.75,
             "commander": [
                 "Kraum, Ludevic's Opus",
                 "Vial Smasher the Fierce"

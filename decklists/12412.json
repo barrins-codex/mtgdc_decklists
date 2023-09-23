@@ -10,7 +10,6 @@
             "deck_id": "271386",
             "rank": "2",
             "player": "Earl Castel",
-            "winrate": 0.8,
             "commander": [
                 "Sidisi, Undead Vizier"
             ],
@@ -91,7 +90,6 @@
             "deck_id": "271387",
             "rank": "1",
             "player": "Chester Bausa",
-            "winrate": 1.0,
             "commander": [
                 "Narset, Enlightened Master"
             ],

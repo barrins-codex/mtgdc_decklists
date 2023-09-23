@@ -10,7 +10,6 @@
             "deck_id": "223240",
             "rank": "1",
             "player": "Pascal Greco",
-            "winrate": 1.0,
             "commander": [
                 "Geist of Saint Traft"
             ],
@@ -115,7 +114,6 @@
             "deck_id": "223241",
             "rank": "3",
             "player": "The Nameless One",
-            "winrate": 0.8,
             "commander": [
                 "Merieke Ri Berit"
             ],
@@ -222,7 +220,6 @@
             "deck_id": "223242",
             "rank": "4",
             "player": "Martial Quintyn",
-            "winrate": 0.6,
             "commander": [
                 "Sliver Queen"
             ],
@@ -332,7 +329,6 @@
             "deck_id": "223243",
             "rank": "2",
             "player": "William Pinaud",
-            "winrate": 0.8,
             "commander": [
                 "Jenara, Asura of War"
             ],

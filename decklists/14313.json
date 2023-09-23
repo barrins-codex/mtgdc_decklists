@@ -10,7 +10,6 @@
             "deck_id": "285431",
             "rank": "3-4",
             "player": "JM Authieux",
-            "winrate": 0.625,
             "commander": [
                 "Breya, Etherium Shaper"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "285432",
             "rank": "3-4",
             "player": "Q.Mercier",
-            "winrate": 0.625,
             "commander": [
                 "Skullbriar, the Walking Grave"
             ],
@@ -220,7 +218,6 @@
             "deck_id": "285433",
             "rank": "2",
             "player": "Julien Junyck",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Thrasios, Triton Hero",
                 "Vial Smasher the Fierce"
@@ -330,7 +327,6 @@
             "deck_id": "285434",
             "rank": "1",
             "player": "David \"Ardo\" Le Corvec",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Leovold, Emissary of Trest"
             ],

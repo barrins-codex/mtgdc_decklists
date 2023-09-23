@@ -10,7 +10,6 @@
             "deck_id": "480765",
             "rank": "1",
             "player": "Pyrrhus",
-            "winrate": 0.9090909090909091,
             "commander": [
                 "The Gitrog Monster"
             ],
@@ -110,7 +109,6 @@
             "deck_id": "480766",
             "rank": "2",
             "player": "Julien \"bricoflex\" Bihet",
-            "winrate": 0.8181818181818182,
             "commander": [
                 "Minsc &amp; Boo, Timeless Heroes"
             ],
@@ -211,7 +209,6 @@
             "deck_id": "480767",
             "rank": "3-4",
             "player": "Maxime Morillon",
-            "winrate": 0.8,
             "commander": [
                 "Dennick, Pious Apprentice"
             ],
@@ -314,7 +311,6 @@
             "deck_id": "480768",
             "rank": "3-4",
             "player": "Adrien \"oni\" Demoget",
-            "winrate": 0.8,
             "commander": [
                 "Light-Paws, Emperor's Voice"
             ],
@@ -395,7 +391,6 @@
             "deck_id": "480769",
             "rank": "5-8",
             "player": "Antonin Guillaumeont",
-            "winrate": 0.8,
             "commander": [
                 "Tivit, Seller of Secrets"
             ],
@@ -505,7 +500,6 @@
             "deck_id": "480770",
             "rank": "5-8",
             "player": "Jules \"askeladden\" Lestienne",
-            "winrate": 0.8,
             "commander": [
                 "Lurrus of the Dream-Den",
                 "Wernog, Rider's Chaplain",
@@ -616,7 +610,6 @@
             "deck_id": "480771",
             "rank": "5-8",
             "player": "Léo Facca",
-            "winrate": 0.8,
             "commander": [
                 "Niv-Mizzet Reborn"
             ],
@@ -726,7 +719,6 @@
             "deck_id": "480772",
             "rank": "5-8",
             "player": "Melvin Bissor",
-            "winrate": 0.8,
             "commander": [
                 "Minsc &amp; Boo, Timeless Heroes"
             ],
@@ -830,7 +822,6 @@
             "deck_id": "480773",
             "rank": "9-16",
             "player": "Manolo Castro",
-            "winrate": 0.75,
             "commander": [
                 "Grist, the Hunger Tide"
             ],
@@ -929,7 +920,6 @@
             "deck_id": "480774",
             "rank": "9-16",
             "player": "Kevin Vernheres",
-            "winrate": 0.75,
             "commander": [
                 "Minsc &amp; Boo, Timeless Heroes"
             ],
@@ -1027,7 +1017,6 @@
             "deck_id": "480775",
             "rank": "9-16",
             "player": "Christophe Nau",
-            "winrate": 0.75,
             "commander": [
                 "Lurrus of the Dream-Den",
                 "Wernog, Rider's Chaplain",
@@ -1138,7 +1127,6 @@
             "deck_id": "480776",
             "rank": "9-16",
             "player": "Charles Gautier",
-            "winrate": 0.75,
             "commander": [
                 "Hogaak, Arisen Necropolis"
             ],
@@ -1248,7 +1236,6 @@
             "deck_id": "480777",
             "rank": "9-16",
             "player": "Thomas Méchin",
-            "winrate": 0.75,
             "commander": [
                 "Tivit, Seller of Secrets"
             ],
@@ -1358,7 +1345,6 @@
             "deck_id": "480778",
             "rank": "9-16",
             "player": "Maximilien Kalil",
-            "winrate": 0.75,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -1468,7 +1454,6 @@
             "deck_id": "480779",
             "rank": "9-16",
             "player": "Guillaume Audiffren",
-            "winrate": 0.75,
             "commander": [
                 "Svyelun of Sea and Sky"
             ],
@@ -1557,7 +1542,6 @@
             "deck_id": "480780",
             "rank": "9-16",
             "player": "Noah Silberfeld",
-            "winrate": 0.75,
             "commander": [
                 "Minsc &amp; Boo, Timeless Heroes"
             ],

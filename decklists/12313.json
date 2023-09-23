@@ -10,7 +10,6 @@
             "deck_id": "271017",
             "rank": "1",
             "player": "David Beduzzi",
-            "winrate": 0.9,
             "commander": [
                 "Teferi, Temporal Archmage"
             ],
@@ -93,7 +92,6 @@
             "deck_id": "271018",
             "rank": "1",
             "player": "Noham Maubert",
-            "winrate": 0.9,
             "commander": [
                 "Vendilion Clique"
             ],
@@ -181,7 +179,6 @@
             "deck_id": "271019",
             "rank": "1",
             "player": "Adrien De Grotteau",
-            "winrate": 0.9,
             "commander": [
                 "Doran, the Siege Tower"
             ],
@@ -291,7 +288,6 @@
             "deck_id": "271020",
             "rank": "1",
             "player": "Jérémy Krakowiak",
-            "winrate": 0.9,
             "commander": [
                 "Meren of Clan Nel Toth"
             ],

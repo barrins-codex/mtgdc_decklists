@@ -10,7 +10,6 @@
             "deck_id": "246779",
             "rank": "1",
             "player": "Chen Rui",
-            "winrate": 1.0,
             "commander": [
                 "Animar, Soul of Elements"
             ],
@@ -111,7 +110,6 @@
             "deck_id": "246780",
             "rank": "2",
             "player": "Shen Shiyang",
-            "winrate": 0.8,
             "commander": [
                 "Marath, Will of the Wild"
             ],

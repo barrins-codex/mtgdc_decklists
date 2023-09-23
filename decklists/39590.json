@@ -10,7 +10,6 @@
             "deck_id": "495079",
             "rank": "1",
             "player": "Audwin Abellera",
-            "winrate": 0.8888888888888888,
             "commander": [
                 "Kytheon, Hero of Akros"
             ],
@@ -99,7 +98,6 @@
             "deck_id": "495080",
             "rank": "2",
             "player": "Jarbs Sahagun",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Elminster"
             ],
@@ -202,7 +200,6 @@
             "deck_id": "495081",
             "rank": "3-4",
             "player": "Exequiel Lim",
-            "winrate": 0.75,
             "commander": [
                 "Titania, Protector of Argoth"
             ],
@@ -300,7 +297,6 @@
             "deck_id": "495082",
             "rank": "3-4",
             "player": "Rich Calucag",
-            "winrate": 0.75,
             "commander": [
                 "Tivit, Seller of Secrets"
             ],
@@ -410,7 +406,6 @@
             "deck_id": "495083",
             "rank": "5-8",
             "player": "Ste Villaraza",
-            "winrate": 0.75,
             "commander": [
                 "Tivit, Seller of Secrets"
             ],
@@ -520,7 +515,6 @@
             "deck_id": "495084",
             "rank": "5-8",
             "player": "Kiyoshi Takeuchi",
-            "winrate": 0.75,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -630,7 +624,6 @@
             "deck_id": "495085",
             "rank": "5-8",
             "player": "Aaron Macaso",
-            "winrate": 0.75,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -738,7 +731,6 @@
             "deck_id": "495086",
             "rank": "5-8",
             "player": "Pepelepew",
-            "winrate": 0.75,
             "commander": [
                 "Raffine, Scheming Seer"
             ],

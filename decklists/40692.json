@@ -10,7 +10,6 @@
             "deck_id": "502732",
             "rank": "1",
             "player": "Ste Villaraza",
-            "winrate": 1.0,
             "commander": [
                 "Elminster"
             ],
@@ -109,7 +108,6 @@
             "deck_id": "502733",
             "rank": "3",
             "player": "Gabe Enriquez",
-            "winrate": 0.8,
             "commander": [
                 "Gut, True Soul Zealot",
                 "Hardy Outlander"
@@ -214,7 +212,6 @@
             "deck_id": "502734",
             "rank": "2",
             "player": "Rc Ong",
-            "winrate": 0.8,
             "commander": [
                 "Kroxa, Titan of Death's Hunger"
             ],
@@ -319,7 +316,6 @@
             "deck_id": "502735",
             "rank": "4",
             "player": "Martin Ikemura",
-            "winrate": 0.6,
             "commander": [
                 "The Ur-Dragon"
             ],

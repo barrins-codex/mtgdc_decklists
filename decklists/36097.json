@@ -10,7 +10,6 @@
             "deck_id": "471821",
             "rank": "1",
             "player": "Nico Poolrat",
-            "winrate": 1.0,
             "commander": [
                 "Kydele, Chosen of Kruphix",
                 "Bruse Tarl, Boorish Herder"
@@ -118,7 +117,6 @@
             "deck_id": "471822",
             "rank": "2",
             "player": "Michaël \"joker\"  Gence",
-            "winrate": 0.8,
             "commander": [
                 "Shorikai, Genesis Engine"
             ],
@@ -224,7 +222,6 @@
             "deck_id": "471823",
             "rank": "3",
             "player": "Bilal \"rs_khan\" Moullan",
-            "winrate": 0.8,
             "commander": [
                 "Grist, the Hunger Tide"
             ],
@@ -323,7 +320,6 @@
             "deck_id": "471824",
             "rank": "4",
             "player": "Olivier \"aloth\" Leclercq",
-            "winrate": 0.8,
             "commander": [
                 "Chainer, Nightmare Adept"
             ],
@@ -424,7 +420,6 @@
             "deck_id": "471825",
             "rank": "5",
             "player": "Anthony \"rs_ Strad\" Vallon",
-            "winrate": 0.6,
             "commander": [
                 "Shorikai, Genesis Engine"
             ],
@@ -524,7 +519,6 @@
             "deck_id": "471826",
             "rank": "6",
             "player": "Matthieu Guertener",
-            "winrate": 0.6,
             "commander": [
                 "The Beamtown Bullies"
             ],
@@ -634,7 +628,6 @@
             "deck_id": "471827",
             "rank": "7",
             "player": "Yann \"rs_black\" Meese",
-            "winrate": 0.6,
             "commander": [
                 "Dennick, Pious Apprentice"
             ],
@@ -736,7 +729,6 @@
             "deck_id": "471828",
             "rank": "8",
             "player": "Baptiste Manhaval",
-            "winrate": 0.6,
             "commander": [
                 "Niv-Mizzet, Parun"
             ],

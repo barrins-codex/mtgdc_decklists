@@ -10,7 +10,6 @@
             "deck_id": "268274",
             "rank": "1",
             "player": "Alex Girelli",
-            "winrate": 1.0,
             "commander": [
                 "Maelstrom Wanderer"
             ],
@@ -110,7 +109,6 @@
             "deck_id": "268275",
             "rank": "2",
             "player": "Ak Ali",
-            "winrate": 0.8,
             "commander": [
                 "Marath, Will of the Wild"
             ],
@@ -217,7 +215,6 @@
             "deck_id": "268276",
             "rank": "3",
             "player": "Lorenzo Miracapillo",
-            "winrate": 0.6,
             "commander": [
                 "Radha, Heir to Keld"
             ],

@@ -10,7 +10,6 @@
             "deck_id": "322469",
             "rank": "3-4",
             "player": "Sylvain Zozaya",
-            "winrate": 0.6,
             "commander": [
                 "Queen Marchesa"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "322470",
             "rank": "3-4",
             "player": "Kaourintin Le Guiban",
-            "winrate": 0.6,
             "commander": [
                 "Akiri, Line-Slinger",
                 "Silas Renn, Seeker Adept"
@@ -230,7 +228,6 @@
             "deck_id": "322471",
             "rank": "2",
             "player": "Pierrick Visentin",
-            "winrate": 0.8,
             "commander": [
                 "Maelstrom Wanderer"
             ],
@@ -327,7 +324,6 @@
             "deck_id": "322472",
             "rank": "1",
             "player": "Thomas Travert",
-            "winrate": 1.0,
             "commander": [
                 "Zurgo Bellstriker"
             ],

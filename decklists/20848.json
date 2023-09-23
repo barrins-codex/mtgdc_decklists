@@ -10,7 +10,6 @@
             "deck_id": "338012",
             "rank": "1",
             "player": "Thibault Faidherbe",
-            "winrate": 1.0,
             "commander": [
                 "The Gitrog Monster"
             ],
@@ -108,7 +107,6 @@
             "deck_id": "338013",
             "rank": "1",
             "player": "Kilian \"ironvixen\" Boulhais",
-            "winrate": 1.0,
             "commander": [
                 "Kess, Dissident Mage"
             ],
@@ -218,7 +216,6 @@
             "deck_id": "338014",
             "rank": "1",
             "player": "Guillaume Audiffren",
-            "winrate": 1.0,
             "commander": [
                 "Baral, Chief of Compliance"
             ],

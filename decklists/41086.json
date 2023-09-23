@@ -10,7 +10,6 @@
             "deck_id": "505386",
             "rank": "1",
             "player": "Ludovic Lucas",
-            "winrate": 1.0,
             "commander": [
                 "Light-Paws, Emperor's Voice"
             ],
@@ -95,7 +94,6 @@
             "deck_id": "505387",
             "rank": "2",
             "player": "Sacha Keitel",
-            "winrate": 0.8,
             "commander": [
                 "Yoshimaru, Ever Faithful",
                 "Tana, the Bloodsower"

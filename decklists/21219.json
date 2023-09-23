@@ -10,7 +10,6 @@
             "deck_id": "341668",
             "rank": "2",
             "player": "Jeppe Risager",
-            "winrate": 0.8,
             "commander": [
                 "Kraum, Ludevic's Opus",
                 "Thrasios, Triton Hero"
@@ -117,7 +116,6 @@
             "deck_id": "341669",
             "rank": "1",
             "player": "Daniel Lind",
-            "winrate": 1.0,
             "commander": [
                 "Doran, the Siege Tower"
             ],

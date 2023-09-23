@@ -10,7 +10,6 @@
             "deck_id": "235778",
             "rank": "1",
             "player": "Julien \"Lyserg\" Henry",
-            "winrate": 0.8888888888888888,
             "commander": [
                 "Marath, Will of the Wild"
             ],
@@ -119,7 +118,6 @@
             "deck_id": "235779",
             "rank": "2",
             "player": "Mickael Robin",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Derevi, Empyrial Tactician"
             ],
@@ -229,7 +227,6 @@
             "deck_id": "235780",
             "rank": "3",
             "player": "Damien Marais",
-            "winrate": 0.75,
             "commander": [
                 "Jenara, Asura of War"
             ],
@@ -336,7 +333,6 @@
             "deck_id": "235781",
             "rank": "4",
             "player": "Sébastien \"bastos\" Bacon",
-            "winrate": 0.75,
             "commander": [
                 "Derevi, Empyrial Tactician"
             ],
@@ -446,7 +442,6 @@
             "deck_id": "235782",
             "rank": "5",
             "player": "Vivien \"Soratami\" Macé",
-            "winrate": 0.75,
             "commander": [
                 "Zur the Enchanter"
             ],
@@ -556,7 +551,6 @@
             "deck_id": "235783",
             "rank": "6",
             "player": "Nicolas Kielbasa",
-            "winrate": 0.75,
             "commander": [
                 "Wydwen, the Biting Gale"
             ],
@@ -654,7 +648,6 @@
             "deck_id": "235784",
             "rank": "7",
             "player": "Clément \"noskcaj\" Sillere",
-            "winrate": 0.75,
             "commander": [
                 "Zur the Enchanter"
             ],
@@ -764,7 +757,6 @@
             "deck_id": "235785",
             "rank": "8",
             "player": "Adrien Naturel",
-            "winrate": 0.75,
             "commander": [
                 "Derevi, Empyrial Tactician"
             ],

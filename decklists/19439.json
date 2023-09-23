@@ -10,7 +10,6 @@
             "deck_id": "324066",
             "rank": "3-4",
             "player": "Tomee Tomelden",
-            "winrate": 0.8,
             "commander": [
                 "Kraum, Ludevic's Opus",
                 "Tymna the Weaver"
@@ -120,7 +119,6 @@
             "deck_id": "324067",
             "rank": "3-4",
             "player": "Josh Fuentes",
-            "winrate": 0.8,
             "commander": [
                 "Kraum, Ludevic's Opus",
                 "Ikra Shidiqi, the Usurper"
@@ -227,7 +225,6 @@
             "deck_id": "324068",
             "rank": "2",
             "player": "Billy Gragasin",
-            "winrate": 0.8,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -308,7 +305,6 @@
             "deck_id": "324069",
             "rank": "1",
             "player": "Yves Bausa",
-            "winrate": 1.0,
             "commander": [
                 "Najeela, the Blade-Blossom"
             ],

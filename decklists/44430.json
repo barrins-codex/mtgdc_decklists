@@ -10,7 +10,6 @@
             "deck_id": "527709",
             "rank": "1",
             "player": "Jonathan Gomis",
-            "winrate": 0.8888888888888888,
             "commander": [
                 "Light-Paws, Emperor's Voice"
             ],
@@ -95,7 +94,6 @@
             "deck_id": "527710",
             "rank": "2",
             "player": "Jean-baptiste Canonici",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Ertai Resurrected"
             ],
@@ -191,7 +189,6 @@
             "deck_id": "527711",
             "rank": "3-4",
             "player": "Sébastien Genest",
-            "winrate": 0.75,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -299,7 +296,6 @@
             "deck_id": "527712",
             "rank": "3-4",
             "player": "Yoan Gariston",
-            "winrate": 0.75,
             "commander": [
                 "Sai, Master Thopterist"
             ],
@@ -386,7 +382,6 @@
             "deck_id": "527713",
             "rank": "5-8",
             "player": "Alexandre Andouard",
-            "winrate": 0.75,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -496,7 +491,6 @@
             "deck_id": "527714",
             "rank": "5-8",
             "player": "Baptiste Romezin",
-            "winrate": 0.75,
             "commander": [
                 "Feldon, Ronom Excavator"
             ],
@@ -580,7 +574,6 @@
             "deck_id": "527715",
             "rank": "5-8",
             "player": "Enzo Russo",
-            "winrate": 0.75,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -690,7 +683,6 @@
             "deck_id": "527716",
             "rank": "9-16",
             "player": "Patrick Hannesschiager",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Dihada, Binder of Wills"
             ],
@@ -800,7 +792,6 @@
             "deck_id": "527717",
             "rank": "9-16",
             "player": "Axel Laroche",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Dihada, Binder of Wills"
             ],
@@ -910,7 +901,6 @@
             "deck_id": "527718",
             "rank": "9-16",
             "player": "Christophe Nau",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Ghyrson Starn, Kelermorph"
             ],
@@ -1012,7 +1002,6 @@
             "deck_id": "527719",
             "rank": "9-16",
             "player": "Morgan Delon",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Dihada, Binder of Wills"
             ],
@@ -1122,7 +1111,6 @@
             "deck_id": "527720",
             "rank": "9-16",
             "player": "Ali Fellah",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Tana, the Bloodsower",
                 "Yoshimaru, Ever Faithful"
@@ -1228,7 +1216,6 @@
             "deck_id": "527721",
             "rank": "9-16",
             "player": "Morgan Laleure",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Dihada, Binder of Wills"
             ],

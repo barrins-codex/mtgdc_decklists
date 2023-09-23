@@ -10,7 +10,6 @@
             "deck_id": "520998",
             "rank": "1",
             "player": "Yannick Bouloc",
-            "winrate": 1.0,
             "commander": [
                 "Sai, Master Thopterist"
             ],
@@ -102,7 +101,6 @@
             "deck_id": "520999",
             "rank": "2",
             "player": "Jérôme Perez",
-            "winrate": 0.8,
             "commander": [
                 "Tana, the Bloodsower",
                 "Yoshimaru, Ever Faithful"
@@ -212,7 +210,6 @@
             "deck_id": "521000",
             "rank": "3",
             "player": "Jean Charles Larrieu",
-            "winrate": 0.8,
             "commander": [
                 "Elminster"
             ],
@@ -312,7 +309,6 @@
             "deck_id": "521001",
             "rank": "4",
             "player": "Yoan Gariston",
-            "winrate": 0.8,
             "commander": [
                 "Sai, Master Thopterist"
             ],
@@ -399,7 +395,6 @@
             "deck_id": "521002",
             "rank": "5-8",
             "player": "Maxime Catala",
-            "winrate": 0.6,
             "commander": [
                 "Wernog, Rider's Chaplain",
                 "Cecily, Haunted Mage"
@@ -509,7 +504,6 @@
             "deck_id": "521003",
             "rank": "5-8",
             "player": "Boris Ringotte",
-            "winrate": 0.6,
             "commander": [
                 "Balmor, Battlemage Captain"
             ],
@@ -611,7 +605,6 @@
             "deck_id": "521004",
             "rank": "5-8",
             "player": "Jean Loup Michel",
-            "winrate": 0.6,
             "commander": [
                 "Niv-Mizzet Reborn"
             ],
@@ -721,7 +714,6 @@
             "deck_id": "521005",
             "rank": "5-8",
             "player": "Julien « Aiolia » Grail",
-            "winrate": 0.6,
             "commander": [
                 "Bruse Tarl, Boorish Herder",
                 "Yoshimaru, Ever Faithful"

@@ -10,7 +10,6 @@
             "deck_id": "227898",
             "rank": "1",
             "player": "Kévin Boukebouche",
-            "winrate": 1.0,
             "commander": [
                 "Rhys the Redeemed"
             ],
@@ -108,7 +107,6 @@
             "deck_id": "227899",
             "rank": "2",
             "player": "Renaud Thirouard",
-            "winrate": 0.8,
             "commander": [
                 "Maelstrom Wanderer"
             ],
@@ -210,7 +208,6 @@
             "deck_id": "227900",
             "rank": "3",
             "player": "Romain Blet",
-            "winrate": 0.8,
             "commander": [
                 "Animar, Soul of Elements"
             ],
@@ -314,7 +311,6 @@
             "deck_id": "227901",
             "rank": "4",
             "player": "Vincent Carassus",
-            "winrate": 0.6,
             "commander": [
                 "Kiki-Jiki, Mirror Breaker"
             ],

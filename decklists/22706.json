@@ -10,7 +10,6 @@
             "deck_id": "355011",
             "rank": "1",
             "player": "Jannik D",
-            "winrate": 1.0,
             "commander": [
                 "Grenzo, Dungeon Warden"
             ],
@@ -114,7 +113,6 @@
             "deck_id": "355012",
             "rank": "2",
             "player": "Thomas H",
-            "winrate": 0.8,
             "commander": [
                 "Titania, Protector of Argoth"
             ],

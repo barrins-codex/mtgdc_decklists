@@ -10,7 +10,6 @@
             "deck_id": "519982",
             "rank": "1",
             "player": "Anthony Pentecote",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -114,7 +113,6 @@
             "deck_id": "519983",
             "rank": "2",
             "player": "Dorian Roger",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -224,7 +222,6 @@
             "deck_id": "519984",
             "rank": "3-4",
             "player": "Thierry Modolo",
-            "winrate": 0.625,
             "commander": [
                 "Ghyrson Starn, Kelermorph"
             ],
@@ -325,7 +322,6 @@
             "deck_id": "519985",
             "rank": "3-4",
             "player": "Quentin Renard",
-            "winrate": 0.625,
             "commander": [
                 "Atraxa, Praetors' Voice"
             ],
@@ -435,7 +431,6 @@
             "deck_id": "519986",
             "rank": "5-8",
             "player": "Cyprien Willmann",
-            "winrate": 0.625,
             "commander": [
                 "Grist, the Hunger Tide"
             ],
@@ -533,7 +528,6 @@
             "deck_id": "519987",
             "rank": "5-8",
             "player": "John Girardot",
-            "winrate": 0.625,
             "commander": [
                 "Tivit, Seller of Secrets"
             ],
@@ -643,7 +637,6 @@
             "deck_id": "519988",
             "rank": "5-8",
             "player": "Clément Burger",
-            "winrate": 0.625,
             "commander": [
                 "Atraxa, Grand Unifier"
             ],
@@ -753,7 +746,6 @@
             "deck_id": "519989",
             "rank": "5-8",
             "player": "Emm",
-            "winrate": 0.625,
             "commander": [
                 "Raffine, Scheming Seer"
             ],

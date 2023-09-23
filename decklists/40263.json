@@ -10,7 +10,6 @@
             "deck_id": "499774",
             "rank": "2",
             "player": "Maximilien Potel",
-            "winrate": 0.8,
             "commander": [
                 "Yoshimaru, Ever Faithful",
                 "Bruse Tarl, Boorish Herder"
@@ -110,7 +109,6 @@
             "deck_id": "499775",
             "rank": "2",
             "player": "Nurbey « Agrian » Cerkezoglu",
-            "winrate": 0.8,
             "commander": [
                 "Ertai Resurrected"
             ],
@@ -207,7 +205,6 @@
             "deck_id": "499776",
             "rank": "3-4",
             "player": "Paul Duval",
-            "winrate": 0.8,
             "commander": [
                 "Saheeli, the Gifted"
             ],
@@ -307,7 +304,6 @@
             "deck_id": "499777",
             "rank": "3-4",
             "player": "Diego Rio",
-            "winrate": 0.8,
             "commander": [
                 "Dihada, Binder of Wills"
             ],
@@ -417,7 +413,6 @@
             "deck_id": "499778",
             "rank": "5-8",
             "player": "Mathieu Leclere",
-            "winrate": 0.6,
             "commander": [
                 "Niv-Mizzet Reborn"
             ],
@@ -527,7 +522,6 @@
             "deck_id": "499779",
             "rank": "5-8",
             "player": "Mathieu Hautot",
-            "winrate": 0.6,
             "commander": [
                 "Kess, Dissident Mage"
             ],
@@ -637,7 +631,6 @@
             "deck_id": "499780",
             "rank": "5-8",
             "player": "Romain Donnadieu",
-            "winrate": 0.6,
             "commander": [
                 "Grist, the Hunger Tide"
             ],
@@ -736,7 +729,6 @@
             "deck_id": "499781",
             "rank": "5-8",
             "player": "Guillaume Duday-marlot",
-            "winrate": 0.6,
             "commander": [
                 "Light-Paws, Emperor's Voice"
             ],

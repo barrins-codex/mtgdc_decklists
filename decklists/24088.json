@@ -10,7 +10,6 @@
             "deck_id": "368119",
             "rank": "2",
             "player": "Yvan \"Fractale\" Lucas",
-            "winrate": 0.8,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -88,7 +87,6 @@
             "deck_id": "368120",
             "rank": "1",
             "player": "Arthur \"Xbod\" Gaillard",
-            "winrate": 1.0,
             "commander": [
                 "Lord Windgrace"
             ],

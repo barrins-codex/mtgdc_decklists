@@ -10,7 +10,6 @@
             "deck_id": "289823",
             "rank": "3-4",
             "player": "Sebastian Haines",
-            "winrate": 0.6,
             "commander": [
                 "Leovold, Emissary of Trest"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "289824",
             "rank": "3-4",
             "player": "Sascha Wiesmann",
-            "winrate": 0.6,
             "commander": [
                 "Doran, the Siege Tower"
             ],
@@ -230,7 +228,6 @@
             "deck_id": "289825",
             "rank": "2",
             "player": "Richard Müller",
-            "winrate": 0.8,
             "commander": [
                 "Prossh, Skyraider of Kher"
             ],
@@ -324,7 +321,6 @@
             "deck_id": "289826",
             "rank": "1",
             "player": "Stefan Knäpper",
-            "winrate": 1.0,
             "commander": [
                 "Aurelia, the Warleader"
             ],

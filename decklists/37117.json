@@ -10,7 +10,6 @@
             "deck_id": "478624",
             "rank": "1",
             "player": "Mingyang Chen",
-            "winrate": 1.0,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -119,7 +118,6 @@
             "deck_id": "478625",
             "rank": "2",
             "player": "Boran Gao",
-            "winrate": 0.8,
             "commander": [
                 "Grist, the Hunger Tide"
             ],
@@ -219,7 +217,6 @@
             "deck_id": "478626",
             "rank": "3-4",
             "player": "Fan Yang",
-            "winrate": 0.8,
             "commander": [
                 "Tivit, Seller of Secrets"
             ],
@@ -329,7 +326,6 @@
             "deck_id": "478627",
             "rank": "3-4",
             "player": "Kaichen Zhao",
-            "winrate": 0.8,
             "commander": [
                 "Dennick, Pious Apprentice"
             ],
@@ -431,7 +427,6 @@
             "deck_id": "478628",
             "rank": "5-8",
             "player": "Shoucong Wu",
-            "winrate": 0.6,
             "commander": [
                 "Minsc &amp; Boo, Timeless Heroes"
             ],
@@ -533,7 +528,6 @@
             "deck_id": "478629",
             "rank": "5-8",
             "player": "Bolong Sun",
-            "winrate": 0.6,
             "commander": [
                 "Queen Marchesa"
             ],
@@ -643,7 +637,6 @@
             "deck_id": "478630",
             "rank": "5-8",
             "player": "Ziqi Xi",
-            "winrate": 0.6,
             "commander": [
                 "Minsc &amp; Boo, Timeless Heroes"
             ],

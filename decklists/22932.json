@@ -10,7 +10,6 @@
             "deck_id": "356980",
             "rank": "1",
             "player": "Samuel Roussel",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Grenzo, Havoc Raiser"
             ],
@@ -85,7 +84,6 @@
             "deck_id": "356981",
             "rank": "2",
             "player": "Robin Angebaud- Faarnn",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Urza, Lord High Artificer"
             ],
@@ -173,7 +171,6 @@
             "deck_id": "356982",
             "rank": "3-4",
             "player": "Pierre Ambroise",
-            "winrate": 0.625,
             "commander": [
                 "Teferi, Temporal Archmage"
             ],
@@ -247,7 +244,6 @@
             "deck_id": "356983",
             "rank": "3-4",
             "player": "Corentin Allouis",
-            "winrate": 0.625,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -331,7 +327,6 @@
             "deck_id": "356984",
             "rank": "5-8",
             "player": "Johann Bozec",
-            "winrate": 0.625,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -411,7 +406,6 @@
             "deck_id": "356985",
             "rank": "5-8",
             "player": "Steven Garnier",
-            "winrate": 0.625,
             "commander": [
                 "Varina, Lich Queen"
             ],
@@ -521,7 +515,6 @@
             "deck_id": "356986",
             "rank": "5-8",
             "player": "Quentin Paillard",
-            "winrate": 0.625,
             "commander": [
                 "Yuriko, the Tiger's Shadow"
             ],
@@ -618,7 +611,6 @@
             "deck_id": "356987",
             "rank": "5-8",
             "player": "Vincent Bruno",
-            "winrate": 0.625,
             "commander": [
                 "Doran, the Siege Tower"
             ],

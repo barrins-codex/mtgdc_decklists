@@ -10,7 +10,6 @@
             "deck_id": "523334",
             "rank": "2",
             "player": "François David",
-            "winrate": 0.8,
             "commander": [
                 "Cultist of the Absolute",
                 "Gut, True Soul Zealot"
@@ -108,7 +107,6 @@
             "deck_id": "523335",
             "rank": "3-4",
             "player": "Quentin De Rivarola",
-            "winrate": 0.8,
             "commander": [
                 "Ghalta, Primal Hunger"
             ],
@@ -185,7 +183,6 @@
             "deck_id": "523336",
             "rank": "3-4",
             "player": "Romain Vitacchio",
-            "winrate": 0.8,
             "commander": [
                 "Greasefang, Okiba Boss"
             ],
@@ -281,7 +278,6 @@
             "deck_id": "523337",
             "rank": "5-8",
             "player": "Blackscorpio",
-            "winrate": 0.6,
             "commander": [
                 "Gut, True Soul Zealot",
                 "Noble Heritage"
@@ -384,7 +380,6 @@
             "deck_id": "523338",
             "rank": "5-8",
             "player": "Romain Begliomini",
-            "winrate": 0.6,
             "commander": [
                 "Sythis, Harvest's Hand"
             ],
@@ -483,7 +478,6 @@
             "deck_id": "523339",
             "rank": "5-8",
             "player": "Lény Lopez",
-            "winrate": 0.6,
             "commander": [
                 "Sai, Master Thopterist"
             ],
@@ -571,7 +565,6 @@
             "deck_id": "523340",
             "rank": "5-8",
             "player": "Dimitri Noyeries",
-            "winrate": 0.6,
             "commander": [
                 "Immard, the Stormcleaver"
             ],

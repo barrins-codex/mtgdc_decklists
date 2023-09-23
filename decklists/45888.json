@@ -10,7 +10,6 @@
             "deck_id": "539087",
             "rank": "1",
             "player": "Leonardo Maeda",
-            "winrate": 1.0,
             "commander": [
                 "Minsc, Beloved Ranger"
             ],
@@ -118,7 +117,6 @@
             "deck_id": "539088",
             "rank": "2",
             "player": "Victor Burghi",
-            "winrate": 0.8,
             "commander": [
                 "Aragorn, the Uniter"
             ],
@@ -228,7 +226,6 @@
             "deck_id": "539089",
             "rank": "3-4",
             "player": "Gabriel Kawagoe",
-            "winrate": 0.8,
             "commander": [
                 "Pippin, Guard of the Citadel"
             ],
@@ -327,7 +324,6 @@
             "deck_id": "539090",
             "rank": "3-4",
             "player": "Tavares",
-            "winrate": 0.8,
             "commander": [
                 "Bruse Tarl, Boorish Herder",
                 "Yoshimaru, Ever Faithful"

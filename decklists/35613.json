@@ -10,7 +10,6 @@
             "deck_id": "468757",
             "rank": "1",
             "player": "Nelvine Tuano",
-            "winrate": 1.0,
             "commander": [
                 "Nissa, Vastwood Seer"
             ],
@@ -103,7 +102,6 @@
             "deck_id": "468758",
             "rank": "2",
             "player": "Mark Toh",
-            "winrate": 0.8,
             "commander": [
                 "Grist, the Hunger Tide"
             ],
@@ -203,7 +201,6 @@
             "deck_id": "468759",
             "rank": "3-4",
             "player": "Iori Zugaikotsu",
-            "winrate": 0.8,
             "commander": [
                 "Tevesh Szat, Doom of Fools",
                 "Silas Renn, Seeker Adept"
@@ -301,7 +298,6 @@
             "deck_id": "468760",
             "rank": "3-4",
             "player": "Joel San Jose, Jr.",
-            "winrate": 0.8,
             "commander": [
                 "Shorikai, Genesis Engine"
             ],

@@ -10,7 +10,6 @@
             "deck_id": "282506",
             "rank": "5-8",
             "player": "Nebykov Denis",
-            "winrate": 0.6,
             "commander": [
                 "Zurgo Bellstriker"
             ],
@@ -86,7 +85,6 @@
             "deck_id": "282507",
             "rank": "5-8",
             "player": "Sidorov Alexander",
-            "winrate": 0.6,
             "commander": [
                 "Keranos, God of Storms"
             ],
@@ -170,7 +168,6 @@
             "deck_id": "282508",
             "rank": "3-4",
             "player": "Serputko Vyacheslav",
-            "winrate": 0.8,
             "commander": [
                 "Titania, Protector of Argoth"
             ],
@@ -260,7 +257,6 @@
             "deck_id": "282509",
             "rank": "3-4",
             "player": "Antonov Valentyn",
-            "winrate": 0.8,
             "commander": [
                 "Zurgo Bellstriker"
             ],
@@ -337,7 +333,6 @@
             "deck_id": "282510",
             "rank": "2",
             "player": "Bogachev Leonid",
-            "winrate": 0.8,
             "commander": [
                 "Prossh, Skyraider of Kher"
             ],
@@ -431,7 +426,6 @@
             "deck_id": "282511",
             "rank": "1",
             "player": "Apletalin Maxim",
-            "winrate": 1.0,
             "commander": [
                 "Meren of Clan Nel Toth"
             ],
@@ -532,7 +526,6 @@
             "deck_id": "282512",
             "rank": "5-8",
             "player": "Vasiliev Vitaly",
-            "winrate": 0.6,
             "commander": [
                 "Titania, Protector of Argoth"
             ],
@@ -620,7 +613,6 @@
             "deck_id": "282513",
             "rank": "5-8",
             "player": "Smirnov Alexander",
-            "winrate": 0.6,
             "commander": [
                 "Narset, Enlightened Master"
             ],

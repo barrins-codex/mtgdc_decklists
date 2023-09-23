@@ -10,7 +10,6 @@
             "deck_id": "526924",
             "rank": "1",
             "player": "Vincent Páleník",
-            "winrate": 1.0,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "526925",
             "rank": "2",
             "player": "Patrik Horváth",
-            "winrate": 0.8,
             "commander": [
                 "Tivit, Seller of Secrets"
             ],
@@ -230,7 +228,6 @@
             "deck_id": "526926",
             "rank": "3-4",
             "player": "Patrik Frio",
-            "winrate": 0.8,
             "commander": [
                 "Tivit, Seller of Secrets"
             ],
@@ -340,7 +337,6 @@
             "deck_id": "526927",
             "rank": "3-4",
             "player": "Lukás Gúčik",
-            "winrate": 0.8,
             "commander": [
                 "Ghyrson Starn, Kelermorph"
             ],
@@ -438,7 +434,6 @@
             "deck_id": "526928",
             "rank": "5-8",
             "player": "Dalibor Szegho",
-            "winrate": 0.6,
             "commander": [
                 "Grist, the Hunger Tide"
             ],
@@ -540,7 +535,6 @@
             "deck_id": "526929",
             "rank": "5-8",
             "player": "Dominik Repa",
-            "winrate": 0.6,
             "commander": [
                 "Tivit, Seller of Secrets"
             ],
@@ -650,7 +644,6 @@
             "deck_id": "526930",
             "rank": "5-8",
             "player": "Juraj Vlcek",
-            "winrate": 0.6,
             "commander": [
                 "Feldon, Ronom Excavator"
             ],
@@ -739,7 +732,6 @@
             "deck_id": "526931",
             "rank": "5-8",
             "player": "Václav Paul",
-            "winrate": 0.6,
             "commander": [
                 "Isamaru, Hound of Konda"
             ],

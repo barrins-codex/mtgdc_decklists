@@ -10,7 +10,6 @@
             "deck_id": "239264",
             "rank": "1",
             "player": "Joel Nerenberg",
-            "winrate": 1.0,
             "commander": [
                 "Oloro, Ageless Ascetic"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "239265",
             "rank": "2",
             "player": "Bennett Dixon",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Griselbrand"
             ],
@@ -199,7 +197,6 @@
             "deck_id": "239266",
             "rank": "3-4",
             "player": "Brennan Mcalear",
-            "winrate": 0.3333333333333333,
             "commander": [
                 "Radha, Heir to Keld"
             ],
@@ -302,7 +299,6 @@
             "deck_id": "239267",
             "rank": "3-4",
             "player": "Drew Baxter",
-            "winrate": 0.3333333333333333,
             "commander": [
                 "Nin, the Pain Artist"
             ],

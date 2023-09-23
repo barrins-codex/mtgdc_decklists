@@ -10,7 +10,6 @@
             "deck_id": "455093",
             "rank": "1",
             "player": "Felipe \"raizen\" Santos",
-            "winrate": 1.0,
             "commander": [
                 "Miara, Thorn of the Glade",
                 "Tevesh Szat, Doom of Fools"
@@ -92,7 +91,6 @@
             "deck_id": "455094",
             "rank": "2",
             "player": "Victor Burghi",
-            "winrate": 0.8,
             "commander": [
                 "Torens, Fist of the Angels"
             ],
@@ -191,7 +189,6 @@
             "deck_id": "455095",
             "rank": "3-4",
             "player": "Pablo \"amumu\" Lima",
-            "winrate": 0.6,
             "commander": [
                 "Klothys, God of Destiny"
             ],
@@ -289,7 +286,6 @@
             "deck_id": "455096",
             "rank": "3-4",
             "player": "Leonardo Maeda",
-            "winrate": 0.6,
             "commander": [
                 "Tevesh Szat, Doom of Fools",
                 "Prava of the Steel Legion"

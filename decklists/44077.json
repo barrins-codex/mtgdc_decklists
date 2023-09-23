@@ -10,7 +10,6 @@
             "deck_id": "525358",
             "rank": "1",
             "player": "Thomas Grillot",
-            "winrate": 1.0,
             "commander": [
                 "Muxus, Goblin Grandee",
                 "Eldrazi / Guacamole / Tightrope",
@@ -112,7 +111,6 @@
             "deck_id": "525359",
             "rank": "2",
             "player": "Paul Fermé",
-            "winrate": 0.8,
             "commander": [
                 "Dennick, Pious Apprentice"
             ],

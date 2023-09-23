@@ -10,7 +10,6 @@
             "deck_id": "218928",
             "rank": "1",
             "player": "Bernard Faeh",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Geist of Saint Traft"
             ],
@@ -110,7 +109,6 @@
             "deck_id": "218929",
             "rank": "2",
             "player": "Mark Josef Bornales",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Edric, Spymaster of Trest"
             ],
@@ -122,7 +120,6 @@
             "deck_id": "218930",
             "rank": "3",
             "player": "Redmond Lim",
-            "winrate": 0.625,
             "commander": [
                 "Merieke Ri Berit"
             ],
@@ -231,7 +228,6 @@
             "deck_id": "218931",
             "rank": "4",
             "player": "Juan Carlo Gutierrez",
-            "winrate": 0.625,
             "commander": [
                 "Scion of the Ur-Dragon"
             ],
@@ -341,7 +337,6 @@
             "deck_id": "218932",
             "rank": "5-8",
             "player": "Ronald Cruz",
-            "winrate": 0.625,
             "commander": [
                 "Iname, Death Aspect"
             ],
@@ -428,7 +423,6 @@
             "deck_id": "218933",
             "rank": "5-8",
             "player": "Lawrence Follero",
-            "winrate": 0.625,
             "commander": [
                 "Nath of the Gilt-Leaf"
             ],
@@ -524,7 +518,6 @@
             "deck_id": "218934",
             "rank": "5-8",
             "player": "Generie Peco",
-            "winrate": 0.625,
             "commander": [
                 "Captain Sisay"
             ],
@@ -626,7 +619,6 @@
             "deck_id": "218935",
             "rank": "5-8",
             "player": "Ramil Apa-ap",
-            "winrate": 0.625,
             "commander": [
                 "Skithiryx, the Blight Dragon"
             ],

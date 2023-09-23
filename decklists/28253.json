@@ -10,7 +10,6 @@
             "deck_id": "423707",
             "rank": "1",
             "player": "Hamid Henry",
-            "winrate": 1.0,
             "commander": [
                 "Uro, Titan of Nature's Wrath"
             ],
@@ -108,7 +107,6 @@
             "deck_id": "423708",
             "rank": "2",
             "player": "Terrance Holder",
-            "winrate": 0.8,
             "commander": [
                 "Gallia of the Endless Dance"
             ],

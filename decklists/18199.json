@@ -10,7 +10,6 @@
             "deck_id": "312751",
             "rank": "4",
             "player": "Richard Müller",
-            "winrate": 0.8,
             "commander": [
                 "Prossh, Skyraider of Kher"
             ],
@@ -106,7 +105,6 @@
             "deck_id": "312752",
             "rank": "3",
             "player": "Stefan Jacobs",
-            "winrate": 0.8,
             "commander": [
                 "Atraxa, Praetors' Voice"
             ],
@@ -216,7 +214,6 @@
             "deck_id": "312753",
             "rank": "2",
             "player": "Sebastian Haines",
-            "winrate": 0.8,
             "commander": [
                 "Leovold, Emissary of Trest"
             ],
@@ -326,7 +323,6 @@
             "deck_id": "312754",
             "rank": "1",
             "player": "Dominik Bauer",
-            "winrate": 1.0,
             "commander": [
                 "Jori En, Ruin Diver"
             ],

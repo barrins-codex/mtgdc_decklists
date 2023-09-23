@@ -10,7 +10,6 @@
             "deck_id": "474336",
             "rank": "1",
             "player": "Alex \"one Sauk\"",
-            "winrate": 1.0,
             "commander": [
                 "The Beamtown Bullies"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "474337",
             "rank": "2",
             "player": "Théo Michaud",
-            "winrate": 0.8,
             "commander": [
                 "Tameshi, Reality Architect"
             ],
@@ -221,7 +219,6 @@
             "deck_id": "474338",
             "rank": "3-4",
             "player": "Ja Lecock",
-            "winrate": 0.6,
             "commander": [
                 "Sai, Master Thopterist"
             ],
@@ -308,7 +305,6 @@
             "deck_id": "474339",
             "rank": "3-4",
             "player": "Steeve Kunze",
-            "winrate": 0.6,
             "commander": [
                 "Zirda, the Dawnwaker"
             ],

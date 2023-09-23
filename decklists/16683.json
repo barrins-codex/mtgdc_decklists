@@ -10,7 +10,6 @@
             "deck_id": "303208",
             "rank": "1",
             "player": "Samy \"samyoddjob\" Fecih",
-            "winrate": 1.0,
             "commander": [
                 "Edgar Markov"
             ],
@@ -108,7 +107,6 @@
             "deck_id": "303209",
             "rank": "3",
             "player": "Anthony Ruer",
-            "winrate": 0.8,
             "commander": [
                 "Narset, Enlightened Master"
             ],
@@ -218,7 +216,6 @@
             "deck_id": "303390",
             "rank": "2",
             "player": "Artur Queiroz",
-            "winrate": 0.8,
             "commander": [
                 "Queen Marchesa"
             ],

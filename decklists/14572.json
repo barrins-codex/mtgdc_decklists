@@ -10,7 +10,6 @@
             "deck_id": "287381",
             "rank": "5-8",
             "player": "Marc Demassier",
-            "winrate": 0.6,
             "commander": [
                 "Kraum, Ludevic's Opus",
                 "Vial Smasher the Fierce"
@@ -103,7 +102,6 @@
             "deck_id": "287382",
             "rank": "1",
             "player": "David \"ardo\" Lc",
-            "winrate": 1.0,
             "commander": [
                 "Thrasios, Triton Hero",
                 "Tymna the Weaver"
@@ -213,7 +211,6 @@
             "deck_id": "287383",
             "rank": "2",
             "player": "Julien Junyck",
-            "winrate": 0.8,
             "commander": [
                 "Kraum, Ludevic's Opus",
                 "Vial Smasher the Fierce"
@@ -320,7 +317,6 @@
             "deck_id": "287384",
             "rank": "3-4",
             "player": "Fred Lurieux",
-            "winrate": 0.8,
             "commander": [
                 "Thrasios, Triton Hero",
                 "Vial Smasher the Fierce"
@@ -427,7 +423,6 @@
             "deck_id": "287385",
             "rank": "3-4",
             "player": "Q.mercier",
-            "winrate": 0.8,
             "commander": [
                 "Skullbriar, the Walking Grave"
             ],
@@ -529,7 +524,6 @@
             "deck_id": "287386",
             "rank": "5-8",
             "player": "Jm Authieux",
-            "winrate": 0.6,
             "commander": [
                 "Breya, Etherium Shaper"
             ],
@@ -639,7 +633,6 @@
             "deck_id": "287387",
             "rank": "5-8",
             "player": "Kevin Ferré",
-            "winrate": 0.6,
             "commander": [
                 "Akiri, Line-Slinger",
                 "Bruse Tarl, Boorish Herder"
@@ -737,7 +730,6 @@
             "deck_id": "287388",
             "rank": "5-8",
             "player": "Anne Comisso",
-            "winrate": 0.6,
             "commander": [
                 "Geist of Saint Traft"
             ],

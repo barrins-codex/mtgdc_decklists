@@ -10,7 +10,6 @@
             "deck_id": "325970",
             "rank": "3-4",
             "player": "Jener Masanacay",
-            "winrate": 0.6,
             "commander": [
                 "Daretti, Scrap Savant"
             ],
@@ -95,7 +94,6 @@
             "deck_id": "325971",
             "rank": "3-4",
             "player": "Cedrik Sanchez",
-            "winrate": 0.6,
             "commander": [
                 "Arahbo, Roar of the World"
             ],
@@ -185,7 +183,6 @@
             "deck_id": "325972",
             "rank": "2",
             "player": "Je Cruz",
-            "winrate": 0.8,
             "commander": [
                 "Queen Marchesa"
             ],
@@ -293,7 +290,6 @@
             "deck_id": "325973",
             "rank": "1",
             "player": "Jobert Tan",
-            "winrate": 1.0,
             "commander": [
                 "Arahbo, Roar of the World"
             ],

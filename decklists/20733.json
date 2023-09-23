@@ -10,7 +10,6 @@
             "deck_id": "336841",
             "rank": "5-8",
             "player": "Andrey Kostin",
-            "winrate": 0.6,
             "commander": [
                 "Akiri, Line-Slinger",
                 "Silas Renn, Seeker Adept"
@@ -120,7 +119,6 @@
             "deck_id": "336842",
             "rank": "5-8",
             "player": "Mikhail Protasov",
-            "winrate": 0.6,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -230,7 +228,6 @@
             "deck_id": "336843",
             "rank": "5-8",
             "player": "Pavel \"taris\" Golubtsov",
-            "winrate": 0.6,
             "commander": [
                 "Lord Windgrace"
             ],
@@ -330,7 +327,6 @@
             "deck_id": "336844",
             "rank": "3-4",
             "player": "Mattew Dolganov",
-            "winrate": 0.8,
             "commander": [
                 "Saskia the Unyielding"
             ],
@@ -440,7 +436,6 @@
             "deck_id": "336845",
             "rank": "3-4",
             "player": "Dmitriy \"degal\" Tretyakov",
-            "winrate": 0.8,
             "commander": [
                 "Yuriko, the Tiger's Shadow"
             ],
@@ -539,7 +534,6 @@
             "deck_id": "336846",
             "rank": "2",
             "player": "Alexander Smirnov",
-            "winrate": 0.8,
             "commander": [
                 "Kess, Dissident Mage"
             ],
@@ -649,7 +643,6 @@
             "deck_id": "336847",
             "rank": "1",
             "player": "Serputko Vyacheslav",
-            "winrate": 1.0,
             "commander": [
                 "Shalai, Voice of Plenty"
             ],
@@ -748,7 +741,6 @@
             "deck_id": "336848",
             "rank": "5-8",
             "player": "Alexander \"zamo\" Shust",
-            "winrate": 0.6,
             "commander": [
                 "Saskia the Unyielding"
             ],

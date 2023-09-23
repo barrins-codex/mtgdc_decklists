@@ -10,7 +10,6 @@
             "deck_id": "326224",
             "rank": "2",
             "player": "Stephen Baert",
-            "winrate": 0.8,
             "commander": [
                 "Exava, Rakdos Blood Witch"
             ],
@@ -97,7 +96,6 @@
             "deck_id": "326225",
             "rank": "1",
             "player": "Matthew Broviak",
-            "winrate": 1.0,
             "commander": [
                 "Ruhan of the Fomori"
             ],

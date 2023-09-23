@@ -10,7 +10,6 @@
             "deck_id": "467571",
             "rank": "1",
             "player": "Yann Miel",
-            "winrate": 1.0,
             "commander": [
                 "Isamaru, Hound of Konda"
             ],
@@ -95,7 +94,6 @@
             "deck_id": "467572",
             "rank": "2",
             "player": "Robin \"faarn\" Angebaud",
-            "winrate": 0.8,
             "commander": [
                 "Shorikai, Genesis Engine"
             ],
@@ -195,7 +193,6 @@
             "deck_id": "467573",
             "rank": "3-4",
             "player": "Baz Gaspa",
-            "winrate": 0.8,
             "commander": [
                 "Grist, the Hunger Tide"
             ],
@@ -293,7 +290,6 @@
             "deck_id": "467574",
             "rank": "3-4",
             "player": "Allan Cabillic",
-            "winrate": 0.8,
             "commander": [
                 "Shorikai, Genesis Engine"
             ],
@@ -394,7 +390,6 @@
             "deck_id": "467575",
             "rank": "5-8",
             "player": "Mathieu Laurent",
-            "winrate": 0.6,
             "commander": [
                 "Grist, the Hunger Tide"
             ],
@@ -492,7 +487,6 @@
             "deck_id": "467576",
             "rank": "5-8",
             "player": "Pierre Gauducheau",
-            "winrate": 0.6,
             "commander": [
                 "Grenzo, Dungeon Warden"
             ],
@@ -585,7 +579,6 @@
             "deck_id": "467577",
             "rank": "5-8",
             "player": "Hugo Etaradossi",
-            "winrate": 0.6,
             "commander": [
                 "Maelstrom Wanderer"
             ],
@@ -693,7 +686,6 @@
             "deck_id": "467578",
             "rank": "5-8",
             "player": "Alex Jobard",
-            "winrate": 0.6,
             "commander": [
                 "Kroxa, Titan of Death's Hunger"
             ],

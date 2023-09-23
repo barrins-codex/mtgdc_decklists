@@ -10,7 +10,6 @@
             "deck_id": "548391",
             "rank": "1",
             "player": "Lingyu Zhan",
-            "winrate": 1.0,
             "commander": [
                 "Dennick, Pious Apprentice"
             ],
@@ -111,7 +110,6 @@
             "deck_id": "548392",
             "rank": "2",
             "player": "Xiangyu Jin",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Raffine, Scheming Seer"
             ],

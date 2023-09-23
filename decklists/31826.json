@@ -10,7 +10,6 @@
             "deck_id": "445980",
             "rank": "1",
             "player": "Hugo Templé",
-            "winrate": 0.8888888888888888,
             "commander": [
                 "Esika, God of the Tree"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "445981",
             "rank": "2",
             "player": "Vincent Bruno",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Doran, the Siege Tower"
             ],
@@ -230,7 +228,6 @@
             "deck_id": "445982",
             "rank": "3-4",
             "player": "Léo Ganachaud",
-            "winrate": 0.75,
             "commander": [
                 "Minsc, Beloved Ranger"
             ],
@@ -340,7 +337,6 @@
             "deck_id": "445983",
             "rank": "3-4",
             "player": "Lionel Gallière",
-            "winrate": 0.75,
             "commander": [
                 "Niv-Mizzet Reborn"
             ],
@@ -450,7 +446,6 @@
             "deck_id": "445984",
             "rank": "5-8",
             "player": "Paul Laguës",
-            "winrate": 0.75,
             "commander": [
                 "Kinnan, Bonder Prodigy"
             ],
@@ -550,7 +545,6 @@
             "deck_id": "445985",
             "rank": "5-8",
             "player": "Alexis Fontaine",
-            "winrate": 0.75,
             "commander": [
                 "Saskia the Unyielding"
             ],
@@ -660,7 +654,6 @@
             "deck_id": "445986",
             "rank": "5-8",
             "player": "Antoine Furet",
-            "winrate": 0.75,
             "commander": [
                 "Saskia the Unyielding"
             ],
@@ -770,7 +763,6 @@
             "deck_id": "445987",
             "rank": "5-8",
             "player": "Kaourintin Le Guiban",
-            "winrate": 0.75,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],

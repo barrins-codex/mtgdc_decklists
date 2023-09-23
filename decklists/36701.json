@@ -10,7 +10,6 @@
             "deck_id": "476015",
             "rank": "1",
             "player": "Benjamin Cottet",
-            "winrate": 1.0,
             "commander": [
                 "Esika, God of the Tree"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "476016",
             "rank": "2",
             "player": "Tristan Pokpok",
-            "winrate": 0.8,
             "commander": [
                 "Niv-Mizzet Reborn"
             ],
@@ -230,7 +228,6 @@
             "deck_id": "476017",
             "rank": "3-4",
             "player": "Paul Combalbert",
-            "winrate": 0.8,
             "commander": [
                 "Kinnan, Bonder Prodigy"
             ],
@@ -328,7 +325,6 @@
             "deck_id": "476018",
             "rank": "3-4",
             "player": "Quentin Pottier",
-            "winrate": 0.8,
             "commander": [
                 "Tivit, Seller of Secrets"
             ],
@@ -438,7 +434,6 @@
             "deck_id": "476019",
             "rank": "5-8",
             "player": "Andy Sieurac",
-            "winrate": 0.6,
             "commander": [
                 "Lurrus of the Dream-Den",
                 "Wernog, Rider's Chaplain",
@@ -549,7 +544,6 @@
             "deck_id": "476020",
             "rank": "5-8",
             "player": "Paul Séronie-vivien",
-            "winrate": 0.6,
             "commander": [
                 "Shanna, Sisay's Legacy"
             ],
@@ -651,7 +645,6 @@
             "deck_id": "476021",
             "rank": "5-8",
             "player": "Matthias Muller",
-            "winrate": 0.6,
             "commander": [
                 "Kess, Dissident Mage"
             ],
@@ -761,7 +754,6 @@
             "deck_id": "476022",
             "rank": "5-8",
             "player": "Julien Joie",
-            "winrate": 0.6,
             "commander": [
                 "Tivit, Seller of Secrets"
             ],

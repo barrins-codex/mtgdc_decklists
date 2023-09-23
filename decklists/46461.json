@@ -10,7 +10,6 @@
             "deck_id": "543426",
             "rank": "1",
             "player": "Abibou",
-            "winrate": 0.875,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "543427",
             "rank": "2",
             "player": "Asmadeur",
-            "winrate": 0.75,
             "commander": [
                 "Minsc, Beloved Ranger"
             ],
@@ -228,7 +226,6 @@
             "deck_id": "543428",
             "rank": "3-4",
             "player": "Admab",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Feldon, Ronom Excavator"
             ],
@@ -316,7 +313,6 @@
             "deck_id": "543429",
             "rank": "5-8",
             "player": "Onesauk_",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Kroxa, Titan of Death's Hunger"
             ],
@@ -415,7 +411,6 @@
             "deck_id": "543430",
             "rank": "5-8",
             "player": "Bomber_tam",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Balmor, Battlemage Captain"
             ],
@@ -515,7 +510,6 @@
             "deck_id": "543431",
             "rank": "5-8",
             "player": "Baekstra",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -625,7 +619,6 @@
             "deck_id": "543432",
             "rank": "5-8",
             "player": "Jada",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Feldon, Ronom Excavator"
             ],

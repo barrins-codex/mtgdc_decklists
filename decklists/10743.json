@@ -10,7 +10,6 @@
             "deck_id": "261430",
             "rank": "8",
             "player": "Guillaume Bigarré",
-            "winrate": 0.75,
             "commander": [
                 "Griselbrand"
             ],
@@ -92,7 +91,6 @@
             "deck_id": "261431",
             "rank": "4",
             "player": "Florent Pouvreau",
-            "winrate": 0.75,
             "commander": [
                 "Griselbrand"
             ],
@@ -177,7 +175,6 @@
             "deck_id": "261432",
             "rank": "3",
             "player": "Nicolas David",
-            "winrate": 0.75,
             "commander": [
                 "Titania, Protector of Argoth"
             ],
@@ -268,7 +265,6 @@
             "deck_id": "261433",
             "rank": "2",
             "player": "Benoit Guironnet",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Keranos, God of Storms"
             ],
@@ -354,7 +350,6 @@
             "deck_id": "261434",
             "rank": "1",
             "player": "Guillaume Picard",
-            "winrate": 0.8888888888888888,
             "commander": [
                 "Marath, Will of the Wild"
             ],
@@ -462,7 +457,6 @@
             "deck_id": "261435",
             "rank": "7",
             "player": "Graouland",
-            "winrate": 0.75,
             "commander": [
                 "Doran, the Siege Tower"
             ],
@@ -572,7 +566,6 @@
             "deck_id": "261436",
             "rank": "5",
             "player": "Marien Couvertier",
-            "winrate": 0.75,
             "commander": [
                 "Tasigur, the Golden Fang"
             ],
@@ -679,7 +672,6 @@
             "deck_id": "261437",
             "rank": "6",
             "player": "Benjamin Chevessier",
-            "winrate": 0.75,
             "commander": [
                 "Marath, Will of the Wild"
             ],

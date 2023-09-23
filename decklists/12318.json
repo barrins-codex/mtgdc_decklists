@@ -10,7 +10,6 @@
             "deck_id": "271043",
             "rank": "8",
             "player": "Graouland",
-            "winrate": 0.625,
             "commander": [
                 "Child of Alara"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "271044",
             "rank": "7",
             "player": "Sylvain Boussard",
-            "winrate": 0.625,
             "commander": [
                 "Prossh, Skyraider of Kher"
             ],
@@ -215,7 +213,6 @@
             "deck_id": "271045",
             "rank": "6",
             "player": "Julien \"Sonte\" Sori",
-            "winrate": 0.625,
             "commander": [
                 "Keranos, God of Storms"
             ],
@@ -297,7 +294,6 @@
             "deck_id": "271046",
             "rank": "5",
             "player": "Antoine Marchand",
-            "winrate": 0.625,
             "commander": [
                 "Jenara, Asura of War"
             ],
@@ -405,7 +401,6 @@
             "deck_id": "271047",
             "rank": "4",
             "player": "Mathieu Cocherel",
-            "winrate": 0.625,
             "commander": [
                 "Animar, Soul of Elements"
             ],
@@ -509,7 +504,6 @@
             "deck_id": "271048",
             "rank": "3",
             "player": "Franck Da Silva",
-            "winrate": 0.625,
             "commander": [
                 "Azami, Lady of Scrolls"
             ],
@@ -587,7 +581,6 @@
             "deck_id": "271049",
             "rank": "2",
             "player": "Guillaume Picard",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Marath, Will of the Wild"
             ],
@@ -696,7 +689,6 @@
             "deck_id": "271050",
             "rank": "1",
             "player": "Florian Tachau",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Titania, Protector of Argoth"
             ],

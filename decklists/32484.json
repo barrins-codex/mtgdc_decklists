@@ -10,7 +10,6 @@
             "deck_id": "449572",
             "rank": "1",
             "player": "Luquet M.",
-            "winrate": 1.0,
             "commander": [
                 "Narset, Enlightened Master"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "449573",
             "rank": "2",
             "player": "Soyer-leroy A.",
-            "winrate": 0.8,
             "commander": [
                 "Queen Marchesa"
             ],
@@ -230,7 +228,6 @@
             "deck_id": "449574",
             "rank": "3-4",
             "player": "Le Blevec H.",
-            "winrate": 0.8,
             "commander": [
                 "Yawgmoth, Thran Physician"
             ],
@@ -319,7 +316,6 @@
             "deck_id": "449575",
             "rank": "3-4",
             "player": "Bertault M.",
-            "winrate": 0.8,
             "commander": [
                 "Hogaak, Arisen Necropolis"
             ],

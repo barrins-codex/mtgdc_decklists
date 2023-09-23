@@ -10,7 +10,6 @@
             "deck_id": "508844",
             "rank": "1",
             "player": "Felipe \"the Raizen\" Santos",
-            "winrate": 1.0,
             "commander": [
                 "Feldon, Ronom Excavator"
             ],
@@ -98,7 +97,6 @@
             "deck_id": "508845",
             "rank": "2",
             "player": "Orlando Bibiano",
-            "winrate": 0.8,
             "commander": [
                 "Kotori, Pilot Prodigy"
             ],
@@ -199,7 +197,6 @@
             "deck_id": "508846",
             "rank": "3",
             "player": "Felipe Tavares",
-            "winrate": 0.6,
             "commander": [
                 "Iname, Death Aspect"
             ],
@@ -282,7 +279,6 @@
             "deck_id": "508847",
             "rank": "4",
             "player": "Gabriel Kawagoe",
-            "winrate": 0.4,
             "commander": [
                 "Isamaru, Hound of Konda"
             ],

@@ -10,7 +10,6 @@
             "deck_id": "226612",
             "rank": "1",
             "player": "Randy de Rueda",
-            "winrate": 1.0,
             "commander": [
                 "Maelstrom Wanderer"
             ],
@@ -114,7 +113,6 @@
             "deck_id": "226613",
             "rank": "1",
             "player": "Dan Sta. Rosa",
-            "winrate": 1.0,
             "commander": [
                 "Vendilion Clique"
             ],
@@ -193,7 +191,6 @@
             "deck_id": "226614",
             "rank": "3-4",
             "player": "Lawrence Follero",
-            "winrate": 0.8,
             "commander": [
                 "Nath of the Gilt-Leaf"
             ],
@@ -295,7 +292,6 @@
             "deck_id": "226615",
             "rank": "3-4",
             "player": "Louie Singco",
-            "winrate": 0.8,
             "commander": [
                 "Grand Arbiter Augustin IV"
             ],

@@ -10,7 +10,6 @@
             "deck_id": "534609",
             "rank": "1",
             "player": "Jeremy Reigneux",
-            "winrate": 1.0,
             "commander": [
                 "Wernog, Rider's Chaplain",
                 "Cecily, Haunted Mage"
@@ -120,7 +119,6 @@
             "deck_id": "534610",
             "rank": "2",
             "player": "Antoine",
-            "winrate": 0.8,
             "commander": [
                 "Aragorn, King of Gondor"
             ],
@@ -223,7 +221,6 @@
             "deck_id": "534611",
             "rank": "3-4",
             "player": "Romain Cozic",
-            "winrate": 0.8,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -333,7 +330,6 @@
             "deck_id": "534612",
             "rank": "3-4",
             "player": "Charles Da Cunha",
-            "winrate": 0.8,
             "commander": [
                 "Lonis, Cryptozoologist"
             ],
@@ -432,7 +428,6 @@
             "deck_id": "534613",
             "rank": "5-8",
             "player": "Loïc Berthier",
-            "winrate": 0.6,
             "commander": [
                 "Aragorn, King of Gondor"
             ],
@@ -537,7 +532,6 @@
             "deck_id": "534614",
             "rank": "5-8",
             "player": "Denis Mosnier",
-            "winrate": 0.6,
             "commander": [
                 "Clown Extruder",
                 "Concession Stand",
@@ -644,7 +638,6 @@
             "deck_id": "534615",
             "rank": "5-8",
             "player": "Maxime Damman",
-            "winrate": 0.6,
             "commander": [
                 "Golos, Tireless Pilgrim"
             ],
@@ -754,7 +747,6 @@
             "deck_id": "534616",
             "rank": "5-8",
             "player": "Ambre",
-            "winrate": 0.6,
             "commander": [
                 "Gut, True Soul Zealot",
                 "Inspiring Leader"

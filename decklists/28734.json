@@ -10,7 +10,6 @@
             "deck_id": "426840",
             "rank": "1",
             "player": "Duoyan Li",
-            "winrate": 1.0,
             "commander": [
                 "Jeska, Thrice Reborn",
                 "Rograkh, Son of Rohgahh"
@@ -98,7 +97,6 @@
             "deck_id": "426841",
             "rank": "2",
             "player": "Jingyi Pan",
-            "winrate": 0.8,
             "commander": [
                 "Esior, Wardwing Familiar",
                 "Ikra Shidiqi, the Usurper"
@@ -205,7 +203,6 @@
             "deck_id": "426842",
             "rank": "3-4",
             "player": "Jsd",
-            "winrate": 0.6,
             "commander": [
                 "Dargo, the Shipwrecker",
                 "Jeska, Thrice Reborn"
@@ -292,7 +289,6 @@
             "deck_id": "426843",
             "rank": "3-4",
             "player": "Hongyu Ye",
-            "winrate": 0.6,
             "commander": [
                 "Ardenn, Intrepid Archaeologist",
                 "Esior, Wardwing Familiar"

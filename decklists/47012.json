@@ -10,7 +10,6 @@
             "deck_id": "547530",
             "rank": "1",
             "player": "Marek Voráček",
-            "winrate": 1.0,
             "commander": [
                 "Cormela, Glamour Thief"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "547531",
             "rank": "2",
             "player": "Michal Mendl",
-            "winrate": 0.8,
             "commander": [
                 "Aragorn, King of Gondor"
             ],
@@ -227,7 +225,6 @@
             "deck_id": "547532",
             "rank": "3-4",
             "player": "Jindřich Petr",
-            "winrate": 0.8,
             "commander": [
                 "Teferi, Temporal Archmage"
             ],
@@ -305,7 +302,6 @@
             "deck_id": "547533",
             "rank": "3-4",
             "player": "Matou Pavlovský-fiala",
-            "winrate": 0.8,
             "commander": [
                 "Ertai Resurrected"
             ],

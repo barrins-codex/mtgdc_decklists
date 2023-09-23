@@ -10,7 +10,6 @@
             "deck_id": "536306",
             "rank": "1",
             "player": "Jonathan Dolor",
-            "winrate": 1.0,
             "commander": [
                 "Feldon, Ronom Excavator"
             ],
@@ -99,7 +98,6 @@
             "deck_id": "536307",
             "rank": "2",
             "player": "Dinno Zaide",
-            "winrate": 0.8,
             "commander": [
                 "Aragorn, King of Gondor"
             ],
@@ -207,7 +205,6 @@
             "deck_id": "536308",
             "rank": "3-4",
             "player": "Earl Caymo",
-            "winrate": 0.6,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -317,7 +314,6 @@
             "deck_id": "536309",
             "rank": "3-4",
             "player": "Iori Zugaikotsu",
-            "winrate": 0.6,
             "commander": [
                 "Yoshimaru, Ever Faithful",
                 "Kraum, Ludevic's Opus"

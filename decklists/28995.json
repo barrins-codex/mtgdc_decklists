@@ -10,7 +10,6 @@
             "deck_id": "428565",
             "rank": "1",
             "player": "Paul Relativo",
-            "winrate": 1.0,
             "commander": [
                 "Niv-Mizzet Reborn"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "428566",
             "rank": "2",
             "player": "Nelvine Tuano",
-            "winrate": 0.8,
             "commander": [
                 "Daretti, Scrap Savant"
             ],
@@ -200,7 +198,6 @@
             "deck_id": "428567",
             "rank": "3-4",
             "player": "Mark Joseph Coquia",
-            "winrate": 0.6,
             "commander": [
                 "Titania, Protector of Argoth"
             ],
@@ -295,7 +292,6 @@
             "deck_id": "428568",
             "rank": "3-4",
             "player": "Martin Ogayon",
-            "winrate": 0.6,
             "commander": [
                 "Queen Marchesa"
             ],

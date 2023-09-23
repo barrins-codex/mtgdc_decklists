@@ -10,7 +10,6 @@
             "deck_id": "507633",
             "rank": "1",
             "player": "Maxime Allée",
-            "winrate": 1.0,
             "commander": [
                 "Grist, the Hunger Tide"
             ],
@@ -110,7 +109,6 @@
             "deck_id": "507634",
             "rank": "2",
             "player": "Brieuc Evo",
-            "winrate": 0.8,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],

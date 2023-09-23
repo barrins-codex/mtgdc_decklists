@@ -10,7 +10,6 @@
             "deck_id": "495863",
             "rank": "1",
             "player": "Terrance Holder",
-            "winrate": 1.0,
             "commander": [
                 "Gallia of the Endless Dance"
             ],
@@ -110,7 +109,6 @@
             "deck_id": "495864",
             "rank": "2",
             "player": "Hamid Henry",
-            "winrate": 0.8,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],

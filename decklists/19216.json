@@ -10,7 +10,6 @@
             "deck_id": "321802",
             "rank": "1",
             "player": "Daniel B.",
-            "winrate": 1.0,
             "commander": [
                 "Zurgo Bellstriker"
             ],
@@ -90,7 +89,6 @@
             "deck_id": "321803",
             "rank": "2",
             "player": "Felix M.",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Thrasios, Triton Hero",
                 "Tymna the Weaver"

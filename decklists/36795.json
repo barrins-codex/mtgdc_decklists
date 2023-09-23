@@ -10,7 +10,6 @@
             "deck_id": "476602",
             "rank": "1",
             "player": "Iori Zugaikotsu",
-            "winrate": 1.0,
             "commander": [
                 "Tevesh Szat, Doom of Fools",
                 "Malcolm, Keen-Eyed Navigator"
@@ -108,7 +107,6 @@
             "deck_id": "476603",
             "rank": "2",
             "player": "Dinno Zaide",
-            "winrate": 0.8,
             "commander": [
                 "Ludevic, Necro-Alchemist",
                 "Jeska, Thrice Reborn"
@@ -208,7 +206,6 @@
             "deck_id": "476604",
             "rank": "3-4",
             "player": "Jonathan Dolor",
-            "winrate": 0.6,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -295,7 +292,6 @@
             "deck_id": "476605",
             "rank": "3-4",
             "player": "Cilbert Corpuz",
-            "winrate": 0.6,
             "commander": [
                 "Inspiring Leader",
                 "Gut, True Soul Zealot"

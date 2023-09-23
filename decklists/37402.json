@@ -10,7 +10,6 @@
             "deck_id": "480419",
             "rank": "1",
             "player": "Marc",
-            "winrate": 1.0,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "480420",
             "rank": "2",
             "player": "Adrien Gau",
-            "winrate": 0.8,
             "commander": [
                 "Wernog, Rider's Chaplain",
                 "Bjorna, Nightfall Alchemist"
@@ -230,7 +228,6 @@
             "deck_id": "480421",
             "rank": "3-4",
             "player": "Jean-baptiste",
-            "winrate": 0.8,
             "commander": [
                 "Queen Marchesa"
             ],
@@ -340,7 +337,6 @@
             "deck_id": "480422",
             "rank": "3-4",
             "player": "Thomas",
-            "winrate": 0.8,
             "commander": [
                 "Kroxa, Titan of Death's Hunger"
             ],
@@ -441,7 +437,6 @@
             "deck_id": "480423",
             "rank": "5-8",
             "player": "Dominique",
-            "winrate": 0.6,
             "commander": [
                 "Minsc &amp; Boo, Timeless Heroes"
             ],
@@ -543,7 +538,6 @@
             "deck_id": "480425",
             "rank": "5-8",
             "player": "Sophie",
-            "winrate": 0.6,
             "commander": [
                 "Animar, Soul of Elements"
             ],
@@ -651,7 +645,6 @@
             "deck_id": "480426",
             "rank": "5-8",
             "player": "Aymerick",
-            "winrate": 0.6,
             "commander": [
                 "Minsc, Beloved Ranger"
             ],

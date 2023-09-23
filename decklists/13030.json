@@ -10,7 +10,6 @@
             "deck_id": "276058",
             "rank": "1",
             "player": "Davis Cortegana-Arias",
-            "winrate": 1.0,
             "commander": [
                 "Meren of Clan Nel Toth"
             ],
@@ -113,7 +112,6 @@
             "deck_id": "276059",
             "rank": "1",
             "player": "Renzo Mavila",
-            "winrate": 1.0,
             "commander": [
                 "Meren of Clan Nel Toth"
             ],
@@ -213,7 +211,6 @@
             "deck_id": "276060",
             "rank": "1",
             "player": "Renato Rentería",
-            "winrate": 1.0,
             "commander": [
                 "The Gitrog Monster"
             ],
@@ -311,7 +308,6 @@
             "deck_id": "276061",
             "rank": "1",
             "player": "Alessandro Chipulina",
-            "winrate": 1.0,
             "commander": [
                 "Vendilion Clique"
             ],

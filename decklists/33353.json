@@ -10,7 +10,6 @@
             "deck_id": "454497",
             "rank": "1",
             "player": "Pablo \"amumu\" Lima",
-            "winrate": 1.0,
             "commander": [
                 "Klothys, God of Destiny"
             ],
@@ -108,7 +107,6 @@
             "deck_id": "454498",
             "rank": "2",
             "player": "Leonardo Maeda",
-            "winrate": 0.8,
             "commander": [
                 "Prava of the Steel Legion",
                 "Tevesh Szat, Doom of Fools"
@@ -206,7 +204,6 @@
             "deck_id": "454499",
             "rank": "3-4",
             "player": "Victor Burghi",
-            "winrate": 0.6,
             "commander": [
                 "Torens, Fist of the Angels"
             ],
@@ -304,7 +301,6 @@
             "deck_id": "454500",
             "rank": "3-4",
             "player": "Willian Graciane",
-            "winrate": 0.6,
             "commander": [
                 "Kraum, Ludevic's Opus",
                 "Malcolm, Keen-Eyed Navigator"

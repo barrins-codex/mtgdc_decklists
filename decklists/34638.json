@@ -10,7 +10,6 @@
             "deck_id": "462514",
             "rank": "1",
             "player": "Reiner Pulmones",
-            "winrate": 1.0,
             "commander": [
                 "Isamaru, Hound of Konda"
             ],
@@ -103,7 +102,6 @@
             "deck_id": "462515",
             "rank": "2",
             "player": "Ste Villaraza",
-            "winrate": 0.8,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -213,7 +211,6 @@
             "deck_id": "462516",
             "rank": "3-4",
             "player": "Ben Co",
-            "winrate": 0.8,
             "commander": [
                 "Grazilaxx, Illithid Scholar"
             ],
@@ -299,7 +296,6 @@
             "deck_id": "462517",
             "rank": "3-4",
             "player": "Lawrence Samaniego",
-            "winrate": 0.8,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -395,7 +391,6 @@
             "deck_id": "462518",
             "rank": "5-8",
             "player": "Don Angelo Moreno",
-            "winrate": 0.6,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -471,7 +466,6 @@
             "deck_id": "462519",
             "rank": "5-8",
             "player": "Aldz Bibera",
-            "winrate": 0.6,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -567,7 +561,6 @@
             "deck_id": "462520",
             "rank": "5-8",
             "player": "Jarbs Sahagun",
-            "winrate": 0.6,
             "commander": [
                 "Glenn, the Voice of Calm"
             ],
@@ -668,7 +661,6 @@
             "deck_id": "462521",
             "rank": "5-8",
             "player": "Joseph Al-tawalbeh",
-            "winrate": 0.6,
             "commander": [
                 "Adeliz, the Cinder Wind"
             ],

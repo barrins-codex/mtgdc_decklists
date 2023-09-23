@@ -10,7 +10,6 @@
             "deck_id": "294894",
             "rank": "3-4",
             "player": "Francois Jandaud",
-            "winrate": 0.6,
             "commander": [
                 "Bruse Tarl, Boorish Herder",
                 "Reyhan, Last of the Abzan"
@@ -120,7 +119,6 @@
             "deck_id": "294895",
             "rank": "1",
             "player": "Justo Chacon",
-            "winrate": 1.0,
             "commander": [
                 "Venser, Shaper Savant"
             ],
@@ -215,7 +213,6 @@
             "deck_id": "294896",
             "rank": "2",
             "player": "Maxime Damman",
-            "winrate": 0.8,
             "commander": [
                 "Geist of Saint Traft"
             ],
@@ -311,7 +308,6 @@
             "deck_id": "294897",
             "rank": "3-4",
             "player": "Pierre Chabosy",
-            "winrate": 0.6,
             "commander": [
                 "Omnath, Locus of Mana"
             ],

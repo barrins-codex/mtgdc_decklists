@@ -10,7 +10,6 @@
             "deck_id": "262787",
             "rank": "5",
             "player": "Michele Atzeni",
-            "winrate": 0.6,
             "commander": [
                 "Surrak Dragonclaw"
             ],
@@ -114,7 +113,6 @@
             "deck_id": "262788",
             "rank": "6",
             "player": "Francesco Belvedere",
-            "winrate": 0.6,
             "commander": [
                 "Geist of Saint Traft"
             ],
@@ -211,7 +209,6 @@
             "deck_id": "262789",
             "rank": "7",
             "player": "Giovanni Galamini",
-            "winrate": 0.6,
             "commander": [
                 "Mayael the Anima"
             ],
@@ -313,7 +310,6 @@
             "deck_id": "262790",
             "rank": "8",
             "player": "Lorenzo Bianconi",
-            "winrate": 0.6,
             "commander": [
                 "Sidisi, Brood Tyrant"
             ],
@@ -422,7 +418,6 @@
             "deck_id": "262791",
             "rank": "4",
             "player": "Mauro Conti",
-            "winrate": 0.8,
             "commander": [
                 "Maelstrom Wanderer"
             ],
@@ -526,7 +521,6 @@
             "deck_id": "262792",
             "rank": "3",
             "player": "Francesco Quagliata",
-            "winrate": 0.8,
             "commander": [
                 "Marath, Will of the Wild"
             ],
@@ -634,7 +628,6 @@
             "deck_id": "262793",
             "rank": "2",
             "player": "Riccardo Percoco",
-            "winrate": 0.8,
             "commander": [
                 "Grand Arbiter Augustin IV"
             ],
@@ -729,7 +722,6 @@
             "deck_id": "262794",
             "rank": "1",
             "player": "David Rodriguez Targa",
-            "winrate": 1.0,
             "commander": [
                 "Tasigur, the Golden Fang"
             ],

@@ -10,7 +10,6 @@
             "deck_id": "286776",
             "rank": "1",
             "player": "Christian Hillebrand",
-            "winrate": 1.0,
             "commander": [
                 "Titania, Protector of Argoth"
             ],
@@ -104,7 +103,6 @@
             "deck_id": "286777",
             "rank": "2",
             "player": "Lukas Dechant",
-            "winrate": 0.8,
             "commander": [
                 "Kraum, Ludevic's Opus",
                 "Vial Smasher the Fierce"
@@ -214,7 +212,6 @@
             "deck_id": "286778",
             "rank": "3-4",
             "player": "Michael Fecke",
-            "winrate": 0.6,
             "commander": [
                 "Nissa, Vastwood Seer"
             ],
@@ -297,7 +294,6 @@
             "deck_id": "286779",
             "rank": "3-4",
             "player": "Fabian Furtjes",
-            "winrate": 0.6,
             "commander": [
                 "Vial Smasher the Fierce",
                 "Tymna the Weaver"
@@ -392,7 +388,6 @@
             "deck_id": "286780",
             "rank": "5-8",
             "player": "Ben Heckländer",
-            "winrate": 0.6,
             "commander": [
                 "Saskia the Unyielding"
             ],
@@ -496,7 +491,6 @@
             "deck_id": "286781",
             "rank": "5-8",
             "player": "Alexander Stockrahm",
-            "winrate": 0.6,
             "commander": [
                 "Grand Arbiter Augustin IV"
             ],
@@ -582,7 +576,6 @@
             "deck_id": "286782",
             "rank": "5-8",
             "player": "Johannes Huder",
-            "winrate": 0.6,
             "commander": [
                 "Jori En, Ruin Diver"
             ],

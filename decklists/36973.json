@@ -10,7 +10,6 @@
             "deck_id": "477712",
             "rank": "1",
             "player": "Diego \"dmyr\" Rio",
-            "winrate": 1.0,
             "commander": [
                 "Reyhan, Last of the Abzan",
                 "Jeska, Thrice Reborn"
@@ -120,7 +119,6 @@
             "deck_id": "477713",
             "rank": "2",
             "player": "Maximilien Potel",
-            "winrate": 0.8,
             "commander": [
                 "Minsc &amp; Boo, Timeless Heroes"
             ],
@@ -218,7 +216,6 @@
             "deck_id": "477714",
             "rank": "3-4",
             "player": "Alexandre Charbonnier",
-            "winrate": 0.8,
             "commander": [
                 "Minsc &amp; Boo, Timeless Heroes"
             ],
@@ -320,7 +317,6 @@
             "deck_id": "477715",
             "rank": "3-4",
             "player": "Guillaume \"totoroux\" Duday-marlot",
-            "winrate": 0.8,
             "commander": [
                 "Minsc &amp; Boo, Timeless Heroes"
             ],
@@ -423,7 +419,6 @@
             "deck_id": "477716",
             "rank": "5-8",
             "player": "Julien Boulet",
-            "winrate": 0.6,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -528,7 +523,6 @@
             "deck_id": "477717",
             "rank": "5-8",
             "player": "Hugo Fremont",
-            "winrate": 0.6,
             "commander": [
                 "Yisan, the Wanderer Bard"
             ],
@@ -616,7 +610,6 @@
             "deck_id": "477718",
             "rank": "5-8",
             "player": "Julien \"aiolia\" Grail",
-            "winrate": 0.6,
             "commander": [
                 "Dennick, Pious Apprentice"
             ],
@@ -712,7 +705,6 @@
             "deck_id": "477719",
             "rank": "5-8",
             "player": "Valentin Decorde",
-            "winrate": 0.6,
             "commander": [
                 "Sai, Master Thopterist"
             ],

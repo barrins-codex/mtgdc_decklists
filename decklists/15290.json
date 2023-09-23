@@ -10,7 +10,6 @@
             "deck_id": "292940",
             "rank": "8",
             "player": "Kevin Luongo",
-            "winrate": 0.625,
             "commander": [
                 "Vial Smasher the Fierce",
                 "Kraum, Ludevic's Opus"
@@ -116,7 +115,6 @@
             "deck_id": "292941",
             "rank": "1",
             "player": "Dmien Garcia",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Unknown Card"
             ],
@@ -216,7 +214,6 @@
             "deck_id": "292942",
             "rank": "2",
             "player": "Benjamin Valay",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Unknown Card"
             ],
@@ -317,7 +314,6 @@
             "deck_id": "292943",
             "rank": "3",
             "player": "Guillaume Bahin",
-            "winrate": 0.625,
             "commander": [
                 "Kraum, Ludevic's Opus",
                 "Vial Smasher the Fierce"
@@ -427,7 +423,6 @@
             "deck_id": "292944",
             "rank": "3-4",
             "player": "Nicolas Mestreau",
-            "winrate": 0.625,
             "commander": [
                 "Kraum, Ludevic's Opus",
                 "Vial Smasher the Fierce"
@@ -537,7 +532,6 @@
             "deck_id": "292945",
             "rank": "5",
             "player": "Alexandre Escrieut",
-            "winrate": 0.625,
             "commander": [
                 "Zurgo Bellstriker"
             ],
@@ -615,7 +609,6 @@
             "deck_id": "292946",
             "rank": "6",
             "player": "Matthieu Habersetzer",
-            "winrate": 0.625,
             "commander": [
                 "Zurgo Bellstriker"
             ],
@@ -692,7 +685,6 @@
             "deck_id": "292947",
             "rank": "7",
             "player": "Thomas Mestreau",
-            "winrate": 0.625,
             "commander": [
                 "Breya, Etherium Shaper"
             ],

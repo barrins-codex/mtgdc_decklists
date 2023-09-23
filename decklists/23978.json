@@ -10,7 +10,6 @@
             "deck_id": "367093",
             "rank": "8",
             "player": "Juan Barzola",
-            "winrate": 0.625,
             "commander": [
                 "Krenko, Mob Boss"
             ],
@@ -88,7 +87,6 @@
             "deck_id": "367094",
             "rank": "7",
             "player": "Luis Morales",
-            "winrate": 0.625,
             "commander": [
                 "Radha, Heir to Keld"
             ],
@@ -191,7 +189,6 @@
             "deck_id": "367095",
             "rank": "2",
             "player": "Daniel Garcia",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Tajic, Legion's Edge"
             ],
@@ -292,7 +289,6 @@
             "deck_id": "367096",
             "rank": "3",
             "player": "Joseph Aliaga",
-            "winrate": 0.625,
             "commander": [
                 "Emmara, Soul of the Accord"
             ],
@@ -393,7 +389,6 @@
             "deck_id": "367097",
             "rank": "4",
             "player": "Claudio Naranjo",
-            "winrate": 0.625,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -471,7 +466,6 @@
             "deck_id": "367098",
             "rank": "5",
             "player": "Reynaldo Wirllos",
-            "winrate": 0.625,
             "commander": [
                 "Silas Renn, Seeker Adept",
                 "Akiri, Line-Slinger"
@@ -581,7 +575,6 @@
             "deck_id": "367099",
             "rank": "6",
             "player": "Andres Perez",
-            "winrate": 0.625,
             "commander": [
                 "Ludevic, Necro-Alchemist",
                 "Thrasios, Triton Hero"
@@ -689,7 +682,6 @@
             "deck_id": "367100",
             "rank": "1",
             "player": "Christopher Zurita",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Yawgmoth, Thran Physician"
             ],

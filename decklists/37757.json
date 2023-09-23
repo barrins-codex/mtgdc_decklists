@@ -10,7 +10,6 @@
             "deck_id": "482668",
             "rank": "1",
             "player": "Char",
-            "winrate": 1.0,
             "commander": [
                 "Niv-Mizzet Reborn"
             ],
@@ -119,7 +118,6 @@
             "deck_id": "482669",
             "rank": "2",
             "player": "Ziqi Xi",
-            "winrate": 0.8,
             "commander": [
                 "Golos, Tireless Pilgrim"
             ],
@@ -229,7 +227,6 @@
             "deck_id": "482670",
             "rank": "3-4",
             "player": "Kaichen Zhao",
-            "winrate": 0.6,
             "commander": [
                 "Jegantha, the Wellspring",
                 "Sisay, Weatherlight Captain"
@@ -340,7 +337,6 @@
             "deck_id": "482671",
             "rank": "3-4",
             "player": "Shoucong Wu",
-            "winrate": 0.6,
             "commander": [
                 "Hogaak, Arisen Necropolis"
             ],

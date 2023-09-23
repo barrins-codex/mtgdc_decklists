@@ -10,7 +10,6 @@
             "deck_id": "481164",
             "rank": "1",
             "player": "Jefferson Pereira",
-            "winrate": 1.0,
             "commander": [
                 "Isamaru, Hound of Konda"
             ],
@@ -83,7 +82,6 @@
             "deck_id": "481165",
             "rank": "2",
             "player": "Wallace Santos",
-            "winrate": 0.8,
             "commander": [
                 "Kinnan, Bonder Prodigy"
             ],
@@ -171,7 +169,6 @@
             "deck_id": "481166",
             "rank": "3-4",
             "player": "Ruan Rangel",
-            "winrate": 0.6,
             "commander": [
                 "Dennick, Pious Apprentice"
             ],

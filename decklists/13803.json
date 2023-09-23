@@ -10,7 +10,6 @@
             "deck_id": "281434",
             "rank": "1",
             "player": "Simone Molaro",
-            "winrate": 1.0,
             "commander": [
                 "Maelstrom Wanderer"
             ],
@@ -114,7 +113,6 @@
             "deck_id": "281435",
             "rank": "2",
             "player": "Francesco Belvedere",
-            "winrate": 0.8,
             "commander": [
                 "Queen Marchesa"
             ],
@@ -222,7 +220,6 @@
             "deck_id": "281436",
             "rank": "3-4",
             "player": "Simonpietro Speziale",
-            "winrate": 0.8,
             "commander": [
                 "Dragonlord Ojutai"
             ],
@@ -317,7 +314,6 @@
             "deck_id": "281437",
             "rank": "3-4",
             "player": "Lorenzo Cefalà",
-            "winrate": 0.8,
             "commander": [
                 "Wydwen, the Biting Gale"
             ],
@@ -415,7 +411,6 @@
             "deck_id": "281438",
             "rank": "5-8",
             "player": "Michele Atzeni",
-            "winrate": 0.6,
             "commander": [
                 "Radha, Heir to Keld"
             ],
@@ -510,7 +505,6 @@
             "deck_id": "281439",
             "rank": "5-8",
             "player": "Nicola Pavan",
-            "winrate": 0.6,
             "commander": [
                 "Grand Arbiter Augustin IV"
             ],
@@ -597,7 +591,6 @@
             "deck_id": "281440",
             "rank": "5-8",
             "player": "Daniele Pintaudi",
-            "winrate": 0.6,
             "commander": [
                 "Anafenza, the Foremost"
             ],
@@ -707,7 +700,6 @@
             "deck_id": "281441",
             "rank": "5-8",
             "player": "Matteo Marinelli",
-            "winrate": 0.6,
             "commander": [
                 "Kaalia of the Vast"
             ],

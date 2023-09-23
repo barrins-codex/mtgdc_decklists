@@ -10,7 +10,6 @@
             "deck_id": "542877",
             "rank": "1",
             "player": "Jomar Co",
-            "winrate": 1.0,
             "commander": [
                 "Ardoz, Cobbler of War"
             ],
@@ -95,7 +94,6 @@
             "deck_id": "542878",
             "rank": "2",
             "player": "Edison Gabutero",
-            "winrate": 0.8,
             "commander": [
                 "Reyhan, Last of the Abzan",
                 "Yoshimaru, Ever Faithful"
@@ -202,7 +200,6 @@
             "deck_id": "542879",
             "rank": "3",
             "player": "Deej \"el Cholo Loco\" Miranda",
-            "winrate": 0.6,
             "commander": [
                 "Bruse Tarl, Boorish Herder",
                 "Yoshimaru, Ever Faithful"

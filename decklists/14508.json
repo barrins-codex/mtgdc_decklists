@@ -10,7 +10,6 @@
             "deck_id": "286975",
             "rank": "5-8",
             "player": "Miguel Barbosa",
-            "winrate": 0.6,
             "commander": [
                 "Titania, Protector of Argoth"
             ],
@@ -102,7 +101,6 @@
             "deck_id": "286976",
             "rank": "5-8",
             "player": "Gui Tavares",
-            "winrate": 0.6,
             "commander": [
                 "Jori En, Ruin Diver"
             ],
@@ -193,7 +191,6 @@
             "deck_id": "286977",
             "rank": "5-8",
             "player": "Fernando Yada Marinho",
-            "winrate": 0.6,
             "commander": [
                 "Kraum, Ludevic's Opus",
                 "Vial Smasher the Fierce"
@@ -303,7 +300,6 @@
             "deck_id": "286978",
             "rank": "5-8",
             "player": "Davi \"DK\" Pereira",
-            "winrate": 0.6,
             "commander": [
                 "Narset, Enlightened Master"
             ],
@@ -409,7 +405,6 @@
             "deck_id": "286979",
             "rank": "3-4",
             "player": "Renan Facchini",
-            "winrate": 0.8,
             "commander": [
                 "Bruse Tarl, Boorish Herder",
                 "Akiri, Line-Slinger"
@@ -499,7 +494,6 @@
             "deck_id": "286980",
             "rank": "3-4",
             "player": "Brunno \"NN\" Portella",
-            "winrate": 0.8,
             "commander": [
                 "Kraum, Ludevic's Opus",
                 "Vial Smasher the Fierce"
@@ -609,7 +603,6 @@
             "deck_id": "286981",
             "rank": "1",
             "player": "Fábio Fernandes Vieira",
-            "winrate": 1.0,
             "commander": [
                 "Breya, Etherium Shaper"
             ],
@@ -719,7 +712,6 @@
             "deck_id": "286982",
             "rank": "2",
             "player": "Rodrigo Grotti",
-            "winrate": 0.8,
             "commander": [
                 "Kraum, Ludevic's Opus",
                 "Vial Smasher the Fierce"

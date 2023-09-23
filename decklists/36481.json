@@ -10,7 +10,6 @@
             "deck_id": "474676",
             "rank": "1",
             "player": "Well",
-            "winrate": 1.0,
             "commander": [
                 "Dennick, Pious Apprentice"
             ],
@@ -112,7 +111,6 @@
             "deck_id": "474677",
             "rank": "2",
             "player": "Anderson \"jamau\" Dos Santos",
-            "winrate": 0.8,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -196,7 +194,6 @@
             "deck_id": "474678",
             "rank": "3-4",
             "player": "Flávio \"sife\" Foster",
-            "winrate": 0.6,
             "commander": [
                 "Shorikai, Genesis Engine"
             ],
@@ -297,7 +294,6 @@
             "deck_id": "474679",
             "rank": "3-4",
             "player": "Renan Da Massa",
-            "winrate": 0.6,
             "commander": [
                 "Tevesh Szat, Doom of Fools",
                 "Dargo, the Shipwrecker"

@@ -10,7 +10,6 @@
             "deck_id": "495678",
             "rank": "1",
             "player": "Martin Bittmann",
-            "winrate": 1.0,
             "commander": [
                 "The Ur-Dragon"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "495679",
             "rank": "2",
             "player": "Balazs Csepi",
-            "winrate": 0.8,
             "commander": [
                 "Light-Paws, Emperor's Voice"
             ],
@@ -203,7 +201,6 @@
             "deck_id": "495680",
             "rank": "3-4",
             "player": "Akos Kovacs",
-            "winrate": 0.6,
             "commander": [
                 "Atraxa, Praetors' Voice"
             ],
@@ -313,7 +310,6 @@
             "deck_id": "495681",
             "rank": "3-4",
             "player": "Mark Alex Horvath",
-            "winrate": 0.6,
             "commander": [
                 "Titania, Protector of Argoth"
             ],
@@ -406,7 +402,6 @@
             "deck_id": "495682",
             "rank": "5-8",
             "player": "Konya Bendeguz",
-            "winrate": 0.6,
             "commander": [
                 "Dennick, Pious Apprentice"
             ],
@@ -509,7 +504,6 @@
             "deck_id": "495683",
             "rank": "5-8",
             "player": "Csak Levente",
-            "winrate": 0.6,
             "commander": [
                 "Grist, the Hunger Tide"
             ],
@@ -619,7 +613,6 @@
             "deck_id": "495684",
             "rank": "5-8",
             "player": "Szo King",
-            "winrate": 0.6,
             "commander": [
                 "Ghyrson Starn, Kelermorph"
             ],
@@ -721,7 +714,6 @@
             "deck_id": "495685",
             "rank": "5-8",
             "player": "Balint Fonyo",
-            "winrate": 0.6,
             "commander": [
                 "The Ur-Dragon"
             ],

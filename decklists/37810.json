@@ -10,7 +10,6 @@
             "deck_id": "482999",
             "rank": "1",
             "player": "Ondrej Hruby",
-            "winrate": 0.8888888888888888,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "483000",
             "rank": "2",
             "player": "Ondrej Muller",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Hogaak, Arisen Necropolis"
             ],
@@ -230,7 +228,6 @@
             "deck_id": "483001",
             "rank": "3-4",
             "player": "Tomas Vardzik",
-            "winrate": 0.75,
             "commander": [
                 "Isamaru, Hound of Konda"
             ],
@@ -318,7 +315,6 @@
             "deck_id": "483002",
             "rank": "3-4",
             "player": "Tomas Hanousek",
-            "winrate": 0.75,
             "commander": [
                 "Dennick, Pious Apprentice"
             ],
@@ -420,7 +416,6 @@
             "deck_id": "483003",
             "rank": "5-8",
             "player": "Vojta Kotek",
-            "winrate": 0.75,
             "commander": [
                 "Grenzo, Dungeon Warden"
             ],
@@ -520,7 +515,6 @@
             "deck_id": "483004",
             "rank": "5-8",
             "player": "David Stepanek",
-            "winrate": 0.75,
             "commander": [
                 "Leovold, Emissary of Trest"
             ],
@@ -630,7 +624,6 @@
             "deck_id": "483005",
             "rank": "5-8",
             "player": "David Mecl",
-            "winrate": 0.75,
             "commander": [
                 "Azusa, Lost but Seeking"
             ],
@@ -728,7 +721,6 @@
             "deck_id": "483006",
             "rank": "5-8",
             "player": "Miloslav Ponec",
-            "winrate": 0.75,
             "commander": [
                 "Hogaak, Arisen Necropolis"
             ],

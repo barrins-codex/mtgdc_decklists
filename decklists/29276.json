@@ -10,7 +10,6 @@
             "deck_id": "430337",
             "rank": "1",
             "player": "Kevin Guairo",
-            "winrate": 1.0,
             "commander": [
                 "Reyhan, Last of the Abzan",
                 "Keleth, Sunmane Familiar"
@@ -118,7 +117,6 @@
             "deck_id": "430338",
             "rank": "2",
             "player": "D \"ardo\" Lc",
-            "winrate": 0.8,
             "commander": [
                 "Kamahl, Heart of Krosa",
                 "Kodama of the East Tree"

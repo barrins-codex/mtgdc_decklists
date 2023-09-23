@@ -10,7 +10,6 @@
             "deck_id": "353990",
             "rank": "2",
             "player": "Gregor G.",
-            "winrate": 0.8,
             "commander": [
                 "Yuriko, the Tiger's Shadow"
             ],
@@ -100,7 +99,6 @@
             "deck_id": "353991",
             "rank": "1",
             "player": "Felix M.",
-            "winrate": 1.0,
             "commander": [
                 "Tymna the Weaver",
                 "Thrasios, Triton Hero"

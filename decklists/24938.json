@@ -10,7 +10,6 @@
             "deck_id": "374564",
             "rank": "1",
             "player": "Sebastian Kött",
-            "winrate": 1.0,
             "commander": [
                 "Selvala, Heart of the Wilds"
             ],
@@ -95,7 +94,6 @@
             "deck_id": "374565",
             "rank": "2",
             "player": "Jonas Jörns",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Titania, Protector of Argoth"
             ],

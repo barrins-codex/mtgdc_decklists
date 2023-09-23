@@ -10,7 +10,6 @@
             "deck_id": "453775",
             "rank": "1",
             "player": "Anthony Ruer",
-            "winrate": 1.0,
             "commander": [
                 "Tevesh Szat, Doom of Fools",
                 "Miara, Thorn of the Glade"
@@ -95,7 +94,6 @@
             "deck_id": "453776",
             "rank": "2",
             "player": "Laurent Gadchaux",
-            "winrate": 0.8,
             "commander": [
                 "Isamaru, Hound of Konda"
             ],
@@ -182,7 +180,6 @@
             "deck_id": "453777",
             "rank": "3-4",
             "player": "Loïc Dougnac",
-            "winrate": 0.8,
             "commander": [
                 "Sythis, Harvest's Hand"
             ],
@@ -286,7 +283,6 @@
             "deck_id": "453778",
             "rank": "3-4",
             "player": "Jonas Ponsalle",
-            "winrate": 0.8,
             "commander": [
                 "Titania, Protector of Argoth"
             ],
@@ -383,7 +379,6 @@
             "deck_id": "453779",
             "rank": "5-8",
             "player": "Jean Gouzy",
-            "winrate": 0.6,
             "commander": [
                 "Malcolm, Keen-Eyed Navigator",
                 "Livio, Oathsworn Sentinel"
@@ -484,7 +479,6 @@
             "deck_id": "453780",
             "rank": "5-8",
             "player": "Matthias Muller",
-            "winrate": 0.6,
             "commander": [
                 "Kess, Dissident Mage"
             ],
@@ -594,7 +588,6 @@
             "deck_id": "453781",
             "rank": "5-8",
             "player": "Audren Boulic",
-            "winrate": 0.6,
             "commander": [
                 "Adeliz, the Cinder Wind"
             ],
@@ -692,7 +685,6 @@
             "deck_id": "453782",
             "rank": "5-8",
             "player": "Alexandre Vilnet",
-            "winrate": 0.6,
             "commander": [
                 "Emmara, Soul of the Accord"
             ],

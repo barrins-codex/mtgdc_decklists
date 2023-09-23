@@ -10,7 +10,6 @@
             "deck_id": "478143",
             "rank": "1",
             "player": "Roi Dagang",
-            "winrate": 1.0,
             "commander": [
                 "Minsc &amp; Boo, Timeless Heroes"
             ],
@@ -111,7 +110,6 @@
             "deck_id": "478144",
             "rank": "2",
             "player": "Bruce Valero",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Abdel Adrian, Gorion's Ward",
                 "Agent of the Iron Throne"

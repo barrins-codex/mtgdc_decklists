@@ -10,7 +10,6 @@
             "deck_id": "372506",
             "rank": "1",
             "player": "Felix M.",
-            "winrate": 0.8888888888888888,
             "commander": [
                 "Tymna the Weaver",
                 "Thrasios, Triton Hero"
@@ -120,7 +119,6 @@
             "deck_id": "372507",
             "rank": "2",
             "player": "Nils H.",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Akiri, Line-Slinger",
                 "Thrasios, Triton Hero"
@@ -230,7 +228,6 @@
             "deck_id": "372508",
             "rank": "3-4",
             "player": "Achim G.",
-            "winrate": 0.75,
             "commander": [
                 "Will Kenrith",
                 "Rowan Kenrith"
@@ -320,7 +317,6 @@
             "deck_id": "372509",
             "rank": "3-4",
             "player": "Alexander S.",
-            "winrate": 0.75,
             "commander": [
                 "Karlov of the Ghost Council"
             ],
@@ -423,7 +419,6 @@
             "deck_id": "372510",
             "rank": "5-8",
             "player": "Giuseppe I.",
-            "winrate": 0.75,
             "commander": [
                 "Tymna the Weaver",
                 "Thrasios, Triton Hero"
@@ -533,7 +528,6 @@
             "deck_id": "372511",
             "rank": "5-8",
             "player": "Dennis C.",
-            "winrate": 0.75,
             "commander": [
                 "Kraum, Ludevic's Opus",
                 "Ludevic, Necro-Alchemist"
@@ -628,7 +622,6 @@
             "deck_id": "372512",
             "rank": "5-8",
             "player": "Thomas S.",
-            "winrate": 0.75,
             "commander": [
                 "Saskia the Unyielding"
             ],
@@ -738,7 +731,6 @@
             "deck_id": "372513",
             "rank": "5-8",
             "player": "Jaroslav C.",
-            "winrate": 0.75,
             "commander": [
                 "Ludevic, Necro-Alchemist",
                 "Kraum, Ludevic's Opus"

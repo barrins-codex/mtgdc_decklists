@@ -10,7 +10,6 @@
             "deck_id": "538606",
             "rank": "1",
             "player": "Alexandre Benac",
-            "winrate": 1.0,
             "commander": [
                 "Balmor, Battlemage Captain"
             ],
@@ -112,7 +111,6 @@
             "deck_id": "538607",
             "rank": "2",
             "player": "Julien Borkowski",
-            "winrate": 0.8,
             "commander": [
                 "Kroxa, Titan of Death's Hunger"
             ],
@@ -219,7 +217,6 @@
             "deck_id": "538608",
             "rank": "3-4",
             "player": "Yann \"zeben\" Herpe",
-            "winrate": 0.8,
             "commander": [
                 "Golos, Tireless Pilgrim"
             ],
@@ -327,7 +324,6 @@
             "deck_id": "538609",
             "rank": "3-4",
             "player": "Julien Schneider",
-            "winrate": 0.8,
             "commander": [
                 "Light-Paws, Emperor's Voice"
             ],
@@ -410,7 +406,6 @@
             "deck_id": "538610",
             "rank": "5-8",
             "player": "Yann Brugière",
-            "winrate": 0.6,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -520,7 +515,6 @@
             "deck_id": "538611",
             "rank": "5-8",
             "player": "Idris Gil",
-            "winrate": 0.6,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -627,7 +621,6 @@
             "deck_id": "538612",
             "rank": "5-8",
             "player": "Hadrien Bourgoin",
-            "winrate": 0.6,
             "commander": [
                 "Sai, Master Thopterist"
             ],
@@ -714,7 +707,6 @@
             "deck_id": "538613",
             "rank": "5-8",
             "player": "Thibaud Bétencourt",
-            "winrate": 0.6,
             "commander": [
                 "Ertai Resurrected"
             ],

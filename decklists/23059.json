@@ -10,7 +10,6 @@
             "deck_id": "358214",
             "rank": "1",
             "player": "Sebastian Nußbaum",
-            "winrate": 1.0,
             "commander": [
                 "Leovold, Emissary of Trest"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "358215",
             "rank": "2",
             "player": "Julian Heßling",
-            "winrate": 0.8,
             "commander": [
                 "Daretti, Scrap Savant"
             ],

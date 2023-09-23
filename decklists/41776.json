@@ -10,7 +10,6 @@
             "deck_id": "510182",
             "rank": "1",
             "player": "Paul Séronie-vivien",
-            "winrate": 0.9,
             "commander": [
                 "Tana, the Bloodsower",
                 "Yoshimaru, Ever Faithful"
@@ -119,7 +118,6 @@
             "deck_id": "510183",
             "rank": "2",
             "player": "Manu \"pogo\" Chambord",
-            "winrate": 0.8,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -229,7 +227,6 @@
             "deck_id": "510184",
             "rank": "3-4",
             "player": "Clément \"carpenters\" Gillard",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Niv-Mizzet Reborn"
             ],
@@ -339,7 +336,6 @@
             "deck_id": "510185",
             "rank": "3-4",
             "player": "François Maynadier",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -449,7 +445,6 @@
             "deck_id": "510186",
             "rank": "5-8",
             "player": "Guillaume \"cleomene\" Cailliez",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Kess, Dissident Mage"
             ],
@@ -557,7 +552,6 @@
             "deck_id": "510187",
             "rank": "5-8",
             "player": "Léo Facca",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Atraxa, Grand Unifier"
             ],
@@ -667,7 +661,6 @@
             "deck_id": "510188",
             "rank": "5-8",
             "player": "Remy Gaspard",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Tana, the Bloodsower",
                 "Yoshimaru, Ever Faithful"
@@ -771,7 +764,6 @@
             "deck_id": "510189",
             "rank": "5-8",
             "player": "Quentin Potier",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Ghyrson Starn, Kelermorph"
             ],

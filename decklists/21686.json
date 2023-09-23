@@ -10,7 +10,6 @@
             "deck_id": "345715",
             "rank": "1",
             "player": "Hu Minzhe",
-            "winrate": 1.0,
             "commander": [
                 "Kess, Dissident Mage"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "345716",
             "rank": "2",
             "player": "Shen Junkai",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Adeliz, the Cinder Wind"
             ],

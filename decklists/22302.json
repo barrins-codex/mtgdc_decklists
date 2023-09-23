@@ -10,7 +10,6 @@
             "deck_id": "351209",
             "rank": "5-8",
             "player": "David",
-            "winrate": 0.6,
             "commander": [
                 "Arahbo, Roar of the World"
             ],
@@ -115,7 +114,6 @@
             "deck_id": "351210",
             "rank": "5-8",
             "player": "Loic",
-            "winrate": 0.6,
             "commander": [
                 "Arahbo, Roar of the World"
             ],
@@ -211,7 +209,6 @@
             "deck_id": "351211",
             "rank": "5-8",
             "player": "Pierre",
-            "winrate": 0.6,
             "commander": [
                 "Tymna the Weaver",
                 "Reyhan, Last of the Abzan"
@@ -321,7 +318,6 @@
             "deck_id": "351212",
             "rank": "5-8",
             "player": "Mika \"ereboss\"",
-            "winrate": 0.6,
             "commander": [
                 "Tajic, Legion's Edge"
             ],
@@ -416,7 +412,6 @@
             "deck_id": "351213",
             "rank": "3-4",
             "player": "Luc",
-            "winrate": 0.8,
             "commander": [
                 "Arahbo, Roar of the World"
             ],
@@ -515,7 +510,6 @@
             "deck_id": "351214",
             "rank": "3-4",
             "player": "Joël",
-            "winrate": 0.8,
             "commander": [
                 "Chromium, the Mutable"
             ],
@@ -621,7 +615,6 @@
             "deck_id": "351215",
             "rank": "2",
             "player": "Quentin \"senseiidora\" Levard",
-            "winrate": 0.8,
             "commander": [
                 "Urza, Lord High Artificer"
             ],
@@ -711,7 +704,6 @@
             "deck_id": "351216",
             "rank": "1",
             "player": "Kilian \"ironvixen\" Boulhais",
-            "winrate": 1.0,
             "commander": [
                 "Kess, Dissident Mage"
             ],

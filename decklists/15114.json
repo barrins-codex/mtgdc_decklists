@@ -10,7 +10,6 @@
             "deck_id": "291562",
             "rank": "3-4",
             "player": "Vyacheslav Serputko",
-            "winrate": 0.6,
             "commander": [
                 "Selvala, Explorer Returned"
             ],
@@ -109,7 +108,6 @@
             "deck_id": "291563",
             "rank": "1",
             "player": "Aleksandr Smirnov",
-            "winrate": 1.0,
             "commander": [
                 "Breya, Etherium Shaper"
             ],
@@ -219,7 +217,6 @@
             "deck_id": "291564",
             "rank": "3-4",
             "player": "Maxim Palachev",
-            "winrate": 0.6,
             "commander": [
                 "Tymaret, the Murder King"
             ],
@@ -313,7 +310,6 @@
             "deck_id": "291565",
             "rank": "2",
             "player": "Petr Murygin",
-            "winrate": 0.8,
             "commander": [
                 "Kraum, Ludevic's Opus",
                 "Vial Smasher the Fierce"

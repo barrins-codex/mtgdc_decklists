@@ -10,7 +10,6 @@
             "deck_id": "262157",
             "rank": "5-8",
             "player": "Sink-Error",
-            "winrate": 0.8,
             "commander": [
                 "Maelstrom Wanderer"
             ],
@@ -102,7 +101,6 @@
             "deck_id": "262158",
             "rank": "5-8",
             "player": "Desmond Oh",
-            "winrate": 0.8,
             "commander": [
                 "Anafenza, the Foremost"
             ],
@@ -212,7 +210,6 @@
             "deck_id": "262159",
             "rank": "3-4",
             "player": "Qing Huang Toh",
-            "winrate": 0.8,
             "commander": [
                 "Yisan, the Wanderer Bard"
             ],
@@ -300,7 +297,6 @@
             "deck_id": "262160",
             "rank": "3-4",
             "player": "Kok Chiang",
-            "winrate": 0.8,
             "commander": [
                 "Marath, Will of the Wild"
             ],
@@ -409,7 +405,6 @@
             "deck_id": "262161",
             "rank": "5-8",
             "player": "EpiCycle1",
-            "winrate": 0.8,
             "commander": [
                 "The Mimeoplasm"
             ],
@@ -517,7 +512,6 @@
             "deck_id": "262162",
             "rank": "1",
             "player": "bozfoogle",
-            "winrate": 1.0,
             "commander": [
                 "Sidisi, Undead Vizier"
             ],
@@ -599,7 +593,6 @@
             "deck_id": "262163",
             "rank": "2",
             "player": "Shahdan Mahbud",
-            "winrate": 0.8,
             "commander": [
                 "Grand Arbiter Augustin IV"
             ],
@@ -697,7 +690,6 @@
             "deck_id": "262164",
             "rank": "5-8",
             "player": "Jinwen Yao",
-            "winrate": 0.8,
             "commander": [
                 "Jenara, Asura of War"
             ],

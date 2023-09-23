@@ -10,7 +10,6 @@
             "deck_id": "411652",
             "rank": "2",
             "player": "Ivan Bais",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Klothys, God of Destiny"
             ],
@@ -99,7 +98,6 @@
             "deck_id": "411656",
             "rank": "1",
             "player": "Lucas Felix",
-            "winrate": 1.0,
             "commander": [
                 "Tymna the Weaver",
                 "Akiri, Line-Slinger"

@@ -10,7 +10,6 @@
             "deck_id": "313950",
             "rank": "1",
             "player": "Yves Bausa",
-            "winrate": 0.8888888888888888,
             "commander": [
                 "Karlov of the Ghost Council"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "313951",
             "rank": "5-8",
             "player": "Louie Siongco",
-            "winrate": 0.75,
             "commander": [
                 "Sidar Kondo of Jamuraa",
                 "Thrasios, Triton Hero"
@@ -227,7 +225,6 @@
             "deck_id": "313952",
             "rank": "5-8",
             "player": "Brian Lim",
-            "winrate": 0.75,
             "commander": [
                 "Titania, Protector of Argoth"
             ],
@@ -320,7 +317,6 @@
             "deck_id": "313953",
             "rank": "3-4",
             "player": "Agustin Ireneo",
-            "winrate": 0.75,
             "commander": [
                 "Nissa, Vastwood Seer"
             ],
@@ -409,7 +405,6 @@
             "deck_id": "313954",
             "rank": "3-4",
             "player": "Aurelio Pangilinan",
-            "winrate": 0.75,
             "commander": [
                 "Baral, Chief of Compliance"
             ],
@@ -483,7 +478,6 @@
             "deck_id": "313955",
             "rank": "5-8",
             "player": "Earl Castel",
-            "winrate": 0.75,
             "commander": [
                 "Kraum, Ludevic's Opus",
                 "Tymna the Weaver"
@@ -593,7 +587,6 @@
             "deck_id": "313956",
             "rank": "2",
             "player": "Ben Co",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Titania, Protector of Argoth"
             ],
@@ -684,7 +677,6 @@
             "deck_id": "313957",
             "rank": "5-8",
             "player": "Chris Villanueva",
-            "winrate": 0.75,
             "commander": [
                 "Zurgo Bellstriker"
             ],

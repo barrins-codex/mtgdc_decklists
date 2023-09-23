@@ -10,7 +10,6 @@
             "deck_id": "499428",
             "rank": "1",
             "player": "Hannimys",
-            "winrate": 1.0,
             "commander": [
                 "Atraxa, Praetors' Voice"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "499429",
             "rank": "2",
             "player": "Relelei",
-            "winrate": 0.8,
             "commander": [
                 "Anafenza, the Foremost"
             ],
@@ -228,7 +226,6 @@
             "deck_id": "499430",
             "rank": "3-4",
             "player": "Bluedragon",
-            "winrate": 0.8,
             "commander": [
                 "Acererak the Archlich"
             ],
@@ -303,7 +300,6 @@
             "deck_id": "499431",
             "rank": "3-4",
             "player": "Nadrak",
-            "winrate": 0.8,
             "commander": [
                 "Jadar, Ghoulcaller of Nephalia"
             ],
@@ -395,7 +391,6 @@
             "deck_id": "499432",
             "rank": "5-8",
             "player": "Zuzur",
-            "winrate": 0.6,
             "commander": [
                 "Yoshimaru, Ever Faithful",
                 "Kraum, Ludevic's Opus"
@@ -505,7 +500,6 @@
             "deck_id": "499433",
             "rank": "5-8",
             "player": "Whurzag",
-            "winrate": 0.6,
             "commander": [
                 "Saskia the Unyielding"
             ],
@@ -615,7 +609,6 @@
             "deck_id": "499434",
             "rank": "5-8",
             "player": "Blondin",
-            "winrate": 0.6,
             "commander": [
                 "Dennick, Pious Apprentice"
             ],
@@ -715,7 +708,6 @@
             "deck_id": "499435",
             "rank": "5-8",
             "player": "Torkemadas",
-            "winrate": 0.6,
             "commander": [
                 "Juri, Master of the Revue"
             ],

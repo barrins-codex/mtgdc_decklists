@@ -10,7 +10,6 @@
             "deck_id": "267752",
             "rank": "2",
             "player": "Esteban Myl",
-            "winrate": 0.8,
             "commander": [
                 "Geist of Saint Traft"
             ],
@@ -105,7 +104,6 @@
             "deck_id": "267753",
             "rank": "1",
             "player": "Sebastian Solis",
-            "winrate": 1.0,
             "commander": [
                 "Daretti, Scrap Savant"
             ],

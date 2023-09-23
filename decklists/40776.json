@@ -10,7 +10,6 @@
             "deck_id": "503340",
             "rank": "2",
             "player": "Nicolas Prail",
-            "winrate": 0.8,
             "commander": [
                 "Dihada, Binder of Wills"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "503341",
             "rank": "2",
             "player": "Jules Lestienne",
-            "winrate": 0.8,
             "commander": [
                 "Cecily, Haunted Mage",
                 "Wernog, Rider's Chaplain"
@@ -230,7 +228,6 @@
             "deck_id": "503342",
             "rank": "3-4",
             "player": "Alexandre Benac",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Hogaak, Arisen Necropolis"
             ],
@@ -340,7 +337,6 @@
             "deck_id": "503343",
             "rank": "3-4",
             "player": "Damien Garcia",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Tivit, Seller of Secrets"
             ],
@@ -450,7 +446,6 @@
             "deck_id": "503344",
             "rank": "5-8",
             "player": "Adrien Houssard",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Dihada, Binder of Wills"
             ],
@@ -560,7 +555,6 @@
             "deck_id": "503345",
             "rank": "5-8",
             "player": "Maxime Catala",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Cecily, Haunted Mage",
                 "Wernog, Rider's Chaplain"
@@ -670,7 +664,6 @@
             "deck_id": "503346",
             "rank": "5-8",
             "player": "Nicolas Moury",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Light-Paws, Emperor's Voice"
             ],
@@ -749,7 +742,6 @@
             "deck_id": "504271",
             "rank": "5-8",
             "player": "Matthieu Tassa",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Cultist of the Absolute",
                 "Gut, True Soul Zealot"

@@ -10,7 +10,6 @@
             "deck_id": "274040",
             "rank": "3-4",
             "player": "Matthieu Habersetzer",
-            "winrate": 0.8,
             "commander": [
                 "Xenagos, God of Revels"
             ],
@@ -103,7 +102,6 @@
             "deck_id": "274041",
             "rank": "2",
             "player": "Benjamin Valay",
-            "winrate": 0.8,
             "commander": [
                 "Prossh, Skyraider of Kher"
             ],
@@ -184,7 +182,6 @@
             "deck_id": "274042",
             "rank": "1",
             "player": "Christophe Guillot",
-            "winrate": 1.0,
             "commander": [
                 "Marath, Will of the Wild"
             ],
@@ -291,7 +288,6 @@
             "deck_id": "274043",
             "rank": "5-8",
             "player": "Paul Ridoux",
-            "winrate": 0.6,
             "commander": [
                 "Prossh, Skyraider of Kher"
             ],
@@ -391,7 +387,6 @@
             "deck_id": "274044",
             "rank": "3-4",
             "player": "Raphaël Préau",
-            "winrate": 0.8,
             "commander": [
                 "Marath, Will of the Wild"
             ],
@@ -499,7 +494,6 @@
             "deck_id": "274045",
             "rank": "5-8",
             "player": "Florent Dubrana",
-            "winrate": 0.6,
             "commander": [
                 "Kaalia of the Vast"
             ],
@@ -603,7 +597,6 @@
             "deck_id": "274046",
             "rank": "5-8",
             "player": "Mickaël Fretey",
-            "winrate": 0.6,
             "commander": [
                 "Keranos, God of Storms"
             ],
@@ -685,7 +678,6 @@
             "deck_id": "274047",
             "rank": "5-8",
             "player": "William Guignot",
-            "winrate": 0.6,
             "commander": [
                 "Prossh, Skyraider of Kher"
             ],

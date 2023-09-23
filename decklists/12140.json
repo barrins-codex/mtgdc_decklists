@@ -10,7 +10,6 @@
             "deck_id": "269639",
             "rank": "5-8",
             "player": "Moncana",
-            "winrate": 0.6,
             "commander": [
                 "Zurgo Bellstriker"
             ],
@@ -85,7 +84,6 @@
             "deck_id": "269640",
             "rank": "5-8",
             "player": "Mathan",
-            "winrate": 0.6,
             "commander": [
                 "Prossh, Skyraider of Kher"
             ],
@@ -186,7 +184,6 @@
             "deck_id": "269641",
             "rank": "5-8",
             "player": "Nicolas \"Ariesnomu\" Honnorat",
-            "winrate": 0.6,
             "commander": [
                 "Doran, the Siege Tower"
             ],
@@ -296,7 +293,6 @@
             "deck_id": "269642",
             "rank": "5-8",
             "player": "Alexandre Rebillout",
-            "winrate": 0.6,
             "commander": [
                 "Zurgo Bellstriker"
             ],
@@ -371,7 +367,6 @@
             "deck_id": "269643",
             "rank": "3-4",
             "player": "Hancock",
-            "winrate": 0.8,
             "commander": [
                 "Titania, Protector of Argoth"
             ],
@@ -461,7 +456,6 @@
             "deck_id": "269644",
             "rank": "3-4",
             "player": "Jeffrey, Remets-nous-des-Glaçons",
-            "winrate": 0.8,
             "commander": [
                 "Krenko, Mob Boss"
             ],
@@ -537,7 +531,6 @@
             "deck_id": "269645",
             "rank": "2",
             "player": "Alexander \"newtraderdu78\" Loskoutoff",
-            "winrate": 0.8,
             "commander": [
                 "Brago, King Eternal"
             ],
@@ -631,7 +624,6 @@
             "deck_id": "269646",
             "rank": "1",
             "player": "Kaourintin Le Guiban",
-            "winrate": 1.0,
             "commander": [
                 "Narset, Enlightened Master"
             ],

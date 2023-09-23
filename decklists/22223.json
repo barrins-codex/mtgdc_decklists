@@ -10,7 +10,6 @@
             "deck_id": "350523",
             "rank": "3-4",
             "player": "Lukas E",
-            "winrate": 0.8,
             "commander": [
                 "Ravos, Soultender",
                 "Tymna the Weaver"
@@ -112,7 +111,6 @@
             "deck_id": "350524",
             "rank": "2",
             "player": "The Nameless One",
-            "winrate": 0.8,
             "commander": [
                 "Silas Renn, Seeker Adept",
                 "Akiri, Line-Slinger"
@@ -222,7 +220,6 @@
             "deck_id": "350525",
             "rank": "3-4",
             "player": "David R",
-            "winrate": 0.8,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -307,7 +304,6 @@
             "deck_id": "350526",
             "rank": "1",
             "player": "Ben H",
-            "winrate": 1.0,
             "commander": [
                 "Tymna the Weaver",
                 "Thrasios, Triton Hero"

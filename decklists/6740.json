@@ -10,7 +10,6 @@
             "deck_id": "238712",
             "rank": "1",
             "player": "Pierre Almaraz",
-            "winrate": 0.8888888888888888,
             "commander": [
                 "Geist of Saint Traft"
             ],
@@ -108,7 +107,6 @@
             "deck_id": "238713",
             "rank": "2",
             "player": "Patrick Gamblin",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Maelstrom Wanderer"
             ],
@@ -216,7 +214,6 @@
             "deck_id": "238714",
             "rank": "3-4",
             "player": "Steve Bringtown",
-            "winrate": 0.75,
             "commander": [
                 "Vendilion Clique"
             ],
@@ -300,7 +297,6 @@
             "deck_id": "238715",
             "rank": "3-4",
             "player": "Yannick Gibert",
-            "winrate": 0.75,
             "commander": [
                 "Geist of Saint Traft"
             ],
@@ -395,7 +391,6 @@
             "deck_id": "238716",
             "rank": "5-8",
             "player": "Adrien \"ElFN0iR\" Rolandez",
-            "winrate": 0.75,
             "commander": [
                 "Grand Arbiter Augustin IV"
             ],
@@ -492,7 +487,6 @@
             "deck_id": "238717",
             "rank": "5-8",
             "player": "Thomas Bagdadlian",
-            "winrate": 0.75,
             "commander": [
                 "The Mimeoplasm"
             ],
@@ -602,7 +596,6 @@
             "deck_id": "238718",
             "rank": "5-8",
             "player": "Frank \"Padawan\" Sparta",
-            "winrate": 0.75,
             "commander": [
                 "Geist of Saint Traft"
             ],
@@ -700,7 +693,6 @@
             "deck_id": "238719",
             "rank": "5-8",
             "player": "Arnaud Faes",
-            "winrate": 0.75,
             "commander": [
                 "Wydwen, the Biting Gale"
             ],

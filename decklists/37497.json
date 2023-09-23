@@ -10,7 +10,6 @@
             "deck_id": "481017",
             "rank": "1",
             "player": "Pierre Almaraz",
-            "winrate": 1.0,
             "commander": [
                 "Dennick, Pious Apprentice"
             ],
@@ -111,7 +110,6 @@
             "deck_id": "481018",
             "rank": "2",
             "player": "Pierre-louis Biet",
-            "winrate": 0.8,
             "commander": [
                 "Adeliz, the Cinder Wind"
             ],
@@ -212,7 +210,6 @@
             "deck_id": "481019",
             "rank": "3-4",
             "player": "Loïc Baverel",
-            "winrate": 0.6,
             "commander": [
                 "Minsc &amp; Boo, Timeless Heroes"
             ],
@@ -313,7 +310,6 @@
             "deck_id": "481020",
             "rank": "3-4",
             "player": "Thomas Ricci",
-            "winrate": 0.6,
             "commander": [
                 "Sai, Master Thopterist"
             ],

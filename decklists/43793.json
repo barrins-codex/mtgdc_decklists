@@ -10,7 +10,6 @@
             "deck_id": "523302",
             "rank": "1",
             "player": "Hui Hehua",
-            "winrate": 1.0,
             "commander": [
                 "Elenda and Azor"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "523303",
             "rank": "2",
             "player": "Hu Minzhe",
-            "winrate": 0.8,
             "commander": [
                 "Golos, Tireless Pilgrim"
             ],

@@ -10,7 +10,6 @@
             "deck_id": "497312",
             "rank": "1",
             "player": "Nikola Ivanievič",
-            "winrate": 1.0,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "497313",
             "rank": "2",
             "player": "Martin Peter kraba",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Niv-Mizzet Reborn"
             ],

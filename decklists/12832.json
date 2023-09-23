@@ -10,7 +10,6 @@
             "deck_id": "274499",
             "rank": "3-4",
             "player": "Cody Hart",
-            "winrate": 0.8,
             "commander": [
                 "Nissa, Vastwood Seer"
             ],
@@ -96,7 +95,6 @@
             "deck_id": "274500",
             "rank": "3-4",
             "player": "Garret Grifka",
-            "winrate": 0.8,
             "commander": [
                 "Drana, Liberator of Malakir"
             ],
@@ -188,7 +186,6 @@
             "deck_id": "274501",
             "rank": "1",
             "player": "Chris Williams",
-            "winrate": 1.0,
             "commander": [
                 "Teferi, Temporal Archmage"
             ],
@@ -264,7 +261,6 @@
             "deck_id": "274502",
             "rank": "2",
             "player": "William Belloli",
-            "winrate": 0.8,
             "commander": [
                 "Maelstrom Wanderer"
             ],

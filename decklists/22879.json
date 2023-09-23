@@ -10,7 +10,6 @@
             "deck_id": "356456",
             "rank": "2",
             "player": "Duelcastermage",
-            "winrate": 0.8,
             "commander": [
                 "Sram, Senior Edificer"
             ],
@@ -101,7 +100,6 @@
             "deck_id": "356457",
             "rank": "1",
             "player": "Martin Vlnas",
-            "winrate": 1.0,
             "commander": [
                 "Isamaru, Hound of Konda"
             ],

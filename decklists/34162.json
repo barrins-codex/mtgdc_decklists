@@ -10,7 +10,6 @@
             "deck_id": "459712",
             "rank": "1",
             "player": "Nicolas Soulé",
-            "winrate": 1.0,
             "commander": [
                 "Livio, Oathsworn Sentinel",
                 "Malcolm, Keen-Eyed Navigator"
@@ -110,7 +109,6 @@
             "deck_id": "459713",
             "rank": "2",
             "player": "Kevin Saint-martin",
-            "winrate": 0.8,
             "commander": [
                 "Kroxa, Titan of Death's Hunger"
             ],

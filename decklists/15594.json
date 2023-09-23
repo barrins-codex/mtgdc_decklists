@@ -10,7 +10,6 @@
             "deck_id": "295241",
             "rank": "2",
             "player": "Patrick Munoz Lopez",
-            "winrate": 0.8,
             "commander": [
                 "Zurgo Bellstriker"
             ],
@@ -94,7 +93,6 @@
             "deck_id": "295242",
             "rank": "1",
             "player": "Sascha Wiesmann",
-            "winrate": 1.0,
             "commander": [
                 "Doran, the Siege Tower"
             ],

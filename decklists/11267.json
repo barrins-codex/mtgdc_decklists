@@ -10,7 +10,6 @@
             "deck_id": "264035",
             "rank": "2",
             "player": "Han Ziyu",
-            "winrate": 0.8,
             "commander": [
                 "Alesha, Who Smiles at Death"
             ],
@@ -116,7 +115,6 @@
             "deck_id": "264036",
             "rank": "1",
             "player": "Zhang Yucheng",
-            "winrate": 1.0,
             "commander": [
                 "Sidisi, Undead Vizier"
             ],

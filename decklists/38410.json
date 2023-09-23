@@ -10,7 +10,6 @@
             "deck_id": "487035",
             "rank": "1",
             "player": "Bizon\r\nJordan \"zack\"",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "487036",
             "rank": "2",
             "player": "Phelippeau\r\nDavid\r\n\r\nPhelippeau\r\nDavid",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Dennick, Pious Apprentice"
             ],
@@ -224,7 +222,6 @@
             "deck_id": "487037",
             "rank": "3",
             "player": "Bournizien\r\nAlexandre",
-            "winrate": 0.625,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -332,7 +329,6 @@
             "deck_id": "487038",
             "rank": "4",
             "player": "Pernes\r\nEnzo \"domino\"",
-            "winrate": 0.625,
             "commander": [
                 "Sword Coast Sailor",
                 "Wilson, Refined Grizzly"
@@ -431,7 +427,6 @@
             "deck_id": "487039",
             "rank": "5",
             "player": "Akbal\r\nLuc",
-            "winrate": 0.625,
             "commander": [
                 "Octavia, Living Thesis"
             ],
@@ -519,7 +514,6 @@
             "deck_id": "487040",
             "rank": "6",
             "player": "Bondon \r\nKristopher \"selesnya Forever\"",
-            "winrate": 0.625,
             "commander": [
                 "Noble Heritage",
                 "Wilson, Refined Grizzly"
@@ -621,7 +615,6 @@
             "deck_id": "487041",
             "rank": "7",
             "player": "Mocquet \r\nDamien \"damienade\"",
-            "winrate": 0.625,
             "commander": [
                 "Grist, the Hunger Tide"
             ],
@@ -723,7 +716,6 @@
             "deck_id": "487042",
             "rank": "8",
             "player": "Dupont\r\nCharles",
-            "winrate": 0.625,
             "commander": [
                 "Ulamog, the Ceaseless Hunger"
             ],

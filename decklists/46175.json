@@ -10,7 +10,6 @@
             "deck_id": "541115",
             "rank": "1",
             "player": "Ceyao Duan",
-            "winrate": 1.0,
             "commander": [
                 "Cormela, Glamour Thief"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "541116",
             "rank": "2",
             "player": "Yuchen Yang",
-            "winrate": 0.8,
             "commander": [
                 "Atraxa, Grand Unifier"
             ],
@@ -230,7 +228,6 @@
             "deck_id": "541117",
             "rank": "3",
             "player": "Yixuan Gao",
-            "winrate": 0.8,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -340,7 +337,6 @@
             "deck_id": "541118",
             "rank": "4",
             "player": "Guanglei Li",
-            "winrate": 0.8,
             "commander": [
                 "Feldon, Ronom Excavator"
             ],

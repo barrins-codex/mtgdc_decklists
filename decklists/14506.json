@@ -10,7 +10,6 @@
             "deck_id": "286958",
             "rank": "5-8",
             "player": "Christopher Reich",
-            "winrate": 0.4,
             "commander": [
                 "Jenara, Asura of War"
             ],
@@ -22,7 +21,6 @@
             "deck_id": "286959",
             "rank": "5-8",
             "player": "Erick",
-            "winrate": 0.4,
             "commander": [
                 "Zurgo Bellstriker"
             ],
@@ -34,7 +32,6 @@
             "deck_id": "286960",
             "rank": "5-8",
             "player": "Henrique",
-            "winrate": 0.4,
             "commander": [
                 "Azami, Lady of Scrolls"
             ],
@@ -46,7 +43,6 @@
             "deck_id": "286961",
             "rank": "5-8",
             "player": "Marcelo",
-            "winrate": 0.4,
             "commander": [
                 "Geist of Saint Traft"
             ],
@@ -145,7 +141,6 @@
             "deck_id": "286962",
             "rank": "3-4",
             "player": "Anderson Brito",
-            "winrate": 0.6,
             "commander": [
                 "Saskia the Unyielding"
             ],
@@ -255,7 +250,6 @@
             "deck_id": "286963",
             "rank": "3-4",
             "player": "Lucas Codato",
-            "winrate": 0.6,
             "commander": [
                 "Titania, Protector of Argoth"
             ],
@@ -347,7 +341,6 @@
             "deck_id": "286964",
             "rank": "2",
             "player": "Douglas Romani",
-            "winrate": 0.8,
             "commander": [
                 "Geist of Saint Traft"
             ],
@@ -359,7 +352,6 @@
             "deck_id": "286965",
             "rank": "1",
             "player": "Claudio Miranda",
-            "winrate": 1.0,
             "commander": [
                 "Breya, Etherium Shaper"
             ],

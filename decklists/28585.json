@@ -10,7 +10,6 @@
             "deck_id": "425842",
             "rank": "1",
             "player": "Chung Tang",
-            "winrate": 1.0,
             "commander": [
                 "Ardenn, Intrepid Archaeologist",
                 "Esior, Wardwing Familiar"
@@ -108,7 +107,6 @@
             "deck_id": "425843",
             "rank": "2",
             "player": "Kon Fai Wu",
-            "winrate": 0.8,
             "commander": [
                 "Kraum, Ludevic's Opus",
                 "Esior, Wardwing Familiar"

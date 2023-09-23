@@ -10,7 +10,6 @@
             "deck_id": "462406",
             "rank": "1",
             "player": "Vincent Banchieri",
-            "winrate": 1.0,
             "commander": [
                 "Isamaru, Hound of Konda"
             ],
@@ -98,7 +97,6 @@
             "deck_id": "462407",
             "rank": "2",
             "player": "Charlie Delabrousse",
-            "winrate": 0.8,
             "commander": [
                 "Grenzo, Dungeon Warden"
             ],
@@ -202,7 +200,6 @@
             "deck_id": "462408",
             "rank": "3-4",
             "player": "Mathieu Laurent",
-            "winrate": 0.8,
             "commander": [
                 "Kelsien, the Plague"
             ],
@@ -312,7 +309,6 @@
             "deck_id": "462409",
             "rank": "3-4",
             "player": "Aurèle Commeureuc",
-            "winrate": 0.8,
             "commander": [
                 "Yorion, Sky Nomad"
             ],

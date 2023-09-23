@@ -10,7 +10,6 @@
             "deck_id": "458409",
             "rank": "1",
             "player": "Kelvin To",
-            "winrate": 1.0,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "458410",
             "rank": "2",
             "player": "Sze Hang Chan",
-            "winrate": 0.8,
             "commander": [
                 "Niambi, Esteemed Speaker"
             ],
@@ -219,7 +217,6 @@
             "deck_id": "458411",
             "rank": "3-4",
             "player": "Chung Tang",
-            "winrate": 0.6,
             "commander": [
                 "Kraum, Ludevic's Opus",
                 "Malcolm, Keen-Eyed Navigator"
@@ -317,7 +314,6 @@
             "deck_id": "458412",
             "rank": "3-4",
             "player": "Jack Ho",
-            "winrate": 0.6,
             "commander": [
                 "Esika, God of the Tree"
             ],

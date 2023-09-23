@@ -10,7 +10,6 @@
             "deck_id": "319192",
             "rank": "1",
             "player": "Tomee Tomelden",
-            "winrate": 1.0,
             "commander": [
                 "Teferi, Temporal Archmage"
             ],
@@ -84,7 +83,6 @@
             "deck_id": "319193",
             "rank": "2",
             "player": "Miko Abrina",
-            "winrate": 0.8,
             "commander": [
                 "Silas Renn, Seeker Adept",
                 "Akiri, Line-Slinger"
@@ -194,7 +192,6 @@
             "deck_id": "319194",
             "rank": "3-4",
             "player": "Josh Fuentes",
-            "winrate": 0.8,
             "commander": [
                 "Thrasios, Triton Hero",
                 "Kraum, Ludevic's Opus"
@@ -295,7 +292,6 @@
             "deck_id": "319195",
             "rank": "3-4",
             "player": "Ben Co",
-            "winrate": 0.8,
             "commander": [
                 "Titania, Protector of Argoth"
             ],

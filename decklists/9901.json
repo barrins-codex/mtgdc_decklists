@@ -10,7 +10,6 @@
             "deck_id": "257115",
             "rank": "1",
             "player": "Gerry Ramos",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Dragonlord Ojutai"
             ],
@@ -109,7 +108,6 @@
             "deck_id": "257116",
             "rank": "2",
             "player": "Richmund Lim",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Maelstrom Wanderer"
             ],
@@ -213,7 +211,6 @@
             "deck_id": "257117",
             "rank": "3-4",
             "player": "Tomee Tomelden",
-            "winrate": 0.625,
             "commander": [
                 "Grand Arbiter Augustin IV"
             ],
@@ -308,7 +305,6 @@
             "deck_id": "257118",
             "rank": "3-4",
             "player": "Edwin Jocson",
-            "winrate": 0.625,
             "commander": [
                 "The Mimeoplasm"
             ],
@@ -418,7 +414,6 @@
             "deck_id": "257119",
             "rank": "5-8",
             "player": "Hernani Bautista",
-            "winrate": 0.625,
             "commander": [
                 "Titania, Protector of Argoth"
             ],
@@ -514,7 +509,6 @@
             "deck_id": "257120",
             "rank": "5-8",
             "player": "Gabe Enriquez",
-            "winrate": 0.625,
             "commander": [
                 "Radha, Heir to Keld"
             ],
@@ -616,7 +610,6 @@
             "deck_id": "257121",
             "rank": "5-8",
             "player": "Ninyo Ruiz",
-            "winrate": 0.625,
             "commander": [
                 "Ruhan of the Fomori"
             ],
@@ -725,7 +718,6 @@
             "deck_id": "257122",
             "rank": "5-8",
             "player": "Jun Era Cabecudo",
-            "winrate": 0.625,
             "commander": [
                 "Keranos, God of Storms"
             ],

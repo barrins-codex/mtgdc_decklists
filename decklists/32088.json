@@ -10,7 +10,6 @@
             "deck_id": "447425",
             "rank": "1",
             "player": "Ste Villaraza",
-            "winrate": 1.0,
             "commander": [
                 "Malcolm, Keen-Eyed Navigator",
                 "Tevesh Szat, Doom of Fools"
@@ -111,7 +110,6 @@
             "deck_id": "447426",
             "rank": "2",
             "player": "Don Angelo Moreno",
-            "winrate": 0.8,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],

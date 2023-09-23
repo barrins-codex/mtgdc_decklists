@@ -10,7 +10,6 @@
             "deck_id": "447773",
             "rank": "1",
             "player": "Carlos Pires",
-            "winrate": 1.0,
             "commander": [
                 "Golos, Tireless Pilgrim"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "447774",
             "rank": "2",
             "player": "Gustavo",
-            "winrate": 0.8,
             "commander": [
                 "Titania, Protector of Argoth"
             ],
@@ -209,7 +207,6 @@
             "deck_id": "447775",
             "rank": "3-4",
             "player": "Maciel Souza",
-            "winrate": 0.6,
             "commander": [
                 "Kroxa, Titan of Death's Hunger"
             ],
@@ -299,7 +296,6 @@
             "deck_id": "447776",
             "rank": "3-4",
             "player": "Orlando Bibiano",
-            "winrate": 0.6,
             "commander": [
                 "Livio, Oathsworn Sentinel",
                 "Kraum, Ludevic's Opus"

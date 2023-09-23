@@ -10,7 +10,6 @@
             "deck_id": "281169",
             "rank": "5-8",
             "player": "Yohan Blanchard",
-            "winrate": 0.6,
             "commander": [
                 "Nin, the Pain Artist"
             ],
@@ -94,7 +93,6 @@
             "deck_id": "281170",
             "rank": "5-8",
             "player": "Guillaume Morin",
-            "winrate": 0.6,
             "commander": [
                 "Olivia, Mobilized for War"
             ],
@@ -190,7 +188,6 @@
             "deck_id": "281171",
             "rank": "5-8",
             "player": "Johan Archinard",
-            "winrate": 0.6,
             "commander": [
                 "Thassa, God of the Sea"
             ],
@@ -272,7 +269,6 @@
             "deck_id": "281172",
             "rank": "5-8",
             "player": "Lucas \"Lanouille\" Torreani",
-            "winrate": 0.6,
             "commander": [
                 "Ruhan of the Fomori"
             ],
@@ -377,7 +373,6 @@
             "deck_id": "281173",
             "rank": "3-4",
             "player": "Alexander Louskotoff",
-            "winrate": 0.8,
             "commander": [
                 "Jenara, Asura of War"
             ],
@@ -485,7 +480,6 @@
             "deck_id": "281174",
             "rank": "1",
             "player": "Gaël \"Gaviro\" Maloumian",
-            "winrate": 1.0,
             "commander": [
                 "Geist of Saint Traft"
             ],
@@ -583,7 +577,6 @@
             "deck_id": "281175",
             "rank": "2",
             "player": "Nicolas Lenormand",
-            "winrate": 0.8,
             "commander": [
                 "Jori En, Ruin Diver"
             ],
@@ -671,7 +664,6 @@
             "deck_id": "281176",
             "rank": "3-4",
             "player": "Maxence Achoun",
-            "winrate": 0.8,
             "commander": [
                 "Jace, Vryn's Prodigy"
             ],

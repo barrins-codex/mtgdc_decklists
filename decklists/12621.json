@@ -10,7 +10,6 @@
             "deck_id": "272977",
             "rank": "1",
             "player": "Ronald Fong",
-            "winrate": 1.0,
             "commander": [
                 "Child of Alara"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "272978",
             "rank": "1",
             "player": "Louie Siongco",
-            "winrate": 1.0,
             "commander": [
                 "Sidisi, Undead Vizier"
             ],
@@ -203,7 +201,6 @@
             "deck_id": "272979",
             "rank": "3-4",
             "player": "Julio Espina",
-            "winrate": 0.8,
             "commander": [
                 "Jace, Vryn's Prodigy"
             ],
@@ -283,7 +280,6 @@
             "deck_id": "272980",
             "rank": "3-4",
             "player": "Simon Floreza",
-            "winrate": 0.8,
             "commander": [
                 "Narset, Enlightened Master"
             ],
@@ -389,7 +385,6 @@
             "deck_id": "272981",
             "rank": "5-8",
             "player": "Mark Diaz",
-            "winrate": 0.6,
             "commander": [
                 "Jenara, Asura of War"
             ],
@@ -498,7 +493,6 @@
             "deck_id": "272982",
             "rank": "5-8",
             "player": "Ian Calub",
-            "winrate": 0.6,
             "commander": [
                 "Maelstrom Wanderer"
             ],
@@ -605,7 +599,6 @@
             "deck_id": "272983",
             "rank": "5-8",
             "player": "Exequiel Lim",
-            "winrate": 0.6,
             "commander": [
                 "Vendilion Clique"
             ],
@@ -693,7 +686,6 @@
             "deck_id": "272984",
             "rank": "5-8",
             "player": "Tomee Tomelden",
-            "winrate": 0.6,
             "commander": [
                 "Child of Alara"
             ],

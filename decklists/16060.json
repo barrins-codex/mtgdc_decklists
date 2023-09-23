@@ -10,7 +10,6 @@
             "deck_id": "298888",
             "rank": "1",
             "player": "Pedro Pereira",
-            "winrate": 1.0,
             "commander": [
                 "Bruse Tarl, Boorish Herder"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "298889",
             "rank": "2",
             "player": "Fabio Costa",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Geist of Saint Traft"
             ],

@@ -10,7 +10,6 @@
             "deck_id": "528610",
             "rank": "1",
             "player": "Lui Fabia",
-            "winrate": 1.0,
             "commander": [
                 "Ghyrson Starn, Kelermorph"
             ],
@@ -114,7 +113,6 @@
             "deck_id": "528611",
             "rank": "2",
             "player": "Ste Villaraza",
-            "winrate": 0.8,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -224,7 +222,6 @@
             "deck_id": "528612",
             "rank": "3",
             "player": "Rexel Tenorio",
-            "winrate": 0.8,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -334,7 +331,6 @@
             "deck_id": "528613",
             "rank": "4",
             "player": "Philip Posadas",
-            "winrate": 0.6,
             "commander": [
                 "Yoshimaru, Ever Faithful",
                 "Tana, the Bloodsower"
@@ -444,7 +440,6 @@
             "deck_id": "528614",
             "rank": "5",
             "player": "Paul Relativo",
-            "winrate": 0.6,
             "commander": [
                 "Niv-Mizzet Reborn"
             ],
@@ -554,7 +549,6 @@
             "deck_id": "528615",
             "rank": "6",
             "player": "Earl Caymo",
-            "winrate": 0.6,
             "commander": [
                 "Dihada, Binder of Wills"
             ],
@@ -664,7 +658,6 @@
             "deck_id": "528616",
             "rank": "7",
             "player": "Chinky Ortiz",
-            "winrate": 0.6,
             "commander": [
                 "Ghyrson Starn, Kelermorph"
             ],
@@ -765,7 +758,6 @@
             "deck_id": "528617",
             "rank": "8",
             "player": "Mark Lasam",
-            "winrate": 0.6,
             "commander": [
                 "Raffine, Scheming Seer"
             ],

@@ -10,7 +10,6 @@
             "deck_id": "283942",
             "rank": "1",
             "player": "Tim Courant",
-            "winrate": 1.0,
             "commander": [
                 "Zurgo Bellstriker"
             ],
@@ -88,7 +87,6 @@
             "deck_id": "283943",
             "rank": "2",
             "player": "Ewen Raude",
-            "winrate": 0.8,
             "commander": [
                 "Jace, Vryn's Prodigy"
             ],

@@ -10,7 +10,6 @@
             "deck_id": "534501",
             "rank": "1",
             "player": "Laurent Reynet",
-            "winrate": 0.8888888888888888,
             "commander": [
                 "Dennick, Pious Apprentice"
             ],
@@ -111,7 +110,6 @@
             "deck_id": "534502",
             "rank": "2",
             "player": "Leo Carbonell",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Ertai Resurrected"
             ],
@@ -209,7 +207,6 @@
             "deck_id": "534503",
             "rank": "3-4",
             "player": "Enzo Russo",
-            "winrate": 0.75,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -319,7 +316,6 @@
             "deck_id": "534504",
             "rank": "3-4",
             "player": "Damien Jantzen",
-            "winrate": 0.75,
             "commander": [
                 "Aragorn, King of Gondor"
             ],
@@ -427,7 +423,6 @@
             "deck_id": "534505",
             "rank": "5-8",
             "player": "Thomas Vella",
-            "winrate": 0.75,
             "commander": [
                 "Atraxa, Grand Unifier"
             ],
@@ -537,7 +532,6 @@
             "deck_id": "534506",
             "rank": "5-8",
             "player": "Florian Trotte",
-            "winrate": 0.75,
             "commander": [
                 "Golos, Tireless Pilgrim"
             ],
@@ -647,7 +641,6 @@
             "deck_id": "534507",
             "rank": "5-8",
             "player": "Alexandre Martial",
-            "winrate": 0.75,
             "commander": [
                 "Old Rutstein"
             ],

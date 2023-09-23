@@ -10,7 +10,6 @@
             "deck_id": "473430",
             "rank": "1",
             "player": "Martin Ogayon",
-            "winrate": 1.0,
             "commander": [
                 "Queen Marchesa"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "473431",
             "rank": "2",
             "player": "Roy Rivero",
-            "winrate": 0.8,
             "commander": [
                 "Shorikai, Genesis Engine"
             ],
@@ -218,7 +216,6 @@
             "deck_id": "473432",
             "rank": "3-4",
             "player": "Richmond Ortiz",
-            "winrate": 0.6,
             "commander": [
                 "Kroxa, Titan of Death's Hunger"
             ],
@@ -326,7 +323,6 @@
             "deck_id": "473433",
             "rank": "3-4",
             "player": "Miguel Aquino",
-            "winrate": 0.6,
             "commander": [
                 "Shorikai, Genesis Engine"
             ],

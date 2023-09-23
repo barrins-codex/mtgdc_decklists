@@ -10,7 +10,6 @@
             "deck_id": "309976",
             "rank": "2",
             "player": "Jakub Sykora",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Kess, Dissident Mage"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "309977",
             "rank": "2",
             "player": "Viktor Jasansky",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Silas Renn, Seeker Adept",
                 "Akiri, Line-Slinger"
@@ -230,7 +228,6 @@
             "deck_id": "309978",
             "rank": "3-4",
             "player": "David Mazan",
-            "winrate": 0.75,
             "commander": [
                 "Arahbo, Roar of the World"
             ],
@@ -326,7 +323,6 @@
             "deck_id": "309979",
             "rank": "3-4",
             "player": "Jan Kousal",
-            "winrate": 0.75,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -411,7 +407,6 @@
             "deck_id": "309980",
             "rank": "5-8",
             "player": "Adam Lebeda",
-            "winrate": 0.75,
             "commander": [
                 "Zurgo Bellstriker"
             ],
@@ -493,7 +488,6 @@
             "deck_id": "309981",
             "rank": "5-8",
             "player": "Jan Stefan",
-            "winrate": 0.75,
             "commander": [
                 "Saskia the Unyielding"
             ],
@@ -603,7 +597,6 @@
             "deck_id": "309982",
             "rank": "5-8",
             "player": "Ondrej Mojzis",
-            "winrate": 0.75,
             "commander": [
                 "Sidar Kondo of Jamuraa",
                 "Tymna the Weaver"
@@ -713,7 +706,6 @@
             "deck_id": "309983",
             "rank": "5-8",
             "player": "Petr Stefan",
-            "winrate": 0.75,
             "commander": [
                 "Samut, Voice of Dissent"
             ],

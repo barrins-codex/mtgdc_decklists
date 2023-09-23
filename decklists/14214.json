@@ -10,7 +10,6 @@
             "deck_id": "284748",
             "rank": "5-8",
             "player": "Leonardo Akio",
-            "winrate": 0.6,
             "commander": [
                 "Geist of Saint Traft"
             ],
@@ -108,7 +107,6 @@
             "deck_id": "284749",
             "rank": "3-4",
             "player": "Fábio Gavazzi",
-            "winrate": 0.8,
             "commander": [
                 "Saskia the Unyielding"
             ],
@@ -218,7 +216,6 @@
             "deck_id": "284750",
             "rank": "3-4",
             "player": "Artur de Oliveira Silva",
-            "winrate": 0.8,
             "commander": [
                 "Selvala, Explorer Returned"
             ],
@@ -315,7 +312,6 @@
             "deck_id": "284751",
             "rank": "2",
             "player": "Fábio Fernandes Vieira",
-            "winrate": 0.8,
             "commander": [
                 "Vial Smasher the Fierce"
             ],
@@ -412,7 +408,6 @@
             "deck_id": "284752",
             "rank": "1",
             "player": "Danilo \"Milani\" Meguro",
-            "winrate": 1.0,
             "commander": [
                 "Vial Smasher the Fierce"
             ],
@@ -518,7 +513,6 @@
             "deck_id": "284753",
             "rank": "5-8",
             "player": "Leonardo Guastapaglia",
-            "winrate": 0.6,
             "commander": [
                 "Zurgo Bellstriker"
             ],
@@ -597,7 +591,6 @@
             "deck_id": "284754",
             "rank": "5-8",
             "player": "Victor Auilo Haikal",
-            "winrate": 0.6,
             "commander": [
                 "Leovold, Emissary of Trest"
             ],
@@ -704,7 +697,6 @@
             "deck_id": "284755",
             "rank": "5-8",
             "player": "Lucas Betarello",
-            "winrate": 0.6,
             "commander": [
                 "Ob Nixilis, the Fallen"
             ],

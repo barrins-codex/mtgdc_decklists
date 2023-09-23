@@ -10,7 +10,6 @@
             "deck_id": "358665",
             "rank": "3-4",
             "player": "Karim Ablahi",
-            "winrate": 0.8,
             "commander": [
                 "Rasputin Dreamweaver"
             ],
@@ -108,7 +107,6 @@
             "deck_id": "358666",
             "rank": "3-4",
             "player": "J.f. Pillon",
-            "winrate": 0.8,
             "commander": [
                 "Sai, Master Thopterist"
             ],
@@ -198,7 +196,6 @@
             "deck_id": "358667",
             "rank": "2",
             "player": "Franck D.",
-            "winrate": 0.8,
             "commander": [
                 "Zur the Enchanter"
             ],
@@ -305,7 +302,6 @@
             "deck_id": "358668",
             "rank": "1",
             "player": "Damien Hautieux",
-            "winrate": 1.0,
             "commander": [
                 "Edric, Spymaster of Trest"
             ],

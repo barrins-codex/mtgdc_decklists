@@ -10,7 +10,6 @@
             "deck_id": "442754",
             "rank": "1",
             "player": "Askeladden",
-            "winrate": 0.8888888888888888,
             "commander": [
                 "Inalla, Archmage Ritualist"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "442755",
             "rank": "2",
             "player": "Som40",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Karlov of the Ghost Council"
             ],
@@ -226,7 +224,6 @@
             "deck_id": "442756",
             "rank": "3-4",
             "player": "Pepelepew",
-            "winrate": 0.75,
             "commander": [
                 "Tevesh Szat, Doom of Fools",
                 "Miara, Thorn of the Glade"
@@ -312,7 +309,6 @@
             "deck_id": "442757",
             "rank": "3-4",
             "player": "Temaal",
-            "winrate": 0.75,
             "commander": [
                 "Dargo, the Shipwrecker",
                 "Ikra Shidiqi, the Usurper"
@@ -422,7 +418,6 @@
             "deck_id": "442758",
             "rank": "5-8",
             "player": "Progenitus2001",
-            "winrate": 0.75,
             "commander": [
                 "Venser, Shaper Savant"
             ],
@@ -504,7 +499,6 @@
             "deck_id": "442759",
             "rank": "5-8",
             "player": "Thetiranide",
-            "winrate": 0.75,
             "commander": [
                 "Hogaak, Arisen Necropolis"
             ],
@@ -614,7 +608,6 @@
             "deck_id": "442760",
             "rank": "5-8",
             "player": "Yalo",
-            "winrate": 0.75,
             "commander": [
                 "Esika, God of the Tree"
             ],
@@ -724,7 +717,6 @@
             "deck_id": "442761",
             "rank": "5-8",
             "player": "Sablandriel",
-            "winrate": 0.75,
             "commander": [
                 "Ragavan, Nimble Pilferer"
             ],

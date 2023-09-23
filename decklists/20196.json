@@ -10,7 +10,6 @@
             "deck_id": "331640",
             "rank": "2",
             "player": "Pan Liangchen",
-            "winrate": 0.8,
             "commander": [
                 "Jenara, Asura of War"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "331641",
             "rank": "1",
             "player": "Jiang Ling",
-            "winrate": 1.0,
             "commander": [
                 "Saskia the Unyielding"
             ],

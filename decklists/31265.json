@@ -10,7 +10,6 @@
             "deck_id": "442697",
             "rank": "1",
             "player": "Rexel Tenorio",
-            "winrate": 1.0,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "442698",
             "rank": "2",
             "player": "Ryan Payabyab",
-            "winrate": 0.8,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -230,7 +228,6 @@
             "deck_id": "442699",
             "rank": "3-4",
             "player": "Josh Fuentes",
-            "winrate": 0.6,
             "commander": [
                 "Ikra Shidiqi, the Usurper",
                 "Tevesh Szat, Doom of Fools"
@@ -328,7 +325,6 @@
             "deck_id": "442700",
             "rank": "3-4",
             "player": "Paul Relativo",
-            "winrate": 0.6,
             "commander": [
                 "Niv-Mizzet Reborn"
             ],

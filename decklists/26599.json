@@ -10,7 +10,6 @@
             "deck_id": "405361",
             "rank": "2",
             "player": "Carpenters",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Akiri, Line-Slinger",
                 "Silas Renn, Seeker Adept"
@@ -120,7 +119,6 @@
             "deck_id": "405362",
             "rank": "1",
             "player": "M.das",
-            "winrate": 1.0,
             "commander": [
                 "Akiri, Line-Slinger",
                 "Silas Renn, Seeker Adept"

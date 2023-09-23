@@ -10,7 +10,6 @@
             "deck_id": "476699",
             "rank": "1",
             "player": "Flavio Guio",
-            "winrate": 1.0,
             "commander": [
                 "Tergrid, God of Fright"
             ],
@@ -85,7 +84,6 @@
             "deck_id": "476700",
             "rank": "2",
             "player": "Yago Leal",
-            "winrate": 0.8,
             "commander": [
                 "Athreos, God of Passage"
             ],
@@ -177,7 +175,6 @@
             "deck_id": "476701",
             "rank": "3-4",
             "player": "Jairo Marc",
-            "winrate": 0.6,
             "commander": [
                 "Trelasarra, Moon Dancer"
             ],
@@ -265,7 +262,6 @@
             "deck_id": "476702",
             "rank": "3-4",
             "player": "Fernando Bonandi",
-            "winrate": 0.6,
             "commander": [
                 "Ezuri, Renegade Leader"
             ],

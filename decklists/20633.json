@@ -10,7 +10,6 @@
             "deck_id": "335854",
             "rank": "5-8",
             "player": "Jakub Sykora",
-            "winrate": 0.75,
             "commander": [
                 "Kess, Dissident Mage"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "335855",
             "rank": "5-8",
             "player": "Martin Holek",
-            "winrate": 0.75,
             "commander": [
                 "Kess, Dissident Mage"
             ],
@@ -230,7 +228,6 @@
             "deck_id": "335856",
             "rank": "5-8",
             "player": "Daniel Ditrych",
-            "winrate": 0.75,
             "commander": [
                 "Yisan, the Wanderer Bard"
             ],
@@ -321,7 +318,6 @@
             "deck_id": "335857",
             "rank": "5-8",
             "player": "Michal Zdansky",
-            "winrate": 0.75,
             "commander": [
                 "Saskia the Unyielding"
             ],
@@ -431,7 +427,6 @@
             "deck_id": "335858",
             "rank": "3-4",
             "player": "Viktor Jasansky",
-            "winrate": 0.75,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -541,7 +536,6 @@
             "deck_id": "335859",
             "rank": "3-4",
             "player": "Jiri Pokorny",
-            "winrate": 0.75,
             "commander": [
                 "Kytheon, Hero of Akros"
             ],
@@ -625,7 +619,6 @@
             "deck_id": "335860",
             "rank": "2",
             "player": "David Cihak",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Akiri, Line-Slinger",
                 "Reyhan, Last of the Abzan"
@@ -735,7 +728,6 @@
             "deck_id": "335861",
             "rank": "1",
             "player": "Jakub Lerl",
-            "winrate": 0.8888888888888888,
             "commander": [
                 "Tymna the Weaver",
                 "Thrasios, Triton Hero"

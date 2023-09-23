@@ -10,7 +10,6 @@
             "deck_id": "461077",
             "rank": "1",
             "player": "William \"buisson\" Benaut",
-            "winrate": 1.0,
             "commander": [
                 "Niv-Mizzet Reborn"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "461078",
             "rank": "2",
             "player": "Paul Juyaux",
-            "winrate": 0.8,
             "commander": [
                 "Saskia the Unyielding"
             ],
@@ -230,7 +228,6 @@
             "deck_id": "461079",
             "rank": "3-4",
             "player": "Dumont Quentin",
-            "winrate": 0.8,
             "commander": [
                 "Jadar, Ghoulcaller of Nephalia"
             ],
@@ -313,7 +310,6 @@
             "deck_id": "461080",
             "rank": "3-4",
             "player": "Huun",
-            "winrate": 0.8,
             "commander": [
                 "Kraum, Ludevic's Opus",
                 "Armix, Filigree Thrasher"
@@ -423,7 +419,6 @@
             "deck_id": "461081",
             "rank": "5-8",
             "player": "Pommepelope",
-            "winrate": 0.6,
             "commander": [
                 "Kinnan, Bonder Prodigy"
             ],
@@ -521,7 +516,6 @@
             "deck_id": "461082",
             "rank": "5-8",
             "player": "Averoë",
-            "winrate": 0.6,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -631,7 +625,6 @@
             "deck_id": "461083",
             "rank": "5-8",
             "player": "Yacine \"yaeloco\" Labidi",
-            "winrate": 0.6,
             "commander": [
                 "Sythis, Harvest's Hand"
             ],
@@ -736,7 +729,6 @@
             "deck_id": "461084",
             "rank": "5-8",
             "player": "Hervé Brocker",
-            "winrate": 0.6,
             "commander": [
                 "Kroxa, Titan of Death's Hunger"
             ],

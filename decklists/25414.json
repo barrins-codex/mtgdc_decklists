@@ -10,7 +10,6 @@
             "deck_id": "382703",
             "rank": "1",
             "player": "Sauk",
-            "winrate": 1.0,
             "commander": [
                 "Gallia of the Endless Dance"
             ],
@@ -106,7 +105,6 @@
             "deck_id": "382704",
             "rank": "2",
             "player": "Adrien \"soulless Oni\" Demoget",
-            "winrate": 0.8,
             "commander": [
                 "Kenrith, the Returned King"
             ],

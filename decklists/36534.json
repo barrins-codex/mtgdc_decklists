@@ -10,7 +10,6 @@
             "deck_id": "474990",
             "rank": "1",
             "player": "Lucas Santos",
-            "winrate": 1.0,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -90,7 +89,6 @@
             "deck_id": "474991",
             "rank": "2",
             "player": "Fred Macedo",
-            "winrate": 0.8,
             "commander": [
                 "Klothys, God of Destiny"
             ],
@@ -176,7 +174,6 @@
             "deck_id": "474992",
             "rank": "3-4",
             "player": "Renan Figueiras",
-            "winrate": 0.6,
             "commander": [
                 "Sythis, Harvest's Hand"
             ],
@@ -267,7 +264,6 @@
             "deck_id": "474993",
             "rank": "3-4",
             "player": "Alexandre Santos",
-            "winrate": 0.6,
             "commander": [
                 "Dennick, Pious Apprentice"
             ],

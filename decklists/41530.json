@@ -10,7 +10,6 @@
             "deck_id": "508600",
             "rank": "1",
             "player": "Deej \"el Cholo\" Miranda",
-            "winrate": 1.0,
             "commander": [
                 "Faceless One",
                 "Gut, True Soul Zealot"
@@ -116,7 +115,6 @@
             "deck_id": "508601",
             "rank": "2",
             "player": "Regie \"the Pugeeh\" Sarmiento",
-            "winrate": 0.8,
             "commander": [
                 "The Ur-Dragon"
             ],
@@ -219,7 +217,6 @@
             "deck_id": "508602",
             "rank": "3",
             "player": "Jomar Co",
-            "winrate": 0.8,
             "commander": [
                 "Ardoz, Cobbler of War"
             ],

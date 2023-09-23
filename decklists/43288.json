@@ -10,7 +10,6 @@
             "deck_id": "519793",
             "rank": "1",
             "player": "Stephen Jan Gumabao",
-            "winrate": 0.8888888888888888,
             "commander": [
                 "Feldon, Ronom Excavator"
             ],
@@ -99,7 +98,6 @@
             "deck_id": "519794",
             "rank": "2",
             "player": "Martin Marcelo",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Ghyrson Starn, Kelermorph"
             ],
@@ -203,7 +201,6 @@
             "deck_id": "519795",
             "rank": "3-4",
             "player": "Anthony Tiong",
-            "winrate": 0.75,
             "commander": [
                 "Yoshimaru, Ever Faithful",
                 "Bruse Tarl, Boorish Herder"
@@ -307,7 +304,6 @@
             "deck_id": "519796",
             "rank": "3-4",
             "player": "Reuben Ferrer",
-            "winrate": 0.75,
             "commander": [
                 "The Beamtown Bullies"
             ],
@@ -417,7 +413,6 @@
             "deck_id": "519797",
             "rank": "5-8",
             "player": "Renz Banez",
-            "winrate": 0.75,
             "commander": [
                 "Hogaak, Arisen Necropolis"
             ],
@@ -527,7 +522,6 @@
             "deck_id": "519798",
             "rank": "5-8",
             "player": "Jonathan Dolor",
-            "winrate": 0.75,
             "commander": [
                 "Feldon, Ronom Excavator"
             ],
@@ -615,7 +609,6 @@
             "deck_id": "519799",
             "rank": "5-8",
             "player": "Jun Cabezudo",
-            "winrate": 0.75,
             "commander": [
                 "Tivit, Seller of Secrets"
             ],
@@ -725,7 +718,6 @@
             "deck_id": "519800",
             "rank": "5-8",
             "player": "Louie Pastrana",
-            "winrate": 0.75,
             "commander": [
                 "Elminster"
             ],

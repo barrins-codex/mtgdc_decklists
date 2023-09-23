@@ -10,7 +10,6 @@
             "deck_id": "536421",
             "rank": "1",
             "player": "Van Acordon",
-            "winrate": 1.0,
             "commander": [
                 "Aragorn, King of Gondor"
             ],
@@ -118,7 +117,6 @@
             "deck_id": "536422",
             "rank": "2",
             "player": "Nhald Adia",
-            "winrate": 0.8,
             "commander": [
                 "Samut, Vizier of Naktamun"
             ],
@@ -223,7 +221,6 @@
             "deck_id": "536423",
             "rank": "3-4",
             "player": "Ian Roa",
-            "winrate": 0.6,
             "commander": [
                 "The Balrog, Durin's Bane"
             ],
@@ -315,7 +312,6 @@
             "deck_id": "536424",
             "rank": "3-4",
             "player": "Rai Reyes",
-            "winrate": 0.6,
             "commander": [
                 "Ghyrson Starn, Kelermorph"
             ],

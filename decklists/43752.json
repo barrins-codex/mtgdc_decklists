@@ -10,7 +10,6 @@
             "deck_id": "523013",
             "rank": "1",
             "player": "Julien Castéla",
-            "winrate": 0.875,
             "commander": [
                 "Wernog, Rider's Chaplain",
                 "Cecily, Haunted Mage"
@@ -120,7 +119,6 @@
             "deck_id": "523014",
             "rank": "2",
             "player": "Pierre Clavieras",
-            "winrate": 0.75,
             "commander": [
                 "Ghyrson Starn, Kelermorph"
             ],
@@ -218,7 +216,6 @@
             "deck_id": "523015",
             "rank": "3-4",
             "player": "Léon Lmfao Mouries Martin",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Ghyrson Starn, Kelermorph"
             ],
@@ -316,7 +313,6 @@
             "deck_id": "523016",
             "rank": "3-4",
             "player": "Kelig Maze",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Feldon, Ronom Excavator"
             ],
@@ -401,7 +397,6 @@
             "deck_id": "523017",
             "rank": "5-8",
             "player": "Audren Boulic",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Dihada, Binder of Wills"
             ],
@@ -511,7 +506,6 @@
             "deck_id": "523018",
             "rank": "5-8",
             "player": "Jonathan Serra",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -621,7 +615,6 @@
             "deck_id": "523019",
             "rank": "5-8",
             "player": "Cedric Froger",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Yoshimaru, Ever Faithful",
                 "Tana, the Bloodsower"
@@ -731,7 +724,6 @@
             "deck_id": "523285",
             "rank": "5-8",
             "player": "Axel Vaugelade",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Jadar, Ghoulcaller of Nephalia",
                 "Balloon Stand",

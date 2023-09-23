@@ -10,7 +10,6 @@
             "deck_id": "282514",
             "rank": "5-8",
             "player": "Guilherme Tavares",
-            "winrate": 0.6,
             "commander": [
                 "Zurgo Bellstriker"
             ],
@@ -85,7 +84,6 @@
             "deck_id": "282515",
             "rank": "5-8",
             "player": "João Tavares",
-            "winrate": 0.6,
             "commander": [
                 "Jenara, Asura of War"
             ],
@@ -192,7 +190,6 @@
             "deck_id": "282516",
             "rank": "5-8",
             "player": "Bruno \"NN\" Portella",
-            "winrate": 0.6,
             "commander": [
                 "Narset, Enlightened Master"
             ],
@@ -299,7 +296,6 @@
             "deck_id": "282517",
             "rank": "3-4",
             "player": "Caio \"Birl\" Henrique Lucio",
-            "winrate": 0.8,
             "commander": [
                 "Doran, the Siege Tower"
             ],
@@ -409,7 +405,6 @@
             "deck_id": "282518",
             "rank": "3-4",
             "player": "Renan Facchini",
-            "winrate": 0.8,
             "commander": [
                 "Titania, Protector of Argoth"
             ],
@@ -502,7 +497,6 @@
             "deck_id": "282519",
             "rank": "2",
             "player": "Guilherme \"Demonic Tutor\" Machado",
-            "winrate": 0.8,
             "commander": [
                 "Wydwen, the Biting Gale"
             ],
@@ -595,7 +589,6 @@
             "deck_id": "282520",
             "rank": "1",
             "player": "Lucas Betarello",
-            "winrate": 1.0,
             "commander": [
                 "Ob Nixilis, the Fallen"
             ],

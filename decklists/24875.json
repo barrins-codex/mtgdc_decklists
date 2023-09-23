@@ -10,7 +10,6 @@
             "deck_id": "374091",
             "rank": "5-8",
             "player": "Simon Carrié",
-            "winrate": 0.75,
             "commander": [
                 "Uro, Titan of Nature's Wrath"
             ],
@@ -112,7 +111,6 @@
             "deck_id": "374092",
             "rank": "5-8",
             "player": "Julien Castela",
-            "winrate": 0.75,
             "commander": [
                 "Will Kenrith",
                 "Rowan Kenrith"
@@ -190,7 +188,6 @@
             "deck_id": "374093",
             "rank": "5-8",
             "player": "Dorian Matichard",
-            "winrate": 0.75,
             "commander": [
                 "Karlov of the Ghost Council"
             ],
@@ -290,7 +287,6 @@
             "deck_id": "374094",
             "rank": "1",
             "player": "Pierre Mengin",
-            "winrate": 0.8888888888888888,
             "commander": [
                 "Tymna the Weaver",
                 "Thrasios, Triton Hero"
@@ -400,7 +396,6 @@
             "deck_id": "374095",
             "rank": "2",
             "player": "Damien Garcia",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Gadwick, the Wizened"
             ],
@@ -473,7 +468,6 @@
             "deck_id": "374096",
             "rank": "3-4",
             "player": "Antoine Vieilledent",
-            "winrate": 0.75,
             "commander": [
                 "The Gitrog Monster"
             ],
@@ -571,7 +565,6 @@
             "deck_id": "374097",
             "rank": "3-4",
             "player": "Andy Sieurac",
-            "winrate": 0.75,
             "commander": [
                 "Uro, Titan of Nature's Wrath"
             ],
@@ -671,7 +664,6 @@
             "deck_id": "374098",
             "rank": "5-8",
             "player": "Pierre-Jean Eychenne",
-            "winrate": 0.75,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],

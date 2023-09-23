@@ -10,7 +10,6 @@
             "deck_id": "236228",
             "rank": "1",
             "player": "Sébastien Candeliez",
-            "winrate": 0.8888888888888888,
             "commander": [
                 "Maelstrom Wanderer"
             ],
@@ -118,7 +117,6 @@
             "deck_id": "236229",
             "rank": "2",
             "player": "Guillaume Franek",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Zur the Enchanter"
             ],
@@ -217,7 +215,6 @@
             "deck_id": "236230",
             "rank": "3-4",
             "player": "Michaël Hubert",
-            "winrate": 0.75,
             "commander": [
                 "Derevi, Empyrial Tactician"
             ],
@@ -327,7 +324,6 @@
             "deck_id": "236231",
             "rank": "3-4",
             "player": "Benoît Lebacq",
-            "winrate": 0.75,
             "commander": [
                 "Zur the Enchanter"
             ],
@@ -436,7 +432,6 @@
             "deck_id": "236232",
             "rank": "5-8",
             "player": "Anthony Fichel",
-            "winrate": 0.75,
             "commander": [
                 "Derevi, Empyrial Tactician"
             ],
@@ -542,7 +537,6 @@
             "deck_id": "236233",
             "rank": "5-8",
             "player": "Simon Lhotte",
-            "winrate": 0.75,
             "commander": [
                 "Prossh, Skyraider of Kher"
             ],
@@ -651,7 +645,6 @@
             "deck_id": "236234",
             "rank": "5-8",
             "player": "Nicolas \"Hokija\" Liger",
-            "winrate": 0.75,
             "commander": [
                 "Nin, the Pain Artist"
             ],
@@ -736,7 +729,6 @@
             "deck_id": "236235",
             "rank": "5-8",
             "player": "Guillaume Barbry",
-            "winrate": 0.75,
             "commander": [
                 "Zur the Enchanter"
             ],

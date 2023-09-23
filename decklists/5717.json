@@ -10,7 +10,6 @@
             "deck_id": "233159",
             "rank": "1",
             "player": "Kevin Gonzales  Team Ruthless/ 3/3",
-            "winrate": 0.8888888888888888,
             "commander": [
                 "Zur the Enchanter"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "233160",
             "rank": "1",
             "player": "Louie Siongco  Team Oh No!",
-            "winrate": 0.8888888888888888,
             "commander": [
                 "Grand Arbiter Augustin IV"
             ],
@@ -220,7 +218,6 @@
             "deck_id": "233161",
             "rank": "1",
             "player": "Jose Roman Arguilles  Team 3/3",
-            "winrate": 0.8888888888888888,
             "commander": [
                 "Grand Arbiter Augustin IV"
             ],
@@ -321,7 +318,6 @@
             "deck_id": "233162",
             "rank": "1",
             "player": "Gerry Ramos",
-            "winrate": 0.8888888888888888,
             "commander": [
                 "Geist of Saint Traft"
             ],
@@ -422,7 +418,6 @@
             "deck_id": "233163",
             "rank": "5-8",
             "player": "Mike Rabanal  Team Derp",
-            "winrate": 0.75,
             "commander": [
                 "Ezuri, Renegade Leader"
             ],
@@ -509,7 +504,6 @@
             "deck_id": "233164",
             "rank": "5-8",
             "player": "Janji Naling",
-            "winrate": 0.75,
             "commander": [
                 "Zur the Enchanter"
             ],
@@ -614,7 +608,6 @@
             "deck_id": "233165",
             "rank": "5-8",
             "player": "Juan Carlos Gutierrez  Team Oh No!",
-            "winrate": 0.75,
             "commander": [
                 "Scion of the Ur-Dragon"
             ],
@@ -724,7 +717,6 @@
             "deck_id": "233166",
             "rank": "5-8",
             "player": "Lawrence Follero",
-            "winrate": 0.75,
             "commander": [
                 "Geist of Saint Traft"
             ],

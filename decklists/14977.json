@@ -10,7 +10,6 @@
             "deck_id": "290581",
             "rank": "3-4",
             "player": "Pedro Andrade",
-            "winrate": 0.6,
             "commander": [
                 "Radha, Heir to Keld"
             ],
@@ -108,7 +107,6 @@
             "deck_id": "290582",
             "rank": "2",
             "player": "Brunno Portella",
-            "winrate": 0.8,
             "commander": [
                 "Narset, Enlightened Master"
             ],
@@ -215,7 +213,6 @@
             "deck_id": "290583",
             "rank": "3-4",
             "player": "Gui Tavares",
-            "winrate": 0.6,
             "commander": [
                 "Baral, Chief of Compliance"
             ],
@@ -301,7 +298,6 @@
             "deck_id": "290584",
             "rank": "1",
             "player": "Rodrigo Grotti",
-            "winrate": 1.0,
             "commander": [
                 "Geist of Saint Traft"
             ],

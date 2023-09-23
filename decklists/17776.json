@@ -10,7 +10,6 @@
             "deck_id": "310213",
             "rank": "5-8",
             "player": "Boris Wisnicki",
-            "winrate": 0.75,
             "commander": [
                 "Silas Renn, Seeker Adept",
                 "Tymna the Weaver"
@@ -117,7 +116,6 @@
             "deck_id": "310214",
             "rank": "5-8",
             "player": "Moncana",
-            "winrate": 0.75,
             "commander": [
                 "Karlov of the Ghost Council"
             ],
@@ -227,7 +225,6 @@
             "deck_id": "310215",
             "rank": "5-8",
             "player": "Flavien \"crimelune\" Paillet",
-            "winrate": 0.75,
             "commander": [
                 "Akiri, Line-Slinger",
                 "Silas Renn, Seeker Adept"
@@ -337,7 +334,6 @@
             "deck_id": "310216",
             "rank": "5-8",
             "player": "Guillaume \"eliwed\" Morin",
-            "winrate": 0.75,
             "commander": [
                 "Thalia, Guardian of Thraben"
             ],
@@ -426,7 +422,6 @@
             "deck_id": "310217",
             "rank": "3-4",
             "player": "Victor-manuel \"vicman\"ribeiro",
-            "winrate": 0.75,
             "commander": [
                 "Chandra, Fire of Kaladesh"
             ],
@@ -505,7 +500,6 @@
             "deck_id": "310218",
             "rank": "3-4",
             "player": "Maximilien Kalil",
-            "winrate": 0.75,
             "commander": [
                 "Dragonlord Ojutai"
             ],
@@ -602,7 +596,6 @@
             "deck_id": "310219",
             "rank": "2",
             "player": "Maxence Achoun",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Baral, Chief of Compliance"
             ],
@@ -676,7 +669,6 @@
             "deck_id": "310220",
             "rank": "1",
             "player": "Soratami",
-            "winrate": 0.8888888888888888,
             "commander": [
                 "Zurgo Bellstriker"
             ],

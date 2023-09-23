@@ -10,7 +10,6 @@
             "deck_id": "327615",
             "rank": "1",
             "player": "Nikko Letteri",
-            "winrate": 1.0,
             "commander": [
                 "Kess, Dissident Mage"
             ],
@@ -116,7 +115,6 @@
             "deck_id": "327616",
             "rank": "2",
             "player": "Matthew Broviak",
-            "winrate": 0.8,
             "commander": [
                 "Ruhan of the Fomori"
             ],

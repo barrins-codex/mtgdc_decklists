@@ -10,7 +10,6 @@
             "deck_id": "276188",
             "rank": "1",
             "player": "João Eduardo Santos",
-            "winrate": 1.0,
             "commander": [
                 "Jenara, Asura of War"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "276189",
             "rank": "2",
             "player": "Bruno Karam",
-            "winrate": 0.8,
             "commander": [
                 "Titania, Protector of Argoth"
             ],
@@ -211,7 +209,6 @@
             "deck_id": "276190",
             "rank": "3-4",
             "player": "Fábio Kaneto",
-            "winrate": 0.8,
             "commander": [
                 "Nissa, Vastwood Seer"
             ],
@@ -305,7 +302,6 @@
             "deck_id": "276191",
             "rank": "3-4",
             "player": "Paulo Bezzegh",
-            "winrate": 0.8,
             "commander": [
                 "Animar, Soul of Elements"
             ],
@@ -411,7 +407,6 @@
             "deck_id": "276192",
             "rank": "5-8",
             "player": "Eduardo Shimizu",
-            "winrate": 0.6,
             "commander": [
                 "Jace, Vryn's Prodigy"
             ],
@@ -492,7 +487,6 @@
             "deck_id": "276193",
             "rank": "5-8",
             "player": "Renan Facchini",
-            "winrate": 0.6,
             "commander": [
                 "Titania, Protector of Argoth"
             ],
@@ -584,7 +578,6 @@
             "deck_id": "276194",
             "rank": "5-8",
             "player": "Akenamon Daher",
-            "winrate": 0.6,
             "commander": [
                 "Jhoira of the Ghitu"
             ],
@@ -679,7 +672,6 @@
             "deck_id": "276195",
             "rank": "5-8",
             "player": "Lucas Caparroz",
-            "winrate": 0.6,
             "commander": [
                 "Maelstrom Wanderer"
             ],

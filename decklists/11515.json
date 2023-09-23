@@ -10,7 +10,6 @@
             "deck_id": "265511",
             "rank": "3-4",
             "player": "Guillaume Bahin",
-            "winrate": 0.625,
             "commander": [
                 "Animar, Soul of Elements"
             ],
@@ -114,7 +113,6 @@
             "deck_id": "265512",
             "rank": "3-4",
             "player": "Thomas Mestreau",
-            "winrate": 0.625,
             "commander": [
                 "Wydwen, the Biting Gale"
             ],
@@ -208,7 +206,6 @@
             "deck_id": "265513",
             "rank": "5-8",
             "player": "Cyril Hue",
-            "winrate": 0.625,
             "commander": [
                 "Sidisi, Undead Vizier"
             ],
@@ -293,7 +290,6 @@
             "deck_id": "265514",
             "rank": "5-8",
             "player": "Julien Joie",
-            "winrate": 0.625,
             "commander": [
                 "Wydwen, the Biting Gale"
             ],
@@ -387,7 +383,6 @@
             "deck_id": "265515",
             "rank": "5-8",
             "player": "Gaelle Paque",
-            "winrate": 0.625,
             "commander": [
                 "Anafenza, the Foremost"
             ],
@@ -497,7 +492,6 @@
             "deck_id": "265516",
             "rank": "5-8",
             "player": "Nicolas Mestreau",
-            "winrate": 0.625,
             "commander": [
                 "Daretti, Scrap Savant"
             ],
@@ -583,7 +577,6 @@
             "deck_id": "265517",
             "rank": "2",
             "player": "Romain Sacaze",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Narset, Enlightened Master"
             ],
@@ -685,7 +678,6 @@
             "deck_id": "265518",
             "rank": "1",
             "player": "Nicolas Monier",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Titania, Protector of Argoth"
             ],

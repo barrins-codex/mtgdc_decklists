@@ -10,7 +10,6 @@
             "deck_id": "368174",
             "rank": "1",
             "player": "Anthony Ruer",
-            "winrate": 1.0,
             "commander": [
                 "Will Kenrith",
                 "Rowan Kenrith"
@@ -87,7 +86,6 @@
             "deck_id": "368175",
             "rank": "2",
             "player": "Pierre Clavieras-mengin",
-            "winrate": 0.8,
             "commander": [
                 "Thrasios, Triton Hero",
                 "Tymna the Weaver"
@@ -197,7 +195,6 @@
             "deck_id": "368176",
             "rank": "3-4",
             "player": "Pierre Savignac",
-            "winrate": 0.8,
             "commander": [
                 "Saskia the Unyielding"
             ],
@@ -307,7 +304,6 @@
             "deck_id": "368177",
             "rank": "3-4",
             "player": "Karlov Of The Ghost Alexis Susani",
-            "winrate": 0.8,
             "commander": [
                 "Karlov of the Ghost Council"
             ],
@@ -417,7 +413,6 @@
             "deck_id": "368178",
             "rank": "5-8",
             "player": "Antoine Vieilledent",
-            "winrate": 0.6,
             "commander": [
                 "Kess, Dissident Mage"
             ],
@@ -527,7 +522,6 @@
             "deck_id": "368179",
             "rank": "5-8",
             "player": "Kevin Jouet",
-            "winrate": 0.6,
             "commander": [
                 "Silas Renn, Seeker Adept",
                 "Akiri, Line-Slinger"
@@ -637,7 +631,6 @@
             "deck_id": "368180",
             "rank": "5-8",
             "player": "Flavien Richard",
-            "winrate": 0.6,
             "commander": [
                 "Titania, Protector of Argoth"
             ],
@@ -735,7 +728,6 @@
             "deck_id": "368181",
             "rank": "5-8",
             "player": "Romain Belamy",
-            "winrate": 0.6,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],

@@ -10,7 +10,6 @@
             "deck_id": "333662",
             "rank": "2",
             "player": "Astito Mohamed",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Baral, Chief of Compliance"
             ],
@@ -82,7 +81,6 @@
             "deck_id": "333663",
             "rank": "1",
             "player": "Rullaud Quentin",
-            "winrate": 1.0,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],

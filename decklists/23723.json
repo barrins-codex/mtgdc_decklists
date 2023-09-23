@@ -10,7 +10,6 @@
             "deck_id": "364676",
             "rank": "2",
             "player": "Jaroslav Chmelik",
-            "winrate": 0.8,
             "commander": [
                 "Kraum, Ludevic's Opus",
                 "Ludevic, Necro-Alchemist"
@@ -104,7 +103,6 @@
             "deck_id": "364677",
             "rank": "5-8",
             "player": "Dominik Maly",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Zur the Enchanter"
             ],
@@ -214,7 +212,6 @@
             "deck_id": "364678",
             "rank": "5-8",
             "player": "Josef Kumstyr",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Zur the Enchanter"
             ],
@@ -324,7 +321,6 @@
             "deck_id": "364679",
             "rank": "5-8",
             "player": "Viktor Jasansky",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Silas Renn, Seeker Adept",
                 "Akiri, Line-Slinger"
@@ -434,7 +430,6 @@
             "deck_id": "364680",
             "rank": "5-8",
             "player": "David Dobis",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Azusa, Lost but Seeking"
             ],
@@ -537,7 +532,6 @@
             "deck_id": "364681",
             "rank": "3-4",
             "player": "Petr Klima",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Kraum, Ludevic's Opus",
                 "Tymna the Weaver"
@@ -647,7 +641,6 @@
             "deck_id": "364682",
             "rank": "3-4",
             "player": "Samuel Zobeley",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Akiri, Line-Slinger",
                 "Thrasios, Triton Hero"
@@ -757,7 +750,6 @@
             "deck_id": "364683",
             "rank": "1",
             "player": "Lukas Blohon",
-            "winrate": 0.9,
             "commander": [
                 "Emry, Lurker of the Loch"
             ],

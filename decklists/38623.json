@@ -10,7 +10,6 @@
             "deck_id": "488375",
             "rank": "1",
             "player": "Kevin Corbillé \"iceman44\"",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Tivit, Seller of Secrets"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "488376",
             "rank": "2",
             "player": "Florian Visset \"dynamoflo\"",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Juri, Master of the Revue"
             ],
@@ -220,7 +218,6 @@
             "deck_id": "488377",
             "rank": "3-4",
             "player": "Alban Paccianus \"greenplayer\"",
-            "winrate": 0.625,
             "commander": [
                 "Grist, the Hunger Tide"
             ],
@@ -319,7 +316,6 @@
             "deck_id": "488378",
             "rank": "3-4",
             "player": "Christophe Maymard \"brainstorm49\"",
-            "winrate": 0.625,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -429,7 +425,6 @@
             "deck_id": "488379",
             "rank": "5-8",
             "player": "Maël Keraval",
-            "winrate": 0.625,
             "commander": [
                 "Niv-Mizzet Reborn"
             ],
@@ -539,7 +534,6 @@
             "deck_id": "488380",
             "rank": "5-8",
             "player": "Lionel Galliere \"hannibal44\"",
-            "winrate": 0.625,
             "commander": [
                 "Niv-Mizzet Reborn"
             ],
@@ -649,7 +643,6 @@
             "deck_id": "488381",
             "rank": "5-8",
             "player": "Maël Froger \"nothappyend\"",
-            "winrate": 0.625,
             "commander": [
                 "Light-Paws, Emperor's Voice"
             ],
@@ -735,7 +728,6 @@
             "deck_id": "488382",
             "rank": "5-8",
             "player": "Alexis Fontaine \"chagator\"",
-            "winrate": 0.625,
             "commander": [
                 "Faceless One",
                 "Gut, True Soul Zealot"

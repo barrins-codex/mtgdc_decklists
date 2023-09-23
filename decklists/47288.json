@@ -10,7 +10,6 @@
             "deck_id": "549402",
             "rank": "1",
             "player": "Edison Gabutero",
-            "winrate": 1.0,
             "commander": [
                 "Ikra Shidiqi, the Usurper",
                 "Yoshimaru, Ever Faithful"
@@ -116,7 +115,6 @@
             "deck_id": "549403",
             "rank": "2",
             "player": "Jhay \"faithful Husband\" Brinquiz",
-            "winrate": 0.8,
             "commander": [
                 "Yoshimaru, Ever Faithful",
                 "Tana, the Bloodsower"

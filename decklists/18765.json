@@ -10,7 +10,6 @@
             "deck_id": "317373",
             "rank": "2",
             "player": "Christoph \"gonzossm\" Wershofen",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Kraum, Ludevic's Opus",
                 "Thrasios, Triton Hero"
@@ -112,7 +111,6 @@
             "deck_id": "317374",
             "rank": "1",
             "player": "David Albers",
-            "winrate": 1.0,
             "commander": [
                 "Zurgo Bellstriker"
             ],

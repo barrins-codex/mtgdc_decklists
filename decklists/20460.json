@@ -10,7 +10,6 @@
             "deck_id": "334139",
             "rank": "3-4",
             "player": "L. Macaroni",
-            "winrate": 0.6,
             "commander": [
                 "Kess, Dissident Mage"
             ],
@@ -113,7 +112,6 @@
             "deck_id": "334140",
             "rank": "2",
             "player": "Mjay",
-            "winrate": 0.8,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -196,7 +194,6 @@
             "deck_id": "334141",
             "rank": "1",
             "player": "Gonzossm",
-            "winrate": 1.0,
             "commander": [
                 "Maelstrom Wanderer"
             ],

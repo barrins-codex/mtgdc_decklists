@@ -10,7 +10,6 @@
             "deck_id": "488953",
             "rank": "1",
             "player": "Ruan Rangel",
-            "winrate": 1.0,
             "commander": [
                 "Dennick, Pious Apprentice"
             ],
@@ -97,7 +96,6 @@
             "deck_id": "488954",
             "rank": "2",
             "player": "Michel Xisto",
-            "winrate": 0.8,
             "commander": [
                 "Prossh, Skyraider of Kher"
             ],
@@ -185,7 +183,6 @@
             "deck_id": "488955",
             "rank": "3-4",
             "player": "Gabriel Ruffino",
-            "winrate": 0.8,
             "commander": [
                 "Grist, the Hunger Tide"
             ],
@@ -279,7 +276,6 @@
             "deck_id": "488956",
             "rank": "3-4",
             "player": "Gabriel Mattos",
-            "winrate": 0.8,
             "commander": [
                 "Octavia, Living Thesis"
             ],
@@ -367,7 +363,6 @@
             "deck_id": "488957",
             "rank": "5-8",
             "player": "Wallace Santos",
-            "winrate": 0.6,
             "commander": [
                 "Kinnan, Bonder Prodigy"
             ],
@@ -452,7 +447,6 @@
             "deck_id": "488958",
             "rank": "5-8",
             "player": "Clemilson",
-            "winrate": 0.6,
             "commander": [
                 "Light-Paws, Emperor's Voice"
             ],
@@ -535,7 +529,6 @@
             "deck_id": "488959",
             "rank": "5-8",
             "player": "Anderson Campos",
-            "winrate": 0.6,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -616,7 +609,6 @@
             "deck_id": "488960",
             "rank": "5-8",
             "player": "Jeferson Pereira",
-            "winrate": 0.6,
             "commander": [
                 "Wilson, Refined Grizzly",
                 "Flaming Fist"

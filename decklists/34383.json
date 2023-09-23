@@ -10,7 +10,6 @@
             "deck_id": "461085",
             "rank": "1",
             "player": "Sebastian Kött",
-            "winrate": 1.0,
             "commander": [
                 "Grenzo, Dungeon Warden"
             ],
@@ -107,7 +106,6 @@
             "deck_id": "461086",
             "rank": "2",
             "player": "Jonas Jörns",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Kelsien, the Plague"
             ],

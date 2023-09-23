@@ -10,7 +10,6 @@
             "deck_id": "468464",
             "rank": "1",
             "player": "John Paul Velasco",
-            "winrate": 1.0,
             "commander": [
                 "Niv-Mizzet Reborn"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "468465",
             "rank": "2",
             "player": "Matthew Kenneth Lee",
-            "winrate": 0.8,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -212,7 +210,6 @@
             "deck_id": "468466",
             "rank": "3-4",
             "player": "Rhys Sagalla",
-            "winrate": 0.8,
             "commander": [
                 "Light-Paws, Emperor's Voice"
             ],
@@ -303,7 +300,6 @@
             "deck_id": "468467",
             "rank": "3-4",
             "player": "Jim Degsi",
-            "winrate": 0.8,
             "commander": [
                 "Kinnan, Bonder Prodigy"
             ],
@@ -396,7 +392,6 @@
             "deck_id": "468468",
             "rank": "5-8",
             "player": "Alvin Cruz",
-            "winrate": 0.6,
             "commander": [
                 "Niv-Mizzet, Parun"
             ],
@@ -495,7 +490,6 @@
             "deck_id": "468469",
             "rank": "5-8",
             "player": "Ralph Dolteo",
-            "winrate": 0.6,
             "commander": [
                 "Isamaru, Hound of Konda"
             ],
@@ -587,7 +581,6 @@
             "deck_id": "468470",
             "rank": "5-8",
             "player": "Wiesser Colian",
-            "winrate": 0.6,
             "commander": [
                 "Selvala, Heart of the Wilds"
             ],
@@ -682,7 +675,6 @@
             "deck_id": "468471",
             "rank": "5-8",
             "player": "Fidel Alipio",
-            "winrate": 0.6,
             "commander": [
                 "Shorikai, Genesis Engine"
             ],

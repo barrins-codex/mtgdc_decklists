@@ -10,7 +10,6 @@
             "deck_id": "445738",
             "rank": "1",
             "player": "Florian Trotte",
-            "winrate": 1.0,
             "commander": [
                 "Esika, God of the Tree"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "445739",
             "rank": "2",
             "player": "Adrien Houssard",
-            "winrate": 0.8,
             "commander": [
                 "Golos, Tireless Pilgrim"
             ],
@@ -230,7 +228,6 @@
             "deck_id": "445740",
             "rank": "3-4",
             "player": "Mathieu Calbo",
-            "winrate": 0.8,
             "commander": [
                 "Hogaak, Arisen Necropolis"
             ],
@@ -340,7 +337,6 @@
             "deck_id": "445741",
             "rank": "3-4",
             "player": "Frederic Sanchhez",
-            "winrate": 0.8,
             "commander": [
                 "Lurrus of the Dream-Den",
                 "Karlov of the Ghost Council"
@@ -445,7 +441,6 @@
             "deck_id": "445742",
             "rank": "5-8",
             "player": "Florian Dhomps",
-            "winrate": 0.6,
             "commander": [
                 "Ragavan, Nimble Pilferer"
             ],
@@ -536,7 +531,6 @@
             "deck_id": "445743",
             "rank": "5-8",
             "player": "Mickael Bruneau",
-            "winrate": 0.6,
             "commander": [
                 "Ragavan, Nimble Pilferer"
             ],
@@ -626,7 +620,6 @@
             "deck_id": "445744",
             "rank": "5-8",
             "player": "Aurélien Ulpat",
-            "winrate": 0.6,
             "commander": [
                 "Ragavan, Nimble Pilferer"
             ],
@@ -716,7 +709,6 @@
             "deck_id": "445745",
             "rank": "5-8",
             "player": "David Fontraille",
-            "winrate": 0.6,
             "commander": [
                 "Niv-Mizzet Reborn"
             ],

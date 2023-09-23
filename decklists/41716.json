@@ -10,7 +10,6 @@
             "deck_id": "509796",
             "rank": "1",
             "player": "Markus S.",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "509797",
             "rank": "2",
             "player": "Valentin O.",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Old Stickfingers"
             ],
@@ -221,7 +219,6 @@
             "deck_id": "509798",
             "rank": "3-4",
             "player": "Samuel Z.",
-            "winrate": 0.625,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -331,7 +328,6 @@
             "deck_id": "509799",
             "rank": "3-4",
             "player": "Radek H.",
-            "winrate": 0.625,
             "commander": [
                 "Ghyrson Starn, Kelermorph"
             ],
@@ -432,7 +428,6 @@
             "deck_id": "509800",
             "rank": "5-8",
             "player": "Pierre C.",
-            "winrate": 0.625,
             "commander": [
                 "Prossh, Skyraider of Kher"
             ],
@@ -520,7 +515,6 @@
             "deck_id": "509801",
             "rank": "5-8",
             "player": "Thomas S.",
-            "winrate": 0.625,
             "commander": [
                 "Dihada, Binder of Wills"
             ],
@@ -630,7 +624,6 @@
             "deck_id": "509802",
             "rank": "5-8",
             "player": "Kai T.",
-            "winrate": 0.625,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -740,7 +733,6 @@
             "deck_id": "509803",
             "rank": "5-8",
             "player": "Clément B.",
-            "winrate": 0.625,
             "commander": [
                 "Atraxa, Grand Unifier"
             ],

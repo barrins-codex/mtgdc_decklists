@@ -10,7 +10,6 @@
             "deck_id": "400717",
             "rank": "5-8",
             "player": "Pierre-henri François",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Animar, Soul of Elements"
             ],
@@ -116,7 +115,6 @@
             "deck_id": "400718",
             "rank": "5-8",
             "player": "Alexandre Glorian",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Thrasios, Triton Hero",
                 "Tymna the Weaver"
@@ -226,7 +224,6 @@
             "deck_id": "400719",
             "rank": "3-4",
             "player": "Maximilien Kalil",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Leovold, Emissary of Trest"
             ],
@@ -336,7 +333,6 @@
             "deck_id": "400720",
             "rank": "3-4",
             "player": "Guillaume Audiffren",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Leovold, Emissary of Trest"
             ],
@@ -446,7 +442,6 @@
             "deck_id": "400729",
             "rank": "5-8",
             "player": "Pyrrhus",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Kroxa, Titan of Death's Hunger"
             ],
@@ -556,7 +551,6 @@
             "deck_id": "400730",
             "rank": "1",
             "player": "Kaourintin \"falaakr\" Le Guiban",
-            "winrate": 0.9,
             "commander": [
                 "Rowan Kenrith",
                 "Will Kenrith"
@@ -651,7 +645,6 @@
             "deck_id": "400731",
             "rank": "2",
             "player": "Quentin \"bobota\" Rullaud",
-            "winrate": 0.8,
             "commander": [
                 "Hogaak, Arisen Necropolis"
             ],
@@ -761,7 +754,6 @@
             "deck_id": "400732",
             "rank": "5-8",
             "player": "Guillaume Abenia",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Winota, Joiner of Forces"
             ],

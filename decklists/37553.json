@@ -10,7 +10,6 @@
             "deck_id": "481404",
             "rank": "1",
             "player": "Wan Yiheng",
-            "winrate": 1.0,
             "commander": [
                 "Minsc &amp; Boo, Timeless Heroes"
             ],
@@ -115,7 +114,6 @@
             "deck_id": "481405",
             "rank": "2",
             "player": "Chen Sihong",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Minsc, Beloved Ranger"
             ],
@@ -225,7 +223,6 @@
             "deck_id": "481406",
             "rank": "3",
             "player": "Yao Yao",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Sythis, Harvest's Hand"
             ],

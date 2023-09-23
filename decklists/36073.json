@@ -10,7 +10,6 @@
             "deck_id": "471705",
             "rank": "1",
             "player": "Rexel Tenorio",
-            "winrate": 1.0,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "471706",
             "rank": "2",
             "player": "Nhald Adia",
-            "winrate": 0.8,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -208,7 +206,6 @@
             "deck_id": "471707",
             "rank": "3-4",
             "player": "Mark Lasam",
-            "winrate": 0.6,
             "commander": [
                 "Isamaru, Hound of Konda"
             ],
@@ -298,7 +295,6 @@
             "deck_id": "471708",
             "rank": "3-4",
             "player": "Iori Zugaikotsu",
-            "winrate": 0.6,
             "commander": [
                 "Tevesh Szat, Doom of Fools",
                 "Silas Renn, Seeker Adept"

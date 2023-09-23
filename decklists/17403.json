@@ -10,7 +10,6 @@
             "deck_id": "307770",
             "rank": "5-8",
             "player": "Claude Luc-bastien",
-            "winrate": 0.6,
             "commander": [
                 "Zurgo Bellstriker"
             ],
@@ -88,7 +87,6 @@
             "deck_id": "307771",
             "rank": "5-8",
             "player": "Constantin Bone",
-            "winrate": 0.6,
             "commander": [
                 "Athreos, God of Passage"
             ],
@@ -184,7 +182,6 @@
             "deck_id": "307772",
             "rank": "3-4",
             "player": "Maxence Achoun",
-            "winrate": 0.8,
             "commander": [
                 "Baral, Chief of Compliance"
             ],
@@ -258,7 +255,6 @@
             "deck_id": "307773",
             "rank": "3-4",
             "player": "Thomas \"Lantariel\" Travert",
-            "winrate": 0.8,
             "commander": [
                 "Zurgo Bellstriker"
             ],
@@ -344,7 +340,6 @@
             "deck_id": "307774",
             "rank": "5-8",
             "player": "Guillaume Audiffren",
-            "winrate": 0.6,
             "commander": [
                 "Silas Renn, Seeker Adept",
                 "Akiri, Line-Slinger"
@@ -454,7 +449,6 @@
             "deck_id": "307775",
             "rank": "1",
             "player": "Kaourintin Le Guiban",
-            "winrate": 1.0,
             "commander": [
                 "Silas Renn, Seeker Adept",
                 "Akiri, Line-Slinger"
@@ -564,7 +558,6 @@
             "deck_id": "307776",
             "rank": "2",
             "player": "Gregory Bedel",
-            "winrate": 0.8,
             "commander": [
                 "Zurgo Bellstriker"
             ],
@@ -647,7 +640,6 @@
             "deck_id": "307777",
             "rank": "5-8",
             "player": "Pierre-axel Bral",
-            "winrate": 0.6,
             "commander": [
                 "Kraum, Ludevic's Opus",
                 "Tymna the Weaver"

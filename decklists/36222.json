@@ -10,7 +10,6 @@
             "deck_id": "472624",
             "rank": "1",
             "player": "Jacinto Mendoza",
-            "winrate": 1.0,
             "commander": [
                 "Dennick, Pious Apprentice"
             ],
@@ -113,7 +112,6 @@
             "deck_id": "472625",
             "rank": "2",
             "player": "Ste Villaraza",
-            "winrate": 0.8,
             "commander": [
                 "Shorikai, Genesis Engine"
             ],

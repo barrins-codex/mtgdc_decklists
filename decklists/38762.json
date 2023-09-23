@@ -10,7 +10,6 @@
             "deck_id": "489287",
             "rank": "1",
             "player": "Vojta Kotek",
-            "winrate": 1.0,
             "commander": [
                 "Grenzo, Dungeon Warden"
             ],
@@ -110,7 +109,6 @@
             "deck_id": "489288",
             "rank": "2",
             "player": "Tomas Vardzik",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Isamaru, Hound of Konda"
             ],
@@ -198,7 +196,6 @@
             "deck_id": "489289",
             "rank": "3",
             "player": "Michal Mendl",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Dennick, Pious Apprentice"
             ],
@@ -302,7 +299,6 @@
             "deck_id": "489290",
             "rank": "4",
             "player": "Ondrej Muller",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Hogaak, Arisen Necropolis"
             ],

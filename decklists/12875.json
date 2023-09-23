@@ -10,7 +10,6 @@
             "deck_id": "274856",
             "rank": "5-8",
             "player": "Morgan Laleure",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Anafenza, the Foremost"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "274857",
             "rank": "5-8",
             "player": "Noham Maubert",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Animar, Soul of Elements"
             ],
@@ -225,7 +223,6 @@
             "deck_id": "274858",
             "rank": "5-8",
             "player": "David Fontraille",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Vendilion Clique"
             ],
@@ -312,7 +309,6 @@
             "deck_id": "274859",
             "rank": "5-8",
             "player": "Damien Marion",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Animar, Soul of Elements"
             ],
@@ -415,7 +411,6 @@
             "deck_id": "274860",
             "rank": "3-4",
             "player": "Léo Carbonell",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Jace, Vryn's Prodigy"
             ],
@@ -495,7 +490,6 @@
             "deck_id": "274861",
             "rank": "3-4",
             "player": "Lionel Payen",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Geist of Saint Traft"
             ],
@@ -593,7 +587,6 @@
             "deck_id": "274862",
             "rank": "2",
             "player": "Etienne Lourdin",
-            "winrate": 0.8,
             "commander": [
                 "Karador, Ghost Chieftain"
             ],
@@ -702,7 +695,6 @@
             "deck_id": "274863",
             "rank": "1",
             "player": "Florian Trotte",
-            "winrate": 0.9,
             "commander": [
                 "Geist of Saint Traft"
             ],

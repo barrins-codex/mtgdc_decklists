@@ -10,7 +10,6 @@
             "deck_id": "546392",
             "rank": "1",
             "player": "Thomas Kraska",
-            "winrate": 1.0,
             "commander": [
                 "Atraxa, Grand Unifier"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "546393",
             "rank": "2",
             "player": "Julien Chiarvesio",
-            "winrate": 0.8,
             "commander": [
                 "Wernog, Rider's Chaplain",
                 "Bjorna, Nightfall Alchemist",
@@ -231,7 +229,6 @@
             "deck_id": "546394",
             "rank": "3-4",
             "player": "Vivien Michelesi",
-            "winrate": 0.8,
             "commander": [
                 "Tivit, Seller of Secrets"
             ],
@@ -341,7 +338,6 @@
             "deck_id": "546395",
             "rank": "3-4",
             "player": "Jean Thomas Ottavi",
-            "winrate": 0.8,
             "commander": [
                 "Yoshimaru, Ever Faithful",
                 "Bruse Tarl, Boorish Herder"
@@ -441,7 +437,6 @@
             "deck_id": "546396",
             "rank": "5-8",
             "player": "Romain Sesta",
-            "winrate": 0.6,
             "commander": [
                 "Oswald Fiddlebender"
             ],
@@ -531,7 +526,6 @@
             "deck_id": "546397",
             "rank": "5-8",
             "player": "Tanguy Demichelis",
-            "winrate": 0.6,
             "commander": [
                 "Light-Paws, Emperor's Voice"
             ],
@@ -609,7 +603,6 @@
             "deck_id": "546398",
             "rank": "5-8",
             "player": "Thomas Vella",
-            "winrate": 0.6,
             "commander": [
                 "Atraxa, Grand Unifier"
             ],
@@ -719,7 +712,6 @@
             "deck_id": "546399",
             "rank": "5-8",
             "player": "Enzo Russo",
-            "winrate": 0.6,
             "commander": [
                 "Raffine, Scheming Seer"
             ],

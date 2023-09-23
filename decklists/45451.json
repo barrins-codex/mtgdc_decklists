@@ -10,7 +10,6 @@
             "deck_id": "535927",
             "rank": "1",
             "player": "Anthony Vasaturo",
-            "winrate": 1.0,
             "commander": [
                 "Aragorn, King of Gondor"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "535928",
             "rank": "2",
             "player": "Neil Newman",
-            "winrate": 0.8,
             "commander": [
                 "General Ferrous Rokiric"
             ],
@@ -221,7 +219,6 @@
             "deck_id": "535929",
             "rank": "3-4",
             "player": "Brennan McAlear",
-            "winrate": 0.8,
             "commander": [
                 "Grist, the Hunger Tide"
             ],
@@ -323,7 +320,6 @@
             "deck_id": "535930",
             "rank": "3-4",
             "player": "Dennis Venier",
-            "winrate": 0.8,
             "commander": [
                 "Kytheon, Hero of Akros"
             ],
@@ -403,7 +399,6 @@
             "deck_id": "535931",
             "rank": "5-8",
             "player": "Stephen Mikoleski",
-            "winrate": 0.6,
             "commander": [
                 "Maelstrom Wanderer"
             ],
@@ -513,7 +508,6 @@
             "deck_id": "535932",
             "rank": "5-8",
             "player": "Kris Mariasy",
-            "winrate": 0.6,
             "commander": [
                 "Minsc, Beloved Ranger"
             ],
@@ -623,7 +617,6 @@
             "deck_id": "535933",
             "rank": "5-8",
             "player": "John Brunstetter",
-            "winrate": 0.6,
             "commander": [
                 "Carth the Lion"
             ],
@@ -724,7 +717,6 @@
             "deck_id": "535934",
             "rank": "5-8",
             "player": "Chris Nelson",
-            "winrate": 0.6,
             "commander": [
                 "Octavia, Living Thesis"
             ],

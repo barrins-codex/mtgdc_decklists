@@ -10,7 +10,6 @@
             "deck_id": "518152",
             "rank": "1",
             "player": "Julien « Night » Caillaux",
-            "winrate": 1.0,
             "commander": [
                 "Hogaak, Arisen Necropolis"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "518153",
             "rank": "2",
             "player": "Julien Lagardère",
-            "winrate": 0.8,
             "commander": [
                 "Ludevic, Necro-Alchemist",
                 "Yoshimaru, Ever Faithful"
@@ -229,7 +227,6 @@
             "deck_id": "518154",
             "rank": "3-4",
             "player": "Amaury Thomas",
-            "winrate": 0.8,
             "commander": [
                 "Dihada, Binder of Wills"
             ],
@@ -339,7 +336,6 @@
             "deck_id": "518155",
             "rank": "3-4",
             "player": "Antoine Alix",
-            "winrate": 0.8,
             "commander": [
                 "Gallia of the Endless Dance"
             ],

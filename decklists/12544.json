@@ -10,7 +10,6 @@
             "deck_id": "272338",
             "rank": "1",
             "player": "Marco Boccalari",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Geist of Saint Traft"
             ],
@@ -104,7 +103,6 @@
             "deck_id": "272339",
             "rank": "5-8",
             "player": "Orfeo Lombardo Ratti",
-            "winrate": 0.625,
             "commander": [
                 "Selvala, Explorer Returned"
             ],
@@ -199,7 +197,6 @@
             "deck_id": "272340",
             "rank": "2",
             "player": "Dario Belotti",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Jenara, Asura of War"
             ],
@@ -309,7 +306,6 @@
             "deck_id": "272341",
             "rank": "3-4",
             "player": "Arturo Fux",
-            "winrate": 0.625,
             "commander": [
                 "Titania, Protector of Argoth"
             ],
@@ -401,7 +397,6 @@
             "deck_id": "272342",
             "rank": "3-4",
             "player": "Michele Atzeni",
-            "winrate": 0.625,
             "commander": [
                 "Jenara, Asura of War"
             ],
@@ -509,7 +504,6 @@
             "deck_id": "272343",
             "rank": "5-8",
             "player": "Vasile Beruica",
-            "winrate": 0.625,
             "commander": [
                 "Keranos, God of Storms"
             ],
@@ -597,7 +591,6 @@
             "deck_id": "272344",
             "rank": "5-8",
             "player": "Maurizio Annoni",
-            "winrate": 0.625,
             "commander": [
                 "Titania, Protector of Argoth"
             ],
@@ -687,7 +680,6 @@
             "deck_id": "272345",
             "rank": "5-8",
             "player": "Andrea \"Wellz\" Vella",
-            "winrate": 0.625,
             "commander": [
                 "Marath, Will of the Wild"
             ],

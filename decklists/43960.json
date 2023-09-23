@@ -10,7 +10,6 @@
             "deck_id": "524370",
             "rank": "1",
             "player": "Jingting,wu",
-            "winrate": 1.0,
             "commander": [
                 "Golos, Tireless Pilgrim"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "524371",
             "rank": "2",
             "player": "Ziye,chen",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Atraxa, Grand Unifier"
             ],

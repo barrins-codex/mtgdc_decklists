@@ -10,7 +10,6 @@
             "deck_id": "478004",
             "rank": "1",
             "player": "Rhys Sagalla",
-            "winrate": 1.0,
             "commander": [
                 "Dennick, Pious Apprentice"
             ],
@@ -113,7 +112,6 @@
             "deck_id": "478005",
             "rank": "2",
             "player": "Alvin Cruz",
-            "winrate": 0.8,
             "commander": [
                 "Niv-Mizzet, Parun"
             ],
@@ -213,7 +211,6 @@
             "deck_id": "478006",
             "rank": "3-4",
             "player": "Enrico Castro",
-            "winrate": 0.6,
             "commander": [
                 "Light-Paws, Emperor's Voice"
             ],
@@ -304,7 +301,6 @@
             "deck_id": "478007",
             "rank": "3-4",
             "player": "Lloyd Videz",
-            "winrate": 0.6,
             "commander": [
                 "Drana, Liberator of Malakir"
             ],

@@ -10,7 +10,6 @@
             "deck_id": "334367",
             "rank": "5-8",
             "player": "Flavien Mullet",
-            "winrate": 0.75,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -91,7 +90,6 @@
             "deck_id": "334368",
             "rank": "5-8",
             "player": "Bastien Guichard",
-            "winrate": 0.75,
             "commander": [
                 "Isamaru, Hound of Konda"
             ],
@@ -168,7 +166,6 @@
             "deck_id": "334369",
             "rank": "5-8",
             "player": "Jean Alexis Lequoque",
-            "winrate": 0.75,
             "commander": [
                 "Titania, Protector of Argoth"
             ],
@@ -262,7 +259,6 @@
             "deck_id": "334370",
             "rank": "5-8",
             "player": "Justo Chacon",
-            "winrate": 0.75,
             "commander": [
                 "Thrasios, Triton Hero",
                 "Tymna the Weaver"
@@ -371,7 +367,6 @@
             "deck_id": "334371",
             "rank": "3-4",
             "player": "Guillaume Deimerly",
-            "winrate": 0.75,
             "commander": [
                 "Baral, Chief of Compliance"
             ],
@@ -456,7 +451,6 @@
             "deck_id": "334372",
             "rank": "2",
             "player": "Léo Carbonell",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Teferi, Temporal Archmage"
             ],
@@ -530,7 +524,6 @@
             "deck_id": "334373",
             "rank": "3-4",
             "player": "Pierre Pinoli",
-            "winrate": 0.75,
             "commander": [
                 "Thrasios, Triton Hero",
                 "Tymna the Weaver"
@@ -639,7 +632,6 @@
             "deck_id": "334374",
             "rank": "1",
             "player": "Moondust",
-            "winrate": 0.8888888888888888,
             "commander": [
                 "Thrasios, Triton Hero",
                 "Tymna the Weaver"

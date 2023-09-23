@@ -10,7 +10,6 @@
             "deck_id": "445501",
             "rank": "1",
             "player": "Leonardo Maeda",
-            "winrate": 1.0,
             "commander": [
                 "Anafenza, the Foremost"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "445502",
             "rank": "2",
             "player": "Victor Burghi",
-            "winrate": 0.8,
             "commander": [
                 "Kytheon, Hero of Akros"
             ],
@@ -203,7 +201,6 @@
             "deck_id": "445503",
             "rank": "3-4",
             "player": "William Graciani",
-            "winrate": 0.6,
             "commander": [
                 "Dargo, the Shipwrecker",
                 "Ikra Shidiqi, the Usurper"
@@ -300,7 +297,6 @@
             "deck_id": "445504",
             "rank": "3-4",
             "player": "Artur Pacheco",
-            "winrate": 0.6,
             "commander": [
                 "Winota, Joiner of Forces"
             ],

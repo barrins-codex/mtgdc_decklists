@@ -10,7 +10,6 @@
             "deck_id": "332842",
             "rank": "5-8",
             "player": "Yves Bausa",
-            "winrate": 0.625,
             "commander": [
                 "Yuriko, the Tiger's Shadow"
             ],
@@ -108,7 +107,6 @@
             "deck_id": "332843",
             "rank": "5-8",
             "player": "Mark Yap",
-            "winrate": 0.625,
             "commander": [
                 "Animar, Soul of Elements"
             ],
@@ -211,7 +209,6 @@
             "deck_id": "332844",
             "rank": "5-8",
             "player": "Josh Fuentes",
-            "winrate": 0.625,
             "commander": [
                 "Ikra Shidiqi, the Usurper",
                 "Kraum, Ludevic's Opus"
@@ -317,7 +314,6 @@
             "deck_id": "332845",
             "rank": "3-4",
             "player": "Earl Delos Reyes",
-            "winrate": 0.625,
             "commander": [
                 "Tymna the Weaver",
                 "Kraum, Ludevic's Opus"
@@ -427,7 +423,6 @@
             "deck_id": "332846",
             "rank": "5-8",
             "player": "Bruce Kho Valero",
-            "winrate": 0.625,
             "commander": [
                 "Karlov of the Ghost Council"
             ],
@@ -537,7 +532,6 @@
             "deck_id": "332847",
             "rank": "3-4",
             "player": "Edwin Jocson",
-            "winrate": 0.625,
             "commander": [
                 "Yuriko, the Tiger's Shadow"
             ],
@@ -633,7 +627,6 @@
             "deck_id": "332848",
             "rank": "2",
             "player": "Glenn Marc Alesna",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Arahbo, Roar of the World"
             ],
@@ -734,7 +727,6 @@
             "deck_id": "332849",
             "rank": "1",
             "player": "John Daroen Sahagun",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Yuriko, the Tiger's Shadow"
             ],

@@ -10,7 +10,6 @@
             "deck_id": "442468",
             "rank": "1",
             "player": "Ravi Zörnig",
-            "winrate": 1.0,
             "commander": [
                 "Hogaak, Arisen Necropolis"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "442469",
             "rank": "2",
             "player": "Lucas Feliz",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Azusa, Lost but Seeking"
             ],

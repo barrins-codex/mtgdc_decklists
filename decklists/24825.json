@@ -10,7 +10,6 @@
             "deck_id": "373719",
             "rank": "2",
             "player": "Eduardo Perez",
-            "winrate": 0.8,
             "commander": [
                 "Kroxa, Titan of Death's Hunger"
             ],
@@ -103,7 +102,6 @@
             "deck_id": "373720",
             "rank": "1",
             "player": "Irving Guedez",
-            "winrate": 1.0,
             "commander": [
                 "Hogaak, Arisen Necropolis"
             ],
@@ -206,7 +204,6 @@
             "deck_id": "373721",
             "rank": "3",
             "player": "Andres Perez",
-            "winrate": 0.8,
             "commander": [
                 "Thrasios, Triton Hero",
                 "Ludevic, Necro-Alchemist"
@@ -314,7 +311,6 @@
             "deck_id": "373722",
             "rank": "4",
             "player": "Omar Rohner",
-            "winrate": 0.8,
             "commander": [
                 "Kess, Dissident Mage"
             ],
@@ -410,7 +406,6 @@
             "deck_id": "373723",
             "rank": "5",
             "player": "Cristhian Leiva",
-            "winrate": 0.6,
             "commander": [
                 "Karlov of the Ghost Council"
             ],
@@ -514,7 +509,6 @@
             "deck_id": "373724",
             "rank": "6",
             "player": "Eduardo Cespedes",
-            "winrate": 0.6,
             "commander": [
                 "Grenzo, Dungeon Warden"
             ],
@@ -624,7 +618,6 @@
             "deck_id": "373725",
             "rank": "7",
             "player": "Luis Morales",
-            "winrate": 0.6,
             "commander": [
                 "Radha, Heir to Keld"
             ],
@@ -727,7 +720,6 @@
             "deck_id": "373726",
             "rank": "8",
             "player": "Jorge Chunga",
-            "winrate": 0.6,
             "commander": [
                 "Ludevic, Necro-Alchemist",
                 "Kraum, Ludevic's Opus"

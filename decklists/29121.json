@@ -10,7 +10,6 @@
             "deck_id": "429352",
             "rank": "1",
             "player": "Sherwin Lobrigo",
-            "winrate": 1.0,
             "commander": [
                 "Prossh, Skyraider of Kher"
             ],
@@ -116,7 +115,6 @@
             "deck_id": "429353",
             "rank": "2",
             "player": "Timothy Agustin",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Ludevic, Necro-Alchemist",
                 "Rograkh, Son of Rohgahh"

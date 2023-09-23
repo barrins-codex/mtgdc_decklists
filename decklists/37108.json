@@ -10,7 +10,6 @@
             "deck_id": "478567",
             "rank": "1",
             "player": "Guillaume Abenia",
-            "winrate": 1.0,
             "commander": [
                 "Magda, Brazen Outlaw"
             ],
@@ -84,7 +83,6 @@
             "deck_id": "478568",
             "rank": "2",
             "player": "Geoffrey Boutin",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Raffine, Scheming Seer"
             ],

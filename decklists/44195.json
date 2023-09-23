@@ -10,7 +10,6 @@
             "deck_id": "526135",
             "rank": "1",
             "player": "Roman Vejdelek",
-            "winrate": 1.0,
             "commander": [
                 "Niv-Mizzet Reborn"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "526136",
             "rank": "2",
             "player": "Jan Kousal",
-            "winrate": 0.8,
             "commander": [
                 "Ratchet, Field Medic"
             ],
@@ -211,7 +209,6 @@
             "deck_id": "526137",
             "rank": "3-4",
             "player": "Pavel Tvrznik",
-            "winrate": 0.8,
             "commander": [
                 "Lurrus of the Dream-Den"
             ],
@@ -313,7 +310,6 @@
             "deck_id": "526138",
             "rank": "3-4",
             "player": "Vojtech Benes",
-            "winrate": 0.8,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -423,7 +419,6 @@
             "deck_id": "526139",
             "rank": "5-8",
             "player": "Martin Kunik",
-            "winrate": 0.6,
             "commander": [
                 "Feldon, Ronom Excavator"
             ],
@@ -513,7 +508,6 @@
             "deck_id": "526140",
             "rank": "5-8",
             "player": "Jan Jilek",
-            "winrate": 0.6,
             "commander": [
                 "Vohar, Vodalian Desecrator"
             ],
@@ -621,7 +615,6 @@
             "deck_id": "526141",
             "rank": "5-8",
             "player": "Jan Svoboda",
-            "winrate": 0.6,
             "commander": [
                 "Niv-Mizzet Reborn"
             ],
@@ -731,7 +724,6 @@
             "deck_id": "526142",
             "rank": "5-8",
             "player": "Jiri Patocka",
-            "winrate": 0.6,
             "commander": [
                 "Light-Paws, Emperor's Voice"
             ],

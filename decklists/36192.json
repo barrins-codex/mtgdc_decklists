@@ -10,7 +10,6 @@
             "deck_id": "472455",
             "rank": "1",
             "player": "Damien Jantzen",
-            "winrate": 0.8888888888888888,
             "commander": [
                 "Shorikai, Genesis Engine"
             ],
@@ -110,7 +109,6 @@
             "deck_id": "472456",
             "rank": "2",
             "player": "Sacha Keitel",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Dennick, Pious Apprentice"
             ],
@@ -213,7 +211,6 @@
             "deck_id": "472457",
             "rank": "3-4",
             "player": "Thomas Bagdadlian",
-            "winrate": 0.75,
             "commander": [
                 "Kenrith, the Returned King"
             ],
@@ -323,7 +320,6 @@
             "deck_id": "472458",
             "rank": "3-4",
             "player": "Leo Facca",
-            "winrate": 0.75,
             "commander": [
                 "Shorikai, Genesis Engine"
             ],
@@ -424,7 +420,6 @@
             "deck_id": "472459",
             "rank": "5-8",
             "player": "Andy Sieurac",
-            "winrate": 0.75,
             "commander": [
                 "Shorikai, Genesis Engine"
             ],
@@ -526,7 +521,6 @@
             "deck_id": "472460",
             "rank": "5-8",
             "player": "Thomas Plieger",
-            "winrate": 0.75,
             "commander": [
                 "Kyodai, Soul of Kamigawa"
             ],
@@ -636,7 +630,6 @@
             "deck_id": "472461",
             "rank": "5-8",
             "player": "Axel Autiquet",
-            "winrate": 0.75,
             "commander": [
                 "Varolz, the Scar-Striped"
             ],
@@ -738,7 +731,6 @@
             "deck_id": "472462",
             "rank": "5-8",
             "player": "Mathys Grapotte",
-            "winrate": 0.75,
             "commander": [
                 "Lurrus of the Dream-Den",
                 "Wernog, Rider's Chaplain",

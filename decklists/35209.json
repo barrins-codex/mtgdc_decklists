@@ -10,7 +10,6 @@
             "deck_id": "466264",
             "rank": "1",
             "player": "Martin Ogayon",
-            "winrate": 1.0,
             "commander": [
                 "Light-Paws, Emperor's Voice"
             ],
@@ -100,7 +99,6 @@
             "deck_id": "466265",
             "rank": "2",
             "player": "Timothy Agustin",
-            "winrate": 0.8,
             "commander": [
                 "Svyelun of Sea and Sky"
             ],
@@ -188,7 +186,6 @@
             "deck_id": "466266",
             "rank": "3-4",
             "player": "Nelvine Tuano",
-            "winrate": 0.8,
             "commander": [
                 "Nissa, Vastwood Seer"
             ],
@@ -281,7 +278,6 @@
             "deck_id": "466267",
             "rank": "3-4",
             "player": "Dinno Zaide",
-            "winrate": 0.8,
             "commander": [
                 "Ludevic, Necro-Alchemist"
             ],

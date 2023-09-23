@@ -10,7 +10,6 @@
             "deck_id": "233252",
             "rank": "1",
             "player": "Simon Pilorget",
-            "winrate": 1.0,
             "commander": [
                 "Maelstrom Wanderer"
             ],
@@ -116,7 +115,6 @@
             "deck_id": "233253",
             "rank": "1",
             "player": "Julien Debelleix",
-            "winrate": 1.0,
             "commander": [
                 "Hokori, Dust Drinker"
             ],
@@ -209,7 +207,6 @@
             "deck_id": "233254",
             "rank": "3-4",
             "player": "Yann Barsamian",
-            "winrate": 0.8,
             "commander": [
                 "Doran, the Siege Tower"
             ],

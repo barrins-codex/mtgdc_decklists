@@ -10,7 +10,6 @@
             "deck_id": "275722",
             "rank": "1",
             "player": "Manuel Le Marec",
-            "winrate": 0.9090909090909091,
             "commander": [
                 "Jace, Vryn's Prodigy"
             ],
@@ -102,7 +101,6 @@
             "deck_id": "275723",
             "rank": "2",
             "player": "Noham Maubert",
-            "winrate": 0.8181818181818182,
             "commander": [
                 "Marath, Will of the Wild"
             ],
@@ -208,7 +206,6 @@
             "deck_id": "275724",
             "rank": "3-4",
             "player": "Leo Carbonell",
-            "winrate": 0.8,
             "commander": [
                 "Jace, Vryn's Prodigy"
             ],
@@ -289,7 +286,6 @@
             "deck_id": "275725",
             "rank": "3-4",
             "player": "Yari Arena",
-            "winrate": 0.8,
             "commander": [
                 "Titania, Protector of Argoth"
             ],
@@ -379,7 +375,6 @@
             "deck_id": "275726",
             "rank": "5-8",
             "player": "Francesco Belvedere",
-            "winrate": 0.8,
             "commander": [
                 "Titania, Protector of Argoth"
             ],
@@ -469,7 +464,6 @@
             "deck_id": "275727",
             "rank": "5-8",
             "player": "Etienne Lourdin",
-            "winrate": 0.8,
             "commander": [
                 "Karador, Ghost Chieftain"
             ],
@@ -577,7 +571,6 @@
             "deck_id": "275728",
             "rank": "5-8",
             "player": "Ugo Scaramelli",
-            "winrate": 0.8,
             "commander": [
                 "Jenara, Asura of War"
             ],
@@ -686,7 +679,6 @@
             "deck_id": "275729",
             "rank": "5-8",
             "player": "Audren Boulic",
-            "winrate": 0.8,
             "commander": [
                 "Titania, Protector of Argoth"
             ],
@@ -776,7 +768,6 @@
             "deck_id": "275730",
             "rank": "9-16",
             "player": "Nicolas Francois",
-            "winrate": 0.75,
             "commander": [
                 "Grand Arbiter Augustin IV"
             ],
@@ -881,7 +872,6 @@
             "deck_id": "275731",
             "rank": "9-16",
             "player": "Control - Lucas \"Lanouille\" Torreani",
-            "winrate": 0.75,
             "commander": [
                 "Child of Alara"
             ],
@@ -991,7 +981,6 @@
             "deck_id": "275732",
             "rank": "9-16",
             "player": "Control - Nicolas Campiglia",
-            "winrate": 0.75,
             "commander": [
                 "Child of Alara"
             ],
@@ -1101,7 +1090,6 @@
             "deck_id": "275733",
             "rank": "9-16",
             "player": "Hautot Mathieu",
-            "winrate": 0.75,
             "commander": [
                 "Karador, Ghost Chieftain"
             ],
@@ -1206,7 +1194,6 @@
             "deck_id": "275734",
             "rank": "9-16",
             "player": "Vivien Mace",
-            "winrate": 0.75,
             "commander": [
                 "Jenara, Asura of War"
             ],
@@ -1315,7 +1302,6 @@
             "deck_id": "275735",
             "rank": "9-16",
             "player": "Idris Achouri",
-            "winrate": 0.75,
             "commander": [
                 "Nin, the Pain Artist"
             ],
@@ -1397,7 +1383,6 @@
             "deck_id": "275736",
             "rank": "9-16",
             "player": "Matvey Dolganov",
-            "winrate": 0.75,
             "commander": [
                 "Titania, Protector of Argoth"
             ],

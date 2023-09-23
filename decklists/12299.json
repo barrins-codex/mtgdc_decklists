@@ -10,7 +10,6 @@
             "deck_id": "270905",
             "rank": "1",
             "player": "Bruno Karam",
-            "winrate": 1.0,
             "commander": [
                 "Titania, Protector of Argoth"
             ],
@@ -101,7 +100,6 @@
             "deck_id": "270906",
             "rank": "2",
             "player": "Aradib Morgan",
-            "winrate": 0.8,
             "commander": [
                 "Geist of Saint Traft"
             ],
@@ -201,7 +199,6 @@
             "deck_id": "270907",
             "rank": "5-8",
             "player": "Fabio Gavazzi",
-            "winrate": 0.6,
             "commander": [
                 "Sidisi, Undead Vizier"
             ],
@@ -291,7 +288,6 @@
             "deck_id": "270908",
             "rank": "5-8",
             "player": "Caio Zangarini",
-            "winrate": 0.6,
             "commander": [
                 "The Gitrog Monster"
             ],
@@ -393,7 +389,6 @@
             "deck_id": "270909",
             "rank": "3-4",
             "player": "Gui Tavares",
-            "winrate": 0.8,
             "commander": [
                 "Zurgo Bellstriker"
             ],
@@ -471,7 +466,6 @@
             "deck_id": "270910",
             "rank": "5-8",
             "player": "Caio Ricci",
-            "winrate": 0.6,
             "commander": [
                 "The Gitrog Monster"
             ],
@@ -573,7 +567,6 @@
             "deck_id": "270911",
             "rank": "5-8",
             "player": "Guilherme \"Demonic Tutor\" Machado",
-            "winrate": 0.6,
             "commander": [
                 "Wydwen, the Biting Gale"
             ],
@@ -669,7 +662,6 @@
             "deck_id": "270912",
             "rank": "3-4",
             "player": "Lucas Viudes",
-            "winrate": 0.8,
             "commander": [
                 "Surrak Dragonclaw"
             ],

@@ -10,7 +10,6 @@
             "deck_id": "479505",
             "rank": "1",
             "player": "Zhang Jiawei",
-            "winrate": 1.0,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "479506",
             "rank": "2",
             "player": "He Ying",
-            "winrate": 0.8,
             "commander": [
                 "Golos, Tireless Pilgrim"
             ],

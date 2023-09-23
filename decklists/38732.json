@@ -10,7 +10,6 @@
             "deck_id": "489090",
             "rank": "1",
             "player": "James Petznick",
-            "winrate": 0.8888888888888888,
             "commander": [
                 "Acererak the Archlich"
             ],
@@ -85,7 +84,6 @@
             "deck_id": "489091",
             "rank": "2",
             "player": "Martin Gramatzki",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Tivit, Seller of Secrets"
             ],
@@ -195,7 +193,6 @@
             "deck_id": "489092",
             "rank": "3-4",
             "player": "Thibaut Huss",
-            "winrate": 0.75,
             "commander": [
                 "Immard, the Stormcleaver"
             ],
@@ -302,7 +299,6 @@
             "deck_id": "489093",
             "rank": "3-4",
             "player": "Ales Buben",
-            "winrate": 0.75,
             "commander": [
                 "Prossh, Skyraider of Kher"
             ],
@@ -412,7 +408,6 @@
             "deck_id": "489094",
             "rank": "5-8",
             "player": "Thomas Stier",
-            "winrate": 0.75,
             "commander": [
                 "Soul of Windgrace"
             ],
@@ -522,7 +517,6 @@
             "deck_id": "489095",
             "rank": "5-8",
             "player": "Ronald Lehmann",
-            "winrate": 0.75,
             "commander": [
                 "Karlov of the Ghost Council"
             ],
@@ -631,7 +625,6 @@
             "deck_id": "489096",
             "rank": "5-8",
             "player": "Christopher \"venice\" Wilhelm",
-            "winrate": 0.75,
             "commander": [
                 "Kinnan, Bonder Prodigy"
             ],
@@ -733,7 +726,6 @@
             "deck_id": "489097",
             "rank": "5-8",
             "player": "Stefan Czolk",
-            "winrate": 0.75,
             "commander": [
                 "Kinnan, Bonder Prodigy"
             ],

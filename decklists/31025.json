@@ -10,7 +10,6 @@
             "deck_id": "441413",
             "rank": "1",
             "player": "Vojta Kotek",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Grenzo, Dungeon Warden"
             ],
@@ -105,7 +104,6 @@
             "deck_id": "441414",
             "rank": "2",
             "player": "Jan tefan",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Grenzo, Dungeon Warden"
             ],
@@ -203,7 +201,6 @@
             "deck_id": "441415",
             "rank": "3-4",
             "player": "Honza Jílek",
-            "winrate": 0.625,
             "commander": [
                 "Tevesh Szat, Doom of Fools",
                 "Gilanra, Caller of Wirewood"
@@ -313,7 +310,6 @@
             "deck_id": "441416",
             "rank": "3-4",
             "player": "Jakub Hromek",
-            "winrate": 0.625,
             "commander": [
                 "Yawgmoth, Thran Physician"
             ],
@@ -394,7 +390,6 @@
             "deck_id": "441417",
             "rank": "5-8",
             "player": "David Stepanek",
-            "winrate": 0.625,
             "commander": [
                 "Leovold, Emissary of Trest"
             ],
@@ -504,7 +499,6 @@
             "deck_id": "441418",
             "rank": "5-8",
             "player": "Martin Vlnas",
-            "winrate": 0.625,
             "commander": [
                 "Armix, Filigree Thrasher",
                 "Tevesh Szat, Doom of Fools"
@@ -584,7 +578,6 @@
             "deck_id": "441419",
             "rank": "5-8",
             "player": "Vojtech Benes",
-            "winrate": 0.625,
             "commander": [
                 "Venser, Shaper Savant"
             ],
@@ -659,7 +652,6 @@
             "deck_id": "441420",
             "rank": "5-8",
             "player": "Jakub Lelek",
-            "winrate": 0.625,
             "commander": [
                 "Kinnan, Bonder Prodigy"
             ],

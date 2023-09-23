@@ -10,7 +10,6 @@
             "deck_id": "543895",
             "rank": "1",
             "player": "Rai Reyes",
-            "winrate": 1.0,
             "commander": [
                 "Tana, the Bloodsower",
                 "Yoshimaru, Ever Faithful"
@@ -119,7 +118,6 @@
             "deck_id": "543896",
             "rank": "2",
             "player": "Mel Bonoan",
-            "winrate": 0.8,
             "commander": [
                 "The Beamtown Bullies"
             ],
@@ -229,7 +227,6 @@
             "deck_id": "543897",
             "rank": "3",
             "player": "Anthony Villegas",
-            "winrate": 0.6,
             "commander": [
                 "Saskia the Unyielding"
             ],
@@ -339,7 +336,6 @@
             "deck_id": "543898",
             "rank": "4",
             "player": "Van Acordon",
-            "winrate": 0.6,
             "commander": [
                 "Aragorn, King of Gondor"
             ],

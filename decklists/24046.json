@@ -10,7 +10,6 @@
             "deck_id": "367748",
             "rank": "1",
             "player": "Earl Castel",
-            "winrate": 1.0,
             "commander": [
                 "Tymna the Weaver",
                 "Kraum, Ludevic's Opus"
@@ -120,7 +119,6 @@
             "deck_id": "367749",
             "rank": "2",
             "player": "Louie Siongco",
-            "winrate": 0.8,
             "commander": [
                 "Zur the Enchanter"
             ],

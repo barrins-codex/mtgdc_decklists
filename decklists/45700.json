@@ -10,7 +10,6 @@
             "deck_id": "537688",
             "rank": "1",
             "player": "Tony Perry",
-            "winrate": 0.875,
             "commander": [
                 "Tivit, Seller of Secrets"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "537689",
             "rank": "2",
             "player": "Zeke Weiss",
-            "winrate": 0.75,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -230,7 +228,6 @@
             "deck_id": "537690",
             "rank": "3-4",
             "player": "Spencer Herndon",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Grist, the Hunger Tide"
             ],
@@ -332,7 +329,6 @@
             "deck_id": "537691",
             "rank": "3-4",
             "player": "Josh Seylar",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Soul of Windgrace"
             ],
@@ -439,7 +435,6 @@
             "deck_id": "537692",
             "rank": "5-8",
             "player": "Brenden Fulton",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Zimone and Dina"
             ],
@@ -549,7 +544,6 @@
             "deck_id": "537693",
             "rank": "5-8",
             "player": "Chris Kreitzman",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Venser, Corpse Puppet"
             ],
@@ -659,7 +653,6 @@
             "deck_id": "537694",
             "rank": "5-8",
             "player": "Philip Weidig",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -769,7 +762,6 @@
             "deck_id": "537695",
             "rank": "5-8",
             "player": "Ian Grimshaw",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Tatsunari, Toad Rider"
             ],

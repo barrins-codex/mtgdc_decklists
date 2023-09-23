@@ -10,7 +10,6 @@
             "deck_id": "463431",
             "rank": "1",
             "player": "Matheusmrs",
-            "winrate": 1.0,
             "commander": [
                 "Klothys, God of Destiny"
             ],
@@ -112,7 +111,6 @@
             "deck_id": "463432",
             "rank": "2",
             "player": "Well",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Dennick, Pious Apprentice"
             ],
@@ -212,7 +210,6 @@
             "deck_id": "463433",
             "rank": "3",
             "player": "Renan Da Massa",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Tymna the Weaver",
                 "Jeska, Thrice Reborn"

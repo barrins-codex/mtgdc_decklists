@@ -10,7 +10,6 @@
             "deck_id": "478297",
             "rank": "1",
             "player": "Vaclav Hrdlicka",
-            "winrate": 1.0,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "478298",
             "rank": "2",
             "player": "Martin Vlnas",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Juri, Master of the Revue"
             ],

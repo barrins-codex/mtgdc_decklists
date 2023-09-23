@@ -10,7 +10,6 @@
             "deck_id": "521973",
             "rank": "1",
             "player": "Julien Joie",
-            "winrate": 0.8888888888888888,
             "commander": [
                 "Atraxa, Grand Unifier"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "521974",
             "rank": "2",
             "player": "Malou Musset",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Tana, the Bloodsower",
                 "Yoshimaru, Ever Faithful"
@@ -229,7 +227,6 @@
             "deck_id": "521975",
             "rank": "3-4",
             "player": "Paul Ridoux",
-            "winrate": 0.75,
             "commander": [
                 "Prossh, Skyraider of Kher"
             ],
@@ -339,7 +336,6 @@
             "deck_id": "521976",
             "rank": "3-4",
             "player": "Kilian Zunino-boulhaïs",
-            "winrate": 0.75,
             "commander": [
                 "Tana, the Bloodsower",
                 "Yoshimaru, Ever Faithful"
@@ -449,7 +445,6 @@
             "deck_id": "521977",
             "rank": "5-8",
             "player": "Gael Huber",
-            "winrate": 0.75,
             "commander": [
                 "Yoshimaru, Ever Faithful",
                 "Tana, the Bloodsower"
@@ -558,7 +553,6 @@
             "deck_id": "521978",
             "rank": "5-8",
             "player": "Damien Garcia",
-            "winrate": 0.75,
             "commander": [
                 "Tivit, Seller of Secrets"
             ],
@@ -668,7 +662,6 @@
             "deck_id": "521979",
             "rank": "5-8",
             "player": "Ambroise Berthe",
-            "winrate": 0.75,
             "commander": [
                 "Feldon, Ronom Excavator"
             ],
@@ -754,7 +747,6 @@
             "deck_id": "521980",
             "rank": "5-8",
             "player": "Julien \"night\" Caillaux",
-            "winrate": 0.75,
             "commander": [
                 "Hogaak, Arisen Necropolis"
             ],

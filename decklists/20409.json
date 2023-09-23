@@ -10,7 +10,6 @@
             "deck_id": "333668",
             "rank": "3-4",
             "player": "Thomas Brunier",
-            "winrate": 0.8,
             "commander": [
                 "Nicol Bolas, the Ravager"
             ],
@@ -118,7 +117,6 @@
             "deck_id": "333669",
             "rank": "1",
             "player": "Justo Chacon",
-            "winrate": 1.0,
             "commander": [
                 "Venser, Shaper Savant"
             ],
@@ -212,7 +210,6 @@
             "deck_id": "333670",
             "rank": "2",
             "player": "Bastien Guichard",
-            "winrate": 0.8,
             "commander": [
                 "Isamaru, Hound of Konda"
             ],
@@ -289,7 +286,6 @@
             "deck_id": "333671",
             "rank": "3-4",
             "player": "Yann Torillec",
-            "winrate": 0.8,
             "commander": [
                 "Thrasios, Triton Hero",
                 "Kraum, Ludevic's Opus"

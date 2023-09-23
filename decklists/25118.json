@@ -10,7 +10,6 @@
             "deck_id": "376413",
             "rank": "2",
             "player": "Jesus Extra Turn",
-            "winrate": 0.8,
             "commander": [
                 "Will Kenrith"
             ],
@@ -89,7 +88,6 @@
             "deck_id": "376414",
             "rank": "1",
             "player": "Zankou",
-            "winrate": 1.0,
             "commander": [
                 "Thrasios, Triton Hero",
                 "Akiri, Line-Slinger"

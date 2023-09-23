@@ -10,7 +10,6 @@
             "deck_id": "447813",
             "rank": "1",
             "player": "Youri",
-            "winrate": 1.0,
             "commander": [
                 "Godo, Bandit Warlord"
             ],
@@ -96,7 +95,6 @@
             "deck_id": "447814",
             "rank": "2",
             "player": "Octave Belaudre",
-            "winrate": 0.8,
             "commander": [
                 "Asmoranomardicadaistinaculdacar"
             ],

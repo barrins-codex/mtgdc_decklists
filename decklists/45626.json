@@ -10,7 +10,6 @@
             "deck_id": "537088",
             "rank": "4",
             "player": "Yunchao,tu",
-            "winrate": 0.6,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "537089",
             "rank": "4",
             "player": "Jingting,wu",
-            "winrate": 0.6,
             "commander": [
                 "Aragorn, King of Gondor"
             ],
@@ -226,7 +224,6 @@
             "deck_id": "537090",
             "rank": "4",
             "player": "Zhe,tang",
-            "winrate": 0.6,
             "commander": [
                 "Grist, the Hunger Tide"
             ],
@@ -328,7 +325,6 @@
             "deck_id": "537091",
             "rank": "4",
             "player": "Atraxa, Grand Unifier",
-            "winrate": 0.6,
             "commander": [
                 "Atraxa, Grand Unifier"
             ],
@@ -438,7 +434,6 @@
             "deck_id": "537092",
             "rank": "5-8",
             "player": "Qingyang,ye",
-            "winrate": 0.6,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -548,7 +543,6 @@
             "deck_id": "537093",
             "rank": "5-8",
             "player": "Ziye,chen",
-            "winrate": 0.6,
             "commander": [
                 "Aragorn, King of Gondor"
             ],
@@ -655,7 +649,6 @@
             "deck_id": "537094",
             "rank": "5-8",
             "player": "Moyan,bian",
-            "winrate": 0.6,
             "commander": [
                 "Rona, Herald of Invasion"
             ],
@@ -764,7 +757,6 @@
             "deck_id": "537095",
             "rank": "5-8",
             "player": "Dongqi,li",
-            "winrate": 0.6,
             "commander": [
                 "Leovold, Emissary of Trest"
             ],

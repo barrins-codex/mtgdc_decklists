@@ -10,7 +10,6 @@
             "deck_id": "507778",
             "rank": "1",
             "player": "Jinlin Yang",
-            "winrate": 1.0,
             "commander": [
                 "Migloz, Maze Crusher"
             ],
@@ -110,7 +109,6 @@
             "deck_id": "507779",
             "rank": "2",
             "player": "Yixuan Gao",
-            "winrate": 0.8,
             "commander": [
                 "Esika, God of the Tree"
             ],
@@ -220,7 +218,6 @@
             "deck_id": "507780",
             "rank": "3",
             "player": "Yiming Yang",
-            "winrate": 0.8,
             "commander": [
                 "General Ferrous Rokiric"
             ],
@@ -315,7 +312,6 @@
             "deck_id": "507781",
             "rank": "4",
             "player": "Yufeng Wang",
-            "winrate": 0.8,
             "commander": [
                 "Tivit, Seller of Secrets"
             ],

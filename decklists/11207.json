@@ -10,7 +10,6 @@
             "deck_id": "263669",
             "rank": "1",
             "player": "Florian Trotte",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Maelstrom Wanderer"
             ],
@@ -114,7 +113,6 @@
             "deck_id": "263670",
             "rank": "3-4",
             "player": "Zedruu Boy",
-            "winrate": 0.625,
             "commander": [
                 "Narset, Enlightened Master"
             ],
@@ -217,7 +215,6 @@
             "deck_id": "263671",
             "rank": "3-4",
             "player": "Jeremy Dulac",
-            "winrate": 0.625,
             "commander": [
                 "Keranos, God of Storms"
             ],
@@ -302,7 +299,6 @@
             "deck_id": "263672",
             "rank": "2",
             "player": "Pierre Almaraz",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Geist of Saint Traft"
             ],

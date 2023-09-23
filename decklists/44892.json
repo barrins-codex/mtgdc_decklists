@@ -10,7 +10,6 @@
             "deck_id": "531426",
             "rank": "1",
             "player": "Diego Chu",
-            "winrate": 1.0,
             "commander": [
                 "Light-Paws, Emperor's Voice"
             ],
@@ -97,7 +96,6 @@
             "deck_id": "531427",
             "rank": "2",
             "player": "Axel Carbajal",
-            "winrate": 0.8,
             "commander": [
                 "Klothys, God of Destiny"
             ],
@@ -203,7 +201,6 @@
             "deck_id": "531428",
             "rank": "3-4",
             "player": "Fernando Mera",
-            "winrate": 0.6,
             "commander": [
                 "Tivit, Seller of Secrets"
             ],
@@ -313,7 +310,6 @@
             "deck_id": "531429",
             "rank": "3-4",
             "player": "Javier Cruz",
-            "winrate": 0.6,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],

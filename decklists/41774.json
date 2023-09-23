@@ -10,7 +10,6 @@
             "deck_id": "510166",
             "rank": "1",
             "player": "Jean \"timtim\"",
-            "winrate": 1.0,
             "commander": [
                 "Grist, the Hunger Tide"
             ],
@@ -108,7 +107,6 @@
             "deck_id": "510167",
             "rank": "2",
             "player": "Luiz \"nerso\"",
-            "winrate": 0.8,
             "commander": [
                 "Grist, the Hunger Tide"
             ],
@@ -211,7 +209,6 @@
             "deck_id": "510168",
             "rank": "3-4",
             "player": "Daniel \"bofo\"",
-            "winrate": 0.8,
             "commander": [
                 "Elminster"
             ],
@@ -315,7 +312,6 @@
             "deck_id": "510169",
             "rank": "3-4",
             "player": "Gabriel Ramadan",
-            "winrate": 0.8,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -404,7 +400,6 @@
             "deck_id": "510170",
             "rank": "5-8",
             "player": "Gustavo Semenzin",
-            "winrate": 0.6,
             "commander": [
                 "Grist, the Hunger Tide"
             ],
@@ -506,7 +501,6 @@
             "deck_id": "510171",
             "rank": "5-8",
             "player": "Simas Chabel",
-            "winrate": 0.6,
             "commander": [
                 "Kinnan, Bonder Prodigy"
             ],
@@ -609,7 +603,6 @@
             "deck_id": "510172",
             "rank": "5-8",
             "player": "Vitor \"turko\"",
-            "winrate": 0.6,
             "commander": [
                 "Prossh, Skyraider of Kher"
             ],
@@ -719,7 +712,6 @@
             "deck_id": "510173",
             "rank": "5-8",
             "player": "Luiz Ricardo",
-            "winrate": 0.6,
             "commander": [
                 "Magda, Brazen Outlaw"
             ],

@@ -10,7 +10,6 @@
             "deck_id": "338831",
             "rank": "3-4",
             "player": "Leonid Bogachev",
-            "winrate": 0.6,
             "commander": [
                 "Queen Marchesa"
             ],
@@ -114,7 +113,6 @@
             "deck_id": "338832",
             "rank": "3-4",
             "player": "Vadim Uvarov",
-            "winrate": 0.6,
             "commander": [
                 "Baral, Chief of Compliance"
             ],
@@ -187,7 +185,6 @@
             "deck_id": "338833",
             "rank": "2",
             "player": "Sergey Nepryn",
-            "winrate": 0.8,
             "commander": [
                 "Niv-Mizzet, Parun"
             ],
@@ -275,7 +272,6 @@
             "deck_id": "338834",
             "rank": "1",
             "player": "Vitaly Vasiliev",
-            "winrate": 1.0,
             "commander": [
                 "The Gitrog Monster"
             ],

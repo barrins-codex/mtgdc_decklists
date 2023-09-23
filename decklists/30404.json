@@ -10,7 +10,6 @@
             "deck_id": "437510",
             "rank": "1",
             "player": "Paul Relativo",
-            "winrate": 1.0,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -92,7 +91,6 @@
             "deck_id": "437511",
             "rank": "2",
             "player": "Ste Villaraza",
-            "winrate": 0.8,
             "commander": [
                 "Tevesh Szat, Doom of Fools",
                 "Miara, Thorn of the Glade"

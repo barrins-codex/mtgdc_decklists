@@ -10,7 +10,6 @@
             "deck_id": "428623",
             "rank": "2",
             "player": "Felipe \"raizen\" Dos Santos",
-            "winrate": 0.8,
             "commander": [
                 "Jeska, Thrice Reborn",
                 "Esior, Wardwing Familiar"
@@ -106,7 +105,6 @@
             "deck_id": "428624",
             "rank": "1",
             "player": "Felipe Tavares",
-            "winrate": 1.0,
             "commander": [
                 "Yawgmoth, Thran Physician"
             ],
@@ -194,7 +192,6 @@
             "deck_id": "428625",
             "rank": "3-4",
             "player": "Rafael Barreto",
-            "winrate": 0.6,
             "commander": [
                 "Esior, Wardwing Familiar",
                 "Dargo, the Shipwrecker"
@@ -288,7 +285,6 @@
             "deck_id": "428626",
             "rank": "3-4",
             "player": "Artur Pacheco",
-            "winrate": 0.6,
             "commander": [
                 "Winota, Joiner of Forces"
             ],

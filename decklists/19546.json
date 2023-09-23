@@ -10,7 +10,6 @@
             "deck_id": "325095",
             "rank": "2",
             "player": "Jeppe Risager",
-            "winrate": 0.8,
             "commander": [
                 "Karlov of the Ghost Council"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "325096",
             "rank": "1",
             "player": "Lasse Hansen",
-            "winrate": 1.0,
             "commander": [
                 "Narset, Enlightened Master"
             ],

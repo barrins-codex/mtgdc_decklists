@@ -10,7 +10,6 @@
             "deck_id": "433520",
             "rank": "1",
             "player": "Alton Casanova",
-            "winrate": 1.0,
             "commander": [
                 "Keleth, Sunmane Familiar",
                 "Rograkh, Son of Rohgahh"
@@ -110,7 +109,6 @@
             "deck_id": "433521",
             "rank": "2",
             "player": "Luther Domingo",
-            "winrate": 0.8,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -192,7 +190,6 @@
             "deck_id": "433522",
             "rank": "3",
             "player": "Ryan Simon Payabyab",
-            "winrate": 0.8,
             "commander": [
                 "Leovold, Emissary of Trest"
             ],
@@ -302,7 +299,6 @@
             "deck_id": "433523",
             "rank": "4",
             "player": "Roi Da Boy Dagang",
-            "winrate": 0.6,
             "commander": [
                 "Maelstrom Wanderer"
             ],

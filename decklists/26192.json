@@ -10,7 +10,6 @@
             "deck_id": "398910",
             "rank": "2",
             "player": "Stanislav Hrudka",
-            "winrate": 0.8,
             "commander": [
                 "Rankle, Master of Pranks"
             ],
@@ -94,7 +93,6 @@
             "deck_id": "398911",
             "rank": "1",
             "player": "Lubos Koudelka",
-            "winrate": 1.0,
             "commander": [
                 "Kraum, Ludevic's Opus",
                 "Ludevic, Necro-Alchemist"

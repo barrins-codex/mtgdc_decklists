@@ -10,7 +10,6 @@
             "deck_id": "475944",
             "rank": "1",
             "player": "Thomas C",
-            "winrate": 1.0,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "475945",
             "rank": "2",
             "player": "Pierre-loup J",
-            "winrate": 0.8,
             "commander": [
                 "Rocco, Cabaretti Caterer"
             ],
@@ -227,7 +225,6 @@
             "deck_id": "475946",
             "rank": "3-4",
             "player": "Laurent O",
-            "winrate": 0.6,
             "commander": [
                 "Grist, the Hunger Tide"
             ],

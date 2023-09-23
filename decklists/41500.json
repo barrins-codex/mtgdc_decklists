@@ -10,7 +10,6 @@
             "deck_id": "508372",
             "rank": "1",
             "player": "Yoan Gariston",
-            "winrate": 0.8888888888888888,
             "commander": [
                 "Sai, Master Thopterist"
             ],
@@ -97,7 +96,6 @@
             "deck_id": "508373",
             "rank": "2",
             "player": "Sebastien Genest",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -205,7 +203,6 @@
             "deck_id": "508374",
             "rank": "3-4",
             "player": "Sacha Keitel",
-            "winrate": 0.75,
             "commander": [
                 "Tana, the Bloodsower",
                 "Yoshimaru, Ever Faithful"
@@ -315,7 +312,6 @@
             "deck_id": "508375",
             "rank": "3-4",
             "player": "Alexandre Martial",
-            "winrate": 0.75,
             "commander": [
                 "Old Rutstein"
             ],
@@ -417,7 +413,6 @@
             "deck_id": "508376",
             "rank": "5-8",
             "player": "Matthieu Mizac",
-            "winrate": 0.75,
             "commander": [
                 "Ghyrson Starn, Kelermorph"
             ],
@@ -517,7 +512,6 @@
             "deck_id": "508377",
             "rank": "5-8",
             "player": "Florian Trotte",
-            "winrate": 0.75,
             "commander": [
                 "Golos, Tireless Pilgrim"
             ],
@@ -627,7 +621,6 @@
             "deck_id": "508378",
             "rank": "5-8",
             "player": "Guillaume Ollier",
-            "winrate": 0.75,
             "commander": [
                 "Bruse Tarl, Boorish Herder",
                 "Yoshimaru, Ever Faithful"
@@ -729,7 +722,6 @@
             "deck_id": "508379",
             "rank": "5-8",
             "player": "Jean-loup Michel",
-            "winrate": 0.75,
             "commander": [
                 "Niv-Mizzet Reborn"
             ],

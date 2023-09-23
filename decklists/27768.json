@@ -10,7 +10,6 @@
             "deck_id": "420396",
             "rank": "1",
             "player": "Jason Lam",
-            "winrate": 1.0,
             "commander": [
                 "Winota, Joiner of Forces"
             ],
@@ -108,7 +107,6 @@
             "deck_id": "420397",
             "rank": "2",
             "player": "Chung Tang",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Uro, Titan of Nature's Wrath"
             ],

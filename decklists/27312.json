@@ -10,7 +10,6 @@
             "deck_id": "416331",
             "rank": "2",
             "player": "Cheng Ting Hin",
-            "winrate": 0.8,
             "commander": [
                 "Leovold, Emissary of Trest"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "416332",
             "rank": "1",
             "player": "Lee Wing Tat",
-            "winrate": 1.0,
             "commander": [
                 "Kytheon, Hero of Akros"
             ],
@@ -206,7 +204,6 @@
             "deck_id": "416333",
             "rank": "3-4",
             "player": "Jack Ho",
-            "winrate": 0.6,
             "commander": [
                 "Will Kenrith",
                 "Rowan Kenrith"
@@ -301,7 +298,6 @@
             "deck_id": "416334",
             "rank": "3-4",
             "player": "Jason Lam",
-            "winrate": 0.6,
             "commander": [
                 "Winota, Joiner of Forces"
             ],

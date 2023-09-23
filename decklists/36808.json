@@ -10,7 +10,6 @@
             "deck_id": "476693",
             "rank": "1",
             "player": "Jonas Kretzschmar",
-            "winrate": 1.0,
             "commander": [
                 "Isamaru, Hound of Konda"
             ],
@@ -98,7 +97,6 @@
             "deck_id": "476694",
             "rank": "2",
             "player": "Femi Heartman",
-            "winrate": 0.8,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],

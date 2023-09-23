@@ -10,7 +10,6 @@
             "deck_id": "463612",
             "rank": "1",
             "player": "Edgar Francken",
-            "winrate": 1.0,
             "commander": [
                 "Galazeth Prismari"
             ],
@@ -108,7 +107,6 @@
             "deck_id": "463613",
             "rank": "2",
             "player": "Mathieu Laurent",
-            "winrate": 0.8,
             "commander": [
                 "Kelsien, the Plague"
             ],

@@ -10,7 +10,6 @@
             "deck_id": "416223",
             "rank": "2",
             "player": "Kelig Maze",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Dalakos, Crafter of Wonders"
             ],
@@ -103,7 +102,6 @@
             "deck_id": "416224",
             "rank": "1",
             "player": "Baptiste Viard",
-            "winrate": 1.0,
             "commander": [
                 "Syr Faren, the Hengehammer"
             ],

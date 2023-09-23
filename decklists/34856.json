@@ -10,7 +10,6 @@
             "deck_id": "463810",
             "rank": "1",
             "player": "Duoyan Li",
-            "winrate": 1.0,
             "commander": [
                 "Grist, the Hunger Tide"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "463811",
             "rank": "2",
             "player": "Zhengyu Hou",
-            "winrate": 0.8,
             "commander": [
                 "Adeliz, the Cinder Wind"
             ],
@@ -226,7 +224,6 @@
             "deck_id": "463812",
             "rank": "3-4",
             "player": "Jsd",
-            "winrate": 0.6,
             "commander": [
                 "Hinata, Dawn-Crowned"
             ],
@@ -335,7 +332,6 @@
             "deck_id": "463813",
             "rank": "3-4",
             "player": "Pop",
-            "winrate": 0.6,
             "commander": [
                 "Jegantha, the Wellspring",
                 "The First Sliver"

@@ -10,7 +10,6 @@
             "deck_id": "341202",
             "rank": "2",
             "player": "Jiang Ling",
-            "winrate": 0.8,
             "commander": [
                 "Tymna the Weaver",
                 "Kraum, Ludevic's Opus"
@@ -120,7 +119,6 @@
             "deck_id": "341203",
             "rank": "1",
             "player": "Hu Minzhe",
-            "winrate": 1.0,
             "commander": [
                 "Baral, Chief of Compliance"
             ],

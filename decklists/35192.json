@@ -10,7 +10,6 @@
             "deck_id": "466183",
             "rank": "1",
             "player": "Aliang",
-            "winrate": 1.0,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -100,7 +99,6 @@
             "deck_id": "466184",
             "rank": "2",
             "player": "Rou",
-            "winrate": 0.8,
             "commander": [
                 "The Reality Chip"
             ],
@@ -182,7 +180,6 @@
             "deck_id": "466185",
             "rank": "3-4",
             "player": "Wuyao Lian",
-            "winrate": 0.6,
             "commander": [
                 "Queen Marchesa"
             ],
@@ -289,7 +286,6 @@
             "deck_id": "466186",
             "rank": "3-4",
             "player": "Jiliu",
-            "winrate": 0.6,
             "commander": [
                 "Thrasta, Tempest's Roar"
             ],

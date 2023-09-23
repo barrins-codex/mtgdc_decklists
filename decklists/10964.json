@@ -10,7 +10,6 @@
             "deck_id": "262410",
             "rank": "1",
             "player": "stax",
-            "winrate": 1.0,
             "commander": [
                 "Narset, Enlightened Master"
             ],
@@ -114,7 +113,6 @@
             "deck_id": "262411",
             "rank": "2",
             "player": "stew",
-            "winrate": 0.8,
             "commander": [
                 "The Mimeoplasm"
             ],

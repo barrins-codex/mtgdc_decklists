@@ -10,7 +10,6 @@
             "deck_id": "294468",
             "rank": "4",
             "player": "Dale Madrinan",
-            "winrate": 0.8,
             "commander": [
                 "Zurgo Bellstriker"
             ],
@@ -95,7 +94,6 @@
             "deck_id": "294471",
             "rank": "5",
             "player": "Exequiel Brian Lim",
-            "winrate": 0.6,
             "commander": [
                 "Vendilion Clique"
             ],
@@ -187,7 +185,6 @@
             "deck_id": "294472",
             "rank": "6",
             "player": "Abelardo Nulud",
-            "winrate": 0.6,
             "commander": [
                 "Zurgo Bellstriker"
             ],
@@ -272,7 +269,6 @@
             "deck_id": "294473",
             "rank": "7",
             "player": "Jerome Manduriao",
-            "winrate": 0.6,
             "commander": [
                 "Geist of Saint Traft"
             ],
@@ -372,7 +368,6 @@
             "deck_id": "294474",
             "rank": "8",
             "player": "Mark Engcong",
-            "winrate": 0.6,
             "commander": [
                 "Reyhan, Last of the Abzan",
                 "Bruse Tarl, Boorish Herder"
@@ -479,7 +474,6 @@
             "deck_id": "294475",
             "rank": "1",
             "player": "Mark Edward Lasam",
-            "winrate": 1.0,
             "commander": [
                 "Titania, Protector of Argoth"
             ],
@@ -572,7 +566,6 @@
             "deck_id": "294476",
             "rank": "2",
             "player": "Joseph Edward Fuentes",
-            "winrate": 0.8,
             "commander": [
                 "Kraum, Ludevic's Opus",
                 "Thrasios, Triton Hero"
@@ -680,7 +673,6 @@
             "deck_id": "294477",
             "rank": "3",
             "player": "Joel San Jose, Jr.",
-            "winrate": 0.8,
             "commander": [
                 "Geist of Saint Traft"
             ],

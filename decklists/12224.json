@@ -10,7 +10,6 @@
             "deck_id": "270341",
             "rank": "3-4",
             "player": "D \"Ardo\" LC",
-            "winrate": 0.6,
             "commander": [
                 "Damia, Sage of Stone"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "270342",
             "rank": "2",
             "player": "Anais Lacompte",
-            "winrate": 0.8,
             "commander": [
                 "Marath, Will of the Wild"
             ],
@@ -224,7 +222,6 @@
             "deck_id": "270343",
             "rank": "1",
             "player": "Kevin Guairo",
-            "winrate": 1.0,
             "commander": [
                 "Marath, Will of the Wild"
             ],
@@ -330,7 +327,6 @@
             "deck_id": "270344",
             "rank": "3-4",
             "player": "Marc Demassier",
-            "winrate": 0.6,
             "commander": [
                 "Griselbrand"
             ],

@@ -10,7 +10,6 @@
             "deck_id": "471942",
             "rank": "1",
             "player": "Aurélien Lion",
-            "winrate": 1.0,
             "commander": [
                 "Golos, Tireless Pilgrim"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "471943",
             "rank": "2",
             "player": "Léon Le Loir",
-            "winrate": 0.8,
             "commander": [
                 "Niv-Mizzet Reborn",
                 "Jegantha, the Wellspring"

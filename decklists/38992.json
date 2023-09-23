@@ -10,7 +10,6 @@
             "deck_id": "490759",
             "rank": "1",
             "player": "Pierre-louis Biet",
-            "winrate": 1.0,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "490760",
             "rank": "2",
             "player": "Pierre Almaraz",
-            "winrate": 0.8,
             "commander": [
                 "Dennick, Pious Apprentice"
             ],
@@ -222,7 +220,6 @@
             "deck_id": "490761",
             "rank": "3-4",
             "player": "Sylvain Madrid",
-            "winrate": 0.8,
             "commander": [
                 "Klothys, God of Destiny"
             ],
@@ -325,7 +322,6 @@
             "deck_id": "490762",
             "rank": "3-4",
             "player": "Franck Gauci",
-            "winrate": 0.8,
             "commander": [
                 "Grist, the Hunger Tide"
             ],

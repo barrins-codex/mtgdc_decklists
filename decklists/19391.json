@@ -10,7 +10,6 @@
             "deck_id": "323535",
             "rank": "2",
             "player": "Nilo Moran",
-            "winrate": 0.8,
             "commander": [
                 "Nissa, Vastwood Seer"
             ],
@@ -106,7 +105,6 @@
             "deck_id": "323536",
             "rank": "1",
             "player": "Francis Tabangcura",
-            "winrate": 1.0,
             "commander": [
                 "Titania, Protector of Argoth"
             ],

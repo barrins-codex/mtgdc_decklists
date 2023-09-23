@@ -10,7 +10,6 @@
             "deck_id": "452907",
             "rank": "1",
             "player": "Rovi Casado",
-            "winrate": 1.0,
             "commander": [
                 "Sai, Master Thopterist"
             ],
@@ -98,7 +97,6 @@
             "deck_id": "452908",
             "rank": "2",
             "player": "Rai Reyes",
-            "winrate": 0.8,
             "commander": [
                 "Isamaru, Hound of Konda"
             ],
@@ -187,7 +185,6 @@
             "deck_id": "452909",
             "rank": "3-4",
             "player": "Juan Antonio Agoncillo",
-            "winrate": 0.6,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -277,7 +274,6 @@
             "deck_id": "452910",
             "rank": "3-4",
             "player": "Jeremias Garganera",
-            "winrate": 0.6,
             "commander": [
                 "Miara, Thorn of the Glade",
                 "Tevesh Szat, Doom of Fools"

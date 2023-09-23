@@ -10,7 +10,6 @@
             "deck_id": "539913",
             "rank": "1",
             "player": "Dawei,gu",
-            "winrate": 1.0,
             "commander": [
                 "Wilson, Refined Grizzly",
                 "Sword Coast Sailor"
@@ -118,7 +117,6 @@
             "deck_id": "539914",
             "rank": "2",
             "player": "Jiawei,chen",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Aragorn, King of Gondor"
             ],

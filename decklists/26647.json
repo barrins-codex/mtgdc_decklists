@@ -10,7 +10,6 @@
             "deck_id": "405999",
             "rank": "2",
             "player": "Jingyi Pan",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Kraum, Ludevic's Opus",
                 "Thrasios, Triton Hero"
@@ -108,7 +107,6 @@
             "deck_id": "406000",
             "rank": "1",
             "player": "Jsd",
-            "winrate": 1.0,
             "commander": [
                 "Winota, Joiner of Forces"
             ],

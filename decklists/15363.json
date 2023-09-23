@@ -10,7 +10,6 @@
             "deck_id": "293426",
             "rank": "2",
             "player": "Gui Tavares",
-            "winrate": 0.8,
             "commander": [
                 "Zurgo Bellstriker"
             ],
@@ -88,7 +87,6 @@
             "deck_id": "293427",
             "rank": "1",
             "player": "Brunno Portela",
-            "winrate": 1.0,
             "commander": [
                 "Leovold, Emissary of Trest"
             ],

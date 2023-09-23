@@ -10,7 +10,6 @@
             "deck_id": "478757",
             "rank": "1",
             "player": "Michael Cabrera",
-            "winrate": 1.0,
             "commander": [
                 "Light-Paws, Emperor's Voice"
             ],
@@ -96,7 +95,6 @@
             "deck_id": "478758",
             "rank": "2",
             "player": "Calvin Razon",
-            "winrate": 0.8,
             "commander": [
                 "Kroxa, Titan of Death's Hunger"
             ],
@@ -195,7 +193,6 @@
             "deck_id": "478759",
             "rank": "3-4",
             "player": "Rusty Capricho",
-            "winrate": 0.8,
             "commander": [
                 "The Gitrog Monster"
             ],
@@ -295,7 +292,6 @@
             "deck_id": "478760",
             "rank": "3-4",
             "player": "Paul Relativo",
-            "winrate": 0.8,
             "commander": [
                 "Niv-Mizzet Reborn"
             ],
@@ -405,7 +401,6 @@
             "deck_id": "478761",
             "rank": "5-8",
             "player": "Cilbert Corpuz",
-            "winrate": 0.6,
             "commander": [
                 "Rem Karolus, Stalwart Slayer"
             ],
@@ -513,7 +508,6 @@
             "deck_id": "478762",
             "rank": "5-8",
             "player": "Mark Lasam",
-            "winrate": 0.6,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -622,7 +616,6 @@
             "deck_id": "478763",
             "rank": "5-8",
             "player": "Rexel Tenorio",
-            "winrate": 0.6,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -732,7 +725,6 @@
             "deck_id": "478764",
             "rank": "5-8",
             "player": "Jarbs Sahagun",
-            "winrate": 0.6,
             "commander": [
                 "Tivit, Seller of Secrets"
             ],

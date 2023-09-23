@@ -10,7 +10,6 @@
             "deck_id": "358166",
             "rank": "1",
             "player": "Damien Hautieux",
-            "winrate": 1.0,
             "commander": [
                 "Edric, Spymaster of Trest"
             ],
@@ -101,7 +100,6 @@
             "deck_id": "358167",
             "rank": "2",
             "player": "David « ardo » Lecorvec",
-            "winrate": 0.8,
             "commander": [
                 "Animar, Soul of Elements"
             ],
@@ -205,7 +203,6 @@
             "deck_id": "358168",
             "rank": "3-4",
             "player": "Franck D.",
-            "winrate": 0.8,
             "commander": [
                 "Ghired, Conclave Exile"
             ],
@@ -311,7 +308,6 @@
             "deck_id": "358169",
             "rank": "3-4",
             "player": "Arnaud Mercier",
-            "winrate": 0.8,
             "commander": [
                 "The Scorpion God"
             ],

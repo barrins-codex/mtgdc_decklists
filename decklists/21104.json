@@ -10,7 +10,6 @@
             "deck_id": "340446",
             "rank": "5-8",
             "player": "Mesheriakov Maxim",
-            "winrate": 0.75,
             "commander": [
                 "Brago, King Eternal"
             ],
@@ -105,7 +104,6 @@
             "deck_id": "340447",
             "rank": "5-8",
             "player": "Uvarov Vadim",
-            "winrate": 0.75,
             "commander": [
                 "Baral, Chief of Compliance"
             ],
@@ -178,7 +176,6 @@
             "deck_id": "340448",
             "rank": "5-8",
             "player": "Vedenin Roman",
-            "winrate": 0.75,
             "commander": [
                 "Titania, Protector of Argoth"
             ],
@@ -269,7 +266,6 @@
             "deck_id": "340449",
             "rank": "5-8",
             "player": "Denis Kolesnikov",
-            "winrate": 0.75,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -351,7 +347,6 @@
             "deck_id": "340450",
             "rank": "3-4",
             "player": "Dmitriy \"degal\" Tretyakov",
-            "winrate": 0.75,
             "commander": [
                 "Yuriko, the Tiger's Shadow"
             ],
@@ -447,7 +442,6 @@
             "deck_id": "340451",
             "rank": "3-4",
             "player": "Valentin Antonov",
-            "winrate": 0.75,
             "commander": [
                 "Saskia the Unyielding"
             ],
@@ -557,7 +551,6 @@
             "deck_id": "340452",
             "rank": "2",
             "player": "Mikhail Protasov",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -667,7 +660,6 @@
             "deck_id": "340453",
             "rank": "1",
             "player": "Sergey \"loxmatii\" Lamzin",
-            "winrate": 0.8888888888888888,
             "commander": [
                 "Prime Speaker Vannifar"
             ],

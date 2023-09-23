@@ -10,7 +10,6 @@
             "deck_id": "504202",
             "rank": "1",
             "player": "Thomas Castagna",
-            "winrate": 1.0,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "504203",
             "rank": "2",
             "player": "Derek Samson",
-            "winrate": 0.8,
             "commander": [
                 "Ghyrson Starn, Kelermorph"
             ],
@@ -223,7 +221,6 @@
             "deck_id": "504204",
             "rank": "3",
             "player": "Will",
-            "winrate": 0.6,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -333,7 +330,6 @@
             "deck_id": "504205",
             "rank": "4",
             "player": "Fabian Barré",
-            "winrate": 0.6,
             "commander": [
                 "Thrasta, Tempest's Roar"
             ],

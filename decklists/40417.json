@@ -10,7 +10,6 @@
             "deck_id": "500718",
             "rank": "1",
             "player": "Daniel Duarte",
-            "winrate": 1.0,
             "commander": [
                 "Agent of the Shadow Thieves",
                 "Gut, True Soul Zealot"
@@ -95,7 +94,6 @@
             "deck_id": "500719",
             "rank": "2",
             "player": "Gabriel Ruffino",
-            "winrate": 0.8,
             "commander": [
                 "Karlov of the Ghost Council",
                 "Lurrus of the Dream-Den"
@@ -189,7 +187,6 @@
             "deck_id": "500720",
             "rank": "3-4",
             "player": "Caio Lopes",
-            "winrate": 0.6,
             "commander": [
                 "Soul of Windgrace"
             ],
@@ -284,7 +281,6 @@
             "deck_id": "500721",
             "rank": "3-4",
             "player": "Kauan Pessanha",
-            "winrate": 0.6,
             "commander": [
                 "Karlov of the Ghost Council"
             ],

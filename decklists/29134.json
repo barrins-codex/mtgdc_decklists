@@ -10,7 +10,6 @@
             "deck_id": "429429",
             "rank": "1",
             "player": "Reuben Ferrer",
-            "winrate": 1.0,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "429430",
             "rank": "2",
             "player": "Ezra Mendiola",
-            "winrate": 0.8,
             "commander": [
                 "Keleth, Sunmane Familiar",
                 "Rograkh, Son of Rohgahh"
@@ -219,7 +217,6 @@
             "deck_id": "429431",
             "rank": "3-4",
             "player": "Nelvine Tuano",
-            "winrate": 0.6,
             "commander": [
                 "Narset, Enlightened Master"
             ],
@@ -324,7 +321,6 @@
             "deck_id": "429432",
             "rank": "3-4",
             "player": "Cy Madamba",
-            "winrate": 0.6,
             "commander": [
                 "Leovold, Emissary of Trest"
             ],

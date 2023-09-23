@@ -10,7 +10,6 @@
             "deck_id": "465344",
             "rank": "2",
             "player": "Raphael Lesieur",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Shorikai, Genesis Engine"
             ],
@@ -112,7 +111,6 @@
             "deck_id": "465345",
             "rank": "2",
             "player": "Thomas Mechin",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Shorikai, Genesis Engine"
             ],
@@ -213,7 +211,6 @@
             "deck_id": "465346",
             "rank": "3-4",
             "player": "Marc Envent",
-            "winrate": 0.625,
             "commander": [
                 "Adeliz, the Cinder Wind"
             ],
@@ -311,7 +308,6 @@
             "deck_id": "465347",
             "rank": "3-4",
             "player": "Yacine Team Bédofroi",
-            "winrate": 0.625,
             "commander": [
                 "Sythis, Harvest's Hand"
             ],
@@ -415,7 +411,6 @@
             "deck_id": "465348",
             "rank": "5-8",
             "player": "Cuvelier Jeremy",
-            "winrate": 0.625,
             "commander": [
                 "Grist, the Hunger Tide"
             ],
@@ -515,7 +510,6 @@
             "deck_id": "465349",
             "rank": "5-8",
             "player": "Valentin Orange",
-            "winrate": 0.625,
             "commander": [
                 "Grist, the Hunger Tide"
             ],
@@ -617,7 +611,6 @@
             "deck_id": "465350",
             "rank": "5-8",
             "player": "Marin Boulangé",
-            "winrate": 0.625,
             "commander": [
                 "Sai, Master Thopterist"
             ],
@@ -706,7 +699,6 @@
             "deck_id": "465351",
             "rank": "5-8",
             "player": "Yann Belmer",
-            "winrate": 0.625,
             "commander": [
                 "Grist, the Hunger Tide"
             ],

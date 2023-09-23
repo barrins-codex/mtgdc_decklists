@@ -10,7 +10,6 @@
             "deck_id": "459814",
             "rank": "1",
             "player": "Adrien Gau",
-            "winrate": 1.0,
             "commander": [
                 "Atraxa, Praetors' Voice"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "459815",
             "rank": "2",
             "player": "Julie",
-            "winrate": 0.8,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -201,7 +199,6 @@
             "deck_id": "459816",
             "rank": "3-4",
             "player": "Thomas",
-            "winrate": 0.8,
             "commander": [
                 "Kroxa, Titan of Death's Hunger"
             ],
@@ -302,7 +299,6 @@
             "deck_id": "459817",
             "rank": "3-4",
             "player": "Fabien",
-            "winrate": 0.8,
             "commander": [
                 "Galazeth Prismari"
             ],

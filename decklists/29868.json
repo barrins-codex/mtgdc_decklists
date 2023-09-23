@@ -10,7 +10,6 @@
             "deck_id": "434251",
             "rank": "1",
             "player": "Siu Kei Kung",
-            "winrate": 1.0,
             "commander": [
                 "Niv-Mizzet Reborn"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "434252",
             "rank": "2",
             "player": "Armando Lo",
-            "winrate": 0.8,
             "commander": [
                 "Keleth, Sunmane Familiar",
                 "Rograkh, Son of Rohgahh"
@@ -227,7 +225,6 @@
             "deck_id": "434253",
             "rank": "3-4",
             "player": "Jack Ho",
-            "winrate": 0.6,
             "commander": [
                 "Esika, God of the Tree"
             ],
@@ -337,7 +334,6 @@
             "deck_id": "434254",
             "rank": "3-4",
             "player": "Jason Lam",
-            "winrate": 0.6,
             "commander": [
                 "Fynn, the Fangbearer"
             ],

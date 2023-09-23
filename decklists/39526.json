@@ -10,7 +10,6 @@
             "deck_id": "494299",
             "rank": "1",
             "player": "Rafael Ozores",
-            "winrate": 1.0,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -94,7 +93,6 @@
             "deck_id": "494300",
             "rank": "2",
             "player": "Felipe \"theraizen\" Santos",
-            "winrate": 0.8,
             "commander": [
                 "Ghyrson Starn, Kelermorph"
             ],
@@ -191,7 +189,6 @@
             "deck_id": "494301",
             "rank": "3",
             "player": "Felipe Tavares",
-            "winrate": 0.6,
             "commander": [
                 "Juri, Master of the Revue"
             ],
@@ -290,7 +287,6 @@
             "deck_id": "494302",
             "rank": "4",
             "player": "Leonardo Maeda",
-            "winrate": 0.6,
             "commander": [
                 "Minsc, Beloved Ranger"
             ],

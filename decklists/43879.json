@@ -10,7 +10,6 @@
             "deck_id": "523850",
             "rank": "1",
             "player": "Léo Carbonell",
-            "winrate": 0.8888888888888888,
             "commander": [
                 "Ertai Resurrected"
             ],
@@ -107,7 +106,6 @@
             "deck_id": "523851",
             "rank": "2",
             "player": "Noham Maubert",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Grist, the Hunger Tide"
             ],
@@ -207,7 +205,6 @@
             "deck_id": "523852",
             "rank": "3-4",
             "player": "Jean-loup Michel",
-            "winrate": 0.75,
             "commander": [
                 "Niv-Mizzet Reborn"
             ],
@@ -317,7 +314,6 @@
             "deck_id": "523853",
             "rank": "3-4",
             "player": "Alexandre Martial",
-            "winrate": 0.75,
             "commander": [
                 "Old Rutstein"
             ],
@@ -415,7 +411,6 @@
             "deck_id": "523854",
             "rank": "5-8",
             "player": "Audren Boulic",
-            "winrate": 0.75,
             "commander": [
                 "Dihada, Binder of Wills"
             ],
@@ -525,7 +520,6 @@
             "deck_id": "523855",
             "rank": "5-8",
             "player": "Boris Ringotte",
-            "winrate": 0.75,
             "commander": [
                 "Balmor, Battlemage Captain"
             ],
@@ -627,7 +621,6 @@
             "deck_id": "523856",
             "rank": "5-8",
             "player": "Swan Rocher",
-            "winrate": 0.75,
             "commander": [
                 "Slimefoot and Squee"
             ],

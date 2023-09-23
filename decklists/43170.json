@@ -10,7 +10,6 @@
             "deck_id": "518966",
             "rank": "1",
             "player": "Laurent Gadchaux",
-            "winrate": 0.875,
             "commander": [
                 "Skrelv, Defector Mite"
             ],
@@ -103,7 +102,6 @@
             "deck_id": "518967",
             "rank": "2",
             "player": "François \"didou\" Maynadier",
-            "winrate": 0.75,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -213,7 +211,6 @@
             "deck_id": "518968",
             "rank": "3-4",
             "player": "Pierre Savignac",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Dihada, Binder of Wills"
             ],
@@ -323,7 +320,6 @@
             "deck_id": "518969",
             "rank": "3-4",
             "player": "Nicolat Calmento",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Grist, the Hunger Tide"
             ],
@@ -421,7 +417,6 @@
             "deck_id": "518970",
             "rank": "5-8",
             "player": "Audren Boulic",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Ertai Resurrected"
             ],
@@ -517,7 +512,6 @@
             "deck_id": "518971",
             "rank": "5-8",
             "player": "Léo Facca",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Atraxa, Grand Unifier"
             ],
@@ -627,7 +621,6 @@
             "deck_id": "518972",
             "rank": "5-8",
             "player": "Virgil Courvalet",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Greasefang, Okiba Boss"
             ],
@@ -732,7 +725,6 @@
             "deck_id": "518973",
             "rank": "5-8",
             "player": "Julien \"la Tielle\" Castela",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Cecily, Haunted Mage",
                 "Wernog, Rider's Chaplain"

@@ -10,7 +10,6 @@
             "deck_id": "281165",
             "rank": "3-4",
             "player": "Pierre Mengin",
-            "winrate": 0.8,
             "commander": [
                 "Karador, Ghost Chieftain"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "281166",
             "rank": "1",
             "player": "Kilian \"IronVixen\" Boulhais",
-            "winrate": 1.0,
             "commander": [
                 "Wydwen, the Biting Gale"
             ],
@@ -214,7 +212,6 @@
             "deck_id": "281167",
             "rank": "3-4",
             "player": "Mario Piedrahita",
-            "winrate": 0.8,
             "commander": [
                 "Karlov of the Ghost Council"
             ],
@@ -305,7 +302,6 @@
             "deck_id": "281168",
             "rank": "1",
             "player": "Guillaume Bahin",
-            "winrate": 1.0,
             "commander": [
                 "The Gitrog Monster"
             ],

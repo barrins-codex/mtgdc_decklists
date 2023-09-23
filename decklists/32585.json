@@ -10,7 +10,6 @@
             "deck_id": "450163",
             "rank": "1",
             "player": "Théau Méry",
-            "winrate": 0.9,
             "commander": [
                 "Isamaru, Hound of Konda"
             ],
@@ -95,7 +94,6 @@
             "deck_id": "450164",
             "rank": "2",
             "player": "Chaplet Poulain Jonathan",
-            "winrate": 0.8,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -182,7 +180,6 @@
             "deck_id": "450165",
             "rank": "3-4",
             "player": "Victor Lavialle",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Esika, God of the Tree"
             ],
@@ -292,7 +289,6 @@
             "deck_id": "450166",
             "rank": "3-4",
             "player": "Ugo Scaramelli",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Malcolm, Keen-Eyed Navigator",
                 "Livio, Oathsworn Sentinel"
@@ -392,7 +388,6 @@
             "deck_id": "450167",
             "rank": "5-8",
             "player": "Théo Moutier",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Sai, Master Thopterist"
             ],
@@ -479,7 +474,6 @@
             "deck_id": "450168",
             "rank": "5-8",
             "player": "Thomas \"yaga\" Brochard",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Octavia, Living Thesis"
             ],
@@ -562,7 +556,6 @@
             "deck_id": "450169",
             "rank": "5-8",
             "player": "Jules Lestienne",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Asmoranomardicadaistinaculdacar"
             ],
@@ -666,7 +659,6 @@
             "deck_id": "450170",
             "rank": "5-8",
             "player": "Louis Guichard",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Asmoranomardicadaistinaculdacar"
             ],
@@ -770,7 +762,6 @@
             "deck_id": "450171",
             "rank": "9-16",
             "player": "Julien Parez",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Asmoranomardicadaistinaculdacar"
             ],
@@ -872,7 +863,6 @@
             "deck_id": "450172",
             "rank": "9-16",
             "player": "Adrien \"soullessoni\" Demoget",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Sythis, Harvest's Hand"
             ],
@@ -980,7 +970,6 @@
             "deck_id": "450173",
             "rank": "9-16",
             "player": "Antoine Furet",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Saskia the Unyielding"
             ],
@@ -1090,7 +1079,6 @@
             "deck_id": "450174",
             "rank": "9-16",
             "player": "Maximilien Kalil",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Sisay, Weatherlight Captain"
             ],
@@ -1200,7 +1188,6 @@
             "deck_id": "450175",
             "rank": "9-16",
             "player": "Antonin Guillomont",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -1310,7 +1297,6 @@
             "deck_id": "450176",
             "rank": "9-16",
             "player": "Lucas Torreani",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Niv-Mizzet Reborn"
             ],
@@ -1420,7 +1406,6 @@
             "deck_id": "450177",
             "rank": "9-16",
             "player": "Andréa Bisson",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Klothys, God of Destiny"
             ],
@@ -1517,7 +1502,6 @@
             "deck_id": "450178",
             "rank": "9-16",
             "player": "Baptiste Touboulic",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "The Gitrog Monster"
             ],

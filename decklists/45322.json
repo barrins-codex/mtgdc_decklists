@@ -10,7 +10,6 @@
             "deck_id": "534804",
             "rank": "1",
             "player": "Lucas Dias",
-            "winrate": 1.0,
             "commander": [
                 "Aragorn, King of Gondor"
             ],
@@ -117,7 +116,6 @@
             "deck_id": "534805",
             "rank": "2",
             "player": "Matheus Domingues",
-            "winrate": 0.8,
             "commander": [
                 "Feldon, Ronom Excavator"
             ],
@@ -201,7 +199,6 @@
             "deck_id": "534806",
             "rank": "3-4",
             "player": "Felipe Santos",
-            "winrate": 0.6,
             "commander": [
                 "Ertai Resurrected"
             ],
@@ -300,7 +297,6 @@
             "deck_id": "534807",
             "rank": "3-4",
             "player": "Julio Beltran",
-            "winrate": 0.6,
             "commander": [
                 "Light-Paws, Emperor's Voice"
             ],

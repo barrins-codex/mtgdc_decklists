@@ -10,7 +10,6 @@
             "deck_id": "511756",
             "rank": "1",
             "player": "Lucas Stadelmann",
-            "winrate": 1.0,
             "commander": [
                 "Feldon, Ronom Excavator"
             ],
@@ -98,7 +97,6 @@
             "deck_id": "511757",
             "rank": "2",
             "player": "Flavovertwerk",
-            "winrate": 0.8,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -181,7 +179,6 @@
             "deck_id": "511758",
             "rank": "3-4",
             "player": "Mathieu \"moltes\" Cunrath",
-            "winrate": 0.8,
             "commander": [
                 "Niv-Mizzet Reborn"
             ],
@@ -291,7 +288,6 @@
             "deck_id": "511759",
             "rank": "3-4",
             "player": "Noxyis",
-            "winrate": 0.8,
             "commander": [
                 "Titania, Protector of Argoth"
             ],

@@ -10,7 +10,6 @@
             "deck_id": "340025",
             "rank": "1",
             "player": "Vojtech Benes",
-            "winrate": 1.0,
             "commander": [
                 "Teferi, Temporal Archmage"
             ],
@@ -84,7 +83,6 @@
             "deck_id": "340026",
             "rank": "4",
             "player": "Jakub Lerl",
-            "winrate": 0.8,
             "commander": [
                 "Tymna the Weaver",
                 "Thrasios, Triton Hero"
@@ -193,7 +191,6 @@
             "deck_id": "340027",
             "rank": "5",
             "player": "Martin Holek",
-            "winrate": 0.6,
             "commander": [
                 "Kess, Dissident Mage"
             ],
@@ -303,7 +300,6 @@
             "deck_id": "340028",
             "rank": "6",
             "player": "Milan Nečas",
-            "winrate": 0.6,
             "commander": [
                 "Arahbo, Roar of the World"
             ],
@@ -391,7 +387,6 @@
             "deck_id": "340029",
             "rank": "7",
             "player": "Ondra Hrubý",
-            "winrate": 0.6,
             "commander": [
                 "Baral, Chief of Compliance"
             ],
@@ -465,7 +460,6 @@
             "deck_id": "340030",
             "rank": "5-8",
             "player": "Andrej Uram",
-            "winrate": 0.6,
             "commander": [
                 "Leovold, Emissary of Trest"
             ],
@@ -569,7 +563,6 @@
             "deck_id": "340031",
             "rank": "3",
             "player": "Martin Vlnas",
-            "winrate": 0.8,
             "commander": [
                 "Najeela, the Blade-Blossom"
             ],
@@ -679,7 +672,6 @@
             "deck_id": "340032",
             "rank": "2",
             "player": "Jakub Sýkora",
-            "winrate": 0.8,
             "commander": [
                 "Kess, Dissident Mage"
             ],

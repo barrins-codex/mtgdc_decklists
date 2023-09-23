@@ -10,7 +10,6 @@
             "deck_id": "476435",
             "rank": "1",
             "player": "Pierre Almaraz",
-            "winrate": 1.0,
             "commander": [
                 "Dennick, Pious Apprentice"
             ],
@@ -110,7 +109,6 @@
             "deck_id": "476436",
             "rank": "2",
             "player": "Kévin Cellier",
-            "winrate": 0.8,
             "commander": [
                 "Light-Paws, Emperor's Voice"
             ],
@@ -199,7 +197,6 @@
             "deck_id": "476437",
             "rank": "3-4",
             "player": "Hugo Youssouf-cauvin",
-            "winrate": 0.6,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -280,7 +277,6 @@
             "deck_id": "476438",
             "rank": "3-4",
             "player": "Loïc Baverel",
-            "winrate": 0.6,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],

@@ -10,7 +10,6 @@
             "deck_id": "540652",
             "rank": "1",
             "player": "Vojtěch Lavička",
-            "winrate": 0.8888888888888888,
             "commander": [
                 "Ertai Resurrected"
             ],
@@ -109,7 +108,6 @@
             "deck_id": "540653",
             "rank": "2",
             "player": "Marek Vardik",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Silas Renn, Seeker Adept",
                 "Rograkh, Son of Rohgahh"
@@ -219,7 +217,6 @@
             "deck_id": "540654",
             "rank": "3-4",
             "player": "Vojtěch Kotek",
-            "winrate": 0.75,
             "commander": [
                 "Grenzo, Dungeon Warden"
             ],
@@ -329,7 +326,6 @@
             "deck_id": "540655",
             "rank": "3-4",
             "player": "Josef Kumstýř",
-            "winrate": 0.75,
             "commander": [
                 "The Beamtown Bullies"
             ],
@@ -439,7 +435,6 @@
             "deck_id": "540656",
             "rank": "5-8",
             "player": "Martin Bořek",
-            "winrate": 0.75,
             "commander": [
                 "Tivit, Seller of Secrets"
             ],
@@ -549,7 +544,6 @@
             "deck_id": "540657",
             "rank": "5-8",
             "player": "Ale Buben",
-            "winrate": 0.75,
             "commander": [
                 "Yoshimaru, Ever Faithful",
                 "Tana, the Bloodsower"
@@ -657,7 +651,6 @@
             "deck_id": "540658",
             "rank": "5-8",
             "player": "Miloslav Ponec",
-            "winrate": 0.75,
             "commander": [
                 "Ardoz, Cobbler of War"
             ],
@@ -743,7 +736,6 @@
             "deck_id": "540659",
             "rank": "5-8",
             "player": "Petr Kolář",
-            "winrate": 0.75,
             "commander": [
                 "Raffine, Scheming Seer"
             ],

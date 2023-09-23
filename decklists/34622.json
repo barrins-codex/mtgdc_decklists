@@ -10,7 +10,6 @@
             "deck_id": "462426",
             "rank": "1",
             "player": "Anthony Ruer",
-            "winrate": 0.875,
             "commander": [
                 "Tevesh Szat, Doom of Fools",
                 "Miara, Thorn of the Glade"
@@ -94,7 +93,6 @@
             "deck_id": "462427",
             "rank": "2",
             "player": "Joffrey Herrier",
-            "winrate": 0.75,
             "commander": [
                 "Malcolm, Keen-Eyed Navigator",
                 "Sidar Kondo of Jamuraa"
@@ -204,7 +202,6 @@
             "deck_id": "462428",
             "rank": "3-4",
             "player": "Fabrice Azzouz",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Jori En, Ruin Diver"
             ],
@@ -299,7 +296,6 @@
             "deck_id": "462429",
             "rank": "3-4",
             "player": "Damien Garcia",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Will Kenrith",
                 "Rowan Kenrith"
@@ -391,7 +387,6 @@
             "deck_id": "462430",
             "rank": "5-8",
             "player": "Pierre Clavieras Mengin",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Esika, God of the Tree"
             ],
@@ -501,7 +496,6 @@
             "deck_id": "462431",
             "rank": "5-8",
             "player": "Léo Facca",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Narset, Enlightened Master"
             ],
@@ -607,7 +601,6 @@
             "deck_id": "462432",
             "rank": "5-8",
             "player": "Alexandre Ballouard",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -717,7 +710,6 @@
             "deck_id": "462433",
             "rank": "5-8",
             "player": "Robin Ollagnier",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],

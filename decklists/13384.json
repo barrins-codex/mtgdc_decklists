@@ -10,7 +10,6 @@
             "deck_id": "278491",
             "rank": "3-4",
             "player": "Carlo Gadaleta",
-            "winrate": 0.6,
             "commander": [
                 "Teferi, Temporal Archmage"
             ],
@@ -93,7 +92,6 @@
             "deck_id": "278492",
             "rank": "3-4",
             "player": "Gianluca Soriano",
-            "winrate": 0.6,
             "commander": [
                 "Maelstrom Wanderer"
             ],
@@ -196,7 +194,6 @@
             "deck_id": "278493",
             "rank": "2",
             "player": "Saverio Palberti",
-            "winrate": 0.8,
             "commander": [
                 "Prossh, Skyraider of Kher"
             ],
@@ -303,7 +300,6 @@
             "deck_id": "278494",
             "rank": "1",
             "player": "Floriano Maria Mangelli",
-            "winrate": 1.0,
             "commander": [
                 "Daretti, Scrap Savant"
             ],

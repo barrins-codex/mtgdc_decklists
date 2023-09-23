@@ -10,7 +10,6 @@
             "deck_id": "463024",
             "rank": "1",
             "player": "Max L.",
-            "winrate": 0.875,
             "commander": [
                 "Kelsien, the Plague"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "463025",
             "rank": "2",
             "player": "Jérémy C.",
-            "winrate": 0.75,
             "commander": [
                 "Grist, the Hunger Tide"
             ],
@@ -220,7 +218,6 @@
             "deck_id": "463026",
             "rank": "3-4",
             "player": "Raphael L.",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Kess, Dissident Mage"
             ],
@@ -330,7 +327,6 @@
             "deck_id": "463027",
             "rank": "3-4",
             "player": "Guillaume M.",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Animar, Soul of Elements"
             ],

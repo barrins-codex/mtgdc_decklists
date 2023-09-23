@@ -10,7 +10,6 @@
             "deck_id": "455909",
             "rank": "1",
             "player": "Adrien gau",
-            "winrate": 1.0,
             "commander": [
                 "Kess, Dissident Mage"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "455910",
             "rank": "2",
             "player": "Julie",
-            "winrate": 0.8,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -201,7 +199,6 @@
             "deck_id": "455911",
             "rank": "3-4",
             "player": "Fred",
-            "winrate": 0.8,
             "commander": [
                 "Saskia the Unyielding"
             ],
@@ -311,7 +308,6 @@
             "deck_id": "455912",
             "rank": "3-4",
             "player": "Anonymous",
-            "winrate": 0.8,
             "commander": [
                 "Grist, the Hunger Tide"
             ],

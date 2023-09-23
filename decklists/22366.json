@@ -10,7 +10,6 @@
             "deck_id": "351803",
             "rank": "3",
             "player": "Danziir",
-            "winrate": 0.6,
             "commander": [
                 "Lord Windgrace"
             ],
@@ -114,7 +113,6 @@
             "deck_id": "351804",
             "rank": "4",
             "player": "Naughtykoopa",
-            "winrate": 0.6,
             "commander": [
                 "Jenara, Asura of War"
             ],
@@ -224,7 +222,6 @@
             "deck_id": "351805",
             "rank": "1",
             "player": "Newton Hang",
-            "winrate": 1.0,
             "commander": [
                 "Grenzo, Dungeon Warden"
             ],
@@ -334,7 +331,6 @@
             "deck_id": "351806",
             "rank": "2",
             "player": "Tuktukwhosthere",
-            "winrate": 0.8,
             "commander": [
                 "Grenzo, Dungeon Warden"
             ],

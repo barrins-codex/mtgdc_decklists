@@ -10,7 +10,6 @@
             "deck_id": "356669",
             "rank": "2",
             "player": "Lukas E.",
-            "winrate": 0.8,
             "commander": [
                 "Ravos, Soultender",
                 "Tymna the Weaver"
@@ -110,7 +109,6 @@
             "deck_id": "356670",
             "rank": "1",
             "player": "Julian H.",
-            "winrate": 1.0,
             "commander": [
                 "Daretti, Scrap Savant"
             ],

@@ -10,7 +10,6 @@
             "deck_id": "254665",
             "rank": "1",
             "player": "Vitezslav Smid",
-            "winrate": 0.8888888888888888,
             "commander": [
                 "Tasigur, the Golden Fang"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "254666",
             "rank": "2",
             "player": "Roman Vejdelek",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Rafiq of the Many"
             ],
@@ -227,7 +225,6 @@
             "deck_id": "254667",
             "rank": "3-4",
             "player": "Dominik Maly",
-            "winrate": 0.75,
             "commander": [
                 "Ruhan of the Fomori"
             ],
@@ -332,7 +329,6 @@
             "deck_id": "254668",
             "rank": "3-4",
             "player": "Jan Kousal",
-            "winrate": 0.75,
             "commander": [
                 "Captain Sisay"
             ],
@@ -429,7 +425,6 @@
             "deck_id": "254669",
             "rank": "5-8",
             "player": "Jiri Patocka",
-            "winrate": 0.75,
             "commander": [
                 "Titania, Protector of Argoth"
             ],
@@ -521,7 +516,6 @@
             "deck_id": "254670",
             "rank": "5-8",
             "player": "Filip Sindler",
-            "winrate": 0.75,
             "commander": [
                 "Prime Speaker Zegana"
             ],
@@ -617,7 +611,6 @@
             "deck_id": "254671",
             "rank": "5-8",
             "player": "Jakub Lelek",
-            "winrate": 0.75,
             "commander": [
                 "Ezuri, Renegade Leader"
             ],
@@ -701,7 +694,6 @@
             "deck_id": "254672",
             "rank": "5-8",
             "player": "Michal Krkavec",
-            "winrate": 0.75,
             "commander": [
                 "Rafiq of the Many"
             ],

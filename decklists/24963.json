@@ -10,7 +10,6 @@
             "deck_id": "374689",
             "rank": "1",
             "player": "Ovsyuk Vladislav",
-            "winrate": 1.0,
             "commander": [
                 "Uro, Titan of Nature's Wrath"
             ],
@@ -112,7 +111,6 @@
             "deck_id": "374690",
             "rank": "2",
             "player": "Iurchenko Andrei",
-            "winrate": 0.8,
             "commander": [
                 "Rowan Kenrith",
                 "Will Kenrith"

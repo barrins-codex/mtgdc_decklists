@@ -10,7 +10,6 @@
             "deck_id": "370816",
             "rank": "5-8",
             "player": "Randall Meria",
-            "winrate": 0.625,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -95,7 +94,6 @@
             "deck_id": "370817",
             "rank": "5-8",
             "player": "Rexel Allan Tenorio",
-            "winrate": 0.625,
             "commander": [
                 "Lazav, the Multifarious"
             ],
@@ -205,7 +203,6 @@
             "deck_id": "370818",
             "rank": "5-8",
             "player": "Jeremiah Maigue",
-            "winrate": 0.625,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -290,7 +287,6 @@
             "deck_id": "370819",
             "rank": "5-8",
             "player": "Ben Co",
-            "winrate": 0.625,
             "commander": [
                 "Sai, Master Thopterist"
             ],
@@ -379,7 +375,6 @@
             "deck_id": "370820",
             "rank": "1",
             "player": "Earl Castel",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Tymna the Weaver",
                 "Kraum, Ludevic's Opus"
@@ -489,7 +484,6 @@
             "deck_id": "370821",
             "rank": "2",
             "player": "Ryan Simon Payabyab",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Dragonlord Ojutai"
             ],
@@ -587,7 +581,6 @@
             "deck_id": "370822",
             "rank": "3-4",
             "player": "Edwin Jocson",
-            "winrate": 0.625,
             "commander": [
                 "Tymna the Weaver",
                 "Thrasios, Triton Hero"
@@ -697,7 +690,6 @@
             "deck_id": "370823",
             "rank": "3-4",
             "player": "Josh Fuentes",
-            "winrate": 0.625,
             "commander": [
                 "Tymna the Weaver",
                 "Kraum, Ludevic's Opus"

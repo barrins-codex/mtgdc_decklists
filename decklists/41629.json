@@ -10,7 +10,6 @@
             "deck_id": "509198",
             "rank": "1",
             "player": "Pierre Almaraz",
-            "winrate": 1.0,
             "commander": [
                 "Dennick, Pious Apprentice"
             ],
@@ -111,7 +110,6 @@
             "deck_id": "509199",
             "rank": "2",
             "player": "Brice Lamar",
-            "winrate": 0.8,
             "commander": [
                 "Dihada, Binder of Wills"
             ],
@@ -221,7 +219,6 @@
             "deck_id": "509200",
             "rank": "3-4",
             "player": "Eric Capitao",
-            "winrate": 0.8,
             "commander": [
                 "Minsc, Beloved Ranger"
             ],
@@ -328,7 +325,6 @@
             "deck_id": "509201",
             "rank": "3-4",
             "player": "Thomas Ricci",
-            "winrate": 0.8,
             "commander": [
                 "Yoshimaru, Ever Faithful",
                 "Kraum, Ludevic's Opus"

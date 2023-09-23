@@ -10,7 +10,6 @@
             "deck_id": "479543",
             "rank": "1",
             "player": "Mark Lasam",
-            "winrate": 1.0,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "479544",
             "rank": "2",
             "player": "Gabe Enriquez",
-            "winrate": 0.8,
             "commander": [
                 "Minsc &amp; Boo, Timeless Heroes"
             ],
@@ -223,7 +221,6 @@
             "deck_id": "479545",
             "rank": "3-4",
             "player": "Cilbert Corpuz",
-            "winrate": 0.8,
             "commander": [
                 "Rem Karolus, Stalwart Slayer"
             ],
@@ -331,7 +328,6 @@
             "deck_id": "479546",
             "rank": "3-4",
             "player": "Michael Cabrera",
-            "winrate": 0.8,
             "commander": [
                 "Light-Paws, Emperor's Voice"
             ],
@@ -417,7 +413,6 @@
             "deck_id": "479547",
             "rank": "5-8",
             "player": "Ste Villaraza",
-            "winrate": 0.6,
             "commander": [
                 "Minsc &amp; Boo, Timeless Heroes"
             ],
@@ -517,7 +512,6 @@
             "deck_id": "479548",
             "rank": "5-8",
             "player": "Joel San Jose, Jr.",
-            "winrate": 0.6,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -626,7 +620,6 @@
             "deck_id": "479549",
             "rank": "5-8",
             "player": "Rexel Tenorio",
-            "winrate": 0.6,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -736,7 +729,6 @@
             "deck_id": "479550",
             "rank": "5-8",
             "player": "Christian Agbon",
-            "winrate": 0.6,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],

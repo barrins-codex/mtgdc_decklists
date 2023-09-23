@@ -10,7 +10,6 @@
             "deck_id": "447935",
             "rank": "1",
             "player": "Yann Miel",
-            "winrate": 1.0,
             "commander": [
                 "Isamaru, Hound of Konda"
             ],
@@ -95,7 +94,6 @@
             "deck_id": "447936",
             "rank": "2",
             "player": "Allan Cabillic",
-            "winrate": 0.8,
             "commander": [
                 "Azusa, Lost but Seeking"
             ],
@@ -194,7 +192,6 @@
             "deck_id": "447937",
             "rank": "3-4",
             "player": "Guillemot Cédric",
-            "winrate": 0.8,
             "commander": [
                 "Miara, Thorn of the Glade",
                 "Tevesh Szat, Doom of Fools"
@@ -279,7 +276,6 @@
             "deck_id": "447938",
             "rank": "3-4",
             "player": "Lucky Boo",
-            "winrate": 0.8,
             "commander": [
                 "Hogaak, Arisen Necropolis"
             ],

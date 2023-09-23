@@ -10,7 +10,6 @@
             "deck_id": "448086",
             "rank": "1",
             "player": "Pierre Ambroise",
-            "winrate": 0.9,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "448087",
             "rank": "2",
             "player": "Vincent Bruno",
-            "winrate": 0.8,
             "commander": [
                 "Doran, the Siege Tower"
             ],
@@ -230,7 +228,6 @@
             "deck_id": "448088",
             "rank": "3-4",
             "player": "Moondust",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Asmoranomardicadaistinaculdacar"
             ],
@@ -333,7 +330,6 @@
             "deck_id": "448089",
             "rank": "3-4",
             "player": "Antoine Morera",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Malcolm, Keen-Eyed Navigator",
                 "Livio, Oathsworn Sentinel"
@@ -432,7 +428,6 @@
             "deck_id": "448090",
             "rank": "5-8",
             "player": "Kaourintin Le Guiban",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -542,7 +537,6 @@
             "deck_id": "448092",
             "rank": "5-8",
             "player": "Félix Calais",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Kytheon, Hero of Akros"
             ],
@@ -627,7 +621,6 @@
             "deck_id": "448093",
             "rank": "5-8",
             "player": "Adrien Demoget",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Sythis, Harvest's Hand"
             ],
@@ -734,7 +727,6 @@
             "deck_id": "448094",
             "rank": "9-16",
             "player": "Romain Fouchier",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Asmoranomardicadaistinaculdacar"
             ],
@@ -835,7 +827,6 @@
             "deck_id": "448095",
             "rank": "9-16",
             "player": "Matthieu Bertault",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Hogaak, Arisen Necropolis"
             ],
@@ -945,7 +936,6 @@
             "deck_id": "448096",
             "rank": "9-16",
             "player": "Nicolas Maurice",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Kinnan, Bonder Prodigy"
             ],
@@ -1045,7 +1035,6 @@
             "deck_id": "448097",
             "rank": "9-16",
             "player": "Alexandre Da Silva",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Kytheon, Hero of Akros"
             ],
@@ -1130,7 +1119,6 @@
             "deck_id": "448098",
             "rank": "9-16",
             "player": "Sylvain Zozaya",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Niv-Mizzet Reborn"
             ],
@@ -1240,7 +1228,6 @@
             "deck_id": "448099",
             "rank": "9-16",
             "player": "Maximilien Kalil",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Sisay, Weatherlight Captain"
             ],
@@ -1350,7 +1337,6 @@
             "deck_id": "448100",
             "rank": "9-16",
             "player": "Gabriel Luque",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "The Ur-Dragon"
             ],
@@ -1460,7 +1446,6 @@
             "deck_id": "448101",
             "rank": "9-16",
             "player": "Florian Visset",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Winota, Joiner of Forces"
             ],

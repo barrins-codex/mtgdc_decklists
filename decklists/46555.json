@@ -10,7 +10,6 @@
             "deck_id": "544060",
             "rank": "1",
             "player": "Pierre-louis Biet",
-            "winrate": 1.0,
             "commander": [
                 "Tivit, Seller of Secrets"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "544061",
             "rank": "2",
             "player": "Edouard Lecocq",
-            "winrate": 0.8,
             "commander": [
                 "Dennick, Pious Apprentice"
             ],
@@ -221,7 +219,6 @@
             "deck_id": "544062",
             "rank": "3-4",
             "player": "Pierre Almaraz",
-            "winrate": 0.8,
             "commander": [
                 "Marath, Will of the Wild"
             ],
@@ -321,7 +318,6 @@
             "deck_id": "544063",
             "rank": "3-4",
             "player": "Francis Figue",
-            "winrate": 0.8,
             "commander": [
                 "Elminster"
             ],

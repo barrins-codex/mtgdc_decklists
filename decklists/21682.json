@@ -10,7 +10,6 @@
             "deck_id": "345691",
             "rank": "2",
             "player": "Daniel Lind",
-            "winrate": 0.8,
             "commander": [
                 "Doran, the Siege Tower"
             ],
@@ -118,7 +117,6 @@
             "deck_id": "345696",
             "rank": "1",
             "player": "Sejer Friis",
-            "winrate": 1.0,
             "commander": [
                 "Doran, the Siege Tower"
             ],

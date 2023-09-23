@@ -10,7 +10,6 @@
             "deck_id": "249758",
             "rank": "1",
             "player": "Michele Atzeni",
-            "winrate": 1.0,
             "commander": [
                 "Geist of Saint Traft"
             ],
@@ -109,7 +108,6 @@
             "deck_id": "249759",
             "rank": "2",
             "player": "Fabio D'Ambrosio",
-            "winrate": 0.8,
             "commander": [
                 "Anafenza, the Foremost"
             ],
@@ -213,7 +211,6 @@
             "deck_id": "249760",
             "rank": "3",
             "player": "Alessandro ChumbaWamba Carrella",
-            "winrate": 0.6,
             "commander": [
                 "Ruhan of the Fomori"
             ],

@@ -10,7 +10,6 @@
             "deck_id": "230354",
             "rank": "2",
             "player": "Étienne \"thecampeur\" Lourdin",
-            "winrate": 0.8,
             "commander": [
                 "Karador, Ghost Chieftain"
             ],
@@ -118,7 +117,6 @@
             "deck_id": "230355",
             "rank": "1",
             "player": "\"youch\"",
-            "winrate": 1.0,
             "commander": [
                 "Sliver Queen"
             ],

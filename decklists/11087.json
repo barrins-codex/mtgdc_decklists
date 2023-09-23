@@ -10,7 +10,6 @@
             "deck_id": "263099",
             "rank": "3",
             "player": "Manuel Anselmo",
-            "winrate": 0.8,
             "commander": [
                 "Tasigur, the Golden Fang"
             ],
@@ -114,7 +113,6 @@
             "deck_id": "263100",
             "rank": "4",
             "player": "Andre Luff",
-            "winrate": 0.8,
             "commander": [
                 "Maelstrom Wanderer"
             ],
@@ -197,7 +195,6 @@
             "deck_id": "263101",
             "rank": "6",
             "player": "Francesco Galli",
-            "winrate": 0.6,
             "commander": [
                 "Wydwen, the Biting Gale"
             ],
@@ -299,7 +296,6 @@
             "deck_id": "263102",
             "rank": "7",
             "player": "Mirko Menichetti",
-            "winrate": 0.6,
             "commander": [
                 "Marath, Will of the Wild"
             ],
@@ -408,7 +404,6 @@
             "deck_id": "263103",
             "rank": "8",
             "player": "Michele Atzeni",
-            "winrate": 0.6,
             "commander": [
                 "Surrak Dragonclaw"
             ],
@@ -512,7 +507,6 @@
             "deck_id": "263104",
             "rank": "5",
             "player": "Adrian Alvarez",
-            "winrate": 0.6,
             "commander": [
                 "Sidisi, Brood Tyrant"
             ],
@@ -618,7 +612,6 @@
             "deck_id": "263105",
             "rank": "2",
             "player": "Enrico Viti",
-            "winrate": 0.8,
             "commander": [
                 "Tasigur, the Golden Fang"
             ],
@@ -728,7 +721,6 @@
             "deck_id": "263106",
             "rank": "1",
             "player": "Robert Lippmann",
-            "winrate": 1.0,
             "commander": [
                 "Tasigur, the Golden Fang"
             ],

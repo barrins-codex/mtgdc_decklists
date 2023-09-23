@@ -10,7 +10,6 @@
             "deck_id": "447004",
             "rank": "1",
             "player": "Matthieu Dagoury",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Adeliz, the Cinder Wind"
             ],
@@ -107,7 +106,6 @@
             "deck_id": "447005",
             "rank": "2",
             "player": "Sebastien Gay-le Lamer",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Queen Marchesa"
             ],
@@ -215,7 +213,6 @@
             "deck_id": "447006",
             "rank": "3-4",
             "player": "Kristofer B.d",
-            "winrate": 0.625,
             "commander": [
                 "Emmara, Soul of the Accord"
             ],
@@ -316,7 +313,6 @@
             "deck_id": "447007",
             "rank": "3-4",
             "player": "Jordan Bizon",
-            "winrate": 0.625,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -426,7 +422,6 @@
             "deck_id": "447008",
             "rank": "5-8",
             "player": "Marien Couvertier",
-            "winrate": 0.625,
             "commander": [
                 "Niv-Mizzet Reborn"
             ],
@@ -536,7 +531,6 @@
             "deck_id": "447009",
             "rank": "5-8",
             "player": "Guillaume Ouvrard",
-            "winrate": 0.625,
             "commander": [
                 "Saskia the Unyielding"
             ],
@@ -646,7 +640,6 @@
             "deck_id": "447010",
             "rank": "5-8",
             "player": "Marc Sergeron",
-            "winrate": 0.625,
             "commander": [
                 "Winota, Joiner of Forces"
             ],
@@ -743,7 +736,6 @@
             "deck_id": "447011",
             "rank": "5-8",
             "player": "Brian Grouiller",
-            "winrate": 0.625,
             "commander": [
                 "Karlov of the Ghost Council"
             ],

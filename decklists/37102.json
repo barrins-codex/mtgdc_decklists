@@ -10,7 +10,6 @@
             "deck_id": "478515",
             "rank": "1",
             "player": "Thiago Saporito",
-            "winrate": 1.0,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -115,7 +114,6 @@
             "deck_id": "478516",
             "rank": "2",
             "player": "Felipe Tavares",
-            "winrate": 0.8,
             "commander": [
                 "Will Kenrith",
                 "Rowan Kenrith"
@@ -202,7 +200,6 @@
             "deck_id": "478517",
             "rank": "3-4",
             "player": "Leonardo Maeda",
-            "winrate": 0.8,
             "commander": [
                 "Grist, the Hunger Tide"
             ],
@@ -297,7 +294,6 @@
             "deck_id": "478518",
             "rank": "3-4",
             "player": "Rafael Barreto",
-            "winrate": 0.8,
             "commander": [
                 "Jeska, Thrice Reborn",
                 "Ludevic, Necro-Alchemist"
@@ -396,7 +392,6 @@
             "deck_id": "478519",
             "rank": "5-8",
             "player": "Fernando \"yprincipe\" Martin",
-            "winrate": 0.6,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -506,7 +501,6 @@
             "deck_id": "478520",
             "rank": "5-8",
             "player": "Orlando Bibiano",
-            "winrate": 0.6,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -588,7 +582,6 @@
             "deck_id": "478521",
             "rank": "5-8",
             "player": "Guilherme Santos",
-            "winrate": 0.6,
             "commander": [
                 "Prossh, Skyraider of Kher"
             ],
@@ -698,7 +691,6 @@
             "deck_id": "478522",
             "rank": "5-8",
             "player": "Lucas Santos",
-            "winrate": 0.6,
             "commander": [
                 "Jeska, Thrice Reborn",
                 "Ludevic, Necro-Alchemist"

@@ -10,7 +10,6 @@
             "deck_id": "485335",
             "rank": "1",
             "player": "Flavio Guio",
-            "winrate": 1.0,
             "commander": [
                 "Minsc &amp; Boo, Timeless Heroes"
             ],
@@ -92,7 +91,6 @@
             "deck_id": "485336",
             "rank": "2",
             "player": "Franco",
-            "winrate": 0.8,
             "commander": [
                 "General Ferrous Rokiric"
             ],
@@ -178,7 +176,6 @@
             "deck_id": "485337",
             "rank": "3-4",
             "player": "Talmo Moraes",
-            "winrate": 0.6,
             "commander": [
                 "Galazeth Prismari"
             ],
@@ -268,7 +265,6 @@
             "deck_id": "485338",
             "rank": "3-4",
             "player": "Jairo Marcelo",
-            "winrate": 0.6,
             "commander": [
                 "Trelasarra, Moon Dancer"
             ],

@@ -10,7 +10,6 @@
             "deck_id": "430863",
             "rank": "1",
             "player": "Pablo Lima",
-            "winrate": 1.0,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -90,7 +89,6 @@
             "deck_id": "430864",
             "rank": "2",
             "player": "Felipe Santos",
-            "winrate": 0.8,
             "commander": [
                 "Olivia Voldaren"
             ],
@@ -181,7 +179,6 @@
             "deck_id": "430865",
             "rank": "3-4",
             "player": "Artur Pacheco",
-            "winrate": 0.8,
             "commander": [
                 "Winota, Joiner of Forces"
             ],
@@ -276,7 +273,6 @@
             "deck_id": "430866",
             "rank": "3-4",
             "player": "Diego Silva",
-            "winrate": 0.8,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],

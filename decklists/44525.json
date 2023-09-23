@@ -10,7 +10,6 @@
             "deck_id": "528360",
             "rank": "1",
             "player": "Léo Facca",
-            "winrate": 0.8888888888888888,
             "commander": [
                 "Atraxa, Grand Unifier"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "528361",
             "rank": "2",
             "player": "Ethan Hantute",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Tana, the Bloodsower",
                 "Yoshimaru, Ever Faithful"
@@ -230,7 +228,6 @@
             "deck_id": "528362",
             "rank": "3-4",
             "player": "Hippolyte Senechau",
-            "winrate": 0.75,
             "commander": [
                 "Prossh, Skyraider of Kher"
             ],
@@ -340,7 +337,6 @@
             "deck_id": "528363",
             "rank": "3-4",
             "player": "Alexandre Habert",
-            "winrate": 0.75,
             "commander": [
                 "Rona, Herald of Invasion"
             ],
@@ -450,7 +446,6 @@
             "deck_id": "528364",
             "rank": "5-8",
             "player": "Anthony Nunez",
-            "winrate": 0.75,
             "commander": [
                 "Ghyrson Starn, Kelermorph"
             ],
@@ -553,7 +548,6 @@
             "deck_id": "528365",
             "rank": "5-8",
             "player": "Eric Vanderresten",
-            "winrate": 0.75,
             "commander": [
                 "Old Rutstein"
             ],
@@ -652,7 +646,6 @@
             "deck_id": "528366",
             "rank": "5-8",
             "player": "Jacky Fauchard",
-            "winrate": 0.75,
             "commander": [
                 "Dihada, Binder of Wills"
             ],
@@ -762,7 +755,6 @@
             "deck_id": "528367",
             "rank": "5-8",
             "player": "Clément Achard",
-            "winrate": 0.75,
             "commander": [
                 "Dihada, Binder of Wills"
             ],

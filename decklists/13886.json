@@ -10,7 +10,6 @@
             "deck_id": "282103",
             "rank": "4",
             "player": "Aurelien \"Mathan\" Mathias",
-            "winrate": 0.6,
             "commander": [
                 "Prossh, Skyraider of Kher"
             ],
@@ -116,7 +115,6 @@
             "deck_id": "282104",
             "rank": "1",
             "player": "Benjamin \"Hancock\" Decressac",
-            "winrate": 1.0,
             "commander": [
                 "Titania, Protector of Argoth"
             ],
@@ -206,7 +204,6 @@
             "deck_id": "282105",
             "rank": "2",
             "player": "Vianney \"Neeey\" Moreau",
-            "winrate": 0.8,
             "commander": [
                 "Marchesa, the Black Rose"
             ],
@@ -307,7 +304,6 @@
             "deck_id": "282106",
             "rank": "3",
             "player": "Patrick \"Patoche\" Sohar",
-            "winrate": 0.8,
             "commander": [
                 "Kambal, Consul of Allocation"
             ],

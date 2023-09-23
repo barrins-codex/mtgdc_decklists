@@ -10,7 +10,6 @@
             "deck_id": "345609",
             "rank": "1",
             "player": "Francois Jandaud",
-            "winrate": 1.0,
             "commander": [
                 "Sai, Master Thopterist"
             ],
@@ -98,7 +97,6 @@
             "deck_id": "345610",
             "rank": "2",
             "player": "Luka Mrakovic",
-            "winrate": 0.8,
             "commander": [
                 "Kess, Dissident Mage"
             ],

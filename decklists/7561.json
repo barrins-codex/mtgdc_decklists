@@ -10,7 +10,6 @@
             "deck_id": "243379",
             "rank": "1",
             "player": "Leorenz Jamias",
-            "winrate": 1.0,
             "commander": [
                 "Ezuri, Renegade Leader"
             ],
@@ -96,7 +95,6 @@
             "deck_id": "243380",
             "rank": "2",
             "player": "Fedimarc Garcia",
-            "winrate": 0.8,
             "commander": [
                 "Wydwen, the Biting Gale"
             ],

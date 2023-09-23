@@ -10,7 +10,6 @@
             "deck_id": "315117",
             "rank": "1",
             "player": "Claudio Naranjo",
-            "winrate": 1.0,
             "commander": [
                 "Zurgo Bellstriker"
             ],
@@ -93,7 +92,6 @@
             "deck_id": "315118",
             "rank": "2",
             "player": "Miguel Zulueta",
-            "winrate": 0.8,
             "commander": [
                 "Teysa, Orzhov Scion"
             ],
@@ -192,7 +190,6 @@
             "deck_id": "315119",
             "rank": "5-8",
             "player": "Sebastian Santos",
-            "winrate": 0.6,
             "commander": [
                 "Karador, Ghost Chieftain"
             ],
@@ -300,7 +297,6 @@
             "deck_id": "315120",
             "rank": "5-8",
             "player": "Charlie Cisneros",
-            "winrate": 0.6,
             "commander": [
                 "Zurgo Bellstriker"
             ],
@@ -384,7 +380,6 @@
             "deck_id": "315121",
             "rank": "5-8",
             "player": "Mauricio Martin",
-            "winrate": 0.6,
             "commander": [
                 "Thalia, Guardian of Thraben"
             ],
@@ -470,7 +465,6 @@
             "deck_id": "315122",
             "rank": "5-8",
             "player": "Jorge Chunga",
-            "winrate": 0.6,
             "commander": [
                 "Arahbo, Roar of the World"
             ],
@@ -566,7 +560,6 @@
             "deck_id": "315123",
             "rank": "3",
             "player": "Albert Pantoja",
-            "winrate": 0.8,
             "commander": [
                 "Titania, Protector of Argoth"
             ],
@@ -659,7 +652,6 @@
             "deck_id": "315124",
             "rank": "4",
             "player": "Manuel Caamaño",
-            "winrate": 0.6,
             "commander": [
                 "Thrasios, Triton Hero",
                 "Kraum, Ludevic's Opus"

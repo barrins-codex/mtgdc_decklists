@@ -10,7 +10,6 @@
             "deck_id": "260324",
             "rank": "5-8",
             "player": "Martial \"Mars\" Moreau",
-            "winrate": 0.75,
             "commander": [
                 "Grand Arbiter Augustin IV"
             ],
@@ -104,7 +103,6 @@
             "deck_id": "260325",
             "rank": "5-8",
             "player": "Eric Guilet",
-            "winrate": 0.75,
             "commander": [
                 "Sidisi, Undead Vizier"
             ],
@@ -189,7 +187,6 @@
             "deck_id": "260326",
             "rank": "3-4",
             "player": "Thomas Mechin",
-            "winrate": 0.75,
             "commander": [
                 "Yisan, the Wanderer Bard"
             ],
@@ -275,7 +272,6 @@
             "deck_id": "260327",
             "rank": "3-4",
             "player": "Manuel Le Marec",
-            "winrate": 0.75,
             "commander": [
                 "Teferi, Temporal Archmage"
             ],
@@ -353,7 +349,6 @@
             "deck_id": "260328",
             "rank": "5-8",
             "player": "\"Moncana\"",
-            "winrate": 0.75,
             "commander": [
                 "Sidisi, Undead Vizier"
             ],
@@ -432,7 +427,6 @@
             "deck_id": "260329",
             "rank": "2",
             "player": "Leny Yahiaoui",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Tasigur, the Golden Fang"
             ],
@@ -537,7 +531,6 @@
             "deck_id": "260330",
             "rank": "1",
             "player": "Alexander \"newtraderdu78\" Loskoutoff",
-            "winrate": 0.8888888888888888,
             "commander": [
                 "Jenara, Asura of War"
             ],
@@ -647,7 +640,6 @@
             "deck_id": "260331",
             "rank": "5-8",
             "player": "Benjamin \"Benjamindu44\" François",
-            "winrate": 0.75,
             "commander": [
                 "Geist of Saint Traft"
             ],

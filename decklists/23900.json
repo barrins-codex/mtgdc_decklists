@@ -10,7 +10,6 @@
             "deck_id": "366333",
             "rank": "5-8",
             "player": "Vedenin Roman",
-            "winrate": 0.6,
             "commander": [
                 "Nissa, Vastwood Seer"
             ],
@@ -105,7 +104,6 @@
             "deck_id": "366334",
             "rank": "5-8",
             "player": "Bukatin Nikita",
-            "winrate": 0.6,
             "commander": [
                 "Isamaru, Hound of Konda"
             ],
@@ -188,7 +186,6 @@
             "deck_id": "366335",
             "rank": "5-8",
             "player": "Maximov Alexander",
-            "winrate": 0.6,
             "commander": [
                 "Queen Marchesa"
             ],
@@ -294,7 +291,6 @@
             "deck_id": "366336",
             "rank": "3-4",
             "player": "Erikhov Maxim",
-            "winrate": 0.8,
             "commander": [
                 "Tajic, Legion's Edge"
             ],
@@ -387,7 +383,6 @@
             "deck_id": "366337",
             "rank": "5-8",
             "player": "Oreshkin Dmitry",
-            "winrate": 0.6,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -466,7 +461,6 @@
             "deck_id": "366338",
             "rank": "2",
             "player": "Serputko Vyacheslav",
-            "winrate": 0.8,
             "commander": [
                 "Selvala, Explorer Returned"
             ],
@@ -563,7 +557,6 @@
             "deck_id": "366339",
             "rank": "3-4",
             "player": "Apletalin Max",
-            "winrate": 0.8,
             "commander": [
                 "Tymna the Weaver",
                 "Thrasios, Triton Hero"
@@ -670,7 +663,6 @@
             "deck_id": "366340",
             "rank": "1",
             "player": "Vasiliev Vitaly",
-            "winrate": 1.0,
             "commander": [
                 "The Gitrog Monster"
             ],

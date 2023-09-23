@@ -10,7 +10,6 @@
             "deck_id": "544351",
             "rank": "1",
             "player": "Thomas \"thom_hate\" Kraska",
-            "winrate": 1.0,
             "commander": [
                 "Atraxa, Grand Unifier"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "544352",
             "rank": "2",
             "player": "Julien \"kansaki\" Chiarvesio",
-            "winrate": 0.8,
             "commander": [
                 "Wernog, Rider's Chaplain",
                 "Bjorna, Nightfall Alchemist",
@@ -231,7 +229,6 @@
             "deck_id": "544353",
             "rank": "3-4",
             "player": "Vivien \"lepangolin\" Michelesi",
-            "winrate": 0.8,
             "commander": [
                 "Tivit, Seller of Secrets"
             ],
@@ -341,7 +338,6 @@
             "deck_id": "544354",
             "rank": "3-4",
             "player": "Jean Thomas Ottavi",
-            "winrate": 0.8,
             "commander": [
                 "Yoshimaru, Ever Faithful",
                 "Bruse Tarl, Boorish Herder"

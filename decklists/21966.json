@@ -10,7 +10,6 @@
             "deck_id": "348144",
             "rank": "1",
             "player": "Kilian \"ironvixen\" Boulhais",
-            "winrate": 1.0,
             "commander": [
                 "Kess, Dissident Mage"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "348145",
             "rank": "2",
             "player": "Quentin \"senseiidora\" Levard",
-            "winrate": 0.8,
             "commander": [
                 "Tajic, Legion's Edge"
             ],
@@ -214,7 +212,6 @@
             "deck_id": "348146",
             "rank": "3-4",
             "player": "Pierre Clavieras-mengin",
-            "winrate": 0.8,
             "commander": [
                 "Tymna the Weaver",
                 "Reyhan, Last of the Abzan"
@@ -324,7 +321,6 @@
             "deck_id": "348147",
             "rank": "3-4",
             "player": "Simon Carrie",
-            "winrate": 0.8,
             "commander": [
                 "Najeela, the Blade-Blossom"
             ],
@@ -428,7 +424,6 @@
             "deck_id": "348148",
             "rank": "5-8",
             "player": "Romain Fouchier",
-            "winrate": 0.6,
             "commander": [
                 "Grenzo, Dungeon Warden"
             ],
@@ -524,7 +519,6 @@
             "deck_id": "348149",
             "rank": "5-8",
             "player": "David Perez",
-            "winrate": 0.6,
             "commander": [
                 "Arahbo, Roar of the World"
             ],
@@ -629,7 +623,6 @@
             "deck_id": "348150",
             "rank": "5-8",
             "player": "Julien Castela",
-            "winrate": 0.6,
             "commander": [
                 "Teferi, Temporal Archmage"
             ],
@@ -703,7 +696,6 @@
             "deck_id": "348151",
             "rank": "5-8",
             "player": "Loic Dougnac",
-            "winrate": 0.6,
             "commander": [
                 "Kess, Dissident Mage"
             ],

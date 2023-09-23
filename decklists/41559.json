@@ -10,7 +10,6 @@
             "deck_id": "508767",
             "rank": "1",
             "player": "David Hébert",
-            "winrate": 1.0,
             "commander": [
                 "Light-Paws, Emperor's Voice"
             ],
@@ -91,7 +90,6 @@
             "deck_id": "508768",
             "rank": "2",
             "player": "Steven Desrochers",
-            "winrate": 0.8,
             "commander": [
                 "Yoshimaru, Ever Faithful"
             ],
@@ -174,7 +172,6 @@
             "deck_id": "508769",
             "rank": "3-4",
             "player": "Quentin Pentaclous",
-            "winrate": 0.6,
             "commander": [
                 "Light-Paws, Emperor's Voice"
             ],
@@ -257,7 +254,6 @@
             "deck_id": "508770",
             "rank": "3-4",
             "player": "Jérémie Grenon",
-            "winrate": 0.6,
             "commander": [
                 "Hogaak, Arisen Necropolis"
             ],

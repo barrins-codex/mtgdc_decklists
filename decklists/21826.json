@@ -10,7 +10,6 @@
             "deck_id": "346852",
             "rank": "1",
             "player": "Oscar Miles",
-            "winrate": 1.0,
             "commander": [
                 "Vendilion Clique"
             ],
@@ -86,7 +85,6 @@
             "deck_id": "346853",
             "rank": "2",
             "player": "Omar Rohner",
-            "winrate": 0.8,
             "commander": [
                 "Thrasios, Triton Hero",
                 "Ikra Shidiqi, the Usurper"
@@ -189,7 +187,6 @@
             "deck_id": "346854",
             "rank": "3-4",
             "player": "Eduardo Cespedes",
-            "winrate": 0.8,
             "commander": [
                 "Daretti, Scrap Savant"
             ],
@@ -274,7 +271,6 @@
             "deck_id": "346855",
             "rank": "3-4",
             "player": "Miguel Zulueta",
-            "winrate": 0.8,
             "commander": [
                 "Teysa, Orzhov Scion"
             ],

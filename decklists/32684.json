@@ -10,7 +10,6 @@
             "deck_id": "450754",
             "rank": "1",
             "player": "Fan Yang",
-            "winrate": 1.0,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "450755",
             "rank": "2",
             "player": "Chang Zheng",
-            "winrate": 0.8,
             "commander": [
                 "Lurrus of the Dream-Den",
                 "Karlov of the Ghost Council"
@@ -231,7 +229,6 @@
             "deck_id": "450756",
             "rank": "3-4",
             "player": "Niaoyu11",
-            "winrate": 0.6,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -341,7 +338,6 @@
             "deck_id": "450757",
             "rank": "3-4",
             "player": "Ceyao Duan",
-            "winrate": 0.6,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],

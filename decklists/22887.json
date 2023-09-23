@@ -10,7 +10,6 @@
             "deck_id": "356534",
             "rank": "3-4",
             "player": "Pierre \"whitespirit\" Maynadier",
-            "winrate": 0.8,
             "commander": [
                 "Tajic, Legion's Edge"
             ],
@@ -104,7 +103,6 @@
             "deck_id": "356535",
             "rank": "2",
             "player": "François \"didou\" Zbk",
-            "winrate": 0.8,
             "commander": [
                 "Tymna the Weaver",
                 "Thrasios, Triton Hero"
@@ -212,7 +210,6 @@
             "deck_id": "356536",
             "rank": "1",
             "player": "Pierre Jean \"pej\" Eychenne",
-            "winrate": 1.0,
             "commander": [
                 "Sai, Master Thopterist"
             ],
@@ -303,7 +300,6 @@
             "deck_id": "356537",
             "rank": "3-4",
             "player": "Kévin Jouet",
-            "winrate": 0.8,
             "commander": [
                 "Silas Renn, Seeker Adept",
                 "Akiri, Line-Slinger"

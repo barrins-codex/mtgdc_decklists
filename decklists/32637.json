@@ -10,7 +10,6 @@
             "deck_id": "450523",
             "rank": "1",
             "player": "Florian Trotte",
-            "winrate": 0.875,
             "commander": [
                 "Esika, God of the Tree"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "450524",
             "rank": "2",
             "player": "Vittorio Pavesi",
-            "winrate": 0.75,
             "commander": [
                 "Malcolm, Keen-Eyed Navigator",
                 "Livio, Oathsworn Sentinel"
@@ -220,7 +218,6 @@
             "deck_id": "450525",
             "rank": "3-4",
             "player": "Julien Chiarvesio",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Esika, God of the Tree"
             ],
@@ -330,7 +327,6 @@
             "deck_id": "450526",
             "rank": "3-4",
             "player": "Jonathan Serra",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -440,7 +436,6 @@
             "deck_id": "450527",
             "rank": "5-8",
             "player": "Léo Facca",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Esika, God of the Tree"
             ],
@@ -550,7 +545,6 @@
             "deck_id": "450528",
             "rank": "5-8",
             "player": "Andy Sieurac",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -660,7 +654,6 @@
             "deck_id": "450529",
             "rank": "5-8",
             "player": "Damien Garcia",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Adeliz, the Cinder Wind"
             ],
@@ -755,7 +748,6 @@
             "deck_id": "450530",
             "rank": "5-8",
             "player": "Anthony Nunez",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Adeliz, the Cinder Wind"
             ],

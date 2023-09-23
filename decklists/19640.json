@@ -10,7 +10,6 @@
             "deck_id": "325974",
             "rank": "4",
             "player": "Nicolas Pastural",
-            "winrate": 0.8,
             "commander": [
                 "Obzedat, Ghost Council"
             ],
@@ -107,7 +106,6 @@
             "deck_id": "325975",
             "rank": "3",
             "player": "Nicolas Mestreau",
-            "winrate": 0.8,
             "commander": [
                 "Daretti, Scrap Savant"
             ],
@@ -190,7 +188,6 @@
             "deck_id": "325976",
             "rank": "2",
             "player": "Simon Le Griffon",
-            "winrate": 0.8,
             "commander": [
                 "Baral, Chief of Compliance"
             ],
@@ -263,7 +260,6 @@
             "deck_id": "325977",
             "rank": "8",
             "player": "Julien « Night » Caillaux",
-            "winrate": 0.6,
             "commander": [
                 "Titania, Protector of Argoth"
             ],
@@ -356,7 +352,6 @@
             "deck_id": "325978",
             "rank": "7",
             "player": "Jordan Gaury",
-            "winrate": 0.6,
             "commander": [
                 "Meren of Clan Nel Toth"
             ],
@@ -454,7 +449,6 @@
             "deck_id": "325979",
             "rank": "5",
             "player": "Enguerran « SoEnguy » Henner",
-            "winrate": 0.6,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -534,7 +528,6 @@
             "deck_id": "325980",
             "rank": "6",
             "player": "Kevin Mourgeotte",
-            "winrate": 0.6,
             "commander": [
                 "Griselbrand"
             ],
@@ -613,7 +606,6 @@
             "deck_id": "325981",
             "rank": "1",
             "player": "Thomas Mestreau",
-            "winrate": 1.0,
             "commander": [
                 "Baral, Chief of Compliance"
             ],

@@ -10,7 +10,6 @@
             "deck_id": "506211",
             "rank": "1",
             "player": "Gleison Silva",
-            "winrate": 1.0,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -90,7 +89,6 @@
             "deck_id": "506212",
             "rank": "2",
             "player": "Ruan Rangel",
-            "winrate": 0.8,
             "commander": [
                 "Elminster"
             ],
@@ -177,7 +175,6 @@
             "deck_id": "506213",
             "rank": "3-4",
             "player": "Alexandre Monteiro",
-            "winrate": 0.8,
             "commander": [
                 "Maelstrom Wanderer"
             ],
@@ -271,7 +268,6 @@
             "deck_id": "506214",
             "rank": "3-4",
             "player": "Franklin Barros",
-            "winrate": 0.8,
             "commander": [
                 "Magda, Brazen Outlaw"
             ],

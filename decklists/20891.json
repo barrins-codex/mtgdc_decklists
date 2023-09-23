@@ -10,7 +10,6 @@
             "deck_id": "338258",
             "rank": "1",
             "player": "Uvarov Vadim",
-            "winrate": 1.0,
             "commander": [
                 "Baral, Chief of Compliance"
             ],
@@ -83,7 +82,6 @@
             "deck_id": "338259",
             "rank": "2",
             "player": "Apletalin Max",
-            "winrate": 0.8,
             "commander": [
                 "Thrasios, Triton Hero",
                 "Tymna the Weaver"
@@ -190,7 +188,6 @@
             "deck_id": "338260",
             "rank": "5-8",
             "player": "Butrimov Victor",
-            "winrate": 0.6,
             "commander": [
                 "Yuriko, the Tiger's Shadow"
             ],
@@ -285,7 +282,6 @@
             "deck_id": "338261",
             "rank": "5-8",
             "player": "Vasiliev Vitaly",
-            "winrate": 0.6,
             "commander": [
                 "The Gitrog Monster"
             ],
@@ -385,7 +381,6 @@
             "deck_id": "338262",
             "rank": "5-8",
             "player": "Serputko Vyacheslav",
-            "winrate": 0.6,
             "commander": [
                 "Shalai, Voice of Plenty"
             ],
@@ -484,7 +479,6 @@
             "deck_id": "338263",
             "rank": "3-4",
             "player": "Nebykov Denis",
-            "winrate": 0.8,
             "commander": [
                 "Yuriko, the Tiger's Shadow"
             ],
@@ -580,7 +574,6 @@
             "deck_id": "338264",
             "rank": "5-8",
             "player": "Andrey Kostin",
-            "winrate": 0.6,
             "commander": [
                 "Silas Renn, Seeker Adept",
                 "Akiri, Line-Slinger"
@@ -690,7 +683,6 @@
             "deck_id": "338265",
             "rank": "3-4",
             "player": "Smirnov Alexander",
-            "winrate": 0.8,
             "commander": [
                 "Narset, Enlightened Master"
             ],

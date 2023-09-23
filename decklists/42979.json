@@ -10,7 +10,6 @@
             "deck_id": "517724",
             "rank": "1",
             "player": "Ste Villaraza",
-            "winrate": 0.9,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "517725",
             "rank": "2",
             "player": "Christian Agbon",
-            "winrate": 0.8,
             "commander": [
                 "Feldon, Ronom Excavator"
             ],
@@ -207,7 +205,6 @@
             "deck_id": "517726",
             "rank": "3-4",
             "player": "Rexel Tenorio",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -317,7 +314,6 @@
             "deck_id": "517727",
             "rank": "3-4",
             "player": "Pepelepew",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -427,7 +423,6 @@
             "deck_id": "517728",
             "rank": "5-8",
             "player": "Lamberto Demillo",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Yoshimaru, Ever Faithful",
                 "Tana, the Bloodsower"
@@ -536,7 +531,6 @@
             "deck_id": "517729",
             "rank": "5-8",
             "player": "Ranier Maglantay",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Tana, the Bloodsower",
                 "Yoshimaru, Ever Faithful"
@@ -645,7 +639,6 @@
             "deck_id": "517730",
             "rank": "5-8",
             "player": "Ken Decena",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Ghyrson Starn, Kelermorph"
             ],
@@ -748,7 +741,6 @@
             "deck_id": "517731",
             "rank": "5-8",
             "player": "Vince Balean",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Hogaak, Arisen Necropolis"
             ],

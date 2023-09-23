@@ -10,7 +10,6 @@
             "deck_id": "411728",
             "rank": "1",
             "player": "Markus S.",
-            "winrate": 1.0,
             "commander": [
                 "Kroxa, Titan of Death's Hunger"
             ],
@@ -106,7 +105,6 @@
             "deck_id": "411729",
             "rank": "2",
             "player": "Bitzelberg",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Hogaak, Arisen Necropolis"
             ],

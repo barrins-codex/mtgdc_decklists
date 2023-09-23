@@ -10,7 +10,6 @@
             "deck_id": "447616",
             "rank": "2",
             "player": "Victor Burghi",
-            "winrate": 0.8,
             "commander": [
                 "The Ur-Dragon"
             ],
@@ -113,7 +112,6 @@
             "deck_id": "447617",
             "rank": "1",
             "player": "Rafael Ozores",
-            "winrate": 1.0,
             "commander": [
                 "Tevesh Szat, Doom of Fools",
                 "Miara, Thorn of the Glade"
@@ -194,7 +192,6 @@
             "deck_id": "447618",
             "rank": "3-4",
             "player": "Gustavo",
-            "winrate": 0.6,
             "commander": [
                 "Titania, Protector of Argoth"
             ],
@@ -283,7 +280,6 @@
             "deck_id": "447619",
             "rank": "3-4",
             "player": "Leonardo Maeda",
-            "winrate": 0.6,
             "commander": [
                 "The Gitrog Monster"
             ],

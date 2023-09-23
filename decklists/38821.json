@@ -10,7 +10,6 @@
             "deck_id": "489702",
             "rank": "1",
             "player": "Victor Marques",
-            "winrate": 1.0,
             "commander": [
                 "Dennick, Pious Apprentice"
             ],
@@ -112,7 +111,6 @@
             "deck_id": "489703",
             "rank": "2",
             "player": "Felipe Cruz",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Jeska, Thrice Reborn",
                 "Yoshimaru, Ever Faithful"
@@ -210,7 +208,6 @@
             "deck_id": "489704",
             "rank": "3",
             "player": "Conja",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Juri, Master of the Revue"
             ],

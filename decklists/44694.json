@@ -10,7 +10,6 @@
             "deck_id": "529649",
             "rank": "1",
             "player": "Quentin L",
-            "winrate": 1.0,
             "commander": [
                 "Wernog, Rider's Chaplain",
                 "Cecily, Haunted Mage"
@@ -120,7 +119,6 @@
             "deck_id": "529650",
             "rank": "2",
             "player": "Laurent Fauré",
-            "winrate": 0.8,
             "commander": [
                 "Golos, Tireless Pilgrim"
             ],
@@ -230,7 +228,6 @@
             "deck_id": "529651",
             "rank": "3-4",
             "player": "Baptiste Moriniaux",
-            "winrate": 0.8,
             "commander": [
                 "Saskia the Unyielding"
             ],
@@ -340,7 +337,6 @@
             "deck_id": "529652",
             "rank": "3-4",
             "player": "David Carbon",
-            "winrate": 0.8,
             "commander": [
                 "Arcum Dagsson"
             ],
@@ -426,7 +422,6 @@
             "deck_id": "529653",
             "rank": "5-8",
             "player": "Stephane Boussaton",
-            "winrate": 0.6,
             "commander": [
                 "Ghyrson Starn, Kelermorph"
             ],
@@ -512,7 +507,6 @@
             "deck_id": "529654",
             "rank": "5-8",
             "player": "Anis Corberes-sarrey",
-            "winrate": 0.6,
             "commander": [
                 "Tivit, Seller of Secrets"
             ],
@@ -620,7 +614,6 @@
             "deck_id": "529655",
             "rank": "5-8",
             "player": "Dorian Matichard",
-            "winrate": 0.6,
             "commander": [
                 "Sai, Master Thopterist"
             ],
@@ -707,7 +700,6 @@
             "deck_id": "529656",
             "rank": "5-8",
             "player": "Raphael Mestres",
-            "winrate": 0.6,
             "commander": [
                 "Gallia of the Endless Dance"
             ],

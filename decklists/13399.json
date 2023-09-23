@@ -10,7 +10,6 @@
             "deck_id": "278593",
             "rank": "1",
             "player": "Martial \"Mars\" Moreau",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Keranos, God of Storms"
             ],
@@ -92,7 +91,6 @@
             "deck_id": "278594",
             "rank": "2",
             "player": "Alexis Fontaine",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Titania, Protector of Argoth"
             ],
@@ -182,7 +180,6 @@
             "deck_id": "278595",
             "rank": "4",
             "player": "Jacques Maneyrol",
-            "winrate": 0.625,
             "commander": [
                 "Geist of Saint Traft"
             ],
@@ -281,7 +278,6 @@
             "deck_id": "278596",
             "rank": "3",
             "player": "Lionel \"Hannibal44\" Galliere",
-            "winrate": 0.625,
             "commander": [
                 "Narset, Enlightened Master"
             ],

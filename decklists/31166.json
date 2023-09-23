@@ -10,7 +10,6 @@
             "deck_id": "442166",
             "rank": "1",
             "player": "Adrien Gau",
-            "winrate": 1.0,
             "commander": [
                 "Kess, Dissident Mage"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "442167",
             "rank": "2",
             "player": "Quentin Quinveros",
-            "winrate": 0.8,
             "commander": [
                 "Haldan, Avid Arcanist",
                 "Pako, Arcane Retriever"
@@ -227,7 +225,6 @@
             "deck_id": "442168",
             "rank": "3-4",
             "player": "Benoit Ruelle",
-            "winrate": 0.6,
             "commander": [
                 "Karlov of the Ghost Council"
             ],
@@ -337,7 +334,6 @@
             "deck_id": "442169",
             "rank": "3-4",
             "player": "Alexis Fontaine",
-            "winrate": 0.6,
             "commander": [
                 "Adeliz, the Cinder Wind"
             ],

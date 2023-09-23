@@ -10,7 +10,6 @@
             "deck_id": "533702",
             "rank": "1",
             "player": "Lazar Urdarevic",
-            "winrate": 1.0,
             "commander": [
                 "Light-Paws, Emperor's Voice"
             ],
@@ -92,7 +91,6 @@
             "deck_id": "533703",
             "rank": "2",
             "player": "Artem Frantsek",
-            "winrate": 0.8,
             "commander": [
                 "Tana, the Bloodsower",
                 "Yoshimaru, Ever Faithful"
@@ -201,7 +199,6 @@
             "deck_id": "533704",
             "rank": "3-4",
             "player": "Stefan Radisavljevic",
-            "winrate": 0.8,
             "commander": [
                 "Grist, the Hunger Tide"
             ],
@@ -302,7 +299,6 @@
             "deck_id": "533705",
             "rank": "3-4",
             "player": "Aleksandar Telarov",
-            "winrate": 0.8,
             "commander": [
                 "Leovold, Emissary of Trest"
             ],
@@ -412,7 +408,6 @@
             "deck_id": "533706",
             "rank": "5-8",
             "player": "Ivan Sidorenko",
-            "winrate": 0.6,
             "commander": [
                 "Octavia, Living Thesis"
             ],
@@ -498,7 +493,6 @@
             "deck_id": "533707",
             "rank": "5-8",
             "player": "Zoltan Pasztor",
-            "winrate": 0.6,
             "commander": [
                 "Feldon, Ronom Excavator"
             ],
@@ -582,7 +576,6 @@
             "deck_id": "533708",
             "rank": "5-8",
             "player": "Bosko Milakovic",
-            "winrate": 0.6,
             "commander": [
                 "Niv-Mizzet Reborn"
             ],
@@ -692,7 +685,6 @@
             "deck_id": "533709",
             "rank": "5-8",
             "player": "Aleksandar Perin",
-            "winrate": 0.6,
             "commander": [
                 "Acererak the Archlich"
             ],

@@ -10,7 +10,6 @@
             "deck_id": "292006",
             "rank": "1",
             "player": "Brunno Portela",
-            "winrate": 1.0,
             "commander": [
                 "Narset, Enlightened Master"
             ],
@@ -117,7 +116,6 @@
             "deck_id": "292007",
             "rank": "3-4",
             "player": "Rodrigo Grotti",
-            "winrate": 0.8,
             "commander": [
                 "Geist of Saint Traft"
             ],
@@ -214,7 +212,6 @@
             "deck_id": "292008",
             "rank": "2",
             "player": "Vitor Sznifer",
-            "winrate": 0.8,
             "commander": [
                 "Titania, Protector of Argoth"
             ],
@@ -308,7 +305,6 @@
             "deck_id": "292010",
             "rank": "3-4",
             "player": "Pedro Andrade",
-            "winrate": 0.8,
             "commander": [
                 "Radha, Heir to Keld"
             ],

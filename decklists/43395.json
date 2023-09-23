@@ -10,7 +10,6 @@
             "deck_id": "520539",
             "rank": "1",
             "player": "Renaud \"butch\" Leboucher",
-            "winrate": 0.8888888888888888,
             "commander": [
                 "Yoshimaru, Ever Faithful",
                 "Tana, the Bloodsower"
@@ -115,7 +114,6 @@
             "deck_id": "520540",
             "rank": "2",
             "player": "Pommery Maxime",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Yoshimaru, Ever Faithful",
                 "Tana, the Bloodsower"
@@ -220,7 +218,6 @@
             "deck_id": "520541",
             "rank": "3-4",
             "player": "Nurbey \"agrian\" Cerkezoglu",
-            "winrate": 0.75,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -330,7 +327,6 @@
             "deck_id": "520542",
             "rank": "3-4",
             "player": "Pierre-antoine \"p-a\" Henneau",
-            "winrate": 0.75,
             "commander": [
                 "Yoshimaru, Ever Faithful",
                 "Tana, the Bloodsower"
@@ -440,7 +436,6 @@
             "deck_id": "520543",
             "rank": "5-8",
             "player": "Barbesange Tom",
-            "winrate": 0.75,
             "commander": [
                 "Feldon, Ronom Excavator"
             ],
@@ -528,7 +523,6 @@
             "deck_id": "520544",
             "rank": "5-8",
             "player": "Danel Nicolas",
-            "winrate": 0.75,
             "commander": [
                 "Atraxa, Grand Unifier"
             ],
@@ -638,7 +632,6 @@
             "deck_id": "520545",
             "rank": "5-8",
             "player": "Johan Tridiel",
-            "winrate": 0.75,
             "commander": [
                 "Yoshimaru, Ever Faithful",
                 "Tana, the Bloodsower"
@@ -747,7 +740,6 @@
             "deck_id": "520546",
             "rank": "5-8",
             "player": "Magnier Alan",
-            "winrate": 0.75,
             "commander": [
                 "Dennick, Pious Apprentice"
             ],

@@ -10,7 +10,6 @@
             "deck_id": "287482",
             "rank": "2",
             "player": "Leonardo Araujo Guastapalia",
-            "winrate": 0.8,
             "commander": [
                 "Zurgo Bellstriker"
             ],
@@ -89,7 +88,6 @@
             "deck_id": "287483",
             "rank": "3-4",
             "player": "Fábio Fernandes Vieira",
-            "winrate": 0.6,
             "commander": [
                 "Breya, Etherium Shaper"
             ],
@@ -199,7 +197,6 @@
             "deck_id": "287484",
             "rank": "1",
             "player": "Luiz Felipe Zumstein",
-            "winrate": 1.0,
             "commander": [
                 "Kraum, Ludevic's Opus",
                 "Vial Smasher the Fierce"
@@ -307,7 +304,6 @@
             "deck_id": "287485",
             "rank": "3-4",
             "player": "Paulo Bezzegh",
-            "winrate": 0.6,
             "commander": [
                 "Titania, Protector of Argoth"
             ],

@@ -10,7 +10,6 @@
             "deck_id": "400572",
             "rank": "2",
             "player": "Samuel Z.",
-            "winrate": 0.8,
             "commander": [
                 "Thrasios, Triton Hero",
                 "Akiri, Line-Slinger"
@@ -120,7 +119,6 @@
             "deck_id": "400573",
             "rank": "3",
             "player": "Simon M.",
-            "winrate": 0.6,
             "commander": [
                 "Saskia the Unyielding"
             ],
@@ -230,7 +228,6 @@
             "deck_id": "400574",
             "rank": "4",
             "player": "Martin G.",
-            "winrate": 0.6,
             "commander": [
                 "Thrasios, Triton Hero",
                 "Tymna the Weaver"
@@ -340,7 +337,6 @@
             "deck_id": "400575",
             "rank": "1",
             "player": "Stefan C.",
-            "winrate": 1.0,
             "commander": [
                 "Hogaak, Arisen Necropolis"
             ],

@@ -10,7 +10,6 @@
             "deck_id": "282591",
             "rank": "3-4",
             "player": "Julien Grail",
-            "winrate": 0.625,
             "commander": [
                 "Geist of Saint Traft"
             ],
@@ -108,7 +107,6 @@
             "deck_id": "282592",
             "rank": "3-4",
             "player": "Léo Carbonell",
-            "winrate": 0.625,
             "commander": [
                 "Jace, Vryn's Prodigy"
             ],
@@ -185,7 +183,6 @@
             "deck_id": "282593",
             "rank": "2",
             "player": "Pierre Almaraz",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Geist of Saint Traft"
             ],
@@ -284,7 +281,6 @@
             "deck_id": "282594",
             "rank": "1",
             "player": "Florian Trotte",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Geist of Saint Traft"
             ],

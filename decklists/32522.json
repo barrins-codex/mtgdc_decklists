@@ -10,7 +10,6 @@
             "deck_id": "449813",
             "rank": "1",
             "player": "Wilson Lai",
-            "winrate": 1.0,
             "commander": [
                 "Asmoranomardicadaistinaculdacar"
             ],
@@ -116,7 +115,6 @@
             "deck_id": "449814",
             "rank": "2",
             "player": "Jack Ho",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Esika, God of the Tree"
             ],

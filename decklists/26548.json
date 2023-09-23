@@ -10,7 +10,6 @@
             "deck_id": "404904",
             "rank": "3-4",
             "player": "Francisco Gomes",
-            "winrate": 0.6,
             "commander": [
                 "Narset, Enlightened Master"
             ],
@@ -108,7 +107,6 @@
             "deck_id": "404905",
             "rank": "1",
             "player": "Ivan Bais",
-            "winrate": 1.0,
             "commander": [
                 "Klothys, God of Destiny"
             ],
@@ -197,7 +195,6 @@
             "deck_id": "404906",
             "rank": "3-4",
             "player": "Victor Burghi",
-            "winrate": 0.6,
             "commander": [
                 "Saskia the Unyielding"
             ],
@@ -307,7 +304,6 @@
             "deck_id": "404907",
             "rank": "2",
             "player": "Felipe Santos",
-            "winrate": 0.8,
             "commander": [
                 "Anje Falkenrath"
             ],

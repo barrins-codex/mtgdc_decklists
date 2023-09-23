@@ -10,7 +10,6 @@
             "deck_id": "315692",
             "rank": "1",
             "player": "Thomas Musmacher",
-            "winrate": 1.0,
             "commander": [
                 "Kytheon, Hero of Akros"
             ],
@@ -95,7 +94,6 @@
             "deck_id": "315693",
             "rank": "1",
             "player": "Sebastian Haines",
-            "winrate": 1.0,
             "commander": [
                 "Leovold, Emissary of Trest"
             ],

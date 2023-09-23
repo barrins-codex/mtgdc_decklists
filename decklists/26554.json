@@ -10,7 +10,6 @@
             "deck_id": "404940",
             "rank": "1",
             "player": "Laetitia Prigent",
-            "winrate": 1.0,
             "commander": [
                 "Saffi Eriksdotter"
             ],
@@ -108,7 +107,6 @@
             "deck_id": "404941",
             "rank": "2",
             "player": "Guillemot Cédric",
-            "winrate": 0.8,
             "commander": [
                 "Mayael the Anima"
             ],
@@ -214,7 +212,6 @@
             "deck_id": "404942",
             "rank": "3-4",
             "player": "Mathieu Numa",
-            "winrate": 0.6,
             "commander": [
                 "Jirina Kudro"
             ],
@@ -319,7 +316,6 @@
             "deck_id": "404943",
             "rank": "3-4",
             "player": "Thibault Le Godec",
-            "winrate": 0.6,
             "commander": [
                 "Saheeli, the Gifted"
             ],

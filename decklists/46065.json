@@ -10,7 +10,6 @@
             "deck_id": "540412",
             "rank": "1",
             "player": "Jomar Co",
-            "winrate": 1.0,
             "commander": [
                 "Éomer, Marshal of Rohan"
             ],
@@ -93,7 +92,6 @@
             "deck_id": "540413",
             "rank": "2",
             "player": "Deej \"el Cholo Loco\" Miranda",
-            "winrate": 0.8,
             "commander": [
                 "Merry, Esquire of Rohan"
             ],
@@ -199,7 +197,6 @@
             "deck_id": "540414",
             "rank": "3",
             "player": "Edison Gabutero",
-            "winrate": 0.8,
             "commander": [
                 "Reyhan, Last of the Abzan",
                 "Yoshimaru, Ever Faithful"

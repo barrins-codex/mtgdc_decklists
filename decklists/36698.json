@@ -10,7 +10,6 @@
             "deck_id": "476003",
             "rank": "1",
             "player": "Prail Nicolas",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Juri, Master of the Revue"
             ],
@@ -110,7 +109,6 @@
             "deck_id": "476004",
             "rank": "2",
             "player": "Gonzalez Lucas",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Lurrus of the Dream-Den",
                 "Bjorna, Nightfall Alchemist",
@@ -221,7 +219,6 @@
             "deck_id": "476005",
             "rank": "3-4",
             "player": "Herpe Yann",
-            "winrate": 0.625,
             "commander": [
                 "Golos, Tireless Pilgrim"
             ],
@@ -329,7 +326,6 @@
             "deck_id": "476006",
             "rank": "3-4",
             "player": "Marti Samuel",
-            "winrate": 0.625,
             "commander": [
                 "Shorikai, Genesis Engine"
             ],
@@ -429,7 +425,6 @@
             "deck_id": "476007",
             "rank": "5-8",
             "player": "Da Cunha Charles",
-            "winrate": 0.625,
             "commander": [
                 "Lonis, Cryptozoologist"
             ],
@@ -526,7 +521,6 @@
             "deck_id": "476008",
             "rank": "5-8",
             "player": "Juyaux Paul",
-            "winrate": 0.625,
             "commander": [
                 "Saskia the Unyielding"
             ],
@@ -636,7 +630,6 @@
             "deck_id": "476009",
             "rank": "5-8",
             "player": "Lestienne Jules",
-            "winrate": 0.625,
             "commander": [
                 "Lurrus of the Dream-Den",
                 "Bjorna, Nightfall Alchemist",
@@ -747,7 +740,6 @@
             "deck_id": "476010",
             "rank": "5-8",
             "player": "Ollagnier Robin",
-            "winrate": 0.625,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],

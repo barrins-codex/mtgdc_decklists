@@ -10,7 +10,6 @@
             "deck_id": "441405",
             "rank": "1",
             "player": "Jarbs Sahagun",
-            "winrate": 1.0,
             "commander": [
                 "Dragonlord Ojutai"
             ],
@@ -112,7 +111,6 @@
             "deck_id": "441406",
             "rank": "2",
             "player": "Jonathan Bagotlo",
-            "winrate": 0.8,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -197,7 +195,6 @@
             "deck_id": "441407",
             "rank": "3-4",
             "player": "Ste Villaraza",
-            "winrate": 0.8,
             "commander": [
                 "Tevesh Szat, Doom of Fools",
                 "Miara, Thorn of the Glade"
@@ -283,7 +280,6 @@
             "deck_id": "441408",
             "rank": "3-4",
             "player": "Robert Soriano",
-            "winrate": 0.8,
             "commander": [
                 "Hogaak, Arisen Necropolis"
             ],
@@ -393,7 +389,6 @@
             "deck_id": "441409",
             "rank": "5-8",
             "player": "Luther Domingo",
-            "winrate": 0.6,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -475,7 +470,6 @@
             "deck_id": "441410",
             "rank": "5-8",
             "player": "Exequiel Lim",
-            "winrate": 0.6,
             "commander": [
                 "Titania, Protector of Argoth"
             ],
@@ -571,7 +565,6 @@
             "deck_id": "441411",
             "rank": "5-8",
             "player": "Jay Loque",
-            "winrate": 0.6,
             "commander": [
                 "Hogaak, Arisen Necropolis"
             ],
@@ -676,7 +669,6 @@
             "deck_id": "441412",
             "rank": "5-8",
             "player": "Reuben Ferrer",
-            "winrate": 0.6,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],

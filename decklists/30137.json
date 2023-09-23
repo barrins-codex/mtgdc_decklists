@@ -10,7 +10,6 @@
             "deck_id": "435942",
             "rank": "1",
             "player": "Zdenek Hlavsa",
-            "winrate": 1.0,
             "commander": [
                 "Saskia the Unyielding"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "435943",
             "rank": "2",
             "player": "Radek",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],

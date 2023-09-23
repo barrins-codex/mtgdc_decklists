@@ -10,7 +10,6 @@
             "deck_id": "364374",
             "rank": "3-4",
             "player": "Micah Gates",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Grenzo, Dungeon Warden"
             ],
@@ -101,7 +100,6 @@
             "deck_id": "364375",
             "rank": "1",
             "player": "Alex Gordon",
-            "winrate": 1.0,
             "commander": [
                 "Kytheon, Hero of Akros"
             ],
@@ -182,7 +180,6 @@
             "deck_id": "364376",
             "rank": "3-4",
             "player": "Mike Smith",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Lord Windgrace"
             ],
@@ -284,7 +281,6 @@
             "deck_id": "364377",
             "rank": "3-4",
             "player": "Andrew Cutshall",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Lord Windgrace"
             ],

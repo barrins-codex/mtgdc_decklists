@@ -10,7 +10,6 @@
             "deck_id": "513860",
             "rank": "1",
             "player": "Lorenzo Paredes",
-            "winrate": 1.0,
             "commander": [
                 "The Gitrog Monster"
             ],
@@ -112,7 +111,6 @@
             "deck_id": "513861",
             "rank": "2",
             "player": "Ste Villaraza",
-            "winrate": 0.8,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -222,7 +220,6 @@
             "deck_id": "513862",
             "rank": "3",
             "player": "Lamberto Demillo",
-            "winrate": 0.8,
             "commander": [
                 "Tana, the Bloodsower",
                 "Yoshimaru, Ever Faithful"
@@ -331,7 +328,6 @@
             "deck_id": "513863",
             "rank": "4",
             "player": "Irah Scott Naldoza",
-            "winrate": 0.6,
             "commander": [
                 "Ertai Resurrected"
             ],
@@ -429,7 +425,6 @@
             "deck_id": "513864",
             "rank": "5",
             "player": "Iori Zugaikotsu",
-            "winrate": 0.6,
             "commander": [
                 "Kotori, Pilot Prodigy"
             ],
@@ -535,7 +530,6 @@
             "deck_id": "513865",
             "rank": "6",
             "player": "Christian Agbon",
-            "winrate": 0.6,
             "commander": [
                 "Feldon, Ronom Excavator"
             ],
@@ -622,7 +616,6 @@
             "deck_id": "513866",
             "rank": "7",
             "player": "Van Acordon",
-            "winrate": 0.6,
             "commander": [
                 "Ludevic, Necro-Alchemist",
                 "Yoshimaru, Ever Faithful"
@@ -731,7 +724,6 @@
             "deck_id": "513867",
             "rank": "8",
             "player": "Ricky Madrigal",
-            "winrate": 0.6,
             "commander": [
                 "Gut, True Soul Zealot",
                 "Veteran Soldier"

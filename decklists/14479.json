@@ -10,7 +10,6 @@
             "deck_id": "286758",
             "rank": "5-8",
             "player": "Bruno Karam",
-            "winrate": 0.6,
             "commander": [
                 "Titania, Protector of Argoth"
             ],
@@ -100,7 +99,6 @@
             "deck_id": "286759",
             "rank": "5-8",
             "player": "Fernando Campoli",
-            "winrate": 0.6,
             "commander": [
                 "Geist of Saint Traft"
             ],
@@ -201,7 +199,6 @@
             "deck_id": "286760",
             "rank": "5-8",
             "player": "Ricardo Wada",
-            "winrate": 0.6,
             "commander": [
                 "Titania, Protector of Argoth"
             ],
@@ -294,7 +291,6 @@
             "deck_id": "286761",
             "rank": "5-8",
             "player": "Artur Oliveira",
-            "winrate": 0.6,
             "commander": [
                 "Prossh, Skyraider of Kher"
             ],
@@ -397,7 +393,6 @@
             "deck_id": "286762",
             "rank": "3-4",
             "player": "Daniel Lestinge",
-            "winrate": 0.8,
             "commander": [
                 "Selvala, Heart of the Wilds"
             ],
@@ -482,7 +477,6 @@
             "deck_id": "286763",
             "rank": "3-4",
             "player": "Fábio Gavazzi",
-            "winrate": 0.8,
             "commander": [
                 "Saskia the Unyielding"
             ],
@@ -592,7 +586,6 @@
             "deck_id": "286764",
             "rank": "2",
             "player": "Fernando Yada Marinho",
-            "winrate": 0.8,
             "commander": [
                 "Vial Smasher the Fierce"
             ],
@@ -702,7 +695,6 @@
             "deck_id": "286765",
             "rank": "1",
             "player": "Luiz \"Lafon\" Bueno",
-            "winrate": 1.0,
             "commander": [
                 "Prossh, Skyraider of Kher"
             ],

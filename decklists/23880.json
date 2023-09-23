@@ -10,7 +10,6 @@
             "deck_id": "366152",
             "rank": "1",
             "player": "Henryk Hecht",
-            "winrate": 1.0,
             "commander": [
                 "Karlov of the Ghost Council"
             ],
@@ -112,7 +111,6 @@
             "deck_id": "366153",
             "rank": "2",
             "player": "Jonas Jörns",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Yawgmoth, Thran Physician"
             ],

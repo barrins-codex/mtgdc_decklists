@@ -10,7 +10,6 @@
             "deck_id": "343955",
             "rank": "2",
             "player": "Dennis C.",
-            "winrate": 0.8,
             "commander": [
                 "Judith, the Scourge Diva"
             ],
@@ -110,7 +109,6 @@
             "deck_id": "343956",
             "rank": "1",
             "player": "Martin G.",
-            "winrate": 1.0,
             "commander": [
                 "Tymna the Weaver",
                 "Kraum, Ludevic's Opus"

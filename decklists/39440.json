@@ -10,7 +10,6 @@
             "deck_id": "493737",
             "rank": "1",
             "player": "Edouard Lecocq",
-            "winrate": 1.0,
             "commander": [
                 "Dennick, Pious Apprentice"
             ],
@@ -112,7 +111,6 @@
             "deck_id": "493738",
             "rank": "2",
             "player": "Alexandre \"tidus\" Andouard",
-            "winrate": 0.8,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -222,7 +220,6 @@
             "deck_id": "493739",
             "rank": "3-4",
             "player": "Loïc Baverel",
-            "winrate": 0.8,
             "commander": [
                 "Soul of Windgrace"
             ],
@@ -332,7 +329,6 @@
             "deck_id": "493740",
             "rank": "3-4",
             "player": "Kevin Cellier",
-            "winrate": 0.8,
             "commander": [
                 "Ghyrson Starn, Kelermorph"
             ],

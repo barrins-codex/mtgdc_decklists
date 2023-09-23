@@ -10,7 +10,6 @@
             "deck_id": "520167",
             "rank": "1",
             "player": "Xing Galaxy",
-            "winrate": 1.0,
             "commander": [
                 "Atraxa, Grand Unifier"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "520168",
             "rank": "2",
             "player": "Liang Yuanhao",
-            "winrate": 0.8,
             "commander": [
                 "Juri, Master of the Revue"
             ],
@@ -220,7 +218,6 @@
             "deck_id": "520169",
             "rank": "3",
             "player": "Sui Yuchen",
-            "winrate": 0.6,
             "commander": [
                 "Feldon, Ronom Excavator"
             ],

@@ -10,7 +10,6 @@
             "deck_id": "488901",
             "rank": "1",
             "player": "Martin Ogayon",
-            "winrate": 1.0,
             "commander": [
                 "Candlekeep Sage",
                 "Wilson, Refined Grizzly"
@@ -115,7 +114,6 @@
             "deck_id": "488902",
             "rank": "2",
             "player": "Nelvine Tuano",
-            "winrate": 0.8,
             "commander": [
                 "Yoshimaru, Ever Faithful"
             ],
@@ -206,7 +204,6 @@
             "deck_id": "488903",
             "rank": "3",
             "player": "Earl Caymo",
-            "winrate": 0.6,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -316,7 +313,6 @@
             "deck_id": "488904",
             "rank": "4",
             "player": "Ej Catina",
-            "winrate": 0.6,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],

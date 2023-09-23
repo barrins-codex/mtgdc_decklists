@@ -10,7 +10,6 @@
             "deck_id": "428067",
             "rank": "1",
             "player": "Lorenz Cortezo",
-            "winrate": 0.8888888888888888,
             "commander": [
                 "Krark, the Thumbless",
                 "Jeska, Thrice Reborn"
@@ -88,7 +87,6 @@
             "deck_id": "428068",
             "rank": "2",
             "player": "Alex Dulawan",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Titania, Protector of Argoth"
             ],
@@ -184,7 +182,6 @@
             "deck_id": "428069",
             "rank": "3-4",
             "player": "Pepelepew",
-            "winrate": 0.75,
             "commander": [
                 "Tevesh Szat, Doom of Fools",
                 "Rograkh, Son of Rohgahh"
@@ -270,7 +267,6 @@
             "deck_id": "428070",
             "rank": "3-4",
             "player": "Ryan Payabyab",
-            "winrate": 0.75,
             "commander": [
                 "Esior, Wardwing Familiar",
                 "Keleth, Sunmane Familiar"
@@ -367,7 +363,6 @@
             "deck_id": "428071",
             "rank": "5-8",
             "player": "Reuben Ferrer",
-            "winrate": 0.75,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -477,7 +472,6 @@
             "deck_id": "428072",
             "rank": "5-8",
             "player": "Rexel Tenorio",
-            "winrate": 0.75,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -587,7 +581,6 @@
             "deck_id": "428073",
             "rank": "5-8",
             "player": "Alton Casanova",
-            "winrate": 0.75,
             "commander": [
                 "Keleth, Sunmane Familiar",
                 "Rograkh, Son of Rohgahh"
@@ -685,7 +678,6 @@
             "deck_id": "428074",
             "rank": "5-8",
             "player": "John Doroen Sahagun",
-            "winrate": 0.75,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],

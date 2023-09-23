@@ -10,7 +10,6 @@
             "deck_id": "341658",
             "rank": "1",
             "player": "Simon Le Griffon",
-            "winrate": 1.0,
             "commander": [
                 "Baral, Chief of Compliance"
             ],
@@ -83,7 +82,6 @@
             "deck_id": "341659",
             "rank": "3-4",
             "player": "Matthieu \"mooustik\"",
-            "winrate": 0.8,
             "commander": [
                 "Tajic, Legion's Edge"
             ],
@@ -171,7 +169,6 @@
             "deck_id": "341660",
             "rank": "3-4",
             "player": "Rémi \"yul\"",
-            "winrate": 0.8,
             "commander": [
                 "Yuriko, the Tiger's Shadow"
             ],
@@ -266,7 +263,6 @@
             "deck_id": "341661",
             "rank": "2",
             "player": "Kévin Mourgeotte",
-            "winrate": 0.8,
             "commander": [
                 "Will Kenrith",
                 "Rowan Kenrith"

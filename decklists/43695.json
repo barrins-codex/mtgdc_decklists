@@ -10,7 +10,6 @@
             "deck_id": "522608",
             "rank": "1",
             "player": "Enzo  Zozito  Sefrioui",
-            "winrate": 1.0,
             "commander": [
                 "Atraxa, Grand Unifier"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "522609",
             "rank": "2",
             "player": "Maxime Valentin",
-            "winrate": 0.8,
             "commander": [
                 "Marath, Will of the Wild"
             ],
@@ -228,7 +226,6 @@
             "deck_id": "522610",
             "rank": "3",
             "player": "Jonesie",
-            "winrate": 0.8,
             "commander": [
                 "The Gitrog Monster"
             ],
@@ -328,7 +325,6 @@
             "deck_id": "522611",
             "rank": "4",
             "player": "Léo Maupin",
-            "winrate": 0.8,
             "commander": [
                 "Sythis, Harvest's Hand"
             ],
@@ -428,7 +424,6 @@
             "deck_id": "522612",
             "rank": "5",
             "player": "Babelo",
-            "winrate": 0.8,
             "commander": [
                 "Jadar, Ghoulcaller of Nephalia"
             ],
@@ -515,7 +510,6 @@
             "deck_id": "522613",
             "rank": "6",
             "player": "Daynach",
-            "winrate": 0.6,
             "commander": [
                 "Dihada, Binder of Wills"
             ],
@@ -625,7 +619,6 @@
             "deck_id": "522614",
             "rank": "7",
             "player": "Feldon Burn",
-            "winrate": 0.6,
             "commander": [
                 "Feldon, Ronom Excavator"
             ],
@@ -705,7 +698,6 @@
             "deck_id": "522615",
             "rank": "8",
             "player": "Benoasan",
-            "winrate": 0.6,
             "commander": [
                 "Lonis, Cryptozoologist"
             ],

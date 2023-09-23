@@ -10,7 +10,6 @@
             "deck_id": "370076",
             "rank": "1",
             "player": "Louie Siongco",
-            "winrate": 1.0,
             "commander": [
                 "Gadwick, the Wizened"
             ],
@@ -90,7 +89,6 @@
             "deck_id": "370077",
             "rank": "2",
             "player": "Josh Fuentes",
-            "winrate": 0.8,
             "commander": [
                 "Kraum, Ludevic's Opus",
                 "Tymna the Weaver"
@@ -200,7 +198,6 @@
             "deck_id": "370078",
             "rank": "3-4",
             "player": "Ryan Simon Payabyab",
-            "winrate": 0.8,
             "commander": [
                 "Dragonlord Ojutai"
             ],
@@ -299,7 +296,6 @@
             "deck_id": "370079",
             "rank": "5-8",
             "player": "Cilbert Corpuz",
-            "winrate": 0.6,
             "commander": [
                 "Kytheon, Hero of Akros"
             ],
@@ -386,7 +382,6 @@
             "deck_id": "370080",
             "rank": "3-4",
             "player": "Agustin Ireneo",
-            "winrate": 0.8,
             "commander": [
                 "Nissa, Vastwood Seer"
             ],

@@ -10,7 +10,6 @@
             "deck_id": "360010",
             "rank": "3-4",
             "player": "Romulo Rodriguez",
-            "winrate": 0.8,
             "commander": [
                 "Saskia the Unyielding"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "360011",
             "rank": "3-4",
             "player": "Jean Pierre Lizarraga",
-            "winrate": 0.8,
             "commander": [
                 "Leovold, Emissary of Trest"
             ],
@@ -230,7 +228,6 @@
             "deck_id": "360012",
             "rank": "2",
             "player": "Pedro Clavijo",
-            "winrate": 0.8,
             "commander": [
                 "Queen Marchesa"
             ],
@@ -340,7 +337,6 @@
             "deck_id": "360013",
             "rank": "1",
             "player": "Johnnys Torres",
-            "winrate": 1.0,
             "commander": [
                 "Titania, Protector of Argoth"
             ],

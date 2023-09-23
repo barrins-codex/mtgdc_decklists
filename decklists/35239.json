@@ -10,7 +10,6 @@
             "deck_id": "466415",
             "rank": "1",
             "player": "Florian Trotte",
-            "winrate": 0.8888888888888888,
             "commander": [
                 "Golos, Tireless Pilgrim"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "466416",
             "rank": "2",
             "player": "Benjamin Cottet",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Ludevic, Necro-Alchemist",
                 "Kraum, Ludevic's Opus"
@@ -218,7 +216,6 @@
             "deck_id": "466417",
             "rank": "3-4",
             "player": "Adrien Houssard",
-            "winrate": 0.75,
             "commander": [
                 "Slogurk, the Overslime"
             ],
@@ -321,7 +318,6 @@
             "deck_id": "466418",
             "rank": "3-4",
             "player": "Clément Truffaut",
-            "winrate": 0.75,
             "commander": [
                 "Titania, Protector of Argoth"
             ],
@@ -414,7 +410,6 @@
             "deck_id": "466419",
             "rank": "5-8",
             "player": "Jérémy Héral",
-            "winrate": 0.75,
             "commander": [
                 "Esika, God of the Tree"
             ],
@@ -524,7 +519,6 @@
             "deck_id": "466420",
             "rank": "5-8",
             "player": "Fabrice Azzouz",
-            "winrate": 0.75,
             "commander": [
                 "Kyodai, Soul of Kamigawa"
             ],
@@ -632,7 +626,6 @@
             "deck_id": "466421",
             "rank": "5-8",
             "player": "Thibaut Chanvin",
-            "winrate": 0.75,
             "commander": [
                 "Grist, the Hunger Tide"
             ],
@@ -737,7 +730,6 @@
             "deck_id": "466422",
             "rank": "5-8",
             "player": "Léo Facca",
-            "winrate": 0.75,
             "commander": [
                 "Shorikai, Genesis Engine"
             ],

@@ -10,7 +10,6 @@
             "deck_id": "505451",
             "rank": "1",
             "player": "Baptiste Berbille",
-            "winrate": 1.0,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "505452",
             "rank": "2",
             "player": "Romain Faugere",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Codie, Vociferous Codex"
             ],

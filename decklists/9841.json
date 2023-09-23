@@ -10,7 +10,6 @@
             "deck_id": "256719",
             "rank": "1",
             "player": "Francesco Galli",
-            "winrate": 0.8888888888888888,
             "commander": [
                 "Wydwen, the Biting Gale"
             ],
@@ -111,7 +110,6 @@
             "deck_id": "256720",
             "rank": "2",
             "player": "Mattia Lazzarotto",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Captain Sisay"
             ],
@@ -213,7 +211,6 @@
             "deck_id": "256721",
             "rank": "3-4",
             "player": "Arturo Fux",
-            "winrate": 0.75,
             "commander": [
                 "Maelstrom Wanderer"
             ],
@@ -316,7 +313,6 @@
             "deck_id": "256722",
             "rank": "3-4",
             "player": "Edoardo Guerretta",
-            "winrate": 0.75,
             "commander": [
                 "Marath, Will of the Wild"
             ],
@@ -421,7 +417,6 @@
             "deck_id": "256723",
             "rank": "5-8",
             "player": "Simone Davoli",
-            "winrate": 0.75,
             "commander": [
                 "Marath, Will of the Wild"
             ],
@@ -530,7 +525,6 @@
             "deck_id": "256724",
             "rank": "5-8",
             "player": "Andrea Rostellato",
-            "winrate": 0.75,
             "commander": [
                 "Thraximundar"
             ],
@@ -637,7 +631,6 @@
             "deck_id": "256725",
             "rank": "5-8",
             "player": "Dario Belotti",
-            "winrate": 0.75,
             "commander": [
                 "Jenara, Asura of War"
             ],
@@ -747,7 +740,6 @@
             "deck_id": "256726",
             "rank": "5-8",
             "player": "Riccardo Banderè",
-            "winrate": 0.75,
             "commander": [
                 "Saffi Eriksdotter"
             ],

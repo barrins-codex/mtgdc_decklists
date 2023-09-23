@@ -10,7 +10,6 @@
             "deck_id": "283346",
             "rank": "5-8",
             "player": "Jose Alfonso Cejas",
-            "winrate": 0.75,
             "commander": [
                 "Titania, Protector of Argoth"
             ],
@@ -98,7 +97,6 @@
             "deck_id": "283347",
             "rank": "5-8",
             "player": "John Ramirez",
-            "winrate": 0.75,
             "commander": [
                 "Brimaz, King of Oreskos"
             ],
@@ -185,7 +183,6 @@
             "deck_id": "283348",
             "rank": "5-8",
             "player": "Alfonso Sarmiento",
-            "winrate": 0.75,
             "commander": [
                 "Prossh, Skyraider of Kher"
             ],
@@ -289,7 +286,6 @@
             "deck_id": "283349",
             "rank": "5-8",
             "player": "Tomas Zambrano",
-            "winrate": 0.75,
             "commander": [
                 "Zurgo Bellstriker"
             ],
@@ -368,7 +364,6 @@
             "deck_id": "283350",
             "rank": "3-4",
             "player": "Pedro Clavijo",
-            "winrate": 0.75,
             "commander": [
                 "Maelstrom Wanderer"
             ],
@@ -471,7 +466,6 @@
             "deck_id": "283351",
             "rank": "2",
             "player": "Salvador Morreale",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Geist of Saint Traft"
             ],
@@ -573,7 +567,6 @@
             "deck_id": "283352",
             "rank": "3-4",
             "player": "Nestor Zerpa",
-            "winrate": 0.75,
             "commander": [
                 "Titania, Protector of Argoth"
             ],
@@ -664,7 +657,6 @@
             "deck_id": "283353",
             "rank": "1",
             "player": "Franklin Noriega",
-            "winrate": 0.8888888888888888,
             "commander": [
                 "Grand Arbiter Augustin IV"
             ],

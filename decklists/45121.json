@@ -10,7 +10,6 @@
             "deck_id": "533111",
             "rank": "1",
             "player": "Ambroiseb",
-            "winrate": 0.8888888888888888,
             "commander": [
                 "Feldon, Ronom Excavator"
             ],
@@ -96,7 +95,6 @@
             "deck_id": "533112",
             "rank": "2",
             "player": "Mrsoja",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Yoshimaru, Ever Faithful",
                 "Tana, the Bloodsower"
@@ -205,7 +203,6 @@
             "deck_id": "533113",
             "rank": "3-4",
             "player": "Skavout",
-            "winrate": 0.75,
             "commander": [
                 "Feldon, Ronom Excavator"
             ],
@@ -294,7 +291,6 @@
             "deck_id": "533114",
             "rank": "3-4",
             "player": "Falaakr",
-            "winrate": 0.75,
             "commander": [
                 "Tivit, Seller of Secrets"
             ],
@@ -404,7 +400,6 @@
             "deck_id": "533115",
             "rank": "5-8",
             "player": "Baekstra",
-            "winrate": 0.75,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -514,7 +509,6 @@
             "deck_id": "533116",
             "rank": "5-8",
             "player": "Damienade",
-            "winrate": 0.75,
             "commander": [
                 "Cecily, Haunted Mage",
                 "Wernog, Rider's Chaplain"
@@ -624,7 +618,6 @@
             "deck_id": "533117",
             "rank": "5-8",
             "player": "Admab",
-            "winrate": 0.75,
             "commander": [
                 "Feldon, Ronom Excavator"
             ],
@@ -711,7 +704,6 @@
             "deck_id": "533118",
             "rank": "5-8",
             "player": "R4gen",
-            "winrate": 0.75,
             "commander": [
                 "Ertai Resurrected"
             ],

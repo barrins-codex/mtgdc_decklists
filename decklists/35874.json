@@ -10,7 +10,6 @@
             "deck_id": "470413",
             "rank": "1",
             "player": "Jan Kousal",
-            "winrate": 0.875,
             "commander": [
                 "Shorikai, Genesis Engine"
             ],
@@ -116,7 +115,6 @@
             "deck_id": "470414",
             "rank": "2",
             "player": "Roman Vejdelek",
-            "winrate": 0.75,
             "commander": [
                 "Ludevic, Necro-Alchemist",
                 "Kraum, Ludevic's Opus"
@@ -216,7 +214,6 @@
             "deck_id": "470415",
             "rank": "3-4",
             "player": "Tomas Ketzl",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Grist, the Hunger Tide"
             ],
@@ -316,7 +313,6 @@
             "deck_id": "470416",
             "rank": "3-4",
             "player": "Frantisek Krizkovsky",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Hinata, Dawn-Crowned"
             ],
@@ -425,7 +421,6 @@
             "deck_id": "470417",
             "rank": "5-8",
             "player": "Adam Fajkus",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Jirina Kudro"
             ],
@@ -533,7 +528,6 @@
             "deck_id": "470418",
             "rank": "5-8",
             "player": "Mikulas Havlik",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Shorikai, Genesis Engine"
             ],
@@ -631,7 +625,6 @@
             "deck_id": "470419",
             "rank": "5-8",
             "player": "Marek Vardzik",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Silas Renn, Seeker Adept",
                 "Rograkh, Son of Rohgahh"
@@ -741,7 +734,6 @@
             "deck_id": "470420",
             "rank": "5-8",
             "player": "Ondrej Pastornicky",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Grist, the Hunger Tide"
             ],

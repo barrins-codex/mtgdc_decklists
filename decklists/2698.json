@@ -10,7 +10,6 @@
             "deck_id": "217429",
             "rank": "1",
             "player": "Olivier \"Rofellos\" Arnold",
-            "winrate": 0.8888888888888888,
             "commander": [
                 "Rafiq of the Many"
             ],
@@ -117,7 +116,6 @@
             "deck_id": "217430",
             "rank": "2",
             "player": "Ludovic Vilcoq",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Teferi, Mage of Zhalfir"
             ],
@@ -193,7 +191,6 @@
             "deck_id": "217431",
             "rank": "3",
             "player": "Benoit Lermat",
-            "winrate": 0.75,
             "commander": [
                 "Rhys the Redeemed"
             ],
@@ -292,7 +289,6 @@
             "deck_id": "217432",
             "rank": "4",
             "player": "Elie Vepierre",
-            "winrate": 0.75,
             "commander": [
                 "Vendilion Clique"
             ],
@@ -383,7 +379,6 @@
             "deck_id": "217433",
             "rank": "5",
             "player": "Maxence Achoun",
-            "winrate": 0.75,
             "commander": [
                 "Arcum Dagsson"
             ],
@@ -461,7 +456,6 @@
             "deck_id": "217434",
             "rank": "6",
             "player": "Thomas Leriche",
-            "winrate": 0.75,
             "commander": [
                 "Karrthus, Tyrant of Jund"
             ],
@@ -564,7 +558,6 @@
             "deck_id": "217435",
             "rank": "7",
             "player": "Jauffrey Carbon",
-            "winrate": 0.75,
             "commander": [
                 "Doran, the Siege Tower"
             ],
@@ -671,7 +664,6 @@
             "deck_id": "217436",
             "rank": "8",
             "player": "Roland Ta",
-            "winrate": 0.75,
             "commander": [
                 "Edric, Spymaster of Trest"
             ],

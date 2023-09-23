@@ -10,7 +10,6 @@
             "deck_id": "304411",
             "rank": "1",
             "player": "Benjamin Valay",
-            "winrate": 1.0,
             "commander": [
                 "Edgar Markov"
             ],
@@ -103,7 +102,6 @@
             "deck_id": "304412",
             "rank": "5-8",
             "player": "Gaelle Paqué",
-            "winrate": 0.6,
             "commander": [
                 "Arahbo, Roar of the World"
             ],
@@ -200,7 +198,6 @@
             "deck_id": "304413",
             "rank": "5-8",
             "player": "Nicolas Monier",
-            "winrate": 0.6,
             "commander": [
                 "Titania, Protector of Argoth"
             ],
@@ -291,7 +288,6 @@
             "deck_id": "304414",
             "rank": "3-4",
             "player": "William Guignot",
-            "winrate": 0.8,
             "commander": [
                 "Edgar Markov"
             ],
@@ -386,7 +382,6 @@
             "deck_id": "304415",
             "rank": "5-8",
             "player": "Alexandre Urbizu",
-            "winrate": 0.6,
             "commander": [
                 "Titania, Protector of Argoth"
             ],
@@ -478,7 +473,6 @@
             "deck_id": "304416",
             "rank": "5-8",
             "player": "Matthieu Habersetzer",
-            "winrate": 0.6,
             "commander": [
                 "Edgar Markov"
             ],
@@ -568,7 +562,6 @@
             "deck_id": "304417",
             "rank": "2",
             "player": "Thomas Mestreau",
-            "winrate": 0.8,
             "commander": [
                 "Edgar Markov"
             ],
@@ -661,7 +654,6 @@
             "deck_id": "304418",
             "rank": "3-4",
             "player": "David Boyer",
-            "winrate": 0.8,
             "commander": [
                 "Edgar Markov"
             ],

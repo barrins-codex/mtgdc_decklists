@@ -10,7 +10,6 @@
             "deck_id": "250926",
             "rank": "1",
             "player": "Sergey \"Loxmatii\" Lamzin",
-            "winrate": 1.0,
             "commander": [
                 "Karador, Ghost Chieftain"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "250927",
             "rank": "2",
             "player": "Alexey Khusainov",
-            "winrate": 0.8,
             "commander": [
                 "Grenzo, Dungeon Warden"
             ],
@@ -216,7 +214,6 @@
             "deck_id": "250929",
             "rank": "3-4",
             "player": "Lysakov Gleb",
-            "winrate": 0.8,
             "commander": [
                 "Grenzo, Dungeon Warden"
             ],

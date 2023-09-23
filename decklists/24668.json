@@ -10,7 +10,6 @@
             "deck_id": "372549",
             "rank": "5-8",
             "player": "Jan Jilek",
-            "winrate": 0.625,
             "commander": [
                 "Tymna the Weaver",
                 "Thrasios, Triton Hero"
@@ -120,7 +119,6 @@
             "deck_id": "372550",
             "rank": "5-8",
             "player": "Lukas Kulhanek",
-            "winrate": 0.625,
             "commander": [
                 "Kytheon, Hero of Akros"
             ],
@@ -203,7 +201,6 @@
             "deck_id": "372551",
             "rank": "5-8",
             "player": "Ondrej Hruby",
-            "winrate": 0.625,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -281,7 +278,6 @@
             "deck_id": "372552",
             "rank": "5-8",
             "player": "Stefan Grinciju",
-            "winrate": 0.625,
             "commander": [
                 "Daretti, Scrap Savant"
             ],
@@ -366,7 +362,6 @@
             "deck_id": "372553",
             "rank": "3-4",
             "player": "Vaclav Mysak",
-            "winrate": 0.625,
             "commander": [
                 "Thrasios, Triton Hero",
                 "Tymna the Weaver"
@@ -476,7 +471,6 @@
             "deck_id": "372554",
             "rank": "3-4",
             "player": "Vojtech Benes",
-            "winrate": 0.625,
             "commander": [
                 "Uro, Titan of Nature's Wrath"
             ],
@@ -570,7 +564,6 @@
             "deck_id": "372555",
             "rank": "1",
             "player": "Jan Franek",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Rowan Kenrith",
                 "Will Kenrith"
@@ -646,7 +639,6 @@
             "deck_id": "372556",
             "rank": "2",
             "player": "Miroslav Vana",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Prossh, Skyraider of Kher"
             ],

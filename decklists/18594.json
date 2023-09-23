@@ -10,7 +10,6 @@
             "deck_id": "315758",
             "rank": "5-8",
             "player": "Luis Lorenzo",
-            "winrate": 0.6,
             "commander": [
                 "Grand Arbiter Augustin IV"
             ],
@@ -112,7 +111,6 @@
             "deck_id": "315759",
             "rank": "5-8",
             "player": "Rusty Jade Capricho",
-            "winrate": 0.6,
             "commander": [
                 "Talrand, Sky Summoner"
             ],
@@ -197,7 +195,6 @@
             "deck_id": "315760",
             "rank": "3-4",
             "player": "Alex Dulawan",
-            "winrate": 0.8,
             "commander": [
                 "Titania, Protector of Argoth"
             ],
@@ -290,7 +287,6 @@
             "deck_id": "315761",
             "rank": "3-4",
             "player": "Miko Abrina",
-            "winrate": 0.8,
             "commander": [
                 "Silas Renn, Seeker Adept",
                 "Akiri, Line-Slinger"
@@ -400,7 +396,6 @@
             "deck_id": "315762",
             "rank": "5-8",
             "player": "Wilmer Velches",
-            "winrate": 0.6,
             "commander": [
                 "Zurgo Bellstriker"
             ],
@@ -478,7 +473,6 @@
             "deck_id": "315763",
             "rank": "5-8",
             "player": "Aurelio Pangilinan",
-            "winrate": 0.6,
             "commander": [
                 "Baral, Chief of Compliance"
             ],
@@ -552,7 +546,6 @@
             "deck_id": "315764",
             "rank": "2",
             "player": "Ben Co",
-            "winrate": 0.8,
             "commander": [
                 "Titania, Protector of Argoth"
             ],
@@ -643,7 +636,6 @@
             "deck_id": "315765",
             "rank": "1",
             "player": "Gabe Enriquez",
-            "winrate": 1.0,
             "commander": [
                 "Zurgo Bellstriker"
             ],

@@ -10,7 +10,6 @@
             "deck_id": "239073",
             "rank": "3-4",
             "player": "Pierre-Jean Chaib",
-            "winrate": 0.75,
             "commander": [
                 "Animar, Soul of Elements"
             ],
@@ -113,7 +112,6 @@
             "deck_id": "239074",
             "rank": "3-4",
             "player": "Guillaume Franek",
-            "winrate": 0.75,
             "commander": [
                 "Oloro, Ageless Ascetic"
             ],
@@ -213,7 +211,6 @@
             "deck_id": "239075",
             "rank": "2",
             "player": "\"blackwidow\"",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Skithiryx, the Blight Dragon"
             ],
@@ -225,7 +222,6 @@
             "deck_id": "239076",
             "rank": "1",
             "player": "Julien \"Lyserg\" Henry",
-            "winrate": 0.8888888888888888,
             "commander": [
                 "Marath, Will of the Wild"
             ],
@@ -334,7 +330,6 @@
             "deck_id": "239077",
             "rank": "5-8",
             "player": "Tom Tanguy",
-            "winrate": 0.75,
             "commander": [
                 "Prossh, Skyraider of Kher"
             ],
@@ -439,7 +434,6 @@
             "deck_id": "239078",
             "rank": "5-8",
             "player": "Sébastien Candeliez",
-            "winrate": 0.75,
             "commander": [
                 "Maelstrom Wanderer"
             ],
@@ -548,7 +542,6 @@
             "deck_id": "239079",
             "rank": "5-8",
             "player": "Ewald Croxo",
-            "winrate": 0.75,
             "commander": [
                 "Maelstrom Wanderer"
             ],
@@ -658,7 +651,6 @@
             "deck_id": "239080",
             "rank": "5-8",
             "player": "Gilles Delhaye",
-            "winrate": 0.75,
             "commander": [
                 "Marath, Will of the Wild"
             ],

@@ -10,7 +10,6 @@
             "deck_id": "508199",
             "rank": "1",
             "player": "Fu Hao",
-            "winrate": 1.0,
             "commander": [
                 "Jeska, Thrice Reborn",
                 "Kraum, Ludevic's Opus"
@@ -107,7 +106,6 @@
             "deck_id": "508200",
             "rank": "2",
             "player": "Chang Yu",
-            "winrate": 0.8,
             "commander": [
                 "Minsc, Beloved Ranger"
             ],

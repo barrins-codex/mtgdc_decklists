@@ -10,7 +10,6 @@
             "deck_id": "491626",
             "rank": "1",
             "player": "Michel Xisto",
-            "winrate": 1.0,
             "commander": [
                 "The Raven Man"
             ],
@@ -93,7 +92,6 @@
             "deck_id": "491627",
             "rank": "1",
             "player": "Bruno \"bruxão\"",
-            "winrate": 1.0,
             "commander": [
                 "Karlov of the Ghost Council"
             ],
@@ -185,7 +183,6 @@
             "deck_id": "491628",
             "rank": "3-4",
             "player": "Victor \"acelerado\"",
-            "winrate": 0.8,
             "commander": [
                 "Zur the Enchanter"
             ],
@@ -283,7 +280,6 @@
             "deck_id": "491629",
             "rank": "3-4",
             "player": "Gabriel Rufino",
-            "winrate": 0.8,
             "commander": [
                 "Karlov of the Ghost Council",
                 "Lurrus of the Dream-Den"
@@ -372,7 +368,6 @@
             "deck_id": "491630",
             "rank": "5-8",
             "player": "Kauan",
-            "winrate": 0.6,
             "commander": [
                 "Adeline, Resplendent Cathar"
             ],
@@ -457,7 +452,6 @@
             "deck_id": "491631",
             "rank": "5-8",
             "player": "Adriano \"yusuke\"",
-            "winrate": 0.6,
             "commander": [
                 "Saskia the Unyielding"
             ],
@@ -545,7 +539,6 @@
             "deck_id": "491632",
             "rank": "5-8",
             "player": "Lauro Hanna",
-            "winrate": 0.6,
             "commander": [
                 "Maelstrom Wanderer"
             ],
@@ -622,7 +615,6 @@
             "deck_id": "491633",
             "rank": "5-8",
             "player": "Robson Mg",
-            "winrate": 0.6,
             "commander": [
                 "Teferi, Mage of Zhalfir"
             ],

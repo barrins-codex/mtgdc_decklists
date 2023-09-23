@@ -10,7 +10,6 @@
             "deck_id": "541310",
             "rank": "1",
             "player": "Jakub Lelek",
-            "winrate": 1.0,
             "commander": [
                 "Ghyrson Starn, Kelermorph"
             ],
@@ -110,7 +109,6 @@
             "deck_id": "541311",
             "rank": "2",
             "player": "Jan Kousal",
-            "winrate": 0.8,
             "commander": [
                 "Frodo, Sauron's Bane"
             ],
@@ -215,7 +213,6 @@
             "deck_id": "541312",
             "rank": "3",
             "player": "Vojtech Benes",
-            "winrate": 0.6,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -325,7 +322,6 @@
             "deck_id": "541313",
             "rank": "4",
             "player": "Pavel Tvrznik",
-            "winrate": 0.6,
             "commander": [
                 "Yoshimaru, Ever Faithful",
                 "Tymna the Weaver"

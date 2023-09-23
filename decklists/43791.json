@@ -10,7 +10,6 @@
             "deck_id": "523286",
             "rank": "5-8",
             "player": "Warboss",
-            "winrate": 0.75,
             "commander": [
                 "Feldon, Ronom Excavator"
             ],
@@ -98,7 +97,6 @@
             "deck_id": "523287",
             "rank": "5-8",
             "player": "Korn411",
-            "winrate": 0.75,
             "commander": [
                 "Octavia, Living Thesis"
             ],
@@ -186,7 +184,6 @@
             "deck_id": "523288",
             "rank": "5-8",
             "player": "Jules \"askeladden\" Lestienne",
-            "winrate": 0.75,
             "commander": [
                 "Rona, Herald of Invasion"
             ],
@@ -286,7 +283,6 @@
             "deck_id": "523289",
             "rank": "5-8",
             "player": "Jean-david Pailleron",
-            "winrate": 0.75,
             "commander": [
                 "Dihada, Binder of Wills"
             ],
@@ -396,7 +392,6 @@
             "deck_id": "523290",
             "rank": "4",
             "player": "Vincent \"kizumeh\" Rgd",
-            "winrate": 0.75,
             "commander": [
                 "Dihada, Binder of Wills"
             ],
@@ -506,7 +501,6 @@
             "deck_id": "523291",
             "rank": "4",
             "player": "Sébastien Laplane",
-            "winrate": 0.75,
             "commander": [
                 "Feldon, Ronom Excavator"
             ],
@@ -595,7 +589,6 @@
             "deck_id": "523292",
             "rank": "4",
             "player": "Micko",
-            "winrate": 0.75,
             "commander": [
                 "Yoshimaru, Ever Faithful",
                 "Tana, the Bloodsower"
@@ -705,7 +698,6 @@
             "deck_id": "523293",
             "rank": "4",
             "player": "Alex Nouvelet",
-            "winrate": 0.75,
             "commander": [
                 "Ghyrson Starn, Kelermorph"
             ],

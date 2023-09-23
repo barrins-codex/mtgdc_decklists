@@ -10,7 +10,6 @@
             "deck_id": "318241",
             "rank": "3-4",
             "player": "Matteo Iommi",
-            "winrate": 0.6,
             "commander": [
                 "Queen Marchesa"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "318242",
             "rank": "3-4",
             "player": "Gianmarco Brandetti",
-            "winrate": 0.6,
             "commander": [
                 "Saskia the Unyielding"
             ],
@@ -219,7 +217,6 @@
             "deck_id": "318243",
             "rank": "1",
             "player": "Andrea Bianchini",
-            "winrate": 1.0,
             "commander": [
                 "Dragonlord Ojutai"
             ],
@@ -318,7 +315,6 @@
             "deck_id": "318244",
             "rank": "2",
             "player": "Marco Vecchioni",
-            "winrate": 0.8,
             "commander": [
                 "Arahbo, Roar of the World"
             ],

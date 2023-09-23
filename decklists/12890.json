@@ -10,7 +10,6 @@
             "deck_id": "274954",
             "rank": "3-4",
             "player": "Vyacheslav Serputko",
-            "winrate": 0.8,
             "commander": [
                 "Marath, Will of the Wild"
             ],
@@ -114,7 +113,6 @@
             "deck_id": "274955",
             "rank": "1",
             "player": "Victor Butrimov",
-            "winrate": 1.0,
             "commander": [
                 "Sidisi, Undead Vizier"
             ],
@@ -196,7 +194,6 @@
             "deck_id": "274956",
             "rank": "2",
             "player": "Pavel Gorin",
-            "winrate": 0.8,
             "commander": [
                 "Prossh, Skyraider of Kher"
             ],
@@ -298,7 +295,6 @@
             "deck_id": "274957",
             "rank": "5-8",
             "player": "Alexander Smirnov",
-            "winrate": 0.6,
             "commander": [
                 "Teferi, Temporal Archmage"
             ],
@@ -373,7 +369,6 @@
             "deck_id": "274958",
             "rank": "5-8",
             "player": "Stanislav Serov",
-            "winrate": 0.6,
             "commander": [
                 "Geist of Saint Traft"
             ],
@@ -470,7 +465,6 @@
             "deck_id": "274959",
             "rank": "5-8",
             "player": "Vadim Uvarov",
-            "winrate": 0.6,
             "commander": [
                 "Thrun, the Last Troll"
             ],
@@ -550,7 +544,6 @@
             "deck_id": "274960",
             "rank": "5-8",
             "player": "Denis Kolesnikov",
-            "winrate": 0.6,
             "commander": [
                 "Zurgo Bellstriker"
             ],
@@ -625,7 +618,6 @@
             "deck_id": "274961",
             "rank": "3-4",
             "player": "Andrey Kostin",
-            "winrate": 0.8,
             "commander": [
                 "Geist of Saint Traft"
             ],

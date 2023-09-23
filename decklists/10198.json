@@ -10,7 +10,6 @@
             "deck_id": "258583",
             "rank": "2",
             "player": "Geoffrey Doco",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Grand Arbiter Augustin IV"
             ],
@@ -118,7 +117,6 @@
             "deck_id": "258584",
             "rank": "3-4",
             "player": "Alexandre Villot",
-            "winrate": 0.75,
             "commander": [
                 "Niv-Mizzet, the Firemind"
             ],
@@ -198,7 +196,6 @@
             "deck_id": "258585",
             "rank": "5-8",
             "player": "Daniel Kitachewsky",
-            "winrate": 0.75,
             "commander": [
                 "Wydwen, the Biting Gale"
             ],
@@ -294,7 +291,6 @@
             "deck_id": "258586",
             "rank": "5-8",
             "player": "Vincent Tallandier",
-            "winrate": 0.75,
             "commander": [
                 "Doran, the Siege Tower"
             ],
@@ -392,7 +388,6 @@
             "deck_id": "258587",
             "rank": "5-8",
             "player": "Julien Ammeux",
-            "winrate": 0.75,
             "commander": [
                 "Numot, the Devastator"
             ],
@@ -493,7 +488,6 @@
             "deck_id": "258588",
             "rank": "5-8",
             "player": "Claire Dupré",
-            "winrate": 0.75,
             "commander": [
                 "Isamaru, Hound of Konda"
             ],

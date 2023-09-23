@@ -10,7 +10,6 @@
             "deck_id": "332041",
             "rank": "3-4",
             "player": "Alex Dulawan",
-            "winrate": 0.8,
             "commander": [
                 "Titania, Protector of Argoth"
             ],
@@ -102,7 +101,6 @@
             "deck_id": "332042",
             "rank": "2",
             "player": "Chris Sta. Maria",
-            "winrate": 0.8,
             "commander": [
                 "Karlov of the Ghost Council"
             ],
@@ -209,7 +207,6 @@
             "deck_id": "332043",
             "rank": "3-4",
             "player": "Richson Carl Ho Ngo",
-            "winrate": 0.8,
             "commander": [
                 "Karlov of the Ghost Council"
             ],
@@ -315,7 +312,6 @@
             "deck_id": "332044",
             "rank": "1",
             "player": "Ben Co",
-            "winrate": 1.0,
             "commander": [
                 "Titania, Protector of Argoth"
             ],

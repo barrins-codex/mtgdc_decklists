@@ -10,7 +10,6 @@
             "deck_id": "409383",
             "rank": "1",
             "player": "Judas Extradraw",
-            "winrate": 1.0,
             "commander": [
                 "Uro, Titan of Nature's Wrath"
             ],
@@ -101,7 +100,6 @@
             "deck_id": "409384",
             "rank": "2",
             "player": "Kévin Jouet",
-            "winrate": 0.8,
             "commander": [
                 "Silas Renn, Seeker Adept",
                 "Akiri, Line-Slinger"
@@ -211,7 +209,6 @@
             "deck_id": "409385",
             "rank": "3-4",
             "player": "Sylvain \"minou\" Pommarel",
-            "winrate": 0.8,
             "commander": [
                 "Sisay, Weatherlight Captain"
             ],
@@ -321,7 +318,6 @@
             "deck_id": "409386",
             "rank": "3-4",
             "player": "Julien \"la Tielle\" Castéla",
-            "winrate": 0.8,
             "commander": [
                 "Uro, Titan of Nature's Wrath"
             ],
@@ -414,7 +410,6 @@
             "deck_id": "409387",
             "rank": "5-8",
             "player": "Ethis \"zoto\" Marguerite",
-            "winrate": 0.6,
             "commander": [
                 "Ludevic, Necro-Alchemist",
                 "Kraum, Ludevic's Opus"
@@ -508,7 +503,6 @@
             "deck_id": "409388",
             "rank": "5-8",
             "player": "Vincent \"fuel\" Charnet",
-            "winrate": 0.6,
             "commander": [
                 "Kinnan, Bonder Prodigy"
             ],
@@ -602,7 +596,6 @@
             "deck_id": "409389",
             "rank": "5-8",
             "player": "Anthony \"tototaker\" Ruer",
-            "winrate": 0.6,
             "commander": [
                 "Uro, Titan of Nature's Wrath"
             ],
@@ -696,7 +689,6 @@
             "deck_id": "409390",
             "rank": "5-8",
             "player": "Romain \"ejell\" Fouchier",
-            "winrate": 0.6,
             "commander": [
                 "Grenzo, Dungeon Warden"
             ],

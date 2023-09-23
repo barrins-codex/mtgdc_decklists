@@ -10,7 +10,6 @@
             "deck_id": "262485",
             "rank": "1",
             "player": "Sergey \"Loxmatii\" Lamzin",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Animar, Soul of Elements"
             ],
@@ -112,7 +111,6 @@
             "deck_id": "262486",
             "rank": "2",
             "player": "Dmitriy Tretyakov",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Marath, Will of the Wild"
             ],
@@ -221,7 +219,6 @@
             "deck_id": "262487",
             "rank": "3-4",
             "player": "Victor Antoshkin",
-            "winrate": 0.625,
             "commander": [
                 "Grenzo, Dungeon Warden"
             ],
@@ -325,7 +322,6 @@
             "deck_id": "262488",
             "rank": "3-4",
             "player": "Mikhail Protasov",
-            "winrate": 0.625,
             "commander": [
                 "Tasigur, the Golden Fang"
             ],
@@ -431,7 +427,6 @@
             "deck_id": "262489",
             "rank": "5-8",
             "player": "Boris Aristov",
-            "winrate": 0.625,
             "commander": [
                 "Tasigur, the Golden Fang"
             ],
@@ -541,7 +536,6 @@
             "deck_id": "262490",
             "rank": "5-8",
             "player": "Vasiliy Kuleshov",
-            "winrate": 0.625,
             "commander": [
                 "Narset, Enlightened Master"
             ],
@@ -649,7 +643,6 @@
             "deck_id": "262491",
             "rank": "5-8",
             "player": "Vladimir Lapin",
-            "winrate": 0.625,
             "commander": [
                 "Radha, Heir to Keld"
             ],
@@ -754,7 +747,6 @@
             "deck_id": "262492",
             "rank": "5-8",
             "player": "Evgenyi Rodionov",
-            "winrate": 0.625,
             "commander": [
                 "Grenzo, Dungeon Warden"
             ],

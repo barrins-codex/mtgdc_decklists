@@ -10,7 +10,6 @@
             "deck_id": "523888",
             "rank": "1",
             "player": "Guillaume O",
-            "winrate": 0.8888888888888888,
             "commander": [
                 "Skrelv, Defector Mite"
             ],
@@ -98,7 +97,6 @@
             "deck_id": "523889",
             "rank": "2",
             "player": "Raphaël P",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Cecily, Haunted Mage",
                 "Wernog, Rider's Chaplain"
@@ -208,7 +206,6 @@
             "deck_id": "523890",
             "rank": "3-4",
             "player": "Alienor L",
-            "winrate": 0.75,
             "commander": [
                 "Hogaak, Arisen Necropolis"
             ],
@@ -318,7 +315,6 @@
             "deck_id": "523891",
             "rank": "3-4",
             "player": "Manon G",
-            "winrate": 0.75,
             "commander": [
                 "Light-Paws, Emperor's Voice"
             ],
@@ -404,7 +400,6 @@
             "deck_id": "523892",
             "rank": "5-8",
             "player": "Andéol C",
-            "winrate": 0.75,
             "commander": [
                 "Raff, Weatherlight Stalwart"
             ],
@@ -509,7 +504,6 @@
             "deck_id": "523893",
             "rank": "5-8",
             "player": "Léo C",
-            "winrate": 0.75,
             "commander": [
                 "Cecily, Haunted Mage",
                 "Wernog, Rider's Chaplain"
@@ -619,7 +613,6 @@
             "deck_id": "523894",
             "rank": "5-8",
             "player": "Jérémy C",
-            "winrate": 0.75,
             "commander": [
                 "Grist, the Hunger Tide"
             ],
@@ -718,7 +711,6 @@
             "deck_id": "523895",
             "rank": "5-8",
             "player": "Nicolas M",
-            "winrate": 0.75,
             "commander": [
                 "Kinnan, Bonder Prodigy"
             ],

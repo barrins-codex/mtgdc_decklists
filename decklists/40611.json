@@ -10,7 +10,6 @@
             "deck_id": "502111",
             "rank": "1",
             "player": "Ste Villaraza",
-            "winrate": 1.0,
             "commander": [
                 "Elminster"
             ],
@@ -107,7 +106,6 @@
             "deck_id": "502112",
             "rank": "2",
             "player": "Earl Caymo",
-            "winrate": 0.8,
             "commander": [
                 "Elminster"
             ],

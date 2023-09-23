@@ -10,7 +10,6 @@
             "deck_id": "259156",
             "rank": "3-4",
             "player": "Alexis Fontaine",
-            "winrate": 0.8,
             "commander": [
                 "Marath, Will of the Wild"
             ],
@@ -118,7 +117,6 @@
             "deck_id": "259157",
             "rank": "3-4",
             "player": "Maxime Chausson",
-            "winrate": 0.8,
             "commander": [
                 "Prossh, Skyraider of Kher"
             ],
@@ -228,7 +226,6 @@
             "deck_id": "259158",
             "rank": "2",
             "player": "Ewen \"Werewolf41\" Raude",
-            "winrate": 0.8,
             "commander": [
                 "Yisan, the Wanderer Bard"
             ],
@@ -316,7 +313,6 @@
             "deck_id": "259159",
             "rank": "1",
             "player": "Romain Ben Amar",
-            "winrate": 1.0,
             "commander": [
                 "Sidisi, Undead Vizier"
             ],

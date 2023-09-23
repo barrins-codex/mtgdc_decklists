@@ -10,7 +10,6 @@
             "deck_id": "351478",
             "rank": "1",
             "player": "Hervé Brocker",
-            "winrate": 1.0,
             "commander": [
                 "Nicol Bolas, the Ravager"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "351479",
             "rank": "2",
             "player": "Guillaume Crespi",
-            "winrate": 0.8,
             "commander": [
                 "Dragonlord Ojutai"
             ],
@@ -218,7 +216,6 @@
             "deck_id": "351480",
             "rank": "3-4",
             "player": "Remi Benetreau-dupin",
-            "winrate": 0.8,
             "commander": [
                 "Karlov of the Ghost Council"
             ],
@@ -321,7 +318,6 @@
             "deck_id": "351481",
             "rank": "3-4",
             "player": "Pierre Camps",
-            "winrate": 0.8,
             "commander": [
                 "Teferi, Temporal Archmage"
             ],
@@ -395,7 +391,6 @@
             "deck_id": "351482",
             "rank": "5-8",
             "player": "Thomas Copet",
-            "winrate": 0.6,
             "commander": [
                 "Animar, Soul of Elements"
             ],
@@ -499,7 +494,6 @@
             "deck_id": "351483",
             "rank": "5-8",
             "player": "Simon Calligaro",
-            "winrate": 0.6,
             "commander": [
                 "Yuriko, the Tiger's Shadow"
             ],
@@ -594,7 +588,6 @@
             "deck_id": "351484",
             "rank": "5-8",
             "player": "Guilaume Petri",
-            "winrate": 0.6,
             "commander": [
                 "Rowan Kenrith",
                 "Will Kenrith"
@@ -683,7 +676,6 @@
             "deck_id": "351485",
             "rank": "5-8",
             "player": "Romain Daynes",
-            "winrate": 0.6,
             "commander": [
                 "Thalia, Guardian of Thraben"
             ],

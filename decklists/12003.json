@@ -10,7 +10,6 @@
             "deck_id": "268804",
             "rank": "5-8",
             "player": "Alexander Mytiakov",
-            "winrate": 0.75,
             "commander": [
                 "Tasigur, the Golden Fang"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "268805",
             "rank": "5-8",
             "player": "Matvey Dolganov",
-            "winrate": 0.75,
             "commander": [
                 "Geist of Saint Traft"
             ],
@@ -217,7 +215,6 @@
             "deck_id": "268806",
             "rank": "2",
             "player": "Maxim Volkov",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Omnath, Locus of Mana"
             ],
@@ -295,7 +292,6 @@
             "deck_id": "268807",
             "rank": "5-8",
             "player": "Sergey Raevich",
-            "winrate": 0.75,
             "commander": [
                 "Animar, Soul of Elements"
             ],
@@ -397,7 +393,6 @@
             "deck_id": "268808",
             "rank": "3-4",
             "player": "Andrey Zavialov",
-            "winrate": 0.75,
             "commander": [
                 "Meren of Clan Nel Toth"
             ],
@@ -497,7 +492,6 @@
             "deck_id": "268809",
             "rank": "3-4",
             "player": "Sergey \"Loxmatii\" Lamzin",
-            "winrate": 0.75,
             "commander": [
                 "Meren of Clan Nel Toth"
             ],
@@ -598,7 +592,6 @@
             "deck_id": "268810",
             "rank": "1",
             "player": "Vladimir Bulanov",
-            "winrate": 0.8888888888888888,
             "commander": [
                 "Tasigur, the Golden Fang"
             ],
@@ -708,7 +701,6 @@
             "deck_id": "268811",
             "rank": "5-8",
             "player": "Alexey Ivanov",
-            "winrate": 0.75,
             "commander": [
                 "Prossh, Skyraider of Kher"
             ],

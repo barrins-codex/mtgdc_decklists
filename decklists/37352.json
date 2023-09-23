@@ -10,7 +10,6 @@
             "deck_id": "480054",
             "rank": "1",
             "player": "Ziqi Xi",
-            "winrate": 1.0,
             "commander": [
                 "Minsc &amp; Boo, Timeless Heroes"
             ],
@@ -113,7 +112,6 @@
             "deck_id": "480055",
             "rank": "2",
             "player": "Di Wang",
-            "winrate": 0.8,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -223,7 +221,6 @@
             "deck_id": "480056",
             "rank": "3-4",
             "player": "Qian Xue",
-            "winrate": 0.8,
             "commander": [
                 "Minsc &amp; Boo, Timeless Heroes"
             ],
@@ -327,7 +324,6 @@
             "deck_id": "480057",
             "rank": "3-4",
             "player": "Kaichen Zhao",
-            "winrate": 0.8,
             "commander": [
                 "Dennick, Pious Apprentice"
             ],
@@ -430,7 +426,6 @@
             "deck_id": "480058",
             "rank": "5-8",
             "player": "Wei Cheng",
-            "winrate": 0.6,
             "commander": [
                 "Jadar, Ghoulcaller of Nephalia"
             ],
@@ -518,7 +513,6 @@
             "deck_id": "480059",
             "rank": "5-8",
             "player": "Char",
-            "winrate": 0.6,
             "commander": [
                 "Niv-Mizzet Reborn"
             ],
@@ -628,7 +622,6 @@
             "deck_id": "480060",
             "rank": "5-8",
             "player": "John Wang",
-            "winrate": 0.6,
             "commander": [
                 "Saskia the Unyielding"
             ],
@@ -738,7 +731,6 @@
             "deck_id": "480061",
             "rank": "5-8",
             "player": "Xu Han",
-            "winrate": 0.6,
             "commander": [
                 "Minsc &amp; Boo, Timeless Heroes"
             ],

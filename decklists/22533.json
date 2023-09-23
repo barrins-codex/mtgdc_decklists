@@ -10,7 +10,6 @@
             "deck_id": "353462",
             "rank": "2",
             "player": "Zhang Xianzhong",
-            "winrate": 0.8,
             "commander": [
                 "Yuriko, the Tiger's Shadow"
             ],
@@ -107,7 +106,6 @@
             "deck_id": "353463",
             "rank": "1",
             "player": "Yao Yao",
-            "winrate": 1.0,
             "commander": [
                 "Lazav, the Multifarious"
             ],

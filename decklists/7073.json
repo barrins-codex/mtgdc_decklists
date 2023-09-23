@@ -10,7 +10,6 @@
             "deck_id": "240692",
             "rank": "1",
             "player": "Felipe \"JJ\" Dias",
-            "winrate": 0.8888888888888888,
             "commander": [
                 "Thraximundar"
             ],
@@ -119,7 +118,6 @@
             "deck_id": "240693",
             "rank": "3-4",
             "player": "Tiago \"tih_\" Almeida",
-            "winrate": 0.75,
             "commander": [
                 "Geist of Saint Traft"
             ],
@@ -217,7 +215,6 @@
             "deck_id": "240694",
             "rank": "3-4",
             "player": "Victor \"Bastard\" Fernando Silva",
-            "winrate": 0.75,
             "commander": [
                 "Grand Arbiter Augustin IV"
             ],
@@ -311,7 +308,6 @@
             "deck_id": "240695",
             "rank": "2",
             "player": "Henrique Augusto",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Prime Speaker Zegana"
             ],

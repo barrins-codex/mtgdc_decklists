@@ -10,7 +10,6 @@
             "deck_id": "542148",
             "rank": "1",
             "player": "Ziqi Xi",
-            "winrate": 1.0,
             "commander": [
                 "Golos, Tireless Pilgrim"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "542149",
             "rank": "2",
             "player": "Tao Tang",
-            "winrate": 0.8,
             "commander": [
                 "Old Rutstein"
             ],
@@ -221,7 +219,6 @@
             "deck_id": "542150",
             "rank": "3",
             "player": "Yixuan Gao",
-            "winrate": 0.8,
             "commander": [
                 "Esika, God of the Tree"
             ],
@@ -331,7 +328,6 @@
             "deck_id": "542151",
             "rank": "4",
             "player": "Ximu Fan",
-            "winrate": 0.6,
             "commander": [
                 "Aragorn, King of Gondor"
             ],

@@ -10,7 +10,6 @@
             "deck_id": "498905",
             "rank": "1",
             "player": "Tugdual Kervoas",
-            "winrate": 1.0,
             "commander": [
                 "Niv-Mizzet Reborn"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "498906",
             "rank": "2",
             "player": "Tom Colas",
-            "winrate": 0.8,
             "commander": [
                 "The Beamtown Bullies"
             ],
@@ -230,7 +228,6 @@
             "deck_id": "498907",
             "rank": "3-4",
             "player": "Yann Miel",
-            "winrate": 0.8,
             "commander": [
                 "Azusa, Lost but Seeking"
             ],
@@ -325,7 +322,6 @@
             "deck_id": "498908",
             "rank": "3-4",
             "player": "Adrien Delouye",
-            "winrate": 0.8,
             "commander": [
                 "Tivit, Seller of Secrets"
             ],
@@ -435,7 +431,6 @@
             "deck_id": "498909",
             "rank": "5-8",
             "player": "Oisin Mac An Tsaoir",
-            "winrate": 0.6,
             "commander": [
                 "Nicol Bolas, the Ravager"
             ],
@@ -545,7 +540,6 @@
             "deck_id": "498910",
             "rank": "5-8",
             "player": "Greg Bradol",
-            "winrate": 0.6,
             "commander": [
                 "Soul of Windgrace"
             ],
@@ -651,7 +645,6 @@
             "deck_id": "498911",
             "rank": "5-8",
             "player": "Dorian Le Gall",
-            "winrate": 0.6,
             "commander": [
                 "Light-Paws, Emperor's Voice"
             ],
@@ -738,7 +731,6 @@
             "deck_id": "498912",
             "rank": "5-8",
             "player": "Kévin Allain",
-            "winrate": 0.6,
             "commander": [
                 "Isamaru, Hound of Konda"
             ],

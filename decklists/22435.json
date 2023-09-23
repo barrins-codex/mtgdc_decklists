@@ -10,7 +10,6 @@
             "deck_id": "352447",
             "rank": "1",
             "player": "Quentin Rullaud(bobota)",
-            "winrate": 1.0,
             "commander": [
                 "Yuriko, the Tiger's Shadow"
             ],
@@ -107,7 +106,6 @@
             "deck_id": "352448",
             "rank": "2",
             "player": "Remy Gaspard",
-            "winrate": 0.8,
             "commander": [
                 "Tajic, Legion's Edge"
             ],
@@ -206,7 +204,6 @@
             "deck_id": "352449",
             "rank": "3",
             "player": "Romain Testaert(yaugzebul)",
-            "winrate": 0.8,
             "commander": [
                 "Urza, Lord High Artificer"
             ],
@@ -296,7 +293,6 @@
             "deck_id": "352450",
             "rank": "4",
             "player": "Iris Glane",
-            "winrate": 0.6,
             "commander": [
                 "Niv-Mizzet Reborn"
             ],
@@ -406,7 +402,6 @@
             "deck_id": "352452",
             "rank": "6",
             "player": "Braud Thierry",
-            "winrate": 0.6,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -516,7 +511,6 @@
             "deck_id": "352453",
             "rank": "7",
             "player": "Denis Nicolas",
-            "winrate": 0.6,
             "commander": [
                 "Queen Marchesa"
             ],
@@ -626,7 +620,6 @@
             "deck_id": "352454",
             "rank": "8",
             "player": "Michel Delas",
-            "winrate": 0.6,
             "commander": [
                 "Karlov of the Ghost Council"
             ],

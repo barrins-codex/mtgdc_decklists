@@ -10,7 +10,6 @@
             "deck_id": "335192",
             "rank": "2",
             "player": "Ciro Atterrano",
-            "winrate": 0.8,
             "commander": [
                 "Nissa, Vastwood Seer"
             ],
@@ -96,7 +95,6 @@
             "deck_id": "335193",
             "rank": "1",
             "player": "Nicola Forte",
-            "winrate": 1.0,
             "commander": [
                 "Teferi, Temporal Archmage"
             ],

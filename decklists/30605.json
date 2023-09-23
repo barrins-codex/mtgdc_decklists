@@ -10,7 +10,6 @@
             "deck_id": "438659",
             "rank": "1",
             "player": "Duoyan Li",
-            "winrate": 1.0,
             "commander": [
                 "Rankle, Master of Pranks"
             ],
@@ -100,7 +99,6 @@
             "deck_id": "438660",
             "rank": "2",
             "player": "Zheng Hui",
-            "winrate": 0.8,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],

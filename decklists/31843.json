@@ -10,7 +10,6 @@
             "deck_id": "446095",
             "rank": "1",
             "player": "Lenzy Abellana",
-            "winrate": 1.0,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "446096",
             "rank": "2",
             "player": "Ryan Payabyab",
-            "winrate": 0.8,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -230,7 +228,6 @@
             "deck_id": "446097",
             "rank": "3-4",
             "player": "Jorrell Ang",
-            "winrate": 0.6,
             "commander": [
                 "Zur the Enchanter"
             ],
@@ -338,7 +335,6 @@
             "deck_id": "446098",
             "rank": "3-4",
             "player": "Glenn Alesna",
-            "winrate": 0.6,
             "commander": [
                 "Heliod, Sun-Crowned"
             ],

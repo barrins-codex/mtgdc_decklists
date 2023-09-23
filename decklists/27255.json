@@ -10,7 +10,6 @@
             "deck_id": "414561",
             "rank": "5-8",
             "player": "Guillaume Cailliez",
-            "winrate": 0.8,
             "commander": [
                 "Kess, Dissident Mage"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "414562",
             "rank": "5-8",
             "player": "Mathias Muller",
-            "winrate": 0.8,
             "commander": [
                 "Kess, Dissident Mage"
             ],
@@ -230,7 +228,6 @@
             "deck_id": "414563",
             "rank": "5-8",
             "player": "Léon Mouries-martin",
-            "winrate": 0.8,
             "commander": [
                 "Kraum, Ludevic's Opus",
                 "Ludevic, Necro-Alchemist"
@@ -323,7 +320,6 @@
             "deck_id": "414564",
             "rank": "3-4",
             "player": "Hippolyte Sénéchau",
-            "winrate": 0.8,
             "commander": [
                 "Grenzo, Dungeon Warden"
             ],
@@ -425,7 +421,6 @@
             "deck_id": "414565",
             "rank": "1",
             "player": "Gregoire Payan",
-            "winrate": 1.0,
             "commander": [
                 "The Gitrog Monster"
             ],
@@ -526,7 +521,6 @@
             "deck_id": "414566",
             "rank": "2",
             "player": "Jean-baptiste Munoz",
-            "winrate": 0.8,
             "commander": [
                 "The Gitrog Monster"
             ],
@@ -626,7 +620,6 @@
             "deck_id": "414567",
             "rank": "3-4",
             "player": "Kilian Boulhais",
-            "winrate": 0.8,
             "commander": [
                 "Tymna the Weaver",
                 "Reyhan, Last of the Abzan"
@@ -736,7 +729,6 @@
             "deck_id": "414568",
             "rank": "5-8",
             "player": "Audren Balic",
-            "winrate": 0.8,
             "commander": [
                 "Silas Renn, Seeker Adept",
                 "Akiri, Line-Slinger"

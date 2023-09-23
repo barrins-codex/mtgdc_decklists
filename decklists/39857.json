@@ -10,7 +10,6 @@
             "deck_id": "496873",
             "rank": "1",
             "player": "Darren Dela Rosa",
-            "winrate": 1.0,
             "commander": [
                 "Kroxa, Titan of Death's Hunger"
             ],
@@ -113,7 +112,6 @@
             "deck_id": "496874",
             "rank": "2",
             "player": "Juan Antonio Agoncillo",
-            "winrate": 0.8,
             "commander": [
                 "Magda, Brazen Outlaw"
             ],
@@ -203,7 +201,6 @@
             "deck_id": "496875",
             "rank": "3",
             "player": "Ste Villaraza",
-            "winrate": 0.8,
             "commander": [
                 "Tivit, Seller of Secrets"
             ],
@@ -313,7 +310,6 @@
             "deck_id": "496876",
             "rank": "4",
             "player": "Joel San Jose",
-            "winrate": 0.6,
             "commander": [
                 "Raffine, Scheming Seer"
             ],

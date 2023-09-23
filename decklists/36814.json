@@ -10,7 +10,6 @@
             "deck_id": "476722",
             "rank": "1",
             "player": "Kauan",
-            "winrate": 1.0,
             "commander": [
                 "Adeline, Resplendent Cathar"
             ],
@@ -94,7 +93,6 @@
             "deck_id": "476723",
             "rank": "2",
             "player": "Caio",
-            "winrate": 0.8,
             "commander": [
                 "Shorikai, Genesis Engine"
             ],
@@ -180,7 +178,6 @@
             "deck_id": "476724",
             "rank": "3-4",
             "player": "Batata",
-            "winrate": 0.8,
             "commander": [
                 "Grenzo, Dungeon Warden"
             ],
@@ -277,7 +274,6 @@
             "deck_id": "476725",
             "rank": "3-4",
             "player": "Clemilson",
-            "winrate": 0.8,
             "commander": [
                 "Light-Paws, Emperor's Voice"
             ],
@@ -360,7 +356,6 @@
             "deck_id": "476726",
             "rank": "5-8",
             "player": "Juca",
-            "winrate": 0.6,
             "commander": [
                 "Imoti, Celebrant of Bounty"
             ],
@@ -452,7 +447,6 @@
             "deck_id": "476727",
             "rank": "5-8",
             "player": "Anderson Ruffino",
-            "winrate": 0.6,
             "commander": [
                 "Tatsunari, Toad Rider"
             ],
@@ -547,7 +541,6 @@
             "deck_id": "476728",
             "rank": "5-8",
             "player": "Gabriel Matos",
-            "winrate": 0.6,
             "commander": [
                 "Octavia, Living Thesis"
             ],
@@ -635,7 +628,6 @@
             "deck_id": "476729",
             "rank": "5-8",
             "player": "Michel Xisto",
-            "winrate": 0.6,
             "commander": [
                 "Mina and Denn, Wildborn"
             ],

@@ -10,7 +10,6 @@
             "deck_id": "485192",
             "rank": "1",
             "player": "Tomas Zambrano",
-            "winrate": 1.0,
             "commander": [
                 "Grist, the Hunger Tide"
             ],
@@ -107,7 +106,6 @@
             "deck_id": "485193",
             "rank": "2",
             "player": "Georgi Márquez",
-            "winrate": 0.8,
             "commander": [
                 "Elminster"
             ],
@@ -207,7 +205,6 @@
             "deck_id": "485194",
             "rank": "3-4",
             "player": "Jose \"pan\" Pernia",
-            "winrate": 0.6,
             "commander": [
                 "Prossh, Skyraider of Kher"
             ],
@@ -293,7 +290,6 @@
             "deck_id": "485195",
             "rank": "3-4",
             "player": "Jose Garcia",
-            "winrate": 0.6,
             "commander": [
                 "General Ferrous Rokiric"
             ],

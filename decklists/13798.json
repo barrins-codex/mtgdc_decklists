@@ -10,7 +10,6 @@
             "deck_id": "281405",
             "rank": "1",
             "player": "Samuel Marti",
-            "winrate": 0.9,
             "commander": [
                 "Titania, Protector of Argoth"
             ],
@@ -99,7 +98,6 @@
             "deck_id": "281406",
             "rank": "2",
             "player": "\"Moncana\"",
-            "winrate": 0.8,
             "commander": [
                 "Titania, Protector of Argoth"
             ],
@@ -189,7 +187,6 @@
             "deck_id": "281408",
             "rank": "3-4",
             "player": "Kaourintin Le Guiban",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Narset, Enlightened Master"
             ],
@@ -296,7 +293,6 @@
             "deck_id": "281409",
             "rank": "5-8",
             "player": "Guillaume Audiffren",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Leovold, Emissary of Trest"
             ],
@@ -404,7 +400,6 @@
             "deck_id": "281410",
             "rank": "5-8",
             "player": "Théophile Delavy",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Doran, the Siege Tower"
             ],
@@ -514,7 +509,6 @@
             "deck_id": "281411",
             "rank": "5-8",
             "player": "Nicolas Honnorat",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Doran, the Siege Tower"
             ],
@@ -624,7 +618,6 @@
             "deck_id": "281412",
             "rank": "5-8",
             "player": "Thomas Mechin",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Jenara, Asura of War"
             ],

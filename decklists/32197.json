@@ -10,7 +10,6 @@
             "deck_id": "447939",
             "rank": "1",
             "player": "Théau Méry",
-            "winrate": 0.9,
             "commander": [
                 "Isamaru, Hound of Konda"
             ],
@@ -95,7 +94,6 @@
             "deck_id": "447940",
             "rank": "2",
             "player": "Louis Guichard",
-            "winrate": 0.8,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -185,7 +183,6 @@
             "deck_id": "447941",
             "rank": "3-4",
             "player": "Joakim Dubois",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Emmara, Soul of the Accord"
             ],
@@ -286,7 +283,6 @@
             "deck_id": "447942",
             "rank": "3-4",
             "player": "Grégoire Payan",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "The Gitrog Monster"
             ],
@@ -385,7 +381,6 @@
             "deck_id": "447943",
             "rank": "5-8",
             "player": "Vincent Ringuedé",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Asmoranomardicadaistinaculdacar"
             ],
@@ -488,7 +483,6 @@
             "deck_id": "447944",
             "rank": "5-8",
             "player": "Gaël Huber",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Jirina Kudro"
             ],
@@ -598,7 +592,6 @@
             "deck_id": "447945",
             "rank": "5-8",
             "player": "Nicolas Maurice",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Kinnan, Bonder Prodigy"
             ],
@@ -698,7 +691,6 @@
             "deck_id": "447946",
             "rank": "5-8",
             "player": "Aurélien Lion",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Winota, Joiner of Forces"
             ],
@@ -799,7 +791,6 @@
             "deck_id": "447947",
             "rank": "9-16",
             "player": "Jean-mathieu Gaffié",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -909,7 +900,6 @@
             "deck_id": "447948",
             "rank": "9-16",
             "player": "Pierre-henri François",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Animar, Soul of Elements"
             ],
@@ -1019,7 +1009,6 @@
             "deck_id": "447949",
             "rank": "9-16",
             "player": "Félix Calais",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Kytheon, Hero of Akros"
             ],
@@ -1104,7 +1093,6 @@
             "deck_id": "447950",
             "rank": "9-16",
             "player": "Antoine Morera",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Livio, Oathsworn Sentinel",
                 "Malcolm, Keen-Eyed Navigator"
@@ -1203,7 +1191,6 @@
             "deck_id": "447951",
             "rank": "9-16",
             "player": "Nicolas Francçois",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Saskia the Unyielding"
             ],
@@ -1313,7 +1300,6 @@
             "deck_id": "447952",
             "rank": "9-16",
             "player": "Maximilien Kalil",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Sisay, Weatherlight Captain"
             ],
@@ -1423,7 +1409,6 @@
             "deck_id": "447953",
             "rank": "9-16",
             "player": "Julien Faidherbe",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Titania, Protector of Argoth"
             ],
@@ -1522,7 +1507,6 @@
             "deck_id": "447954",
             "rank": "9-16",
             "player": "Antoine Guillet",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Winota, Joiner of Forces"
             ],

@@ -10,7 +10,6 @@
             "deck_id": "269463",
             "rank": "2",
             "player": "Fabio D'Ambrosio",
-            "winrate": 0.8,
             "commander": [
                 "Narset, Enlightened Master"
             ],
@@ -113,7 +112,6 @@
             "deck_id": "269464",
             "rank": "1",
             "player": "Francesco Belvedere",
-            "winrate": 1.0,
             "commander": [
                 "Geist of Saint Traft"
             ],

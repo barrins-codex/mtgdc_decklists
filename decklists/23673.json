@@ -10,7 +10,6 @@
             "deck_id": "364278",
             "rank": "1",
             "player": "Jonas Kretzschmar",
-            "winrate": 1.0,
             "commander": [
                 "The Gitrog Monster"
             ],
@@ -109,7 +108,6 @@
             "deck_id": "364279",
             "rank": "2",
             "player": "Henryk Hecht",
-            "winrate": 0.8,
             "commander": [
                 "Karlov of the Ghost Council"
             ],

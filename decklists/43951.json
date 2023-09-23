@@ -10,7 +10,6 @@
             "deck_id": "524324",
             "rank": "1",
             "player": "Patrick Paolo Patapat",
-            "winrate": 1.0,
             "commander": [
                 "Feldon, Ronom Excavator"
             ],
@@ -92,7 +91,6 @@
             "deck_id": "524325",
             "rank": "2",
             "player": "Dexter Sienes",
-            "winrate": 0.8,
             "commander": [
                 "Feldon, Ronom Excavator"
             ],

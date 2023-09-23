@@ -10,7 +10,6 @@
             "deck_id": "269967",
             "rank": "3-4",
             "player": "JFP",
-            "winrate": 0.8,
             "commander": [
                 "Marath, Will of the Wild"
             ],
@@ -111,7 +110,6 @@
             "deck_id": "269968",
             "rank": "3-4",
             "player": "Marc Demassier",
-            "winrate": 0.8,
             "commander": [
                 "Vorosh, the Hunter"
             ],
@@ -215,7 +213,6 @@
             "deck_id": "269969",
             "rank": "2",
             "player": "Fred Lurieu",
-            "winrate": 0.8,
             "commander": [
                 "Narset, Enlightened Master"
             ],
@@ -320,7 +317,6 @@
             "deck_id": "269970",
             "rank": "1",
             "player": "D \"Ardo\" LC",
-            "winrate": 1.0,
             "commander": [
                 "Grand Arbiter Augustin IV"
             ],

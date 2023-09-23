@@ -10,7 +10,6 @@
             "deck_id": "412963",
             "rank": "2",
             "player": "Tuktukwhosthere",
-            "winrate": 0.8,
             "commander": [
                 "Grenzo, Dungeon Warden"
             ],
@@ -106,7 +105,6 @@
             "deck_id": "412964",
             "rank": "3-4",
             "player": "Japanese",
-            "winrate": 0.6,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -216,7 +214,6 @@
             "deck_id": "412965",
             "rank": "3-4",
             "player": "Danziir",
-            "winrate": 0.6,
             "commander": [
                 "Golos, Tireless Pilgrim"
             ],
@@ -325,7 +322,6 @@
             "deck_id": "412966",
             "rank": "1",
             "player": "Grosduk",
-            "winrate": 1.0,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],

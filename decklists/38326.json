@@ -10,7 +10,6 @@
             "deck_id": "486470",
             "rank": "1",
             "player": "Bolong Sun",
-            "winrate": 1.0,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -96,7 +95,6 @@
             "deck_id": "486471",
             "rank": "1",
             "player": "Poordonkey",
-            "winrate": 1.0,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -206,7 +204,6 @@
             "deck_id": "486472",
             "rank": "3-4",
             "player": "Ceyao Duan",
-            "winrate": 0.8,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -316,7 +313,6 @@
             "deck_id": "486473",
             "rank": "3-4",
             "player": "Yi Ding",
-            "winrate": 0.8,
             "commander": [
                 "Niv-Mizzet Reborn"
             ],
@@ -426,7 +422,6 @@
             "deck_id": "486474",
             "rank": "5-8",
             "player": "Wei Cheng",
-            "winrate": 0.6,
             "commander": [
                 "Dennick, Pious Apprentice"
             ],
@@ -529,7 +524,6 @@
             "deck_id": "486475",
             "rank": "5-8",
             "player": "Hongchen Zhang",
-            "winrate": 0.6,
             "commander": [
                 "Inspiring Leader",
                 "Gut, True Soul Zealot"
@@ -633,7 +627,6 @@
             "deck_id": "486476",
             "rank": "5-8",
             "player": "Jing Ge",
-            "winrate": 0.6,
             "commander": [
                 "Falco Spara, Pactweaver"
             ],

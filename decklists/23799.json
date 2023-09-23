@@ -10,7 +10,6 @@
             "deck_id": "365390",
             "rank": "3-4",
             "player": "Florent Loret",
-            "winrate": 0.8,
             "commander": [
                 "Prossh, Skyraider of Kher"
             ],
@@ -113,7 +112,6 @@
             "deck_id": "365391",
             "rank": "3-4",
             "player": "Sebastien",
-            "winrate": 0.8,
             "commander": [
                 "Sai, Master Thopterist"
             ],
@@ -204,7 +202,6 @@
             "deck_id": "365392",
             "rank": "2",
             "player": "Aldo Moscatelli",
-            "winrate": 0.8,
             "commander": [
                 "Thrasios, Triton Hero",
                 "Tymna the Weaver"
@@ -314,7 +311,6 @@
             "deck_id": "365393",
             "rank": "1",
             "player": "Mickael Mouly",
-            "winrate": 1.0,
             "commander": [
                 "Niv-Mizzet Reborn"
             ],

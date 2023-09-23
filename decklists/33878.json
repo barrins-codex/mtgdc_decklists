@@ -10,7 +10,6 @@
             "deck_id": "457993",
             "rank": "2",
             "player": "Thibault Dupuy",
-            "winrate": 0.8,
             "commander": [
                 "Livio, Oathsworn Sentinel",
                 "Malcolm, Keen-Eyed Navigator"
@@ -109,7 +108,6 @@
             "deck_id": "457994",
             "rank": "2",
             "player": "Thomas Ricci",
-            "winrate": 0.8,
             "commander": [
                 "Isamaru, Hound of Konda"
             ],
@@ -194,7 +192,6 @@
             "deck_id": "457995",
             "rank": "3-4",
             "player": "Pierre Almaraz",
-            "winrate": 0.8,
             "commander": [
                 "Dragonlord Ojutai"
             ],
@@ -296,7 +293,6 @@
             "deck_id": "457996",
             "rank": "3-4",
             "player": "Franck Gauci",
-            "winrate": 0.8,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],

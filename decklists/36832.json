@@ -10,7 +10,6 @@
             "deck_id": "476821",
             "rank": "1",
             "player": "Alex 'onesauk'",
-            "winrate": 1.0,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "476822",
             "rank": "2",
             "player": "Ja",
-            "winrate": 0.8,
             "commander": [
                 "Sai, Master Thopterist"
             ],
@@ -206,7 +204,6 @@
             "deck_id": "476823",
             "rank": "3-4",
             "player": "Richard",
-            "winrate": 0.6,
             "commander": [
                 "Thrasta, Tempest's Roar"
             ],
@@ -287,7 +284,6 @@
             "deck_id": "476824",
             "rank": "3-4",
             "player": "Jordane",
-            "winrate": 0.6,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],

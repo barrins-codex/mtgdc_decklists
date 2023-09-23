@@ -10,7 +10,6 @@
             "deck_id": "330821",
             "rank": "5-8",
             "player": "Pierre-axel Bral",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Kraum, Ludevic's Opus",
                 "Tymna the Weaver"
@@ -120,7 +119,6 @@
             "deck_id": "330822",
             "rank": "5-8",
             "player": "François Cloux",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -205,7 +203,6 @@
             "deck_id": "330823",
             "rank": "5-8",
             "player": "Justo Chacon",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Tymna the Weaver",
                 "Thrasios, Triton Hero"
@@ -314,7 +311,6 @@
             "deck_id": "330824",
             "rank": "3-4",
             "player": "Alexandre \"zankou05\" Leroyer",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Titania, Protector of Argoth"
             ],
@@ -409,7 +405,6 @@
             "deck_id": "330825",
             "rank": "3-4",
             "player": "Soratami",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Will Kenrith",
                 "Rowan Kenrith"
@@ -501,7 +496,6 @@
             "deck_id": "330826",
             "rank": "5-8",
             "player": "Charles Raynaud",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Baral, Chief of Compliance"
             ],
@@ -577,7 +571,6 @@
             "deck_id": "330827",
             "rank": "1",
             "player": "Thomas \"yaga\" Brochard-garnier",
-            "winrate": 0.9,
             "commander": [
                 "Yuriko, the Tiger's Shadow"
             ],
@@ -674,7 +667,6 @@
             "deck_id": "330828",
             "rank": "2",
             "player": "Guillaume Audiffren",
-            "winrate": 0.8,
             "commander": [
                 "Baral, Chief of Compliance"
             ],

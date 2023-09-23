@@ -10,7 +10,6 @@
             "deck_id": "533031",
             "rank": "1",
             "player": "Thomas Le Goff",
-            "winrate": 1.0,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "533032",
             "rank": "2",
             "player": "Guillaume Mahy",
-            "winrate": 0.8,
             "commander": [
                 "Yawgmoth, Thran Physician"
             ],
@@ -203,7 +201,6 @@
             "deck_id": "533033",
             "rank": "3-4",
             "player": "Gweltaz Le Roux",
-            "winrate": 0.8,
             "commander": [
                 "Tana, the Bloodsower",
                 "Yoshimaru, Ever Faithful"
@@ -312,7 +309,6 @@
             "deck_id": "533034",
             "rank": "3-4",
             "player": "Cyril Fulbert",
-            "winrate": 0.8,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -418,7 +414,6 @@
             "deck_id": "533035",
             "rank": "5-8",
             "player": "Charlie Delabrousse",
-            "winrate": 0.6,
             "commander": [
                 "Tana, the Bloodsower",
                 "Yoshimaru, Ever Faithful"
@@ -528,7 +523,6 @@
             "deck_id": "533036",
             "rank": "5-8",
             "player": "Tanguy Leclercq",
-            "winrate": 0.6,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -638,7 +632,6 @@
             "deck_id": "533037",
             "rank": "5-8",
             "player": "François Bouyon",
-            "winrate": 0.6,
             "commander": [
                 "Prossh, Skyraider of Kher"
             ],
@@ -745,7 +738,6 @@
             "deck_id": "533038",
             "rank": "5-8",
             "player": "Dan Advocat",
-            "winrate": 0.6,
             "commander": [
                 "Feldon, Ronom Excavator"
             ],

@@ -10,7 +10,6 @@
             "deck_id": "488897",
             "rank": "1",
             "player": "Alexandre Andouard",
-            "winrate": 1.0,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "488898",
             "rank": "2",
             "player": "Loïc Baverel",
-            "winrate": 0.8,
             "commander": [
                 "Saskia the Unyielding"
             ],
@@ -230,7 +228,6 @@
             "deck_id": "488899",
             "rank": "3-4",
             "player": "Cyril Tournier",
-            "winrate": 0.8,
             "commander": [
                 "Daretti, Scrap Savant"
             ],
@@ -313,7 +310,6 @@
             "deck_id": "488900",
             "rank": "3-4",
             "player": "Pierre-louis Biet",
-            "winrate": 0.8,
             "commander": [
                 "Raffine, Scheming Seer"
             ],

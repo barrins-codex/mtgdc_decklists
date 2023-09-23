@@ -10,7 +10,6 @@
             "deck_id": "460578",
             "rank": "1",
             "player": "Paul Juyaux",
-            "winrate": 1.0,
             "commander": [
                 "Saskia the Unyielding"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "460579",
             "rank": "2",
             "player": "Jeremy Poujade (bigmalyon)",
-            "winrate": 0.8,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -225,7 +223,6 @@
             "deck_id": "460580",
             "rank": "3-4",
             "player": "Theo Michaud",
-            "winrate": 0.8,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -335,7 +332,6 @@
             "deck_id": "460581",
             "rank": "3-4",
             "player": "Marc Cordier",
-            "winrate": 0.8,
             "commander": [
                 "Esika, God of the Tree"
             ],

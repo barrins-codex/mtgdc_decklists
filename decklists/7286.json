@@ -10,7 +10,6 @@
             "deck_id": "241756",
             "rank": "1",
             "player": "Duco Weidema",
-            "winrate": 1.0,
             "commander": [
                 "Oloro, Ageless Ascetic"
             ],
@@ -119,7 +118,6 @@
             "deck_id": "241757",
             "rank": "2",
             "player": "Leroy la Fontaine",
-            "winrate": 0.8,
             "commander": [
                 "Jenara, Asura of War"
             ],

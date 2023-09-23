@@ -10,7 +10,6 @@
             "deck_id": "262377",
             "rank": "3-4",
             "player": "Alexander Kuzbar",
-            "winrate": 0.8,
             "commander": [
                 "Vendilion Clique"
             ],
@@ -96,7 +95,6 @@
             "deck_id": "262378",
             "rank": "5-8",
             "player": "Maxim Apletalin",
-            "winrate": 0.6,
             "commander": [
                 "Anafenza, the Foremost"
             ],
@@ -201,7 +199,6 @@
             "deck_id": "262379",
             "rank": "5-8",
             "player": "Evgeny Krechmer",
-            "winrate": 0.6,
             "commander": [
                 "Teferi, Temporal Archmage"
             ],
@@ -290,7 +287,6 @@
             "deck_id": "262380",
             "rank": "5-8",
             "player": "Pavel Golubtsov",
-            "winrate": 0.6,
             "commander": [
                 "Griselbrand"
             ],
@@ -375,7 +371,6 @@
             "deck_id": "262381",
             "rank": "5-8",
             "player": "Victor Antoshkin",
-            "winrate": 0.6,
             "commander": [
                 "Animar, Soul of Elements"
             ],
@@ -479,7 +474,6 @@
             "deck_id": "262382",
             "rank": "2",
             "player": "Matvey Dolganov",
-            "winrate": 0.8,
             "commander": [
                 "Prossh, Skyraider of Kher"
             ],
@@ -586,7 +580,6 @@
             "deck_id": "262383",
             "rank": "3-4",
             "player": "Sergey Udakhin",
-            "winrate": 0.8,
             "commander": [
                 "Marath, Will of the Wild"
             ],
@@ -690,7 +683,6 @@
             "deck_id": "262384",
             "rank": "1",
             "player": "Sergey \"Loxmatii\" Lamzin",
-            "winrate": 1.0,
             "commander": [
                 "Animar, Soul of Elements"
             ],

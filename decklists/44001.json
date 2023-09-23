@@ -10,7 +10,6 @@
             "deck_id": "524608",
             "rank": "1",
             "player": "Victor Sorreau",
-            "winrate": 1.0,
             "commander": [
                 "Tourach, Dread Cantor"
             ],
@@ -95,7 +94,6 @@
             "deck_id": "524609",
             "rank": "2",
             "player": "Mathieu Leclere",
-            "winrate": 0.8,
             "commander": [
                 "Niv-Mizzet Reborn"
             ],
@@ -205,7 +203,6 @@
             "deck_id": "524610",
             "rank": "3-4",
             "player": "Idris Achouri",
-            "winrate": 0.6,
             "commander": [
                 "Extus, Oriq Overlord"
             ],
@@ -315,7 +312,6 @@
             "deck_id": "524611",
             "rank": "3-4",
             "player": "Julien Danger",
-            "winrate": 0.6,
             "commander": [
                 "Dihada, Binder of Wills"
             ],

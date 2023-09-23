@@ -10,7 +10,6 @@
             "deck_id": "316551",
             "rank": "3-4",
             "player": "Sven Müller",
-            "winrate": 0.8,
             "commander": [
                 "Zurgo Bellstriker"
             ],
@@ -90,7 +89,6 @@
             "deck_id": "316552",
             "rank": "3-4",
             "player": "Björn Hoffmann",
-            "winrate": 0.8,
             "commander": [
                 "Tymna the Weaver",
                 "Reyhan, Last of the Abzan"
@@ -198,7 +196,6 @@
             "deck_id": "316553",
             "rank": "1",
             "player": "Benjamin Aithaj-kaddour",
-            "winrate": 1.0,
             "commander": [
                 "Saskia the Unyielding"
             ],
@@ -308,7 +305,6 @@
             "deck_id": "316554",
             "rank": "2",
             "player": "Sebastian Haines",
-            "winrate": 0.8,
             "commander": [
                 "Leovold, Emissary of Trest"
             ],

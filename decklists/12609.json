@@ -10,7 +10,6 @@
             "deck_id": "272868",
             "rank": "1",
             "player": "Gaël Millet",
-            "winrate": 0.8888888888888888,
             "commander": [
                 "Shu Yun, the Silent Tempest"
             ],
@@ -116,7 +115,6 @@
             "deck_id": "272869",
             "rank": "2",
             "player": "Lionel \"Hannibal44\" Galliere",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Narset, Enlightened Master"
             ],
@@ -225,7 +223,6 @@
             "deck_id": "272933",
             "rank": "3-4",
             "player": "Thomas Mechin",
-            "winrate": 0.75,
             "commander": [
                 "Yisan, the Wanderer Bard"
             ],

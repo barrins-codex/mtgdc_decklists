@@ -10,7 +10,6 @@
             "deck_id": "458119",
             "rank": "1",
             "player": "Chang Zheng",
-            "winrate": 1.0,
             "commander": [
                 "Sythis, Harvest's Hand"
             ],
@@ -115,7 +114,6 @@
             "deck_id": "458120",
             "rank": "2",
             "player": "Fan Yang",
-            "winrate": 0.8,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -225,7 +223,6 @@
             "deck_id": "458121",
             "rank": "3-4",
             "player": "Xu Han",
-            "winrate": 0.6,
             "commander": [
                 "Jegantha, the Wellspring",
                 "Niv-Mizzet Reborn"
@@ -336,7 +333,6 @@
             "deck_id": "458122",
             "rank": "3-4",
             "player": "Lian Peng",
-            "winrate": 0.6,
             "commander": [
                 "Kraum, Ludevic's Opus",
                 "Malcolm, Keen-Eyed Navigator"

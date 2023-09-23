@@ -10,7 +10,6 @@
             "deck_id": "397450",
             "rank": "2",
             "player": "Shen Junkai",
-            "winrate": 0.8,
             "commander": [
                 "Lurrus of the Dream-Den",
                 "Karlov of the Ghost Council"
@@ -120,7 +119,6 @@
             "deck_id": "397451",
             "rank": "1",
             "player": "Pan Liangchen",
-            "winrate": 1.0,
             "commander": [
                 "Thrasios, Triton Hero",
                 "Kraum, Ludevic's Opus"

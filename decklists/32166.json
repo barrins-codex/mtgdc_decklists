@@ -10,7 +10,6 @@
             "deck_id": "447811",
             "rank": "1",
             "player": "Fabio \"grimm\" Weber",
-            "winrate": 1.0,
             "commander": [
                 "The Gitrog Monster"
             ],
@@ -110,7 +109,6 @@
             "deck_id": "447812",
             "rank": "2",
             "player": "Raphaël \"eispone\" Léon",
-            "winrate": 0.8,
             "commander": [
                 "Winota, Joiner of Forces"
             ],

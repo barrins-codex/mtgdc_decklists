@@ -10,7 +10,6 @@
             "deck_id": "445893",
             "rank": "1",
             "player": "Lian Peng",
-            "winrate": 1.0,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -95,7 +94,6 @@
             "deck_id": "445894",
             "rank": "2",
             "player": "Zhao Han",
-            "winrate": 0.8,
             "commander": [
                 "Niv-Mizzet Reborn"
             ],
@@ -205,7 +203,6 @@
             "deck_id": "445895",
             "rank": "3-4",
             "player": "Qj",
-            "winrate": 0.8,
             "commander": [
                 "Niv-Mizzet Reborn"
             ],
@@ -315,7 +312,6 @@
             "deck_id": "445896",
             "rank": "3-4",
             "player": "He Ying",
-            "winrate": 0.8,
             "commander": [
                 "Golos, Tireless Pilgrim"
             ],
@@ -425,7 +421,6 @@
             "deck_id": "445897",
             "rank": "5-8",
             "player": "Sun Bolong",
-            "winrate": 0.6,
             "commander": [
                 "Queen Marchesa"
             ],
@@ -535,7 +530,6 @@
             "deck_id": "445898",
             "rank": "5-8",
             "player": "Charles Wang",
-            "winrate": 0.6,
             "commander": [
                 "Golos, Tireless Pilgrim"
             ],
@@ -645,7 +639,6 @@
             "deck_id": "445899",
             "rank": "5-8",
             "player": "Shen Junkai",
-            "winrate": 0.6,
             "commander": [
                 "Hogaak, Arisen Necropolis"
             ],
@@ -755,7 +748,6 @@
             "deck_id": "445900",
             "rank": "5-8",
             "player": "Gao Yixuan",
-            "winrate": 0.6,
             "commander": [
                 "Maelstrom Wanderer"
             ],

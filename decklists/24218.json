@@ -10,7 +10,6 @@
             "deck_id": "369000",
             "rank": "1",
             "player": "Martin G.",
-            "winrate": 1.0,
             "commander": [
                 "Thrasios, Triton Hero",
                 "Tymna the Weaver"
@@ -120,7 +119,6 @@
             "deck_id": "369001",
             "rank": "2",
             "player": "Mitja H.",
-            "winrate": 0.8,
             "commander": [
                 "Korvold, Fae-Cursed King"
             ],
@@ -227,7 +225,6 @@
             "deck_id": "369002",
             "rank": "3",
             "player": "Matthias S.",
-            "winrate": 0.6,
             "commander": [
                 "Saskia the Unyielding"
             ],

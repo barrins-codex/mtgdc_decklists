@@ -10,7 +10,6 @@
             "deck_id": "473052",
             "rank": "1",
             "player": "Flavien \"crimelune\" Paillet",
-            "winrate": 0.9,
             "commander": [
                 "Tivit, Seller of Secrets"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "473053",
             "rank": "2",
             "player": "Thomas Mechin",
-            "winrate": 0.8,
             "commander": [
                 "Shorikai, Genesis Engine"
             ],
@@ -221,7 +219,6 @@
             "deck_id": "473054",
             "rank": "3-4",
             "player": "Bastien \"Isakami\" Guichard",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Isamaru, Hound of Konda"
             ],
@@ -306,7 +303,6 @@
             "deck_id": "473055",
             "rank": "3-4",
             "player": "Sam Marti",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Shorikai, Genesis Engine"
             ],
@@ -406,7 +402,6 @@
             "deck_id": "473056",
             "rank": "5-8",
             "player": "Maymard Christophe",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -516,7 +511,6 @@
             "deck_id": "473057",
             "rank": "5-8",
             "player": "Aethrix",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Lurrus of the Dream-Den",
                 "Wernog, Rider's Chaplain",
@@ -627,7 +621,6 @@
             "deck_id": "473058",
             "rank": "5-8",
             "player": "Fish",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -737,7 +730,6 @@
             "deck_id": "473059",
             "rank": "5-8",
             "player": "Kaourintin \"falaakr\" Le Guiban",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Kyodai, Soul of Kamigawa"
             ],
@@ -847,7 +839,6 @@
             "deck_id": "473060",
             "rank": "9",
             "player": "Loïc Le Guennec",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Grist, the Hunger Tide"
             ],
@@ -946,7 +937,6 @@
             "deck_id": "473061",
             "rank": "10",
             "player": "Yann Belmer",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -1056,7 +1046,6 @@
             "deck_id": "473062",
             "rank": "11",
             "player": "Chiarvesio Julien",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Shorikai, Genesis Engine"
             ],
@@ -1157,7 +1146,6 @@
             "deck_id": "473063",
             "rank": "12",
             "player": "Damien Jantzen Eventwin",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Shorikai, Genesis Engine"
             ],
@@ -1257,7 +1245,6 @@
             "deck_id": "473064",
             "rank": "13",
             "player": "Gouigoui",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Lonis, Cryptozoologist"
             ],
@@ -1357,7 +1344,6 @@
             "deck_id": "473065",
             "rank": "14",
             "player": "Fabry Julien",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Grenzo, Dungeon Warden"
             ],
@@ -1459,7 +1445,6 @@
             "deck_id": "473066",
             "rank": "15",
             "player": "Jonathan Marvie",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Niv-Mizzet Reborn"
             ],
@@ -1569,7 +1554,6 @@
             "deck_id": "473067",
             "rank": "16",
             "player": "Florian Trotte",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Shorikai, Genesis Engine"
             ],

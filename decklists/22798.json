@@ -10,7 +10,6 @@
             "deck_id": "355786",
             "rank": "1",
             "player": "Martin G.",
-            "winrate": 1.0,
             "commander": [
                 "Thrasios, Triton Hero",
                 "Ludevic, Necro-Alchemist"
@@ -118,7 +117,6 @@
             "deck_id": "355787",
             "rank": "2",
             "player": "Samuel Z.",
-            "winrate": 0.8,
             "commander": [
                 "Ludevic, Necro-Alchemist",
                 "Thrasios, Triton Hero"

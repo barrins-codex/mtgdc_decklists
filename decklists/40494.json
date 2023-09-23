@@ -10,7 +10,6 @@
             "deck_id": "501326",
             "rank": "1",
             "player": "Andras Konya",
-            "winrate": 1.0,
             "commander": [
                 "Ertai Resurrected"
             ],
@@ -111,7 +110,6 @@
             "deck_id": "501327",
             "rank": "2",
             "player": "Norbert Takats",
-            "winrate": 0.8,
             "commander": [
                 "Elminster"
             ],
@@ -214,7 +212,6 @@
             "deck_id": "501328",
             "rank": "3-4",
             "player": "Bittmann Martin",
-            "winrate": 0.6,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -302,7 +299,6 @@
             "deck_id": "501329",
             "rank": "3-4",
             "player": "Bendi Konya",
-            "winrate": 0.6,
             "commander": [
                 "Elminster"
             ],

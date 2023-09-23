@@ -10,7 +10,6 @@
             "deck_id": "547534",
             "rank": "1",
             "player": "Julien Rouar",
-            "winrate": 1.0,
             "commander": [
                 "Feldon, Ronom Excavator"
             ],
@@ -99,7 +98,6 @@
             "deck_id": "547535",
             "rank": "2",
             "player": "Nicolas Decam",
-            "winrate": 0.8,
             "commander": [
                 "Juri, Master of the Revue"
             ],
@@ -199,7 +197,6 @@
             "deck_id": "547536",
             "rank": "3-4",
             "player": "Noah Kollin",
-            "winrate": 0.8,
             "commander": [
                 "Faceless One",
                 "Gut, True Soul Zealot"
@@ -295,7 +292,6 @@
             "deck_id": "547537",
             "rank": "3-4",
             "player": "Adrien Delafosse",
-            "winrate": 0.8,
             "commander": [
                 "Light-Paws, Emperor's Voice"
             ],

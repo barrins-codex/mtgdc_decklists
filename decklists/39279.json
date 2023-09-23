@@ -10,7 +10,6 @@
             "deck_id": "492518",
             "rank": "1",
             "player": "Hervé Brocker",
-            "winrate": 1.0,
             "commander": [
                 "Kroxa, Titan of Death's Hunger"
             ],
@@ -116,7 +115,6 @@
             "deck_id": "492519",
             "rank": "2",
             "player": "Alexis Gosset",
-            "winrate": 0.8,
             "commander": [
                 "Jeska, Thrice Reborn",
                 "Ludevic, Necro-Alchemist"
@@ -220,7 +218,6 @@
             "deck_id": "492520",
             "rank": "3-4",
             "player": "Antoine Marchal",
-            "winrate": 0.8,
             "commander": [
                 "Octavia, Living Thesis"
             ],
@@ -303,7 +300,6 @@
             "deck_id": "492521",
             "rank": "3-4",
             "player": "Sébastien Hernandez",
-            "winrate": 0.8,
             "commander": [
                 "Tivit, Seller of Secrets"
             ],

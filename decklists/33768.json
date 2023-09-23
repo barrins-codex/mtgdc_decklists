@@ -10,7 +10,6 @@
             "deck_id": "457319",
             "rank": "1",
             "player": "Thibault Cantaluppi",
-            "winrate": 1.0,
             "commander": [
                 "Jori En, Ruin Diver"
             ],
@@ -105,7 +104,6 @@
             "deck_id": "457320",
             "rank": "2",
             "player": "Charlie Cha",
-            "winrate": 0.8,
             "commander": [
                 "Sisay, Weatherlight Captain"
             ],

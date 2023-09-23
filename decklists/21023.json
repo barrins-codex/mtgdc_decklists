@@ -10,7 +10,6 @@
             "deck_id": "339541",
             "rank": "1",
             "player": "Yang Yang",
-            "winrate": 1.0,
             "commander": [
                 "Yuriko, the Tiger's Shadow"
             ],
@@ -108,7 +107,6 @@
             "deck_id": "339542",
             "rank": "3-4",
             "player": "He Ying",
-            "winrate": 0.8,
             "commander": [
                 "Niv-Mizzet, Parun"
             ],
@@ -199,7 +197,6 @@
             "deck_id": "339543",
             "rank": "3-4",
             "player": "Pan Liangchen",
-            "winrate": 0.8,
             "commander": [
                 "Najeela, the Blade-Blossom"
             ],
@@ -306,7 +303,6 @@
             "deck_id": "339544",
             "rank": "2",
             "player": "Jiang Ling",
-            "winrate": 0.8,
             "commander": [
                 "Saskia the Unyielding"
             ],

@@ -10,7 +10,6 @@
             "deck_id": "358065",
             "rank": "1",
             "player": "Quentin Rullaud (bobota)",
-            "winrate": 1.0,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -95,7 +94,6 @@
             "deck_id": "358066",
             "rank": "2",
             "player": "Grégoire Payan (koraysh)",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Narset, Enlightened Master"
             ],

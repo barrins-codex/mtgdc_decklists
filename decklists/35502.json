@@ -10,7 +10,6 @@
             "deck_id": "468018",
             "rank": "1",
             "player": "Alexandre Monteiro",
-            "winrate": 1.0,
             "commander": [
                 "Dennick, Pious Apprentice"
             ],
@@ -99,7 +98,6 @@
             "deck_id": "468019",
             "rank": "2",
             "player": "Fausto Pacheco",
-            "winrate": 0.8,
             "commander": [
                 "Octavia, Living Thesis"
             ],
@@ -181,7 +179,6 @@
             "deck_id": "468020",
             "rank": "3-4",
             "player": "Ramon Monteiro",
-            "winrate": 0.6,
             "commander": [
                 "Talrand, Sky Summoner"
             ],
@@ -269,7 +266,6 @@
             "deck_id": "468021",
             "rank": "3-4",
             "player": "Thales Gomes",
-            "winrate": 0.6,
             "commander": [
                 "Laelia, the Blade Reforged"
             ],

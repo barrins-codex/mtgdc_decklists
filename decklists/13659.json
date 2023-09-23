@@ -10,7 +10,6 @@
             "deck_id": "280459",
             "rank": "5-8",
             "player": "Simone Molaro",
-            "winrate": 0.6,
             "commander": [
                 "Grand Arbiter Augustin IV"
             ],
@@ -111,7 +110,6 @@
             "deck_id": "280460",
             "rank": "5-8",
             "player": "Daniele Berardi",
-            "winrate": 0.6,
             "commander": [
                 "Jenara, Asura of War"
             ],
@@ -219,7 +217,6 @@
             "deck_id": "280461",
             "rank": "5-8",
             "player": "Matteo Lanna",
-            "winrate": 0.6,
             "commander": [
                 "Selvala, Heart of the Wilds"
             ],
@@ -309,7 +306,6 @@
             "deck_id": "280462",
             "rank": "5-8",
             "player": "Marco Sponza",
-            "winrate": 0.6,
             "commander": [
                 "Dragonlord Ojutai"
             ],
@@ -405,7 +401,6 @@
             "deck_id": "280463",
             "rank": "3-4",
             "player": "Andrea Rostellato",
-            "winrate": 0.8,
             "commander": [
                 "Doran, the Siege Tower"
             ],
@@ -515,7 +510,6 @@
             "deck_id": "280464",
             "rank": "3-4",
             "player": "Simonpietro Speziale",
-            "winrate": 0.8,
             "commander": [
                 "Jace, Vryn's Prodigy"
             ],
@@ -608,7 +602,6 @@
             "deck_id": "280465",
             "rank": "1",
             "player": "Michele Atzeni",
-            "winrate": 1.0,
             "commander": [
                 "Geist of Saint Traft"
             ],
@@ -702,7 +695,6 @@
             "deck_id": "280466",
             "rank": "2",
             "player": "Francesco Belvedere",
-            "winrate": 0.8,
             "commander": [
                 "Jace, Vryn's Prodigy"
             ],

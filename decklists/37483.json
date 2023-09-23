@@ -10,7 +10,6 @@
             "deck_id": "480940",
             "rank": "1",
             "player": "Thomas",
-            "winrate": 0.8888888888888888,
             "commander": [
                 "Kroxa, Titan of Death's Hunger"
             ],
@@ -111,7 +110,6 @@
             "deck_id": "480941",
             "rank": "2",
             "player": "Marc",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -221,7 +219,6 @@
             "deck_id": "480942",
             "rank": "3-4",
             "player": "Dominique",
-            "winrate": 0.75,
             "commander": [
                 "Minsc &amp; Boo, Timeless Heroes"
             ],
@@ -323,7 +320,6 @@
             "deck_id": "480943",
             "rank": "3-4",
             "player": "Erick",
-            "winrate": 0.75,
             "commander": [
                 "Esika, God of the Tree"
             ],
@@ -433,7 +429,6 @@
             "deck_id": "480944",
             "rank": "5-8",
             "player": "Fred",
-            "winrate": 0.75,
             "commander": [
                 "Kess, Dissident Mage"
             ],
@@ -543,7 +538,6 @@
             "deck_id": "480945",
             "rank": "5-8",
             "player": "Victor",
-            "winrate": 0.75,
             "commander": [
                 "Hogaak, Arisen Necropolis"
             ],
@@ -649,7 +643,6 @@
             "deck_id": "480946",
             "rank": "5-8",
             "player": "Fred G.",
-            "winrate": 0.75,
             "commander": [
                 "Saskia the Unyielding"
             ],
@@ -759,7 +752,6 @@
             "deck_id": "480947",
             "rank": "5-8",
             "player": "Adrien Gau",
-            "winrate": 0.75,
             "commander": [
                 "Wernog, Rider's Chaplain",
                 "Bjorna, Nightfall Alchemist"

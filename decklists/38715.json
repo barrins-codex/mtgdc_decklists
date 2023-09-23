@@ -10,7 +10,6 @@
             "deck_id": "488969",
             "rank": "1",
             "player": "Mizac Matthieu",
-            "winrate": 1.0,
             "commander": [
                 "Juri, Master of the Revue"
             ],
@@ -111,7 +110,6 @@
             "deck_id": "488970",
             "rank": "2",
             "player": "Grapotte Mathys",
-            "winrate": 0.8,
             "commander": [
                 "Grist, the Hunger Tide"
             ],
@@ -210,7 +208,6 @@
             "deck_id": "488971",
             "rank": "3-4",
             "player": "Silberfeld Noah",
-            "winrate": 0.8,
             "commander": [
                 "Balmor, Battlemage Captain"
             ],
@@ -311,7 +308,6 @@
             "deck_id": "488972",
             "rank": "3-4",
             "player": "Facca Léo",
-            "winrate": 0.8,
             "commander": [
                 "Niv-Mizzet Reborn"
             ],
@@ -421,7 +417,6 @@
             "deck_id": "488973",
             "rank": "5-8",
             "player": "Sieurac Andy",
-            "winrate": 0.6,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -531,7 +526,6 @@
             "deck_id": "488974",
             "rank": "5-8",
             "player": "Nau Christophe",
-            "winrate": 0.6,
             "commander": [
                 "Lurrus of the Dream-Den",
                 "Wernog, Rider's Chaplain",
@@ -642,7 +636,6 @@
             "deck_id": "488975",
             "rank": "5-8",
             "player": "Mackré Quentin",
-            "winrate": 0.6,
             "commander": [
                 "Klothys, God of Destiny"
             ],
@@ -749,7 +742,6 @@
             "deck_id": "488976",
             "rank": "5-8",
             "player": "Pottier Quentin",
-            "winrate": 0.6,
             "commander": [
                 "Balmor, Battlemage Captain"
             ],

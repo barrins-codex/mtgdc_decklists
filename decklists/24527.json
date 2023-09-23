@@ -10,7 +10,6 @@
             "deck_id": "371461",
             "rank": "2",
             "player": "Alexander Smirnov",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Heliod, Sun-Crowned"
             ],
@@ -89,7 +88,6 @@
             "deck_id": "371462",
             "rank": "1",
             "player": "Petr Murygin",
-            "winrate": 1.0,
             "commander": [
                 "Yawgmoth, Thran Physician"
             ],

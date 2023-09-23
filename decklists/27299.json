@@ -10,7 +10,6 @@
             "deck_id": "416218",
             "rank": "2",
             "player": "He Ying",
-            "winrate": 0.8,
             "commander": [
                 "Sisay, Weatherlight Captain",
                 "Jegantha, the Wellspring"
@@ -121,7 +120,6 @@
             "deck_id": "416219",
             "rank": "1",
             "player": "Jiang Ling",
-            "winrate": 1.0,
             "commander": [
                 "Kinnan, Bonder Prodigy"
             ],

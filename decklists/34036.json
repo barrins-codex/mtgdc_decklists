@@ -10,7 +10,6 @@
             "deck_id": "458958",
             "rank": "1",
             "player": "John Wang",
-            "winrate": 1.0,
             "commander": [
                 "Saskia the Unyielding"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "458959",
             "rank": "2",
             "player": "Char",
-            "winrate": 0.8,
             "commander": [
                 "Niv-Mizzet Reborn"
             ],
@@ -230,7 +228,6 @@
             "deck_id": "458960",
             "rank": "3-4",
             "player": "Boran Gao",
-            "winrate": 0.8,
             "commander": [
                 "Miara, Thorn of the Glade",
                 "Tevesh Szat, Doom of Fools"
@@ -313,7 +310,6 @@
             "deck_id": "458961",
             "rank": "3-4",
             "player": "Hongchen Zhang",
-            "winrate": 0.8,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],

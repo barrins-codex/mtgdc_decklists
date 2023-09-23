@@ -10,7 +10,6 @@
             "deck_id": "489895",
             "rank": "1",
             "player": "Eik The Necromancer",
-            "winrate": 1.0,
             "commander": [
                 "Malcolm, Keen-Eyed Navigator",
                 "Yoshimaru, Ever Faithful"
@@ -113,7 +112,6 @@
             "deck_id": "489896",
             "rank": "2",
             "player": "Jonas Kretzschmar",
-            "winrate": 0.8,
             "commander": [
                 "Dennick, Pious Apprentice"
             ],

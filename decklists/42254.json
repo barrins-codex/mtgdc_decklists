@@ -10,7 +10,6 @@
             "deck_id": "512915",
             "rank": "1",
             "player": "Richard Kolenič",
-            "winrate": 1.0,
             "commander": [
                 "Feldon, Ronom Excavator"
             ],
@@ -99,7 +98,6 @@
             "deck_id": "512916",
             "rank": "2",
             "player": "Patrik Horváth",
-            "winrate": 0.8,
             "commander": [
                 "Dihada, Binder of Wills"
             ],
@@ -209,7 +207,6 @@
             "deck_id": "512917",
             "rank": "3",
             "player": "Dominik Repa",
-            "winrate": 0.6,
             "commander": [
                 "Golos, Tireless Pilgrim"
             ],
@@ -319,7 +316,6 @@
             "deck_id": "512918",
             "rank": "4",
             "player": "Martin Opeta",
-            "winrate": 0.6,
             "commander": [
                 "General Ferrous Rokiric"
             ],

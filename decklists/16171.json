@@ -10,7 +10,6 @@
             "deck_id": "299781",
             "rank": "3-4",
             "player": "Andrey \"mc_artifact\" Kostin",
-            "winrate": 0.8,
             "commander": [
                 "Baral, Chief of Compliance"
             ],
@@ -88,7 +87,6 @@
             "deck_id": "299782",
             "rank": "2",
             "player": "Sergey \"loxmatii\" Lamzin",
-            "winrate": 0.8,
             "commander": [
                 "Tymna the Weaver",
                 "Thrasios, Triton Hero"
@@ -193,7 +191,6 @@
             "deck_id": "299783",
             "rank": "1",
             "player": "Denis Nebykov",
-            "winrate": 1.0,
             "commander": [
                 "Zurgo Bellstriker"
             ],
@@ -270,7 +267,6 @@
             "deck_id": "299784",
             "rank": "5-8",
             "player": "Alexander Sidorov",
-            "winrate": 0.6,
             "commander": [
                 "Keranos, God of Storms"
             ],
@@ -358,7 +354,6 @@
             "deck_id": "299785",
             "rank": "5-8",
             "player": "Maxim \"ratte\" Mesheryakov",
-            "winrate": 0.6,
             "commander": [
                 "Geist of Saint Traft"
             ],
@@ -458,7 +453,6 @@
             "deck_id": "299786",
             "rank": "3-4",
             "player": "Vyacheslav Serputko",
-            "winrate": 0.8,
             "commander": [
                 "Bruse Tarl, Boorish Herder",
                 "Sidar Kondo of Jamuraa"
@@ -563,7 +557,6 @@
             "deck_id": "299787",
             "rank": "5-8",
             "player": "Mattew Dolganov",
-            "winrate": 0.6,
             "commander": [
                 "Geist of Saint Traft"
             ],
@@ -659,7 +652,6 @@
             "deck_id": "299788",
             "rank": "5-8",
             "player": "Vadim Uvarov",
-            "winrate": 0.6,
             "commander": [
                 "Baral, Chief of Compliance"
             ],

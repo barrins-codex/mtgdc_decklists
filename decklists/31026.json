@@ -10,7 +10,6 @@
             "deck_id": "441421",
             "rank": "1",
             "player": "Jonas Jörns",
-            "winrate": 1.0,
             "commander": [
                 "Liliana, Heretical Healer"
             ],
@@ -99,7 +98,6 @@
             "deck_id": "441422",
             "rank": "2",
             "player": "Jonas Kretzschmar",
-            "winrate": 0.8,
             "commander": [
                 "Birgi, God of Storytelling"
             ],

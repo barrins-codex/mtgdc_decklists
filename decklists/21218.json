@@ -10,7 +10,6 @@
             "deck_id": "341662",
             "rank": "1",
             "player": "Nils H.",
-            "winrate": 1.0,
             "commander": [
                 "Arahbo, Roar of the World"
             ],
@@ -105,7 +104,6 @@
             "deck_id": "341663",
             "rank": "2",
             "player": "Felix M.",
-            "winrate": 0.8,
             "commander": [
                 "Thrasios, Triton Hero",
                 "Ludevic, Necro-Alchemist"

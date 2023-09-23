@@ -10,7 +10,6 @@
             "deck_id": "526932",
             "rank": "1",
             "player": "Hongchen Zhang",
-            "winrate": 1.0,
             "commander": [
                 "Calix, Guided by Fate"
             ],
@@ -111,7 +110,6 @@
             "deck_id": "526933",
             "rank": "2",
             "player": "John Wang",
-            "winrate": 0.8,
             "commander": [
                 "Dihada, Binder of Wills"
             ],

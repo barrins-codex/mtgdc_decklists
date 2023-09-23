@@ -10,7 +10,6 @@
             "deck_id": "460533",
             "rank": "1",
             "player": "Adrien Gau",
-            "winrate": 1.0,
             "commander": [
                 "Atraxa, Praetors' Voice"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "460534",
             "rank": "2",
             "player": "Jean-baptiste",
-            "winrate": 0.8,
             "commander": [
                 "Queen Marchesa"
             ],
@@ -230,7 +228,6 @@
             "deck_id": "460535",
             "rank": "3-4",
             "player": "Romain",
-            "winrate": 0.8,
             "commander": [
                 "Slogurk, the Overslime"
             ],
@@ -330,7 +327,6 @@
             "deck_id": "460536",
             "rank": "3-4",
             "player": "Lucile",
-            "winrate": 0.8,
             "commander": [
                 "Anafenza, the Foremost"
             ],

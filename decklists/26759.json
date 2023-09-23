@@ -10,7 +10,6 @@
             "deck_id": "407509",
             "rank": "3-4",
             "player": "Julien Chiarvesio",
-            "winrate": 0.8,
             "commander": [
                 "Niv-Mizzet Reborn"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "407510",
             "rank": "5-8",
             "player": "Robert Lecave (thebobby)",
-            "winrate": 0.6,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -203,7 +201,6 @@
             "deck_id": "407511",
             "rank": "5-8",
             "player": "Justo",
-            "winrate": 0.6,
             "commander": [
                 "Tymna the Weaver",
                 "Thrasios, Triton Hero"
@@ -313,7 +310,6 @@
             "deck_id": "407512",
             "rank": "5-8",
             "player": "Florian Trotte (logarythme)",
-            "winrate": 0.6,
             "commander": [
                 "Niv-Mizzet Reborn"
             ],
@@ -423,7 +419,6 @@
             "deck_id": "407513",
             "rank": "1",
             "player": "Alexandre Martial (barettcall50)",
-            "winrate": 1.0,
             "commander": [
                 "Uro, Titan of Nature's Wrath"
             ],
@@ -511,7 +506,6 @@
             "deck_id": "407514",
             "rank": "2",
             "player": "Stephen Helmer (bredzel69)",
-            "winrate": 0.8,
             "commander": [
                 "Uro, Titan of Nature's Wrath"
             ],
@@ -602,7 +596,6 @@
             "deck_id": "407515",
             "rank": "3-4",
             "player": "Bastien Guichard (isakami)",
-            "winrate": 0.8,
             "commander": [
                 "Isamaru, Hound of Konda"
             ],

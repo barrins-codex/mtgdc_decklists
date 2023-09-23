@@ -10,7 +10,6 @@
             "deck_id": "280211",
             "rank": "1",
             "player": "Esteban Alonso",
-            "winrate": 1.0,
             "commander": [
                 "Narset, Enlightened Master"
             ],
@@ -116,7 +115,6 @@
             "deck_id": "280212",
             "rank": "2",
             "player": "Cristian Hernandez",
-            "winrate": 0.8,
             "commander": [
                 "Arcum Dagsson"
             ],

@@ -10,7 +10,6 @@
             "deck_id": "431363",
             "rank": "1",
             "player": "Duoyan Li",
-            "winrate": 1.0,
             "commander": [
                 "Saskia the Unyielding"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "431364",
             "rank": "2",
             "player": "Black",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Klothys, God of Destiny"
             ],

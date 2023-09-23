@@ -10,7 +10,6 @@
             "deck_id": "549173",
             "rank": "1",
             "player": "Italo Gabriel",
-            "winrate": 1.0,
             "commander": [
                 "Octavia, Living Thesis"
             ],
@@ -96,7 +95,6 @@
             "deck_id": "549174",
             "rank": "2",
             "player": "Edson Formiga",
-            "winrate": 0.8,
             "commander": [
                 "Arwen, Mortal Queen"
             ],
@@ -199,7 +197,6 @@
             "deck_id": "549175",
             "rank": "3-4",
             "player": "Rafael Batista",
-            "winrate": 0.6,
             "commander": [
                 "Yoshimaru, Ever Faithful",
                 "Tana, the Bloodsower"
@@ -309,7 +306,6 @@
             "deck_id": "549176",
             "rank": "3-4",
             "player": "Guilherme (guima)",
-            "winrate": 0.6,
             "commander": [
                 "Ertai Resurrected"
             ],

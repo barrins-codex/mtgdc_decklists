@@ -10,7 +10,6 @@
             "deck_id": "281956",
             "rank": "3-4",
             "player": "Guillaume Secher",
-            "winrate": 0.625,
             "commander": [
                 "Leovold, Emissary of Trest"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "281957",
             "rank": "3-4",
             "player": "Vianney Moreau",
-            "winrate": 0.625,
             "commander": [
                 "Marchesa, the Black Rose"
             ],
@@ -221,7 +219,6 @@
             "deck_id": "281958",
             "rank": "2",
             "player": "Jean-Baptiste \"jbux\" Gagnepain",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Doran, the Siege Tower"
             ],
@@ -331,7 +328,6 @@
             "deck_id": "281959",
             "rank": "1",
             "player": "Kaourintin \"Falaakr\" Le Guiban",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Narset, Enlightened Master"
             ],
@@ -438,7 +434,6 @@
             "deck_id": "281960",
             "rank": "5-8",
             "player": "Cyril Germain",
-            "winrate": 0.625,
             "commander": [
                 "Queen Marchesa"
             ],
@@ -548,7 +543,6 @@
             "deck_id": "281961",
             "rank": "5-8",
             "player": "Maximilien Kalil",
-            "winrate": 0.625,
             "commander": [
                 "Prossh, Skyraider of Kher"
             ],
@@ -658,7 +652,6 @@
             "deck_id": "281962",
             "rank": "5-8",
             "player": "Maxence Achoun",
-            "winrate": 0.625,
             "commander": [
                 "Jace, Vryn's Prodigy"
             ],
@@ -731,7 +724,6 @@
             "deck_id": "281963",
             "rank": "5-8",
             "player": "Alexander \"newtraderdu78\" Loskoutoff",
-            "winrate": 0.625,
             "commander": [
                 "Jenara, Asura of War"
             ],

@@ -10,7 +10,6 @@
             "deck_id": "471857",
             "rank": "1",
             "player": "Martin Ogayon",
-            "winrate": 1.0,
             "commander": [
                 "Queen Marchesa"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "471858",
             "rank": "2",
             "player": "Dinno Zaide",
-            "winrate": 0.8,
             "commander": [
                 "Ludevic, Necro-Alchemist",
                 "Bruse Tarl, Boorish Herder"
@@ -228,7 +226,6 @@
             "deck_id": "471859",
             "rank": "3-4",
             "player": "Kid Ablaza",
-            "winrate": 0.8,
             "commander": [
                 "Grist, the Hunger Tide"
             ],
@@ -330,7 +327,6 @@
             "deck_id": "471860",
             "rank": "3-4",
             "player": "Judge",
-            "winrate": 0.8,
             "commander": [
                 "Atsushi, the Blazing Sky"
             ],

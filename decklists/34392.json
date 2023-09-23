@@ -10,7 +10,6 @@
             "deck_id": "461141",
             "rank": "1",
             "player": "Jiang Ling",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Niv-Mizzet Reborn"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "461142",
             "rank": "2",
             "player": "Zhang Jiawei",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Kraum, Ludevic's Opus",
                 "Livio, Oathsworn Sentinel"
@@ -228,7 +226,6 @@
             "deck_id": "461143",
             "rank": "3",
             "player": "Zhao Yingming",
-            "winrate": 0.625,
             "commander": [
                 "Kraum, Ludevic's Opus",
                 "Malcolm, Keen-Eyed Navigator"
@@ -328,7 +325,6 @@
             "deck_id": "461144",
             "rank": "4",
             "player": "Pan Liangchen",
-            "winrate": 0.625,
             "commander": [
                 "Galazeth Prismari"
             ],
@@ -427,7 +423,6 @@
             "deck_id": "461145",
             "rank": "5",
             "player": "Zhang Haoqi",
-            "winrate": 0.625,
             "commander": [
                 "Niv-Mizzet Reborn"
             ],
@@ -536,7 +531,6 @@
             "deck_id": "461146",
             "rank": "6",
             "player": "He Ying",
-            "winrate": 0.625,
             "commander": [
                 "Golos, Tireless Pilgrim"
             ],
@@ -646,7 +640,6 @@
             "deck_id": "461147",
             "rank": "6",
             "player": "Wan Yiheng",
-            "winrate": 0.625,
             "commander": [
                 "Malcolm, Keen-Eyed Navigator",
                 "Tevesh Szat, Doom of Fools"
@@ -739,7 +732,6 @@
             "deck_id": "461148",
             "rank": "8",
             "player": "Yao Jinwen",
-            "winrate": 0.625,
             "commander": [
                 "Varina, Lich Queen"
             ],

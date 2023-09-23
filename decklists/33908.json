@@ -10,7 +10,6 @@
             "deck_id": "458182",
             "rank": "1",
             "player": "Jules Lestienne",
-            "winrate": 0.9,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -98,7 +97,6 @@
             "deck_id": "458183",
             "rank": "2",
             "player": "Etienne Tehrani",
-            "winrate": 0.8,
             "commander": [
                 "Kraum, Ludevic's Opus",
                 "Livio, Oathsworn Sentinel"
@@ -206,7 +204,6 @@
             "deck_id": "458184",
             "rank": "3-4",
             "player": "Grégoire Payan",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "The Gitrog Monster"
             ],
@@ -305,7 +302,6 @@
             "deck_id": "458185",
             "rank": "3-4",
             "player": "Pyrrhus",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "The Gitrog Monster"
             ],
@@ -404,7 +400,6 @@
             "deck_id": "458186",
             "rank": "5-8",
             "player": "Vincent Ringuedé",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Malcolm, Keen-Eyed Navigator",
                 "Livio, Oathsworn Sentinel"
@@ -506,7 +501,6 @@
             "deck_id": "458187",
             "rank": "5-8",
             "player": "Robin Angebaud",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Malcolm, Keen-Eyed Navigator",
                 "Livio, Oathsworn Sentinel"
@@ -608,7 +602,6 @@
             "deck_id": "458188",
             "rank": "5-8",
             "player": "Nicolas François",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Malcolm, Keen-Eyed Navigator",
                 "Kraum, Ludevic's Opus"
@@ -707,7 +700,6 @@
             "deck_id": "458189",
             "rank": "5-8",
             "player": "Audren Boulic",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Livio, Oathsworn Sentinel",
                 "Kraum, Ludevic's Opus"
@@ -817,7 +809,6 @@
             "deck_id": "458190",
             "rank": "9-16",
             "player": "Kaourintin \"falaakr\" \"dave\" Le Guiban",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Varina, Lich Queen"
             ],
@@ -927,7 +918,6 @@
             "deck_id": "458191",
             "rank": "9-16",
             "player": "Thomas Bijl",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Adeliz, the Cinder Wind"
             ],
@@ -1021,7 +1011,6 @@
             "deck_id": "458192",
             "rank": "9-16",
             "player": "Camille Nicolas",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Prossh, Skyraider of Kher"
             ],
@@ -1131,7 +1120,6 @@
             "deck_id": "458193",
             "rank": "9-16",
             "player": "Sebastien Bohn",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Miara, Thorn of the Glade",
                 "Tevesh Szat, Doom of Fools"
@@ -1216,7 +1204,6 @@
             "deck_id": "458194",
             "rank": "9-16",
             "player": "Emmanuel Delvigne",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -1299,7 +1286,6 @@
             "deck_id": "458195",
             "rank": "9-16",
             "player": "Flavien \"crimelune\" Paillet",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Malcolm, Keen-Eyed Navigator",
                 "Livio, Oathsworn Sentinel"
@@ -1399,7 +1385,6 @@
             "deck_id": "458196",
             "rank": "9-16",
             "player": "Baptiste Hilmann",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Will Kenrith",
                 "Rowan Kenrith"
@@ -1491,7 +1476,6 @@
             "deck_id": "458197",
             "rank": "9-16",
             "player": "Mathys Grapotte",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],

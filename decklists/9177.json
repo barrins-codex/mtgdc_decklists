@@ -10,7 +10,6 @@
             "deck_id": "252511",
             "rank": "1",
             "player": "Benjamin Grenier",
-            "winrate": 0.8888888888888888,
             "commander": [
                 "Tasigur, the Golden Fang"
             ],
@@ -117,7 +116,6 @@
             "deck_id": "252512",
             "rank": "2",
             "player": "Mickaël Ailloud",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Nin, the Pain Artist"
             ],
@@ -201,7 +199,6 @@
             "deck_id": "252513",
             "rank": "3-4",
             "player": "Romain Bodnar",
-            "winrate": 0.75,
             "commander": [
                 "Maelstrom Wanderer"
             ],
@@ -311,7 +308,6 @@
             "deck_id": "252514",
             "rank": "3-4",
             "player": "Lionel Payen",
-            "winrate": 0.75,
             "commander": [
                 "Geist of Saint Traft"
             ],
@@ -412,7 +408,6 @@
             "deck_id": "252515",
             "rank": "5-8",
             "player": "Rémi Vignon",
-            "winrate": 0.75,
             "commander": [
                 "Child of Alara"
             ],
@@ -522,7 +517,6 @@
             "deck_id": "252516",
             "rank": "5-8",
             "player": "Elie Soubeyrand",
-            "winrate": 0.75,
             "commander": [
                 "Griselbrand"
             ],
@@ -534,7 +528,6 @@
             "deck_id": "252517",
             "rank": "5-8",
             "player": "Benjamin Bonin",
-            "winrate": 0.75,
             "commander": [
                 "Griselbrand"
             ],
@@ -621,7 +614,6 @@
             "deck_id": "252518",
             "rank": "5-8",
             "player": "Morgan Laleure",
-            "winrate": 0.75,
             "commander": [
                 "Yisan, the Wanderer Bard"
             ],

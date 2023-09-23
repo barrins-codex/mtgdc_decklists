@@ -10,7 +10,6 @@
             "deck_id": "477177",
             "rank": "1",
             "player": "Jonas Kretzschmar",
-            "winrate": 1.0,
             "commander": [
                 "Yisan, the Wanderer Bard"
             ],
@@ -103,7 +102,6 @@
             "deck_id": "477178",
             "rank": "2",
             "player": "Sebastian Kött",
-            "winrate": 0.8,
             "commander": [
                 "Kyodai, Soul of Kamigawa"
             ],

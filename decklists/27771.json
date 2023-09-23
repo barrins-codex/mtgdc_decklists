@@ -10,7 +10,6 @@
             "deck_id": "420406",
             "rank": "1",
             "player": "Alexis Fontaine",
-            "winrate": 1.0,
             "commander": [
                 "Adeliz, the Cinder Wind"
             ],
@@ -105,7 +104,6 @@
             "deck_id": "420407",
             "rank": "2",
             "player": "Cédric Guillemot",
-            "winrate": 0.8,
             "commander": [
                 "Lord Windgrace"
             ],

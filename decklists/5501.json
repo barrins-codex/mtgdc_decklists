@@ -10,7 +10,6 @@
             "deck_id": "231823",
             "rank": "3-4",
             "player": "Mike Rabanal  Team Derp",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Ezuri, Renegade Leader"
             ],
@@ -96,7 +95,6 @@
             "deck_id": "231824",
             "rank": "3-4",
             "player": "Ronald Cruz  Team Derp",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Iname, Death Aspect"
             ],
@@ -182,7 +180,6 @@
             "deck_id": "231825",
             "rank": "1",
             "player": "Benjamin Tagayuna  Team Sta. Lucia",
-            "winrate": 0.875,
             "commander": [
                 "Talrand, Sky Summoner"
             ],
@@ -266,7 +263,6 @@
             "deck_id": "231826",
             "rank": "1",
             "player": "Lawrence Follero",
-            "winrate": 0.875,
             "commander": [
                 "Geist of Saint Traft"
             ],

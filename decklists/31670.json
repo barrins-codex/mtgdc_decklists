@@ -10,7 +10,6 @@
             "deck_id": "445065",
             "rank": "1",
             "player": "Asbjørn",
-            "winrate": 1.0,
             "commander": [
                 "Questing Beast"
             ],
@@ -93,7 +92,6 @@
             "deck_id": "445066",
             "rank": "2",
             "player": "Tim Nielsen",
-            "winrate": 0.8,
             "commander": [
                 "Kraum, Ludevic's Opus",
                 "Livio, Oathsworn Sentinel"

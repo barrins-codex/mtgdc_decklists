@@ -10,7 +10,6 @@
             "deck_id": "492502",
             "rank": "1",
             "player": "Earl Caymo",
-            "winrate": 1.0,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "492503",
             "rank": "2",
             "player": "Nelvine Tuano",
-            "winrate": 0.8,
             "commander": [
                 "Yoshimaru, Ever Faithful"
             ],
@@ -211,7 +209,6 @@
             "deck_id": "492504",
             "rank": "3",
             "player": "Dinno Zaide",
-            "winrate": 0.6,
             "commander": [
                 "Ghyrson Starn, Kelermorph"
             ],
@@ -312,7 +309,6 @@
             "deck_id": "492505",
             "rank": "4",
             "player": "Jeremias Garganera",
-            "winrate": 0.6,
             "commander": [
                 "Acererak the Archlich"
             ],

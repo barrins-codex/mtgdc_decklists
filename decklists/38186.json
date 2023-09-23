@@ -10,7 +10,6 @@
             "deck_id": "485520",
             "rank": "1",
             "player": "Loïc Baverel",
-            "winrate": 1.0,
             "commander": [
                 "Saskia the Unyielding"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "485521",
             "rank": "2",
             "player": "Pierre-louis Biet",
-            "winrate": 0.8,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -230,7 +228,6 @@
             "deck_id": "485522",
             "rank": "3-4",
             "player": "Edouard Lecocq",
-            "winrate": 0.8,
             "commander": [
                 "Dennick, Pious Apprentice"
             ],
@@ -331,7 +328,6 @@
             "deck_id": "485523",
             "rank": "3-4",
             "player": "Alexandre Andouard",
-            "winrate": 0.8,
             "commander": [
                 "Slogurk, the Overslime"
             ],

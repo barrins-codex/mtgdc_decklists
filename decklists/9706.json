@@ -10,7 +10,6 @@
             "deck_id": "255843",
             "rank": "1",
             "player": "Li Yijie",
-            "winrate": 1.0,
             "commander": [
                 "Prossh, Skyraider of Kher"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "255844",
             "rank": "2",
             "player": "Song Yue",
-            "winrate": 0.8,
             "commander": [
                 "Animar, Soul of Elements"
             ],
@@ -222,7 +220,6 @@
             "deck_id": "255845",
             "rank": "3-4",
             "player": "Chen Kailin",
-            "winrate": 0.8,
             "commander": [
                 "Anafenza, the Foremost"
             ],
@@ -332,7 +329,6 @@
             "deck_id": "255846",
             "rank": "3-4",
             "player": "Shen Shiyang",
-            "winrate": 0.8,
             "commander": [
                 "Nin, the Pain Artist"
             ],

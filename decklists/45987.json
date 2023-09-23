@@ -10,7 +10,6 @@
             "deck_id": "539803",
             "rank": "1",
             "player": "Mengchen You",
-            "winrate": 1.0,
             "commander": [
                 "Aragorn, King of Gondor"
             ],
@@ -114,7 +113,6 @@
             "deck_id": "539804",
             "rank": "2",
             "player": "Mo Sun",
-            "winrate": 0.8,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -224,7 +222,6 @@
             "deck_id": "539805",
             "rank": "3",
             "player": "Tingxu Chu",
-            "winrate": 0.8,
             "commander": [
                 "Feldon, Ronom Excavator"
             ],
@@ -312,7 +309,6 @@
             "deck_id": "539806",
             "rank": "4",
             "player": "Bo Li",
-            "winrate": 0.8,
             "commander": [
                 "Raffine, Scheming Seer"
             ],

@@ -10,7 +10,6 @@
             "deck_id": "256388",
             "rank": "2",
             "player": "Lucas Zunino",
-            "winrate": 0.8,
             "commander": [
                 "Marath, Will of the Wild"
             ],
@@ -119,7 +118,6 @@
             "deck_id": "256389",
             "rank": "1",
             "player": "Robson Nunes Costa",
-            "winrate": 1.0,
             "commander": [
                 "Tasigur, the Golden Fang"
             ],

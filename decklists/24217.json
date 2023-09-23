@@ -10,7 +10,6 @@
             "deck_id": "368992",
             "rank": "5-8",
             "player": "Gabe Enriquez",
-            "winrate": 0.75,
             "commander": [
                 "Torbran, Thane of Red Fell"
             ],
@@ -92,7 +91,6 @@
             "deck_id": "368993",
             "rank": "5-8",
             "player": "Jonathan Bagotlo",
-            "winrate": 0.75,
             "commander": [
                 "Korvold, Fae-Cursed King"
             ],
@@ -200,7 +198,6 @@
             "deck_id": "368994",
             "rank": "5-8",
             "player": "Jan Michael Pecaoco",
-            "winrate": 0.75,
             "commander": [
                 "Tetsuko Umezawa, Fugitive"
             ],
@@ -287,7 +284,6 @@
             "deck_id": "368995",
             "rank": "5-8",
             "player": "Alan Baculpo",
-            "winrate": 0.75,
             "commander": [
                 "God-Eternal Kefnet"
             ],
@@ -364,7 +360,6 @@
             "deck_id": "368996",
             "rank": "3-4",
             "player": "Linneaus Abellana",
-            "winrate": 0.75,
             "commander": [
                 "Ruhan of the Fomori"
             ],
@@ -464,7 +459,6 @@
             "deck_id": "368997",
             "rank": "3-4",
             "player": "Chris Sta Maria",
-            "winrate": 0.75,
             "commander": [
                 "Tymna the Weaver"
             ],
@@ -568,7 +562,6 @@
             "deck_id": "368998",
             "rank": "2",
             "player": "Earl Castel",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Sisay, Weatherlight Captain"
             ],
@@ -678,7 +671,6 @@
             "deck_id": "368999",
             "rank": "1",
             "player": "Louie Siongco",
-            "winrate": 0.8888888888888888,
             "commander": [
                 "Tomik, Distinguished Advokist"
             ],

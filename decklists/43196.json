@@ -10,7 +10,6 @@
             "deck_id": "519200",
             "rank": "1",
             "player": "Chen Jia Wei",
-            "winrate": 1.0,
             "commander": [
                 "Daretti, Scrap Savant"
             ],
@@ -99,7 +98,6 @@
             "deck_id": "519201",
             "rank": "2",
             "player": "Zi Bo",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Dihada, Binder of Wills"
             ],

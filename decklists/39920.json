@@ -10,7 +10,6 @@
             "deck_id": "497314",
             "rank": "1",
             "player": "Ozymandias",
-            "winrate": 1.0,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "497315",
             "rank": "2",
             "player": "Velora",
-            "winrate": 0.8,
             "commander": [
                 "Elminster"
             ],
@@ -226,7 +224,6 @@
             "deck_id": "497316",
             "rank": "3-4",
             "player": "John Constantine",
-            "winrate": 0.8,
             "commander": [
                 "The Beamtown Bullies"
             ],
@@ -332,7 +329,6 @@
             "deck_id": "497317",
             "rank": "3-4",
             "player": "Bitiur66",
-            "winrate": 0.8,
             "commander": [
                 "Kess, Dissident Mage"
             ],

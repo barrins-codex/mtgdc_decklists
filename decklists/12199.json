@@ -10,7 +10,6 @@
             "deck_id": "270100",
             "rank": "3-4",
             "player": "Fabio Gavazzi",
-            "winrate": 0.75,
             "commander": [
                 "Sidisi, Undead Vizier"
             ],
@@ -100,7 +99,6 @@
             "deck_id": "270101",
             "rank": "3-4",
             "player": "Rafael Tanabe",
-            "winrate": 0.75,
             "commander": [
                 "Maelstrom Wanderer"
             ],
@@ -197,7 +195,6 @@
             "deck_id": "270102",
             "rank": "2",
             "player": "João Lucas Caparroz",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Maelstrom Wanderer"
             ],
@@ -291,7 +288,6 @@
             "deck_id": "270103",
             "rank": "1",
             "player": "Guilherme \"Demonic Tutor\" Machado",
-            "winrate": 0.8888888888888888,
             "commander": [
                 "Wydwen, the Biting Gale"
             ],
@@ -387,7 +383,6 @@
             "deck_id": "270104",
             "rank": "5-8",
             "player": "Carlos Eduardo Tibério Jr.",
-            "winrate": 0.75,
             "commander": [
                 "Jori En, Ruin Diver"
             ],
@@ -478,7 +473,6 @@
             "deck_id": "270105",
             "rank": "5-8",
             "player": "Fabio Fernandes Vieira",
-            "winrate": 0.75,
             "commander": [
                 "Sidisi, Undead Vizier"
             ],
@@ -556,7 +550,6 @@
             "deck_id": "270106",
             "rank": "5-8",
             "player": "Lucas Mohallem",
-            "winrate": 0.75,
             "commander": [
                 "Jenara, Asura of War"
             ],
@@ -664,7 +657,6 @@
             "deck_id": "270107",
             "rank": "5-8",
             "player": "Diego Ganev",
-            "winrate": 0.75,
             "commander": [
                 "Grand Arbiter Augustin IV"
             ],

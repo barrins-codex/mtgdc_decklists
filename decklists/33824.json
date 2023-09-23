@@ -10,7 +10,6 @@
             "deck_id": "457685",
             "rank": "1",
             "player": "Qiu Xiaowen",
-            "winrate": 1.0,
             "commander": [
                 "Minsc, Beloved Ranger"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "457686",
             "rank": "2",
             "player": "Jiang Jiahe",
-            "winrate": 0.8,
             "commander": [
                 "Niv-Mizzet Reborn"
             ],
@@ -230,7 +228,6 @@
             "deck_id": "457687",
             "rank": "3-4",
             "player": "Zhang Jiawei",
-            "winrate": 0.8,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -340,7 +337,6 @@
             "deck_id": "457688",
             "rank": "3-4",
             "player": "He Ying",
-            "winrate": 0.8,
             "commander": [
                 "Jacob Hauken, Inspector"
             ],

@@ -10,7 +10,6 @@
             "deck_id": "284445",
             "rank": "5-8",
             "player": "Guillaume Secher",
-            "winrate": 0.6,
             "commander": [
                 "Leovold, Emissary of Trest"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "284446",
             "rank": "5-8",
             "player": "Cedric Steier",
-            "winrate": 0.6,
             "commander": [
                 "Jenara, Asura of War"
             ],
@@ -228,7 +226,6 @@
             "deck_id": "284447",
             "rank": "5-8",
             "player": "Kaourintin \"falaakr\" Le Guiban",
-            "winrate": 0.6,
             "commander": [
                 "Breya, Etherium Shaper"
             ],
@@ -338,7 +335,6 @@
             "deck_id": "284448",
             "rank": "3-4",
             "player": "Maxence Achoun",
-            "winrate": 0.8,
             "commander": [
                 "Jace, Vryn's Prodigy"
             ],
@@ -414,7 +410,6 @@
             "deck_id": "284449",
             "rank": "5-8",
             "player": "Alexander \"newtraderdu78\" Loskoutoff",
-            "winrate": 0.6,
             "commander": [
                 "Breya, Etherium Shaper"
             ],
@@ -524,7 +519,6 @@
             "deck_id": "284450",
             "rank": "3-4",
             "player": "Bruno Siracusa",
-            "winrate": 0.8,
             "commander": [
                 "Titania, Protector of Argoth"
             ],
@@ -615,7 +609,6 @@
             "deck_id": "284451",
             "rank": "2",
             "player": "Vivien \"Soratami\" Macé",
-            "winrate": 0.8,
             "commander": [
                 "Breya, Etherium Shaper"
             ],
@@ -725,7 +718,6 @@
             "deck_id": "284452",
             "rank": "1",
             "player": "Sylvain Noel",
-            "winrate": 1.0,
             "commander": [
                 "Kraum, Ludevic's Opus",
                 "Vial Smasher the Fierce"

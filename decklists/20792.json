@@ -10,7 +10,6 @@
             "deck_id": "337456",
             "rank": "1",
             "player": "Romain Bourdin-grimand",
-            "winrate": 1.0,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -92,7 +91,6 @@
             "deck_id": "337457",
             "rank": "3-4",
             "player": "Cesidio Vischi",
-            "winrate": 0.8,
             "commander": [
                 "Daretti, Scrap Savant"
             ],
@@ -176,7 +174,6 @@
             "deck_id": "337458",
             "rank": "2",
             "player": "Bastien Guichard",
-            "winrate": 0.8,
             "commander": [
                 "Isamaru, Hound of Konda"
             ],
@@ -251,7 +248,6 @@
             "deck_id": "337459",
             "rank": "3-4",
             "player": "Arnaud Vallon",
-            "winrate": 0.8,
             "commander": [
                 "Surrak, the Hunt Caller"
             ],

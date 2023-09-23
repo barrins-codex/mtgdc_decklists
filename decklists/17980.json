@@ -10,7 +10,6 @@
             "deck_id": "311536",
             "rank": "1",
             "player": "Moondust",
-            "winrate": 1.0,
             "commander": [
                 "Breya, Etherium Shaper"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "311537",
             "rank": "1",
             "player": "Victor Capron",
-            "winrate": 1.0,
             "commander": [
                 "Edgar Markov"
             ],
@@ -212,7 +210,6 @@
             "deck_id": "311538",
             "rank": "1",
             "player": "Martial Moreau",
-            "winrate": 1.0,
             "commander": [
                 "The Gitrog Monster"
             ],

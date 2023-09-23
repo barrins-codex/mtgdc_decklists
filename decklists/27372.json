@@ -10,7 +10,6 @@
             "deck_id": "417086",
             "rank": "5-8",
             "player": "Baptiste Touboulic",
-            "winrate": 0.75,
             "commander": [
                 "Uro, Titan of Nature's Wrath"
             ],
@@ -109,7 +108,6 @@
             "deck_id": "417087",
             "rank": "5-8",
             "player": "Kaourintin \"falaakr\" Le Guiban",
-            "winrate": 0.75,
             "commander": [
                 "Will Kenrith",
                 "Rowan Kenrith"
@@ -204,7 +202,6 @@
             "deck_id": "417088",
             "rank": "5-8",
             "player": "Maxime Chausson",
-            "winrate": 0.75,
             "commander": [
                 "Winota, Joiner of Forces"
             ],
@@ -302,7 +299,6 @@
             "deck_id": "417089",
             "rank": "3-4",
             "player": "Alexander \"newtrader\" Loskoutoff",
-            "winrate": 0.75,
             "commander": [
                 "Adeliz, the Cinder Wind"
             ],
@@ -396,7 +392,6 @@
             "deck_id": "417090",
             "rank": "3-4",
             "player": "Denis Rosa",
-            "winrate": 0.75,
             "commander": [
                 "Isamaru, Hound of Konda"
             ],
@@ -482,7 +477,6 @@
             "deck_id": "417091",
             "rank": "2",
             "player": "Ugo Scaramelli",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Uro, Titan of Nature's Wrath"
             ],
@@ -570,7 +564,6 @@
             "deck_id": "417092",
             "rank": "1",
             "player": "Maximilien Kalil",
-            "winrate": 0.8888888888888888,
             "commander": [
                 "Tymna the Weaver",
                 "Kraum, Ludevic's Opus"
@@ -680,7 +673,6 @@
             "deck_id": "417093",
             "rank": "5-8",
             "player": "Jules Lestiennes",
-            "winrate": 0.75,
             "commander": [
                 "Venser, Shaper Savant"
             ],

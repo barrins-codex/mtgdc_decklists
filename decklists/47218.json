@@ -10,7 +10,6 @@
             "deck_id": "548912",
             "rank": "1",
             "player": "Arnaldo Costa",
-            "winrate": 1.0,
             "commander": [
                 "Saskia the Unyielding"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "548913",
             "rank": "2",
             "player": "Rodolfo Helfenstein",
-            "winrate": 0.8,
             "commander": [
                 "Sythis, Harvest's Hand"
             ],

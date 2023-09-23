@@ -10,7 +10,6 @@
             "deck_id": "292507",
             "rank": "5-8",
             "player": "Jones Dongla",
-            "winrate": 0.6,
             "commander": [
                 "Skithiryx, the Blight Dragon"
             ],
@@ -92,7 +91,6 @@
             "deck_id": "292508",
             "rank": "5-8",
             "player": "Kenneth Lee",
-            "winrate": 0.6,
             "commander": [
                 "Maelstrom Wanderer"
             ],
@@ -195,7 +193,6 @@
             "deck_id": "292509",
             "rank": "5-8",
             "player": "Chester Seda",
-            "winrate": 0.6,
             "commander": [
                 "Jori En, Ruin Diver"
             ],
@@ -284,7 +281,6 @@
             "deck_id": "292510",
             "rank": "5-8",
             "player": "Vylo Marinas",
-            "winrate": 0.6,
             "commander": [
                 "Venser, Shaper Savant"
             ],
@@ -370,7 +366,6 @@
             "deck_id": "292511",
             "rank": "3-4",
             "player": "Glenn Malanos",
-            "winrate": 0.8,
             "commander": [
                 "Sidar Kondo of Jamuraa",
                 "Tana, the Bloodsower"
@@ -469,7 +464,6 @@
             "deck_id": "292512",
             "rank": "1",
             "player": "Vince Patrick Taccayan",
-            "winrate": 1.0,
             "commander": [
                 "Geist of Saint Traft"
             ],
@@ -568,7 +562,6 @@
             "deck_id": "292513",
             "rank": "2",
             "player": "Lowell Barton",
-            "winrate": 0.8,
             "commander": [
                 "Karlov of the Ghost Council"
             ],
@@ -667,7 +660,6 @@
             "deck_id": "292514",
             "rank": "3-4",
             "player": "Benjie Imperial",
-            "winrate": 0.8,
             "commander": [
                 "Zurgo Bellstriker"
             ],

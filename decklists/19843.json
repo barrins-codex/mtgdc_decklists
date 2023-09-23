@@ -10,7 +10,6 @@
             "deck_id": "328112",
             "rank": "4",
             "player": "Viktor Jasansky",
-            "winrate": 0.8,
             "commander": [
                 "Silas Renn, Seeker Adept",
                 "Akiri, Line-Slinger"
@@ -120,7 +119,6 @@
             "deck_id": "328113",
             "rank": "3",
             "player": "Miloslav Brozek",
-            "winrate": 0.8,
             "commander": [
                 "Tymna the Weaver",
                 "Kraum, Ludevic's Opus"
@@ -230,7 +228,6 @@
             "deck_id": "328114",
             "rank": "2",
             "player": "Bohdan Frejisyn",
-            "winrate": 0.8,
             "commander": [
                 "Saskia the Unyielding"
             ],
@@ -340,7 +337,6 @@
             "deck_id": "328115",
             "rank": "1",
             "player": "Jakub Sykora",
-            "winrate": 1.0,
             "commander": [
                 "Yuriko, the Tiger's Shadow"
             ],
@@ -438,7 +434,6 @@
             "deck_id": "328116",
             "rank": "5",
             "player": "Dominik Maly",
-            "winrate": 0.6,
             "commander": [
                 "Akiri, Line-Slinger",
                 "Silas Renn, Seeker Adept"
@@ -548,7 +543,6 @@
             "deck_id": "328117",
             "rank": "6",
             "player": "Jakub Suchanek",
-            "winrate": 0.6,
             "commander": [
                 "Teferi, Temporal Archmage"
             ],
@@ -623,7 +617,6 @@
             "deck_id": "328118",
             "rank": "7",
             "player": "Jan Kousal",
-            "winrate": 0.6,
             "commander": [
                 "Adeliz, the Cinder Wind"
             ],
@@ -722,7 +715,6 @@
             "deck_id": "328119",
             "rank": "8",
             "player": "Martin Holek",
-            "winrate": 0.6,
             "commander": [
                 "Kess, Dissident Mage"
             ],

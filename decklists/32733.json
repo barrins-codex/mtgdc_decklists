@@ -10,7 +10,6 @@
             "deck_id": "451017",
             "rank": "1",
             "player": "Happy Nacionales",
-            "winrate": 1.0,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -92,7 +91,6 @@
             "deck_id": "451018",
             "rank": "2",
             "player": "Bruce Valero",
-            "winrate": 0.8,
             "commander": [
                 "Livio, Oathsworn Sentinel",
                 "Lurrus of the Dream-Den",
@@ -199,7 +197,6 @@
             "deck_id": "451019",
             "rank": "3-4",
             "player": "Glenn Alesna",
-            "winrate": 0.6,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -284,7 +281,6 @@
             "deck_id": "451020",
             "rank": "3-4",
             "player": "Ste Villaraza",
-            "winrate": 0.6,
             "commander": [
                 "Malcolm, Keen-Eyed Navigator",
                 "Kraum, Ludevic's Opus"

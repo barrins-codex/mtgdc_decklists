@@ -10,7 +10,6 @@
             "deck_id": "315050",
             "rank": "1",
             "player": "Jasper Robin Nielsen",
-            "winrate": 1.0,
             "commander": [
                 "Jenara, Asura of War"
             ],
@@ -119,7 +118,6 @@
             "deck_id": "315051",
             "rank": "2",
             "player": "Jeppe Risager",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Karlov of the Ghost Council"
             ],

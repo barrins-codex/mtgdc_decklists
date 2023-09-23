@@ -10,7 +10,6 @@
             "deck_id": "489279",
             "rank": "1",
             "player": "Jay Pangasinan",
-            "winrate": 1.0,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "489280",
             "rank": "2",
             "player": "Juancho Fabregas",
-            "winrate": 0.8,
             "commander": [
                 "Wilson, Refined Grizzly",
                 "Noble Heritage"
@@ -222,7 +220,6 @@
             "deck_id": "489281",
             "rank": "3-4",
             "player": "Darren Judi",
-            "winrate": 0.8,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -331,7 +328,6 @@
             "deck_id": "489282",
             "rank": "3-4",
             "player": "Bob Rico",
-            "winrate": 0.8,
             "commander": [
                 "Kroxa, Titan of Death's Hunger"
             ],
@@ -436,7 +432,6 @@
             "deck_id": "489283",
             "rank": "5-8",
             "player": "Rizalino Sanchez",
-            "winrate": 0.6,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -546,7 +541,6 @@
             "deck_id": "489284",
             "rank": "5-8",
             "player": "Austin Fuster",
-            "winrate": 0.6,
             "commander": [
                 "Wilson, Refined Grizzly",
                 "Flaming Fist"
@@ -648,7 +642,6 @@
             "deck_id": "489285",
             "rank": "5-8",
             "player": "Rich Calucag",
-            "winrate": 0.6,
             "commander": [
                 "Tivit, Seller of Secrets"
             ],
@@ -757,7 +750,6 @@
             "deck_id": "489286",
             "rank": "5-8",
             "player": "Ryan Beley",
-            "winrate": 0.6,
             "commander": [
                 "Grist, the Hunger Tide"
             ],

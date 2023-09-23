@@ -10,7 +10,6 @@
             "deck_id": "291699",
             "rank": "5-8",
             "player": "Glenn Domingo",
-            "winrate": 0.6,
             "commander": [
                 "Azusa, Lost but Seeking"
             ],
@@ -98,7 +97,6 @@
             "deck_id": "291700",
             "rank": "3-4",
             "player": "Jun Era Cabezudo",
-            "winrate": 0.8,
             "commander": [
                 "Kraum, Ludevic's Opus",
                 "Vial Smasher the Fierce"
@@ -208,7 +206,6 @@
             "deck_id": "291701",
             "rank": "3-4",
             "player": "Kael Leonardo",
-            "winrate": 0.8,
             "commander": [
                 "Zurgo Bellstriker"
             ],
@@ -288,7 +285,6 @@
             "deck_id": "291702",
             "rank": "2",
             "player": "Rogelio Solleza Iii",
-            "winrate": 0.8,
             "commander": [
                 "Titania, Protector of Argoth"
             ],
@@ -380,7 +376,6 @@
             "deck_id": "291703",
             "rank": "1",
             "player": "Martin Marcelo",
-            "winrate": 1.0,
             "commander": [
                 "Vendilion Clique"
             ],
@@ -468,7 +463,6 @@
             "deck_id": "291704",
             "rank": "5-8",
             "player": "Hernani Bautista",
-            "winrate": 0.6,
             "commander": [
                 "Titania, Protector of Argoth"
             ],
@@ -558,7 +552,6 @@
             "deck_id": "291705",
             "rank": "5-8",
             "player": "Myron Alvin Matanguihan",
-            "winrate": 0.6,
             "commander": [
                 "Saskia the Unyielding"
             ],
@@ -668,7 +661,6 @@
             "deck_id": "291706",
             "rank": "5-8",
             "player": "Juan Jalosjos",
-            "winrate": 0.6,
             "commander": [
                 "Kraum, Ludevic's Opus",
                 "Vial Smasher the Fierce"

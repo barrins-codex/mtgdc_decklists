@@ -10,7 +10,6 @@
             "deck_id": "442376",
             "rank": "1",
             "player": "Artur Pacheco",
-            "winrate": 1.0,
             "commander": [
                 "Winota, Joiner of Forces"
             ],
@@ -109,7 +108,6 @@
             "deck_id": "442377",
             "rank": "2",
             "player": "Victor Burghi",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Saskia the Unyielding"
             ],

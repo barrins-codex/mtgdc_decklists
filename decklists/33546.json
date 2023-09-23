@@ -10,7 +10,6 @@
             "deck_id": "455585",
             "rank": "1",
             "player": "Pierre Abrial",
-            "winrate": 1.0,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -90,7 +89,6 @@
             "deck_id": "455586",
             "rank": "2",
             "player": "Pierre Almaraz",
-            "winrate": 0.8,
             "commander": [
                 "Isamaru, Hound of Konda"
             ],
@@ -174,7 +172,6 @@
             "deck_id": "455587",
             "rank": "3-4",
             "player": "Loïc Baverel",
-            "winrate": 0.8,
             "commander": [
                 "Minsc, Beloved Ranger"
             ],
@@ -281,7 +278,6 @@
             "deck_id": "455588",
             "rank": "3-4",
             "player": "Jeoffrey Foucart",
-            "winrate": 0.8,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],

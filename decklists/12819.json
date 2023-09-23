@@ -10,7 +10,6 @@
             "deck_id": "274416",
             "rank": "2",
             "player": "Sébastien Gautier",
-            "winrate": 0.8,
             "commander": [
                 "Jenara, Asura of War"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "274417",
             "rank": "3-4",
             "player": "Théophile François",
-            "winrate": 0.8,
             "commander": [
                 "Jenara, Asura of War"
             ],
@@ -223,7 +221,6 @@
             "deck_id": "274418",
             "rank": "3-4",
             "player": "Ewen Raude",
-            "winrate": 0.8,
             "commander": [
                 "Grand Arbiter Augustin IV"
             ],
@@ -315,7 +312,6 @@
             "deck_id": "274419",
             "rank": "5-8",
             "player": "Mael Rio",
-            "winrate": 0.6,
             "commander": [
                 "Sidisi, Undead Vizier"
             ],
@@ -405,7 +401,6 @@
             "deck_id": "274420",
             "rank": "5-8",
             "player": "Basile Gasparini",
-            "winrate": 0.6,
             "commander": [
                 "Geist of Saint Traft"
             ],
@@ -504,7 +499,6 @@
             "deck_id": "274421",
             "rank": "5-8",
             "player": "Clement Morice",
-            "winrate": 0.6,
             "commander": [
                 "Prossh, Skyraider of Kher"
             ],
@@ -611,7 +605,6 @@
             "deck_id": "274422",
             "rank": "5-8",
             "player": "Guillaume Petra",
-            "winrate": 0.6,
             "commander": [
                 "Titania, Protector of Argoth"
             ],
@@ -701,7 +694,6 @@
             "deck_id": "274423",
             "rank": "1",
             "player": "Maxime Allée",
-            "winrate": 1.0,
             "commander": [
                 "The Gitrog Monster"
             ],

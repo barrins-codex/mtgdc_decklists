@@ -10,7 +10,6 @@
             "deck_id": "337460",
             "rank": "2",
             "player": "Duelcaster Mage",
-            "winrate": 0.8,
             "commander": [
                 "Godo, Bandit Warlord"
             ],
@@ -94,7 +93,6 @@
             "deck_id": "337461",
             "rank": "1",
             "player": "Martin Vlnas",
-            "winrate": 1.0,
             "commander": [
                 "Najeela, the Blade-Blossom"
             ],

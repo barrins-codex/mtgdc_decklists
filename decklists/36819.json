@@ -10,7 +10,6 @@
             "deck_id": "476750",
             "rank": "1",
             "player": "Thiago Saporito",
-            "winrate": 1.0,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -115,7 +114,6 @@
             "deck_id": "476751",
             "rank": "2",
             "player": "Orlando Bibiano",
-            "winrate": 0.8,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -198,7 +196,6 @@
             "deck_id": "476752",
             "rank": "3-4",
             "player": "Fernando \"yprincipe\" Martin",
-            "winrate": 0.8,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -308,7 +305,6 @@
             "deck_id": "476753",
             "rank": "3-4",
             "player": "Leonardo Maeda",
-            "winrate": 0.8,
             "commander": [
                 "Titania, Protector of Argoth"
             ],

@@ -10,7 +10,6 @@
             "deck_id": "499879",
             "rank": "1",
             "player": "Thomas Lacoste",
-            "winrate": 1.0,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -119,7 +118,6 @@
             "deck_id": "499880",
             "rank": "2",
             "player": "Cédric Roy",
-            "winrate": 0.8,
             "commander": [
                 "Light-Paws, Emperor's Voice"
             ],
@@ -206,7 +204,6 @@
             "deck_id": "499881",
             "rank": "3-4",
             "player": "Thibault Bredzinski",
-            "winrate": 0.8,
             "commander": [
                 "Bruse Tarl, Boorish Herder",
                 "Yoshimaru, Ever Faithful"
@@ -309,7 +306,6 @@
             "deck_id": "499882",
             "rank": "3-4",
             "player": "Alexandre Casagrande",
-            "winrate": 0.8,
             "commander": [
                 "The Gitrog Monster"
             ],
@@ -409,7 +405,6 @@
             "deck_id": "499883",
             "rank": "5-8",
             "player": "Didier Lespinas",
-            "winrate": 0.6,
             "commander": [
                 "Veteran Soldier",
                 "Gut, True Soul Zealot"
@@ -511,7 +506,6 @@
             "deck_id": "499884",
             "rank": "5-8",
             "player": "Raphael Clauzure",
-            "winrate": 0.6,
             "commander": [
                 "Grist, the Hunger Tide"
             ],
@@ -611,7 +605,6 @@
             "deck_id": "499885",
             "rank": "5-8",
             "player": "Fredy Tjeck",
-            "winrate": 0.6,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -721,7 +714,6 @@
             "deck_id": "499886",
             "rank": "5-8",
             "player": "Julein Garros",
-            "winrate": 0.6,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],

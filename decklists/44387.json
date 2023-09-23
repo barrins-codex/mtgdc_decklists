@@ -10,7 +10,6 @@
             "deck_id": "527378",
             "rank": "1",
             "player": "Robo-bo-bots",
-            "winrate": 1.0,
             "commander": [
                 "Ratchet, Field Medic"
             ],
@@ -99,7 +98,6 @@
             "deck_id": "527379",
             "rank": "2",
             "player": "Max Dreste",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Slimefoot and Squee"
             ],

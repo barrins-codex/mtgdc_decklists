@@ -10,7 +10,6 @@
             "deck_id": "226616",
             "rank": "1",
             "player": "Benedict Cardenas",
-            "winrate": 1.0,
             "commander": [
                 "Mayael the Anima"
             ],
@@ -116,7 +115,6 @@
             "deck_id": "226617",
             "rank": "1",
             "player": "John Daroen Sahagun",
-            "winrate": 1.0,
             "commander": [
                 "The Mimeoplasm"
             ],
@@ -220,7 +218,6 @@
             "deck_id": "226618",
             "rank": "3-4",
             "player": "Jose Gabriel Cardenas",
-            "winrate": 0.8,
             "commander": [
                 "Zur the Enchanter"
             ],
@@ -330,7 +327,6 @@
             "deck_id": "226619",
             "rank": "3-4",
             "player": "Randy de Rueda",
-            "winrate": 0.8,
             "commander": [
                 "Geist of Saint Traft"
             ],

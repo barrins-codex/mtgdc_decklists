@@ -10,7 +10,6 @@
             "deck_id": "489018",
             "rank": "1",
             "player": "Aaron Macaso",
-            "winrate": 1.0,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -118,7 +117,6 @@
             "deck_id": "489019",
             "rank": "2",
             "player": "Ste Villaraza",
-            "winrate": 0.8,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -228,7 +226,6 @@
             "deck_id": "489020",
             "rank": "3-4",
             "player": "Mark Lasam",
-            "winrate": 0.8,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -338,7 +335,6 @@
             "deck_id": "489021",
             "rank": "3-4",
             "player": "Paul Relativo",
-            "winrate": 0.8,
             "commander": [
                 "Niv-Mizzet Reborn"
             ],

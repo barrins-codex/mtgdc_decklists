@@ -10,7 +10,6 @@
             "deck_id": "486454",
             "rank": "1",
             "player": "Pierre Melin",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Leovold, Emissary of Trest"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "486455",
             "rank": "2",
             "player": "Axel.f",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -230,7 +228,6 @@
             "deck_id": "486456",
             "rank": "3-4",
             "player": "Thomas Drucke",
-            "winrate": 0.625,
             "commander": [
                 "Light-Paws, Emperor's Voice"
             ],
@@ -318,7 +315,6 @@
             "deck_id": "486457",
             "rank": "3-4",
             "player": "Alexandre Glorian",
-            "winrate": 0.625,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -428,7 +424,6 @@
             "deck_id": "486458",
             "rank": "5-8",
             "player": "Nicolas Cocksay",
-            "winrate": 0.625,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -518,7 +513,6 @@
             "deck_id": "486459",
             "rank": "5-8",
             "player": "François Quesque",
-            "winrate": 0.625,
             "commander": [
                 "Tivit, Seller of Secrets"
             ],
@@ -628,7 +622,6 @@
             "deck_id": "486460",
             "rank": "5-8",
             "player": "Thomas.ld",
-            "winrate": 0.625,
             "commander": [
                 "Grist, the Hunger Tide"
             ],
@@ -721,7 +714,6 @@
             "deck_id": "486461",
             "rank": "5-8",
             "player": "Aubane Roscel",
-            "winrate": 0.625,
             "commander": [
                 "The Reality Chip"
             ],

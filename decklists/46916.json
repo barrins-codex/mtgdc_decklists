@@ -10,7 +10,6 @@
             "deck_id": "546835",
             "rank": "1",
             "player": "Antoine Bédard",
-            "winrate": 1.0,
             "commander": [
                 "The Prismatic Piper",
                 "Yoshimaru, Ever Faithful"
@@ -111,7 +110,6 @@
             "deck_id": "546836",
             "rank": "2",
             "player": "Alexandre Boisvert",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Aragorn, King of Gondor"
             ],
@@ -216,7 +214,6 @@
             "deck_id": "546837",
             "rank": "3-4",
             "player": "Phabien Lepage Mercier",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Light-Paws, Emperor's Voice"
             ],
@@ -308,7 +305,6 @@
             "deck_id": "546838",
             "rank": "3-4",
             "player": "Natahn Soucy",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Grist, the Hunger Tide"
             ],

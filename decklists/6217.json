@@ -10,7 +10,6 @@
             "deck_id": "235775",
             "rank": "1",
             "player": "Christian Laplante",
-            "winrate": 1.0,
             "commander": [
                 "Zur the Enchanter"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "235776",
             "rank": "1",
             "player": "Andre Giraud",
-            "winrate": 1.0,
             "commander": [
                 "Oloro, Ageless Ascetic"
             ],

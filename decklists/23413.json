@@ -10,7 +10,6 @@
             "deck_id": "361661",
             "rank": "1",
             "player": "Jerry Red Cabardo",
-            "winrate": 1.0,
             "commander": [
                 "Azusa, Lost but Seeking"
             ],
@@ -106,7 +105,6 @@
             "deck_id": "361662",
             "rank": "2",
             "player": "Martin John Ogayon",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Queen Marchesa"
             ],

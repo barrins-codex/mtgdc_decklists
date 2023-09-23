@@ -10,7 +10,6 @@
             "deck_id": "372925",
             "rank": "3-4",
             "player": "Quinveros Quentin",
-            "winrate": 0.6,
             "commander": [
                 "Prossh, Skyraider of Kher"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "372926",
             "rank": "3-4",
             "player": "Carlier Philippe",
-            "winrate": 0.6,
             "commander": [
                 "Kenrith, the Returned King"
             ],
@@ -230,7 +228,6 @@
             "deck_id": "372927",
             "rank": "2",
             "player": "Garnier Steven",
-            "winrate": 0.8,
             "commander": [
                 "Kess, Dissident Mage"
             ],
@@ -340,7 +337,6 @@
             "deck_id": "372928",
             "rank": "1",
             "player": "Mac An Tsaoin Oisin",
-            "winrate": 1.0,
             "commander": [
                 "Nicol Bolas, the Ravager"
             ],

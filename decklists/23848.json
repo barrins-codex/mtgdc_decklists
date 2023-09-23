@@ -10,7 +10,6 @@
             "deck_id": "365845",
             "rank": "3",
             "player": "Micah Gates",
-            "winrate": 0.6,
             "commander": [
                 "Grenzo, Dungeon Warden"
             ],
@@ -101,7 +100,6 @@
             "deck_id": "365846",
             "rank": "1",
             "player": "Joey Moon",
-            "winrate": 1.0,
             "commander": [
                 "Torbran, Thane of Red Fell"
             ],
@@ -181,7 +179,6 @@
             "deck_id": "365847",
             "rank": "2",
             "player": "Mike Smith",
-            "winrate": 0.8,
             "commander": [
                 "The Gitrog Monster"
             ],

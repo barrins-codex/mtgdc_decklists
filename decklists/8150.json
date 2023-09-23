@@ -10,7 +10,6 @@
             "deck_id": "246937",
             "rank": "1",
             "player": "Gerry Ramos",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Geist of Saint Traft"
             ],
@@ -111,7 +110,6 @@
             "deck_id": "246938",
             "rank": "2",
             "player": "Louie Siongco",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Grand Arbiter Augustin IV"
             ],
@@ -213,7 +211,6 @@
             "deck_id": "246939",
             "rank": "3-4",
             "player": "Juan Litan",
-            "winrate": 0.625,
             "commander": [
                 "Krenko, Mob Boss"
             ],
@@ -299,7 +296,6 @@
             "deck_id": "246940",
             "rank": "3-4",
             "player": "Richmund Lim",
-            "winrate": 0.625,
             "commander": [
                 "Maelstrom Wanderer"
             ],
@@ -402,7 +398,6 @@
             "deck_id": "246941",
             "rank": "5-8",
             "player": "Janji Naling",
-            "winrate": 0.625,
             "commander": [
                 "Doran, the Siege Tower"
             ],
@@ -512,7 +507,6 @@
             "deck_id": "246942",
             "rank": "5-8",
             "player": "Dustin Sta. Maria",
-            "winrate": 0.625,
             "commander": [
                 "Skithiryx, the Blight Dragon"
             ],
@@ -598,7 +592,6 @@
             "deck_id": "246943",
             "rank": "5-8",
             "player": "Jarbs Sahagun",
-            "winrate": 0.625,
             "commander": [
                 "Kaalia of the Vast"
             ],
@@ -702,7 +695,6 @@
             "deck_id": "246944",
             "rank": "5-8",
             "player": "Jasper Perez",
-            "winrate": 0.625,
             "commander": [
                 "The Mimeoplasm"
             ],

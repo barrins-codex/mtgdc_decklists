@@ -10,7 +10,6 @@
             "deck_id": "330893",
             "rank": "1",
             "player": "Hugo",
-            "winrate": 1.0,
             "commander": [
                 "Maelstrom Wanderer"
             ],
@@ -109,7 +108,6 @@
             "deck_id": "330894",
             "rank": "2",
             "player": "Guillaume",
-            "winrate": 0.8,
             "commander": [
                 "Queen Marchesa"
             ],
@@ -219,7 +217,6 @@
             "deck_id": "330895",
             "rank": "3-4",
             "player": "Aurélien",
-            "winrate": 0.8,
             "commander": [
                 "Yidris, Maelstrom Wielder"
             ],
@@ -328,7 +325,6 @@
             "deck_id": "330896",
             "rank": "3-4",
             "player": "Kevin",
-            "winrate": 0.8,
             "commander": [
                 "Jenara, Asura of War"
             ],

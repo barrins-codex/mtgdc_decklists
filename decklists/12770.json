@@ -10,7 +10,6 @@
             "deck_id": "274055",
             "rank": "1",
             "player": "Jean-max Hamon",
-            "winrate": 1.0,
             "commander": [
                 "Keranos, God of Storms"
             ],
@@ -94,7 +93,6 @@
             "deck_id": "274056",
             "rank": "3-4",
             "player": "Pierre \"LaPince\" Laisné",
-            "winrate": 0.8,
             "commander": [
                 "Dragonlord Ojutai"
             ],
@@ -191,7 +189,6 @@
             "deck_id": "274057",
             "rank": "3-4",
             "player": "Clément Morice",
-            "winrate": 0.8,
             "commander": [
                 "Prossh, Skyraider of Kher"
             ],
@@ -298,7 +295,6 @@
             "deck_id": "274058",
             "rank": "2",
             "player": "Florian Hamon",
-            "winrate": 0.8,
             "commander": [
                 "Jenara, Asura of War"
             ],

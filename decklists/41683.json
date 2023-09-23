@@ -10,7 +10,6 @@
             "deck_id": "509593",
             "rank": "1",
             "player": "Guillaume Herman",
-            "winrate": 1.0,
             "commander": [
                 "Ghyrson Starn, Kelermorph"
             ],
@@ -111,7 +110,6 @@
             "deck_id": "509594",
             "rank": "2",
             "player": "Baptiste Berbille",
-            "winrate": 0.8,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -221,7 +219,6 @@
             "deck_id": "509595",
             "rank": "3-4",
             "player": "Philippe 'kinder' Métivier",
-            "winrate": 0.8,
             "commander": [
                 "Grist, the Hunger Tide"
             ],
@@ -322,7 +319,6 @@
             "deck_id": "509596",
             "rank": "3-4",
             "player": "Bertrand Lechemolle",
-            "winrate": 0.8,
             "commander": [
                 "Dihada, Binder of Wills"
             ],

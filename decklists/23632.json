@@ -10,7 +10,6 @@
             "deck_id": "363812",
             "rank": "2",
             "player": "Pan Liangchen",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Will Kenrith",
                 "Rowan Kenrith"
@@ -88,7 +87,6 @@
             "deck_id": "363813",
             "rank": "1",
             "player": "Jiang Ling",
-            "winrate": 1.0,
             "commander": [
                 "Niv-Mizzet Reborn"
             ],

@@ -10,7 +10,6 @@
             "deck_id": "517933",
             "rank": "2",
             "player": "Luis Meza",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Atraxa, Grand Unifier"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "517934",
             "rank": "3-4",
             "player": "Omar Rohner",
-            "winrate": 0.625,
             "commander": [
                 "Karlov of the Ghost Council"
             ],
@@ -218,7 +216,6 @@
             "deck_id": "517935",
             "rank": "5-8",
             "player": "Diego Paredes",
-            "winrate": 0.625,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -328,7 +325,6 @@
             "deck_id": "517936",
             "rank": "5-8",
             "player": "Javier Helguero",
-            "winrate": 0.625,
             "commander": [
                 "Ardoz, Cobbler of War"
             ],
@@ -415,7 +411,6 @@
             "deck_id": "517937",
             "rank": "5-8",
             "player": "Justo Chacon",
-            "winrate": 0.625,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -525,7 +520,6 @@
             "deck_id": "517938",
             "rank": "5-8",
             "player": "Daniel Garcia",
-            "winrate": 0.625,
             "commander": [
                 "Dihada, Binder of Wills"
             ],
@@ -635,7 +629,6 @@
             "deck_id": "517939",
             "rank": "1",
             "player": "Francisco Uscamayta",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Ghyrson Starn, Kelermorph"
             ],
@@ -735,7 +728,6 @@
             "deck_id": "517940",
             "rank": "3-4",
             "player": "Fredy Pittman",
-            "winrate": 0.625,
             "commander": [
                 "Niv-Mizzet Reborn"
             ],

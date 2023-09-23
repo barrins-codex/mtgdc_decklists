@@ -10,7 +10,6 @@
             "deck_id": "265686",
             "rank": "3-4",
             "player": "Léo Carbonell",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Jace, Vryn's Prodigy"
             ],
@@ -91,7 +90,6 @@
             "deck_id": "265687",
             "rank": "5-8",
             "player": "Benoît Daillan",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Jenara, Asura of War"
             ],
@@ -201,7 +199,6 @@
             "deck_id": "265688",
             "rank": "5-8",
             "player": "Swann Franchet",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Thalia, Guardian of Thraben"
             ],
@@ -285,7 +282,6 @@
             "deck_id": "265689",
             "rank": "5-8",
             "player": "Mickaël Anghar",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Maelstrom Wanderer"
             ],
@@ -388,7 +384,6 @@
             "deck_id": "265690",
             "rank": "5-8",
             "player": "Jérôme Tournayre",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Jenara, Asura of War"
             ],
@@ -496,7 +491,6 @@
             "deck_id": "265691",
             "rank": "3-4",
             "player": "Pierre Almaraz",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Geist of Saint Traft"
             ],
@@ -595,7 +589,6 @@
             "deck_id": "265692",
             "rank": "2",
             "player": "Morgan Laleure",
-            "winrate": 0.8,
             "commander": [
                 "Yisan, the Wanderer Bard"
             ],
@@ -684,7 +677,6 @@
             "deck_id": "265693",
             "rank": "1",
             "player": "Noham Maubert",
-            "winrate": 0.9,
             "commander": [
                 "Yisan, the Wanderer Bard"
             ],

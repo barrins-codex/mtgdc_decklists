@@ -10,7 +10,6 @@
             "deck_id": "459537",
             "rank": "1",
             "player": "Thomas Ricci",
-            "winrate": 1.0,
             "commander": [
                 "Isamaru, Hound of Konda"
             ],
@@ -95,7 +94,6 @@
             "deck_id": "459538",
             "rank": "2",
             "player": "Thibault Dupuy",
-            "winrate": 0.8,
             "commander": [
                 "Livio, Oathsworn Sentinel",
                 "Malcolm, Keen-Eyed Navigator"
@@ -194,7 +192,6 @@
             "deck_id": "459539",
             "rank": "3-4",
             "player": "Franck Gauci",
-            "winrate": 0.6,
             "commander": [
                 "Hogaak, Arisen Necropolis"
             ],
@@ -304,7 +301,6 @@
             "deck_id": "459540",
             "rank": "3-4",
             "player": "Pierre Almaraz",
-            "winrate": 0.6,
             "commander": [
                 "Questing Beast"
             ],

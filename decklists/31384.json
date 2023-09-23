@@ -10,7 +10,6 @@
             "deck_id": "443435",
             "rank": "1",
             "player": "Dan Korec",
-            "winrate": 0.8888888888888888,
             "commander": [
                 "Kraum, Ludevic's Opus",
                 "Livio, Oathsworn Sentinel"
@@ -119,7 +118,6 @@
             "deck_id": "443436",
             "rank": "2",
             "player": "Jiri Obraz",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Doran, the Siege Tower"
             ],
@@ -229,7 +227,6 @@
             "deck_id": "443437",
             "rank": "3",
             "player": "David \"anki\" Tran",
-            "winrate": 0.75,
             "commander": [
                 "Esika, God of the Tree"
             ],
@@ -339,7 +336,6 @@
             "deck_id": "443438",
             "rank": "4",
             "player": "Petr Stefan",
-            "winrate": 0.75,
             "commander": [
                 "Adeliz, the Cinder Wind"
             ],
@@ -437,7 +433,6 @@
             "deck_id": "443439",
             "rank": "5",
             "player": "Jiri Vancata",
-            "winrate": 0.75,
             "commander": [
                 "Ragavan, Nimble Pilferer"
             ],
@@ -523,7 +518,6 @@
             "deck_id": "443440",
             "rank": "6",
             "player": "Jakub Havelka",
-            "winrate": 0.75,
             "commander": [
                 "Ragavan, Nimble Pilferer"
             ],
@@ -609,7 +603,6 @@
             "deck_id": "443441",
             "rank": "7",
             "player": "Jan Jilek",
-            "winrate": 0.75,
             "commander": [
                 "Inalla, Archmage Ritualist"
             ],
@@ -719,7 +712,6 @@
             "deck_id": "443442",
             "rank": "8",
             "player": "Jan Kousal",
-            "winrate": 0.75,
             "commander": [
                 "Adeliz, the Cinder Wind"
             ],

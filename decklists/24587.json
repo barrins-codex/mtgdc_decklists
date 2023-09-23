@@ -10,7 +10,6 @@
             "deck_id": "371948",
             "rank": "3-4",
             "player": "Vasiliev Vitaly",
-            "winrate": 0.8,
             "commander": [
                 "The Gitrog Monster"
             ],
@@ -112,7 +111,6 @@
             "deck_id": "371949",
             "rank": "3-4",
             "player": "Stanislav Lushnichenko",
-            "winrate": 0.8,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -201,7 +199,6 @@
             "deck_id": "371950",
             "rank": "1",
             "player": "Alexander Smirnov",
-            "winrate": 1.0,
             "commander": [
                 "Thrasios, Triton Hero",
                 "Tymna the Weaver"
@@ -311,7 +308,6 @@
             "deck_id": "371951",
             "rank": "2",
             "player": "Viktor Butrimov",
-            "winrate": 0.8,
             "commander": [
                 "Hogaak, Arisen Necropolis"
             ],

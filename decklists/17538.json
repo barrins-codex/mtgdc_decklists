@@ -10,7 +10,6 @@
             "deck_id": "308656",
             "rank": "1",
             "player": "Cesidio Vischi (meideros)",
-            "winrate": 1.0,
             "commander": [
                 "Daretti, Scrap Savant"
             ],
@@ -93,7 +92,6 @@
             "deck_id": "308657",
             "rank": "3-4",
             "player": "Bastien Guichard",
-            "winrate": 0.8,
             "commander": [
                 "Isamaru, Hound of Konda"
             ],
@@ -169,7 +167,6 @@
             "deck_id": "308658",
             "rank": "3-4",
             "player": "Francois Jandaud",
-            "winrate": 0.8,
             "commander": [
                 "Saskia the Unyielding"
             ],
@@ -279,7 +276,6 @@
             "deck_id": "308659",
             "rank": "2",
             "player": "Pierre-emmanuel Cousty",
-            "winrate": 0.8,
             "commander": [
                 "Leovold, Emissary of Trest"
             ],

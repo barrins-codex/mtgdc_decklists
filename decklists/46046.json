@@ -10,7 +10,6 @@
             "deck_id": "540273",
             "rank": "1",
             "player": "Mickael \" Joker\" Gence",
-            "winrate": 1.0,
             "commander": [
                 "Tivit, Seller of Secrets"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "540274",
             "rank": "2",
             "player": "Julien Normand",
-            "winrate": 0.8,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -230,7 +228,6 @@
             "deck_id": "540275",
             "rank": "3",
             "player": "Raphael \" Olla\" Turpin",
-            "winrate": 0.8,
             "commander": [
                 "Yoshimaru, Ever Faithful",
                 "Bruse Tarl, Boorish Herder"
@@ -334,7 +331,6 @@
             "deck_id": "540276",
             "rank": "4",
             "player": "Lalaina Randrianome",
-            "winrate": 0.8,
             "commander": [
                 "Ertai Resurrected"
             ],
@@ -434,7 +430,6 @@
             "deck_id": "540277",
             "rank": "5",
             "player": "Keymal Singa",
-            "winrate": 0.6,
             "commander": [
                 "Tana, the Bloodsower",
                 "Yoshimaru, Ever Faithful"
@@ -543,7 +538,6 @@
             "deck_id": "540278",
             "rank": "6",
             "player": "Arthur Oz",
-            "winrate": 0.6,
             "commander": [
                 "Balmor, Battlemage Captain"
             ],
@@ -643,7 +637,6 @@
             "deck_id": "540279",
             "rank": "7",
             "player": "Matthieu Guertener",
-            "winrate": 0.6,
             "commander": [
                 "Soul of Windgrace"
             ],
@@ -748,7 +741,6 @@
             "deck_id": "540280",
             "rank": "8",
             "player": "Baptiste Bernard",
-            "winrate": 0.6,
             "commander": [
                 "Grist, the Hunger Tide"
             ],

@@ -10,7 +10,6 @@
             "deck_id": "254507",
             "rank": "1",
             "player": "Christophe Guillot",
-            "winrate": 1.0,
             "commander": [
                 "Marath, Will of the Wild"
             ],
@@ -119,7 +118,6 @@
             "deck_id": "254508",
             "rank": "2",
             "player": "William Guignot",
-            "winrate": 0.8,
             "commander": [
                 "Karador, Ghost Chieftain"
             ],
@@ -228,7 +226,6 @@
             "deck_id": "254509",
             "rank": "3-4",
             "player": "Nicolas Mestreau",
-            "winrate": 0.8,
             "commander": [
                 "Keranos, God of Storms"
             ],
@@ -312,7 +309,6 @@
             "deck_id": "254510",
             "rank": "3-4",
             "player": "Remi Jacquet",
-            "winrate": 0.8,
             "commander": [
                 "Sidisi, Brood Tyrant"
             ],

@@ -10,7 +10,6 @@
             "deck_id": "459258",
             "rank": "1",
             "player": "Jsd",
-            "winrate": 1.0,
             "commander": [
                 "Jegantha, the Wellspring",
                 "The First Sliver"
@@ -121,7 +120,6 @@
             "deck_id": "459259",
             "rank": "2",
             "player": "Constantine",
-            "winrate": 0.8,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -231,7 +229,6 @@
             "deck_id": "459260",
             "rank": "3-4",
             "player": "Chunhui Xie",
-            "winrate": 0.6,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -314,7 +311,6 @@
             "deck_id": "459261",
             "rank": "3-4",
             "player": "Hippo",
-            "winrate": 0.6,
             "commander": [
                 "Veyran, Voice of Duality"
             ],

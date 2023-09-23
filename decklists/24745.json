@@ -10,7 +10,6 @@
             "deck_id": "373153",
             "rank": "2",
             "player": "Pierre Abrial",
-            "winrate": 0.8,
             "commander": [
                 "Azusa, Lost but Seeking"
             ],
@@ -105,7 +104,6 @@
             "deck_id": "373154",
             "rank": "1",
             "player": "Alexandre Andouard",
-            "winrate": 1.0,
             "commander": [
                 "Uro, Titan of Nature's Wrath"
             ],

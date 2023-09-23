@@ -10,7 +10,6 @@
             "deck_id": "371357",
             "rank": "3-4",
             "player": "Hugo Fremont",
-            "winrate": 0.8,
             "commander": [
                 "Yisan, the Wanderer Bard"
             ],
@@ -101,7 +100,6 @@
             "deck_id": "371358",
             "rank": "1",
             "player": "Rio \"dmyr\" Diego",
-            "winrate": 1.0,
             "commander": [
                 "Heliod, Sun-Crowned"
             ],
@@ -184,7 +182,6 @@
             "deck_id": "371359",
             "rank": "2",
             "player": "Julien Boulet",
-            "winrate": 0.8,
             "commander": [
                 "Uro, Titan of Nature's Wrath"
             ],
@@ -288,7 +285,6 @@
             "deck_id": "371360",
             "rank": "3-4",
             "player": "Tanguy Dupont",
-            "winrate": 0.8,
             "commander": [
                 "Daretti, Scrap Savant"
             ],

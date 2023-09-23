@@ -10,7 +10,6 @@
             "deck_id": "495296",
             "rank": "1",
             "player": "Alexandre L.",
-            "winrate": 0.8888888888888888,
             "commander": [
                 "Grist, the Hunger Tide"
             ],
@@ -111,7 +110,6 @@
             "deck_id": "495297",
             "rank": "2",
             "player": "Raphael L.",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Grist, the Hunger Tide"
             ],
@@ -213,7 +211,6 @@
             "deck_id": "495298",
             "rank": "3-4",
             "player": "Clement F.",
-            "winrate": 0.75,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -323,7 +320,6 @@
             "deck_id": "495299",
             "rank": "3-4",
             "player": "Gaetan L.",
-            "winrate": 0.75,
             "commander": [
                 "Grist, the Hunger Tide"
             ],
@@ -425,7 +421,6 @@
             "deck_id": "495300",
             "rank": "5-8",
             "player": "Nicolas D.",
-            "winrate": 0.75,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -535,7 +530,6 @@
             "deck_id": "495301",
             "rank": "5-8",
             "player": "Alexandre V.",
-            "winrate": 0.75,
             "commander": [
                 "Niv-Mizzet Reborn"
             ],
@@ -645,7 +639,6 @@
             "deck_id": "495302",
             "rank": "5-8",
             "player": "Thomas D.",
-            "winrate": 0.75,
             "commander": [
                 "Soul of Windgrace"
             ],
@@ -753,7 +746,6 @@
             "deck_id": "495303",
             "rank": "5-8",
             "player": "Léo C.",
-            "winrate": 0.75,
             "commander": [
                 "Old Stickfingers"
             ],

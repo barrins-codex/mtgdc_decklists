@@ -10,7 +10,6 @@
             "deck_id": "447721",
             "rank": "1",
             "player": "Charles Wang",
-            "winrate": 1.0,
             "commander": [
                 "Winota, Joiner of Forces"
             ],
@@ -111,7 +110,6 @@
             "deck_id": "447722",
             "rank": "2",
             "player": "Lian Peng",
-            "winrate": 0.8,
             "commander": [
                 "Animar, Soul of Elements"
             ],
@@ -219,7 +217,6 @@
             "deck_id": "447723",
             "rank": "3-4",
             "player": "Zhang Hongchen",
-            "winrate": 0.8,
             "commander": [
                 "Tevesh Szat, Doom of Fools",
                 "Sakashima of a Thousand Faces"
@@ -315,7 +312,6 @@
             "deck_id": "447724",
             "rank": "3-4",
             "player": "Char",
-            "winrate": 0.8,
             "commander": [
                 "Niv-Mizzet Reborn"
             ],

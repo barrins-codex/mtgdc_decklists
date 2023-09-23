@@ -10,7 +10,6 @@
             "deck_id": "361949",
             "rank": "2",
             "player": "Jiang Ling",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -93,7 +92,6 @@
             "deck_id": "361950",
             "rank": "1",
             "player": "Yao Yao",
-            "winrate": 1.0,
             "commander": [
                 "Emry, Lurker of the Loch"
             ],

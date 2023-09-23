@@ -10,7 +10,6 @@
             "deck_id": "545071",
             "rank": "1",
             "player": "Soma Zhao",
-            "winrate": 1.0,
             "commander": [
                 "Saskia the Unyielding"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "545072",
             "rank": "2",
             "player": "Jinkun Bu",
-            "winrate": 0.8,
             "commander": [
                 "Bruse Tarl, Boorish Herder",
                 "Yoshimaru, Ever Faithful"

@@ -10,7 +10,6 @@
             "deck_id": "427443",
             "rank": "1",
             "player": "Pak Kei Leung",
-            "winrate": 1.0,
             "commander": [
                 "Tormod, the Desecrator",
                 "Esior, Wardwing Familiar"
@@ -120,7 +119,6 @@
             "deck_id": "427444",
             "rank": "2",
             "player": "Sze Lok Leung",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Kenrith, the Returned King"
             ],

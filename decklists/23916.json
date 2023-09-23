@@ -10,7 +10,6 @@
             "deck_id": "366481",
             "rank": "1",
             "player": "Julien Boulet",
-            "winrate": 0.8888888888888888,
             "commander": [
                 "Emry, Lurker of the Loch"
             ],
@@ -103,7 +102,6 @@
             "deck_id": "366482",
             "rank": "2",
             "player": "Maximilien Kali",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Niv-Mizzet Reborn"
             ],
@@ -213,7 +211,6 @@
             "deck_id": "366483",
             "rank": "3-4",
             "player": "Noham Maubert",
-            "winrate": 0.75,
             "commander": [
                 "Edric, Spymaster of Trest"
             ],
@@ -308,7 +305,6 @@
             "deck_id": "366484",
             "rank": "3-4",
             "player": "Florent Loret",
-            "winrate": 0.75,
             "commander": [
                 "Prossh, Skyraider of Kher"
             ],
@@ -411,7 +407,6 @@
             "deck_id": "366485",
             "rank": "5-8",
             "player": "Jules Lestienne",
-            "winrate": 0.75,
             "commander": [
                 "Venser, Shaper Savant"
             ],
@@ -492,7 +487,6 @@
             "deck_id": "366486",
             "rank": "5-8",
             "player": "Alex Lojira",
-            "winrate": 0.75,
             "commander": [
                 "Akiri, Line-Slinger",
                 "Silas Renn, Seeker Adept"
@@ -602,7 +596,6 @@
             "deck_id": "366487",
             "rank": "5-8",
             "player": "Hugo Fremont",
-            "winrate": 0.75,
             "commander": [
                 "Yisan, the Wanderer Bard"
             ],
@@ -693,7 +686,6 @@
             "deck_id": "366488",
             "rank": "5-8",
             "player": "Mathieu Hautot",
-            "winrate": 0.75,
             "commander": [
                 "Niv-Mizzet Reborn"
             ],

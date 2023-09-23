@@ -10,7 +10,6 @@
             "deck_id": "480411",
             "rank": "1",
             "player": "Anthony \"rs Avyc\" Vitry",
-            "winrate": 1.0,
             "commander": [
                 "Adeliz, the Cinder Wind"
             ],
@@ -113,7 +112,6 @@
             "deck_id": "480412",
             "rank": "2",
             "player": "Yann \"rs Black\" Meese",
-            "winrate": 0.8,
             "commander": [
                 "Tivit, Seller of Secrets"
             ],
@@ -223,7 +221,6 @@
             "deck_id": "480413",
             "rank": "3",
             "player": "Michaël \"joker\" Gence",
-            "winrate": 0.8,
             "commander": [
                 "Minsc &amp; Boo, Timeless Heroes"
             ],
@@ -324,7 +321,6 @@
             "deck_id": "480414",
             "rank": "4",
             "player": "Allan Fortin",
-            "winrate": 0.6,
             "commander": [
                 "Isamaru, Hound of Konda"
             ],
@@ -411,7 +407,6 @@
             "deck_id": "480415",
             "rank": "5-8",
             "player": "Baptiste Manhaval",
-            "winrate": 0.6,
             "commander": [
                 "Galazeth Prismari"
             ],
@@ -510,7 +505,6 @@
             "deck_id": "480416",
             "rank": "5-8",
             "player": "Nicolas Rabillard",
-            "winrate": 0.6,
             "commander": [
                 "Golos, Tireless Pilgrim"
             ],
@@ -620,7 +614,6 @@
             "deck_id": "480417",
             "rank": "5-8",
             "player": "Fabien Caille",
-            "winrate": 0.6,
             "commander": [
                 "Hogaak, Arisen Necropolis"
             ],
@@ -730,7 +723,6 @@
             "deck_id": "480418",
             "rank": "5-8",
             "player": "Alexandre Hoarau",
-            "winrate": 0.6,
             "commander": [
                 "General Ferrous Rokiric"
             ],

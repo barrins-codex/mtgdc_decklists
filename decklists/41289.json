@@ -10,7 +10,6 @@
             "deck_id": "506787",
             "rank": "1",
             "player": "Alex Kwok",
-            "winrate": 1.0,
             "commander": [
                 "Surrak Dragonclaw"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "506788",
             "rank": "2",
             "player": "Benjamin Lau",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "The Beamtown Bullies"
             ],

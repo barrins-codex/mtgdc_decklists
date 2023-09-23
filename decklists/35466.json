@@ -10,7 +10,6 @@
             "deck_id": "467841",
             "rank": "1",
             "player": "David Stepanek",
-            "winrate": 0.9,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "467842",
             "rank": "3-4",
             "player": "Marek Varzdik",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Rograkh, Son of Rohgahh",
                 "Silas Renn, Seeker Adept"
@@ -230,7 +228,6 @@
             "deck_id": "467843",
             "rank": "3-4",
             "player": "Ondrej Muller",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Hogaak, Arisen Necropolis"
             ],
@@ -340,7 +337,6 @@
             "deck_id": "467844",
             "rank": "2",
             "player": "Tomas Vardzik",
-            "winrate": 0.8,
             "commander": [
                 "Isamaru, Hound of Konda"
             ],
@@ -428,7 +424,6 @@
             "deck_id": "467845",
             "rank": "5-8",
             "player": "Jan Stadnik",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Shorikai, Genesis Engine"
             ],
@@ -529,7 +524,6 @@
             "deck_id": "467846",
             "rank": "5-8",
             "player": "Krystof Zlamal",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "The Reality Chip"
             ],
@@ -622,7 +616,6 @@
             "deck_id": "467847",
             "rank": "5-8",
             "player": "David Mecl",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Sythis, Harvest's Hand"
             ],
@@ -726,7 +719,6 @@
             "deck_id": "467848",
             "rank": "5-8",
             "player": "Milos Palek",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Kraum, Ludevic's Opus",
                 "Ludevic, Necro-Alchemist"
@@ -825,7 +817,6 @@
             "deck_id": "467849",
             "rank": "9-16",
             "player": "Josef Zivec",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -914,7 +905,6 @@
             "deck_id": "467850",
             "rank": "9-16",
             "player": "Lukas Majer",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Sythis, Harvest's Hand"
             ],
@@ -1020,7 +1010,6 @@
             "deck_id": "467851",
             "rank": "9-16",
             "player": "Jakub Suchanek",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Teferi, Temporal Archmage"
             ],
@@ -1100,7 +1089,6 @@
             "deck_id": "467852",
             "rank": "9-16",
             "player": "Zdenek Zuna",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Hogaak, Arisen Necropolis"
             ],
@@ -1210,7 +1198,6 @@
             "deck_id": "467853",
             "rank": "9-16",
             "player": "Renne Hajek",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Niv-Mizzet Reborn"
             ],
@@ -1320,7 +1307,6 @@
             "deck_id": "467854",
             "rank": "9-16",
             "player": "Jakub Jandik",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "The Gitrog Monster"
             ],
@@ -1421,7 +1407,6 @@
             "deck_id": "467855",
             "rank": "9-16",
             "player": "Rostislav Schejbal",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Sythis, Harvest's Hand"
             ],
@@ -1523,7 +1508,6 @@
             "deck_id": "467856",
             "rank": "9-16",
             "player": "Jachym Bartik",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Leovold, Emissary of Trest"
             ],

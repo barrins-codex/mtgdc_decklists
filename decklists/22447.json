@@ -10,7 +10,6 @@
             "deck_id": "352584",
             "rank": "16",
             "player": "Jonathan Marvie",
-            "winrate": 0.75,
             "commander": [
                 "Thrasios, Triton Hero",
                 "Reyhan, Last of the Abzan"
@@ -118,7 +117,6 @@
             "deck_id": "352585",
             "rank": "15",
             "player": "Romain Testaert",
-            "winrate": 0.75,
             "commander": [
                 "Urza, Lord High Artificer"
             ],
@@ -208,7 +206,6 @@
             "deck_id": "352586",
             "rank": "13",
             "player": "Kevin Corbille",
-            "winrate": 0.75,
             "commander": [
                 "Urza, Lord High Artificer"
             ],
@@ -290,7 +287,6 @@
             "deck_id": "352587",
             "rank": "10",
             "player": "Pyrrhus",
-            "winrate": 0.75,
             "commander": [
                 "The Gitrog Monster"
             ],
@@ -387,7 +383,6 @@
             "deck_id": "352588",
             "rank": "6",
             "player": "Adrien \"soullessoni\" Demoget",
-            "winrate": 0.8,
             "commander": [
                 "Urza, Lord High Artificer"
             ],
@@ -475,7 +470,6 @@
             "deck_id": "352589",
             "rank": "3",
             "player": "Mathieu Hautot",
-            "winrate": 0.8,
             "commander": [
                 "Niv-Mizzet Reborn"
             ],
@@ -585,7 +579,6 @@
             "deck_id": "352590",
             "rank": "1",
             "player": "Quentin Rullaud",
-            "winrate": 0.9090909090909091,
             "commander": [
                 "Yuriko, the Tiger's Shadow"
             ],
@@ -682,7 +675,6 @@
             "deck_id": "352591",
             "rank": "4",
             "player": "Lionel \"hannibal44\" Gallière",
-            "winrate": 0.8,
             "commander": [
                 "Yuriko, the Tiger's Shadow"
             ],
@@ -780,7 +772,6 @@
             "deck_id": "352592",
             "rank": "8",
             "player": "Robin Angebaud",
-            "winrate": 0.8,
             "commander": [
                 "Urza, Lord High Artificer"
             ],
@@ -868,7 +859,6 @@
             "deck_id": "352593",
             "rank": "12",
             "player": "Soratami",
-            "winrate": 0.75,
             "commander": [
                 "Urza, Lord High Artificer"
             ],
@@ -956,7 +946,6 @@
             "deck_id": "352594",
             "rank": "2",
             "player": "Kaourintin \"falaakr\" Le Guiban",
-            "winrate": 0.8181818181818182,
             "commander": [
                 "Urza, Lord High Artificer"
             ],
@@ -1044,7 +1033,6 @@
             "deck_id": "352595",
             "rank": "11",
             "player": "Vincent Bruno",
-            "winrate": 0.75,
             "commander": [
                 "Doran, the Siege Tower"
             ],
@@ -1154,7 +1142,6 @@
             "deck_id": "352596",
             "rank": "14",
             "player": "Alexandre \"zankou\" Leroyer",
-            "winrate": 0.75,
             "commander": [
                 "Titania, Protector of Argoth"
             ],
@@ -1251,7 +1238,6 @@
             "deck_id": "352597",
             "rank": "9",
             "player": "Sergei Lamzin",
-            "winrate": 0.75,
             "commander": [
                 "Yuriko, the Tiger's Shadow"
             ],
@@ -1348,7 +1334,6 @@
             "deck_id": "352598",
             "rank": "5",
             "player": "Romain Chassagne",
-            "winrate": 0.8,
             "commander": [
                 "Isamaru, Hound of Konda"
             ],
@@ -1438,7 +1423,6 @@
             "deck_id": "352599",
             "rank": "7",
             "player": "Sofiane Cormier",
-            "winrate": 0.8,
             "commander": [
                 "Judith, the Scourge Diva"
             ],

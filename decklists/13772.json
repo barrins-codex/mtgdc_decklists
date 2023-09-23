@@ -10,7 +10,6 @@
             "deck_id": "281213",
             "rank": "1",
             "player": "Giulio Gallotti",
-            "winrate": 1.0,
             "commander": [
                 "Nissa, Vastwood Seer"
             ],
@@ -103,7 +102,6 @@
             "deck_id": "281214",
             "rank": "1",
             "player": "Diego Dacà",
-            "winrate": 1.0,
             "commander": [
                 "Leovold, Emissary of Trest"
             ],
@@ -212,7 +210,6 @@
             "deck_id": "281215",
             "rank": "1",
             "player": "Andrea Laurino",
-            "winrate": 1.0,
             "commander": [
                 "Griselbrand"
             ],
@@ -299,7 +296,6 @@
             "deck_id": "281216",
             "rank": "1",
             "player": "Matteo Lanna",
-            "winrate": 1.0,
             "commander": [
                 "Selvala, Heart of the Wilds"
             ],
@@ -389,7 +385,6 @@
             "deck_id": "281217",
             "rank": "1",
             "player": "Riccardo Ghio",
-            "winrate": 1.0,
             "commander": [
                 "Sigarda, Host of Herons"
             ],
@@ -484,7 +479,6 @@
             "deck_id": "281218",
             "rank": "1",
             "player": "Federico Vecchio",
-            "winrate": 1.0,
             "commander": [
                 "Karador, Ghost Chieftain"
             ],
@@ -590,7 +584,6 @@
             "deck_id": "281219",
             "rank": "1",
             "player": "Gabriele Tocchi",
-            "winrate": 1.0,
             "commander": [
                 "Brago, King Eternal"
             ],
@@ -682,7 +675,6 @@
             "deck_id": "281220",
             "rank": "1",
             "player": "Orfeo Lombardo Ratti",
-            "winrate": 1.0,
             "commander": [
                 "Selvala, Explorer Returned"
             ],

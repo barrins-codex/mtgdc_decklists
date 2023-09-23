@@ -10,7 +10,6 @@
             "deck_id": "523226",
             "rank": "1",
             "player": "Patrik Horváth",
-            "winrate": 1.0,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "523227",
             "rank": "2",
             "player": "Richard Kolenič",
-            "winrate": 0.8,
             "commander": [
                 "Feldon, Ronom Excavator"
             ],
@@ -209,7 +207,6 @@
             "deck_id": "523228",
             "rank": "3",
             "player": "Vincent Pálenik",
-            "winrate": 0.6,
             "commander": [
                 "Dennick, Pious Apprentice"
             ],
@@ -304,7 +301,6 @@
             "deck_id": "523229",
             "rank": "4",
             "player": "Martin Opeta",
-            "winrate": 0.6,
             "commander": [
                 "General Ferrous Rokiric"
             ],

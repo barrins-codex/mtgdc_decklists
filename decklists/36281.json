@@ -10,7 +10,6 @@
             "deck_id": "472929",
             "rank": "1",
             "player": "Michal Hřebejk",
-            "winrate": 0.9,
             "commander": [
                 "Hogaak, Arisen Necropolis"
             ],
@@ -116,7 +115,6 @@
             "deck_id": "472930",
             "rank": "2",
             "player": "Jáchym Bártík",
-            "winrate": 0.8,
             "commander": [
                 "Leovold, Emissary of Trest"
             ],
@@ -226,7 +224,6 @@
             "deck_id": "472931",
             "rank": "3-4",
             "player": "Vojta Kotek",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Grenzo, Dungeon Warden"
             ],
@@ -326,7 +323,6 @@
             "deck_id": "472932",
             "rank": "3-4",
             "player": "Tomá Ketzl",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Grist, the Hunger Tide"
             ],
@@ -426,7 +422,6 @@
             "deck_id": "472933",
             "rank": "5-8",
             "player": "Dominik Maly",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Kinnan, Bonder Prodigy"
             ],
@@ -529,7 +524,6 @@
             "deck_id": "472934",
             "rank": "5-8",
             "player": "Miloslav Ponec",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Hogaak, Arisen Necropolis"
             ],
@@ -637,7 +631,6 @@
             "deck_id": "472935",
             "rank": "5-8",
             "player": "Jonas Kretzschmar",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Isamaru, Hound of Konda"
             ],
@@ -725,7 +718,6 @@
             "deck_id": "472936",
             "rank": "5-8",
             "player": "Josef Zivec",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -814,7 +806,6 @@
             "deck_id": "472937",
             "rank": "9-16",
             "player": "Miroslav vec",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -903,7 +894,6 @@
             "deck_id": "472938",
             "rank": "9-16",
             "player": "Wrata",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -984,7 +974,6 @@
             "deck_id": "472939",
             "rank": "9-16",
             "player": "Nguyen",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Shorikai, Genesis Engine"
             ],
@@ -1084,7 +1073,6 @@
             "deck_id": "472940",
             "rank": "9-16",
             "player": "Lukas Blohon",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -1194,7 +1182,6 @@
             "deck_id": "472941",
             "rank": "9-16",
             "player": "Robie",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Shorikai, Genesis Engine"
             ],
@@ -1289,7 +1276,6 @@
             "deck_id": "472942",
             "rank": "9-16",
             "player": "David Stepanek",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -1399,7 +1385,6 @@
             "deck_id": "472943",
             "rank": "9-16",
             "player": "Vojtěch Lavička",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Shorikai, Genesis Engine"
             ],
@@ -1503,7 +1488,6 @@
             "deck_id": "472944",
             "rank": "9-16",
             "player": "Jakub Havelka",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Marath, Will of the Wild"
             ],

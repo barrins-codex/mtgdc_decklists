@@ -10,7 +10,6 @@
             "deck_id": "420398",
             "rank": "1",
             "player": "Florian Trotte",
-            "winrate": 1.0,
             "commander": [
                 "Thrasios, Triton Hero",
                 "Tymna the Weaver"
@@ -120,7 +119,6 @@
             "deck_id": "420399",
             "rank": "2",
             "player": "Alexandre Martial",
-            "winrate": 0.8,
             "commander": [
                 "Uro, Titan of Nature's Wrath"
             ],
@@ -208,7 +206,6 @@
             "deck_id": "420400",
             "rank": "3-4",
             "player": "Léo Carbonell",
-            "winrate": 0.8,
             "commander": [
                 "Omnath, Locus of Creation"
             ],
@@ -318,7 +315,6 @@
             "deck_id": "420401",
             "rank": "3-4",
             "player": "Mathieu Calbot",
-            "winrate": 0.8,
             "commander": [
                 "Hogaak, Arisen Necropolis"
             ],

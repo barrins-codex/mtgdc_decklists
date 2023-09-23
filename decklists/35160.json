@@ -10,7 +10,6 @@
             "deck_id": "465996",
             "rank": "1",
             "player": "Kevin Saint-martin",
-            "winrate": 1.0,
             "commander": [
                 "Kroxa, Titan of Death's Hunger"
             ],
@@ -111,7 +110,6 @@
             "deck_id": "465997",
             "rank": "2",
             "player": "Quentin Flores",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Grenzo, Dungeon Warden"
             ],

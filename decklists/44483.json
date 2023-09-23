@@ -10,7 +10,6 @@
             "deck_id": "528084",
             "rank": "1",
             "player": "Tom Colas",
-            "winrate": 0.8888888888888888,
             "commander": [
                 "Ghyrson Starn, Kelermorph"
             ],
@@ -106,7 +105,6 @@
             "deck_id": "528085",
             "rank": "2",
             "player": "Mickael Roussel",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Grist, the Hunger Tide"
             ],
@@ -204,7 +202,6 @@
             "deck_id": "528086",
             "rank": "3-4",
             "player": "Philippe Carlier",
-            "winrate": 0.75,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -314,7 +311,6 @@
             "deck_id": "528087",
             "rank": "3-4",
             "player": "Yann Le Guennec",
-            "winrate": 0.75,
             "commander": [
                 "Dihada, Binder of Wills"
             ],
@@ -424,7 +420,6 @@
             "deck_id": "528088",
             "rank": "5-8",
             "player": "Ylan Le Bris",
-            "winrate": 0.75,
             "commander": [
                 "Feldon, Ronom Excavator"
             ],
@@ -513,7 +508,6 @@
             "deck_id": "528089",
             "rank": "5-8",
             "player": "Guillaume Petra",
-            "winrate": 0.75,
             "commander": [
                 "Dennick, Pious Apprentice"
             ],
@@ -615,7 +609,6 @@
             "deck_id": "528090",
             "rank": "5-8",
             "player": "Bastien Le Vecher",
-            "winrate": 0.75,
             "commander": [
                 "Baral and Kari Zev"
             ],
@@ -717,7 +710,6 @@
             "deck_id": "528293",
             "rank": "5-8",
             "player": "Romain Le Bourvellec",
-            "winrate": 0.75,
             "commander": [
                 "Isamaru, Hound of Konda"
             ],

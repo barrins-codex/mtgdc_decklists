@@ -10,7 +10,6 @@
             "deck_id": "342209",
             "rank": "5-8",
             "player": "Baptiste \"panthix\"",
-            "winrate": 0.625,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -119,7 +118,6 @@
             "deck_id": "342210",
             "rank": "5-8",
             "player": "Yassine \"faarnn\" Janane",
-            "winrate": 0.625,
             "commander": [
                 "Kess, Dissident Mage"
             ],
@@ -229,7 +227,6 @@
             "deck_id": "342211",
             "rank": "5-8",
             "player": "Stephane Rogard",
-            "winrate": 0.625,
             "commander": [
                 "Brago, King Eternal"
             ],
@@ -324,7 +321,6 @@
             "deck_id": "342212",
             "rank": "5-8",
             "player": "Guillaume Mahy",
-            "winrate": 0.625,
             "commander": [
                 "Queen Marchesa"
             ],
@@ -434,7 +430,6 @@
             "deck_id": "342213",
             "rank": "3-4",
             "player": "Quentin Quinteros",
-            "winrate": 0.625,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -544,7 +539,6 @@
             "deck_id": "342214",
             "rank": "3-4",
             "player": "Vincent Bruno",
-            "winrate": 0.625,
             "commander": [
                 "Doran, the Siege Tower"
             ],
@@ -654,7 +648,6 @@
             "deck_id": "342215",
             "rank": "1",
             "player": "Lionel Galliere",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Kess, Dissident Mage"
             ],
@@ -764,7 +757,6 @@
             "deck_id": "342216",
             "rank": "2",
             "player": "Kevin Corbille",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Teferi, Temporal Archmage"
             ],

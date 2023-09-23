@@ -10,7 +10,6 @@
             "deck_id": "232068",
             "rank": "1",
             "player": "Pierre Almaraz",
-            "winrate": 0.8888888888888888,
             "commander": [
                 "Geist of Saint Traft"
             ],
@@ -108,7 +107,6 @@
             "deck_id": "232069",
             "rank": "3-4",
             "player": "Fabrice Pettiti",
-            "winrate": 0.75,
             "commander": [
                 "Sigarda, Host of Herons"
             ],
@@ -206,7 +204,6 @@
             "deck_id": "232070",
             "rank": "2",
             "player": "Thierry Ramboa",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Zur the Enchanter"
             ],
@@ -315,7 +312,6 @@
             "deck_id": "232071",
             "rank": "3-4",
             "player": "Björn Lapinen",
-            "winrate": 0.75,
             "commander": [
                 "Zur the Enchanter"
             ],

@@ -10,7 +10,6 @@
             "deck_id": "283659",
             "rank": "5-8",
             "player": "Renato Valentin Jr.",
-            "winrate": 0.6,
             "commander": [
                 "Geist of Saint Traft"
             ],
@@ -106,7 +105,6 @@
             "deck_id": "283660",
             "rank": "5-8",
             "player": "Vince Alas",
-            "winrate": 0.6,
             "commander": [
                 "Kytheon, Hero of Akros"
             ],
@@ -191,7 +189,6 @@
             "deck_id": "283661",
             "rank": "5-8",
             "player": "Rogelio Solleza III",
-            "winrate": 0.6,
             "commander": [
                 "Xenagos, God of Revels"
             ],
@@ -289,7 +286,6 @@
             "deck_id": "283662",
             "rank": "3-4",
             "player": "Tomee Tomelden",
-            "winrate": 0.8,
             "commander": [
                 "Reyhan, Last of the Abzan",
                 "Vial Smasher the Fierce"
@@ -383,7 +379,6 @@
             "deck_id": "283663",
             "rank": "5-8",
             "player": "Alan Baculpo",
-            "winrate": 0.6,
             "commander": [
                 "Keranos, God of Storms"
             ],
@@ -470,7 +465,6 @@
             "deck_id": "283664",
             "rank": "3-4",
             "player": "Dan Jeffrey Dy",
-            "winrate": 0.8,
             "commander": [
                 "Saskia the Unyielding"
             ],
@@ -580,7 +574,6 @@
             "deck_id": "283665",
             "rank": "2",
             "player": "Dan Pajarillo",
-            "winrate": 0.8,
             "commander": [
                 "Vial Smasher the Fierce",
                 "Kraum, Ludevic's Opus"
@@ -689,7 +682,6 @@
             "deck_id": "283666",
             "rank": "1",
             "player": "Louie Siongco",
-            "winrate": 1.0,
             "commander": [
                 "Kraum, Ludevic's Opus",
                 "Vial Smasher the Fierce"

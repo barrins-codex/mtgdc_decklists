@@ -10,7 +10,6 @@
             "deck_id": "263715",
             "rank": "1",
             "player": "Ronald Fong",
-            "winrate": 1.0,
             "commander": [
                 "Tasigur, the Golden Fang"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "263716",
             "rank": "1",
             "player": "Jiri Balcar",
-            "winrate": 1.0,
             "commander": [
                 "Narset, Enlightened Master"
             ],
@@ -227,7 +225,6 @@
             "deck_id": "263717",
             "rank": "1",
             "player": "\"Moondust\"",
-            "winrate": 1.0,
             "commander": [
                 "Yisan, the Wanderer Bard"
             ],

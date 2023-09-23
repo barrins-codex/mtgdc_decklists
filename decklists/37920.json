@@ -10,7 +10,6 @@
             "deck_id": "483725",
             "rank": "1",
             "player": "Well",
-            "winrate": 1.0,
             "commander": [
                 "Jeska, Thrice Reborn",
                 "Ludevic, Necro-Alchemist"
@@ -112,7 +111,6 @@
             "deck_id": "483726",
             "rank": "2",
             "player": "Igor Da Silva Moncks Valério",
-            "winrate": 0.8,
             "commander": [
                 "Ikra Shidiqi, the Usurper",
                 "Jeska, Thrice Reborn"
@@ -222,7 +220,6 @@
             "deck_id": "483727",
             "rank": "3",
             "player": "Ness",
-            "winrate": 0.6,
             "commander": [
                 "Tivit, Seller of Secrets"
             ],

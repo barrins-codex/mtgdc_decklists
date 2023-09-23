@@ -10,7 +10,6 @@
             "deck_id": "547980",
             "rank": "1",
             "player": "Wong Dik Fan",
-            "winrate": 1.0,
             "commander": [
                 "Aragorn, King of Gondor"
             ],
@@ -116,7 +115,6 @@
             "deck_id": "547981",
             "rank": "2",
             "player": "Mengchen You",
-            "winrate": 0.8,
             "commander": [
                 "Aragorn, King of Gondor"
             ],
@@ -223,7 +221,6 @@
             "deck_id": "547982",
             "rank": "3",
             "player": "Yuchen Yang",
-            "winrate": 0.8,
             "commander": [
                 "Atraxa, Grand Unifier"
             ],
@@ -333,7 +330,6 @@
             "deck_id": "547983",
             "rank": "4",
             "player": "Boran Gao",
-            "winrate": 0.6,
             "commander": [
                 "Grist, the Hunger Tide"
             ],

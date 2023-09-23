@@ -10,7 +10,6 @@
             "deck_id": "458707",
             "rank": "1",
             "player": "Paul Relativo",
-            "winrate": 1.0,
             "commander": [
                 "Niv-Mizzet Reborn"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "458708",
             "rank": "2",
             "player": "Nhald Adia",
-            "winrate": 0.8,
             "commander": [
                 "Questing Beast"
             ],
@@ -211,7 +209,6 @@
             "deck_id": "458709",
             "rank": "3-4",
             "player": "Agustin Ireneo",
-            "winrate": 0.6,
             "commander": [
                 "Shalai, Voice of Plenty"
             ],
@@ -314,7 +311,6 @@
             "deck_id": "458710",
             "rank": "3-4",
             "player": "Christian Agbon",
-            "winrate": 0.6,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],

@@ -10,7 +10,6 @@
             "deck_id": "494214",
             "rank": "1",
             "player": "Martin Vlnas",
-            "winrate": 1.0,
             "commander": [
                 "Sword Coast Sailor",
                 "Wilson, Refined Grizzly"
@@ -113,7 +112,6 @@
             "deck_id": "494215",
             "rank": "2",
             "player": "Stanislav Bene",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Ghyrson Starn, Kelermorph"
             ],

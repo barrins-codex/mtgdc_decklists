@@ -10,7 +10,6 @@
             "deck_id": "253265",
             "rank": "1",
             "player": "RJ Espiritu",
-            "winrate": 0.8888888888888888,
             "commander": [
                 "Grenzo, Dungeon Warden"
             ],
@@ -103,7 +102,6 @@
             "deck_id": "253266",
             "rank": "2",
             "player": "Ronald Fong",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "The Mimeoplasm"
             ],
@@ -212,7 +210,6 @@
             "deck_id": "253267",
             "rank": "3-4",
             "player": "Israel Rodriguez",
-            "winrate": 0.75,
             "commander": [
                 "Geist of Saint Traft"
             ],
@@ -310,7 +307,6 @@
             "deck_id": "253268",
             "rank": "3-4",
             "player": "Louie Siongco",
-            "winrate": 0.75,
             "commander": [
                 "Prossh, Skyraider of Kher"
             ],
@@ -412,7 +408,6 @@
             "deck_id": "253269",
             "rank": "5-8",
             "player": "Dan Sta. Rosa",
-            "winrate": 0.75,
             "commander": [
                 "Vendilion Clique"
             ],
@@ -491,7 +486,6 @@
             "deck_id": "253270",
             "rank": "5-8",
             "player": "Don Bunag",
-            "winrate": 0.75,
             "commander": [
                 "Thraximundar"
             ],
@@ -595,7 +589,6 @@
             "deck_id": "253271",
             "rank": "5-8",
             "player": "Earl Delos Reyes",
-            "winrate": 0.75,
             "commander": [
                 "Jenara, Asura of War"
             ],
@@ -704,7 +697,6 @@
             "deck_id": "253272",
             "rank": "5-8",
             "player": "Juin San Juan",
-            "winrate": 0.75,
             "commander": [
                 "Maelstrom Wanderer"
             ],

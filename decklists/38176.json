@@ -10,7 +10,6 @@
             "deck_id": "485445",
             "rank": "1",
             "player": "Eik The Necromancer",
-            "winrate": 1.0,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "485446",
             "rank": "2",
             "player": "Jonas Kretzschmar",
-            "winrate": 0.8,
             "commander": [
                 "Isamaru, Hound of Konda"
             ],

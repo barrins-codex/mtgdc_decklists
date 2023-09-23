@@ -10,7 +10,6 @@
             "deck_id": "470844",
             "rank": "1",
             "player": "Red Seniors",
-            "winrate": 1.0,
             "commander": [
                 "General Ferrous Rokiric"
             ],
@@ -108,7 +107,6 @@
             "deck_id": "470845",
             "rank": "2",
             "player": "Shaq Pecaoco",
-            "winrate": 0.8,
             "commander": [
                 "Sythis, Harvest's Hand"
             ],
@@ -208,7 +206,6 @@
             "deck_id": "470846",
             "rank": "3-4",
             "player": "John Paul Velasco",
-            "winrate": 0.8,
             "commander": [
                 "Niv-Mizzet Reborn"
             ],
@@ -318,7 +315,6 @@
             "deck_id": "470847",
             "rank": "3-4",
             "player": "Enrico Castro",
-            "winrate": 0.8,
             "commander": [
                 "Isamaru, Hound of Konda"
             ],
@@ -409,7 +405,6 @@
             "deck_id": "470848",
             "rank": "5-8",
             "player": "Alvin Co",
-            "winrate": 0.6,
             "commander": [
                 "Niv-Mizzet, Parun"
             ],
@@ -509,7 +504,6 @@
             "deck_id": "470849",
             "rank": "5-8",
             "player": "Vince Patrick Taccayan",
-            "winrate": 0.6,
             "commander": [
                 "Shorikai, Genesis Engine"
             ],
@@ -610,7 +604,6 @@
             "deck_id": "470850",
             "rank": "5-8",
             "player": "Robert Soriano",
-            "winrate": 0.6,
             "commander": [
                 "Grist, the Hunger Tide"
             ],
@@ -712,7 +705,6 @@
             "deck_id": "470851",
             "rank": "5-8",
             "player": "Rossini Buado",
-            "winrate": 0.6,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],

@@ -10,7 +10,6 @@
             "deck_id": "464207",
             "rank": "1",
             "player": "De Coster Nicolas",
-            "winrate": 1.0,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -95,7 +94,6 @@
             "deck_id": "464208",
             "rank": "2",
             "player": "Angebaud Robin",
-            "winrate": 0.8,
             "commander": [
                 "Shorikai, Genesis Engine"
             ],
@@ -196,7 +194,6 @@
             "deck_id": "464209",
             "rank": "3-4",
             "player": "Cabillic Allan",
-            "winrate": 0.8,
             "commander": [
                 "Shorikai, Genesis Engine"
             ],
@@ -296,7 +293,6 @@
             "deck_id": "464210",
             "rank": "5-8",
             "player": "Sefrioui Enzo",
-            "winrate": 0.6,
             "commander": [
                 "Niv-Mizzet Reborn"
             ],
@@ -406,7 +402,6 @@
             "deck_id": "464211",
             "rank": "5-8",
             "player": "Eterradossi Hugo",
-            "winrate": 0.6,
             "commander": [
                 "Maelstrom Wanderer"
             ],
@@ -514,7 +509,6 @@
             "deck_id": "464212",
             "rank": "3-4",
             "player": "Yan Lorente",
-            "winrate": 0.8,
             "commander": [
                 "Hogaak, Arisen Necropolis"
             ],
@@ -624,7 +618,6 @@
             "deck_id": "464213",
             "rank": "5-8",
             "player": "Jouan Adrien",
-            "winrate": 0.6,
             "commander": [
                 "Naban, Dean of Iteration"
             ],
@@ -710,7 +703,6 @@
             "deck_id": "464214",
             "rank": "5-8",
             "player": "François Cloux",
-            "winrate": 0.6,
             "commander": [
                 "Laelia, the Blade Reforged"
             ],

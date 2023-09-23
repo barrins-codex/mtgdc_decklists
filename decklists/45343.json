@@ -10,7 +10,6 @@
             "deck_id": "534913",
             "rank": "1",
             "player": "Jonathan Dolor",
-            "winrate": 1.0,
             "commander": [
                 "Ghyrson Starn, Kelermorph"
             ],
@@ -113,7 +112,6 @@
             "deck_id": "534914",
             "rank": "2",
             "player": "Mark Joseph Gonzales",
-            "winrate": 0.8,
             "commander": [
                 "Wilson, Refined Grizzly",
                 "Tavern Brawler"
@@ -216,7 +214,6 @@
             "deck_id": "534915",
             "rank": "3-4",
             "player": "Stephen Jan Gumabao",
-            "winrate": 0.8,
             "commander": [
                 "Grist, the Hunger Tide"
             ],
@@ -318,7 +315,6 @@
             "deck_id": "534916",
             "rank": "3-4",
             "player": "Gabriel Castilan",
-            "winrate": 0.8,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -428,7 +424,6 @@
             "deck_id": "534917",
             "rank": "5-8",
             "player": "Ranier Maglantay",
-            "winrate": 0.6,
             "commander": [
                 "Yoshimaru, Ever Faithful",
                 "Tana, the Bloodsower"
@@ -536,7 +531,6 @@
             "deck_id": "534918",
             "rank": "5-8",
             "player": "Paul Relativo",
-            "winrate": 0.6,
             "commander": [
                 "Niv-Mizzet Reborn"
             ],
@@ -646,7 +640,6 @@
             "deck_id": "534919",
             "rank": "5-8",
             "player": "Philip Posadas",
-            "winrate": 0.6,
             "commander": [
                 "Yoshimaru, Ever Faithful",
                 "Tana, the Bloodsower"
@@ -756,7 +749,6 @@
             "deck_id": "534920",
             "rank": "5-8",
             "player": "Henry \"galactus\" Del Moro",
-            "winrate": 0.6,
             "commander": [
                 "Sheoldred, the Apocalypse"
             ],

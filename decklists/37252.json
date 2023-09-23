@@ -10,7 +10,6 @@
             "deck_id": "479477",
             "rank": "1",
             "player": "Laleure Morgan",
-            "winrate": 1.0,
             "commander": [
                 "Golos, Tireless Pilgrim"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "479478",
             "rank": "2",
             "player": "Pierredon Sylvain",
-            "winrate": 0.8,
             "commander": [
                 "Minsc &amp; Boo, Timeless Heroes"
             ],
@@ -224,7 +222,6 @@
             "deck_id": "479479",
             "rank": "3-4",
             "player": "Martial Alexandre",
-            "winrate": 0.8,
             "commander": [
                 "Sidisi, Brood Tyrant"
             ],
@@ -334,7 +331,6 @@
             "deck_id": "479480",
             "rank": "3-4",
             "player": "Calbo Mathieu",
-            "winrate": 0.8,
             "commander": [
                 "Grist, the Hunger Tide"
             ],
@@ -421,7 +417,6 @@
             "deck_id": "479481",
             "rank": "5-8",
             "player": "Trotte Florian",
-            "winrate": 0.6,
             "commander": [
                 "Minsc &amp; Boo, Timeless Heroes"
             ],
@@ -521,7 +516,6 @@
             "deck_id": "479482",
             "rank": "5-8",
             "player": "Damien 'eventwin' Jantzen",
-            "winrate": 0.6,
             "commander": [
                 "Elminster"
             ],
@@ -621,7 +615,6 @@
             "deck_id": "479483",
             "rank": "5-8",
             "player": "Flachaire Nathan",
-            "winrate": 0.6,
             "commander": [
                 "Esika, God of the Tree"
             ],
@@ -731,7 +724,6 @@
             "deck_id": "479484",
             "rank": "5-8",
             "player": "Rocher Swan",
-            "winrate": 0.6,
             "commander": [
                 "Jan Jansen, Chaos Crafter"
             ],

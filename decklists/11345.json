@@ -10,7 +10,6 @@
             "deck_id": "264438",
             "rank": "5-8",
             "player": "Diego Ganev",
-            "winrate": 0.75,
             "commander": [
                 "Tasigur, the Golden Fang"
             ],
@@ -119,7 +118,6 @@
             "deck_id": "264439",
             "rank": "5-8",
             "player": "Leonardo Araujo",
-            "winrate": 0.75,
             "commander": [
                 "Zurgo Bellstriker"
             ],
@@ -196,7 +194,6 @@
             "deck_id": "264440",
             "rank": "3-4",
             "player": "Derick Perilo",
-            "winrate": 0.75,
             "commander": [
                 "Teysa, Orzhov Scion"
             ],
@@ -297,7 +294,6 @@
             "deck_id": "264441",
             "rank": "3-4",
             "player": "Paulo Bezzegh",
-            "winrate": 0.75,
             "commander": [
                 "Animar, Soul of Elements"
             ],
@@ -404,7 +400,6 @@
             "deck_id": "264442",
             "rank": "2",
             "player": "Guilherme Figueira",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Keranos, God of Storms"
             ],
@@ -495,7 +490,6 @@
             "deck_id": "264443",
             "rank": "1",
             "player": "João Eduardo Santos",
-            "winrate": 0.8888888888888888,
             "commander": [
                 "Vendilion Clique"
             ],
@@ -583,7 +577,6 @@
             "deck_id": "264444",
             "rank": "5-8",
             "player": "Linecker Pimentel",
-            "winrate": 0.75,
             "commander": [
                 "Maelstrom Wanderer"
             ],
@@ -678,7 +671,6 @@
             "deck_id": "264445",
             "rank": "5-8",
             "player": "Fabio Fernandes Vieira",
-            "winrate": 0.75,
             "commander": [
                 "Jenara, Asura of War"
             ],

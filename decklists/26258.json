@@ -10,7 +10,6 @@
             "deck_id": "399625",
             "rank": "5-8",
             "player": "Robert Starke",
-            "winrate": 0.75,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "399626",
             "rank": "5-8",
             "player": "Robert Bohuslav",
-            "winrate": 0.75,
             "commander": [
                 "Hogaak, Arisen Necropolis"
             ],
@@ -230,7 +228,6 @@
             "deck_id": "399627",
             "rank": "3-4",
             "player": "Jiri Kracik",
-            "winrate": 0.75,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -340,7 +337,6 @@
             "deck_id": "399628",
             "rank": "5-8",
             "player": "Toma Vardik",
-            "winrate": 0.75,
             "commander": [
                 "Hogaak, Arisen Necropolis"
             ],
@@ -445,7 +441,6 @@
             "deck_id": "399629",
             "rank": "5-8",
             "player": "Michal Krkavec",
-            "winrate": 0.75,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -533,7 +528,6 @@
             "deck_id": "399630",
             "rank": "2",
             "player": "Martin Lamr",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Thrasios, Triton Hero",
                 "Tymna the Weaver"
@@ -643,7 +637,6 @@
             "deck_id": "399631",
             "rank": "3-4",
             "player": "Martin Vlnas",
-            "winrate": 0.75,
             "commander": [
                 "Winota, Joiner of Forces"
             ],
@@ -742,7 +735,6 @@
             "deck_id": "399632",
             "rank": "2",
             "player": "Vaclav Mysak",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Thrasios, Triton Hero",
                 "Tymna the Weaver"

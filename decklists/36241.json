@@ -10,7 +10,6 @@
             "deck_id": "472699",
             "rank": "1",
             "player": "Rodrigo \"cotonete\" Flores",
-            "winrate": 1.0,
             "commander": [
                 "Isamaru, Hound of Konda"
             ],
@@ -96,7 +95,6 @@
             "deck_id": "472700",
             "rank": "2",
             "player": "Anderson \"jamau\" Dos Santos",
-            "winrate": 0.8,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -180,7 +178,6 @@
             "deck_id": "472701",
             "rank": "3",
             "player": "Flávio \"sife\" Foster",
-            "winrate": 0.8,
             "commander": [
                 "Shorikai, Genesis Engine"
             ],
@@ -281,7 +278,6 @@
             "deck_id": "472702",
             "rank": "4",
             "player": "Maico Rigatti",
-            "winrate": 0.8,
             "commander": [
                 "Gallia of the Endless Dance"
             ],
@@ -380,7 +376,6 @@
             "deck_id": "472703",
             "rank": "5",
             "player": "Igor Da Silva Moncks Valério",
-            "winrate": 0.6,
             "commander": [
                 "Sai, Master Thopterist"
             ],
@@ -473,7 +468,6 @@
             "deck_id": "472704",
             "rank": "6",
             "player": "Cleber Moreira",
-            "winrate": 0.6,
             "commander": [
                 "Grist, the Hunger Tide"
             ],
@@ -575,7 +569,6 @@
             "deck_id": "472705",
             "rank": "7",
             "player": "Deivid Viegas",
-            "winrate": 0.6,
             "commander": [
                 "Grist, the Hunger Tide"
             ],
@@ -670,7 +663,6 @@
             "deck_id": "472706",
             "rank": "8",
             "player": "Felipe Ness",
-            "winrate": 0.6,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],

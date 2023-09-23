@@ -10,7 +10,6 @@
             "deck_id": "345727",
             "rank": "1",
             "player": "Filip Bíman",
-            "winrate": 0.8888888888888888,
             "commander": [
                 "Kraum, Ludevic's Opus",
                 "Tymna the Weaver"
@@ -120,7 +119,6 @@
             "deck_id": "345728",
             "rank": "3",
             "player": "Jan Kousal",
-            "winrate": 0.75,
             "commander": [
                 "Thrasios, Triton Hero",
                 "Ludevic, Necro-Alchemist"
@@ -222,7 +220,6 @@
             "deck_id": "345729",
             "rank": "8",
             "player": "Jakub Havelka",
-            "winrate": 0.75,
             "commander": [
                 "Grand Arbiter Augustin IV"
             ],
@@ -318,7 +315,6 @@
             "deck_id": "345730",
             "rank": "6",
             "player": "Miroslav Kalina",
-            "winrate": 0.75,
             "commander": [
                 "Yuriko, the Tiger's Shadow"
             ],
@@ -412,7 +408,6 @@
             "deck_id": "345731",
             "rank": "7",
             "player": "Jiří Pokorný",
-            "winrate": 0.75,
             "commander": [
                 "Rowan Kenrith",
                 "Will Kenrith"
@@ -503,7 +498,6 @@
             "deck_id": "345732",
             "rank": "4",
             "player": "Vaclav Mysak",
-            "winrate": 0.75,
             "commander": [
                 "Teferi, Temporal Archmage"
             ],
@@ -577,7 +571,6 @@
             "deck_id": "345733",
             "rank": "5",
             "player": "Roman Vejdělek",
-            "winrate": 0.75,
             "commander": [
                 "Kraum, Ludevic's Opus",
                 "Tymna the Weaver"
@@ -687,7 +680,6 @@
             "deck_id": "345734",
             "rank": "1",
             "player": "Viktor Jasanský",
-            "winrate": 0.8888888888888888,
             "commander": [
                 "Sai, Master Thopterist"
             ],

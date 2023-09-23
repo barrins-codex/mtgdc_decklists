@@ -10,7 +10,6 @@
             "deck_id": "532864",
             "rank": "1",
             "player": "Reigneux Jérémy",
-            "winrate": 1.0,
             "commander": [
                 "Cecily, Haunted Mage",
                 "Wernog, Rider's Chaplain"
@@ -120,7 +119,6 @@
             "deck_id": "532865",
             "rank": "2",
             "player": "Bastien Perez",
-            "winrate": 0.8,
             "commander": [
                 "Feldon, Ronom Excavator"
             ],
@@ -206,7 +204,6 @@
             "deck_id": "532866",
             "rank": "3-4",
             "player": "Mathieu Waterlot",
-            "winrate": 0.8,
             "commander": [
                 "Soul of Windgrace"
             ],
@@ -311,7 +308,6 @@
             "deck_id": "532867",
             "rank": "3-4",
             "player": "Geoffroy Ravaut",
-            "winrate": 0.8,
             "commander": [
                 "Light-Paws, Emperor's Voice"
             ],
@@ -396,7 +392,6 @@
             "deck_id": "532868",
             "rank": "5-8",
             "player": "Nicolas Erwin",
-            "winrate": 0.6,
             "commander": [
                 "Azusa, Lost but Seeking"
             ],
@@ -493,7 +488,6 @@
             "deck_id": "532869",
             "rank": "5-8",
             "player": "Blackscorpio",
-            "winrate": 0.6,
             "commander": [
                 "Gut, True Soul Zealot",
                 "Noble Heritage"
@@ -596,7 +590,6 @@
             "deck_id": "532870",
             "rank": "5-8",
             "player": "Isabelle Seymat",
-            "winrate": 0.6,
             "commander": [
                 "Atraxa, Grand Unifier"
             ],

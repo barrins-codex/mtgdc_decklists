@@ -10,7 +10,6 @@
             "deck_id": "519450",
             "rank": "1",
             "player": "Julien Lagardère",
-            "winrate": 1.0,
             "commander": [
                 "Yoshimaru, Ever Faithful",
                 "Ludevic, Necro-Alchemist"
@@ -119,7 +118,6 @@
             "deck_id": "519451",
             "rank": "2",
             "player": "Paul Ridoux",
-            "winrate": 0.8,
             "commander": [
                 "Golos, Tireless Pilgrim"
             ],
@@ -229,7 +227,6 @@
             "deck_id": "519452",
             "rank": "3",
             "player": "Julien Rouar",
-            "winrate": 0.8,
             "commander": [
                 "Hogaak, Arisen Necropolis"
             ],
@@ -339,7 +336,6 @@
             "deck_id": "519453",
             "rank": "5",
             "player": "Guillaume Pegeot",
-            "winrate": 0.6,
             "commander": [
                 "Grist, the Hunger Tide"
             ],
@@ -438,7 +434,6 @@
             "deck_id": "519454",
             "rank": "6",
             "player": "Maxime Le Couric",
-            "winrate": 0.6,
             "commander": [
                 "Prossh, Skyraider of Kher"
             ],
@@ -548,7 +543,6 @@
             "deck_id": "519455",
             "rank": "7",
             "player": "Cyril Rols",
-            "winrate": 0.6,
             "commander": [
                 "Far Traveler",
                 "Gut, True Soul Zealot"
@@ -651,7 +645,6 @@
             "deck_id": "519456",
             "rank": "8",
             "player": "Amaury Giordanella",
-            "winrate": 0.6,
             "commander": [
                 "Tunnel of Love",
                 "Trash Bin",

@@ -10,7 +10,6 @@
             "deck_id": "508168",
             "rank": "1",
             "player": "Ricky Madrigal",
-            "winrate": 1.0,
             "commander": [
                 "Gut, True Soul Zealot",
                 "Veteran Soldier"
@@ -117,7 +116,6 @@
             "deck_id": "508169",
             "rank": "2",
             "player": "Ronnel Malate",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Raffine, Scheming Seer"
             ],

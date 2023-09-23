@@ -10,7 +10,6 @@
             "deck_id": "365755",
             "rank": "3-4",
             "player": "Yvan Lucas",
-            "winrate": 0.8,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -88,7 +87,6 @@
             "deck_id": "365756",
             "rank": "2",
             "player": "Justo Chacon",
-            "winrate": 0.8,
             "commander": [
                 "Sai, Master Thopterist"
             ],
@@ -176,7 +174,6 @@
             "deck_id": "365757",
             "rank": "1",
             "player": "Bastien Guichard",
-            "winrate": 1.0,
             "commander": [
                 "Isamaru, Hound of Konda"
             ],
@@ -261,7 +258,6 @@
             "deck_id": "365758",
             "rank": "3-4",
             "player": "Yann Brugiere",
-            "winrate": 0.8,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],

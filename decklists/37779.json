@@ -10,7 +10,6 @@
             "deck_id": "482802",
             "rank": "1",
             "player": "Francis Figue",
-            "winrate": 1.0,
             "commander": [
                 "Grist, the Hunger Tide"
             ],
@@ -115,7 +114,6 @@
             "deck_id": "482803",
             "rank": "2",
             "player": "Alexandre Andouard",
-            "winrate": 0.8,
             "commander": [
                 "Thrasta, Tempest's Roar"
             ],
@@ -211,7 +209,6 @@
             "deck_id": "482804",
             "rank": "3-4",
             "player": "Cyril Tournier",
-            "winrate": 0.8,
             "commander": [
                 "Zur the Enchanter"
             ],
@@ -321,7 +318,6 @@
             "deck_id": "482805",
             "rank": "3-4",
             "player": "Pierre-louis Biet",
-            "winrate": 0.8,
             "commander": [
                 "Raffine, Scheming Seer"
             ],

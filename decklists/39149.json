@@ -10,7 +10,6 @@
             "deck_id": "491824",
             "rank": "1",
             "player": "Nicolas Soulé",
-            "winrate": 1.0,
             "commander": [
                 "Klothys, God of Destiny"
             ],
@@ -111,7 +110,6 @@
             "deck_id": "491825",
             "rank": "2",
             "player": "Pierre Bats",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Tivit, Seller of Secrets"
             ],

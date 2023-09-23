@@ -10,7 +10,6 @@
             "deck_id": "466302",
             "rank": "1",
             "player": "Well",
-            "winrate": 1.0,
             "commander": [
                 "Grist, the Hunger Tide"
             ],
@@ -112,7 +111,6 @@
             "deck_id": "466303",
             "rank": "2",
             "player": "Zé Schneid",
-            "winrate": 0.8,
             "commander": [
                 "Adeliz, the Cinder Wind"
             ],
@@ -207,7 +205,6 @@
             "deck_id": "466304",
             "rank": "3-4",
             "player": "Turo",
-            "winrate": 0.6,
             "commander": [
                 "The Gitrog Monster"
             ],
@@ -308,7 +305,6 @@
             "deck_id": "466305",
             "rank": "3-4",
             "player": "Romulo Cury",
-            "winrate": 0.6,
             "commander": [
                 "The First Sliver"
             ],

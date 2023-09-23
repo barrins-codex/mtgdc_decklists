@@ -10,7 +10,6 @@
             "deck_id": "419624",
             "rank": "1",
             "player": "Jingting,wu",
-            "winrate": 1.0,
             "commander": [
                 "Omnath, Locus of Creation"
             ],
@@ -118,7 +117,6 @@
             "deck_id": "419625",
             "rank": "2",
             "player": "Ziyan,rong",
-            "winrate": 0.8,
             "commander": [
                 "Omnath, Locus of Creation"
             ],
@@ -226,7 +224,6 @@
             "deck_id": "419626",
             "rank": "3-4",
             "player": "Yixuan,bu",
-            "winrate": 0.6,
             "commander": [
                 "Shabraz, the Skyshark",
                 "Brallin, Skyshark Rider",
@@ -367,7 +364,6 @@
             "deck_id": "419627",
             "rank": "3-4",
             "player": "Guohao,cai",
-            "winrate": 0.6,
             "commander": [
                 "Winota, Joiner of Forces"
             ],

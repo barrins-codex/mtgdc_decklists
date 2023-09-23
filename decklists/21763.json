@@ -10,7 +10,6 @@
             "deck_id": "346420",
             "rank": "1",
             "player": "Urraccoon",
-            "winrate": 1.0,
             "commander": [
                 "Sai, Master Thopterist"
             ],
@@ -95,7 +94,6 @@
             "deck_id": "346421",
             "rank": "2",
             "player": "Mikinai",
-            "winrate": 0.8,
             "commander": [
                 "Kraum, Ludevic's Opus",
                 "Reyhan, Last of the Abzan"
@@ -201,7 +199,6 @@
             "deck_id": "346422",
             "rank": "3-4",
             "player": "Waka",
-            "winrate": 0.8,
             "commander": [
                 "Niv-Mizzet, Parun"
             ],
@@ -288,7 +285,6 @@
             "deck_id": "346423",
             "rank": "3-4",
             "player": "Martin Vlnas",
-            "winrate": 0.8,
             "commander": [
                 "Titania, Protector of Argoth"
             ],

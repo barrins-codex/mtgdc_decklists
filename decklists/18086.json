@@ -10,7 +10,6 @@
             "deck_id": "312243",
             "rank": "3-4",
             "player": "Ben Hackländer",
-            "winrate": 0.8,
             "commander": [
                 "Kess, Dissident Mage"
             ],
@@ -115,7 +114,6 @@
             "deck_id": "312244",
             "rank": "3-4",
             "player": "Sebastian Haines",
-            "winrate": 0.8,
             "commander": [
                 "Leovold, Emissary of Trest"
             ],
@@ -225,7 +223,6 @@
             "deck_id": "312245",
             "rank": "2",
             "player": "Stefan Knäpper",
-            "winrate": 0.8,
             "commander": [
                 "Aurelia, the Warleader"
             ],
@@ -318,7 +315,6 @@
             "deck_id": "312246",
             "rank": "1",
             "player": "Lukas Kamps",
-            "winrate": 1.0,
             "commander": [
                 "Zurgo Bellstriker"
             ],

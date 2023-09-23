@@ -10,7 +10,6 @@
             "deck_id": "519210",
             "rank": "1",
             "player": "Baptiste Berbille",
-            "winrate": 1.0,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "519211",
             "rank": "2",
             "player": "Guillaume Herman",
-            "winrate": 0.8,
             "commander": [
                 "Ghyrson Starn, Kelermorph"
             ],

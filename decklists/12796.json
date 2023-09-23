@@ -10,7 +10,6 @@
             "deck_id": "274251",
             "rank": "5-8",
             "player": "Dmitriy Tretyakov",
-            "winrate": 0.625,
             "commander": [
                 "Tymaret, the Murder King"
             ],
@@ -112,7 +111,6 @@
             "deck_id": "274252",
             "rank": "5-8",
             "player": "Dmitriy Zelyanin",
-            "winrate": 0.625,
             "commander": [
                 "Kozilek, Butcher of Truth"
             ],
@@ -222,7 +220,6 @@
             "deck_id": "274253",
             "rank": "5-8",
             "player": "Oleg Evseev",
-            "winrate": 0.625,
             "commander": [
                 "Child of Alara"
             ],
@@ -332,7 +329,6 @@
             "deck_id": "274254",
             "rank": "1",
             "player": "Alexey Maslakov",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Geist of Saint Traft"
             ],
@@ -429,7 +425,6 @@
             "deck_id": "274255",
             "rank": "2",
             "player": "Ilya Khrustalev",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "The Gitrog Monster"
             ],
@@ -530,7 +525,6 @@
             "deck_id": "274256",
             "rank": "3-4",
             "player": "Vladimir Chutchev",
-            "winrate": 0.625,
             "commander": [
                 "Azami, Lady of Scrolls"
             ],
@@ -610,7 +604,6 @@
             "deck_id": "274257",
             "rank": "3-4",
             "player": "Alexander Ivanov",
-            "winrate": 0.625,
             "commander": [
                 "Anafenza, the Foremost"
             ],
@@ -720,7 +713,6 @@
             "deck_id": "274258",
             "rank": "5-8",
             "player": "Egor Ovcharenko",
-            "winrate": 0.625,
             "commander": [
                 "Keranos, God of Storms"
             ],

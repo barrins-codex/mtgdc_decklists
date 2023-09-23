@@ -10,7 +10,6 @@
             "deck_id": "488089",
             "rank": "1",
             "player": "Rai Reyes",
-            "winrate": 1.0,
             "commander": [
                 "Juri, Master of the Revue"
             ],
@@ -113,7 +112,6 @@
             "deck_id": "488090",
             "rank": "2",
             "player": "Mark Lasam",
-            "winrate": 0.8,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -223,7 +221,6 @@
             "deck_id": "488091",
             "rank": "3",
             "player": "Miguel Aquino",
-            "winrate": 0.8,
             "commander": [
                 "Dennick, Pious Apprentice"
             ],
@@ -327,7 +324,6 @@
             "deck_id": "488092",
             "rank": "4",
             "player": "Ken Decena",
-            "winrate": 0.6,
             "commander": [
                 "Klothys, God of Destiny"
             ],
@@ -431,7 +427,6 @@
             "deck_id": "488093",
             "rank": "5",
             "player": "Dinno Zaide",
-            "winrate": 0.6,
             "commander": [
                 "Jeska, Thrice Reborn",
                 "Ludevic, Necro-Alchemist"
@@ -531,7 +526,6 @@
             "deck_id": "488094",
             "rank": "6",
             "player": "Nelvine Tuano",
-            "winrate": 0.6,
             "commander": [
                 "Nissa, Vastwood Seer"
             ],
@@ -624,7 +618,6 @@
             "deck_id": "488095",
             "rank": "7",
             "player": "Tatoff Anayron",
-            "winrate": 0.6,
             "commander": [
                 "Adeliz, the Cinder Wind"
             ],
@@ -718,7 +711,6 @@
             "deck_id": "488096",
             "rank": "8",
             "player": "Lucas Concepcion",
-            "winrate": 0.6,
             "commander": [
                 "Grist, the Hunger Tide"
             ],

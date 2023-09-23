@@ -10,7 +10,6 @@
             "deck_id": "517716",
             "rank": "4",
             "player": "Wei Cheng",
-            "winrate": 0.75,
             "commander": [
                 "Tivit, Seller of Secrets"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "517717",
             "rank": "4",
             "player": "Shuyao Liu",
-            "winrate": 0.75,
             "commander": [
                 "Tana, the Bloodsower",
                 "Yoshimaru, Ever Faithful"
@@ -229,7 +227,6 @@
             "deck_id": "517718",
             "rank": "4",
             "player": "Shijia Meng",
-            "winrate": 0.75,
             "commander": [
                 "Minsc, Beloved Ranger"
             ],
@@ -338,7 +335,6 @@
             "deck_id": "517719",
             "rank": "4",
             "player": "Jin Liu",
-            "winrate": 0.75,
             "commander": [
                 "Atraxa, Grand Unifier"
             ],
@@ -448,7 +444,6 @@
             "deck_id": "517720",
             "rank": "5-8",
             "player": "Mingxuan Tian",
-            "winrate": 0.75,
             "commander": [
                 "Old Stickfingers"
             ],
@@ -552,7 +547,6 @@
             "deck_id": "517721",
             "rank": "5-8",
             "player": "Ruji Li",
-            "winrate": 0.75,
             "commander": [
                 "Tana, the Bloodsower",
                 "Yoshimaru, Ever Faithful"
@@ -657,7 +651,6 @@
             "deck_id": "517722",
             "rank": "5-8",
             "player": "Ziqi Xi",
-            "winrate": 0.75,
             "commander": [
                 "Dennick, Pious Apprentice"
             ],
@@ -759,7 +752,6 @@
             "deck_id": "517723",
             "rank": "5-8",
             "player": "Yi Ding",
-            "winrate": 0.75,
             "commander": [
                 "Ghyrson Starn, Kelermorph"
             ],

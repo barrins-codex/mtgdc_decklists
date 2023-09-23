@@ -10,7 +10,6 @@
             "deck_id": "521884",
             "rank": "1",
             "player": "Rainier Maglantay",
-            "winrate": 0.9,
             "commander": [
                 "Yoshimaru, Ever Faithful",
                 "Tana, the Bloodsower"
@@ -119,7 +118,6 @@
             "deck_id": "521885",
             "rank": "2",
             "player": "Martin Marcelo",
-            "winrate": 0.8,
             "commander": [
                 "Ghyrson Starn, Kelermorph"
             ],
@@ -223,7 +221,6 @@
             "deck_id": "521886",
             "rank": "3-4",
             "player": "Rj Sanchez",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Hogaak, Arisen Necropolis"
             ],
@@ -333,7 +330,6 @@
             "deck_id": "521887",
             "rank": "3-4",
             "player": "Juancho Morales",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Grist, the Hunger Tide"
             ],
@@ -434,7 +430,6 @@
             "deck_id": "521888",
             "rank": "5-8",
             "player": "Lawrence Tales",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -544,7 +539,6 @@
             "deck_id": "521889",
             "rank": "5-8",
             "player": "Nhald Adia",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Feldon, Ronom Excavator"
             ],
@@ -631,7 +625,6 @@
             "deck_id": "521890",
             "rank": "5-8",
             "player": "Dave Agustin",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Kytheon, Hero of Akros"
             ],
@@ -725,7 +718,6 @@
             "deck_id": "521891",
             "rank": "5-8",
             "player": "Josh Fuentes",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Tivit, Seller of Secrets"
             ],

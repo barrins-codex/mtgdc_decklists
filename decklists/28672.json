@@ -10,7 +10,6 @@
             "deck_id": "426397",
             "rank": "1",
             "player": "Man Lok Wong",
-            "winrate": 1.0,
             "commander": [
                 "Jeska, Thrice Reborn",
                 "Esior, Wardwing Familiar"
@@ -115,7 +114,6 @@
             "deck_id": "426398",
             "rank": "2",
             "player": "Sam Liu",
-            "winrate": 0.8,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],

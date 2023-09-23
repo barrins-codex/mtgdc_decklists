@@ -10,7 +10,6 @@
             "deck_id": "485391",
             "rank": "1",
             "player": "Gut / Agent",
-            "winrate": 1.0,
             "commander": [
                 "Agent of the Shadow Thieves",
                 "Gut, True Soul Zealot"
@@ -94,7 +93,6 @@
             "deck_id": "485392",
             "rank": "2",
             "player": "Gabriel Matos",
-            "winrate": 0.8,
             "commander": [
                 "Zo-Zu the Punisher"
             ],
@@ -176,7 +174,6 @@
             "deck_id": "485393",
             "rank": "3-4",
             "player": "Gabriel Rufino",
-            "winrate": 0.6,
             "commander": [
                 "Grist, the Hunger Tide"
             ],
@@ -270,7 +267,6 @@
             "deck_id": "485394",
             "rank": "3-4",
             "player": "Clemilson",
-            "winrate": 0.6,
             "commander": [
                 "Magda, Brazen Outlaw"
             ],

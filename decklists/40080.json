@@ -10,7 +10,6 @@
             "deck_id": "498407",
             "rank": "1",
             "player": "Andrés Otañez",
-            "winrate": 0.8888888888888888,
             "commander": [
                 "Ghyrson Starn, Kelermorph"
             ],
@@ -114,7 +113,6 @@
             "deck_id": "498408",
             "rank": "5-8",
             "player": "Luigi Morales",
-            "winrate": 0.75,
             "commander": [
                 "Kelsien, the Plague"
             ],
@@ -224,7 +222,6 @@
             "deck_id": "498409",
             "rank": "3-4",
             "player": "Irving Guedez",
-            "winrate": 0.75,
             "commander": [
                 "Silas Renn, Seeker Adept",
                 "Yoshimaru, Ever Faithful"
@@ -330,7 +327,6 @@
             "deck_id": "498410",
             "rank": "5-8",
             "player": "Santiago Torres",
-            "winrate": 0.75,
             "commander": [
                 "Hogaak, Arisen Necropolis"
             ],
@@ -440,7 +436,6 @@
             "deck_id": "498411",
             "rank": "3-4",
             "player": "Marcelo Valencia",
-            "winrate": 0.75,
             "commander": [
                 "Tevesh Szat, Doom of Fools"
             ],
@@ -528,7 +523,6 @@
             "deck_id": "498412",
             "rank": "5-8",
             "player": "Justo Chacon",
-            "winrate": 0.75,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -638,7 +632,6 @@
             "deck_id": "498413",
             "rank": "5-8",
             "player": "Javier Helguero",
-            "winrate": 0.75,
             "commander": [
                 "Magda, Brazen Outlaw"
             ],
@@ -726,7 +719,6 @@
             "deck_id": "498414",
             "rank": "2",
             "player": "Gerardo Tellez",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Feldon, Ronom Excavator"
             ],

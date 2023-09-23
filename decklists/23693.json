@@ -10,7 +10,6 @@
             "deck_id": "364432",
             "rank": "1",
             "player": "Brugière Yann",
-            "winrate": 1.0,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -87,7 +86,6 @@
             "deck_id": "364433",
             "rank": "2",
             "player": "Lucas Yvan",
-            "winrate": 0.8,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -165,7 +163,6 @@
             "deck_id": "364434",
             "rank": "3-4",
             "player": "Chacon Justo",
-            "winrate": 0.8,
             "commander": [
                 "Thrasios, Triton Hero",
                 "Tymna the Weaver"
@@ -275,7 +272,6 @@
             "deck_id": "364435",
             "rank": "3-4",
             "player": "Jandaud François",
-            "winrate": 0.8,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -353,7 +349,6 @@
             "deck_id": "364436",
             "rank": "5-8",
             "player": "Torillec Yann",
-            "winrate": 0.6,
             "commander": [
                 "Thrasios, Triton Hero",
                 "Kraum, Ludevic's Opus"
@@ -457,7 +452,6 @@
             "deck_id": "364437",
             "rank": "5-8",
             "player": "Gaillard Arthur",
-            "winrate": 0.6,
             "commander": [
                 "Lord Windgrace"
             ],
@@ -560,7 +554,6 @@
             "deck_id": "364438",
             "rank": "5-8",
             "player": "Daqiq Alim",
-            "winrate": 0.6,
             "commander": [
                 "Edric, Spymaster of Trest"
             ],
@@ -661,7 +654,6 @@
             "deck_id": "364439",
             "rank": "5-8",
             "player": "Bouvier Baptiste",
-            "winrate": 0.6,
             "commander": [
                 "Grenzo, Havoc Raiser"
             ],

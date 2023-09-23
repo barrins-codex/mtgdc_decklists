@@ -10,7 +10,6 @@
             "deck_id": "487379",
             "rank": "1",
             "player": "Verner, Jan",
-            "winrate": 0.9,
             "commander": [
                 "Rocco, Cabaretti Caterer"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "487380",
             "rank": "2",
             "player": "David Stepanek",
-            "winrate": 0.8,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -230,7 +228,6 @@
             "deck_id": "487381",
             "rank": "3-4",
             "player": "Tvrzník, Pavel",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Juri, Master of the Revue"
             ],
@@ -331,7 +328,6 @@
             "deck_id": "487382",
             "rank": "3-4",
             "player": "Műller, Ondřej",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Hogaak, Arisen Necropolis"
             ],
@@ -441,7 +437,6 @@
             "deck_id": "487383",
             "rank": "5-8",
             "player": "Hlavsa, Zdeněk",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -551,7 +546,6 @@
             "deck_id": "487384",
             "rank": "5-8",
             "player": "Ponec, Miloslav",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Leovold, Emissary of Trest"
             ],
@@ -661,7 +655,6 @@
             "deck_id": "487385",
             "rank": "5-8",
             "player": "Vápeník, Karel",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Leovold, Emissary of Trest"
             ],
@@ -771,7 +764,6 @@
             "deck_id": "487386",
             "rank": "5-8",
             "player": "Svoboda, Jan",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Niv-Mizzet Reborn"
             ],

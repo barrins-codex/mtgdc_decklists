@@ -10,7 +10,6 @@
             "deck_id": "360779",
             "rank": "1",
             "player": "Luis Kamper",
-            "winrate": 1.0,
             "commander": [
                 "Emry, Lurker of the Loch"
             ],
@@ -92,7 +91,6 @@
             "deck_id": "360780",
             "rank": "2",
             "player": "Björn Pfeil",
-            "winrate": 0.8,
             "commander": [
                 "Kess, Dissident Mage"
             ],

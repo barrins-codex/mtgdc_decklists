@@ -10,7 +10,6 @@
             "deck_id": "508998",
             "rank": "1",
             "player": "Gustavo Ramirez",
-            "winrate": 1.0,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "508999",
             "rank": "2",
             "player": "Thiago Mechan",
-            "winrate": 0.8,
             "commander": [
                 "Balmor, Battlemage Captain"
             ],
@@ -213,7 +211,6 @@
             "deck_id": "509000",
             "rank": "3-4",
             "player": "José Aliaga",
-            "winrate": 0.8,
             "commander": [
                 "Queen Marchesa"
             ],
@@ -323,7 +320,6 @@
             "deck_id": "509001",
             "rank": "3-4",
             "player": "Julio Sánchez",
-            "winrate": 0.8,
             "commander": [
                 "Sythis, Harvest's Hand"
             ],

@@ -10,7 +10,6 @@
             "deck_id": "529954",
             "rank": "1",
             "player": "Antonin Ménard",
-            "winrate": 0.8888888888888888,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "529955",
             "rank": "2",
             "player": "The Nameless One",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Hogaak, Arisen Necropolis"
             ],
@@ -230,7 +228,6 @@
             "deck_id": "529956",
             "rank": "3-4",
             "player": "Simon Epiard",
-            "winrate": 0.75,
             "commander": [
                 "Niv-Mizzet Reborn"
             ],
@@ -340,7 +337,6 @@
             "deck_id": "529957",
             "rank": "3-4",
             "player": "Iwan Fournier",
-            "winrate": 0.75,
             "commander": [
                 "Feldon, Ronom Excavator"
             ],
@@ -428,7 +424,6 @@
             "deck_id": "529958",
             "rank": "5-8",
             "player": "Marin Boulangé",
-            "winrate": 0.75,
             "commander": [
                 "Baral and Kari Zev"
             ],
@@ -524,7 +519,6 @@
             "deck_id": "529959",
             "rank": "5-8",
             "player": "Jerome Morque",
-            "winrate": 0.75,
             "commander": [
                 "Dihada, Binder of Wills"
             ],
@@ -634,7 +628,6 @@
             "deck_id": "529960",
             "rank": "5-8",
             "player": "Thomas Rousseau",
-            "winrate": 0.75,
             "commander": [
                 "Hogaak, Arisen Necropolis"
             ],
@@ -744,7 +737,6 @@
             "deck_id": "529961",
             "rank": "5-8",
             "player": "Christophe Maymard",
-            "winrate": 0.75,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],

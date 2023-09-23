@@ -10,7 +10,6 @@
             "deck_id": "333845",
             "rank": "1",
             "player": "Damien Godet",
-            "winrate": 1.0,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -96,7 +95,6 @@
             "deck_id": "333846",
             "rank": "2",
             "player": "Jeff Berlou",
-            "winrate": 0.8,
             "commander": [
                 "Tymna the Weaver",
                 "Thrasios, Triton Hero"
@@ -206,7 +204,6 @@
             "deck_id": "333847",
             "rank": "3-4",
             "player": "Nathalie Vieh",
-            "winrate": 0.8,
             "commander": [
                 "Alesha, Who Smiles at Death"
             ],
@@ -316,7 +313,6 @@
             "deck_id": "333848",
             "rank": "3-4",
             "player": "Thomas Damoi",
-            "winrate": 0.8,
             "commander": [
                 "Lord Windgrace"
             ],

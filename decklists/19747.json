@@ -10,7 +10,6 @@
             "deck_id": "327067",
             "rank": "2",
             "player": "Jasper R. Nielsen",
-            "winrate": 0.8,
             "commander": [
                 "Kraum, Ludevic's Opus",
                 "Tymna the Weaver"
@@ -120,7 +119,6 @@
             "deck_id": "327068",
             "rank": "1",
             "player": "Sejer Friis",
-            "winrate": 1.0,
             "commander": [
                 "Titania, Protector of Argoth"
             ],

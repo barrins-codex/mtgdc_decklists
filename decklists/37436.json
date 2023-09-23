@@ -10,7 +10,6 @@
             "deck_id": "480636",
             "rank": "1",
             "player": "Maximilien Kalil",
-            "winrate": 0.9,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "480637",
             "rank": "2",
             "player": "Yann Herpe",
-            "winrate": 0.8,
             "commander": [
                 "Minsc &amp; Boo, Timeless Heroes"
             ],
@@ -219,7 +217,6 @@
             "deck_id": "480638",
             "rank": "3-4",
             "player": "Thomas Méchin",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Tivit, Seller of Secrets"
             ],
@@ -329,7 +326,6 @@
             "deck_id": "480639",
             "rank": "3-4",
             "player": "Maxime Pernin",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Minsc &amp; Boo, Timeless Heroes"
             ],
@@ -432,7 +428,6 @@
             "deck_id": "480640",
             "rank": "5-8",
             "player": "Julien Grail",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Jeska, Thrice Reborn",
                 "Ikra Shidiqi, the Usurper"
@@ -542,7 +537,6 @@
             "deck_id": "480641",
             "rank": "5-8",
             "player": "Fabio Weber",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "The Gitrog Monster"
             ],
@@ -642,7 +636,6 @@
             "deck_id": "480642",
             "rank": "5-8",
             "player": "Jules Lestienne",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Lurrus of the Dream-Den",
                 "Wernog, Rider's Chaplain",
@@ -753,7 +746,6 @@
             "deck_id": "480643",
             "rank": "5-8",
             "player": "Jérôme Surgeon",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Minsc &amp; Boo, Timeless Heroes"
             ],
@@ -855,7 +847,6 @@
             "deck_id": "480644",
             "rank": "9-16",
             "player": "Jean Gabriel Blanc",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Minsc &amp; Boo, Timeless Heroes"
             ],
@@ -957,7 +948,6 @@
             "deck_id": "480645",
             "rank": "9-16",
             "player": "Quentin Guilbert",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Octavia, Living Thesis"
             ],
@@ -1048,7 +1038,6 @@
             "deck_id": "480646",
             "rank": "9-16",
             "player": "François Quesque",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Prossh, Skyraider of Kher"
             ],
@@ -1158,7 +1147,6 @@
             "deck_id": "480647",
             "rank": "9-16",
             "player": "Alexandre Benac",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Hogaak, Arisen Necropolis"
             ],
@@ -1268,7 +1256,6 @@
             "deck_id": "480648",
             "rank": "9-16",
             "player": "Flavien Paillet",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Tivit, Seller of Secrets"
             ],
@@ -1378,7 +1365,6 @@
             "deck_id": "480649",
             "rank": "9-16",
             "player": "Dorian Matichard",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Tivit, Seller of Secrets"
             ],
@@ -1488,7 +1474,6 @@
             "deck_id": "480650",
             "rank": "9-16",
             "player": "Grégoire Payan",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "The Gitrog Monster"
             ],
@@ -1588,7 +1573,6 @@
             "deck_id": "480651",
             "rank": "9-16",
             "player": "Lucas Gonzales",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Bjorna, Nightfall Alchemist",
                 "Wernog, Rider's Chaplain",

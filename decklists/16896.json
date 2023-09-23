@@ -10,7 +10,6 @@
             "deck_id": "304534",
             "rank": "5-8",
             "player": "Robin Taghvaei",
-            "winrate": 0.75,
             "commander": [
                 "Kytheon, Hero of Akros"
             ],
@@ -94,7 +93,6 @@
             "deck_id": "304535",
             "rank": "5-8",
             "player": "Nicolas \"ariesnomu\" Honnorat",
-            "winrate": 0.75,
             "commander": [
                 "Queen Marchesa"
             ],
@@ -204,7 +202,6 @@
             "deck_id": "304536",
             "rank": "5-8",
             "player": "Florent Dugeny",
-            "winrate": 0.75,
             "commander": [
                 "Titania, Protector of Argoth"
             ],
@@ -297,7 +294,6 @@
             "deck_id": "304537",
             "rank": "5-8",
             "player": "Alexander \"newtraderdu78\" Loskoutoff",
-            "winrate": 0.75,
             "commander": [
                 "Brago, King Eternal"
             ],
@@ -393,7 +389,6 @@
             "deck_id": "304538",
             "rank": "3-4",
             "player": "Vivien \"soratami\" Macé",
-            "winrate": 0.75,
             "commander": [
                 "Narset, Enlightened Master"
             ],
@@ -500,7 +495,6 @@
             "deck_id": "304539",
             "rank": "3-4",
             "player": "Guillaume Audiffren",
-            "winrate": 0.75,
             "commander": [
                 "Atraxa, Praetors' Voice"
             ],
@@ -610,7 +604,6 @@
             "deck_id": "304540",
             "rank": "1",
             "player": "Maxence Achoun",
-            "winrate": 0.8888888888888888,
             "commander": [
                 "Baral, Chief of Compliance"
             ],
@@ -684,7 +677,6 @@
             "deck_id": "304541",
             "rank": "2",
             "player": "Alexandre Carabias",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Queen Marchesa"
             ],

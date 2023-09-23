@@ -10,7 +10,6 @@
             "deck_id": "282845",
             "rank": "3-4",
             "player": "douglas Rizzi",
-            "winrate": 0.6,
             "commander": [
                 "Geist of Saint Traft"
             ],
@@ -107,7 +106,6 @@
             "deck_id": "282846",
             "rank": "1",
             "player": "francisco babicsak",
-            "winrate": 1.0,
             "commander": [
                 "Zurgo Bellstriker"
             ],
@@ -187,7 +185,6 @@
             "deck_id": "282847",
             "rank": "2",
             "player": "Odarley \"Scott-vargas\" de oliveira",
-            "winrate": 0.8,
             "commander": [
                 "Jenara, Asura of War"
             ],

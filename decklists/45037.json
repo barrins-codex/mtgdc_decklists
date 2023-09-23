@@ -10,7 +10,6 @@
             "deck_id": "532440",
             "rank": "1",
             "player": "Yuchen Yang",
-            "winrate": 1.0,
             "commander": [
                 "Atraxa, Grand Unifier"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "532441",
             "rank": "2",
             "player": "Yihan Ding",
-            "winrate": 0.8,
             "commander": [
                 "Grist, the Hunger Tide"
             ],
@@ -221,7 +219,6 @@
             "deck_id": "532442",
             "rank": "3",
             "player": "Yixuan Gao",
-            "winrate": 0.8,
             "commander": [
                 "Atraxa, Grand Unifier"
             ],
@@ -331,7 +328,6 @@
             "deck_id": "532443",
             "rank": "4",
             "player": "Ziqi Xi",
-            "winrate": 0.6,
             "commander": [
                 "Raffine, Scheming Seer"
             ],

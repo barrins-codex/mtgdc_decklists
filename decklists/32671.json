@@ -10,7 +10,6 @@
             "deck_id": "450686",
             "rank": "1",
             "player": "Miguel Hernandez",
-            "winrate": 1.0,
             "commander": [
                 "Tevesh Szat, Doom of Fools",
                 "Miara, Thorn of the Glade"
@@ -93,7 +92,6 @@
             "deck_id": "450687",
             "rank": "2",
             "player": "Fernando Roca",
-            "winrate": 0.8,
             "commander": [
                 "Glenn, the Voice of Calm"
             ],

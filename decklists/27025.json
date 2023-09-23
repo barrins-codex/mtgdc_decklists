@@ -10,7 +10,6 @@
             "deck_id": "411770",
             "rank": "2",
             "player": "Hu Minzhe",
-            "winrate": 0.8,
             "commander": [
                 "Niv-Mizzet Reborn"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "411771",
             "rank": "1",
             "player": "Ji Haoyuan",
-            "winrate": 1.0,
             "commander": [
                 "Uro, Titan of Nature's Wrath"
             ],

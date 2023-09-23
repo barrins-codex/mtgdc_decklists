@@ -10,7 +10,6 @@
             "deck_id": "545220",
             "rank": "1",
             "player": "Xiangjun Dai",
-            "winrate": 1.0,
             "commander": [
                 "Feldon, Ronom Excavator"
             ],
@@ -99,7 +98,6 @@
             "deck_id": "545221",
             "rank": "2",
             "player": "Wei Cheng",
-            "winrate": 0.8,
             "commander": [
                 "Tivit, Seller of Secrets"
             ],

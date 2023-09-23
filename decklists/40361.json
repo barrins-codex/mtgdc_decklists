@@ -10,7 +10,6 @@
             "deck_id": "500380",
             "rank": "1",
             "player": "Nhald Adia",
-            "winrate": 1.0,
             "commander": [
                 "Hogaak, Arisen Necropolis"
             ],
@@ -117,7 +116,6 @@
             "deck_id": "500381",
             "rank": "2",
             "player": "Ian Paul Roa",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Hogaak, Arisen Necropolis"
             ],

@@ -10,7 +10,6 @@
             "deck_id": "461861",
             "rank": "1",
             "player": "Diego Paredes",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "461862",
             "rank": "2",
             "player": "Navin Gianchandani",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "General Ferrous Rokiric"
             ],
@@ -218,7 +216,6 @@
             "deck_id": "461863",
             "rank": "3-4",
             "player": "Davis Cortegana",
-            "winrate": 0.625,
             "commander": [
                 "Questing Beast"
             ],
@@ -308,7 +305,6 @@
             "deck_id": "461864",
             "rank": "3-4",
             "player": "Irving Guedez",
-            "winrate": 0.625,
             "commander": [
                 "Leovold, Emissary of Trest"
             ],
@@ -418,7 +414,6 @@
             "deck_id": "461865",
             "rank": "5-8",
             "player": "Roger Basilio",
-            "winrate": 0.625,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -528,7 +523,6 @@
             "deck_id": "461866",
             "rank": "5-8",
             "player": "Jose Haya",
-            "winrate": 0.625,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -616,7 +610,6 @@
             "deck_id": "461867",
             "rank": "5-8",
             "player": "Andres Valderrama",
-            "winrate": 0.625,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -699,7 +692,6 @@
             "deck_id": "461868",
             "rank": "5-8",
             "player": "Daniel Garcia Rosell",
-            "winrate": 0.625,
             "commander": [
                 "Questing Beast"
             ],

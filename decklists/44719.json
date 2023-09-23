@@ -10,7 +10,6 @@
             "deck_id": "529820",
             "rank": "1",
             "player": "Nathan \"oelebelle\" Corotte",
-            "winrate": 0.875,
             "commander": [
                 "Atraxa, Grand Unifier"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "529821",
             "rank": "2",
             "player": "Gaëtan \"teepex\" Pican",
-            "winrate": 0.75,
             "commander": [
                 "Niambi, Esteemed Speaker"
             ],
@@ -223,7 +221,6 @@
             "deck_id": "529822",
             "rank": "3",
             "player": "Sylvain \"zohoz\" Zozaya",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Niv-Mizzet Reborn"
             ],
@@ -333,7 +330,6 @@
             "deck_id": "529823",
             "rank": "4",
             "player": "Guillaume \"vinzlar\" Vincent",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Sword Coast Sailor",
                 "Wilson, Refined Grizzly"

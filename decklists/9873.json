@@ -10,7 +10,6 @@
             "deck_id": "256969",
             "rank": "1",
             "player": "Boris Bogolepov",
-            "winrate": 0.875,
             "commander": [
                 "Captain Sisay"
             ],
@@ -110,7 +109,6 @@
             "deck_id": "256970",
             "rank": "2",
             "player": "Andrey Zavialov",
-            "winrate": 0.75,
             "commander": [
                 "Narset, Enlightened Master"
             ],
@@ -215,7 +213,6 @@
             "deck_id": "256971",
             "rank": "3-4",
             "player": "Michail Popov",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Grand Arbiter Augustin IV"
             ],
@@ -315,7 +312,6 @@
             "deck_id": "256972",
             "rank": "3-4",
             "player": "Vasiliy Kuleshov",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Narset, Enlightened Master"
             ],
@@ -420,7 +416,6 @@
             "deck_id": "256985",
             "rank": "5-8",
             "player": "Andrey Chaginsky",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "The Mimeoplasm"
             ],
@@ -530,7 +525,6 @@
             "deck_id": "256986",
             "rank": "5-8",
             "player": "Arkadiy Sazhin",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Vendilion Clique"
             ],
@@ -614,7 +608,6 @@
             "deck_id": "256987",
             "rank": "5-8",
             "player": "Uriy Voltaire",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Maelstrom Wanderer"
             ],
@@ -714,7 +707,6 @@
             "deck_id": "256988",
             "rank": "5-8",
             "player": "Vladimir Bulanov",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Narset, Enlightened Master"
             ],

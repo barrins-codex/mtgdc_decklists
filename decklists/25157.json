@@ -10,7 +10,6 @@
             "deck_id": "377573",
             "rank": "2",
             "player": "Sebastian Kött",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Prossh, Skyraider of Kher"
             ],
@@ -112,7 +111,6 @@
             "deck_id": "377574",
             "rank": "1",
             "player": "Jonas Kretzschmar",
-            "winrate": 1.0,
             "commander": [
                 "Shalai, Voice of Plenty"
             ],

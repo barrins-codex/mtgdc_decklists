@@ -10,7 +10,6 @@
             "deck_id": "528041",
             "rank": "1",
             "player": "Felipe Gonçalves",
-            "winrate": 1.0,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "528042",
             "rank": "2",
             "player": "Vinícius Lopes",
-            "winrate": 0.8,
             "commander": [
                 "Tivit, Seller of Secrets"
             ],
@@ -230,7 +228,6 @@
             "deck_id": "528043",
             "rank": "3",
             "player": "Matheus Jardim",
-            "winrate": 0.6,
             "commander": [
                 "Arcum Dagsson"
             ],

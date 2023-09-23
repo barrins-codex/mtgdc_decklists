@@ -10,7 +10,6 @@
             "deck_id": "521946",
             "rank": "1",
             "player": "Nicolas Duguet",
-            "winrate": 0.9,
             "commander": [
                 "Sai, Master Thopterist"
             ],
@@ -97,7 +96,6 @@
             "deck_id": "521947",
             "rank": "2",
             "player": "Julien Rouar",
-            "winrate": 0.8,
             "commander": [
                 "Hogaak, Arisen Necropolis"
             ],
@@ -206,7 +204,6 @@
             "deck_id": "521948",
             "rank": "3-4",
             "player": "Antoine Guillet",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Bruse Tarl, Boorish Herder",
                 "Yoshimaru, Ever Faithful"
@@ -309,7 +306,6 @@
             "deck_id": "521949",
             "rank": "3-4",
             "player": "Pierre Savignac",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Dihada, Binder of Wills"
             ],
@@ -419,7 +415,6 @@
             "deck_id": "521950",
             "rank": "5-8",
             "player": "Nicolas Mestreau",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Dihada, Binder of Wills"
             ],
@@ -529,7 +524,6 @@
             "deck_id": "521951",
             "rank": "5-8",
             "player": "Gael Huber",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -639,7 +633,6 @@
             "deck_id": "521952",
             "rank": "5-8",
             "player": "Baptiste Berbille",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -749,7 +742,6 @@
             "deck_id": "521953",
             "rank": "5-8",
             "player": "Andy Petit",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Bruse Tarl, Boorish Herder",
                 "Yoshimaru, Ever Faithful"

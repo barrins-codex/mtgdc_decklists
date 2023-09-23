@@ -10,7 +10,6 @@
             "deck_id": "543789",
             "rank": "1",
             "player": "Xiangyu Jin",
-            "winrate": 1.0,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "543790",
             "rank": "2",
             "player": "Danpeng Yangniaoyu11",
-            "winrate": 0.8,
             "commander": [
                 "Teferi, Temporal Archmage"
             ],

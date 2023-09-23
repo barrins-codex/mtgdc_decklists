@@ -10,7 +10,6 @@
             "deck_id": "280967",
             "rank": "2",
             "player": "Emiliano Bandini",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Animar, Soul of Elements"
             ],
@@ -111,7 +110,6 @@
             "deck_id": "280968",
             "rank": "1",
             "player": "Simone Cecinato",
-            "winrate": 1.0,
             "commander": [
                 "Karador, Ghost Chieftain"
             ],

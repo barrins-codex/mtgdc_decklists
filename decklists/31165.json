@@ -10,7 +10,6 @@
             "deck_id": "442162",
             "rank": "1",
             "player": "Christian Agbon",
-            "winrate": 1.0,
             "commander": [
                 "Ragavan, Nimble Pilferer"
             ],
@@ -95,7 +94,6 @@
             "deck_id": "442163",
             "rank": "2",
             "player": "Paul Relativo",
-            "winrate": 0.8,
             "commander": [
                 "Ragavan, Nimble Pilferer"
             ],
@@ -177,7 +175,6 @@
             "deck_id": "442164",
             "rank": "3-4",
             "player": "Rexel Tenorio",
-            "winrate": 0.6,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -287,7 +284,6 @@
             "deck_id": "442165",
             "rank": "3-4",
             "player": "Timothy Agustin",
-            "winrate": 0.6,
             "commander": [
                 "Tevesh Szat, Doom of Fools",
                 "Malcolm, Keen-Eyed Navigator"

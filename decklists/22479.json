@@ -10,7 +10,6 @@
             "deck_id": "352876",
             "rank": "2",
             "player": "Tejs Jannsen",
-            "winrate": 0.8,
             "commander": [
                 "Arahbo, Roar of the World"
             ],
@@ -109,7 +108,6 @@
             "deck_id": "352880",
             "rank": "1",
             "player": "Jasper R. Nielsen",
-            "winrate": 1.0,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],

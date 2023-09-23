@@ -10,7 +10,6 @@
             "deck_id": "522065",
             "rank": "1",
             "player": "Pierre Almaraz",
-            "winrate": 1.0,
             "commander": [
                 "Dennick, Pious Apprentice"
             ],
@@ -111,7 +110,6 @@
             "deck_id": "522066",
             "rank": "2",
             "player": "Thomas Ricci",
-            "winrate": 0.8,
             "commander": [
                 "Ludevic, Necro-Alchemist",
                 "Yoshimaru, Ever Faithful"
@@ -221,7 +219,6 @@
             "deck_id": "522067",
             "rank": "3-4",
             "player": "Edouard Lecocq",
-            "winrate": 0.8,
             "commander": [
                 "Gut, True Soul Zealot",
                 "Noble Heritage"
@@ -322,7 +319,6 @@
             "deck_id": "522068",
             "rank": "3-4",
             "player": "Brice Lamar",
-            "winrate": 0.8,
             "commander": [
                 "Dihada, Binder of Wills"
             ],

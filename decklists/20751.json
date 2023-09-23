@@ -10,7 +10,6 @@
             "deck_id": "337048",
             "rank": "3-4",
             "player": "Ragzin Nikita",
-            "winrate": 0.6,
             "commander": [
                 "Kytheon, Hero of Akros"
             ],
@@ -96,7 +95,6 @@
             "deck_id": "337049",
             "rank": "3-4",
             "player": "Mesheriakov Maxim",
-            "winrate": 0.6,
             "commander": [
                 "Brago, King Eternal"
             ],
@@ -191,7 +189,6 @@
             "deck_id": "337050",
             "rank": "2",
             "player": "Uvarov Vadim",
-            "winrate": 0.8,
             "commander": [
                 "Baral, Chief of Compliance"
             ],
@@ -264,7 +261,6 @@
             "deck_id": "337051",
             "rank": "1",
             "player": "Vasiliev Vitaly",
-            "winrate": 1.0,
             "commander": [
                 "The Gitrog Monster"
             ],

@@ -10,7 +10,6 @@
             "deck_id": "469030",
             "rank": "1",
             "player": "Turo",
-            "winrate": 1.0,
             "commander": [
                 "The Gitrog Monster"
             ],
@@ -115,7 +114,6 @@
             "deck_id": "469031",
             "rank": "2",
             "player": "Igor Da Silva Moncks Valério",
-            "winrate": 0.8,
             "commander": [
                 "Jeska, Thrice Reborn",
                 "Bruse Tarl, Boorish Herder"
@@ -217,7 +215,6 @@
             "deck_id": "469032",
             "rank": "3-4",
             "player": "Well",
-            "winrate": 0.6,
             "commander": [
                 "Galazeth Prismari"
             ],
@@ -315,7 +312,6 @@
             "deck_id": "469033",
             "rank": "3-4",
             "player": "Renan Da Massa",
-            "winrate": 0.6,
             "commander": [
                 "Dargo, the Shipwrecker",
                 "Tevesh Szat, Doom of Fools"

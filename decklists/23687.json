@@ -10,7 +10,6 @@
             "deck_id": "364393",
             "rank": "3-4",
             "player": "Sejer Friis",
-            "winrate": 0.6,
             "commander": [
                 "Kytheon, Hero of Akros"
             ],
@@ -94,7 +93,6 @@
             "deck_id": "364394",
             "rank": "2",
             "player": "Jeppe Risager",
-            "winrate": 0.8,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -174,7 +172,6 @@
             "deck_id": "364395",
             "rank": "3-4",
             "player": "Jasper R. Nielsen",
-            "winrate": 0.6,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -284,7 +281,6 @@
             "deck_id": "364404",
             "rank": "1",
             "player": "Andreas Petersen",
-            "winrate": 1.0,
             "commander": [
                 "Thrasios, Triton Hero",
                 "Tymna the Weaver"

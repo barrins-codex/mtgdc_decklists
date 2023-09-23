@@ -10,7 +10,6 @@
             "deck_id": "519597",
             "rank": "1",
             "player": "Vinicius Lopes",
-            "winrate": 1.0,
             "commander": [
                 "Tivit, Seller of Secrets"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "519598",
             "rank": "2",
             "player": "Leonardo Bacci",
-            "winrate": 0.8,
             "commander": [
                 "Leovold, Emissary of Trest"
             ],
@@ -230,7 +228,6 @@
             "deck_id": "519599",
             "rank": "3",
             "player": "Felipe Gonçalves",
-            "winrate": 0.6,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -340,7 +337,6 @@
             "deck_id": "519600",
             "rank": "4",
             "player": "Cauê",
-            "winrate": 0.6,
             "commander": [
                 "Dihada, Binder of Wills"
             ],

@@ -10,7 +10,6 @@
             "deck_id": "374099",
             "rank": "1",
             "player": "Jonas Jörns",
-            "winrate": 1.0,
             "commander": [
                 "Yawgmoth, Thran Physician"
             ],
@@ -100,7 +99,6 @@
             "deck_id": "374100",
             "rank": "2",
             "player": "Sebastian Kött",
-            "winrate": 0.8,
             "commander": [
                 "Brago, King Eternal"
             ],

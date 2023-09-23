@@ -10,7 +10,6 @@
             "deck_id": "278784",
             "rank": "3",
             "player": "Ren Yuefeng",
-            "winrate": 0.6,
             "commander": [
                 "Nin, the Pain Artist"
             ],
@@ -104,7 +103,6 @@
             "deck_id": "278785",
             "rank": "4",
             "player": "Qian Kui",
-            "winrate": 0.6,
             "commander": [
                 "Yasova Dragonclaw"
             ],
@@ -212,7 +210,6 @@
             "deck_id": "278786",
             "rank": "1",
             "player": "Han Xu",
-            "winrate": 1.0,
             "commander": [
                 "Jenara, Asura of War"
             ],
@@ -322,7 +319,6 @@
             "deck_id": "278787",
             "rank": "2",
             "player": "Yang Danpeng",
-            "winrate": 0.8,
             "commander": [
                 "Marchesa, the Black Rose"
             ],

@@ -10,7 +10,6 @@
             "deck_id": "444252",
             "rank": "1",
             "player": "Julien Bihet",
-            "winrate": 0.9090909090909091,
             "commander": [
                 "Ragavan, Nimble Pilferer"
             ],
@@ -99,7 +98,6 @@
             "deck_id": "444253",
             "rank": "2",
             "player": "Stefan Czolk",
-            "winrate": 0.8181818181818182,
             "commander": [
                 "Inalla, Archmage Ritualist"
             ],
@@ -209,7 +207,6 @@
             "deck_id": "444254",
             "rank": "3-4",
             "player": "Nicolas \"thorgal666\" François",
-            "winrate": 0.8,
             "commander": [
                 "Saskia the Unyielding"
             ],
@@ -319,7 +316,6 @@
             "deck_id": "444255",
             "rank": "3-4",
             "player": "Maximilien Kalil",
-            "winrate": 0.8,
             "commander": [
                 "Ragavan, Nimble Pilferer"
             ],
@@ -407,7 +403,6 @@
             "deck_id": "444256",
             "rank": "5-8",
             "player": "Antoine Morera",
-            "winrate": 0.8,
             "commander": [
                 "Inalla, Archmage Ritualist"
             ],
@@ -517,7 +512,6 @@
             "deck_id": "444257",
             "rank": "5-8",
             "player": "Jesusextraturns",
-            "winrate": 0.8,
             "commander": [
                 "Inalla, Archmage Ritualist"
             ],
@@ -627,7 +621,6 @@
             "deck_id": "444258",
             "rank": "5-8",
             "player": "Moncana",
-            "winrate": 0.8,
             "commander": [
                 "Miara, Thorn of the Glade",
                 "Tevesh Szat, Doom of Fools"
@@ -709,7 +702,6 @@
             "deck_id": "444259",
             "rank": "5-8",
             "player": "Théau Méry",
-            "winrate": 0.8,
             "commander": [
                 "Isamaru, Hound of Konda"
             ],
@@ -794,7 +786,6 @@
             "deck_id": "444260",
             "rank": "9-16",
             "player": "Beloeil Arnaud",
-            "winrate": 0.75,
             "commander": [
                 "Ragavan, Nimble Pilferer"
             ],
@@ -879,7 +870,6 @@
             "deck_id": "444261",
             "rank": "9-16",
             "player": "Julien Boulet",
-            "winrate": 0.75,
             "commander": [
                 "Ragavan, Nimble Pilferer"
             ],
@@ -966,7 +956,6 @@
             "deck_id": "444262",
             "rank": "9-16",
             "player": "Benjamin Van Koekenbeek",
-            "winrate": 0.75,
             "commander": [
                 "Ragavan, Nimble Pilferer"
             ],
@@ -1050,7 +1039,6 @@
             "deck_id": "444263",
             "rank": "9-16",
             "player": "Quentin \"bobota\" Rullaud",
-            "winrate": 0.75,
             "commander": [
                 "Ragavan, Nimble Pilferer"
             ],
@@ -1138,7 +1126,6 @@
             "deck_id": "444264",
             "rank": "9-16",
             "player": "Bastien Levionnais",
-            "winrate": 0.75,
             "commander": [
                 "Ragavan, Nimble Pilferer"
             ],
@@ -1217,7 +1204,6 @@
             "deck_id": "444265",
             "rank": "9-16",
             "player": "Antoine Guillet",
-            "winrate": 0.75,
             "commander": [
                 "Winota, Joiner of Forces"
             ],
@@ -1315,7 +1301,6 @@
             "deck_id": "444266",
             "rank": "9-16",
             "player": "Gregoire \"koraysh\" Payan",
-            "winrate": 0.75,
             "commander": [
                 "Isamaru, Hound of Konda"
             ],
@@ -1401,7 +1386,6 @@
             "deck_id": "444267",
             "rank": "9-16",
             "player": "Mathieu\tDekneudt",
-            "winrate": 0.75,
             "commander": [
                 "Tajic, Legion's Edge"
             ],

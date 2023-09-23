@@ -10,7 +10,6 @@
             "deck_id": "511670",
             "rank": "1",
             "player": "Deks Sienes",
-            "winrate": 1.0,
             "commander": [
                 "Kess, Dissident Mage"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "511671",
             "rank": "2",
             "player": "Scribe Lohengrin",
-            "winrate": 0.8,
             "commander": [
                 "Sythis, Harvest's Hand"
             ],

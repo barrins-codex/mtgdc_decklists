@@ -10,7 +10,6 @@
             "deck_id": "441615",
             "rank": "1",
             "player": "Julien \"la Tielle\" Castéla",
-            "winrate": 0.9,
             "commander": [
                 "Inalla, Archmage Ritualist"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "441616",
             "rank": "2",
             "player": "Colomb Antoine",
-            "winrate": 0.8,
             "commander": [
                 "Inalla, Archmage Ritualist"
             ],
@@ -230,7 +228,6 @@
             "deck_id": "441617",
             "rank": "3-4",
             "player": "Florian Trotte",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Esika, God of the Tree"
             ],
@@ -340,7 +337,6 @@
             "deck_id": "441618",
             "rank": "3-4",
             "player": "Moondust",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Golos, Tireless Pilgrim"
             ],
@@ -450,7 +446,6 @@
             "deck_id": "441619",
             "rank": "5-8",
             "player": "Arthur Gaillard",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Lord Windgrace"
             ],
@@ -553,7 +548,6 @@
             "deck_id": "441620",
             "rank": "5-8",
             "player": "Jonathan Marvie",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Niv-Mizzet Reborn"
             ],
@@ -663,7 +657,6 @@
             "deck_id": "441621",
             "rank": "5-8",
             "player": "Adrien Houssard",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Esika, God of the Tree"
             ],
@@ -773,7 +766,6 @@
             "deck_id": "441622",
             "rank": "5-8",
             "player": "Boy William",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Niv-Mizzet, Parun"
             ],

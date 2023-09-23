@@ -10,7 +10,6 @@
             "deck_id": "438706",
             "rank": "1",
             "player": "Felipe Santos",
-            "winrate": 1.0,
             "commander": [
                 "Veyran, Voice of Duality"
             ],
@@ -105,7 +104,6 @@
             "deck_id": "438707",
             "rank": "2",
             "player": "Carlos Pires",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Titania, Protector of Argoth"
             ],

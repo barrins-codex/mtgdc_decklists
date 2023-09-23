@@ -10,7 +10,6 @@
             "deck_id": "537785",
             "rank": "1",
             "player": "Cedric Froger",
-            "winrate": 1.0,
             "commander": [
                 "Tana, the Bloodsower",
                 "Yoshimaru, Ever Faithful"
@@ -119,7 +118,6 @@
             "deck_id": "537786",
             "rank": "2",
             "player": "Anthony Nunez",
-            "winrate": 0.8,
             "commander": [
                 "Ghyrson Starn, Kelermorph"
             ],
@@ -221,7 +219,6 @@
             "deck_id": "537787",
             "rank": "3-4",
             "player": "Andy Sieurac",
-            "winrate": 0.8,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -331,7 +328,6 @@
             "deck_id": "537788",
             "rank": "3-4",
             "player": "François Delboe",
-            "winrate": 0.8,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -441,7 +437,6 @@
             "deck_id": "537789",
             "rank": "5-8",
             "player": "Jelstrup Mikael",
-            "winrate": 0.6,
             "commander": [
                 "Ghyrson Starn, Kelermorph"
             ],
@@ -538,7 +533,6 @@
             "deck_id": "537790",
             "rank": "5-8",
             "player": "Marvin Liozu",
-            "winrate": 0.6,
             "commander": [
                 "Arwen, Mortal Queen"
             ],
@@ -642,7 +636,6 @@
             "deck_id": "537791",
             "rank": "5-8",
             "player": "Alexandre Vilnet",
-            "winrate": 0.6,
             "commander": [
                 "Zurgo and Ojutai"
             ],
@@ -749,7 +742,6 @@
             "deck_id": "537792",
             "rank": "5-8",
             "player": "Eric Vanderrusten",
-            "winrate": 0.6,
             "commander": [
                 "Ertai Resurrected"
             ],

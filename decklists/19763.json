@@ -10,7 +10,6 @@
             "deck_id": "327253",
             "rank": "3-4",
             "player": "Daniel Ditrych",
-            "winrate": 0.8,
             "commander": [
                 "Yisan, the Wanderer Bard"
             ],
@@ -100,7 +99,6 @@
             "deck_id": "327254",
             "rank": "3-4",
             "player": "Matej Vodrazka",
-            "winrate": 0.8,
             "commander": [
                 "Queen Marchesa"
             ],
@@ -210,7 +208,6 @@
             "deck_id": "327255",
             "rank": "2",
             "player": "Michal Zdansky",
-            "winrate": 0.8,
             "commander": [
                 "Saskia the Unyielding"
             ],
@@ -320,7 +317,6 @@
             "deck_id": "327256",
             "rank": "1",
             "player": "David Stepanek",
-            "winrate": 1.0,
             "commander": [
                 "Sidisi, Undead Vizier"
             ],

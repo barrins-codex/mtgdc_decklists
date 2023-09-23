@@ -10,7 +10,6 @@
             "deck_id": "481407",
             "rank": "2",
             "player": "Fabien Dognon",
-            "winrate": 0.8,
             "commander": [
                 "Sythis, Harvest's Hand"
             ],
@@ -109,7 +108,6 @@
             "deck_id": "481408",
             "rank": "2",
             "player": "Jérémy Morel",
-            "winrate": 0.8,
             "commander": [
                 "Juri, Master of the Revue"
             ],
@@ -208,7 +206,6 @@
             "deck_id": "481409",
             "rank": "3-4",
             "player": "Angelo Frecon",
-            "winrate": 0.8,
             "commander": [
                 "Grist, the Hunger Tide"
             ],
@@ -305,7 +302,6 @@
             "deck_id": "481410",
             "rank": "3-4",
             "player": "Christophe Hugues",
-            "winrate": 0.8,
             "commander": [
                 "Maelstrom Wanderer"
             ],
@@ -408,7 +404,6 @@
             "deck_id": "481411",
             "rank": "5-8",
             "player": "Florian Divay",
-            "winrate": 0.6,
             "commander": [
                 "Kinnan, Bonder Prodigy"
             ],
@@ -513,7 +508,6 @@
             "deck_id": "481412",
             "rank": "5-8",
             "player": "Kevin Cerato",
-            "winrate": 0.6,
             "commander": [
                 "Sai, Master Thopterist"
             ],
@@ -603,7 +597,6 @@
             "deck_id": "481413",
             "rank": "5-8",
             "player": "Sébastien Chiron",
-            "winrate": 0.6,
             "commander": [
                 "Dennick, Pious Apprentice"
             ],
@@ -707,7 +700,6 @@
             "deck_id": "481414",
             "rank": "5-8",
             "player": "Vincent Baudin",
-            "winrate": 0.6,
             "commander": [
                 "Sythis, Harvest's Hand"
             ],

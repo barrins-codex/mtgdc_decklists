@@ -10,7 +10,6 @@
             "deck_id": "480542",
             "rank": "1",
             "player": "Korn411",
-            "winrate": 0.875,
             "commander": [
                 "Octavia, Living Thesis"
             ],
@@ -98,7 +97,6 @@
             "deck_id": "480543",
             "rank": "2",
             "player": "Admab",
-            "winrate": 0.75,
             "commander": [
                 "Minsc &amp; Boo, Timeless Heroes"
             ],
@@ -204,7 +202,6 @@
             "deck_id": "480544",
             "rank": "3-4",
             "player": "Zankou",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Minsc &amp; Boo, Timeless Heroes"
             ],
@@ -307,7 +304,6 @@
             "deck_id": "480545",
             "rank": "3-4",
             "player": "Domino",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Jori En, Ruin Diver"
             ],
@@ -404,7 +400,6 @@
             "deck_id": "480546",
             "rank": "5-8",
             "player": "Carpenters",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Niv-Mizzet Reborn",
                 "Jegantha, the Wellspring"
@@ -515,7 +510,6 @@
             "deck_id": "480547",
             "rank": "5-8",
             "player": "Damienade",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Minsc &amp; Boo, Timeless Heroes"
             ],
@@ -617,7 +611,6 @@
             "deck_id": "480548",
             "rank": "5-8",
             "player": "Moltes",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Niv-Mizzet Reborn"
             ],
@@ -727,7 +720,6 @@
             "deck_id": "480549",
             "rank": "5-8",
             "player": "Som40",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Leovold, Emissary of Trest"
             ],

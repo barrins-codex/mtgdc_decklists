@@ -10,7 +10,6 @@
             "deck_id": "273206",
             "rank": "2",
             "player": "William Belloli",
-            "winrate": 0.8,
             "commander": [
                 "Maelstrom Wanderer"
             ],
@@ -112,7 +111,6 @@
             "deck_id": "273207",
             "rank": "3-4",
             "player": "Tom Conley",
-            "winrate": 0.8,
             "commander": [
                 "Scion of the Ur-Dragon"
             ],
@@ -222,7 +220,6 @@
             "deck_id": "273212",
             "rank": "1",
             "player": "Chris Williams",
-            "winrate": 1.0,
             "commander": [
                 "Teferi, Temporal Archmage"
             ],
@@ -298,7 +295,6 @@
             "deck_id": "273213",
             "rank": "3-4",
             "player": "Carter Hatfield",
-            "winrate": 0.8,
             "commander": [
                 "Griselbrand"
             ],

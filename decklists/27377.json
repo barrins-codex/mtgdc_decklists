@@ -10,7 +10,6 @@
             "deck_id": "417120",
             "rank": "5-8",
             "player": "Loic Dgc",
-            "winrate": 0.6,
             "commander": [
                 "Tymna the Weaver",
                 "Thrasios, Triton Hero"
@@ -120,7 +119,6 @@
             "deck_id": "417121",
             "rank": "5-8",
             "player": "Jonathan Serra",
-            "winrate": 0.6,
             "commander": [
                 "Tymna the Weaver",
                 "Reyhan, Last of the Abzan"
@@ -226,7 +224,6 @@
             "deck_id": "417122",
             "rank": "5-8",
             "player": "Gardes Andre",
-            "winrate": 0.6,
             "commander": [
                 "Narset, Enlightened Master"
             ],
@@ -330,7 +327,6 @@
             "deck_id": "417123",
             "rank": "1",
             "player": "Kilian Boulhaïs",
-            "winrate": 1.0,
             "commander": [
                 "Reyhan, Last of the Abzan",
                 "Tymna the Weaver"
@@ -440,7 +436,6 @@
             "deck_id": "417124",
             "rank": "2",
             "player": "Sénéchau Hippolyte",
-            "winrate": 0.8,
             "commander": [
                 "Grenzo, Dungeon Warden"
             ],
@@ -540,7 +535,6 @@
             "deck_id": "417125",
             "rank": "3-4",
             "player": "Quentin Pottier",
-            "winrate": 0.8,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -650,7 +644,6 @@
             "deck_id": "417126",
             "rank": "3-4",
             "player": "Léo Poussou",
-            "winrate": 0.8,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -760,7 +753,6 @@
             "deck_id": "417127",
             "rank": "5-8",
             "player": "Dorian Matichard",
-            "winrate": 0.6,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],

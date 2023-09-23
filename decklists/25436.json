@@ -10,7 +10,6 @@
             "deck_id": "383162",
             "rank": "3",
             "player": "Alexandre \"bc50\" Martial",
-            "winrate": 0.8,
             "commander": [
                 "Jodah, Archmage Eternal"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "383163",
             "rank": "1",
             "player": "Bigmalyon",
-            "winrate": 1.0,
             "commander": [
                 "Prossh, Skyraider of Kher"
             ],
@@ -228,7 +226,6 @@
             "deck_id": "383164",
             "rank": "2",
             "player": "Lionel \"hannibal44\" Galliere",
-            "winrate": 0.8,
             "commander": [
                 "Niv-Mizzet Reborn"
             ],
@@ -338,7 +335,6 @@
             "deck_id": "383165",
             "rank": "4",
             "player": "Alexis \"aztarot\"",
-            "winrate": 0.6,
             "commander": [
                 "Sidisi, Undead Vizier"
             ],

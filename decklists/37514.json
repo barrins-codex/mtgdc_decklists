@@ -10,7 +10,6 @@
             "deck_id": "481124",
             "rank": "1",
             "player": "Bruno \"bruxão\"",
-            "winrate": 1.0,
             "commander": [
                 "Karlov of the Ghost Council"
             ],
@@ -102,7 +101,6 @@
             "deck_id": "481125",
             "rank": "2",
             "player": "Gabriel Rufino",
-            "winrate": 0.8,
             "commander": [
                 "Grist, the Hunger Tide"
             ],
@@ -195,7 +193,6 @@
             "deck_id": "481126",
             "rank": "3-4",
             "player": "Igor \"elfo\"",
-            "winrate": 0.6,
             "commander": [
                 "Thalia, Guardian of Thraben"
             ],
@@ -279,7 +276,6 @@
             "deck_id": "481127",
             "rank": "3-4",
             "player": "Michel Xisto",
-            "winrate": 0.6,
             "commander": [
                 "Prossh, Skyraider of Kher"
             ],

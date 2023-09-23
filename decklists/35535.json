@@ -10,7 +10,6 @@
             "deck_id": "468215",
             "rank": "1",
             "player": "Wilson Lai",
-            "winrate": 1.0,
             "commander": [
                 "Shorikai, Genesis Engine"
             ],
@@ -111,7 +110,6 @@
             "deck_id": "468216",
             "rank": "2",
             "player": "Pak Kei Leung",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Galazeth Prismari"
             ],

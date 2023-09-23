@@ -10,7 +10,6 @@
             "deck_id": "267479",
             "rank": "3-4",
             "player": "Ugo Scaramelli",
-            "winrate": 0.75,
             "commander": [
                 "Narset, Enlightened Master"
             ],
@@ -116,7 +115,6 @@
             "deck_id": "267480",
             "rank": "5-8",
             "player": "Kaourintin Le Guiban",
-            "winrate": 0.75,
             "commander": [
                 "Narset, Enlightened Master"
             ],
@@ -222,7 +220,6 @@
             "deck_id": "267481",
             "rank": "2",
             "player": "Guillaume Audiffren",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Horde of Notions"
             ],
@@ -332,7 +329,6 @@
             "deck_id": "267482",
             "rank": "5-8",
             "player": "Jean-François Durmont",
-            "winrate": 0.75,
             "commander": [
                 "Yisan, the Wanderer Bard"
             ],
@@ -421,7 +417,6 @@
             "deck_id": "267483",
             "rank": "5-8",
             "player": "Maxence Achoun",
-            "winrate": 0.75,
             "commander": [
                 "Geist of Saint Traft"
             ],
@@ -519,7 +514,6 @@
             "deck_id": "267484",
             "rank": "1",
             "player": "The Nameless One",
-            "winrate": 0.8888888888888888,
             "commander": [
                 "Tasigur, the Golden Fang"
             ],
@@ -625,7 +619,6 @@
             "deck_id": "267485",
             "rank": "3-4",
             "player": "Yohan Blanchard",
-            "winrate": 0.75,
             "commander": [
                 "Nin, the Pain Artist"
             ],
@@ -708,7 +701,6 @@
             "deck_id": "267486",
             "rank": "5-8",
             "player": "Jean-Baptiste Gagnepain",
-            "winrate": 0.75,
             "commander": [
                 "Tasigur, the Golden Fang"
             ],

@@ -10,7 +10,6 @@
             "deck_id": "335993",
             "rank": "2",
             "player": "Romain Zal",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Arahbo, Roar of the World"
             ],
@@ -116,7 +115,6 @@
             "deck_id": "335994",
             "rank": "1",
             "player": "Rullaud Quentin",
-            "winrate": 1.0,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],

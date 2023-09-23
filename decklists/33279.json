@@ -10,7 +10,6 @@
             "deck_id": "454047",
             "rank": "1",
             "player": "Lucas",
-            "winrate": 1.0,
             "commander": [
                 "Torbran, Thane of Red Fell"
             ],
@@ -92,7 +91,6 @@
             "deck_id": "454048",
             "rank": "2",
             "player": "Daniel",
-            "winrate": 0.8,
             "commander": [
                 "Krenko, Tin Street Kingpin"
             ],
@@ -173,7 +171,6 @@
             "deck_id": "454049",
             "rank": "3-4",
             "player": "AndrÉ",
-            "winrate": 0.8,
             "commander": [
                 "Tuya Bearclaw"
             ],
@@ -256,7 +253,6 @@
             "deck_id": "454050",
             "rank": "3-4",
             "player": "Acelerado",
-            "winrate": 0.8,
             "commander": [
                 "Hogaak, Arisen Necropolis"
             ],

@@ -10,7 +10,6 @@
             "deck_id": "444207",
             "rank": "1",
             "player": "Ian Paul Roa",
-            "winrate": 1.0,
             "commander": [
                 "Pia and Kiran Nalaar"
             ],
@@ -95,7 +94,6 @@
             "deck_id": "444208",
             "rank": "2",
             "player": "Peter Ang",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Atraxa, Praetors' Voice"
             ],

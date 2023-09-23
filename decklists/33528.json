@@ -10,7 +10,6 @@
             "deck_id": "455465",
             "rank": "1",
             "player": "Commeurec Aurèle",
-            "winrate": 0.9,
             "commander": [
                 "Kraum, Ludevic's Opus",
                 "Malcolm, Keen-Eyed Navigator"
@@ -102,7 +101,6 @@
             "deck_id": "455466",
             "rank": "2",
             "player": "François Nicolas",
-            "winrate": 0.8,
             "commander": [
                 "Malcolm, Keen-Eyed Navigator",
                 "Kraum, Ludevic's Opus"
@@ -199,7 +197,6 @@
             "deck_id": "455467",
             "rank": "3-4",
             "player": "Valentin Amar",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Miara, Thorn of the Glade",
                 "Tevesh Szat, Doom of Fools"
@@ -281,7 +278,6 @@
             "deck_id": "455468",
             "rank": "3-4",
             "player": "Yan Lorente",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Hogaak, Arisen Necropolis"
             ],
@@ -391,7 +387,6 @@
             "deck_id": "455469",
             "rank": "5-8",
             "player": "Pestel Ropars Antoine",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Malcolm, Keen-Eyed Navigator",
                 "Livio, Oathsworn Sentinel"
@@ -491,7 +486,6 @@
             "deck_id": "455470",
             "rank": "5-8",
             "player": "Mahy Guillaume",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Yawgmoth, Thran Physician"
             ],
@@ -578,7 +572,6 @@
             "deck_id": "455471",
             "rank": "5-8",
             "player": "Papin Bertrand",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -688,7 +681,6 @@
             "deck_id": "455472",
             "rank": "5-8",
             "player": "Kervoas Tugdual",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Niv-Mizzet Reborn"
             ],

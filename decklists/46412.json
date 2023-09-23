@@ -10,7 +10,6 @@
             "deck_id": "543114",
             "rank": "1",
             "player": "Brice Lamar",
-            "winrate": 1.0,
             "commander": [
                 "Lurrus of the Dream-Den",
                 "Wernog, Rider's Chaplain",
@@ -121,7 +120,6 @@
             "deck_id": "543115",
             "rank": "2",
             "player": "Loïc Baverel",
-            "winrate": 0.8,
             "commander": [
                 "Marath, Will of the Wild"
             ],
@@ -226,7 +224,6 @@
             "deck_id": "543116",
             "rank": "3-4",
             "player": "Franck Gauci",
-            "winrate": 0.8,
             "commander": [
                 "Lurrus of the Dream-Den",
                 "Wernog, Rider's Chaplain",
@@ -337,7 +334,6 @@
             "deck_id": "543117",
             "rank": "3-4",
             "player": "Pierre Almaraz",
-            "winrate": 0.8,
             "commander": [
                 "Marath, Will of the Wild"
             ],

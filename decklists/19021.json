@@ -10,7 +10,6 @@
             "deck_id": "319710",
             "rank": "2",
             "player": "Denis Vienne",
-            "winrate": 0.8,
             "commander": [
                 "Arahbo, Roar of the World"
             ],
@@ -113,7 +112,6 @@
             "deck_id": "319711",
             "rank": "5-8",
             "player": "Maxime Jorland",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Kess, Dissident Mage"
             ],
@@ -222,7 +220,6 @@
             "deck_id": "319712",
             "rank": "3-4",
             "player": "Yaël Paquier",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Yisan, the Wanderer Bard"
             ],
@@ -315,7 +312,6 @@
             "deck_id": "319713",
             "rank": "5-8",
             "player": "Alexandre Murgey",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Akiri, Line-Slinger",
                 "Silas Renn, Seeker Adept"
@@ -425,7 +421,6 @@
             "deck_id": "319714",
             "rank": "5-8",
             "player": "Pierre Picot",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Tymna the Weaver",
                 "Thrasios, Triton Hero"
@@ -532,7 +527,6 @@
             "deck_id": "319715",
             "rank": "5-8",
             "player": "Pierre-axel Bral",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Kraum, Ludevic's Opus",
                 "Tymna the Weaver"
@@ -642,7 +636,6 @@
             "deck_id": "319716",
             "rank": "3-4",
             "player": "Kaourintin \"falaakr\" Le Guiban",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Akiri, Line-Slinger",
                 "Silas Renn, Seeker Adept"
@@ -752,7 +745,6 @@
             "deck_id": "319717",
             "rank": "2",
             "player": "Soratami",
-            "winrate": 0.8,
             "commander": [
                 "Zurgo Bellstriker"
             ],

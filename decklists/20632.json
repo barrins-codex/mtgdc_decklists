@@ -10,7 +10,6 @@
             "deck_id": "335850",
             "rank": "3-4",
             "player": "Dave Gonzales",
-            "winrate": 0.8,
             "commander": [
                 "Kytheon, Hero of Akros"
             ],
@@ -90,7 +89,6 @@
             "deck_id": "335851",
             "rank": "2",
             "player": "Rusty Capricio",
-            "winrate": 0.8,
             "commander": [
                 "The Gitrog Monster"
             ],
@@ -189,7 +187,6 @@
             "deck_id": "335852",
             "rank": "3-4",
             "player": "Rexel Allan Tenorio",
-            "winrate": 0.8,
             "commander": [
                 "Yuriko, the Tiger's Shadow"
             ],
@@ -287,7 +284,6 @@
             "deck_id": "335853",
             "rank": "1",
             "player": "Ben Co",
-            "winrate": 1.0,
             "commander": [
                 "Teferi, Temporal Archmage"
             ],

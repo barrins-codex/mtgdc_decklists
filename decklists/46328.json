@@ -10,7 +10,6 @@
             "deck_id": "542115",
             "rank": "1",
             "player": "Jordan Bizon",
-            "winrate": 1.0,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "542116",
             "rank": "2",
             "player": "Jonathan David",
-            "winrate": 0.8,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -230,7 +228,6 @@
             "deck_id": "542117",
             "rank": "3-4",
             "player": "J-f",
-            "winrate": 0.8,
             "commander": [
                 "Thalia and The Gitrog Monster"
             ],
@@ -338,7 +335,6 @@
             "deck_id": "542118",
             "rank": "3-4",
             "player": "Fabien Gilbert",
-            "winrate": 0.8,
             "commander": [
                 "Aragorn, King of Gondor"
             ],

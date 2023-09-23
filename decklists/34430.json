@@ -10,7 +10,6 @@
             "deck_id": "461352",
             "rank": "1",
             "player": "Daniel Duarte",
-            "winrate": 1.0,
             "commander": [
                 "Krenko, Mob Boss"
             ],
@@ -91,7 +90,6 @@
             "deck_id": "461353",
             "rank": "2",
             "player": "Thales",
-            "winrate": 0.8,
             "commander": [
                 "Laelia, the Blade Reforged"
             ],
@@ -172,7 +170,6 @@
             "deck_id": "461354",
             "rank": "3-4",
             "player": "Michel Xisto",
-            "winrate": 0.8,
             "commander": [
                 "Tajic, Legion's Edge"
             ],
@@ -262,7 +259,6 @@
             "deck_id": "461355",
             "rank": "3-4",
             "player": "Juca",
-            "winrate": 0.8,
             "commander": [
                 "Sythis, Harvest's Hand"
             ],

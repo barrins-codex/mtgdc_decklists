@@ -10,7 +10,6 @@
             "deck_id": "461623",
             "rank": "1",
             "player": "Adriano Yusuke",
-            "winrate": 1.0,
             "commander": [
                 "Saskia the Unyielding"
             ],
@@ -97,7 +96,6 @@
             "deck_id": "461624",
             "rank": "2",
             "player": "Elisson Primo",
-            "winrate": 0.8,
             "commander": [
                 "Saheeli, the Gifted"
             ],
@@ -186,7 +184,6 @@
             "deck_id": "461625",
             "rank": "3-4",
             "player": "Gabriel Mattos",
-            "winrate": 0.6,
             "commander": [
                 "Octavia, Living Thesis"
             ],

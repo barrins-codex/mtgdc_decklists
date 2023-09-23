@@ -10,7 +10,6 @@
             "deck_id": "407922",
             "rank": "1",
             "player": "Jean Thomas Delsaux",
-            "winrate": 1.0,
             "commander": [
                 "Thrasios, Triton Hero",
                 "Tymna the Weaver"
@@ -120,7 +119,6 @@
             "deck_id": "407923",
             "rank": "2",
             "player": "Brian Grouiller",
-            "winrate": 0.8,
             "commander": [
                 "Karlov of the Ghost Council",
                 "Lurrus of the Dream-Den"
@@ -230,7 +228,6 @@
             "deck_id": "407924",
             "rank": "3-4",
             "player": "Marien Couvertier",
-            "winrate": 0.8,
             "commander": [
                 "Rowan Kenrith",
                 "Will Kenrith"
@@ -324,7 +321,6 @@
             "deck_id": "407925",
             "rank": "3-4",
             "player": "Ambroise Berthe",
-            "winrate": 0.8,
             "commander": [
                 "Chevill, Bane of Monsters"
             ],

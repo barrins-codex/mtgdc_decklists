@@ -10,7 +10,6 @@
             "deck_id": "524128",
             "rank": "1",
             "player": "Maximilien Kalil",
-            "winrate": 0.9,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "524129",
             "rank": "2",
             "player": "Aldo Moscatelli",
-            "winrate": 0.8,
             "commander": [
                 "Atraxa, Grand Unifier"
             ],
@@ -230,7 +228,6 @@
             "deck_id": "524130",
             "rank": "3-4",
             "player": "Antoine Szabo",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Feldon, Ronom Excavator"
             ],
@@ -315,7 +312,6 @@
             "deck_id": "524131",
             "rank": "3-4",
             "player": "Baptiste Hilmann",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Elminster"
             ],
@@ -414,7 +410,6 @@
             "deck_id": "524132",
             "rank": "5-8",
             "player": "Adrien \"oni\" Demoget",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Baral and Kari Zev"
             ],
@@ -510,7 +505,6 @@
             "deck_id": "524133",
             "rank": "5-8",
             "player": "Black Tales",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -620,7 +614,6 @@
             "deck_id": "524134",
             "rank": "5-8",
             "player": "Nagash76",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Esika, God of the Tree"
             ],
@@ -730,7 +723,6 @@
             "deck_id": "524135",
             "rank": "5-8",
             "player": "Romain Van Den Brande \"vdboul\"",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Tivit, Seller of Secrets"
             ],

@@ -10,7 +10,6 @@
             "deck_id": "490213",
             "rank": "1",
             "player": "Yuning Meng",
-            "winrate": 1.0,
             "commander": [
                 "Leovold, Emissary of Trest"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "490214",
             "rank": "2",
             "player": "Jinlin Yang",
-            "winrate": 0.8,
             "commander": [
                 "Minsc, Beloved Ranger"
             ],
@@ -227,7 +225,6 @@
             "deck_id": "490215",
             "rank": "3-4",
             "player": "Poordonkey",
-            "winrate": 0.8,
             "commander": [
                 "Jeska, Thrice Reborn",
                 "Ludevic, Necro-Alchemist"
@@ -327,7 +324,6 @@
             "deck_id": "490216",
             "rank": "3-4",
             "player": "Ziqi Xi",
-            "winrate": 0.8,
             "commander": [
                 "Golos, Tireless Pilgrim"
             ],

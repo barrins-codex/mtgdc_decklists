@@ -10,7 +10,6 @@
             "deck_id": "487524",
             "rank": "1",
             "player": "Van Acordon",
-            "winrate": 1.0,
             "commander": [
                 "Elmar, Ulvenwald Informant",
                 "Wernog, Rider's Chaplain"
@@ -120,7 +119,6 @@
             "deck_id": "487525",
             "rank": "2",
             "player": "Dinno Zaide",
-            "winrate": 0.8,
             "commander": [
                 "Ludevic, Necro-Alchemist",
                 "Jeska, Thrice Reborn"
@@ -219,7 +217,6 @@
             "deck_id": "487526",
             "rank": "3",
             "player": "Mark Gonzales",
-            "winrate": 0.6,
             "commander": [
                 "Thrun, the Last Troll"
             ],
@@ -314,7 +311,6 @@
             "deck_id": "487527",
             "rank": "4",
             "player": "Ken Decena",
-            "winrate": 0.6,
             "commander": [
                 "Klothys, God of Destiny"
             ],

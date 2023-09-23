@@ -10,7 +10,6 @@
             "deck_id": "264351",
             "rank": "3-4",
             "player": "Brennan McAlear",
-            "winrate": 0.8,
             "commander": [
                 "Animar, Soul of Elements"
             ],
@@ -112,7 +111,6 @@
             "deck_id": "264352",
             "rank": "3-4",
             "player": "Joseph Hamlin",
-            "winrate": 0.8,
             "commander": [
                 "Griselbrand"
             ],
@@ -198,7 +196,6 @@
             "deck_id": "264353",
             "rank": "2",
             "player": "Jungje Choi",
-            "winrate": 0.8,
             "commander": [
                 "Grenzo, Dungeon Warden"
             ],
@@ -299,7 +296,6 @@
             "deck_id": "264354",
             "rank": "1",
             "player": "Charlie Trepod",
-            "winrate": 1.0,
             "commander": [
                 "Tasigur, the Golden Fang"
             ],

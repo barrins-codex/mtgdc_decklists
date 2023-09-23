@@ -10,7 +10,6 @@
             "deck_id": "368947",
             "rank": "4",
             "player": "Lukas Engels",
-            "winrate": 0.6,
             "commander": [
                 "Ravos, Soultender",
                 "Tymna the Weaver"
@@ -107,7 +106,6 @@
             "deck_id": "368948",
             "rank": "3",
             "player": "Ben Hackländer",
-            "winrate": 0.8,
             "commander": [
                 "Ludevic, Necro-Alchemist",
                 "Thrasios, Triton Hero"
@@ -214,7 +212,6 @@
             "deck_id": "368949",
             "rank": "1",
             "player": "Manuel Faber",
-            "winrate": 1.0,
             "commander": [
                 "Selvala, Heart of the Wilds"
             ],
@@ -305,7 +302,6 @@
             "deck_id": "368950",
             "rank": "2",
             "player": "Nico Berger",
-            "winrate": 0.8,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],

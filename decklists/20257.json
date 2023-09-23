@@ -10,7 +10,6 @@
             "deck_id": "332330",
             "rank": "1",
             "player": "Kevin Lemarchand",
-            "winrate": 1.0,
             "commander": [
                 "Tymna the Weaver",
                 "Thrasios, Triton Hero"
@@ -119,7 +118,6 @@
             "deck_id": "332331",
             "rank": "2",
             "player": "Sophie Masurel",
-            "winrate": 0.8,
             "commander": [
                 "Titania, Protector of Argoth"
             ],
@@ -211,7 +209,6 @@
             "deck_id": "332332",
             "rank": "3-4",
             "player": "Staxman",
-            "winrate": 0.8,
             "commander": [
                 "Yidris, Maelstrom Wielder"
             ],
@@ -321,7 +318,6 @@
             "deck_id": "332333",
             "rank": "3-4",
             "player": "D \"ardo\" Lc",
-            "winrate": 0.8,
             "commander": [
                 "Okaun, Eye of Chaos",
                 "Zndrsplt, Eye of Wisdom"

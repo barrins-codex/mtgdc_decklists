@@ -10,7 +10,6 @@
             "deck_id": "480956",
             "rank": "1",
             "player": "Enzo Lo Presti",
-            "winrate": 1.0,
             "commander": [
                 "Sephara, Sky's Blade"
             ],
@@ -92,7 +91,6 @@
             "deck_id": "480957",
             "rank": "2",
             "player": "Alexandre Darras",
-            "winrate": 0.8,
             "commander": [
                 "The Mimeoplasm"
             ],
@@ -202,7 +200,6 @@
             "deck_id": "480958",
             "rank": "3",
             "player": "Maxime Bouwy",
-            "winrate": 0.6,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],

@@ -10,7 +10,6 @@
             "deck_id": "479122",
             "rank": "1",
             "player": "Pablo Lima",
-            "winrate": 1.0,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -93,7 +92,6 @@
             "deck_id": "479123",
             "rank": "2",
             "player": "Thiago Saporito",
-            "winrate": 0.8,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -198,7 +196,6 @@
             "deck_id": "479124",
             "rank": "3-4",
             "player": "Leonardo Maeda",
-            "winrate": 0.8,
             "commander": [
                 "Falco Spara, Pactweaver"
             ],
@@ -308,7 +305,6 @@
             "deck_id": "479125",
             "rank": "3-4",
             "player": "Orlando Bibiano",
-            "winrate": 0.8,
             "commander": [
                 "Kess, Dissident Mage"
             ],
@@ -418,7 +414,6 @@
             "deck_id": "479126",
             "rank": "5-8",
             "player": "Lucas Santos",
-            "winrate": 0.6,
             "commander": [
                 "Jeska, Thrice Reborn",
                 "Ludevic, Necro-Alchemist"
@@ -519,7 +514,6 @@
             "deck_id": "479127",
             "rank": "5-8",
             "player": "William Graciani",
-            "winrate": 0.6,
             "commander": [
                 "Malcolm, Keen-Eyed Navigator",
                 "Sidar Kondo of Jamuraa"
@@ -626,7 +620,6 @@
             "deck_id": "479128",
             "rank": "5-8",
             "player": "Victor Burghi",
-            "winrate": 0.6,
             "commander": [
                 "Minsc &amp; Boo, Timeless Heroes"
             ],

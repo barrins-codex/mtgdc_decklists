@@ -10,7 +10,6 @@
             "deck_id": "274305",
             "rank": "2",
             "player": "Tachau Florian",
-            "winrate": 0.8,
             "commander": [
                 "Titania, Protector of Argoth"
             ],
@@ -101,7 +100,6 @@
             "deck_id": "274306",
             "rank": "1",
             "player": "Moondust",
-            "winrate": 1.0,
             "commander": [
                 "Jenara, Asura of War"
             ],
@@ -209,7 +207,6 @@
             "deck_id": "274307",
             "rank": "3",
             "player": "Rimkkkkk",
-            "winrate": 0.8,
             "commander": [
                 "Narset, Enlightened Master"
             ],
@@ -315,7 +312,6 @@
             "deck_id": "274308",
             "rank": "4",
             "player": "Fab, la Rage",
-            "winrate": 0.6,
             "commander": [
                 "Marath, Will of the Wild"
             ],

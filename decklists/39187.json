@@ -10,7 +10,6 @@
             "deck_id": "492026",
             "rank": "1",
             "player": "Rai Reyes",
-            "winrate": 1.0,
             "commander": [
                 "Ghyrson Starn, Kelermorph"
             ],
@@ -113,7 +112,6 @@
             "deck_id": "492027",
             "rank": "2",
             "player": "Franklin Aguba",
-            "winrate": 0.8,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -223,7 +221,6 @@
             "deck_id": "492028",
             "rank": "3",
             "player": "Cilbert Corpuz",
-            "winrate": 0.8,
             "commander": [
                 "Rem Karolus, Stalwart Slayer"
             ],
@@ -331,7 +328,6 @@
             "deck_id": "492029",
             "rank": "4",
             "player": "Juan Antonio Agoncillo",
-            "winrate": 0.6,
             "commander": [
                 "Magda, Brazen Outlaw"
             ],
@@ -423,7 +419,6 @@
             "deck_id": "492030",
             "rank": "5",
             "player": "Earl Caymo",
-            "winrate": 0.6,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -533,7 +528,6 @@
             "deck_id": "492031",
             "rank": "6",
             "player": "Christian Agbon",
-            "winrate": 0.6,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -620,7 +614,6 @@
             "deck_id": "492032",
             "rank": "7",
             "player": "Ste Villaraza",
-            "winrate": 0.6,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -730,7 +723,6 @@
             "deck_id": "492033",
             "rank": "8",
             "player": "Iori Zugaikotsu",
-            "winrate": 0.6,
             "commander": [
                 "Lazav, the Multifarious"
             ],

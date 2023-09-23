@@ -10,7 +10,6 @@
             "deck_id": "462434",
             "rank": "2",
             "player": "Quentin Bobota",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Hogaak, Arisen Necropolis"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "462435",
             "rank": "2",
             "player": "Samuel Gunenbein",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Doran, the Siege Tower"
             ],
@@ -230,7 +228,6 @@
             "deck_id": "462436",
             "rank": "3-4",
             "player": "Jean-matthieu Gaffié",
-            "winrate": 0.75,
             "commander": [
                 "Jegantha, the Wellspring",
                 "Niv-Mizzet Reborn"
@@ -341,7 +338,6 @@
             "deck_id": "462437",
             "rank": "3-4",
             "player": "Remy Dupuis",
-            "winrate": 0.75,
             "commander": [
                 "Klothys, God of Destiny"
             ],
@@ -443,7 +439,6 @@
             "deck_id": "462438",
             "rank": "5-8",
             "player": "Kilian Boulhaïs",
-            "winrate": 0.75,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -544,7 +539,6 @@
             "deck_id": "462439",
             "rank": "5-8",
             "player": "Anthony Ruer",
-            "winrate": 0.75,
             "commander": [
                 "Tevesh Szat, Doom of Fools",
                 "Miara, Thorn of the Glade"
@@ -628,7 +622,6 @@
             "deck_id": "462440",
             "rank": "5-8",
             "player": "Denis Fournier",
-            "winrate": 0.75,
             "commander": [
                 "Isamaru, Hound of Konda"
             ],
@@ -713,7 +706,6 @@
             "deck_id": "462441",
             "rank": "5-8",
             "player": "Robin Mauvigner",
-            "winrate": 0.75,
             "commander": [
                 "Octavia, Living Thesis"
             ],

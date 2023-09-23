@@ -10,7 +10,6 @@
             "deck_id": "291626",
             "rank": "1",
             "player": "Eduardo Perez (edu)",
-            "winrate": 1.0,
             "commander": [
                 "Reyhan, Last of the Abzan",
                 "Vial Smasher the Fierce"
@@ -104,7 +103,6 @@
             "deck_id": "291627",
             "rank": "2",
             "player": "Jorge Chunga",
-            "winrate": 0.8,
             "commander": [
                 "Kraum, Ludevic's Opus",
                 "Vial Smasher the Fierce"
@@ -214,7 +212,6 @@
             "deck_id": "291628",
             "rank": "3-4",
             "player": "Cladio Naranjo (chamo)",
-            "winrate": 0.8,
             "commander": [
                 "Zurgo Bellstriker"
             ],
@@ -300,7 +297,6 @@
             "deck_id": "291629",
             "rank": "3-4",
             "player": "Manuel Caañamo (español)",
-            "winrate": 0.8,
             "commander": [
                 "Kraum, Ludevic's Opus",
                 "Vial Smasher the Fierce"

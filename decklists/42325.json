@@ -10,7 +10,6 @@
             "deck_id": "513493",
             "rank": "1",
             "player": "Maxime Corchia",
-            "winrate": 1.0,
             "commander": [
                 "Wild / Ogre / Bupkis",
                 "Unique / Charmed / Pants",
@@ -129,7 +128,6 @@
             "deck_id": "513494",
             "rank": "2",
             "player": "Thomas Kelleter",
-            "winrate": 0.8,
             "commander": [
                 "Grist, the Hunger Tide"
             ],
@@ -229,7 +227,6 @@
             "deck_id": "513495",
             "rank": "3-4",
             "player": "Amand Dosimont",
-            "winrate": 0.8,
             "commander": [
                 "Rocco, Cabaretti Caterer"
             ],
@@ -339,7 +336,6 @@
             "deck_id": "513496",
             "rank": "3-4",
             "player": "Alexandre Mairesse",
-            "winrate": 0.8,
             "commander": [
                 "Grist, the Hunger Tide"
             ],

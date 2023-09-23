@@ -10,7 +10,6 @@
             "deck_id": "448472",
             "rank": "1",
             "player": "Kelig Maze",
-            "winrate": 1.0,
             "commander": [
                 "Winota, Joiner of Forces"
             ],
@@ -106,7 +105,6 @@
             "deck_id": "448473",
             "rank": "2",
             "player": "Rémi Castellano",
-            "winrate": 0.8,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -192,7 +190,6 @@
             "deck_id": "448474",
             "rank": "3-4",
             "player": "Thomas Lacoste",
-            "winrate": 0.8,
             "commander": [
                 "Queen Marchesa"
             ],
@@ -302,7 +299,6 @@
             "deck_id": "448475",
             "rank": "3-4",
             "player": "Julien Joie",
-            "winrate": 0.8,
             "commander": [
                 "Kess, Dissident Mage"
             ],
@@ -412,7 +408,6 @@
             "deck_id": "448476",
             "rank": "5-8",
             "player": "Anthony Laveau",
-            "winrate": 0.6,
             "commander": [
                 "Adeliz, the Cinder Wind"
             ],
@@ -509,7 +504,6 @@
             "deck_id": "448477",
             "rank": "5-8",
             "player": "Pierre Bossoutrot",
-            "winrate": 0.6,
             "commander": [
                 "Hogaak, Arisen Necropolis"
             ],
@@ -618,7 +612,6 @@
             "deck_id": "448478",
             "rank": "5-8",
             "player": "Jérôme Ceaux",
-            "winrate": 0.6,
             "commander": [
                 "Kess, Dissident Mage"
             ],
@@ -728,7 +721,6 @@
             "deck_id": "448479",
             "rank": "5-8",
             "player": "Alexandre Casagrande",
-            "winrate": 0.6,
             "commander": [
                 "God-Eternal Kefnet"
             ],

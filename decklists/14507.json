@@ -10,7 +10,6 @@
             "deck_id": "286967",
             "rank": "3-4",
             "player": "Pedro Fongaro",
-            "winrate": 0.8,
             "commander": [
                 "Jace, Vryn's Prodigy"
             ],
@@ -88,7 +87,6 @@
             "deck_id": "286968",
             "rank": "2",
             "player": "Fábio Fernandes Vieira",
-            "winrate": 0.8,
             "commander": [
                 "Breya, Etherium Shaper"
             ],
@@ -197,7 +195,6 @@
             "deck_id": "286969",
             "rank": "5-8",
             "player": "Miguel Rossi",
-            "winrate": 0.6,
             "commander": [
                 "Titania, Protector of Argoth"
             ],
@@ -285,7 +282,6 @@
             "deck_id": "286970",
             "rank": "1",
             "player": "Fernando Yada Marinho",
-            "winrate": 1.0,
             "commander": [
                 "Kraum, Ludevic's Opus",
                 "Vial Smasher the Fierce"
@@ -395,7 +391,6 @@
             "deck_id": "286971",
             "rank": "5-8",
             "player": "Everton Cavalcante",
-            "winrate": 0.6,
             "commander": [
                 "Atraxa, Praetors' Voice"
             ],
@@ -505,7 +500,6 @@
             "deck_id": "286972",
             "rank": "5-8",
             "player": "Fábio Kaneto",
-            "winrate": 0.6,
             "commander": [
                 "Selvala, Heart of the Wilds"
             ],
@@ -593,7 +587,6 @@
             "deck_id": "286973",
             "rank": "3-4",
             "player": "Danilo \"Milani\" Meguro",
-            "winrate": 0.8,
             "commander": [
                 "Kraum, Ludevic's Opus",
                 "Vial Smasher the Fierce"
@@ -703,7 +696,6 @@
             "deck_id": "286974",
             "rank": "5-8",
             "player": "Linecker Kurebayashi",
-            "winrate": 0.6,
             "commander": [
                 "Reyhan, Last of the Abzan",
                 "Vial Smasher the Fierce"

@@ -10,7 +10,6 @@
             "deck_id": "247678",
             "rank": "1",
             "player": "Jaroslava Stefankova",
-            "winrate": 0.8888888888888888,
             "commander": [
                 "The Mimeoplasm"
             ],
@@ -117,7 +116,6 @@
             "deck_id": "247679",
             "rank": "2",
             "player": "Jan Kousal",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Captain Sisay"
             ],
@@ -215,7 +213,6 @@
             "deck_id": "247680",
             "rank": "3-4",
             "player": "Jakub Havelka",
-            "winrate": 0.75,
             "commander": [
                 "Horde of Notions"
             ],
@@ -325,7 +322,6 @@
             "deck_id": "247681",
             "rank": "3-4",
             "player": "Jiri Patocka",
-            "winrate": 0.75,
             "commander": [
                 "The Mimeoplasm"
             ],
@@ -430,7 +426,6 @@
             "deck_id": "247682",
             "rank": "5-8",
             "player": "Pavel Sevcik",
-            "winrate": 0.75,
             "commander": [
                 "The Mimeoplasm"
             ],
@@ -539,7 +534,6 @@
             "deck_id": "247683",
             "rank": "5-8",
             "player": "Martin Pelikan",
-            "winrate": 0.75,
             "commander": [
                 "Doran, the Siege Tower"
             ],
@@ -649,7 +643,6 @@
             "deck_id": "247684",
             "rank": "5-8",
             "player": "Jakub Lelek",
-            "winrate": 0.75,
             "commander": [
                 "Ezuri, Renegade Leader"
             ],
@@ -731,7 +724,6 @@
             "deck_id": "247685",
             "rank": "5-8",
             "player": "Zbynek Boltek",
-            "winrate": 0.75,
             "commander": [
                 "Horde of Notions"
             ],

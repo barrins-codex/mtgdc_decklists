@@ -10,7 +10,6 @@
             "deck_id": "292118",
             "rank": "3-4",
             "player": "Diego Serra",
-            "winrate": 0.8,
             "commander": [
                 "Akiri, Line-Slinger",
                 "Silas Renn, Seeker Adept"
@@ -120,7 +119,6 @@
             "deck_id": "292119",
             "rank": "2",
             "player": "Eduardo Aguiar",
-            "winrate": 0.8,
             "commander": [
                 "Baral, Chief of Compliance"
             ],
@@ -202,7 +200,6 @@
             "deck_id": "292124",
             "rank": "1",
             "player": "Guilherme Braga",
-            "winrate": 1.0,
             "commander": [
                 "Vial Smasher the Fierce",
                 "Kraum, Ludevic's Opus"
@@ -312,7 +309,6 @@
             "deck_id": "292125",
             "rank": "3-4",
             "player": "Vital Vital",
-            "winrate": 0.8,
             "commander": [
                 "Daretti, Scrap Savant"
             ],

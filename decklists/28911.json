@@ -10,7 +10,6 @@
             "deck_id": "428115",
             "rank": "1",
             "player": "Barberours",
-            "winrate": 1.0,
             "commander": [
                 "Keleth, Sunmane Familiar",
                 "Reyhan, Last of the Abzan"
@@ -120,7 +119,6 @@
             "deck_id": "428116",
             "rank": "2",
             "player": "Mephy",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Prossh, Skyraider of Kher"
             ],

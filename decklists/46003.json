@@ -10,7 +10,6 @@
             "deck_id": "539915",
             "rank": "1",
             "player": "Xing Galaxy",
-            "winrate": 1.0,
             "commander": [
                 "Tivit, Seller of Secrets"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "539916",
             "rank": "2",
             "player": "Qin Zihao",
-            "winrate": 0.8,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -230,7 +228,6 @@
             "deck_id": "539917",
             "rank": "3",
             "player": "Yang Jinlin",
-            "winrate": 0.6,
             "commander": [
                 "Prossh, Skyraider of Kher"
             ],

@@ -10,7 +10,6 @@
             "deck_id": "457921",
             "rank": "1",
             "player": "Guilherme Santos",
-            "winrate": 1.0,
             "commander": [
                 "Sisay, Weatherlight Captain"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "457922",
             "rank": "2",
             "player": "Felipe \"raizen\" Santos",
-            "winrate": 0.8,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -205,7 +203,6 @@
             "deck_id": "457923",
             "rank": "3-4",
             "player": "Leonardo Maeda",
-            "winrate": 0.6,
             "commander": [
                 "Tevesh Szat, Doom of Fools",
                 "Prava of the Steel Legion"
@@ -303,7 +300,6 @@
             "deck_id": "457924",
             "rank": "3-4",
             "player": "William Graciani",
-            "winrate": 0.6,
             "commander": [
                 "Kraum, Ludevic's Opus",
                 "Malcolm, Keen-Eyed Navigator"

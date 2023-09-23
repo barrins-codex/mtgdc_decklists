@@ -10,7 +10,6 @@
             "deck_id": "543433",
             "rank": "1",
             "player": "Mykael Lundgren",
-            "winrate": 1.0,
             "commander": [
                 "Aragorn, King of Gondor"
             ],
@@ -117,7 +116,6 @@
             "deck_id": "543434",
             "rank": "2",
             "player": "Edson Formiga",
-            "winrate": 0.8,
             "commander": [
                 "Dennick, Pious Apprentice"
             ],
@@ -225,7 +223,6 @@
             "deck_id": "543435",
             "rank": "3-4",
             "player": "Rafael Batista",
-            "winrate": 0.6,
             "commander": [
                 "Thalia and The Gitrog Monster"
             ],
@@ -335,7 +332,6 @@
             "deck_id": "543436",
             "rank": "3-4",
             "player": "Rafael Varela",
-            "winrate": 0.6,
             "commander": [
                 "Sythis, Harvest's Hand"
             ],

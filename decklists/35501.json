@@ -10,7 +10,6 @@
             "deck_id": "468016",
             "rank": "1",
             "player": "Mathieu Laurent",
-            "winrate": 1.0,
             "commander": [
                 "The Gitrog Monster"
             ],
@@ -107,7 +106,6 @@
             "deck_id": "468017",
             "rank": "2",
             "player": "Adrien Jouan",
-            "winrate": 0.8,
             "commander": [
                 "Marath, Will of the Wild"
             ],

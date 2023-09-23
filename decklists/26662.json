@@ -10,7 +10,6 @@
             "deck_id": "406408",
             "rank": "2",
             "player": "Shen Junkai",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Rielle, the Everwise"
             ],
@@ -102,7 +101,6 @@
             "deck_id": "406409",
             "rank": "1",
             "player": "Jiang Ling",
-            "winrate": 1.0,
             "commander": [
                 "Kinnan, Bonder Prodigy"
             ],

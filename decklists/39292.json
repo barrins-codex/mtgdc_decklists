@@ -10,7 +10,6 @@
             "deck_id": "492580",
             "rank": "1",
             "player": "Bor Samsa",
-            "winrate": 1.0,
             "commander": [
                 "Grist, the Hunger Tide"
             ],
@@ -114,7 +113,6 @@
             "deck_id": "492581",
             "rank": "2",
             "player": "Marko tokelj",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Doran, the Siege Tower"
             ],

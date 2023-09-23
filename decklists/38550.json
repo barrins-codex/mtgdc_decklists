@@ -10,7 +10,6 @@
             "deck_id": "487892",
             "rank": "1",
             "player": "Damien \"damienade\" Mocquet",
-            "winrate": 0.8888888888888888,
             "commander": [
                 "Grist, the Hunger Tide"
             ],
@@ -112,7 +111,6 @@
             "deck_id": "487893",
             "rank": "2",
             "player": "Marien Couvertier",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Dennick, Pious Apprentice"
             ],
@@ -215,7 +213,6 @@
             "deck_id": "487894",
             "rank": "3-4",
             "player": "Florian Cornet",
-            "winrate": 0.75,
             "commander": [
                 "Leovold, Emissary of Trest"
             ],
@@ -325,7 +322,6 @@
             "deck_id": "487895",
             "rank": "3-4",
             "player": "Gael \"gaoule\" Huber",
-            "winrate": 0.75,
             "commander": [
                 "Faceless One",
                 "Gut, True Soul Zealot"
@@ -424,7 +420,6 @@
             "deck_id": "487896",
             "rank": "5-8",
             "player": "Maxime Morillon",
-            "winrate": 0.75,
             "commander": [
                 "Dennick, Pious Apprentice"
             ],
@@ -527,7 +522,6 @@
             "deck_id": "487897",
             "rank": "5-8",
             "player": "Alexandre Da Silva",
-            "winrate": 0.75,
             "commander": [
                 "Light-Paws, Emperor's Voice"
             ],
@@ -608,7 +602,6 @@
             "deck_id": "487898",
             "rank": "5-8",
             "player": "Baptiste Pornin",
-            "winrate": 0.75,
             "commander": [
                 "Magda, Brazen Outlaw"
             ],
@@ -703,7 +696,6 @@
             "deck_id": "487899",
             "rank": "5-8",
             "player": "Marin \"arrias\" Boulange",
-            "winrate": 0.75,
             "commander": [
                 "Sai, Master Thopterist"
             ],

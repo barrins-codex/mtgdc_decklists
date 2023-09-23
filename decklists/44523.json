@@ -10,7 +10,6 @@
             "deck_id": "528348",
             "rank": "1",
             "player": "Marcelo Teixeira",
-            "winrate": 1.0,
             "commander": [
                 "Prossh, Skyraider of Kher"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "528349",
             "rank": "2",
             "player": "Guilherme Bellagente",
-            "winrate": 0.8,
             "commander": [
                 "Queza, Augur of Agonies"
             ],
@@ -230,7 +228,6 @@
             "deck_id": "528350",
             "rank": "3-4",
             "player": "Douglas Pacífico",
-            "winrate": 0.6,
             "commander": [
                 "Light-Paws, Emperor's Voice"
             ],
@@ -310,7 +307,6 @@
             "deck_id": "528351",
             "rank": "3-4",
             "player": "Alexandre Junior",
-            "winrate": 0.6,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],

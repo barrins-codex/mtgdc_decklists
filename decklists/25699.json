@@ -10,7 +10,6 @@
             "deck_id": "391070",
             "rank": "1",
             "player": "Zohoz",
-            "winrate": 1.0,
             "commander": [
                 "Jirina Kudro"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "391071",
             "rank": "2",
             "player": "Lantariel",
-            "winrate": 0.8,
             "commander": [
                 "Rielle, the Everwise",
                 "Lutri, the Spellchaser"

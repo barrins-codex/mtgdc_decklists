@@ -10,7 +10,6 @@
             "deck_id": "427797",
             "rank": "1",
             "player": "Nicolas Rabillard",
-            "winrate": 1.0,
             "commander": [
                 "Esior, Wardwing Familiar",
                 "Ardenn, Intrepid Archaeologist"
@@ -108,7 +107,6 @@
             "deck_id": "427798",
             "rank": "2",
             "player": "Xavier Lallemand",
-            "winrate": 0.8,
             "commander": [
                 "Isamaru, Hound of Konda"
             ],
@@ -193,7 +191,6 @@
             "deck_id": "427799",
             "rank": "3-4",
             "player": "Mickael Li",
-            "winrate": 0.6,
             "commander": [
                 "Esior, Wardwing Familiar",
                 "Keleth, Sunmane Familiar"
@@ -287,7 +284,6 @@
             "deck_id": "427800",
             "rank": "3-4",
             "player": "Bilal Moullan",
-            "winrate": 0.6,
             "commander": [
                 "Ludevic, Necro-Alchemist",
                 "Kraum, Ludevic's Opus"
@@ -381,7 +377,6 @@
             "deck_id": "427801",
             "rank": "5-8",
             "player": "Kévin Minatchy",
-            "winrate": 0.6,
             "commander": [
                 "Winota, Joiner of Forces"
             ],
@@ -476,7 +471,6 @@
             "deck_id": "427802",
             "rank": "5-8",
             "player": "Anthony Vallon",
-            "winrate": 0.6,
             "commander": [
                 "Kinnan, Bonder Prodigy"
             ],
@@ -578,7 +572,6 @@
             "deck_id": "427803",
             "rank": "5-8",
             "player": "Pascal Ah-sing",
-            "winrate": 0.6,
             "commander": [
                 "Karlov of the Ghost Council"
             ],
@@ -683,7 +676,6 @@
             "deck_id": "427804",
             "rank": "5-8",
             "player": "Cyril Fulbert",
-            "winrate": 0.6,
             "commander": [
                 "Animar, Soul of Elements"
             ],

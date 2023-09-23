@@ -10,7 +10,6 @@
             "deck_id": "457187",
             "rank": "1",
             "player": "Vincent Bruno",
-            "winrate": 1.0,
             "commander": [
                 "Doran, the Siege Tower"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "457188",
             "rank": "2",
             "player": "Theo Guillaumin",
-            "winrate": 0.8,
             "commander": [
                 "Liliana, Heretical Healer"
             ],
@@ -208,7 +206,6 @@
             "deck_id": "457189",
             "rank": "3-4",
             "player": "Charlie Cha",
-            "winrate": 0.8,
             "commander": [
                 "Grenzo, Dungeon Warden"
             ],
@@ -314,7 +311,6 @@
             "deck_id": "457190",
             "rank": "3-4",
             "player": "Mathéo Danna",
-            "winrate": 0.8,
             "commander": [
                 "Tevesh Szat, Doom of Fools",
                 "Miara, Thorn of the Glade"
@@ -402,7 +398,6 @@
             "deck_id": "457191",
             "rank": "5-8",
             "player": "Andrei Kmiec",
-            "winrate": 0.6,
             "commander": [
                 "Golos, Tireless Pilgrim"
             ],
@@ -512,7 +507,6 @@
             "deck_id": "457192",
             "rank": "5-8",
             "player": "Willy Volante",
-            "winrate": 0.6,
             "commander": [
                 "Grazilaxx, Illithid Scholar"
             ],
@@ -600,7 +594,6 @@
             "deck_id": "457193",
             "rank": "5-8",
             "player": "Mathieu Laurent",
-            "winrate": 0.6,
             "commander": [
                 "Niv-Mizzet Reborn",
                 "Jegantha, the Wellspring"
@@ -711,7 +704,6 @@
             "deck_id": "457194",
             "rank": "5-8",
             "player": "Enzo Sefrioui",
-            "winrate": 0.6,
             "commander": [
                 "Malcolm, Keen-Eyed Navigator",
                 "Livio, Oathsworn Sentinel"

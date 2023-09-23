@@ -10,7 +10,6 @@
             "deck_id": "422405",
             "rank": "1",
             "player": "Wong Man Lok",
-            "winrate": 1.0,
             "commander": [
                 "Kinnan, Bonder Prodigy"
             ],
@@ -115,7 +114,6 @@
             "deck_id": "422408",
             "rank": "2",
             "player": "Christopher Tong",
-            "winrate": 0.8,
             "commander": [
                 "Kraum, Ludevic's Opus",
                 "Ludevic, Necro-Alchemist"

@@ -10,7 +10,6 @@
             "deck_id": "448596",
             "rank": "1",
             "player": "Fernando \"yprincipe\" Martin",
-            "winrate": 1.0,
             "commander": [
                 "Klothys, God of Destiny"
             ],
@@ -111,7 +110,6 @@
             "deck_id": "448597",
             "rank": "2",
             "player": "Pablo Lima",
-            "winrate": 0.8,
             "commander": [
                 "Adeliz, the Cinder Wind"
             ],
@@ -207,7 +205,6 @@
             "deck_id": "448598",
             "rank": "3-4",
             "player": "Arthur Vitor",
-            "winrate": 0.8,
             "commander": [
                 "Winota, Joiner of Forces"
             ],
@@ -306,7 +303,6 @@
             "deck_id": "448599",
             "rank": "3-4",
             "player": "Gustavo",
-            "winrate": 0.8,
             "commander": [
                 "Azami, Lady of Scrolls"
             ],

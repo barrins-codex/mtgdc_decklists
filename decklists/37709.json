@@ -10,7 +10,6 @@
             "deck_id": "482400",
             "rank": "1",
             "player": "Michel Xisto",
-            "winrate": 1.0,
             "commander": [
                 "Tivit, Seller of Secrets"
             ],
@@ -105,7 +104,6 @@
             "deck_id": "482401",
             "rank": "2",
             "player": "Marcelo Augusto",
-            "winrate": 0.8,
             "commander": [
                 "Golos, Tireless Pilgrim"
             ],
@@ -194,7 +192,6 @@
             "deck_id": "482402",
             "rank": "3-4",
             "player": "Bruno \"bruxão\"",
-            "winrate": 0.8,
             "commander": [
                 "Anafenza, the Foremost"
             ],
@@ -285,7 +282,6 @@
             "deck_id": "482403",
             "rank": "3-4",
             "player": "Felipe \"aracaju\"",
-            "winrate": 0.8,
             "commander": [
                 "Yurlok of Scorch Thrash"
             ],

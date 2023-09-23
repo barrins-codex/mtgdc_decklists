@@ -10,7 +10,6 @@
             "deck_id": "449524",
             "rank": "1",
             "player": "Honza Lamper",
-            "winrate": 1.0,
             "commander": [
                 "Kess, Dissident Mage"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "449525",
             "rank": "2",
             "player": "Dominik Masik",
-            "winrate": 0.8,
             "commander": [
                 "Kess, Dissident Mage"
             ],
@@ -230,7 +228,6 @@
             "deck_id": "449526",
             "rank": "3",
             "player": "Petr Motal",
-            "winrate": 0.6,
             "commander": [
                 "Karlov of the Ghost Council"
             ],
@@ -327,7 +324,6 @@
             "deck_id": "449527",
             "rank": "4",
             "player": "Brona Pecek",
-            "winrate": 0.6,
             "commander": [
                 "Saskia the Unyielding"
             ],

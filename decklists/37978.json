@@ -10,7 +10,6 @@
             "deck_id": "484106",
             "rank": "1",
             "player": "João Paulo Pontes",
-            "winrate": 1.0,
             "commander": [
                 "Grand Arbiter Augustin IV"
             ],
@@ -112,7 +111,6 @@
             "deck_id": "484107",
             "rank": "2",
             "player": "Victor Bonano",
-            "winrate": 0.8,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -222,7 +220,6 @@
             "deck_id": "484108",
             "rank": "3",
             "player": "Rodrigo Torres",
-            "winrate": 0.8,
             "commander": [
                 "Grist, the Hunger Tide"
             ],
@@ -329,7 +326,6 @@
             "deck_id": "484109",
             "rank": "4",
             "player": "Leonardo Maeda",
-            "winrate": 0.8,
             "commander": [
                 "Minsc, Beloved Ranger"
             ],
@@ -439,7 +435,6 @@
             "deck_id": "484110",
             "rank": "5",
             "player": "Orlando Bibiano",
-            "winrate": 0.6,
             "commander": [
                 "Tajic, Legion's Edge"
             ],
@@ -543,7 +538,6 @@
             "deck_id": "484111",
             "rank": "6",
             "player": "Victor Burghi",
-            "winrate": 0.6,
             "commander": [
                 "The Ur-Dragon"
             ],
@@ -646,7 +640,6 @@
             "deck_id": "484112",
             "rank": "7",
             "player": "Rafael Ozores",
-            "winrate": 0.6,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -729,7 +722,6 @@
             "deck_id": "484113",
             "rank": "8",
             "player": "Leandro Lima",
-            "winrate": 0.6,
             "commander": [
                 "Raffine, Scheming Seer"
             ],

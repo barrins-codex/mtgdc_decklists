@@ -10,7 +10,6 @@
             "deck_id": "448394",
             "rank": "1",
             "player": "Arthur Le Goanvic",
-            "winrate": 1.0,
             "commander": [
                 "Adeliz, the Cinder Wind"
             ],
@@ -105,7 +104,6 @@
             "deck_id": "448395",
             "rank": "2",
             "player": "Hugo Dodelin",
-            "winrate": 0.8,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],

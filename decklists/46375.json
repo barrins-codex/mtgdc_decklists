@@ -10,7 +10,6 @@
             "deck_id": "542800",
             "rank": "1",
             "player": "Clément",
-            "winrate": 1.0,
             "commander": [
                 "Old Rutstein"
             ],
@@ -109,7 +108,6 @@
             "deck_id": "542801",
             "rank": "2",
             "player": "Charlgaugau",
-            "winrate": 0.8,
             "commander": [
                 "Niv-Mizzet Reborn"
             ],
@@ -219,7 +217,6 @@
             "deck_id": "542802",
             "rank": "3-4",
             "player": "Malou Wisdoom",
-            "winrate": 0.6,
             "commander": [
                 "Aragorn, the Uniter"
             ],
@@ -329,7 +326,6 @@
             "deck_id": "542803",
             "rank": "3-4",
             "player": "Paul",
-            "winrate": 0.6,
             "commander": [
                 "Balmor, Battlemage Captain"
             ],

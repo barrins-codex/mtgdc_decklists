@@ -10,7 +10,6 @@
             "deck_id": "468710",
             "rank": "1",
             "player": "Hannibal44",
-            "winrate": 0.875,
             "commander": [
                 "Niv-Mizzet Reborn"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "468711",
             "rank": "2",
             "player": "Moltes.c",
-            "winrate": 0.75,
             "commander": [
                 "Jegantha, the Wellspring",
                 "Niv-Mizzet Reborn"
@@ -231,7 +229,6 @@
             "deck_id": "468712",
             "rank": "3-4",
             "player": "Zankou",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Shorikai, Genesis Engine"
             ],
@@ -331,7 +328,6 @@
             "deck_id": "468713",
             "rank": "3-4",
             "player": "Huun",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Armix, Filigree Thrasher",
                 "Bruse Tarl, Boorish Herder"
@@ -441,7 +437,6 @@
             "deck_id": "468714",
             "rank": "5-8",
             "player": "Denwo",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Kroxa, Titan of Death's Hunger"
             ],
@@ -544,7 +539,6 @@
             "deck_id": "468715",
             "rank": "5-8",
             "player": "Latielle",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Teferi, Temporal Archmage"
             ],
@@ -624,7 +618,6 @@
             "deck_id": "468716",
             "rank": "5-8",
             "player": "Marmottelambda",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -712,7 +705,6 @@
             "deck_id": "468717",
             "rank": "5-8",
             "player": "Luxultima",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Hogaak, Arisen Necropolis"
             ],

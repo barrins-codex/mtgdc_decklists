@@ -10,7 +10,6 @@
             "deck_id": "498373",
             "rank": "1",
             "player": "Manon Gros",
-            "winrate": 1.0,
             "commander": [
                 "Light-Paws, Emperor's Voice"
             ],
@@ -98,7 +97,6 @@
             "deck_id": "498374",
             "rank": "2",
             "player": "Bdf",
-            "winrate": 0.8,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -208,7 +206,6 @@
             "deck_id": "498375",
             "rank": "3-4",
             "player": "Sébastien Brebion",
-            "winrate": 0.8,
             "commander": [
                 "Ertai Resurrected"
             ],
@@ -306,7 +303,6 @@
             "deck_id": "498376",
             "rank": "5-8",
             "player": "Koopa",
-            "winrate": 0.6,
             "commander": [
                 "Hinata, Dawn-Crowned"
             ],
@@ -412,7 +408,6 @@
             "deck_id": "498377",
             "rank": "5-8",
             "player": "Alexandre Glorian",
-            "winrate": 0.6,
             "commander": [
                 "The Gitrog Monster"
             ],
@@ -512,7 +507,6 @@
             "deck_id": "498378",
             "rank": "5-8",
             "player": "Pierre-antoine Henneau",
-            "winrate": 0.6,
             "commander": [
                 "Bruse Tarl, Boorish Herder",
                 "Yoshimaru, Ever Faithful"
@@ -615,7 +609,6 @@
             "deck_id": "498379",
             "rank": "5-8",
             "player": "Raphaël Lesieur",
-            "winrate": 0.6,
             "commander": [
                 "Tivit, Seller of Secrets"
             ],
@@ -725,7 +718,6 @@
             "deck_id": "499074",
             "rank": "3-4",
             "player": "The Nameless One",
-            "winrate": 0.8,
             "commander": [
                 "Trash Bin",
                 "Bounce Chamber",

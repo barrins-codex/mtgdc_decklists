@@ -10,7 +10,6 @@
             "deck_id": "457661",
             "rank": "1",
             "player": "Christian Leiva",
-            "winrate": 0.875,
             "commander": [
                 "Niv-Mizzet, Parun"
             ],
@@ -110,7 +109,6 @@
             "deck_id": "457662",
             "rank": "2",
             "player": "Navin Gianchandani",
-            "winrate": 0.75,
             "commander": [
                 "General Ferrous Rokiric"
             ],
@@ -204,7 +202,6 @@
             "deck_id": "457663",
             "rank": "3-4",
             "player": "Joseph Aliaga",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Emmara, Soul of the Accord"
             ],
@@ -307,7 +304,6 @@
             "deck_id": "457664",
             "rank": "3-4",
             "player": "Luis \"luigi\" Morales",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Radha, Heir to Keld"
             ],
@@ -407,7 +403,6 @@
             "deck_id": "457665",
             "rank": "5-8",
             "player": "Daniel García",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Tajic, Legion's Edge"
             ],
@@ -509,7 +504,6 @@
             "deck_id": "457666",
             "rank": "5-8",
             "player": "Omar Rohner",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Kraum, Ludevic's Opus",
                 "Livio, Oathsworn Sentinel"
@@ -615,7 +609,6 @@
             "deck_id": "457667",
             "rank": "5-8",
             "player": "Eduardo Pérez",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Kamber, the Plunderer",
                 "Laurine, the Diversion"
@@ -710,7 +703,6 @@
             "deck_id": "457668",
             "rank": "5-8",
             "player": "Daniel Romero",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Grakmaw, Skyclave Ravager"
             ],

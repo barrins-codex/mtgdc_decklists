@@ -10,7 +10,6 @@
             "deck_id": "450179",
             "rank": "1",
             "player": "Pierre Almaraz",
-            "winrate": 1.0,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -90,7 +89,6 @@
             "deck_id": "450180",
             "rank": "2",
             "player": "Thomas Ricci",
-            "winrate": 0.8,
             "commander": [
                 "Isamaru, Hound of Konda"
             ],
@@ -178,7 +176,6 @@
             "deck_id": "450181",
             "rank": "3-4",
             "player": "Franck Gauci",
-            "winrate": 0.6,
             "commander": [
                 "Sythis, Harvest's Hand"
             ],
@@ -285,7 +282,6 @@
             "deck_id": "450182",
             "rank": "3-4",
             "player": "Alexandre Andouard",
-            "winrate": 0.6,
             "commander": [
                 "Adeliz, the Cinder Wind"
             ],

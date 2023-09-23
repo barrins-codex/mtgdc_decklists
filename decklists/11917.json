@@ -10,7 +10,6 @@
             "deck_id": "268210",
             "rank": "2",
             "player": "Daniel Rodriguez",
-            "winrate": 0.8,
             "commander": [
                 "Azami, Lady of Scrolls"
             ],
@@ -88,7 +87,6 @@
             "deck_id": "268211",
             "rank": "1",
             "player": "Esteban Alonso",
-            "winrate": 1.0,
             "commander": [
                 "Narset, Enlightened Master"
             ],

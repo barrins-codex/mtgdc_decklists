@@ -10,7 +10,6 @@
             "deck_id": "272640",
             "rank": "1",
             "player": "Ed Tanyag",
-            "winrate": 0.875,
             "commander": [
                 "Animar, Soul of Elements"
             ],
@@ -111,7 +110,6 @@
             "deck_id": "272641",
             "rank": "1",
             "player": "Hernani Bautista",
-            "winrate": 0.875,
             "commander": [
                 "Titania, Protector of Argoth"
             ],
@@ -207,7 +205,6 @@
             "deck_id": "272642",
             "rank": "1",
             "player": "Martin Marcelo",
-            "winrate": 0.875,
             "commander": [
                 "Vendilion Clique"
             ],
@@ -295,7 +292,6 @@
             "deck_id": "272643",
             "rank": "5-8",
             "player": "Cons Golamco",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Maelstrom Wanderer"
             ],
@@ -397,7 +393,6 @@
             "deck_id": "272644",
             "rank": "1",
             "player": "Jun Era Cabezudo",
-            "winrate": 0.875,
             "commander": [
                 "Keranos, God of Storms"
             ],
@@ -483,7 +478,6 @@
             "deck_id": "272645",
             "rank": "5-8",
             "player": "Juin San Juan",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Radha, Heir to Keld"
             ],

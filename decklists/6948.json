@@ -10,7 +10,6 @@
             "deck_id": "239892",
             "rank": "1",
             "player": "Miguel Araya",
-            "winrate": 1.0,
             "commander": [
                 "Geist of Saint Traft"
             ],
@@ -109,7 +108,6 @@
             "deck_id": "239893",
             "rank": "2",
             "player": "Samuel Pallotta",
-            "winrate": 0.8,
             "commander": [
                 "Kaalia of the Vast"
             ],
@@ -217,7 +215,6 @@
             "deck_id": "239894",
             "rank": "3-4",
             "player": "Carlos Fuentes",
-            "winrate": 0.8,
             "commander": [
                 "Geist of Saint Traft"
             ],
@@ -315,7 +312,6 @@
             "deck_id": "239895",
             "rank": "3-4",
             "player": "Jose Arroyo",
-            "winrate": 0.8,
             "commander": [
                 "Brimaz, King of Oreskos"
             ],

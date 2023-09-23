@@ -10,7 +10,6 @@
             "deck_id": "466407",
             "rank": "1",
             "player": "Léo Facca",
-            "winrate": 0.8888888888888888,
             "commander": [
                 "Shorikai, Genesis Engine"
             ],
@@ -112,7 +111,6 @@
             "deck_id": "466408",
             "rank": "2",
             "player": "Quentin Levard",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Lurrus of the Dream-Den",
                 "Bjorna, Nightfall Alchemist",
@@ -223,7 +221,6 @@
             "deck_id": "466409",
             "rank": "3-4",
             "player": "David Fontraille",
-            "winrate": 0.75,
             "commander": [
                 "Niv-Mizzet Reborn"
             ],
@@ -333,7 +330,6 @@
             "deck_id": "466410",
             "rank": "3-4",
             "player": "Benjamin Cottet",
-            "winrate": 0.75,
             "commander": [
                 "Ludevic, Necro-Alchemist",
                 "Kraum, Ludevic's Opus"
@@ -432,7 +428,6 @@
             "deck_id": "466411",
             "rank": "5-8",
             "player": "Léo Carbonell",
-            "winrate": 0.75,
             "commander": [
                 "Teferi, Temporal Archmage"
             ],
@@ -512,7 +507,6 @@
             "deck_id": "466412",
             "rank": "5-8",
             "player": "Aurelien Simondet",
-            "winrate": 0.75,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -620,7 +614,6 @@
             "deck_id": "466413",
             "rank": "5-8",
             "player": "Hippolyte Senechau",
-            "winrate": 0.75,
             "commander": [
                 "Prossh, Skyraider of Kher"
             ],
@@ -730,7 +723,6 @@
             "deck_id": "466414",
             "rank": "5-8",
             "player": "Loic Dougnac",
-            "winrate": 0.75,
             "commander": [
                 "Kinnan, Bonder Prodigy"
             ],

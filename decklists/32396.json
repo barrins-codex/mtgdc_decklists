@@ -10,7 +10,6 @@
             "deck_id": "449085",
             "rank": "1",
             "player": "Pierre Clavieras-mengin",
-            "winrate": 1.0,
             "commander": [
                 "Kinnan, Bonder Prodigy"
             ],
@@ -112,7 +111,6 @@
             "deck_id": "449086",
             "rank": "2",
             "player": "Antoine \"chapeau\" Vieilledent",
-            "winrate": 0.8,
             "commander": [
                 "Golos, Tireless Pilgrim"
             ],

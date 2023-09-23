@@ -10,7 +10,6 @@
             "deck_id": "267748",
             "rank": "3-4",
             "player": "Wes Herr",
-            "winrate": 0.8,
             "commander": [
                 "Wydwen, the Biting Gale"
             ],
@@ -107,7 +106,6 @@
             "deck_id": "267749",
             "rank": "3-4",
             "player": "William Belloli",
-            "winrate": 0.8,
             "commander": [
                 "Maelstrom Wanderer"
             ],
@@ -210,7 +208,6 @@
             "deck_id": "267750",
             "rank": "2",
             "player": "James McMillen",
-            "winrate": 0.8,
             "commander": [
                 "Kytheon, Hero of Akros"
             ],
@@ -292,7 +289,6 @@
             "deck_id": "267751",
             "rank": "1",
             "player": "David Naszradi",
-            "winrate": 1.0,
             "commander": [
                 "Teferi, Temporal Archmage"
             ],

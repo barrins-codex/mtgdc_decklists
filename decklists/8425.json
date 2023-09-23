@@ -10,7 +10,6 @@
             "deck_id": "248397",
             "rank": "1",
             "player": "Dmitriy Tretyakov",
-            "winrate": 1.0,
             "commander": [
                 "Marath, Will of the Wild"
             ],
@@ -119,7 +118,6 @@
             "deck_id": "248398",
             "rank": "2",
             "player": "Andrey Chaginskiy",
-            "winrate": 0.8,
             "commander": [
                 "Jenara, Asura of War"
             ],
@@ -228,7 +226,6 @@
             "deck_id": "248399",
             "rank": "3-4",
             "player": "Andrey Zavialov",
-            "winrate": 0.8,
             "commander": [
                 "Animar, Soul of Elements"
             ],
@@ -334,7 +331,6 @@
             "deck_id": "248400",
             "rank": "3-4",
             "player": "Anton Baranov",
-            "winrate": 0.8,
             "commander": [
                 "Sygg, River Cutthroat"
             ],

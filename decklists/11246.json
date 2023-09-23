@@ -10,7 +10,6 @@
             "deck_id": "263893",
             "rank": "3",
             "player": "Matteo Lanna",
-            "winrate": 0.8,
             "commander": [
                 "Ezuri, Renegade Leader"
             ],
@@ -101,7 +100,6 @@
             "deck_id": "263894",
             "rank": "1",
             "player": "Orfeo Lombardo Ratti",
-            "winrate": 1.0,
             "commander": [
                 "Vendilion Clique"
             ],
@@ -188,7 +186,6 @@
             "deck_id": "263895",
             "rank": "4",
             "player": "Manuel Anselmo",
-            "winrate": 0.6,
             "commander": [
                 "Anafenza, the Foremost"
             ],
@@ -296,7 +293,6 @@
             "deck_id": "263896",
             "rank": "2",
             "player": "Alessandro Carpita",
-            "winrate": 0.8,
             "commander": [
                 "Yisan, the Wanderer Bard"
             ],

@@ -10,7 +10,6 @@
             "deck_id": "374111",
             "rank": "2",
             "player": "Randy Mestiola",
-            "winrate": 0.8,
             "commander": [
                 "Azusa, Lost but Seeking"
             ],
@@ -106,7 +105,6 @@
             "deck_id": "374112",
             "rank": "3-4",
             "player": "Pepelepew",
-            "winrate": 0.8,
             "commander": [
                 "Akiri, Line-Slinger",
                 "Silas Renn, Seeker Adept"
@@ -216,7 +214,6 @@
             "deck_id": "374113",
             "rank": "3-4",
             "player": "Dinno Zaide",
-            "winrate": 0.8,
             "commander": [
                 "Kraum, Ludevic's Opus",
                 "Ludevic, Necro-Alchemist"
@@ -311,7 +308,6 @@
             "deck_id": "374114",
             "rank": "5-8",
             "player": "Bruce Valero",
-            "winrate": 0.6,
             "commander": [
                 "Karlov of the Ghost Council"
             ],
@@ -419,7 +415,6 @@
             "deck_id": "374115",
             "rank": "5-8",
             "player": "Miguel Luis Rocha",
-            "winrate": 0.6,
             "commander": [
                 "Kraum, Ludevic's Opus",
                 "Tymna the Weaver"
@@ -525,7 +520,6 @@
             "deck_id": "374116",
             "rank": "5-8",
             "player": "Jerry Cabardo",
-            "winrate": 0.6,
             "commander": [
                 "Prossh, Skyraider of Kher"
             ],
@@ -628,7 +622,6 @@
             "deck_id": "374117",
             "rank": "5-8",
             "player": "Renato Valentin",
-            "winrate": 0.6,
             "commander": [
                 "Maelstrom Wanderer"
             ],
@@ -725,7 +718,6 @@
             "deck_id": "374118",
             "rank": "1",
             "player": "Josh Fuentes",
-            "winrate": 1.0,
             "commander": [
                 "Kraum, Ludevic's Opus",
                 "Tymna the Weaver"

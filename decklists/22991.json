@@ -10,7 +10,6 @@
             "deck_id": "357592",
             "rank": "2",
             "player": "Tim Fink",
-            "winrate": 0.8,
             "commander": [
                 "Akiri, Line-Slinger",
                 "Silas Renn, Seeker Adept"
@@ -120,7 +119,6 @@
             "deck_id": "357593",
             "rank": "1",
             "player": "Sebastian Nußbaum",
-            "winrate": 1.0,
             "commander": [
                 "Leovold, Emissary of Trest"
             ],

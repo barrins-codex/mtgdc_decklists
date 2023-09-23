@@ -10,7 +10,6 @@
             "deck_id": "363302",
             "rank": "1",
             "player": "Jiang Jiahe",
-            "winrate": 1.0,
             "commander": [
                 "Niv-Mizzet Reborn"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "363303",
             "rank": "2",
             "player": "Xu Zinan",
-            "winrate": 0.8,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],

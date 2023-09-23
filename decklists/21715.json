@@ -10,7 +10,6 @@
             "deck_id": "345959",
             "rank": "9-16",
             "player": "Maximilien Kalil",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Prossh, Skyraider of Kher"
             ],
@@ -111,7 +110,6 @@
             "deck_id": "345960",
             "rank": "9-16",
             "player": "Quentin Delafosse",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Teferi, Temporal Archmage"
             ],
@@ -185,7 +183,6 @@
             "deck_id": "345961",
             "rank": "9-16",
             "player": "Grégoire Payan",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "The Gitrog Monster"
             ],
@@ -283,7 +280,6 @@
             "deck_id": "345962",
             "rank": "9-16",
             "player": "Guillaume Secher",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Lord Windgrace"
             ],
@@ -389,7 +385,6 @@
             "deck_id": "345963",
             "rank": "9-16",
             "player": "Quentin Rullaud",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -473,7 +468,6 @@
             "deck_id": "345964",
             "rank": "9-16",
             "player": "Denis Vienne",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Arahbo, Roar of the World"
             ],
@@ -579,7 +573,6 @@
             "deck_id": "345965",
             "rank": "9-16",
             "player": "Anthony Ruer",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Tymna the Weaver",
                 "Kraum, Ludevic's Opus"
@@ -689,7 +682,6 @@
             "deck_id": "345966",
             "rank": "9-16",
             "player": "Justo Chacon",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Kytheon, Hero of Akros"
             ],
@@ -771,7 +763,6 @@
             "deck_id": "345967",
             "rank": "5-8",
             "player": "Pyrrhus",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "The Gitrog Monster"
             ],
@@ -867,7 +858,6 @@
             "deck_id": "345968",
             "rank": "5-8",
             "player": "The Nameless One",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Teferi, Temporal Archmage"
             ],
@@ -941,7 +931,6 @@
             "deck_id": "345969",
             "rank": "5-8",
             "player": "Guillaume Morin",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Tajic, Legion's Edge"
             ],
@@ -1039,7 +1028,6 @@
             "deck_id": "345970",
             "rank": "5-8",
             "player": "Axel \"nemo\" Autiquet",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Ikra Shidiqi, the Usurper",
                 "Reyhan, Last of the Abzan"
@@ -1140,7 +1128,6 @@
             "deck_id": "345971",
             "rank": "1",
             "player": "Stéphane Copreaux",
-            "winrate": 0.9,
             "commander": [
                 "Prossh, Skyraider of Kher"
             ],
@@ -1242,7 +1229,6 @@
             "deck_id": "345972",
             "rank": "2",
             "player": "Kaourintin \"falaakr\" Le Guiban",
-            "winrate": 0.8,
             "commander": [
                 "Silas Renn, Seeker Adept",
                 "Akiri, Line-Slinger"
@@ -1352,7 +1338,6 @@
             "deck_id": "345973",
             "rank": "3-4",
             "player": "Guillaume Audiffren",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Thrasios, Triton Hero",
                 "Tymna the Weaver"
@@ -1462,7 +1447,6 @@
             "deck_id": "345974",
             "rank": "3-4",
             "player": "Pierre-axel Bral",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Kraum, Ludevic's Opus",
                 "Tymna the Weaver"

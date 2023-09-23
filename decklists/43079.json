@@ -10,7 +10,6 @@
             "deck_id": "518398",
             "rank": "1",
             "player": "Lucas Felix",
-            "winrate": 1.0,
             "commander": [
                 "Azusa, Lost but Seeking"
             ],
@@ -111,7 +110,6 @@
             "deck_id": "518399",
             "rank": "2",
             "player": "Felipe Casagrande",
-            "winrate": 0.8,
             "commander": [
                 "Gut, True Soul Zealot",
                 "Inspiring Leader"
@@ -215,7 +213,6 @@
             "deck_id": "518400",
             "rank": "3",
             "player": "Conja",
-            "winrate": 0.6,
             "commander": [
                 "Juri, Master of the Revue"
             ],
@@ -315,7 +312,6 @@
             "deck_id": "518401",
             "rank": "4",
             "player": "Caio Castello",
-            "winrate": 0.6,
             "commander": [
                 "Light-Paws, Emperor's Voice"
             ],

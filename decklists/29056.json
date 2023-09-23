@@ -10,7 +10,6 @@
             "deck_id": "428939",
             "rank": "1",
             "player": "Omar Guiang",
-            "winrate": 1.0,
             "commander": [
                 "Kroxa, Titan of Death's Hunger"
             ],
@@ -111,7 +110,6 @@
             "deck_id": "428940",
             "rank": "2",
             "player": "Reuben Ferrer",
-            "winrate": 0.8,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -221,7 +219,6 @@
             "deck_id": "428941",
             "rank": "3-4",
             "player": "Paul Relativo",
-            "winrate": 0.6,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -303,7 +300,6 @@
             "deck_id": "428942",
             "rank": "3-4",
             "player": "Timothy Agustin",
-            "winrate": 0.6,
             "commander": [
                 "Rograkh, Son of Rohgahh",
                 "Ludevic, Necro-Alchemist"

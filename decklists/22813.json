@@ -10,7 +10,6 @@
             "deck_id": "355920",
             "rank": "1",
             "player": "Jonas Jörns",
-            "winrate": 1.0,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -97,7 +96,6 @@
             "deck_id": "355921",
             "rank": "2",
             "player": "Simon The Sorcerer",
-            "winrate": 0.8,
             "commander": [
                 "Yuriko, the Tiger's Shadow"
             ],

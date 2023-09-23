@@ -10,7 +10,6 @@
             "deck_id": "489319",
             "rank": "1",
             "player": "Gabriel Kawagoe",
-            "winrate": 1.0,
             "commander": [
                 "Isamaru, Hound of Konda"
             ],
@@ -99,7 +98,6 @@
             "deck_id": "489320",
             "rank": "2",
             "player": "Carlos Pires",
-            "winrate": 0.8,
             "commander": [
                 "Ludevic, Necro-Alchemist",
                 "Jeska, Thrice Reborn"
@@ -197,7 +195,6 @@
             "deck_id": "489321",
             "rank": "3",
             "player": "Leonardo Maeda",
-            "winrate": 0.6,
             "commander": [
                 "Minsc, Beloved Ranger"
             ],
@@ -305,7 +302,6 @@
             "deck_id": "489322",
             "rank": "4",
             "player": "Victor Burghi",
-            "winrate": 0.6,
             "commander": [
                 "Saskia the Unyielding"
             ],

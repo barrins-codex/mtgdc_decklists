@@ -10,7 +10,6 @@
             "deck_id": "449965",
             "rank": "1",
             "player": "Mikkel Høi Ramussen",
-            "winrate": 1.0,
             "commander": [
                 "Tana, the Bloodsower",
                 "Tevesh Szat, Doom of Fools"
@@ -107,7 +106,6 @@
             "deck_id": "449966",
             "rank": "2",
             "player": "Asbjørn Jensen",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Minsc, Beloved Ranger"
             ],

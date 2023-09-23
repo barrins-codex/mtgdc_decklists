@@ -10,7 +10,6 @@
             "deck_id": "464951",
             "rank": "1",
             "player": "Aaron Macaso",
-            "winrate": 1.0,
             "commander": [
                 "Kyodai, Soul of Kamigawa"
             ],
@@ -118,7 +117,6 @@
             "deck_id": "464952",
             "rank": "2",
             "player": "Ste Villaraza",
-            "winrate": 0.8,
             "commander": [
                 "Shorikai, Genesis Engine"
             ],
@@ -220,7 +218,6 @@
             "deck_id": "464953",
             "rank": "3",
             "player": "Rexel Tenorio",
-            "winrate": 0.8,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -330,7 +327,6 @@
             "deck_id": "464954",
             "rank": "4",
             "player": "Chris Sta Maria",
-            "winrate": 0.6,
             "commander": [
                 "Lurrus of the Dream-Den",
                 "Karlov of the Ghost Council"
@@ -436,7 +432,6 @@
             "deck_id": "464955",
             "rank": "6",
             "player": "Jorrell Ang",
-            "winrate": 0.6,
             "commander": [
                 "Zur the Enchanter"
             ],
@@ -544,7 +539,6 @@
             "deck_id": "464956",
             "rank": "7",
             "player": "Michael Molina",
-            "winrate": 0.6,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -634,7 +628,6 @@
             "deck_id": "464957",
             "rank": "5",
             "player": "Robert Soriano",
-            "winrate": 0.6,
             "commander": [
                 "Shorikai, Genesis Engine"
             ],
@@ -735,7 +728,6 @@
             "deck_id": "464958",
             "rank": "8",
             "player": "Glenn Alesna",
-            "winrate": 0.6,
             "commander": [
                 "Bruse Tarl, Boorish Herder",
                 "Jeska, Thrice Reborn"

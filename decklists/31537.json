@@ -10,7 +10,6 @@
             "deck_id": "444268",
             "rank": "1",
             "player": "Jarbs Sahagun",
-            "winrate": 1.0,
             "commander": [
                 "Dragonlord Ojutai"
             ],
@@ -113,7 +112,6 @@
             "deck_id": "444269",
             "rank": "2",
             "player": "Ryan Payabyab",
-            "winrate": 0.8,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -223,7 +221,6 @@
             "deck_id": "444270",
             "rank": "3-4",
             "player": "Rexel Tenorio",
-            "winrate": 0.8,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -333,7 +330,6 @@
             "deck_id": "444271",
             "rank": "3-4",
             "player": "Vic Vicente",
-            "winrate": 0.8,
             "commander": [
                 "Winota, Joiner of Forces"
             ],
@@ -431,7 +427,6 @@
             "deck_id": "444272",
             "rank": "5-8",
             "player": "Werick Pagtakhan",
-            "winrate": 0.6,
             "commander": [
                 "Hogaak, Arisen Necropolis"
             ],
@@ -541,7 +536,6 @@
             "deck_id": "444273",
             "rank": "5-8",
             "player": "Robert Soriano",
-            "winrate": 0.6,
             "commander": [
                 "Hogaak, Arisen Necropolis"
             ],
@@ -651,7 +645,6 @@
             "deck_id": "444274",
             "rank": "5-8",
             "player": "Chris Sta Maria",
-            "winrate": 0.6,
             "commander": [
                 "Lurrus of the Dream-Den",
                 "Karlov of the Ghost Council"
@@ -756,7 +749,6 @@
             "deck_id": "444275",
             "rank": "5-8",
             "player": "Ste Villaraza",
-            "winrate": 0.6,
             "commander": [
                 "Tevesh Szat, Doom of Fools",
                 "Ikra Shidiqi, the Usurper"

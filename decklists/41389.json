@@ -10,7 +10,6 @@
             "deck_id": "507459",
             "rank": "1",
             "player": "Jonathan Dolor",
-            "winrate": 1.0,
             "commander": [
                 "Lurrus of the Dream-Den",
                 "Karlov of the Ghost Council"
@@ -112,7 +111,6 @@
             "deck_id": "507460",
             "rank": "2",
             "player": "Dinno Zaide",
-            "winrate": 0.8,
             "commander": [
                 "Ghyrson Starn, Kelermorph"
             ],
@@ -213,7 +211,6 @@
             "deck_id": "507461",
             "rank": "3",
             "player": "Van Acordon",
-            "winrate": 0.6,
             "commander": [
                 "Ertai Resurrected"
             ],
@@ -311,7 +308,6 @@
             "deck_id": "507462",
             "rank": "4",
             "player": "Christian Agbon",
-            "winrate": 0.6,
             "commander": [
                 "Ardoz, Cobbler of War"
             ],

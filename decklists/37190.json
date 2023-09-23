@@ -10,7 +10,6 @@
             "deck_id": "479046",
             "rank": "1",
             "player": "Joakim Dubois",
-            "winrate": 1.0,
             "commander": [
                 "Octavia, Living Thesis"
             ],
@@ -99,7 +98,6 @@
             "deck_id": "479047",
             "rank": "2",
             "player": "Quentin Bobota",
-            "winrate": 0.8,
             "commander": [
                 "Hogaak, Arisen Necropolis"
             ],
@@ -209,7 +207,6 @@
             "deck_id": "479048",
             "rank": "3-4",
             "player": "Marien Couvertier",
-            "winrate": 0.8,
             "commander": [
                 "Sai, Master Thopterist"
             ],
@@ -296,7 +293,6 @@
             "deck_id": "479049",
             "rank": "3-4",
             "player": "Raoul \"senomar\" Chavialle",
-            "winrate": 0.8,
             "commander": [
                 "Sword Coast Sailor",
                 "Wilson, Refined Grizzly"
@@ -400,7 +396,6 @@
             "deck_id": "479050",
             "rank": "5-8",
             "player": "Thomas Mechin",
-            "winrate": 0.6,
             "commander": [
                 "Tivit, Seller of Secrets"
             ],
@@ -510,7 +505,6 @@
             "deck_id": "479051",
             "rank": "5-8",
             "player": "Maxime Morillon",
-            "winrate": 0.6,
             "commander": [
                 "Dennick, Pious Apprentice"
             ],
@@ -613,7 +607,6 @@
             "deck_id": "479052",
             "rank": "5-8",
             "player": "Gael Huber",
-            "winrate": 0.6,
             "commander": [
                 "Minsc &amp; Boo, Timeless Heroes"
             ],
@@ -713,7 +706,6 @@
             "deck_id": "479053",
             "rank": "5-8",
             "player": "Benjamin Beouche Helias",
-            "winrate": 0.6,
             "commander": [
                 "Kroxa, Titan of Death's Hunger"
             ],

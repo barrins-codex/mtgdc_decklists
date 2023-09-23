@@ -10,7 +10,6 @@
             "deck_id": "496421",
             "rank": "1",
             "player": "Charles Agulian",
-            "winrate": 1.0,
             "commander": [
                 "Klothys, God of Destiny"
             ],
@@ -111,7 +110,6 @@
             "deck_id": "496422",
             "rank": "2",
             "player": "Baptiste Berbille",
-            "winrate": 0.8,
             "commander": [
                 "Raffine, Scheming Seer"
             ],

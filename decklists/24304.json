@@ -10,7 +10,6 @@
             "deck_id": "369701",
             "rank": "1",
             "player": "Lavender Gaetan",
-            "winrate": 1.0,
             "commander": [
                 "Golos, Tireless Pilgrim"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "369702",
             "rank": "2",
             "player": "Leroyer Alexandre (zankou)",
-            "winrate": 0.8,
             "commander": [
                 "Akiri, Line-Slinger",
                 "Silas Renn, Seeker Adept"

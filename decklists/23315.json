@@ -10,7 +10,6 @@
             "deck_id": "360581",
             "rank": "1",
             "player": "Asbjørn Jensen",
-            "winrate": 1.0,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -90,7 +89,6 @@
             "deck_id": "360582",
             "rank": "2",
             "player": "Tim Nielsen",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Edric, Spymaster of Trest"
             ],

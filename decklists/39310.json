@@ -10,7 +10,6 @@
             "deck_id": "492696",
             "rank": "1",
             "player": "Diego Rio",
-            "winrate": 1.0,
             "commander": [
                 "Dihada, Binder of Wills"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "492697",
             "rank": "2",
             "player": "Julien Boulet",
-            "winrate": 0.8,
             "commander": [
                 "Balmor, Battlemage Captain"
             ],
@@ -219,7 +217,6 @@
             "deck_id": "492698",
             "rank": "3-4",
             "player": "Romain Donnadieu",
-            "winrate": 0.8,
             "commander": [
                 "Grist, the Hunger Tide"
             ],
@@ -319,7 +316,6 @@
             "deck_id": "492699",
             "rank": "3-4",
             "player": "Romaric Franque",
-            "winrate": 0.8,
             "commander": [
                 "Yoshimaru, Ever Faithful",
                 "Tana, the Bloodsower"
@@ -426,7 +422,6 @@
             "deck_id": "492700",
             "rank": "5-8",
             "player": "Antoine Urset",
-            "winrate": 0.6,
             "commander": [
                 "Niv-Mizzet Reborn"
             ],
@@ -536,7 +531,6 @@
             "deck_id": "492701",
             "rank": "5-8",
             "player": "Joseph Doutreleau",
-            "winrate": 0.6,
             "commander": [
                 "Ghyrson Starn, Kelermorph"
             ],
@@ -633,7 +627,6 @@
             "deck_id": "492702",
             "rank": "5-8",
             "player": "Hugo Ben Aych",
-            "winrate": 0.6,
             "commander": [
                 "Prossh, Skyraider of Kher"
             ],
@@ -743,7 +736,6 @@
             "deck_id": "492703",
             "rank": "5-8",
             "player": "Nurbey \"agrian\" Cerkezoglu",
-            "winrate": 0.6,
             "commander": [
                 "Svyelun of Sea and Sky"
             ],

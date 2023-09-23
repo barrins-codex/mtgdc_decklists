@@ -10,7 +10,6 @@
             "deck_id": "413780",
             "rank": "3",
             "player": "Jonathan Valentin",
-            "winrate": 0.6,
             "commander": [
                 "Winota, Joiner of Forces"
             ],
@@ -105,7 +104,6 @@
             "deck_id": "413781",
             "rank": "2",
             "player": "Arthur Le Goanvic",
-            "winrate": 0.8,
             "commander": [
                 "Uro, Titan of Nature's Wrath"
             ],
@@ -200,7 +198,6 @@
             "deck_id": "413782",
             "rank": "1",
             "player": "Sébastien Flottes",
-            "winrate": 1.0,
             "commander": [
                 "Ludevic, Necro-Alchemist",
                 "Kraum, Ludevic's Opus"

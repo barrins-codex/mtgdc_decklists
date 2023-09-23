@@ -10,7 +10,6 @@
             "deck_id": "458265",
             "rank": "1",
             "player": "Amaury Thomas",
-            "winrate": 1.0,
             "commander": [
                 "Tevesh Szat, Doom of Fools",
                 "Miara, Thorn of the Glade"
@@ -89,7 +88,6 @@
             "deck_id": "458266",
             "rank": "2",
             "player": "Baptiste Berbille",
-            "winrate": 0.8,
             "commander": [
                 "Isamaru, Hound of Konda"
             ],
@@ -174,7 +172,6 @@
             "deck_id": "458267",
             "rank": "3-4",
             "player": "Nicolas Prail",
-            "winrate": 0.8,
             "commander": [
                 "Adeliz, the Cinder Wind"
             ],
@@ -273,7 +270,6 @@
             "deck_id": "458268",
             "rank": "3-4",
             "player": "Maxime Gateaud",
-            "winrate": 0.8,
             "commander": [
                 "Isamaru, Hound of Konda"
             ],
@@ -358,7 +354,6 @@
             "deck_id": "458269",
             "rank": "5-8",
             "player": "Baptiste Dumas",
-            "winrate": 0.6,
             "commander": [
                 "Atraxa, Praetors' Voice"
             ],
@@ -468,7 +463,6 @@
             "deck_id": "458270",
             "rank": "5-8",
             "player": "Sylvain Hazard",
-            "winrate": 0.6,
             "commander": [
                 "Maelstrom Wanderer"
             ],
@@ -573,7 +567,6 @@
             "deck_id": "458271",
             "rank": "5-8",
             "player": "Aranud Languet",
-            "winrate": 0.6,
             "commander": [
                 "Rafiq of the Many"
             ],
@@ -680,7 +673,6 @@
             "deck_id": "458272",
             "rank": "5-8",
             "player": "Charles Wickham",
-            "winrate": 0.6,
             "commander": [
                 "Dragonlord Ojutai"
             ],

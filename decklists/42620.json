@@ -10,7 +10,6 @@
             "deck_id": "515153",
             "rank": "1",
             "player": "Paul Combalbert",
-            "winrate": 1.0,
             "commander": [
                 "Grist, the Hunger Tide"
             ],
@@ -109,7 +108,6 @@
             "deck_id": "515154",
             "rank": "2",
             "player": "Bastian Mollogene",
-            "winrate": 0.8,
             "commander": [
                 "Wernog, Rider's Chaplain",
                 "Cecily, Haunted Mage"
@@ -219,7 +217,6 @@
             "deck_id": "515155",
             "rank": "3-4",
             "player": "Virgil Courvalet",
-            "winrate": 0.6,
             "commander": [
                 "Greasefang, Okiba Boss"
             ],
@@ -323,7 +320,6 @@
             "deck_id": "515156",
             "rank": "3-4",
             "player": "François Delboe",
-            "winrate": 0.6,
             "commander": [
                 "Saskia the Unyielding"
             ],

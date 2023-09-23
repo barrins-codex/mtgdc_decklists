@@ -10,7 +10,6 @@
             "deck_id": "265072",
             "rank": "3-4",
             "player": "Fabrice Dubois",
-            "winrate": 0.8,
             "commander": [
                 "Marath, Will of the Wild"
             ],
@@ -116,7 +115,6 @@
             "deck_id": "265073",
             "rank": "3-4",
             "player": "Jean-Frédéric Lefevre",
-            "winrate": 0.8,
             "commander": [
                 "Teferi, Temporal Archmage"
             ],
@@ -198,7 +196,6 @@
             "deck_id": "265074",
             "rank": "2",
             "player": "Florian Tachau",
-            "winrate": 0.8,
             "commander": [
                 "Yisan, the Wanderer Bard"
             ],
@@ -285,7 +282,6 @@
             "deck_id": "265075",
             "rank": "1",
             "player": "Amaury youlouse",
-            "winrate": 1.0,
             "commander": [
                 "Grenzo, Dungeon Warden"
             ],

@@ -10,7 +10,6 @@
             "deck_id": "473181",
             "rank": "1",
             "player": "Xavier Magnaye",
-            "winrate": 1.0,
             "commander": [
                 "Klothys, God of Destiny"
             ],
@@ -111,7 +110,6 @@
             "deck_id": "473182",
             "rank": "2",
             "player": "Eli Guevara",
-            "winrate": 0.8,
             "commander": [
                 "Klothys, God of Destiny"
             ],
@@ -213,7 +211,6 @@
             "deck_id": "473183",
             "rank": "3-4",
             "player": "Ste Villaraza",
-            "winrate": 0.8,
             "commander": [
                 "Shorikai, Genesis Engine"
             ],
@@ -311,7 +308,6 @@
             "deck_id": "473184",
             "rank": "3-4",
             "player": "Migs Lo",
-            "winrate": 0.8,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],

@@ -10,7 +10,6 @@
             "deck_id": "442471",
             "rank": "1",
             "player": "Lawrence Samaniego",
-            "winrate": 1.0,
             "commander": [
                 "Ragavan, Nimble Pilferer"
             ],
@@ -95,7 +94,6 @@
             "deck_id": "442472",
             "rank": "2",
             "player": "Jarbs Sahagun",
-            "winrate": 0.8,
             "commander": [
                 "Dragonlord Ojutai"
             ],
@@ -197,7 +195,6 @@
             "deck_id": "442473",
             "rank": "3-4",
             "player": "Exequiel Lim",
-            "winrate": 0.8,
             "commander": [
                 "Titania, Protector of Argoth"
             ],
@@ -293,7 +290,6 @@
             "deck_id": "442474",
             "rank": "3-4",
             "player": "Joseph Al-tawalbeh",
-            "winrate": 0.8,
             "commander": [
                 "Octavia, Living Thesis"
             ],

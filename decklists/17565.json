@@ -10,7 +10,6 @@
             "deck_id": "308823",
             "rank": "1",
             "player": "Damien Garcia",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Baral, Chief of Compliance"
             ],
@@ -85,7 +84,6 @@
             "deck_id": "308824",
             "rank": "2",
             "player": "Guillaume Picaud",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Titania, Protector of Argoth"
             ],
@@ -177,7 +175,6 @@
             "deck_id": "308825",
             "rank": "3",
             "player": "Benjamin Valay",
-            "winrate": 0.625,
             "commander": [
                 "Dragonlord Ojutai"
             ],
@@ -276,7 +273,6 @@
             "deck_id": "308826",
             "rank": "4",
             "player": "Jeremie Rosolowski",
-            "winrate": 0.625,
             "commander": [
                 "Radha, Heir to Keld"
             ],
@@ -369,7 +365,6 @@
             "deck_id": "308827",
             "rank": "5",
             "player": "Matthieu Habersetzer",
-            "winrate": 0.625,
             "commander": [
                 "Zurgo Bellstriker"
             ],
@@ -447,7 +442,6 @@
             "deck_id": "308828",
             "rank": "6",
             "player": "William Guignot",
-            "winrate": 0.625,
             "commander": [
                 "Saskia the Unyielding"
             ],
@@ -557,7 +551,6 @@
             "deck_id": "308829",
             "rank": "8",
             "player": "Christophe Guillot",
-            "winrate": 0.625,
             "commander": [
                 "Atraxa, Praetors' Voice"
             ],
@@ -667,7 +660,6 @@
             "deck_id": "308830",
             "rank": "7",
             "player": "David Daziols",
-            "winrate": 0.625,
             "commander": [
                 "Karlov of the Ghost Council"
             ],

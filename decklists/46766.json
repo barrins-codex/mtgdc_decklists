@@ -10,7 +10,6 @@
             "deck_id": "545675",
             "rank": "1",
             "player": "Jiaxuan,wu",
-            "winrate": 1.0,
             "commander": [
                 "Azusa, Lost but Seeking"
             ],
@@ -106,7 +105,6 @@
             "deck_id": "545676",
             "rank": "2",
             "player": "Haoyu,gu",
-            "winrate": 0.8,
             "commander": [
                 "Sheoldred, the Apocalypse"
             ],

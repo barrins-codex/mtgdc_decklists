@@ -10,7 +10,6 @@
             "deck_id": "437980",
             "rank": "1",
             "player": "Henryk Hecht",
-            "winrate": 1.0,
             "commander": [
                 "Kinnan, Bonder Prodigy"
             ],
@@ -112,7 +111,6 @@
             "deck_id": "437981",
             "rank": "2",
             "player": "Max Dreste",
-            "winrate": 0.8,
             "commander": [
                 "Anafenza, the Foremost"
             ],

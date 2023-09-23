@@ -10,7 +10,6 @@
             "deck_id": "486296",
             "rank": "1",
             "player": "Michal Mendl",
-            "winrate": 1.0,
             "commander": [
                 "Dennick, Pious Apprentice"
             ],
@@ -114,7 +113,6 @@
             "deck_id": "486297",
             "rank": "2",
             "player": "Dominik Repa",
-            "winrate": 0.8,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -224,7 +222,6 @@
             "deck_id": "486298",
             "rank": "3-4",
             "player": "Miloslav Ponec",
-            "winrate": 0.8,
             "commander": [
                 "Grenzo, Havoc Raiser"
             ],
@@ -310,7 +307,6 @@
             "deck_id": "486299",
             "rank": "3-4",
             "player": "Marek Voráček",
-            "winrate": 0.8,
             "commander": [
                 "Isamaru, Hound of Konda"
             ],
@@ -397,7 +393,6 @@
             "deck_id": "486300",
             "rank": "5-8",
             "player": "Petr Vodička",
-            "winrate": 0.6,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -507,7 +502,6 @@
             "deck_id": "486301",
             "rank": "5-8",
             "player": "Jan tercl",
-            "winrate": 0.6,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -591,7 +585,6 @@
             "deck_id": "486302",
             "rank": "5-8",
             "player": "Vít Albert",
-            "winrate": 0.6,
             "commander": [
                 "Grist, the Hunger Tide"
             ],
@@ -692,7 +685,6 @@
             "deck_id": "486303",
             "rank": "5-8",
             "player": "Jindřich Petr",
-            "winrate": 0.6,
             "commander": [
                 "Karlov of the Ghost Council"
             ],

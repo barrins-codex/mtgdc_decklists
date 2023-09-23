@@ -10,7 +10,6 @@
             "deck_id": "498700",
             "rank": "1",
             "player": "Jeremiah Maigue",
-            "winrate": 1.0,
             "commander": [
                 "Yoshimaru, Ever Faithful",
                 "Ludevic, Necro-Alchemist"
@@ -110,7 +109,6 @@
             "deck_id": "498701",
             "rank": "2",
             "player": "Aaron Blue Pumanes",
-            "winrate": 0.8,
             "commander": [
                 "Lurrus of the Dream-Den",
                 "Karlov of the Ghost Council"
@@ -220,7 +218,6 @@
             "deck_id": "498702",
             "rank": "3-4",
             "player": "Agustin Ireneo",
-            "winrate": 0.8,
             "commander": [
                 "Questing Beast"
             ],
@@ -311,7 +308,6 @@
             "deck_id": "498703",
             "rank": "3-4",
             "player": "Miguel Faustino",
-            "winrate": 0.8,
             "commander": [
                 "Isamaru, Hound of Konda"
             ],

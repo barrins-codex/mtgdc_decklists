@@ -10,7 +10,6 @@
             "deck_id": "510668",
             "rank": "1",
             "player": "Wei Cheng",
-            "winrate": 1.0,
             "commander": [
                 "Tivit, Seller of Secrets"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "510669",
             "rank": "2",
             "player": "Yuchen Yang",
-            "winrate": 0.8,
             "commander": [
                 "Niv-Mizzet Reborn"
             ],
@@ -230,7 +228,6 @@
             "deck_id": "510670",
             "rank": "3",
             "player": "Ziqi Xi",
-            "winrate": 0.8,
             "commander": [
                 "Golos, Tireless Pilgrim"
             ],
@@ -340,7 +337,6 @@
             "deck_id": "510671",
             "rank": "4",
             "player": "Boran Gao",
-            "winrate": 0.8,
             "commander": [
                 "Grist, the Hunger Tide"
             ],

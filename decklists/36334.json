@@ -10,7 +10,6 @@
             "deck_id": "473300",
             "rank": "1",
             "player": "Thomas Plieger",
-            "winrate": 1.0,
             "commander": [
                 "Kyodai, Soul of Kamigawa"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "473301",
             "rank": "2",
             "player": "Mathys Grapotte",
-            "winrate": 0.8,
             "commander": [
                 "Lurrus of the Dream-Den",
                 "Bjorna, Nightfall Alchemist",
@@ -231,7 +229,6 @@
             "deck_id": "473302",
             "rank": "3-4",
             "player": "Yann Rabay",
-            "winrate": 0.8,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -319,7 +316,6 @@
             "deck_id": "473303",
             "rank": "3-4",
             "player": "Ghislain Rea",
-            "winrate": 0.8,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -429,7 +425,6 @@
             "deck_id": "473304",
             "rank": "5-8",
             "player": "Adrien Auger",
-            "winrate": 0.6,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -539,7 +534,6 @@
             "deck_id": "473305",
             "rank": "5-8",
             "player": "Franck Beauvironnois",
-            "winrate": 0.6,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -625,7 +619,6 @@
             "deck_id": "473306",
             "rank": "5-8",
             "player": "Axel Autiquet",
-            "winrate": 0.6,
             "commander": [
                 "Varolz, the Scar-Striped"
             ],
@@ -727,7 +720,6 @@
             "deck_id": "473307",
             "rank": "5-8",
             "player": "Jean-loup Michel",
-            "winrate": 0.6,
             "commander": [
                 "Niv-Mizzet Reborn"
             ],

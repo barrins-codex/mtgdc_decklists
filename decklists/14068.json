@@ -10,7 +10,6 @@
             "deck_id": "283634",
             "rank": "1",
             "player": "Aradib Morgan",
-            "winrate": 1.0,
             "commander": [
                 "Narset, Enlightened Master"
             ],
@@ -117,7 +116,6 @@
             "deck_id": "283635",
             "rank": "2",
             "player": "Juliano Zimmermann",
-            "winrate": 0.8,
             "commander": [
                 "Breya, Etherium Shaper"
             ],
@@ -227,7 +225,6 @@
             "deck_id": "283636",
             "rank": "5-8",
             "player": "Pedro fongaro",
-            "winrate": 0.6,
             "commander": [
                 "Jace, Vryn's Prodigy"
             ],
@@ -307,7 +304,6 @@
             "deck_id": "283637",
             "rank": "3-4",
             "player": "Fábio Fernandes Vieira",
-            "winrate": 0.8,
             "commander": [
                 "Jenara, Asura of War"
             ],
@@ -415,7 +411,6 @@
             "deck_id": "283638",
             "rank": "3-4",
             "player": "Mayckol Fernandes",
-            "winrate": 0.8,
             "commander": [
                 "Geist of Saint Traft"
             ],
@@ -510,7 +505,6 @@
             "deck_id": "283639",
             "rank": "5-8",
             "player": "Rodolpho Meio Kilo",
-            "winrate": 0.6,
             "commander": [
                 "Drana, Liberator of Malakir"
             ],
@@ -593,7 +587,6 @@
             "deck_id": "283640",
             "rank": "5-8",
             "player": "Leonardo Tadeu Lima Almeida",
-            "winrate": 0.6,
             "commander": [
                 "Zurgo Bellstriker"
             ],
@@ -668,7 +661,6 @@
             "deck_id": "283641",
             "rank": "5-8",
             "player": "Bruno Karam",
-            "winrate": 0.6,
             "commander": [
                 "Titania, Protector of Argoth"
             ],

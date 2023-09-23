@@ -10,7 +10,6 @@
             "deck_id": "545899",
             "rank": "1",
             "player": "Deks Sienes",
-            "winrate": 1.0,
             "commander": [
                 "Aragorn, King of Gondor"
             ],
@@ -117,7 +116,6 @@
             "deck_id": "545900",
             "rank": "2",
             "player": "Eric Jay Ventilacion",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Grist, the Hunger Tide"
             ],

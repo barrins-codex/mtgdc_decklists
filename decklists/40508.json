@@ -10,7 +10,6 @@
             "deck_id": "501409",
             "rank": "1",
             "player": "Jarbs Sahagun",
-            "winrate": 1.0,
             "commander": [
                 "Elminster"
             ],
@@ -113,7 +112,6 @@
             "deck_id": "501410",
             "rank": "2",
             "player": "Van Acordon",
-            "winrate": 0.8,
             "commander": [
                 "Urza, Chief Artificer"
             ],
@@ -223,7 +221,6 @@
             "deck_id": "501411",
             "rank": "3",
             "player": "Martin Ogayon",
-            "winrate": 0.6,
             "commander": [
                 "Grist, the Hunger Tide"
             ],
@@ -325,7 +322,6 @@
             "deck_id": "501412",
             "rank": "4",
             "player": "Earl Caymo",
-            "winrate": 0.6,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],

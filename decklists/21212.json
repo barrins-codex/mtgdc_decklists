@@ -10,7 +10,6 @@
             "deck_id": "341584",
             "rank": "2",
             "player": "Denovar",
-            "winrate": 0.8,
             "commander": [
                 "Kytheon, Hero of Akros"
             ],
@@ -93,7 +92,6 @@
             "deck_id": "341585",
             "rank": "1",
             "player": "Duelcaster Mage",
-            "winrate": 1.0,
             "commander": [
                 "Kira, Great Glass-Spinner"
             ],

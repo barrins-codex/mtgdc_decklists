@@ -10,7 +10,6 @@
             "deck_id": "535547",
             "rank": "2",
             "player": "Thibault Brezinski",
-            "winrate": 0.8,
             "commander": [
                 "Bruse Tarl, Boorish Herder",
                 "Yoshimaru, Ever Faithful"
@@ -114,7 +113,6 @@
             "deck_id": "535548",
             "rank": "1",
             "player": "Alexandre Casagrande",
-            "winrate": 1.0,
             "commander": [
                 "Kenrith, the Returned King"
             ],
@@ -224,7 +222,6 @@
             "deck_id": "535549",
             "rank": "3-4",
             "player": "Fredy Tjeck",
-            "winrate": 0.8,
             "commander": [
                 "Tivit, Seller of Secrets"
             ],
@@ -334,7 +331,6 @@
             "deck_id": "535550",
             "rank": "3-4",
             "player": "Gauthier Dusolier",
-            "winrate": 0.8,
             "commander": [
                 "Kraum, Ludevic's Opus",
                 "Yoshimaru, Ever Faithful"
@@ -444,7 +440,6 @@
             "deck_id": "535551",
             "rank": "5-8",
             "player": "Quentin Mathieu",
-            "winrate": 0.6,
             "commander": [
                 "Grist, the Hunger Tide"
             ],
@@ -544,7 +539,6 @@
             "deck_id": "535552",
             "rank": "5-8",
             "player": "Raphael Clauzure",
-            "winrate": 0.6,
             "commander": [
                 "Sheoldred, the Apocalypse"
             ],
@@ -628,7 +622,6 @@
             "deck_id": "535553",
             "rank": "5-8",
             "player": "Thomas Lacoste",
-            "winrate": 0.6,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -738,7 +731,6 @@
             "deck_id": "535554",
             "rank": "5-8",
             "player": "Joël Tjeck",
-            "winrate": 0.6,
             "commander": [
                 "Atraxa, Grand Unifier"
             ],

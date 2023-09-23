@@ -10,7 +10,6 @@
             "deck_id": "428862",
             "rank": "1",
             "player": "Renjie Cheng",
-            "winrate": 1.0,
             "commander": [
                 "Dragonlord Ojutai"
             ],
@@ -109,7 +108,6 @@
             "deck_id": "428863",
             "rank": "2",
             "player": "Hang Suo",
-            "winrate": 0.8,
             "commander": [
                 "Sisay, Weatherlight Captain"
             ],
@@ -219,7 +217,6 @@
             "deck_id": "428864",
             "rank": "3-4",
             "player": "Jsd",
-            "winrate": 0.6,
             "commander": [
                 "Rograkh, Son of Rohgahh",
                 "Ardenn, Intrepid Archaeologist"
@@ -319,7 +316,6 @@
             "deck_id": "428865",
             "rank": "3-4",
             "player": "Tuolu",
-            "winrate": 0.6,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],

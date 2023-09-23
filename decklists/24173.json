@@ -10,7 +10,6 @@
             "deck_id": "368711",
             "rank": "1",
             "player": "Julian Heßling",
-            "winrate": 1.0,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -92,7 +91,6 @@
             "deck_id": "368712",
             "rank": "2",
             "player": "Kevin Hucklenbroich",
-            "winrate": 0.8,
             "commander": [
                 "Hapatra, Vizier of Poisons"
             ],

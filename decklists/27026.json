@@ -10,7 +10,6 @@
             "deck_id": "411772",
             "rank": "3-4",
             "player": "Matthias Muller",
-            "winrate": 0.8,
             "commander": [
                 "Kess, Dissident Mage"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "411773",
             "rank": "1",
             "player": "Ephraïm Zunino",
-            "winrate": 1.0,
             "commander": [
                 "Kess, Dissident Mage"
             ],
@@ -230,7 +228,6 @@
             "deck_id": "411774",
             "rank": "2",
             "player": "Michel Jean-loup",
-            "winrate": 0.8,
             "commander": [
                 "Niv-Mizzet Reborn"
             ],
@@ -340,7 +337,6 @@
             "deck_id": "411775",
             "rank": "3-4",
             "player": "Carlos Moreno",
-            "winrate": 0.8,
             "commander": [
                 "Narset, Enlightened Master"
             ],

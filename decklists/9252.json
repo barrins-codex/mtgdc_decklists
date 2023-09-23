@@ -10,7 +10,6 @@
             "deck_id": "253145",
             "rank": "1",
             "player": "Guillaume Louvel",
-            "winrate": 1.0,
             "commander": [
                 "Skullbriar, the Walking Grave"
             ],
@@ -113,7 +112,6 @@
             "deck_id": "253146",
             "rank": "2",
             "player": "Marc Chassagne",
-            "winrate": 0.8,
             "commander": [
                 "Anafenza, the Foremost"
             ],

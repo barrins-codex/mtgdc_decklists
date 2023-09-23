@@ -10,7 +10,6 @@
             "deck_id": "464778",
             "rank": "1",
             "player": "Boran Gao",
-            "winrate": 1.0,
             "commander": [
                 "Grist, the Hunger Tide"
             ],
@@ -113,7 +112,6 @@
             "deck_id": "464779",
             "rank": "2",
             "player": "Hongchen Zhang",
-            "winrate": 0.8,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],

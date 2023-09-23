@@ -10,7 +10,6 @@
             "deck_id": "465110",
             "rank": "1",
             "player": "Julien Bihet",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Shorikai, Genesis Engine"
             ],
@@ -110,7 +109,6 @@
             "deck_id": "465111",
             "rank": "2",
             "player": "Guillaume Cailliez",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Jegantha, the Wellspring",
                 "Niv-Mizzet Reborn"
@@ -221,7 +219,6 @@
             "deck_id": "465112",
             "rank": "3-4",
             "player": "Felix Calais",
-            "winrate": 0.625,
             "commander": [
                 "The Gitrog Monster"
             ],
@@ -321,7 +318,6 @@
             "deck_id": "465113",
             "rank": "3-4",
             "player": "Marien Couvertier",
-            "winrate": 0.625,
             "commander": [
                 "Dennick, Pious Apprentice"
             ],
@@ -423,7 +419,6 @@
             "deck_id": "465114",
             "rank": "5-8",
             "player": "Maxime Morillon",
-            "winrate": 0.625,
             "commander": [
                 "Dennick, Pious Apprentice"
             ],
@@ -525,7 +520,6 @@
             "deck_id": "465115",
             "rank": "5-8",
             "player": "Quentin Bobota",
-            "winrate": 0.625,
             "commander": [
                 "Hogaak, Arisen Necropolis"
             ],
@@ -635,7 +629,6 @@
             "deck_id": "465116",
             "rank": "5-8",
             "player": "Jerome Ceaux",
-            "winrate": 0.625,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -722,7 +715,6 @@
             "deck_id": "465117",
             "rank": "5-8",
             "player": "Charles Gautier",
-            "winrate": 0.625,
             "commander": [
                 "Hogaak, Arisen Necropolis"
             ],

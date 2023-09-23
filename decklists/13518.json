@@ -10,7 +10,6 @@
             "deck_id": "279517",
             "rank": "3-4",
             "player": "Adelaide de Gennaro",
-            "winrate": 0.8,
             "commander": [
                 "Anafenza, the Foremost"
             ],
@@ -117,7 +116,6 @@
             "deck_id": "279518",
             "rank": "3-4",
             "player": "Carlo Gadaleta",
-            "winrate": 0.8,
             "commander": [
                 "Teferi, Temporal Archmage"
             ],
@@ -200,7 +198,6 @@
             "deck_id": "279519",
             "rank": "2",
             "player": "Daniele Caldarola",
-            "winrate": 0.8,
             "commander": [
                 "Meren of Clan Nel Toth"
             ],
@@ -302,7 +299,6 @@
             "deck_id": "279520",
             "rank": "1",
             "player": "Gianluca Soriano",
-            "winrate": 1.0,
             "commander": [
                 "Narset, Enlightened Master"
             ],

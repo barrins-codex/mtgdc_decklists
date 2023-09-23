@@ -10,7 +10,6 @@
             "deck_id": "488236",
             "rank": "1",
             "player": "Jb Petiti",
-            "winrate": 1.0,
             "commander": [
                 "Cultist of the Absolute",
                 "Gut, True Soul Zealot"
@@ -113,7 +112,6 @@
             "deck_id": "488237",
             "rank": "2",
             "player": "Pl Julewitz",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Rocco, Cabaretti Caterer"
             ],

@@ -10,7 +10,6 @@
             "deck_id": "536241",
             "rank": "1",
             "player": "Bruno",
-            "winrate": 1.0,
             "commander": [
                 "Ertai Resurrected"
             ],
@@ -110,7 +109,6 @@
             "deck_id": "536242",
             "rank": "2",
             "player": "Thiago",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Yoshimaru, Ever Faithful",
                 "Tana, the Bloodsower"

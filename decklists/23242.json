@@ -10,7 +10,6 @@
             "deck_id": "359879",
             "rank": "2",
             "player": "Federo",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Tajic, Legion's Edge"
             ],
@@ -105,7 +104,6 @@
             "deck_id": "359880",
             "rank": "1",
             "player": "Roman",
-            "winrate": 1.0,
             "commander": [
                 "Silas Renn, Seeker Adept",
                 "Akiri, Line-Slinger"

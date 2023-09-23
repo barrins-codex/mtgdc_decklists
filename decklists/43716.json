@@ -10,7 +10,6 @@
             "deck_id": "522780",
             "rank": "1",
             "player": "Onesauk",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Hogaak, Arisen Necropolis"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "522781",
             "rank": "2",
             "player": "Tartare",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Dihada, Binder of Wills"
             ],
@@ -230,7 +228,6 @@
             "deck_id": "522782",
             "rank": "3-4",
             "player": "Spigushe",
-            "winrate": 0.625,
             "commander": [
                 "Kess, Dissident Mage"
             ],
@@ -336,7 +333,6 @@
             "deck_id": "522783",
             "rank": "3-4",
             "player": "Bigmalyon",
-            "winrate": 0.625,
             "commander": [
                 "Dihada, Binder of Wills"
             ],
@@ -446,7 +442,6 @@
             "deck_id": "522784",
             "rank": "5-8",
             "player": "Threemm",
-            "winrate": 0.625,
             "commander": [
                 "Leovold, Emissary of Trest"
             ],
@@ -555,7 +550,6 @@
             "deck_id": "522785",
             "rank": "5-8",
             "player": "Abibou",
-            "winrate": 0.625,
             "commander": [
                 "Kess, Dissident Mage"
             ],

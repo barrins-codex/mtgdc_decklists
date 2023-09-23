@@ -10,7 +10,6 @@
             "deck_id": "501557",
             "rank": "1",
             "player": "John Wang",
-            "winrate": 1.0,
             "commander": [
                 "Saskia the Unyielding"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "501558",
             "rank": "2",
             "player": "Yuchen Yang",
-            "winrate": 0.8,
             "commander": [
                 "Niv-Mizzet Reborn"
             ],
@@ -230,7 +228,6 @@
             "deck_id": "501559",
             "rank": "3",
             "player": "Ruiyuan Shao",
-            "winrate": 0.8,
             "commander": [
                 "Dihada, Binder of Wills"
             ],
@@ -340,7 +337,6 @@
             "deck_id": "501560",
             "rank": "4",
             "player": "Xu Han",
-            "winrate": 0.6,
             "commander": [
                 "Niv-Mizzet Reborn"
             ],

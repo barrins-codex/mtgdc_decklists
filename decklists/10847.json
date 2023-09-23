@@ -10,7 +10,6 @@
             "deck_id": "261976",
             "rank": "3-4",
             "player": "Wes Drbeetus Herr",
-            "winrate": 0.8,
             "commander": [
                 "Jace, Vryn's Prodigy"
             ],
@@ -92,7 +91,6 @@
             "deck_id": "261977",
             "rank": "3-4",
             "player": "Tim Carlson",
-            "winrate": 0.8,
             "commander": [
                 "Narset, Enlightened Master"
             ],
@@ -197,7 +195,6 @@
             "deck_id": "261978",
             "rank": "2",
             "player": "Chris J. Williams",
-            "winrate": 0.8,
             "commander": [
                 "Merieke Ri Berit"
             ],
@@ -298,7 +295,6 @@
             "deck_id": "261979",
             "rank": "1",
             "player": "Gabriel Wayne Norment",
-            "winrate": 1.0,
             "commander": [
                 "Narset, Enlightened Master"
             ],

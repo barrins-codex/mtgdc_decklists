@@ -10,7 +10,6 @@
             "deck_id": "464544",
             "rank": "1",
             "player": "Mathieu Laurent",
-            "winrate": 1.0,
             "commander": [
                 "Grist, the Hunger Tide"
             ],
@@ -108,7 +107,6 @@
             "deck_id": "464545",
             "rank": "2",
             "player": "Alexandre Chevret",
-            "winrate": 0.8,
             "commander": [
                 "Klothys, God of Destiny"
             ],

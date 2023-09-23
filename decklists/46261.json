@@ -10,7 +10,6 @@
             "deck_id": "541686",
             "rank": "1",
             "player": "Jordan N",
-            "winrate": 0.875,
             "commander": [
                 "Feldon, Ronom Excavator"
             ],
@@ -95,7 +94,6 @@
             "deck_id": "541687",
             "rank": "2",
             "player": "Arnaud C",
-            "winrate": 0.75,
             "commander": [
                 "Tivit, Seller of Secrets"
             ],
@@ -205,7 +203,6 @@
             "deck_id": "541688",
             "rank": "3-4",
             "player": "Olivier B",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -315,7 +312,6 @@
             "deck_id": "541689",
             "rank": "3-4",
             "player": "Ewald C",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Maelstrom Wanderer"
             ],
@@ -419,7 +415,6 @@
             "deck_id": "541690",
             "rank": "5-8",
             "player": "Arnaud V",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Skrelv, Defector Mite"
             ],
@@ -510,7 +505,6 @@
             "deck_id": "541691",
             "rank": "5-8",
             "player": "Guillaume O",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Tevesh Szat, Doom of Fools",
                 "Sidar Kondo of Jamuraa"
@@ -618,7 +612,6 @@
             "deck_id": "541692",
             "rank": "5-8",
             "player": "Nico W",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Doran, the Siege Tower"
             ],
@@ -728,7 +721,6 @@
             "deck_id": "541693",
             "rank": "5-8",
             "player": "Florian T",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Kroxa, Titan of Death's Hunger"
             ],

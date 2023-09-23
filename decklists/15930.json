@@ -10,7 +10,6 @@
             "deck_id": "297969",
             "rank": "5-8",
             "player": "Vincent Taillasson",
-            "winrate": 0.625,
             "commander": [
                 "Silas Renn, Seeker Adept",
                 "Bruse Tarl, Boorish Herder"
@@ -119,7 +118,6 @@
             "deck_id": "297970",
             "rank": "5-8",
             "player": "Maxime \"Makexime\" Lemoine",
-            "winrate": 0.625,
             "commander": [
                 "Zurgo Bellstriker"
             ],
@@ -193,7 +191,6 @@
             "deck_id": "297971",
             "rank": "5-8",
             "player": "Cesidio Vischi",
-            "winrate": 0.625,
             "commander": [
                 "Daretti, Scrap Savant"
             ],
@@ -276,7 +273,6 @@
             "deck_id": "297972",
             "rank": "5-8",
             "player": "Maxime Damman",
-            "winrate": 0.625,
             "commander": [
                 "Queen Marchesa"
             ],
@@ -386,7 +382,6 @@
             "deck_id": "297973",
             "rank": "3-4",
             "player": "Jean Beaumont",
-            "winrate": 0.625,
             "commander": [
                 "Kefnet the Mindful"
             ],
@@ -464,7 +459,6 @@
             "deck_id": "297974",
             "rank": "3-4",
             "player": "Justo Chacon",
-            "winrate": 0.625,
             "commander": [
                 "Venser, Shaper Savant"
             ],
@@ -560,7 +554,6 @@
             "deck_id": "297975",
             "rank": "2",
             "player": "Moondust",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Thrasios, Triton Hero",
                 "Tymna the Weaver"
@@ -665,7 +658,6 @@
             "deck_id": "297976",
             "rank": "1",
             "player": "Noham Maubert",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Karlov of the Ghost Council"
             ],

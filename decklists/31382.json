@@ -10,7 +10,6 @@
             "deck_id": "443427",
             "rank": "1",
             "player": "Felipe Tavares",
-            "winrate": 1.0,
             "commander": [
                 "Yawgmoth, Thran Physician"
             ],
@@ -94,7 +93,6 @@
             "deck_id": "443428",
             "rank": "2",
             "player": "Carlos Pires",
-            "winrate": 0.8,
             "commander": [
                 "Niv-Mizzet, Parun"
             ],
@@ -180,7 +178,6 @@
             "deck_id": "443429",
             "rank": "3-4",
             "player": "Pablo Lima",
-            "winrate": 0.6,
             "commander": [
                 "Ragavan, Nimble Pilferer"
             ],
@@ -261,7 +258,6 @@
             "deck_id": "443430",
             "rank": "3-4",
             "player": "Artur Pacheco",
-            "winrate": 0.6,
             "commander": [
                 "Winota, Joiner of Forces"
             ],

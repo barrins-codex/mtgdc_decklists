@@ -10,7 +10,6 @@
             "deck_id": "277941",
             "rank": "1",
             "player": "Manolo Castro",
-            "winrate": 1.0,
             "commander": [
                 "Titania, Protector of Argoth"
             ],
@@ -100,7 +99,6 @@
             "deck_id": "277942",
             "rank": "2",
             "player": "Julien \"Sonte\" Sori",
-            "winrate": 0.8,
             "commander": [
                 "Jenara, Asura of War"
             ],

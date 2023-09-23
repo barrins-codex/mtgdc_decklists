@@ -10,7 +10,6 @@
             "deck_id": "546795",
             "rank": "1",
             "player": "Rafael Batista",
-            "winrate": 1.0,
             "commander": [
                 "Soul of Windgrace"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "546796",
             "rank": "2",
             "player": "Antonio Carlos",
-            "winrate": 0.8,
             "commander": [
                 "Gut, True Soul Zealot",
                 "Inspiring Leader"
@@ -214,7 +212,6 @@
             "deck_id": "546797",
             "rank": "3",
             "player": "Mykael Lundgren",
-            "winrate": 0.6,
             "commander": [
                 "Aragorn, King of Gondor"
             ],

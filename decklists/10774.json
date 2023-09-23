@@ -10,7 +10,6 @@
             "deck_id": "261633",
             "rank": "5-8",
             "player": "Kaourintin Le Guiban",
-            "winrate": 0.75,
             "commander": [
                 "Narset, Enlightened Master"
             ],
@@ -116,7 +115,6 @@
             "deck_id": "261634",
             "rank": "5-8",
             "player": "Adrien \"Soulless Oni\" Demoget",
-            "winrate": 0.75,
             "commander": [
                 "Grenzo, Dungeon Warden"
             ],
@@ -212,7 +210,6 @@
             "deck_id": "261635",
             "rank": "5-8",
             "player": "Alexis Houry",
-            "winrate": 0.75,
             "commander": [
                 "Marath, Will of the Wild"
             ],
@@ -224,7 +221,6 @@
             "deck_id": "261636",
             "rank": "5-8",
             "player": "Gaël \"Gaviro\" Maloumian",
-            "winrate": 0.75,
             "commander": [
                 "Child of Alara"
             ],
@@ -334,7 +330,6 @@
             "deck_id": "261637",
             "rank": "3-4",
             "player": "Frédéric Vaz",
-            "winrate": 0.75,
             "commander": [
                 "Child of Alara"
             ],
@@ -444,7 +439,6 @@
             "deck_id": "261638",
             "rank": "1",
             "player": "Alexander \"newtraderdu78\" Loskoutoff",
-            "winrate": 0.8888888888888888,
             "commander": [
                 "Jenara, Asura of War"
             ],
@@ -552,7 +546,6 @@
             "deck_id": "261639",
             "rank": "2",
             "player": "Julien \"Lyserg\" Henry",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Yisan, the Wanderer Bard"
             ],
@@ -639,7 +632,6 @@
             "deck_id": "261640",
             "rank": "3-4",
             "player": "Vivien \"Soratami\" Macé",
-            "winrate": 0.75,
             "commander": [
                 "Yisan, the Wanderer Bard"
             ],

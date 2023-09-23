@@ -10,7 +10,6 @@
             "deck_id": "267068",
             "rank": "2",
             "player": "Jean Baptiste Gagnepain",
-            "winrate": 0.8,
             "commander": [
                 "Tasigur, the Golden Fang"
             ],
@@ -116,7 +115,6 @@
             "deck_id": "267069",
             "rank": "1",
             "player": "Moncana",
-            "winrate": 1.0,
             "commander": [
                 "Sidisi, Undead Vizier"
             ],

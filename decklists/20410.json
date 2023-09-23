@@ -10,7 +10,6 @@
             "deck_id": "333673",
             "rank": "2",
             "player": "Fabien Crevesy",
-            "winrate": 0.8,
             "commander": [
                 "Surrak Dragonclaw"
             ],
@@ -100,7 +99,6 @@
             "deck_id": "333674",
             "rank": "1",
             "player": "Arnaud Niez",
-            "winrate": 1.0,
             "commander": [
                 "Phenax, God of Deception"
             ],

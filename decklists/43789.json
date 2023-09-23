@@ -10,7 +10,6 @@
             "deck_id": "523273",
             "rank": "1",
             "player": "Matheus Jardim",
-            "winrate": 1.0,
             "commander": [
                 "Arcum Dagsson"
             ],
@@ -94,7 +93,6 @@
             "deck_id": "523274",
             "rank": "2",
             "player": "Victor Marques",
-            "winrate": 0.8,
             "commander": [
                 "Dihada, Binder of Wills"
             ],
@@ -204,7 +202,6 @@
             "deck_id": "523275",
             "rank": "3",
             "player": "Pedro Bianchi",
-            "winrate": 0.8,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -310,7 +307,6 @@
             "deck_id": "523276",
             "rank": "4",
             "player": "Cauê",
-            "winrate": 0.6,
             "commander": [
                 "Hogaak, Arisen Necropolis"
             ],

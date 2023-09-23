@@ -10,7 +10,6 @@
             "deck_id": "432605",
             "rank": "1",
             "player": "Reuben Ferrer",
-            "winrate": 1.0,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "432606",
             "rank": "2",
             "player": "Wilmer Velches",
-            "winrate": 0.8,
             "commander": [
                 "Prossh, Skyraider of Kher"
             ],
@@ -225,7 +223,6 @@
             "deck_id": "432607",
             "rank": "3-4",
             "player": "Timothy Agustin",
-            "winrate": 0.6,
             "commander": [
                 "Ludevic, Necro-Alchemist",
                 "Malcolm, Keen-Eyed Navigator"
@@ -323,7 +320,6 @@
             "deck_id": "432608",
             "rank": "3-4",
             "player": "Jan Hortaleza",
-            "winrate": 0.6,
             "commander": [
                 "Magda, Brazen Outlaw"
             ],

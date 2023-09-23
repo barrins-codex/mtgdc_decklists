@@ -10,7 +10,6 @@
             "deck_id": "318049",
             "rank": "3-4",
             "player": "Oliver Holka",
-            "winrate": 0.8,
             "commander": [
                 "Olivia, Mobilized for War"
             ],
@@ -98,7 +97,6 @@
             "deck_id": "318050",
             "rank": "3-4",
             "player": "Ralph \"ralle\" Esser",
-            "winrate": 0.8,
             "commander": [
                 "Baral, Chief of Compliance"
             ],
@@ -174,7 +172,6 @@
             "deck_id": "318051",
             "rank": "2",
             "player": "Sebastian Haines",
-            "winrate": 0.8,
             "commander": [
                 "Leovold, Emissary of Trest"
             ],
@@ -284,7 +281,6 @@
             "deck_id": "318052",
             "rank": "1",
             "player": "Lukas Kamps",
-            "winrate": 1.0,
             "commander": [
                 "Zurgo Bellstriker"
             ],

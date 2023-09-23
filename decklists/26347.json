@@ -10,7 +10,6 @@
             "deck_id": "400991",
             "rank": "3-4",
             "player": "Lucas Dias",
-            "winrate": 0.8,
             "commander": [
                 "Hogaak, Arisen Necropolis"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "400992",
             "rank": "3-4",
             "player": "Luiz Duarte",
-            "winrate": 0.8,
             "commander": [
                 "Kraum, Ludevic's Opus",
                 "Ludevic, Necro-Alchemist"
@@ -210,7 +208,6 @@
             "deck_id": "400993",
             "rank": "2",
             "player": "Rafael Ozores",
-            "winrate": 0.8,
             "commander": [
                 "Hogaak, Arisen Necropolis"
             ],
@@ -314,7 +311,6 @@
             "deck_id": "400994",
             "rank": "1",
             "player": "Victor Burghi",
-            "winrate": 1.0,
             "commander": [
                 "Syr Faren, the Hengehammer"
             ],

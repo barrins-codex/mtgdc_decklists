@@ -10,7 +10,6 @@
             "deck_id": "262385",
             "rank": "3-4",
             "player": "RJ Espiritu",
-            "winrate": 0.8,
             "commander": [
                 "Sidisi, Undead Vizier"
             ],
@@ -88,7 +87,6 @@
             "deck_id": "262386",
             "rank": "3-4",
             "player": "Edwin Jocson",
-            "winrate": 0.8,
             "commander": [
                 "Sidisi, Undead Vizier"
             ],
@@ -173,7 +171,6 @@
             "deck_id": "262387",
             "rank": "5-8",
             "player": "Chester Bausa",
-            "winrate": 0.6,
             "commander": [
                 "Sidisi, Undead Vizier"
             ],
@@ -251,7 +248,6 @@
             "deck_id": "262388",
             "rank": "5-8",
             "player": "Jose Peter Ang III",
-            "winrate": 0.6,
             "commander": [
                 "Jenara, Asura of War"
             ],
@@ -359,7 +355,6 @@
             "deck_id": "262389",
             "rank": "5-8",
             "player": "Teo Diaz",
-            "winrate": 0.6,
             "commander": [
                 "Animar, Soul of Elements"
             ],
@@ -466,7 +461,6 @@
             "deck_id": "262390",
             "rank": "5-8",
             "player": "Alex Pe",
-            "winrate": 0.6,
             "commander": [
                 "Yisan, the Wanderer Bard"
             ],
@@ -550,7 +544,6 @@
             "deck_id": "262391",
             "rank": "1",
             "player": "Ronald Fong",
-            "winrate": 1.0,
             "commander": [
                 "Tasigur, the Golden Fang"
             ],
@@ -660,7 +653,6 @@
             "deck_id": "262392",
             "rank": "2",
             "player": "Gerry Ramos",
-            "winrate": 0.8,
             "commander": [
                 "Tasigur, the Golden Fang"
             ],

@@ -10,7 +10,6 @@
             "deck_id": "414132",
             "rank": "2",
             "player": "Julien De Lardemelle",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Leovold, Emissary of Trest"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "414133",
             "rank": "1",
             "player": "Damien 'eventwin' Jantzen",
-            "winrate": 1.0,
             "commander": [
                 "Winota, Joiner of Forces"
             ],

@@ -10,7 +10,6 @@
             "deck_id": "275159",
             "rank": "4",
             "player": "Yang Jinlin",
-            "winrate": 0.6,
             "commander": [
                 "Jenara, Asura of War"
             ],
@@ -117,7 +116,6 @@
             "deck_id": "275160",
             "rank": "3",
             "player": "Yu Jiaqi",
-            "winrate": 0.8,
             "commander": [
                 "Animar, Soul of Elements"
             ],
@@ -224,7 +222,6 @@
             "deck_id": "275161",
             "rank": "1",
             "player": "An Ran",
-            "winrate": 1.0,
             "commander": [
                 "Surrak Dragonclaw"
             ],
@@ -329,7 +326,6 @@
             "deck_id": "275162",
             "rank": "2",
             "player": "Han Xu",
-            "winrate": 0.8,
             "commander": [
                 "Jenara, Asura of War"
             ],

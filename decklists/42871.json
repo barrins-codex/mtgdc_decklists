@@ -10,7 +10,6 @@
             "deck_id": "516853",
             "rank": "1",
             "player": "Gustavo (notcontroldeck)",
-            "winrate": 1.0,
             "commander": [
                 "Ghyrson Starn, Kelermorph"
             ],
@@ -110,7 +109,6 @@
             "deck_id": "516854",
             "rank": "2",
             "player": "Roman1447",
-            "winrate": 0.8,
             "commander": [
                 "Tivit, Seller of Secrets"
             ],
@@ -220,7 +218,6 @@
             "deck_id": "516855",
             "rank": "3-4",
             "player": "Marcos (benama9",
-            "winrate": 0.8,
             "commander": [
                 "Tivit, Seller of Secrets"
             ],
@@ -330,7 +327,6 @@
             "deck_id": "516856",
             "rank": "3-4",
             "player": "Ricardo",
-            "winrate": 0.8,
             "commander": [
                 "Niv-Mizzet Reborn"
             ],
@@ -440,7 +436,6 @@
             "deck_id": "516857",
             "rank": "5-8",
             "player": "Hector (s1l0s)",
-            "winrate": 0.6,
             "commander": [
                 "Ezuri, Claw of Progress"
             ],
@@ -542,7 +537,6 @@
             "deck_id": "516858",
             "rank": "5-8",
             "player": "Jerome_34000",
-            "winrate": 0.6,
             "commander": [
                 "Tana, the Bloodsower",
                 "Yoshimaru, Ever Faithful"
@@ -651,7 +645,6 @@
             "deck_id": "516859",
             "rank": "5-8",
             "player": "David (vid2k)",
-            "winrate": 0.6,
             "commander": [
                 "Hogaak, Arisen Necropolis"
             ],
@@ -761,7 +754,6 @@
             "deck_id": "516860",
             "rank": "5-8",
             "player": "Jordi B. (symb0lic)",
-            "winrate": 0.6,
             "commander": [
                 "Leovold, Emissary of Trest"
             ],

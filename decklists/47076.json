@@ -10,7 +10,6 @@
             "deck_id": "547896",
             "rank": "1",
             "player": "Benj David",
-            "winrate": 1.0,
             "commander": [
                 "Tivit, Seller of Secrets"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "547897",
             "rank": "2",
             "player": "Van Acordon",
-            "winrate": 0.8,
             "commander": [
                 "Aragorn, King of Gondor"
             ],
@@ -228,7 +226,6 @@
             "deck_id": "547898",
             "rank": "3",
             "player": "Nhald Adia",
-            "winrate": 0.8,
             "commander": [
                 "Feldon, Ronom Excavator"
             ],
@@ -319,7 +316,6 @@
             "deck_id": "547899",
             "rank": "4",
             "player": "Franklin Aguba",
-            "winrate": 0.6,
             "commander": [
                 "Wernog, Rider's Chaplain",
                 "Cecily, Haunted Mage"

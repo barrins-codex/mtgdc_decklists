@@ -10,7 +10,6 @@
             "deck_id": "533141",
             "rank": "1",
             "player": "Alexandre Martial",
-            "winrate": 1.0,
             "commander": [
                 "Old Rutstein"
             ],
@@ -106,7 +105,6 @@
             "deck_id": "533142",
             "rank": "2",
             "player": "Florian Domps",
-            "winrate": 0.8,
             "commander": [
                 "Ghyrson Starn, Kelermorph"
             ],
@@ -204,7 +202,6 @@
             "deck_id": "533143",
             "rank": "3-4",
             "player": "Iron Syn",
-            "winrate": 0.8,
             "commander": [
                 "Lagrella, the Magpie"
             ],
@@ -310,7 +307,6 @@
             "deck_id": "533144",
             "rank": "3-4",
             "player": "Ali Fellash",
-            "winrate": 0.8,
             "commander": [
                 "Yoshimaru, Ever Faithful",
                 "Tana, the Bloodsower"
@@ -413,7 +409,6 @@
             "deck_id": "533146",
             "rank": "5-8",
             "player": "Luc Coquillot",
-            "winrate": 0.8,
             "commander": [
                 "Prossh, Skyraider of Kher"
             ],
@@ -523,7 +518,6 @@
             "deck_id": "533147",
             "rank": "5-8",
             "player": "Jb Sapin",
-            "winrate": 0.8,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],

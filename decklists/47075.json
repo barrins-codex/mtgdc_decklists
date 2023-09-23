@@ -10,7 +10,6 @@
             "deck_id": "547888",
             "rank": "1",
             "player": "Patrice Dijoux",
-            "winrate": 1.0,
             "commander": [
                 "Kinnan, Bonder Prodigy"
             ],
@@ -110,7 +109,6 @@
             "deck_id": "547889",
             "rank": "2",
             "player": "Baptiste Bernard",
-            "winrate": 0.8,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -220,7 +218,6 @@
             "deck_id": "547890",
             "rank": "3",
             "player": "David \"bill\" Rivière",
-            "winrate": 0.8,
             "commander": [
                 "Judith, the Scourge Diva"
             ],
@@ -326,7 +323,6 @@
             "deck_id": "547891",
             "rank": "4",
             "player": "Damien Concalves",
-            "winrate": 0.8,
             "commander": [
                 "Atraxa, Praetors' Voice"
             ],
@@ -435,7 +431,6 @@
             "deck_id": "547892",
             "rank": "5",
             "player": "Cyril Fulbert",
-            "winrate": 0.6,
             "commander": [
                 "Animar, Soul of Elements"
             ],
@@ -542,7 +537,6 @@
             "deck_id": "547893",
             "rank": "6",
             "player": "Anthony \"avyc\" Vitry",
-            "winrate": 0.6,
             "commander": [
                 "Feywild Visitor",
                 "Wilson, Refined Grizzly"
@@ -646,7 +640,6 @@
             "deck_id": "547894",
             "rank": "7",
             "player": "Michaël \"joker\" Gence",
-            "winrate": 0.6,
             "commander": [
                 "Grist, the Hunger Tide"
             ],
@@ -749,7 +742,6 @@
             "deck_id": "547895",
             "rank": "8",
             "player": "Julien Normand",
-            "winrate": 0.6,
             "commander": [
                 "Bruse Tarl, Boorish Herder",
                 "Yoshimaru, Ever Faithful"

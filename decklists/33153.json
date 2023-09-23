@@ -10,7 +10,6 @@
             "deck_id": "453301",
             "rank": "1",
             "player": "Stefan Grijincu",
-            "winrate": 0.9,
             "commander": [
                 "Dragonlord Ojutai"
             ],
@@ -107,7 +106,6 @@
             "deck_id": "453302",
             "rank": "2",
             "player": "Petr Tejnský",
-            "winrate": 0.8,
             "commander": [
                 "Sythis, Harvest's Hand"
             ],
@@ -210,7 +208,6 @@
             "deck_id": "453303",
             "rank": "3-4",
             "player": "Ondřej Palička",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Adeliz, the Cinder Wind"
             ],
@@ -310,7 +307,6 @@
             "deck_id": "453304",
             "rank": "3-4",
             "player": "Michal Hřebejk",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Hogaak, Arisen Necropolis"
             ],
@@ -415,7 +411,6 @@
             "deck_id": "453305",
             "rank": "5-8",
             "player": "Matej Benedikovič",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Adeliz, the Cinder Wind"
             ],
@@ -511,7 +506,6 @@
             "deck_id": "453306",
             "rank": "5-8",
             "player": "David Tran",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Esika, God of the Tree"
             ],
@@ -620,7 +614,6 @@
             "deck_id": "453307",
             "rank": "5-8",
             "player": "Ondřej Hrubý",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Gallia of the Endless Dance"
             ],
@@ -722,7 +715,6 @@
             "deck_id": "453308",
             "rank": "5-8",
             "player": "Jan Lamper",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],

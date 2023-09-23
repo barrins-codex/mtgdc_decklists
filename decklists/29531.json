@@ -10,7 +10,6 @@
             "deck_id": "431853",
             "rank": "1",
             "player": "Reuben Ferrer",
-            "winrate": 1.0,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "431854",
             "rank": "2",
             "player": "Timothy Agustin",
-            "winrate": 0.8,
             "commander": [
                 "Malcolm, Keen-Eyed Navigator",
                 "Ludevic, Necro-Alchemist"
@@ -214,7 +212,6 @@
             "deck_id": "431855",
             "rank": "3-4",
             "player": "Allan Mariano",
-            "winrate": 0.6,
             "commander": [
                 "Winota, Joiner of Forces"
             ],
@@ -312,7 +309,6 @@
             "deck_id": "431856",
             "rank": "3-4",
             "player": "Cilbert Corpuz",
-            "winrate": 0.6,
             "commander": [
                 "Winota, Joiner of Forces"
             ],

@@ -10,7 +10,6 @@
             "deck_id": "524408",
             "rank": "1",
             "player": "Maximilien Kalil",
-            "winrate": 0.8888888888888888,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "524409",
             "rank": "2",
             "player": "Antoine Szabo",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Elminster"
             ],
@@ -222,7 +220,6 @@
             "deck_id": "524410",
             "rank": "3-4",
             "player": "Jules \"askeladden\" Lestienne",
-            "winrate": 0.75,
             "commander": [
                 "Rona, Herald of Invasion"
             ],
@@ -323,7 +320,6 @@
             "deck_id": "524411",
             "rank": "3-4",
             "player": "Thomas Le Goff",
-            "winrate": 0.75,
             "commander": [
                 "Hogaak, Arisen Necropolis"
             ],
@@ -433,7 +429,6 @@
             "deck_id": "524412",
             "rank": "5-8",
             "player": "Bihet Julien",
-            "winrate": 0.75,
             "commander": [
                 "Dihada, Binder of Wills"
             ],
@@ -543,7 +538,6 @@
             "deck_id": "524413",
             "rank": "5-8",
             "player": "Gael Huber",
-            "winrate": 0.75,
             "commander": [
                 "Rona, Herald of Invasion"
             ],
@@ -643,7 +637,6 @@
             "deck_id": "524414",
             "rank": "5-8",
             "player": "Julien « Woobzy » Boulanger",
-            "winrate": 0.75,
             "commander": [
                 "Hogaak, Arisen Necropolis"
             ],
@@ -753,7 +746,6 @@
             "deck_id": "524415",
             "rank": "5-8",
             "player": "Sol Epsia",
-            "winrate": 0.75,
             "commander": [
                 "Cecily, Haunted Mage",
                 "Wernog, Rider's Chaplain"

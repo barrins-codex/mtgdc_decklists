@@ -10,7 +10,6 @@
             "deck_id": "269155",
             "rank": "2",
             "player": "François Adam",
-            "winrate": 0.8,
             "commander": [
                 "Kytheon, Hero of Akros"
             ],
@@ -91,7 +90,6 @@
             "deck_id": "269157",
             "rank": "1",
             "player": "Alexandre Bigeat",
-            "winrate": 1.0,
             "commander": [
                 "Nissa, Vastwood Seer"
             ],

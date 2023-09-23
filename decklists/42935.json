@@ -10,7 +10,6 @@
             "deck_id": "517307",
             "rank": "1",
             "player": "Thomas Ricci",
-            "winrate": 1.0,
             "commander": [
                 "Kraum, Ludevic's Opus",
                 "Yoshimaru, Ever Faithful"
@@ -120,7 +119,6 @@
             "deck_id": "517308",
             "rank": "2",
             "player": "Pierre-louis Biet",
-            "winrate": 0.8,
             "commander": [
                 "Atraxa, Grand Unifier"
             ],
@@ -230,7 +228,6 @@
             "deck_id": "517309",
             "rank": "3-4",
             "player": "Brice Lamar",
-            "winrate": 0.8,
             "commander": [
                 "Dihada, Binder of Wills"
             ],
@@ -340,7 +337,6 @@
             "deck_id": "517310",
             "rank": "3-4",
             "player": "Francis Figue",
-            "winrate": 0.8,
             "commander": [
                 "Grist, the Hunger Tide"
             ],

@@ -10,7 +10,6 @@
             "deck_id": "502835",
             "rank": "1",
             "player": "Captainmissplay",
-            "winrate": 1.0,
             "commander": [
                 "Yoshimaru, Ever Faithful",
                 "Reyhan, Last of the Abzan"
@@ -112,7 +111,6 @@
             "deck_id": "502836",
             "rank": "2",
             "player": "Vincent Romeo",
-            "winrate": 0.8,
             "commander": [
                 "Kyodai, Soul of Kamigawa"
             ],
@@ -211,7 +209,6 @@
             "deck_id": "502837",
             "rank": "3-4",
             "player": "Malou",
-            "winrate": 0.8,
             "commander": [
                 "Yoshimaru, Ever Faithful",
                 "Tana, the Bloodsower"
@@ -321,7 +318,6 @@
             "deck_id": "502838",
             "rank": "3-4",
             "player": "Clement Selles",
-            "winrate": 0.8,
             "commander": [
                 "Jeska, Thrice Reborn",
                 "Ludevic, Necro-Alchemist"
@@ -421,7 +417,6 @@
             "deck_id": "502839",
             "rank": "5-8",
             "player": "Stéphane Rogard",
-            "winrate": 0.6,
             "commander": [
                 "Hogaak, Arisen Necropolis"
             ],
@@ -524,7 +519,6 @@
             "deck_id": "502840",
             "rank": "5-8",
             "player": "Lucas Tison",
-            "winrate": 0.6,
             "commander": [
                 "Elminster"
             ],
@@ -625,7 +619,6 @@
             "deck_id": "502841",
             "rank": "5-8",
             "player": "Yuu Barreyre",
-            "winrate": 0.6,
             "commander": [
                 "Leovold, Emissary of Trest"
             ],
@@ -735,7 +728,6 @@
             "deck_id": "502842",
             "rank": "5-8",
             "player": "Yann Turcot",
-            "winrate": 0.6,
             "commander": [
                 "The Beamtown Bullies"
             ],

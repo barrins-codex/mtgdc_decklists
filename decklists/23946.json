@@ -10,7 +10,6 @@
             "deck_id": "366866",
             "rank": "3-4",
             "player": "Josef Kumtýř",
-            "winrate": 0.8,
             "commander": [
                 "Zur the Enchanter"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "366867",
             "rank": "3-4",
             "player": "Ondřej Smetana",
-            "winrate": 0.8,
             "commander": [
                 "Karlov of the Ghost Council"
             ],
@@ -230,7 +228,6 @@
             "deck_id": "366868",
             "rank": "2",
             "player": "Dominik Malý",
-            "winrate": 0.8,
             "commander": [
                 "Zur the Enchanter"
             ],
@@ -340,7 +337,6 @@
             "deck_id": "366869",
             "rank": "2",
             "player": "Miroslav Váňa",
-            "winrate": 0.8,
             "commander": [
                 "Hogaak, Arisen Necropolis"
             ],

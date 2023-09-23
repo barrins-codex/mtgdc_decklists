@@ -10,7 +10,6 @@
             "deck_id": "260174",
             "rank": "3-4",
             "player": "Orfeo Lombardo Ratti",
-            "winrate": 0.8,
             "commander": [
                 "Ruhan of the Fomori"
             ],
@@ -110,7 +109,6 @@
             "deck_id": "260175",
             "rank": "3-4",
             "player": "Simonpietro Speziale",
-            "winrate": 0.8,
             "commander": [
                 "Azami, Lady of Scrolls"
             ],
@@ -197,7 +195,6 @@
             "deck_id": "260176",
             "rank": "1",
             "player": "Simone Molaro",
-            "winrate": 1.0,
             "commander": [
                 "Titania, Protector of Argoth"
             ],
@@ -283,7 +280,6 @@
             "deck_id": "260177",
             "rank": "2",
             "player": "Cristian Gribaudo",
-            "winrate": 0.8,
             "commander": [
                 "Jenara, Asura of War"
             ],

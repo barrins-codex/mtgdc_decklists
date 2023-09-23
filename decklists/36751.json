@@ -10,7 +10,6 @@
             "deck_id": "476305",
             "rank": "1",
             "player": "Sze Hang Chan",
-            "winrate": 1.0,
             "commander": [
                 "Azusa, Lost but Seeking"
             ],
@@ -108,7 +107,6 @@
             "deck_id": "476306",
             "rank": "2",
             "player": "Jason Lam",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Minsc, Beloved Ranger"
             ],

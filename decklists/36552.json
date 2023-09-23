@@ -10,7 +10,6 @@
             "deck_id": "475100",
             "rank": "1",
             "player": "Michel Xisto",
-            "winrate": 1.0,
             "commander": [
                 "Prossh, Skyraider of Kher"
             ],
@@ -98,7 +97,6 @@
             "deck_id": "475101",
             "rank": "2",
             "player": "Bruno Bruxão",
-            "winrate": 0.8,
             "commander": [
                 "Karlov of the Ghost Council"
             ],
@@ -188,7 +186,6 @@
             "deck_id": "475102",
             "rank": "3-4",
             "player": "Clemilson",
-            "winrate": 0.6,
             "commander": [
                 "Magda, Brazen Outlaw"
             ],
@@ -265,7 +262,6 @@
             "deck_id": "475103",
             "rank": "3-4",
             "player": "Victor Acelerado",
-            "winrate": 0.6,
             "commander": [
                 "Shorikai, Genesis Engine"
             ],

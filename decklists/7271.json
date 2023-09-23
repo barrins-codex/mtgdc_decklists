@@ -10,7 +10,6 @@
             "deck_id": "241667",
             "rank": "1",
             "player": "Marc Vogt",
-            "winrate": 0.9,
             "commander": [
                 "Oloro, Ageless Ascetic"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "241668",
             "rank": "2",
             "player": "Noham Maubert",
-            "winrate": 0.8,
             "commander": [
                 "Vendilion Clique"
             ],
@@ -204,7 +202,6 @@
             "deck_id": "241669",
             "rank": "3-4",
             "player": "Théophile Delavy",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Doran, the Siege Tower"
             ],
@@ -314,7 +311,6 @@
             "deck_id": "241670",
             "rank": "3-4",
             "player": "Étienne \"thecampeur\" Lourdin",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "The Mimeoplasm"
             ],
@@ -422,7 +418,6 @@
             "deck_id": "241671",
             "rank": "5-8",
             "player": "Vivien \"Soratami\" Macé",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Marath, Will of the Wild"
             ],
@@ -531,7 +526,6 @@
             "deck_id": "241672",
             "rank": "5-8",
             "player": "Pierre Melin",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Oloro, Ageless Ascetic"
             ],
@@ -641,7 +635,6 @@
             "deck_id": "241673",
             "rank": "5-8",
             "player": "Aurélien Cornet",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Jenara, Asura of War"
             ],
@@ -744,7 +737,6 @@
             "deck_id": "241674",
             "rank": "5-8",
             "player": "Pierre Almaraz",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Geist of Saint Traft"
             ],

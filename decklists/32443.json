@@ -10,7 +10,6 @@
             "deck_id": "449363",
             "rank": "1",
             "player": "Jules Lestienne",
-            "winrate": 1.0,
             "commander": [
                 "Asmoranomardicadaistinaculdacar"
             ],
@@ -116,7 +115,6 @@
             "deck_id": "449364",
             "rank": "2",
             "player": "Théo Pcouppey",
-            "winrate": 0.8,
             "commander": [
                 "Asmoranomardicadaistinaculdacar"
             ],
@@ -222,7 +220,6 @@
             "deck_id": "449365",
             "rank": "3-4",
             "player": "Yann Brugiere",
-            "winrate": 0.8,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -304,7 +301,6 @@
             "deck_id": "449366",
             "rank": "3-4",
             "player": "David Garnier",
-            "winrate": 0.8,
             "commander": [
                 "Gyruda, Doom of Depths"
             ],

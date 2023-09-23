@@ -10,7 +10,6 @@
             "deck_id": "279430",
             "rank": "1",
             "player": "Hermilio R",
-            "winrate": 1.0,
             "commander": [
                 "The Gitrog Monster"
             ],
@@ -106,7 +105,6 @@
             "deck_id": "279431",
             "rank": "2",
             "player": "Manuel C",
-            "winrate": 0.8,
             "commander": [
                 "Jace, Vryn's Prodigy"
             ],
@@ -185,7 +183,6 @@
             "deck_id": "279432",
             "rank": "3-4",
             "player": "Ricado Z",
-            "winrate": 0.8,
             "commander": [
                 "Karlov of the Ghost Council"
             ],
@@ -285,7 +282,6 @@
             "deck_id": "279433",
             "rank": "3-4",
             "player": "Roger B",
-            "winrate": 0.8,
             "commander": [
                 "Jenara, Asura of War"
             ],
@@ -395,7 +391,6 @@
             "deck_id": "279434",
             "rank": "5-8",
             "player": "Davis C",
-            "winrate": 0.6,
             "commander": [
                 "Jenara, Asura of War"
             ],
@@ -502,7 +497,6 @@
             "deck_id": "279435",
             "rank": "5-8",
             "player": "Armando R",
-            "winrate": 0.6,
             "commander": [
                 "Wydwen, the Biting Gale"
             ],
@@ -601,7 +595,6 @@
             "deck_id": "279436",
             "rank": "5-8",
             "player": "Alex O",
-            "winrate": 0.6,
             "commander": [
                 "Nissa, Vastwood Seer"
             ],
@@ -687,7 +680,6 @@
             "deck_id": "279437",
             "rank": "5-8",
             "player": "Renzo M",
-            "winrate": 0.6,
             "commander": [
                 "Ob Nixilis, the Fallen"
             ],

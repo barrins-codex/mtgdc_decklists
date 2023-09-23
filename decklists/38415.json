@@ -10,7 +10,6 @@
             "deck_id": "487067",
             "rank": "1",
             "player": "Flavio Guio",
-            "winrate": 1.0,
             "commander": [
                 "Wilson, Refined Grizzly",
                 "Noble Heritage"
@@ -94,7 +93,6 @@
             "deck_id": "487068",
             "rank": "2",
             "player": "Alan Santos",
-            "winrate": 0.8,
             "commander": [
                 "Ludevic, Necro-Alchemist",
                 "Kraum, Ludevic's Opus"
@@ -180,7 +178,6 @@
             "deck_id": "487069",
             "rank": "3-4",
             "player": "Rhamon",
-            "winrate": 0.6,
             "commander": [
                 "Prossh, Skyraider of Kher"
             ],
@@ -275,7 +272,6 @@
             "deck_id": "487070",
             "rank": "3-4",
             "player": "Matheus Brito",
-            "winrate": 0.6,
             "commander": [
                 "Killian, Ink Duelist"
             ],

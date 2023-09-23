@@ -10,7 +10,6 @@
             "deck_id": "471870",
             "rank": "1",
             "player": "Ben Co",
-            "winrate": 1.0,
             "commander": [
                 "Shorikai, Genesis Engine"
             ],
@@ -108,7 +107,6 @@
             "deck_id": "471871",
             "rank": "2",
             "player": "Jarbs Sahagun",
-            "winrate": 0.8,
             "commander": [
                 "Shorikai, Genesis Engine"
             ],
@@ -210,7 +208,6 @@
             "deck_id": "471872",
             "rank": "3-4",
             "player": "Gabe Enriquez",
-            "winrate": 0.8,
             "commander": [
                 "Klothys, God of Destiny"
             ],
@@ -313,7 +310,6 @@
             "deck_id": "471873",
             "rank": "3-4",
             "player": "Robert Soriano",
-            "winrate": 0.8,
             "commander": [
                 "Grist, the Hunger Tide"
             ],
@@ -415,7 +411,6 @@
             "deck_id": "471874",
             "rank": "5-8",
             "player": "John Ephraim Nilo",
-            "winrate": 0.6,
             "commander": [
                 "Ludevic, Necro-Alchemist",
                 "Jeska, Thrice Reborn"
@@ -509,7 +504,6 @@
             "deck_id": "471875",
             "rank": "5-8",
             "player": "Exequiel Lim",
-            "winrate": 0.6,
             "commander": [
                 "Titania, Protector of Argoth"
             ],
@@ -606,7 +600,6 @@
             "deck_id": "471876",
             "rank": "5-8",
             "player": "Hans Biasbas",
-            "winrate": 0.6,
             "commander": [
                 "Grist, the Hunger Tide"
             ],
@@ -708,7 +701,6 @@
             "deck_id": "471877",
             "rank": "5-8",
             "player": "Bruce Valero",
-            "winrate": 0.6,
             "commander": [
                 "Light-Paws, Emperor's Voice"
             ],

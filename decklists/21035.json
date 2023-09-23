@@ -10,7 +10,6 @@
             "deck_id": "339684",
             "rank": "2",
             "player": "Jasper R. Nielsen",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Tymna the Weaver",
                 "Kraum, Ludevic's Opus"
@@ -120,7 +119,6 @@
             "deck_id": "339685",
             "rank": "1",
             "player": "Tim Nielsen",
-            "winrate": 1.0,
             "commander": [
                 "Saskia the Unyielding"
             ],

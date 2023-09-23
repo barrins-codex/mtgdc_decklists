@@ -10,7 +10,6 @@
             "deck_id": "280388",
             "rank": "1",
             "player": "Matvey Dolganov",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Titania, Protector of Argoth"
             ],
@@ -103,7 +102,6 @@
             "deck_id": "280389",
             "rank": "2",
             "player": "Andrey \"sccblazer\" Zavialov",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Ezuri, Claw of Progress"
             ],
@@ -202,7 +200,6 @@
             "deck_id": "280390",
             "rank": "3-4",
             "player": "Vladimir \"Horobi\" Bulanov",
-            "winrate": 0.625,
             "commander": [
                 "Titania, Protector of Argoth"
             ],
@@ -295,7 +292,6 @@
             "deck_id": "280391",
             "rank": "3-4",
             "player": "Vlad \"vlaprohor\" Prohorov",
-            "winrate": 0.625,
             "commander": [
                 "Jace, Vryn's Prodigy"
             ],
@@ -382,7 +378,6 @@
             "deck_id": "280392",
             "rank": "5-8",
             "player": "Michail \"Sabor1\" Popov",
-            "winrate": 0.625,
             "commander": [
                 "Grand Arbiter Augustin IV"
             ],
@@ -480,7 +475,6 @@
             "deck_id": "280393",
             "rank": "5-8",
             "player": "Ivan \"celestialserpent\" Churnosov",
-            "winrate": 0.625,
             "commander": [
                 "Jace, Vryn's Prodigy"
             ],
@@ -563,7 +557,6 @@
             "deck_id": "280394",
             "rank": "5-8",
             "player": "Boris \"stingeraa\" Bogolepov",
-            "winrate": 0.625,
             "commander": [
                 "Captain Sisay"
             ],
@@ -660,7 +653,6 @@
             "deck_id": "280395",
             "rank": "5-8",
             "player": "Dmitriy \"Degal\" Tretyakov",
-            "winrate": 0.625,
             "commander": [
                 "Tymaret, the Murder King"
             ],

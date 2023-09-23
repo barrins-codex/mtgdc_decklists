@@ -10,7 +10,6 @@
             "deck_id": "274313",
             "rank": "3-4",
             "player": "Lenzy Abellana",
-            "winrate": 0.6,
             "commander": [
                 "Wydwen, the Biting Gale"
             ],
@@ -113,7 +112,6 @@
             "deck_id": "274314",
             "rank": "3-4",
             "player": "Jerome Manduriao",
-            "winrate": 0.6,
             "commander": [
                 "Keranos, God of Storms"
             ],
@@ -195,7 +193,6 @@
             "deck_id": "274315",
             "rank": "1",
             "player": "Yves Bausa",
-            "winrate": 1.0,
             "commander": [
                 "Narset, Enlightened Master"
             ],
@@ -300,7 +297,6 @@
             "deck_id": "274316",
             "rank": "2",
             "player": "Mark Diaz",
-            "winrate": 0.8,
             "commander": [
                 "Jenara, Asura of War"
             ],

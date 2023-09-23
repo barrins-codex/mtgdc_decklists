@@ -10,7 +10,6 @@
             "deck_id": "259607",
             "rank": "1",
             "player": "Dima Smirnov",
-            "winrate": 1.0,
             "commander": [
                 "Vendilion Clique"
             ],
@@ -97,7 +96,6 @@
             "deck_id": "259608",
             "rank": "2",
             "player": "Alexander Kuznetsov",
-            "winrate": 0.8,
             "commander": [
                 "Geist of Saint Traft"
             ],
@@ -198,7 +196,6 @@
             "deck_id": "259610",
             "rank": "3-4",
             "player": "Max Palachev",
-            "winrate": 0.8,
             "commander": [
                 "Sharuum the Hegemon"
             ],
@@ -308,7 +305,6 @@
             "deck_id": "259611",
             "rank": "3-4",
             "player": "Maxim Apletalin",
-            "winrate": 0.8,
             "commander": [
                 "Anafenza, the Foremost"
             ],

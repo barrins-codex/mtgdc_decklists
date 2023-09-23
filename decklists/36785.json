@@ -10,7 +10,6 @@
             "deck_id": "476552",
             "rank": "1",
             "player": "Gipsy-mikey",
-            "winrate": 1.0,
             "commander": [
                 "Klothys, God of Destiny"
             ],
@@ -115,7 +114,6 @@
             "deck_id": "476553",
             "rank": "2",
             "player": "Charles T",
-            "winrate": 0.8,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -225,7 +223,6 @@
             "deck_id": "476554",
             "rank": "3-4",
             "player": "Salmouphete",
-            "winrate": 0.8,
             "commander": [
                 "Shorikai, Genesis Engine"
             ],
@@ -326,7 +323,6 @@
             "deck_id": "476555",
             "rank": "3-4",
             "player": "Lavender Gaëtan",
-            "winrate": 0.8,
             "commander": [
                 "Rafiq of the Many"
             ],
@@ -435,7 +431,6 @@
             "deck_id": "476556",
             "rank": "5-8",
             "player": "Guichard Louis",
-            "winrate": 0.6,
             "commander": [
                 "Shorikai, Genesis Engine"
             ],
@@ -536,7 +531,6 @@
             "deck_id": "476557",
             "rank": "5-8",
             "player": "Romain \"clad\" Le Poullen",
-            "winrate": 0.6,
             "commander": [
                 "Isamaru, Hound of Konda"
             ],
@@ -622,7 +616,6 @@
             "deck_id": "476558",
             "rank": "5-8",
             "player": "Julien Morgand",
-            "winrate": 0.6,
             "commander": [
                 "Yorvo, Lord of Garenbrig"
             ],
@@ -707,7 +700,6 @@
             "deck_id": "476559",
             "rank": "5-8",
             "player": "Jules Navet",
-            "winrate": 0.6,
             "commander": [
                 "Juri, Master of the Revue"
             ],

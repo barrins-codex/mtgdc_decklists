@@ -10,7 +10,6 @@
             "deck_id": "342899",
             "rank": "2",
             "player": "Ben Hackländer",
-            "winrate": 0.8,
             "commander": [
                 "Reyhan, Last of the Abzan",
                 "Kraum, Ludevic's Opus"
@@ -118,7 +117,6 @@
             "deck_id": "342900",
             "rank": "1",
             "player": "Sebastian Haines",
-            "winrate": 1.0,
             "commander": [
                 "Leovold, Emissary of Trest"
             ],
@@ -228,7 +226,6 @@
             "deck_id": "342901",
             "rank": "3-4",
             "player": "Jan Linde",
-            "winrate": 0.8,
             "commander": [
                 "Kraum, Ludevic's Opus",
                 "Ludevic, Necro-Alchemist"
@@ -326,7 +323,6 @@
             "deck_id": "342902",
             "rank": "3-4",
             "player": "Jannik Dewald",
-            "winrate": 0.8,
             "commander": [
                 "Arahbo, Roar of the World"
             ],

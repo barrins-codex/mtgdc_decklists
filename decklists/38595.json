@@ -10,7 +10,6 @@
             "deck_id": "488220",
             "rank": "1",
             "player": "Franck Gauci",
-            "winrate": 1.0,
             "commander": [
                 "Grist, the Hunger Tide"
             ],
@@ -110,7 +109,6 @@
             "deck_id": "488221",
             "rank": "2",
             "player": "Alexandre Andouard",
-            "winrate": 0.8,
             "commander": [
                 "Slogurk, the Overslime"
             ],
@@ -207,7 +205,6 @@
             "deck_id": "488222",
             "rank": "3-4",
             "player": "Iordan Derhi",
-            "winrate": 0.6,
             "commander": [
                 "Queen Marchesa"
             ],
@@ -317,7 +314,6 @@
             "deck_id": "488223",
             "rank": "3-4",
             "player": "Eric Capitao",
-            "winrate": 0.6,
             "commander": [
                 "Satoru Umezawa"
             ],

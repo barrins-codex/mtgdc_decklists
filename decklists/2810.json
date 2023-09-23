@@ -10,7 +10,6 @@
             "deck_id": "218141",
             "rank": "1",
             "player": "Axel",
-            "winrate": 1.0,
             "commander": [
                 "Edric, Spymaster of Trest"
             ],
@@ -109,7 +108,6 @@
             "deck_id": "218142",
             "rank": "2",
             "player": "Laurent \"vyconia\"",
-            "winrate": 0.8,
             "commander": [
                 "Geist of Saint Traft"
             ],
@@ -206,7 +204,6 @@
             "deck_id": "218143",
             "rank": "3",
             "player": "Adrien \"ElFN0iR\" Rolandez",
-            "winrate": 0.8,
             "commander": [
                 "Ruhan of the Fomori"
             ],

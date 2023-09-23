@@ -10,7 +10,6 @@
             "deck_id": "464051",
             "rank": "1",
             "player": "Nameless Yu",
-            "winrate": 1.0,
             "commander": [
                 "Grenzo, Dungeon Warden"
             ],
@@ -112,7 +111,6 @@
             "deck_id": "464052",
             "rank": "2",
             "player": "Ziqi Xi",
-            "winrate": 0.8,
             "commander": [
                 "Golos, Tireless Pilgrim"
             ],

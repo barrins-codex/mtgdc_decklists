@@ -10,7 +10,6 @@
             "deck_id": "268198",
             "rank": "3-4",
             "player": "Michael Moren",
-            "winrate": 0.8,
             "commander": [
                 "Yisan, the Wanderer Bard"
             ],
@@ -98,7 +97,6 @@
             "deck_id": "268199",
             "rank": "3-4",
             "player": "Valentin Clemot",
-            "winrate": 0.8,
             "commander": [
                 "Vendilion Clique"
             ],
@@ -180,7 +178,6 @@
             "deck_id": "268200",
             "rank": "2",
             "player": "Ewen \"Werewolf41\" Raude",
-            "winrate": 0.8,
             "commander": [
                 "Marath, Will of the Wild"
             ],
@@ -287,7 +284,6 @@
             "deck_id": "268201",
             "rank": "1",
             "player": "Lionel \"Hannibal44\" Galliere",
-            "winrate": 1.0,
             "commander": [
                 "Narset, Enlightened Master"
             ],

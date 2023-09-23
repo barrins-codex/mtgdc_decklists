@@ -10,7 +10,6 @@
             "deck_id": "491284",
             "rank": "1",
             "player": "Nhald Adia",
-            "winrate": 1.0,
             "commander": [
                 "Klothys, God of Destiny"
             ],
@@ -113,7 +112,6 @@
             "deck_id": "491285",
             "rank": "2",
             "player": "Rai Reyes",
-            "winrate": 0.8,
             "commander": [
                 "Ghyrson Starn, Kelermorph"
             ],
@@ -216,7 +214,6 @@
             "deck_id": "491286",
             "rank": "3-4",
             "player": "Juan Antonio Agoncilio",
-            "winrate": 0.8,
             "commander": [
                 "Magda, Brazen Outlaw"
             ],
@@ -308,7 +305,6 @@
             "deck_id": "491287",
             "rank": "3-4",
             "player": "Ezra Mendiola",
-            "winrate": 0.8,
             "commander": [
                 "Tivit, Seller of Secrets"
             ],
@@ -417,7 +413,6 @@
             "deck_id": "491288",
             "rank": "5-8",
             "player": "Darren Dela Rosa",
-            "winrate": 0.6,
             "commander": [
                 "Kroxa, Titan of Death's Hunger"
             ],
@@ -522,7 +517,6 @@
             "deck_id": "491289",
             "rank": "5-8",
             "player": "Deks Sienes",
-            "winrate": 0.6,
             "commander": [
                 "Kess, Dissident Mage"
             ],
@@ -632,7 +626,6 @@
             "deck_id": "491290",
             "rank": "5-8",
             "player": "Jay Mark Orceo",
-            "winrate": 0.6,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -717,7 +710,6 @@
             "deck_id": "491291",
             "rank": "5-8",
             "player": "Sherwin B. Lobrigo",
-            "winrate": 0.6,
             "commander": [
                 "Grenzo, Dungeon Warden"
             ],

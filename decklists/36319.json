@@ -10,7 +10,6 @@
             "deck_id": "473213",
             "rank": "1",
             "player": "Mark Lasam",
-            "winrate": 1.0,
             "commander": [
                 "Isamaru, Hound of Konda"
             ],
@@ -100,7 +99,6 @@
             "deck_id": "473214",
             "rank": "2",
             "player": "Juan Antonio Agoncillo",
-            "winrate": 0.8,
             "commander": [
                 "Magda, Brazen Outlaw"
             ],
@@ -191,7 +189,6 @@
             "deck_id": "473215",
             "rank": "3-4",
             "player": "Joel San Jose",
-            "winrate": 0.8,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -301,7 +298,6 @@
             "deck_id": "473216",
             "rank": "3-4",
             "player": "Jay Bernales",
-            "winrate": 0.8,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -389,7 +385,6 @@
             "deck_id": "473217",
             "rank": "5-8",
             "player": "Ste Villaraza",
-            "winrate": 0.6,
             "commander": [
                 "Shorikai, Genesis Engine"
             ],
@@ -487,7 +482,6 @@
             "deck_id": "473218",
             "rank": "5-8",
             "player": "Robert Soriano",
-            "winrate": 0.6,
             "commander": [
                 "Grist, the Hunger Tide"
             ],
@@ -589,7 +583,6 @@
             "deck_id": "473219",
             "rank": "5-8",
             "player": "Cilbert Corpuz",
-            "winrate": 0.6,
             "commander": [
                 "Giada, Font of Hope"
             ],
@@ -684,7 +677,6 @@
             "deck_id": "473220",
             "rank": "5-8",
             "player": "Myke Nismal",
-            "winrate": 0.6,
             "commander": [
                 "Shorikai, Genesis Engine"
             ],

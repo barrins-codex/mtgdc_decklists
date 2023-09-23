@@ -10,7 +10,6 @@
             "deck_id": "280049",
             "rank": "1",
             "player": "Alexander \"newtraderdu78\" Loskoutoff",
-            "winrate": 1.0,
             "commander": [
                 "Brago, King Eternal"
             ],
@@ -102,7 +101,6 @@
             "deck_id": "280050",
             "rank": "2",
             "player": "Kaourintin Le Guiban",
-            "winrate": 0.8,
             "commander": [
                 "Jace, Vryn's Prodigy"
             ],
@@ -185,7 +183,6 @@
             "deck_id": "280051",
             "rank": "3-4",
             "player": "Guillaume Morin",
-            "winrate": 0.8,
             "commander": [
                 "Selvala, Heart of the Wilds"
             ],
@@ -280,7 +277,6 @@
             "deck_id": "280052",
             "rank": "3-4",
             "player": "Benjamin Riva",
-            "winrate": 0.8,
             "commander": [
                 "Narset, Enlightened Master"
             ],

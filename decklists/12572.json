@@ -10,7 +10,6 @@
             "deck_id": "272636",
             "rank": "3-4",
             "player": "Joseph Pham",
-            "winrate": 0.8,
             "commander": [
                 "Geist of Saint Traft"
             ],
@@ -103,7 +102,6 @@
             "deck_id": "272637",
             "rank": "3-4",
             "player": "George Torres",
-            "winrate": 0.8,
             "commander": [
                 "Animar, Soul of Elements"
             ],
@@ -199,7 +197,6 @@
             "deck_id": "272638",
             "rank": "2",
             "player": "Jason Jahromi",
-            "winrate": 0.8,
             "commander": [
                 "Meren of Clan Nel Toth"
             ],
@@ -298,7 +295,6 @@
             "deck_id": "272639",
             "rank": "1",
             "player": "Joel Ruiz",
-            "winrate": 1.0,
             "commander": [
                 "The Gitrog Monster"
             ],

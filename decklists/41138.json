@@ -10,7 +10,6 @@
             "deck_id": "505711",
             "rank": "1",
             "player": "Franklin Aguba",
-            "winrate": 1.0,
             "commander": [
                 "Cecily, Haunted Mage",
                 "Wernog, Rider's Chaplain"
@@ -120,7 +119,6 @@
             "deck_id": "505712",
             "rank": "2",
             "player": "Martin Ogayon",
-            "winrate": 0.8,
             "commander": [
                 "Grist, the Hunger Tide"
             ],
@@ -223,7 +221,6 @@
             "deck_id": "505713",
             "rank": "3",
             "player": "Jonathan Dolor",
-            "winrate": 0.6,
             "commander": [
                 "Feldon, Ronom Excavator"
             ],
@@ -311,7 +308,6 @@
             "deck_id": "505714",
             "rank": "4",
             "player": "Zed Banlaoi",
-            "winrate": 0.6,
             "commander": [
                 "Ertai Resurrected"
             ],

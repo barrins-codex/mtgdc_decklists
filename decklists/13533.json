@@ -10,7 +10,6 @@
             "deck_id": "279596",
             "rank": "1",
             "player": "Leonardo Bartolomasi",
-            "winrate": 1.0,
             "commander": [
                 "Maelstrom Wanderer"
             ],
@@ -110,7 +109,6 @@
             "deck_id": "279597",
             "rank": "2",
             "player": "Ak Alì",
-            "winrate": 0.8,
             "commander": [
                 "Prossh, Skyraider of Kher"
             ],
@@ -216,7 +214,6 @@
             "deck_id": "279598",
             "rank": "3-4",
             "player": "Yari Arena",
-            "winrate": 0.8,
             "commander": [
                 "Queen Marchesa"
             ],
@@ -324,7 +321,6 @@
             "deck_id": "279599",
             "rank": "3-4",
             "player": "Francesco Belvedere",
-            "winrate": 0.8,
             "commander": [
                 "Titania, Protector of Argoth"
             ],
@@ -414,7 +410,6 @@
             "deck_id": "279600",
             "rank": "5-8",
             "player": "Simone Speziale",
-            "winrate": 0.6,
             "commander": [
                 "Jace, Vryn's Prodigy"
             ],
@@ -507,7 +502,6 @@
             "deck_id": "279601",
             "rank": "5-8",
             "player": "Matteo Sangiorgi",
-            "winrate": 0.6,
             "commander": [
                 "Keranos, God of Storms"
             ],
@@ -600,7 +594,6 @@
             "deck_id": "279602",
             "rank": "5-8",
             "player": "Vasile Beruica",
-            "winrate": 0.6,
             "commander": [
                 "Keranos, God of Storms"
             ],
@@ -692,7 +685,6 @@
             "deck_id": "279603",
             "rank": "5-8",
             "player": "Andrea Vella",
-            "winrate": 0.6,
             "commander": [
                 "Selvala, Heart of the Wilds"
             ],

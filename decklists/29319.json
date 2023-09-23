@@ -10,7 +10,6 @@
             "deck_id": "430599",
             "rank": "1",
             "player": "Armando Lo",
-            "winrate": 1.0,
             "commander": [
                 "Keleth, Sunmane Familiar",
                 "Rograkh, Son of Rohgahh"
@@ -118,7 +117,6 @@
             "deck_id": "430600",
             "rank": "2",
             "player": "Sze Hang Chan",
-            "winrate": 0.8,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -207,7 +205,6 @@
             "deck_id": "430601",
             "rank": "3-4",
             "player": "Pak Kei Leung",
-            "winrate": 0.6,
             "commander": [
                 "Tormod, the Desecrator",
                 "Rograkh, Son of Rohgahh"
@@ -311,7 +308,6 @@
             "deck_id": "430602",
             "rank": "3-4",
             "player": "Lap Chung Cheung",
-            "winrate": 0.6,
             "commander": [
                 "Zur the Enchanter"
             ],

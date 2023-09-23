@@ -10,7 +10,6 @@
             "deck_id": "491292",
             "rank": "1",
             "player": "Paul Juyaux",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Lurrus of the Dream-Den",
                 "Wernog, Rider's Chaplain",
@@ -121,7 +120,6 @@
             "deck_id": "491293",
             "rank": "2",
             "player": "Théo Michaud",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Tivit, Seller of Secrets"
             ],
@@ -231,7 +229,6 @@
             "deck_id": "491294",
             "rank": "3-4",
             "player": "Jolandu38",
-            "winrate": 0.625,
             "commander": [
                 "Tinybones, Trinket Thief"
             ],
@@ -311,7 +308,6 @@
             "deck_id": "491295",
             "rank": "3-4",
             "player": "Camille Bourgeon",
-            "winrate": 0.625,
             "commander": [
                 "Kelsien, the Plague"
             ],
@@ -421,7 +417,6 @@
             "deck_id": "491296",
             "rank": "5-8",
             "player": "Luka M",
-            "winrate": 0.625,
             "commander": [
                 "Balmor, Battlemage Captain"
             ],
@@ -526,7 +521,6 @@
             "deck_id": "491297",
             "rank": "5-8",
             "player": "Charles Da Cunha",
-            "winrate": 0.625,
             "commander": [
                 "Kyodai, Soul of Kamigawa"
             ],
@@ -636,7 +630,6 @@
             "deck_id": "491298",
             "rank": "5-8",
             "player": "Alexandre Bennac",
-            "winrate": 0.625,
             "commander": [
                 "Kroxa, Titan of Death's Hunger"
             ],
@@ -734,7 +727,6 @@
             "deck_id": "491299",
             "rank": "5-8",
             "player": "François Jandaud",
-            "winrate": 0.625,
             "commander": [
                 "Saskia the Unyielding"
             ],

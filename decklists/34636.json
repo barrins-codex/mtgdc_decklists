@@ -10,7 +10,6 @@
             "deck_id": "462508",
             "rank": "1",
             "player": "Renan Da Massa",
-            "winrate": 1.0,
             "commander": [
                 "Keskit, the Flesh Sculptor",
                 "Dargo, the Shipwrecker"
@@ -117,7 +116,6 @@
             "deck_id": "462509",
             "rank": "2",
             "player": "Buba",
-            "winrate": 0.8,
             "commander": [
                 "Tevesh Szat, Doom of Fools",
                 "Dargo, the Shipwrecker"
@@ -219,7 +217,6 @@
             "deck_id": "462510",
             "rank": "3-4",
             "player": "Well",
-            "winrate": 0.6,
             "commander": [
                 "Surrak Dragonclaw"
             ],
@@ -324,7 +321,6 @@
             "deck_id": "462511",
             "rank": "3-4",
             "player": "Igor Da Silva Moncks Valério",
-            "winrate": 0.6,
             "commander": [
                 "Jirina Kudro"
             ],

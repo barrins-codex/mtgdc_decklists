@@ -10,7 +10,6 @@
             "deck_id": "370111",
             "rank": "1",
             "player": "Simon Le Griffon",
-            "winrate": 1.0,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -113,7 +112,6 @@
             "deck_id": "370112",
             "rank": "1",
             "player": "Jean-thomas Delsaux",
-            "winrate": 1.0,
             "commander": [
                 "Thrasios, Triton Hero",
                 "Tymna the Weaver"
@@ -223,7 +221,6 @@
             "deck_id": "370113",
             "rank": "3-4",
             "player": "Oliver Nicolas",
-            "winrate": 0.8,
             "commander": [
                 "Jodah, Archmage Eternal"
             ],
@@ -333,7 +330,6 @@
             "deck_id": "370114",
             "rank": "3-4",
             "player": "Jordan Gaury",
-            "winrate": 0.8,
             "commander": [
                 "The Gitrog Monster"
             ],
@@ -431,7 +427,6 @@
             "deck_id": "370115",
             "rank": "5-8",
             "player": "Charles \"charlgaugau\" Gautier",
-            "winrate": 0.6,
             "commander": [
                 "Hogaak, Arisen Necropolis"
             ],
@@ -541,7 +536,6 @@
             "deck_id": "370116",
             "rank": "5-8",
             "player": "Alexis \"taurock\" Mommee",
-            "winrate": 0.6,
             "commander": [
                 "Akiri, Line-Slinger",
                 "Silas Renn, Seeker Adept"
@@ -651,7 +645,6 @@
             "deck_id": "370117",
             "rank": "5-8",
             "player": "Pierre Tardy",
-            "winrate": 0.6,
             "commander": [
                 "Daretti, Scrap Savant"
             ],
@@ -742,7 +735,6 @@
             "deck_id": "370118",
             "rank": "5-8",
             "player": "Anthonin Michelet",
-            "winrate": 0.6,
             "commander": [
                 "Daretti, Scrap Savant"
             ],

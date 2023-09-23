@@ -10,7 +10,6 @@
             "deck_id": "373528",
             "rank": "1",
             "player": "Sebastian Nußbaum",
-            "winrate": 1.0,
             "commander": [
                 "Leovold, Emissary of Trest"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "373534",
             "rank": "2",
             "player": "Ben Hackländer",
-            "winrate": 0.8,
             "commander": [
                 "Meloku the Clouded Mirror"
             ],

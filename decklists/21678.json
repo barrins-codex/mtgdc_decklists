@@ -10,7 +10,6 @@
             "deck_id": "345659",
             "rank": "2",
             "player": "Jonas Kretzschmar",
-            "winrate": 0.8,
             "commander": [
                 "Kytheon, Hero of Akros"
             ],
@@ -93,7 +92,6 @@
             "deck_id": "345660",
             "rank": "1",
             "player": "Henryk Hecht",
-            "winrate": 1.0,
             "commander": [
                 "Karlov of the Ghost Council"
             ],

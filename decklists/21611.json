@@ -10,7 +10,6 @@
             "deck_id": "345093",
             "rank": "1",
             "player": "Romain Sacaze",
-            "winrate": 1.0,
             "commander": [
                 "Narset, Enlightened Master"
             ],
@@ -115,7 +114,6 @@
             "deck_id": "345094",
             "rank": "2",
             "player": "Christophe Guillot",
-            "winrate": 0.8,
             "commander": [
                 "Reyhan, Last of the Abzan",
                 "Tymna the Weaver"

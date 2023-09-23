@@ -10,7 +10,6 @@
             "deck_id": "503306",
             "rank": "1",
             "player": "Alexandre",
-            "winrate": 1.0,
             "commander": [
                 "Balmor, Battlemage Captain"
             ],
@@ -100,7 +99,6 @@
             "deck_id": "503307",
             "rank": "2",
             "player": "Ismael Lessa",
-            "winrate": 0.8,
             "commander": [
                 "Ertai Resurrected"
             ],
@@ -199,7 +197,6 @@
             "deck_id": "503308",
             "rank": "3-4",
             "player": "Raphael Prazes",
-            "winrate": 0.6,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -281,7 +278,6 @@
             "deck_id": "503309",
             "rank": "3-4",
             "player": "Ruan Rangel",
-            "winrate": 0.6,
             "commander": [
                 "Elminster"
             ],

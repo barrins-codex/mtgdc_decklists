@@ -10,7 +10,6 @@
             "deck_id": "306281",
             "rank": "3-4",
             "player": "Hugo Temple",
-            "winrate": 0.75,
             "commander": [
                 "The Scarab God"
             ],
@@ -104,7 +103,6 @@
             "deck_id": "306282",
             "rank": "2",
             "player": "Timothé Courant",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Zurgo Bellstriker"
             ],
@@ -183,7 +181,6 @@
             "deck_id": "306283",
             "rank": "1",
             "player": "Antoine Rage",
-            "winrate": 0.8888888888888888,
             "commander": [
                 "Doran, the Siege Tower"
             ],
@@ -293,7 +290,6 @@
             "deck_id": "306284",
             "rank": "5-8",
             "player": "Stéphane Rogard",
-            "winrate": 0.75,
             "commander": [
                 "Atraxa, Praetors' Voice"
             ],
@@ -403,7 +399,6 @@
             "deck_id": "306285",
             "rank": "5-8",
             "player": "Jason Felhofer",
-            "winrate": 0.75,
             "commander": [
                 "Karlov of the Ghost Council"
             ],
@@ -496,7 +491,6 @@
             "deck_id": "306286",
             "rank": "5-8",
             "player": "Nameless One",
-            "winrate": 0.75,
             "commander": [
                 "Titania, Protector of Argoth"
             ],
@@ -585,7 +579,6 @@
             "deck_id": "306287",
             "rank": "5-8",
             "player": "Alexis Bougault",
-            "winrate": 0.75,
             "commander": [
                 "The Gitrog Monster"
             ],
@@ -682,7 +675,6 @@
             "deck_id": "306288",
             "rank": "3-4",
             "player": "Joseph Marquet",
-            "winrate": 0.75,
             "commander": [
                 "Saskia the Unyielding"
             ],

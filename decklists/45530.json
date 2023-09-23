@@ -10,7 +10,6 @@
             "deck_id": "536445",
             "rank": "1",
             "player": "Nelson Ancião",
-            "winrate": 1.0,
             "commander": [
                 "Leovold, Emissary of Trest"
             ],
@@ -117,7 +116,6 @@
             "deck_id": "536446",
             "rank": "2",
             "player": "Rafael Batista",
-            "winrate": 0.8,
             "commander": [
                 "Soul of Windgrace"
             ],
@@ -225,7 +223,6 @@
             "deck_id": "536447",
             "rank": "3-4",
             "player": "Mykael Lundgren",
-            "winrate": 0.6,
             "commander": [
                 "Ghyrson Starn, Kelermorph"
             ],
@@ -327,7 +324,6 @@
             "deck_id": "536448",
             "rank": "3-4",
             "player": "Italo Gabriel",
-            "winrate": 0.6,
             "commander": [
                 "Dennick, Pious Apprentice"
             ],

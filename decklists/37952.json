@@ -10,7 +10,6 @@
             "deck_id": "483957",
             "rank": "1",
             "player": "Zhou Rui",
-            "winrate": 1.0,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -99,7 +98,6 @@
             "deck_id": "483958",
             "rank": "2",
             "player": "Jiang Jiahe",
-            "winrate": 0.8,
             "commander": [
                 "Niv-Mizzet Reborn"
             ],
@@ -209,7 +207,6 @@
             "deck_id": "483959",
             "rank": "3-4",
             "player": "Pan Liangchen",
-            "winrate": 0.6,
             "commander": [
                 "Yorvo, Lord of Garenbrig"
             ],
@@ -297,7 +294,6 @@
             "deck_id": "483960",
             "rank": "3-4",
             "player": "Jiang Yan",
-            "winrate": 0.6,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],

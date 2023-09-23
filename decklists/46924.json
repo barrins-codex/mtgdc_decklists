@@ -10,7 +10,6 @@
             "deck_id": "546903",
             "rank": "1",
             "player": "Genxim",
-            "winrate": 1.0,
             "commander": [
                 "Sheoldred, the Apocalypse"
             ],
@@ -94,7 +93,6 @@
             "deck_id": "546904",
             "rank": "3-4",
             "player": "Boris Ringotte",
-            "winrate": 0.6,
             "commander": [
                 "Balmor, Battlemage Captain"
             ],
@@ -196,7 +194,6 @@
             "deck_id": "546905",
             "rank": "2",
             "player": "Teyi",
-            "winrate": 0.8,
             "commander": [
                 "Bruse Tarl, Boorish Herder",
                 "Yoshimaru, Ever Faithful"
@@ -299,7 +296,6 @@
             "deck_id": "546906",
             "rank": "3-4",
             "player": "Bosko Milakovic",
-            "winrate": 0.6,
             "commander": [
                 "Raffine, Scheming Seer"
             ],

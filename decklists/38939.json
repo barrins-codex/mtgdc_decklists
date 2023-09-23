@@ -10,7 +10,6 @@
             "deck_id": "490455",
             "rank": "1",
             "player": "Petr Stefan",
-            "winrate": 1.0,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "490456",
             "rank": "2",
             "player": "Jakub Lelek",
-            "winrate": 0.8,
             "commander": [
                 "Ghyrson Starn, Kelermorph"
             ],
@@ -218,7 +216,6 @@
             "deck_id": "490457",
             "rank": "3-4",
             "player": "Vojtech Benes",
-            "winrate": 0.8,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -328,7 +325,6 @@
             "deck_id": "490458",
             "rank": "3-4",
             "player": "Frantisek Krizkovsky",
-            "winrate": 0.8,
             "commander": [
                 "Jegantha, the Wellspring",
                 "Jared Carthalion"

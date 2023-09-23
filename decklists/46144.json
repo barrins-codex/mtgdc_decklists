@@ -10,7 +10,6 @@
             "deck_id": "540899",
             "rank": "1",
             "player": "Rafael Batista",
-            "winrate": 1.0,
             "commander": [
                 "Yoshimaru, Ever Faithful",
                 "Tana, the Bloodsower"
@@ -120,7 +119,6 @@
             "deck_id": "540900",
             "rank": "2",
             "player": "Luigi Marques",
-            "winrate": 0.8,
             "commander": [
                 "Thalia, Guardian of Thraben"
             ],
@@ -204,7 +202,6 @@
             "deck_id": "540901",
             "rank": "3-4",
             "player": "Mykael Lundgren",
-            "winrate": 0.6,
             "commander": [
                 "Ghyrson Starn, Kelermorph"
             ],
@@ -304,7 +301,6 @@
             "deck_id": "540902",
             "rank": "3-4",
             "player": "Guilherme (guima)",
-            "winrate": 0.6,
             "commander": [
                 "Niv-Mizzet Reborn"
             ],

@@ -10,7 +10,6 @@
             "deck_id": "504554",
             "rank": "1",
             "player": "Carlos Pires",
-            "winrate": 1.0,
             "commander": [
                 "Jeska, Thrice Reborn",
                 "Ludevic, Necro-Alchemist"
@@ -108,7 +107,6 @@
             "deck_id": "504555",
             "rank": "2",
             "player": "Rafael Ozores",
-            "winrate": 0.8,
             "commander": [
                 "Feldon, Ronom Excavator"
             ],
@@ -192,7 +190,6 @@
             "deck_id": "504556",
             "rank": "3",
             "player": "Leonardo Maeda",
-            "winrate": 0.8,
             "commander": [
                 "Minsc, Beloved Ranger"
             ],
@@ -300,7 +297,6 @@
             "deck_id": "504557",
             "rank": "4",
             "player": "Victor Burghi",
-            "winrate": 0.6,
             "commander": [
                 "Raffine, Scheming Seer"
             ],

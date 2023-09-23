@@ -10,7 +10,6 @@
             "deck_id": "358793",
             "rank": "1",
             "player": "Dr. Jsd",
-            "winrate": 1.0,
             "commander": [
                 "Selvala, Heart of the Wilds"
             ],
@@ -101,7 +100,6 @@
             "deck_id": "358794",
             "rank": "2",
             "player": "Li Duoyan",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Hogaak, Arisen Necropolis"
             ],

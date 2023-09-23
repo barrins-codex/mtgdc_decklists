@@ -10,7 +10,6 @@
             "deck_id": "478512",
             "rank": "1",
             "player": "Igor Da Silva Moncks Valério",
-            "winrate": 1.0,
             "commander": [
                 "Niv-Mizzet, Parun"
             ],
@@ -109,7 +108,6 @@
             "deck_id": "478513",
             "rank": "2",
             "player": "Well",
-            "winrate": 0.8,
             "commander": [
                 "Kelsien, the Plague"
             ],
@@ -219,7 +217,6 @@
             "deck_id": "478514",
             "rank": "3",
             "player": "Matheusmrs",
-            "winrate": 0.6,
             "commander": [
                 "Minsc &amp; Boo, Timeless Heroes"
             ],

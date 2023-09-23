@@ -10,7 +10,6 @@
             "deck_id": "532176",
             "rank": "1",
             "player": "Kaourintin \"falaakr\" Le Guiban",
-            "winrate": 0.9,
             "commander": [
                 "Tivit, Seller of Secrets"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "532177",
             "rank": "2",
             "player": "Le Vrai Totonin",
-            "winrate": 0.8,
             "commander": [
                 "Svyelun of Sea and Sky"
             ],
@@ -202,7 +200,6 @@
             "deck_id": "532178",
             "rank": "3-4",
             "player": "Adrien \"oni\" Demoget",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Sythis, Harvest's Hand"
             ],
@@ -301,7 +298,6 @@
             "deck_id": "532179",
             "rank": "3-4",
             "player": "Aethrix",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -411,7 +407,6 @@
             "deck_id": "532180",
             "rank": "5-8",
             "player": "Newtraderdu78",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Ghyrson Starn, Kelermorph"
             ],
@@ -509,7 +504,6 @@
             "deck_id": "532181",
             "rank": "5-8",
             "player": "Fabien Gibergues",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Yoshimaru, Ever Faithful",
                 "Bruse Tarl, Boorish Herder"
@@ -612,7 +606,6 @@
             "deck_id": "532182",
             "rank": "5-8",
             "player": "Gillard \"carpenters\"  Clément",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Yoshimaru, Ever Faithful",
                 "Tana, the Bloodsower"
@@ -722,7 +715,6 @@
             "deck_id": "532183",
             "rank": "5-8",
             "player": "Louis Guichard",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Feldon, Ronom Excavator"
             ],

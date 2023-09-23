@@ -10,7 +10,6 @@
             "deck_id": "540402",
             "rank": "1",
             "player": "Alexis Dumay",
-            "winrate": 1.0,
             "commander": [
                 "Minsc, Beloved Ranger"
             ],
@@ -116,7 +115,6 @@
             "deck_id": "540403",
             "rank": "2",
             "player": "Ludovic Lucas",
-            "winrate": 0.8,
             "commander": [
                 "Feldon, Ronom Excavator"
             ],
@@ -204,7 +202,6 @@
             "deck_id": "540404",
             "rank": "3-4",
             "player": "Laurent De Barros",
-            "winrate": 0.8,
             "commander": [
                 "Aragorn, King of Gondor"
             ],
@@ -311,7 +308,6 @@
             "deck_id": "540405",
             "rank": "3-4",
             "player": "Jean-baptiste Canonici",
-            "winrate": 0.8,
             "commander": [
                 "Sheoldred, the Apocalypse"
             ],
@@ -395,7 +391,6 @@
             "deck_id": "540406",
             "rank": "5-8",
             "player": "Sacha Keitel",
-            "winrate": 0.6,
             "commander": [
                 "Tivit, Seller of Secrets"
             ],
@@ -505,7 +500,6 @@
             "deck_id": "540407",
             "rank": "5-8",
             "player": "Maxime Catala",
-            "winrate": 0.6,
             "commander": [
                 "Urabrask",
                 "Ancestral / Hot Dog / Minotaur",
@@ -602,7 +596,6 @@
             "deck_id": "540408",
             "rank": "5-8",
             "player": "Bastien Jegat",
-            "winrate": 0.6,
             "commander": [
                 "Kroxa, Titan of Death's Hunger"
             ],
@@ -700,7 +693,6 @@
             "deck_id": "540409",
             "rank": "5-8",
             "player": "Jonathan Montalva Alias The Malicious",
-            "winrate": 0.6,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],

@@ -10,7 +10,6 @@
             "deck_id": "448328",
             "rank": "1",
             "player": "Lawrence Samaniego",
-            "winrate": 1.0,
             "commander": [
                 "Kraum, Ludevic's Opus",
                 "Malcolm, Keen-Eyed Navigator"
@@ -110,7 +109,6 @@
             "deck_id": "448329",
             "rank": "2",
             "player": "Ryan Payabyab",
-            "winrate": 0.8,
             "commander": [
                 "Tevesh Szat, Doom of Fools",
                 "Malcolm, Keen-Eyed Navigator"

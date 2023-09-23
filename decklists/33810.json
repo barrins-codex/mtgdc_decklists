@@ -10,7 +10,6 @@
             "deck_id": "457607",
             "rank": "1",
             "player": "Louis Guichard",
-            "winrate": 0.875,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -98,7 +97,6 @@
             "deck_id": "457608",
             "rank": "2",
             "player": "Maxime Morillon",
-            "winrate": 0.75,
             "commander": [
                 "Malcolm, Keen-Eyed Navigator",
                 "Livio, Oathsworn Sentinel"
@@ -199,7 +197,6 @@
             "deck_id": "457609",
             "rank": "3-4",
             "player": "Grégoire Payan",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "The Gitrog Monster"
             ],
@@ -298,7 +295,6 @@
             "deck_id": "457610",
             "rank": "3-4",
             "player": "Félix Calais",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Esika, God of the Tree"
             ],
@@ -408,7 +404,6 @@
             "deck_id": "457611",
             "rank": "5-8",
             "player": "Alexis Mommee",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Niv-Mizzet Reborn"
             ],
@@ -518,7 +513,6 @@
             "deck_id": "457612",
             "rank": "5-8",
             "player": "Marien Couvertier",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Malcolm, Keen-Eyed Navigator",
                 "Livio, Oathsworn Sentinel"
@@ -618,7 +612,6 @@
             "deck_id": "457613",
             "rank": "5-8",
             "player": "Remy Gaspard",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Tajic, Legion's Edge"
             ],
@@ -716,7 +709,6 @@
             "deck_id": "457614",
             "rank": "5-8",
             "player": "Léo Ganachaud",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Linvala, Shield of Sea Gate"
             ],

@@ -10,7 +10,6 @@
             "deck_id": "254610",
             "rank": "1",
             "player": "Thomas Damoy",
-            "winrate": 1.0,
             "commander": [
                 "Tasigur, the Golden Fang"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "254611",
             "rank": "2",
             "player": "Seb D.",
-            "winrate": 0.8,
             "commander": [
                 "Animar, Soul of Elements"
             ],
@@ -228,7 +226,6 @@
             "deck_id": "254612",
             "rank": "3-4",
             "player": "Vivien Marais",
-            "winrate": 0.8,
             "commander": [
                 "The Mimeoplasm"
             ],
@@ -333,7 +330,6 @@
             "deck_id": "254613",
             "rank": "3-4",
             "player": "Pierre Benden",
-            "winrate": 0.8,
             "commander": [
                 "Grand Arbiter Augustin IV"
             ],

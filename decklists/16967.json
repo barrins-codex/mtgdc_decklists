@@ -10,7 +10,6 @@
             "deck_id": "304936",
             "rank": "1",
             "player": "Jesper Olsen",
-            "winrate": 1.0,
             "commander": [
                 "Edgar Markov"
             ],
@@ -113,7 +112,6 @@
             "deck_id": "304941",
             "rank": "2",
             "player": "Alex Preuss Bloch",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Titania, Protector of Argoth"
             ],

@@ -10,7 +10,6 @@
             "deck_id": "513090",
             "rank": "1",
             "player": "Yi Ding",
-            "winrate": 0.8888888888888888,
             "commander": [
                 "Ghyrson Starn, Kelermorph"
             ],
@@ -115,7 +114,6 @@
             "deck_id": "513091",
             "rank": "1",
             "player": "Fan Yang",
-            "winrate": 0.8888888888888888,
             "commander": [
                 "Tivit, Seller of Secrets"
             ],
@@ -225,7 +223,6 @@
             "deck_id": "513092",
             "rank": "3-4",
             "player": "Guanglei Li",
-            "winrate": 0.75,
             "commander": [
                 "Tana, the Bloodsower",
                 "Yoshimaru, Ever Faithful"
@@ -331,7 +328,6 @@
             "deck_id": "513093",
             "rank": "3-4",
             "player": "Yuchen Yang",
-            "winrate": 0.75,
             "commander": [
                 "Niv-Mizzet Reborn"
             ],
@@ -441,7 +437,6 @@
             "deck_id": "513094",
             "rank": "5-8",
             "player": "Wei Cheng",
-            "winrate": 0.75,
             "commander": [
                 "Tivit, Seller of Secrets"
             ],
@@ -551,7 +546,6 @@
             "deck_id": "513095",
             "rank": "5-8",
             "player": "Jianian Wang",
-            "winrate": 0.75,
             "commander": [
                 "Dennick, Pious Apprentice"
             ],
@@ -653,7 +647,6 @@
             "deck_id": "513096",
             "rank": "5-8",
             "player": "Chang Zheng",
-            "winrate": 0.75,
             "commander": [
                 "Ludevic, Necro-Alchemist",
                 "Yoshimaru, Ever Faithful"
@@ -757,7 +750,6 @@
             "deck_id": "513097",
             "rank": "5-8",
             "player": "Fengwen Gu",
-            "winrate": 0.75,
             "commander": [
                 "Balmor, Battlemage Captain"
             ],

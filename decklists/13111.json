@@ -10,7 +10,6 @@
             "deck_id": "276707",
             "rank": "5-8",
             "player": "Orfeo Lombardo Ratti",
-            "winrate": 0.6,
             "commander": [
                 "Selvala, Explorer Returned"
             ],
@@ -108,7 +107,6 @@
             "deck_id": "276708",
             "rank": "5-8",
             "player": "Alessandro Madarena",
-            "winrate": 0.6,
             "commander": [
                 "Skithiryx, the Blight Dragon"
             ],
@@ -197,7 +195,6 @@
             "deck_id": "276709",
             "rank": "5-8",
             "player": "Gabriele Zaccarini",
-            "winrate": 0.6,
             "commander": [
                 "Jenara, Asura of War"
             ],
@@ -301,7 +298,6 @@
             "deck_id": "276710",
             "rank": "3-4",
             "player": "Matteo Lanna",
-            "winrate": 0.8,
             "commander": [
                 "Titania, Protector of Argoth"
             ],
@@ -390,7 +386,6 @@
             "deck_id": "276711",
             "rank": "5-8",
             "player": "Francesco Vitale",
-            "winrate": 0.6,
             "commander": [
                 "Teferi, Temporal Archmage"
             ],
@@ -482,7 +477,6 @@
             "deck_id": "276712",
             "rank": "3-4",
             "player": "David Rodriguez Targa",
-            "winrate": 0.8,
             "commander": [
                 "Jace, Vryn's Prodigy"
             ],
@@ -564,7 +558,6 @@
             "deck_id": "276713",
             "rank": "2",
             "player": "Francesco Belvedere",
-            "winrate": 0.8,
             "commander": [
                 "Jace, Vryn's Prodigy"
             ],
@@ -645,7 +638,6 @@
             "deck_id": "276714",
             "rank": "1",
             "player": "Marco Boccalari",
-            "winrate": 1.0,
             "commander": [
                 "Geist of Saint Traft"
             ],

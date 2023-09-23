@@ -10,7 +10,6 @@
             "deck_id": "268424",
             "rank": "2",
             "player": "Maxim Zenkov",
-            "winrate": 0.8,
             "commander": [
                 "Animar, Soul of Elements"
             ],
@@ -112,7 +111,6 @@
             "deck_id": "268429",
             "rank": "3-4",
             "player": "Philipp Grabovoy",
-            "winrate": 0.8,
             "commander": [
                 "Anafenza, the Foremost"
             ],
@@ -222,7 +220,6 @@
             "deck_id": "268430",
             "rank": "3-4",
             "player": "Mikhail Protasov",
-            "winrate": 0.8,
             "commander": [
                 "Tasigur, the Golden Fang"
             ],
@@ -329,7 +326,6 @@
             "deck_id": "268431",
             "rank": "1",
             "player": "Dmitry Zelyanin",
-            "winrate": 1.0,
             "commander": [
                 "Prossh, Skyraider of Kher"
             ],

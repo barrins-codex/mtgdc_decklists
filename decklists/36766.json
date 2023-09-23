@@ -10,7 +10,6 @@
             "deck_id": "476416",
             "rank": "1",
             "player": "Moondust",
-            "winrate": 0.8888888888888888,
             "commander": [
                 "Sai, Master Thopterist"
             ],
@@ -96,7 +95,6 @@
             "deck_id": "476417",
             "rank": "2",
             "player": "Thomas Bagdadlian",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Dennick, Pious Apprentice"
             ],
@@ -198,7 +196,6 @@
             "deck_id": "476418",
             "rank": "3-4",
             "player": "Jean-alexis Lequoque",
-            "winrate": 0.75,
             "commander": [
                 "Sai, Master Thopterist"
             ],
@@ -284,7 +281,6 @@
             "deck_id": "476419",
             "rank": "3-4",
             "player": "Boris Ringotte",
-            "winrate": 0.75,
             "commander": [
                 "Isamaru, Hound of Konda"
             ],
@@ -375,7 +371,6 @@
             "deck_id": "476420",
             "rank": "5-8",
             "player": "Stephen Helmer",
-            "winrate": 0.75,
             "commander": [
                 "Tivit, Seller of Secrets"
             ],
@@ -484,7 +479,6 @@
             "deck_id": "476421",
             "rank": "5-8",
             "player": "Paul Fermé",
-            "winrate": 0.75,
             "commander": [
                 "Octavia, Living Thesis"
             ],
@@ -571,7 +565,6 @@
             "deck_id": "476422",
             "rank": "5-8",
             "player": "Morgan Laleure",
-            "winrate": 0.75,
             "commander": [
                 "Golos, Tireless Pilgrim"
             ],
@@ -681,7 +674,6 @@
             "deck_id": "476423",
             "rank": "5-8",
             "player": "Alexandre Benac \"onesauk\"",
-            "winrate": 0.75,
             "commander": [
                 "Raffine, Scheming Seer"
             ],

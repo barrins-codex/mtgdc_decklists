@@ -10,7 +10,6 @@
             "deck_id": "335598",
             "rank": "2",
             "player": "Dave Gonzales",
-            "winrate": 0.8,
             "commander": [
                 "Kytheon, Hero of Akros"
             ],
@@ -90,7 +89,6 @@
             "deck_id": "335599",
             "rank": "1",
             "player": "Ben Co",
-            "winrate": 1.0,
             "commander": [
                 "Teferi, Temporal Archmage"
             ],

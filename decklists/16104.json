@@ -10,7 +10,6 @@
             "deck_id": "299227",
             "rank": "1",
             "player": "Maxime Allée",
-            "winrate": 0.8888888888888888,
             "commander": [
                 "Reyhan, Last of the Abzan",
                 "Bruse Tarl, Boorish Herder"
@@ -120,7 +119,6 @@
             "deck_id": "299228",
             "rank": "2",
             "player": "Alexis Fontaine",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Geist of Saint Traft"
             ],
@@ -217,7 +215,6 @@
             "deck_id": "299229",
             "rank": "3",
             "player": "Nicolas De Coster",
-            "winrate": 0.75,
             "commander": [
                 "Zurgo Bellstriker"
             ],
@@ -296,7 +293,6 @@
             "deck_id": "299230",
             "rank": "4",
             "player": "Lionel Galliere",
-            "winrate": 0.75,
             "commander": [
                 "Reyhan, Last of the Abzan",
                 "Bruse Tarl, Boorish Herder"
@@ -406,7 +402,6 @@
             "deck_id": "299231",
             "rank": "5",
             "player": "Adrien Jouan",
-            "winrate": 0.75,
             "commander": [
                 "Yasova Dragonclaw"
             ],
@@ -507,7 +502,6 @@
             "deck_id": "299232",
             "rank": "6",
             "player": "Kevin Corbillé",
-            "winrate": 0.75,
             "commander": [
                 "Jace, Vryn's Prodigy"
             ],
@@ -584,7 +578,6 @@
             "deck_id": "299233",
             "rank": "7",
             "player": "Mael Keraval",
-            "winrate": 0.75,
             "commander": [
                 "Radha, Heir to Keld"
             ],
@@ -682,7 +675,6 @@
             "deck_id": "299234",
             "rank": "8",
             "player": "Vincent Le Pogam",
-            "winrate": 0.75,
             "commander": [
                 "Geist of Saint Traft"
             ],

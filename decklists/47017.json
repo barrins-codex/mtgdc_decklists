@@ -10,7 +10,6 @@
             "deck_id": "547548",
             "rank": "1",
             "player": "Mauricio Nishiyama",
-            "winrate": 1.0,
             "commander": [
                 "Leovold, Emissary of Trest"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "547549",
             "rank": "2",
             "player": "Christian Vilca",
-            "winrate": 0.8,
             "commander": [
                 "Yoshimaru, Ever Faithful",
                 "Tana, the Bloodsower"
@@ -229,7 +227,6 @@
             "deck_id": "547550",
             "rank": "3",
             "player": "Bryan Valdivia",
-            "winrate": 0.8,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -337,7 +334,6 @@
             "deck_id": "547551",
             "rank": "4",
             "player": "Santiago Torres",
-            "winrate": 0.6,
             "commander": [
                 "Octavia, Living Thesis"
             ],
@@ -431,7 +427,6 @@
             "deck_id": "547552",
             "rank": "5",
             "player": "Rodolfo Nicoli",
-            "winrate": 0.6,
             "commander": [
                 "Torens, Fist of the Angels"
             ],
@@ -536,7 +531,6 @@
             "deck_id": "547553",
             "rank": "6",
             "player": "Renato Pino",
-            "winrate": 0.6,
             "commander": [
                 "Azusa, Lost but Seeking"
             ],
@@ -634,7 +628,6 @@
             "deck_id": "547554",
             "rank": "7",
             "player": "Pedro Beltran",
-            "winrate": 0.6,
             "commander": [
                 "Slimefoot and Squee"
             ],
@@ -742,7 +735,6 @@
             "deck_id": "547555",
             "rank": "8",
             "player": "Marcelo Valencia",
-            "winrate": 0.6,
             "commander": [
                 "Tevesh Szat, Doom of Fools"
             ],

@@ -10,7 +10,6 @@
             "deck_id": "489930",
             "rank": "1",
             "player": "Bosko Milakovic",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Kroxa, Titan of Death's Hunger"
             ],
@@ -111,7 +110,6 @@
             "deck_id": "489931",
             "rank": "2",
             "player": "Aleksa Telarov",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Leovold, Emissary of Trest"
             ],
@@ -221,7 +219,6 @@
             "deck_id": "489932",
             "rank": "3-4",
             "player": "Milan Marinkovic",
-            "winrate": 0.625,
             "commander": [
                 "Sythis, Harvest's Hand"
             ],
@@ -318,7 +315,6 @@
             "deck_id": "489933",
             "rank": "3-4",
             "player": "Ivan Sidovenko",
-            "winrate": 0.625,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -428,7 +424,6 @@
             "deck_id": "489934",
             "rank": "5-8",
             "player": "Nenad Temunovic",
-            "winrate": 0.625,
             "commander": [
                 "Klothys, God of Destiny"
             ],
@@ -529,7 +524,6 @@
             "deck_id": "489935",
             "rank": "5-8",
             "player": "Aljosa Mandic",
-            "winrate": 0.625,
             "commander": [
                 "General Ferrous Rokiric"
             ],
@@ -628,7 +622,6 @@
             "deck_id": "489936",
             "rank": "5-8",
             "player": "Luka Radosevic",
-            "winrate": 0.625,
             "commander": [
                 "Hogaak, Arisen Necropolis"
             ],
@@ -738,7 +731,6 @@
             "deck_id": "489937",
             "rank": "5-8",
             "player": "Zoltan Pasztor",
-            "winrate": 0.625,
             "commander": [
                 "Grist, the Hunger Tide"
             ],

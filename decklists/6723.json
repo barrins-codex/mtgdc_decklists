@@ -10,7 +10,6 @@
             "deck_id": "238606",
             "rank": "1",
             "player": "Dukdom",
-            "winrate": 1.0,
             "commander": [
                 "Jhoira of the Ghitu"
             ],
@@ -107,7 +106,6 @@
             "deck_id": "238607",
             "rank": "2",
             "player": "Bustter",
-            "winrate": 0.8,
             "commander": [
                 "Sliver Queen"
             ],
@@ -211,7 +209,6 @@
             "deck_id": "238608",
             "rank": "3-4",
             "player": "Seoman",
-            "winrate": 0.8,
             "commander": [
                 "Ezuri, Renegade Leader"
             ],
@@ -300,7 +297,6 @@
             "deck_id": "238609",
             "rank": "3-4",
             "player": "Pig Paw",
-            "winrate": 0.8,
             "commander": [
                 "Mogis, God of Slaughter"
             ],

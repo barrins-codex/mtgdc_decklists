@@ -10,7 +10,6 @@
             "deck_id": "344423",
             "rank": "3-4",
             "player": "Bastien Guichard",
-            "winrate": 0.8,
             "commander": [
                 "Isamaru, Hound of Konda"
             ],
@@ -85,7 +84,6 @@
             "deck_id": "344424",
             "rank": "3-4",
             "player": "Yann Torillec",
-            "winrate": 0.8,
             "commander": [
                 "Kraum, Ludevic's Opus",
                 "Thrasios, Triton Hero"
@@ -188,7 +186,6 @@
             "deck_id": "344425",
             "rank": "2",
             "player": "Yann Brugiere",
-            "winrate": 0.8,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -266,7 +263,6 @@
             "deck_id": "344426",
             "rank": "1",
             "player": "Moondust",
-            "winrate": 1.0,
             "commander": [
                 "Sai, Master Thopterist"
             ],

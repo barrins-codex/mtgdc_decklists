@@ -10,7 +10,6 @@
             "deck_id": "284777",
             "rank": "3-4",
             "player": "Arthur Santarem Gomes",
-            "winrate": 0.6,
             "commander": [
                 "Zurgo Bellstriker"
             ],
@@ -89,7 +88,6 @@
             "deck_id": "284778",
             "rank": "1",
             "player": "Thiago \"Negrutis\" Novaes",
-            "winrate": 1.0,
             "commander": [
                 "Kraum, Ludevic's Opus",
                 "Vial Smasher the Fierce"
@@ -198,7 +196,6 @@
             "deck_id": "284779",
             "rank": "3-4",
             "player": "Talles \"Barba\" Marques",
-            "winrate": 0.6,
             "commander": [
                 "Saskia the Unyielding"
             ],
@@ -308,7 +305,6 @@
             "deck_id": "284780",
             "rank": "2",
             "player": "Fábio Fernandes Vieira",
-            "winrate": 0.8,
             "commander": [
                 "Reyhan, Last of the Abzan",
                 "Vial Smasher the Fierce"

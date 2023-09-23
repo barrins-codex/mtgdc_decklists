@@ -10,7 +10,6 @@
             "deck_id": "274007",
             "rank": "1",
             "player": "Leonardo Araujo",
-            "winrate": 1.0,
             "commander": [
                 "Zurgo Bellstriker"
             ],
@@ -89,7 +88,6 @@
             "deck_id": "274008",
             "rank": "2",
             "player": "Eduardo Shimizu",
-            "winrate": 0.8,
             "commander": [
                 "Jace, Vryn's Prodigy"
             ],
@@ -170,7 +168,6 @@
             "deck_id": "274009",
             "rank": "3-4",
             "player": "Diego Ganev",
-            "winrate": 0.8,
             "commander": [
                 "Jenara, Asura of War"
             ],
@@ -280,7 +277,6 @@
             "deck_id": "274010",
             "rank": "3-4",
             "player": "Fábio Fernandes Vieira",
-            "winrate": 0.8,
             "commander": [
                 "Anafenza, the Foremost"
             ],
@@ -390,7 +386,6 @@
             "deck_id": "274011",
             "rank": "5-8",
             "player": "Jorge Augusto Seiji Tanaka",
-            "winrate": 0.6,
             "commander": [
                 "Teferi, Temporal Archmage"
             ],
@@ -471,7 +466,6 @@
             "deck_id": "274012",
             "rank": "5-8",
             "player": "Aradib Morgan",
-            "winrate": 0.6,
             "commander": [
                 "Narset, Enlightened Master"
             ],
@@ -577,7 +571,6 @@
             "deck_id": "274013",
             "rank": "5-8",
             "player": "João Lucas Caparroz",
-            "winrate": 0.6,
             "commander": [
                 "Maelstrom Wanderer"
             ],
@@ -680,7 +673,6 @@
             "deck_id": "274014",
             "rank": "5-8",
             "player": "Fábio Kaneto",
-            "winrate": 0.6,
             "commander": [
                 "Nissa, Vastwood Seer"
             ],

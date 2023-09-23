@@ -10,7 +10,6 @@
             "deck_id": "507132",
             "rank": "1",
             "player": "Paul Séronie-vivien",
-            "winrate": 1.0,
             "commander": [
                 "Tana, the Bloodsower",
                 "Yoshimaru, Ever Faithful"
@@ -119,7 +118,6 @@
             "deck_id": "507133",
             "rank": "2",
             "player": "Andy Sieurac",
-            "winrate": 0.8,
             "commander": [
                 "Dihada, Binder of Wills"
             ],
@@ -229,7 +227,6 @@
             "deck_id": "507134",
             "rank": "3-4",
             "player": "Maxime Astier",
-            "winrate": 0.8,
             "commander": [
                 "The Ur-Dragon"
             ],
@@ -339,7 +336,6 @@
             "deck_id": "507135",
             "rank": "3-4",
             "player": "Cedric Froger",
-            "winrate": 0.8,
             "commander": [
                 "Gut, True Soul Zealot"
             ],
@@ -445,7 +441,6 @@
             "deck_id": "507136",
             "rank": "5-8",
             "player": "Pierre Clavieras Mengin",
-            "winrate": 0.6,
             "commander": [
                 "Dihada, Binder of Wills"
             ],
@@ -555,7 +550,6 @@
             "deck_id": "507137",
             "rank": "5-8",
             "player": "Damien Garcia",
-            "winrate": 0.6,
             "commander": [
                 "Tivit, Seller of Secrets"
             ],
@@ -665,7 +659,6 @@
             "deck_id": "507138",
             "rank": "5-8",
             "player": "Kilian Zunino-boulhaïs",
-            "winrate": 0.6,
             "commander": [
                 "Kess, Dissident Mage"
             ],
@@ -774,7 +767,6 @@
             "deck_id": "507139",
             "rank": "5-8",
             "player": "Kévin Luongo",
-            "winrate": 0.6,
             "commander": [
                 "Grist, the Hunger Tide"
             ],

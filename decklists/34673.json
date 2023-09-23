@@ -10,7 +10,6 @@
             "deck_id": "462713",
             "rank": "1",
             "player": "Michel Xisto",
-            "winrate": 1.0,
             "commander": [
                 "Gorex, the Tombshell"
             ],
@@ -94,7 +93,6 @@
             "deck_id": "462714",
             "rank": "2",
             "player": "Estan",
-            "winrate": 0.8,
             "commander": [
                 "Jori En, Ruin Diver"
             ],
@@ -177,7 +175,6 @@
             "deck_id": "462715",
             "rank": "3-4",
             "player": "Elfo",
-            "winrate": 0.6,
             "commander": [
                 "Skullbriar, the Walking Grave"
             ],
@@ -270,7 +267,6 @@
             "deck_id": "462716",
             "rank": "3-4",
             "player": "Daniel Duarte",
-            "winrate": 0.6,
             "commander": [
                 "Krenko, Mob Boss"
             ],

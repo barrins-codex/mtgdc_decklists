@@ -10,7 +10,6 @@
             "deck_id": "410031",
             "rank": "1",
             "player": "Felix Martin",
-            "winrate": 1.0,
             "commander": [
                 "Kroxa, Titan of Death's Hunger"
             ],
@@ -106,7 +105,6 @@
             "deck_id": "410032",
             "rank": "2",
             "player": "'eventwin' Damien Jantzen",
-            "winrate": 0.8,
             "commander": [
                 "Niv-Mizzet Reborn"
             ],

@@ -10,7 +10,6 @@
             "deck_id": "521186",
             "rank": "1",
             "player": "Damien Jantzen",
-            "winrate": 0.8888888888888888,
             "commander": [
                 "Elminster"
             ],
@@ -113,7 +112,6 @@
             "deck_id": "521187",
             "rank": "5-8",
             "player": "Dylan Blasquez",
-            "winrate": 0.75,
             "commander": [
                 "The Beamtown Bullies"
             ],
@@ -223,7 +221,6 @@
             "deck_id": "521188",
             "rank": "5-8",
             "player": "Jonathan Gomis",
-            "winrate": 0.75,
             "commander": [
                 "Light-Paws, Emperor's Voice"
             ],
@@ -304,7 +301,6 @@
             "deck_id": "521189",
             "rank": "3-4",
             "player": "Pierre Louis Biet",
-            "winrate": 0.75,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -414,7 +410,6 @@
             "deck_id": "521190",
             "rank": "5-8",
             "player": "Jérémy Dewarez",
-            "winrate": 0.75,
             "commander": [
                 "Sythis, Harvest's Hand"
             ],
@@ -515,7 +510,6 @@
             "deck_id": "521191",
             "rank": "3-4",
             "player": "Brice Lamar",
-            "winrate": 0.75,
             "commander": [
                 "Dihada, Binder of Wills"
             ],
@@ -625,7 +619,6 @@
             "deck_id": "521192",
             "rank": "2",
             "player": "Fabien Bonfante",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Bruse Tarl, Boorish Herder",
                 "Yoshimaru, Ever Faithful"
@@ -728,7 +721,6 @@
             "deck_id": "521525",
             "rank": "5-8",
             "player": "Matthieu Mizac",
-            "winrate": 0.75,
             "commander": [
                 "Tunnel of Love",
                 "Trash Bin",

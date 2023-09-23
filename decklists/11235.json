@@ -10,7 +10,6 @@
             "deck_id": "263829",
             "rank": "5-8",
             "player": "Alex Dulawan",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Ezuri, Renegade Leader"
             ],
@@ -98,7 +97,6 @@
             "deck_id": "263830",
             "rank": "5-8",
             "player": "Steven Villaraza",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Surrak Dragonclaw"
             ],
@@ -203,7 +201,6 @@
             "deck_id": "263831",
             "rank": "5-8",
             "player": "James Calingo",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Teferi, Temporal Archmage"
             ],
@@ -292,7 +289,6 @@
             "deck_id": "263832",
             "rank": "3-4",
             "player": "Chester Bausa",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Narset, Enlightened Master"
             ],
@@ -398,7 +394,6 @@
             "deck_id": "263833",
             "rank": "3-4",
             "player": "Josh Fuentes",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Thrun, the Last Troll"
             ],
@@ -486,7 +481,6 @@
             "deck_id": "263834",
             "rank": "2",
             "player": "Austin Derla",
-            "winrate": 0.8,
             "commander": [
                 "Dragonlord Atarka"
             ],
@@ -578,7 +572,6 @@
             "deck_id": "263835",
             "rank": "1",
             "player": "Richmund Lim",
-            "winrate": 0.9,
             "commander": [
                 "Titania, Protector of Argoth"
             ],
@@ -670,7 +663,6 @@
             "deck_id": "263836",
             "rank": "5-8",
             "player": "RJ Espiritu",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Karador, Ghost Chieftain"
             ],

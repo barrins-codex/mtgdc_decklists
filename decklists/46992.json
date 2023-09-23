@@ -10,7 +10,6 @@
             "deck_id": "547403",
             "rank": "1",
             "player": "Samuel Z.",
-            "winrate": 1.0,
             "commander": [
                 "Aragorn, the Uniter"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "547404",
             "rank": "2",
             "player": "Stefan C.",
-            "winrate": 0.8,
             "commander": [
                 "Ertai Resurrected"
             ],

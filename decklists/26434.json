@@ -10,7 +10,6 @@
             "deck_id": "402728",
             "rank": "1",
             "player": "Felipe Santos",
-            "winrate": 1.0,
             "commander": [
                 "Anje Falkenrath"
             ],
@@ -107,7 +106,6 @@
             "deck_id": "402729",
             "rank": "2",
             "player": "Victor Burghi",
-            "winrate": 0.8,
             "commander": [
                 "Heliod, Sun-Crowned"
             ],
@@ -191,7 +189,6 @@
             "deck_id": "402730",
             "rank": "3-4",
             "player": "Orlando Bibiano",
-            "winrate": 0.6,
             "commander": [
                 "Winota, Joiner of Forces"
             ],
@@ -291,7 +288,6 @@
             "deck_id": "402731",
             "rank": "3-4",
             "player": "David De Araújo",
-            "winrate": 0.6,
             "commander": [
                 "Momir Vig, Simic Visionary"
             ],

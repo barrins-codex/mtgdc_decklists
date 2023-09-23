@@ -10,7 +10,6 @@
             "deck_id": "277933",
             "rank": "5-8",
             "player": "Aurélien \"Mathan\" Mathias",
-            "winrate": 0.6,
             "commander": [
                 "Prossh, Skyraider of Kher"
             ],
@@ -116,7 +115,6 @@
             "deck_id": "277934",
             "rank": "5-8",
             "player": "Mathieu Cocherel",
-            "winrate": 0.6,
             "commander": [
                 "Animar, Soul of Elements"
             ],
@@ -220,7 +218,6 @@
             "deck_id": "277935",
             "rank": "5-8",
             "player": "Fab la Rage",
-            "winrate": 0.6,
             "commander": [
                 "Jenara, Asura of War"
             ],
@@ -329,7 +326,6 @@
             "deck_id": "277936",
             "rank": "5-8",
             "player": "Jeffrey Remets-nous-des-Glaçons",
-            "winrate": 0.6,
             "commander": [
                 "Prossh, Skyraider of Kher"
             ],
@@ -435,7 +431,6 @@
             "deck_id": "277937",
             "rank": "3-4",
             "player": "Rimkkkk",
-            "winrate": 0.8,
             "commander": [
                 "Wydwen, the Biting Gale"
             ],
@@ -531,7 +526,6 @@
             "deck_id": "277938",
             "rank": "3-4",
             "player": "Quentin Boussardon",
-            "winrate": 0.8,
             "commander": [
                 "Olivia Voldaren"
             ],
@@ -623,7 +617,6 @@
             "deck_id": "277939",
             "rank": "1",
             "player": "Hancock",
-            "winrate": 1.0,
             "commander": [
                 "Titania, Protector of Argoth"
             ],
@@ -713,7 +706,6 @@
             "deck_id": "277940",
             "rank": "2",
             "player": "Kaourintin \"Falaakr\" Le Guiban",
-            "winrate": 0.8,
             "commander": [
                 "Narset, Enlightened Master"
             ],

@@ -10,7 +10,6 @@
             "deck_id": "257725",
             "rank": "3-4",
             "player": "Mathieu Hautot",
-            "winrate": 0.8,
             "commander": [
                 "Tasigur, the Golden Fang"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "257726",
             "rank": "5-8",
             "player": "Benjamin Jean",
-            "winrate": 0.8,
             "commander": [
                 "Yisan, the Wanderer Bard"
             ],
@@ -207,7 +205,6 @@
             "deck_id": "257727",
             "rank": "2",
             "player": "Laury Risbec",
-            "winrate": 0.8181818181818182,
             "commander": [
                 "Marath, Will of the Wild"
             ],
@@ -315,7 +312,6 @@
             "deck_id": "257728",
             "rank": "5-8",
             "player": "Nicolas \"thorgal666\" François",
-            "winrate": 0.8,
             "commander": [
                 "Grand Arbiter Augustin IV"
             ],
@@ -418,7 +414,6 @@
             "deck_id": "257729",
             "rank": "1",
             "player": "\"Moondust\"",
-            "winrate": 0.9090909090909091,
             "commander": [
                 "Yisan, the Wanderer Bard"
             ],
@@ -505,7 +500,6 @@
             "deck_id": "257730",
             "rank": "3-4",
             "player": "Alexander \"newtraderdu78\" Loskoutoff",
-            "winrate": 0.8,
             "commander": [
                 "Grand Arbiter Augustin IV"
             ],
@@ -599,7 +593,6 @@
             "deck_id": "257731",
             "rank": "5-8",
             "player": "Vivien \"Soratami\" Macé",
-            "winrate": 0.8,
             "commander": [
                 "Vendilion Clique"
             ],
@@ -688,7 +681,6 @@
             "deck_id": "257732",
             "rank": "5-8",
             "player": "Ewen \"Werewolf41\" Raude",
-            "winrate": 0.8,
             "commander": [
                 "Zurgo Bellstriker"
             ],

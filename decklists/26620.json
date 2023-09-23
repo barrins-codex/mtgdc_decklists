@@ -10,7 +10,6 @@
             "deck_id": "405675",
             "rank": "1",
             "player": "Felipe Santos",
-            "winrate": 1.0,
             "commander": [
                 "Kraum, Ludevic's Opus",
                 "Ludevic, Necro-Alchemist"
@@ -104,7 +103,6 @@
             "deck_id": "405676",
             "rank": "2",
             "player": "Vitor Siqueira",
-            "winrate": 0.8,
             "commander": [
                 "Sisay, Weatherlight Captain"
             ],
@@ -210,7 +208,6 @@
             "deck_id": "405677",
             "rank": "3-4",
             "player": "Ivan Bais",
-            "winrate": 0.6,
             "commander": [
                 "Klothys, God of Destiny"
             ],
@@ -299,7 +296,6 @@
             "deck_id": "405678",
             "rank": "3-4",
             "player": "Francisco Gomes",
-            "winrate": 0.6,
             "commander": [
                 "Grand Arbiter Augustin IV"
             ],

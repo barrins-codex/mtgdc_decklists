@@ -10,7 +10,6 @@
             "deck_id": "432321",
             "rank": "1",
             "player": "Luther Domingo",
-            "winrate": 1.0,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -92,7 +91,6 @@
             "deck_id": "432322",
             "rank": "2",
             "player": "Lawrence Samaniego",
-            "winrate": 0.8,
             "commander": [
                 "Kraum, Ludevic's Opus",
                 "Ludevic, Necro-Alchemist"
@@ -188,7 +186,6 @@
             "deck_id": "432323",
             "rank": "3",
             "player": "Ryan Simon Payabyab",
-            "winrate": 0.8,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -298,7 +295,6 @@
             "deck_id": "432324",
             "rank": "4",
             "player": "Hans Bermuda Biasbas",
-            "winrate": 0.6,
             "commander": [
                 "Tevesh Szat, Doom of Fools",
                 "Rograkh, Son of Rohgahh"

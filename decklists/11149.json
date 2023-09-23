@@ -10,7 +10,6 @@
             "deck_id": "263416",
             "rank": "3-4",
             "player": "Vasiliy Kuleshov",
-            "winrate": 0.75,
             "commander": [
                 "Narset, Enlightened Master"
             ],
@@ -118,7 +117,6 @@
             "deck_id": "263417",
             "rank": "1",
             "player": "Vladimir Bulanov",
-            "winrate": 0.8888888888888888,
             "commander": [
                 "Tasigur, the Golden Fang"
             ],
@@ -227,7 +225,6 @@
             "deck_id": "263418",
             "rank": "2",
             "player": "Sergey Aristov",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Tasigur, the Golden Fang"
             ],
@@ -334,7 +331,6 @@
             "deck_id": "263419",
             "rank": "5-8",
             "player": "Michail Popov",
-            "winrate": 0.75,
             "commander": [
                 "Geist of Saint Traft"
             ],
@@ -438,7 +434,6 @@
             "deck_id": "263420",
             "rank": "5-8",
             "player": "Andrey Chaginsky",
-            "winrate": 0.75,
             "commander": [
                 "Skullbriar, the Walking Grave"
             ],
@@ -540,7 +535,6 @@
             "deck_id": "263421",
             "rank": "3-4",
             "player": "Denis Fedoseev",
-            "winrate": 0.75,
             "commander": [
                 "Melek, Izzet Paragon"
             ],
@@ -631,7 +625,6 @@
             "deck_id": "263422",
             "rank": "5-8",
             "player": "Andrey Zavialov",
-            "winrate": 0.75,
             "commander": [
                 "Prossh, Skyraider of Kher"
             ],
@@ -737,7 +730,6 @@
             "deck_id": "263423",
             "rank": "5-8",
             "player": "Vyacheslav Skripnik",
-            "winrate": 0.75,
             "commander": [
                 "Varolz, the Scar-Striped"
             ],

@@ -10,7 +10,6 @@
             "deck_id": "441313",
             "rank": "1",
             "player": "Rexel Tenorio",
-            "winrate": 1.0,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "441314",
             "rank": "2",
             "player": "Wilmer Velches",
-            "winrate": 0.8,
             "commander": [
                 "Prossh, Skyraider of Kher"
             ],
@@ -227,7 +225,6 @@
             "deck_id": "441315",
             "rank": "3-4",
             "player": "Paul Relativo",
-            "winrate": 0.6,
             "commander": [
                 "Kytheon, Hero of Akros"
             ],
@@ -309,7 +306,6 @@
             "deck_id": "441316",
             "rank": "3-4",
             "player": "Christian Agbon",
-            "winrate": 0.6,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],

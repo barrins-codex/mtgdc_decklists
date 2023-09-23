@@ -10,7 +10,6 @@
             "deck_id": "217460",
             "rank": "1",
             "player": "Michael Moren",
-            "winrate": 0.8888888888888888,
             "commander": [
                 "Edric, Spymaster of Trest"
             ],
@@ -100,7 +99,6 @@
             "deck_id": "217461",
             "rank": "2",
             "player": "Guillaume Picard",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Doran, the Siege Tower"
             ],
@@ -210,7 +208,6 @@
             "deck_id": "217462",
             "rank": "5-8",
             "player": "Nicolas Legan",
-            "winrate": 0.75,
             "commander": [
                 "Vendilion Clique"
             ],
@@ -293,7 +290,6 @@
             "deck_id": "217463",
             "rank": "3-4",
             "player": "Maxime Allée",
-            "winrate": 0.75,
             "commander": [
                 "Edric, Spymaster of Trest"
             ],
@@ -391,7 +387,6 @@
             "deck_id": "217464",
             "rank": "5-8",
             "player": "Benoît Verwaerde",
-            "winrate": 0.75,
             "commander": [
                 "Sygg, River Cutthroat"
             ],
@@ -494,7 +489,6 @@
             "deck_id": "217465",
             "rank": "3-4",
             "player": "Michael Humez",
-            "winrate": 0.75,
             "commander": [
                 "Zur the Enchanter"
             ],
@@ -594,7 +588,6 @@
             "deck_id": "217466",
             "rank": "5-8",
             "player": "Nicolas \"thorgal666\" François",
-            "winrate": 0.75,
             "commander": [
                 "Grand Arbiter Augustin IV"
             ],
@@ -691,7 +684,6 @@
             "deck_id": "219628",
             "rank": "5-8",
             "player": "Stéphane Riou",
-            "winrate": 0.75,
             "commander": [
                 "Edric, Spymaster of Trest"
             ],

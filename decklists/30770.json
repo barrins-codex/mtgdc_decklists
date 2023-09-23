@@ -10,7 +10,6 @@
             "deck_id": "439646",
             "rank": "1",
             "player": "Jan Hortaleza",
-            "winrate": 1.0,
             "commander": [
                 "Magda, Brazen Outlaw"
             ],
@@ -100,7 +99,6 @@
             "deck_id": "439647",
             "rank": "2",
             "player": "Paul Relativo",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Kytheon, Hero of Akros"
             ],

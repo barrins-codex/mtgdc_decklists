@@ -10,7 +10,6 @@
             "deck_id": "495615",
             "rank": "1",
             "player": "Bongbong Bolaños\r\nRomwald Bolanos",
-            "winrate": 1.0,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -96,7 +95,6 @@
             "deck_id": "495616",
             "rank": "2",
             "player": "Jayson Casauay",
-            "winrate": 0.8,
             "commander": [
                 "Juri, Master of the Revue"
             ],
@@ -196,7 +194,6 @@
             "deck_id": "495617",
             "rank": "3",
             "player": "James Eleazar",
-            "winrate": 0.6,
             "commander": [
                 "Klothys, God of Destiny"
             ],
@@ -299,7 +296,6 @@
             "deck_id": "495618",
             "rank": "4",
             "player": "Roi Parcis",
-            "winrate": 0.6,
             "commander": [
                 "Isamaru, Hound of Konda"
             ],

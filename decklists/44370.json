@@ -10,7 +10,6 @@
             "deck_id": "527288",
             "rank": "1",
             "player": "Asbjørn Jensen",
-            "winrate": 1.0,
             "commander": [
                 "Rocco, Cabaretti Caterer"
             ],
@@ -114,7 +113,6 @@
             "deck_id": "527289",
             "rank": "2",
             "player": "Jeppe Risager",
-            "winrate": 0.8,
             "commander": [
                 "Jegantha, the Wellspring",
                 "Sisay, Weatherlight Captain"
@@ -225,7 +223,6 @@
             "deck_id": "527290",
             "rank": "3-4",
             "player": "Jasper R. Nielsen",
-            "winrate": 0.6,
             "commander": [
                 "Grist, the Hunger Tide"
             ],
@@ -328,7 +325,6 @@
             "deck_id": "527291",
             "rank": "3-4",
             "player": "Axel",
-            "winrate": 0.6,
             "commander": [
                 "Sythis, Harvest's Hand"
             ],

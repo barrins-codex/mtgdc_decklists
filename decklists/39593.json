@@ -10,7 +10,6 @@
             "deck_id": "495099",
             "rank": "1",
             "player": "Wei Cheng",
-            "winrate": 1.0,
             "commander": [
                 "Tivit, Seller of Secrets"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "495100",
             "rank": "1",
             "player": "Yihuan Song",
-            "winrate": 1.0,
             "commander": [
                 "Yoshimaru, Ever Faithful",
                 "Jeska, Thrice Reborn"
@@ -228,7 +226,6 @@
             "deck_id": "495101",
             "rank": "3-4",
             "player": "Yang Du",
-            "winrate": 0.8,
             "commander": [
                 "Ghyrson Starn, Kelermorph"
             ],
@@ -331,7 +328,6 @@
             "deck_id": "495102",
             "rank": "3-4",
             "player": "Tiangang Xie",
-            "winrate": 0.8,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -441,7 +437,6 @@
             "deck_id": "495103",
             "rank": "5-8",
             "player": "Poordonkey",
-            "winrate": 0.6,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -551,7 +546,6 @@
             "deck_id": "495104",
             "rank": "5-8",
             "player": "Fan Yang",
-            "winrate": 0.6,
             "commander": [
                 "Tivit, Seller of Secrets"
             ],
@@ -661,7 +655,6 @@
             "deck_id": "495105",
             "rank": "5-8",
             "player": "Bolong Sun",
-            "winrate": 0.6,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -747,7 +740,6 @@
             "deck_id": "495106",
             "rank": "5-8",
             "player": "Hongchen Jiao",
-            "winrate": 0.6,
             "commander": [
                 "Ghyrson Starn, Kelermorph"
             ],

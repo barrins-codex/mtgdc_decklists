@@ -10,7 +10,6 @@
             "deck_id": "317377",
             "rank": "2",
             "player": "Louie Siongco",
-            "winrate": 0.8,
             "commander": [
                 "Kess, Dissident Mage"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "317378",
             "rank": "1",
             "player": "Kenjie Meneses",
-            "winrate": 1.0,
             "commander": [
                 "Kraum, Ludevic's Opus",
                 "Tymna the Weaver"

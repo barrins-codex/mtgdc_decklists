@@ -10,7 +10,6 @@
             "deck_id": "311955",
             "rank": "5-8",
             "player": "Omar Rhoner",
-            "winrate": 0.6,
             "commander": [
                 "Narset, Enlightened Master"
             ],
@@ -114,7 +113,6 @@
             "deck_id": "311956",
             "rank": "5-8",
             "player": "Luis Meza",
-            "winrate": 0.6,
             "commander": [
                 "The Scarab God"
             ],
@@ -209,7 +207,6 @@
             "deck_id": "311957",
             "rank": "4",
             "player": "Jose Ramirez",
-            "winrate": 0.6,
             "commander": [
                 "Zurgo Bellstriker"
             ],
@@ -294,7 +291,6 @@
             "deck_id": "311958",
             "rank": "5-8",
             "player": "Frank Caceres",
-            "winrate": 0.6,
             "commander": [
                 "Zurgo Bellstriker"
             ],
@@ -373,7 +369,6 @@
             "deck_id": "311959",
             "rank": "5-8",
             "player": "Yerko Hinostroza",
-            "winrate": 0.6,
             "commander": [
                 "Selvala, Heart of the Wilds"
             ],
@@ -466,7 +461,6 @@
             "deck_id": "311960",
             "rank": "3",
             "player": "Mauricio Martin",
-            "winrate": 0.8,
             "commander": [
                 "Thalia, Guardian of Thraben"
             ],
@@ -551,7 +545,6 @@
             "deck_id": "311961",
             "rank": "2",
             "player": "Miguel Burneo",
-            "winrate": 0.8,
             "commander": [
                 "Ruhan of the Fomori"
             ],
@@ -651,7 +644,6 @@
             "deck_id": "311962",
             "rank": "1",
             "player": "Justo Chacon",
-            "winrate": 1.0,
             "commander": [
                 "Thrasios, Triton Hero",
                 "Tymna the Weaver"

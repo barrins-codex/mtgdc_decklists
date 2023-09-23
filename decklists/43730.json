@@ -10,7 +10,6 @@
             "deck_id": "522864",
             "rank": "1",
             "player": "Boris Ringotte",
-            "winrate": 1.0,
             "commander": [
                 "Balmor, Battlemage Captain"
             ],
@@ -112,7 +111,6 @@
             "deck_id": "522865",
             "rank": "2",
             "player": "Yoan Garistion",
-            "winrate": 0.8,
             "commander": [
                 "Sai, Master Thopterist"
             ],
@@ -199,7 +197,6 @@
             "deck_id": "522866",
             "rank": "3-4",
             "player": "Ali Fellah",
-            "winrate": 0.8,
             "commander": [
                 "Yoshimaru, Ever Faithful"
             ],
@@ -302,7 +299,6 @@
             "deck_id": "522867",
             "rank": "3-4",
             "player": "David Frontraille",
-            "winrate": 0.8,
             "commander": [
                 "Karador, Ghost Chieftain"
             ],
@@ -410,7 +406,6 @@
             "deck_id": "522868",
             "rank": "5-8",
             "player": "Timothée Hoffman",
-            "winrate": 0.6,
             "commander": [
                 "Balmor, Battlemage Captain"
             ],
@@ -509,7 +504,6 @@
             "deck_id": "522869",
             "rank": "5-8",
             "player": "Julien Viet",
-            "winrate": 0.6,
             "commander": [
                 "Sai, Master Thopterist"
             ],
@@ -596,7 +590,6 @@
             "deck_id": "522870",
             "rank": "5-8",
             "player": "Florian Trotte",
-            "winrate": 0.6,
             "commander": [
                 "Golos, Tireless Pilgrim"
             ],
@@ -706,7 +699,6 @@
             "deck_id": "522871",
             "rank": "5-8",
             "player": "Sebastien Martinez",
-            "winrate": 0.6,
             "commander": [
                 "Dihada, Binder of Wills"
             ],

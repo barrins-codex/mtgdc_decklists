@@ -10,7 +10,6 @@
             "deck_id": "358904",
             "rank": "3-4",
             "player": "Robert Klouček",
-            "winrate": 0.8,
             "commander": [
                 "Kykar, Wind's Fury"
             ],
@@ -116,7 +115,6 @@
             "deck_id": "358905",
             "rank": "1",
             "player": "Josef Kumstýř",
-            "winrate": 1.0,
             "commander": [
                 "Zur the Enchanter"
             ],
@@ -226,7 +224,6 @@
             "deck_id": "358906",
             "rank": "2",
             "player": "Vojtech Benes",
-            "winrate": 0.8,
             "commander": [
                 "Maelstrom Wanderer"
             ],
@@ -330,7 +327,6 @@
             "deck_id": "358907",
             "rank": "3-4",
             "player": "Jaroslav Chmelík",
-            "winrate": 0.8,
             "commander": [
                 "Kytheon, Hero of Akros"
             ],

@@ -10,7 +10,6 @@
             "deck_id": "533442",
             "rank": "1",
             "player": "Josef Kumstyr",
-            "winrate": 0.875,
             "commander": [
                 "The Beamtown Bullies"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "533443",
             "rank": "2",
             "player": "David Tran",
-            "winrate": 0.75,
             "commander": [
                 "Atraxa, Grand Unifier"
             ],
@@ -229,7 +227,6 @@
             "deck_id": "533444",
             "rank": "3",
             "player": "Radek Soltys",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Ghyrson Starn, Kelermorph"
             ],
@@ -331,7 +328,6 @@
             "deck_id": "533445",
             "rank": "4",
             "player": "Jamie Olsen",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Ghyrson Starn, Kelermorph"
             ],
@@ -431,7 +427,6 @@
             "deck_id": "533446",
             "rank": "5",
             "player": "Jakub Petrik",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Malcolm, Keen-Eyed Navigator",
                 "Yoshimaru, Ever Faithful"
@@ -534,7 +529,6 @@
             "deck_id": "533447",
             "rank": "6",
             "player": "Jan Jilek",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Zimone and Dina"
             ],
@@ -644,7 +638,6 @@
             "deck_id": "533448",
             "rank": "7",
             "player": "Vaclav Hrdlicka",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -754,7 +747,6 @@
             "deck_id": "533449",
             "rank": "8",
             "player": "Milos Palek",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Yoshimaru, Ever Faithful",
                 "Kraum, Ludevic's Opus"

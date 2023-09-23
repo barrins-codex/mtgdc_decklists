@@ -10,7 +10,6 @@
             "deck_id": "464205",
             "rank": "1",
             "player": "Fabien Martinez",
-            "winrate": 1.0,
             "commander": [
                 "Kenrith, the Returned King"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "464206",
             "rank": "2",
             "player": "Alexandre Martial",
-            "winrate": 0.8,
             "commander": [
                 "Niv-Mizzet Reborn"
             ],

@@ -10,7 +10,6 @@
             "deck_id": "474842",
             "rank": "1",
             "player": "Felipe \"the Raizen\" Santos",
-            "winrate": 1.0,
             "commander": [
                 "Juri, Master of the Revue"
             ],
@@ -109,7 +108,6 @@
             "deck_id": "474843",
             "rank": "2",
             "player": "Rafael Ozores",
-            "winrate": 0.8,
             "commander": [
                 "Light-Paws, Emperor's Voice"
             ],
@@ -200,7 +198,6 @@
             "deck_id": "474844",
             "rank": "3-4",
             "player": "Fernando \"yprincipe\"",
-            "winrate": 0.6,
             "commander": [
                 "Shorikai, Genesis Engine"
             ],
@@ -304,7 +301,6 @@
             "deck_id": "474845",
             "rank": "3-4",
             "player": "Rafael Barreto",
-            "winrate": 0.6,
             "commander": [
                 "Shorikai, Genesis Engine"
             ],

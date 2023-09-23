@@ -10,7 +10,6 @@
             "deck_id": "464872",
             "rank": "1",
             "player": "Bruno Vovô",
-            "winrate": 1.0,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -93,7 +92,6 @@
             "deck_id": "464873",
             "rank": "2",
             "player": "Michel Xisto",
-            "winrate": 0.8,
             "commander": [
                 "Gorex, the Tombshell"
             ],
@@ -177,7 +175,6 @@
             "deck_id": "464874",
             "rank": "3-4",
             "player": "Gabriel Mattos",
-            "winrate": 0.8,
             "commander": [
                 "Octavia, Living Thesis"
             ],
@@ -268,7 +265,6 @@
             "deck_id": "464875",
             "rank": "3-4",
             "player": "Marcelo Augusto",
-            "winrate": 0.8,
             "commander": [
                 "Athreos, God of Passage"
             ],
@@ -359,7 +355,6 @@
             "deck_id": "464876",
             "rank": "5-8",
             "player": "Kauan",
-            "winrate": 0.6,
             "commander": [
                 "Karlov of the Ghost Council"
             ],
@@ -450,7 +445,6 @@
             "deck_id": "464877",
             "rank": "5-8",
             "player": "Aracaju",
-            "winrate": 0.6,
             "commander": [
                 "Athreos, God of Passage"
             ],
@@ -541,7 +535,6 @@
             "deck_id": "464878",
             "rank": "5-8",
             "player": "Caio",
-            "winrate": 0.6,
             "commander": [
                 "Nymris, Oona's Trickster"
             ],
@@ -632,7 +625,6 @@
             "deck_id": "464879",
             "rank": "5-8",
             "player": "Juca",
-            "winrate": 0.6,
             "commander": [
                 "Mila, Crafty Companion"
             ],

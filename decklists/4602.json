@@ -10,7 +10,6 @@
             "deck_id": "226636",
             "rank": "1",
             "player": "Richmund Lim",
-            "winrate": 0.875,
             "commander": [
                 "Maelstrom Wanderer"
             ],
@@ -112,7 +111,6 @@
             "deck_id": "226637",
             "rank": "2",
             "player": "Benedict Sauri",
-            "winrate": 0.75,
             "commander": [
                 "Zur the Enchanter"
             ],
@@ -212,7 +210,6 @@
             "deck_id": "226638",
             "rank": "3-4",
             "player": "Andrew Chan",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Jhoira of the Ghitu"
             ],
@@ -302,7 +299,6 @@
             "deck_id": "226639",
             "rank": "3-4",
             "player": "Ramil Apa-ap",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Skithiryx, the Blight Dragon"
             ],
@@ -391,7 +387,6 @@
             "deck_id": "226640",
             "rank": "5-8",
             "player": "Ronald Cruz",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Geist of Saint Traft"
             ],
@@ -492,7 +487,6 @@
             "deck_id": "226641",
             "rank": "5-8",
             "player": "Jethro Altarejos",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Sigarda, Host of Herons"
             ],
@@ -589,7 +583,6 @@
             "deck_id": "226642",
             "rank": "5-8",
             "player": "Mik Regalado",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Talrand, Sky Summoner"
             ],
@@ -675,7 +668,6 @@
             "deck_id": "226643",
             "rank": "5-8",
             "player": "Benedict Cardenas",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Mayael the Anima"
             ],

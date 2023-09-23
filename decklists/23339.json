@@ -10,7 +10,6 @@
             "deck_id": "360809",
             "rank": "1",
             "player": "Omar Rohner",
-            "winrate": 1.0,
             "commander": [
                 "Queen Marchesa"
             ],
@@ -117,7 +116,6 @@
             "deck_id": "360810",
             "rank": "2",
             "player": "Davis Cortegana",
-            "winrate": 0.8,
             "commander": [
                 "Kytheon, Hero of Akros"
             ],
@@ -203,7 +201,6 @@
             "deck_id": "360811",
             "rank": "3-4",
             "player": "Daniel Garcia Rosell",
-            "winrate": 0.8,
             "commander": [
                 "Tajic, Legion's Edge"
             ],
@@ -303,7 +300,6 @@
             "deck_id": "360812",
             "rank": "3-4",
             "player": "Christopher Zurita",
-            "winrate": 0.8,
             "commander": [
                 "Yawgmoth, Thran Physician"
             ],

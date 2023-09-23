@@ -10,7 +10,6 @@
             "deck_id": "329274",
             "rank": "3",
             "player": "Simon M.",
-            "winrate": 0.6,
             "commander": [
                 "Gyrus, Waker of Corpses"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "329275",
             "rank": "1",
             "player": "Felix M.",
-            "winrate": 1.0,
             "commander": [
                 "Tymna the Weaver",
                 "Sidar Kondo of Jamuraa"
@@ -228,7 +226,6 @@
             "deck_id": "329276",
             "rank": "2",
             "player": "Sebastian S.",
-            "winrate": 0.8,
             "commander": [
                 "Kess, Dissident Mage"
             ],

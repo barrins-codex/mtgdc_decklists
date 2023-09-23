@@ -10,7 +10,6 @@
             "deck_id": "460956",
             "rank": "1",
             "player": "Thomas \"lantariel\" Travert",
-            "winrate": 1.0,
             "commander": [
                 "Malcolm, Keen-Eyed Navigator",
                 "Kraum, Ludevic's Opus"
@@ -109,7 +108,6 @@
             "deck_id": "460957",
             "rank": "2",
             "player": "Alan \"captaingalette\" Beuret",
-            "winrate": 0.8,
             "commander": [
                 "Kinnan, Bonder Prodigy"
             ],
@@ -213,7 +211,6 @@
             "deck_id": "460958",
             "rank": "3-4",
             "player": "Paul Fermé",
-            "winrate": 0.8,
             "commander": [
                 "Octavia, Living Thesis"
             ],
@@ -298,7 +295,6 @@
             "deck_id": "460959",
             "rank": "3-4",
             "player": "Jules \"askeladden\" Lestienne",
-            "winrate": 0.8,
             "commander": [
                 "The Gitrog Monster"
             ],
@@ -398,7 +394,6 @@
             "deck_id": "460960",
             "rank": "5-8",
             "player": "Alexandre \"onesauk\" Benac",
-            "winrate": 0.6,
             "commander": [
                 "Hogaak, Arisen Necropolis"
             ],
@@ -508,7 +503,6 @@
             "deck_id": "460961",
             "rank": "5-8",
             "player": "Newtrader",
-            "winrate": 0.6,
             "commander": [
                 "Saskia the Unyielding"
             ],
@@ -618,7 +612,6 @@
             "deck_id": "460962",
             "rank": "5-8",
             "player": "Nagggash",
-            "winrate": 0.6,
             "commander": [
                 "Hogaak, Arisen Necropolis"
             ],
@@ -728,7 +721,6 @@
             "deck_id": "460963",
             "rank": "5-8",
             "player": "Yann \"zeben\" Herpe",
-            "winrate": 0.6,
             "commander": [
                 "Tevesh Szat, Doom of Fools",
                 "Miara, Thorn of the Glade"

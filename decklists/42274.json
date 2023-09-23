@@ -10,7 +10,6 @@
             "deck_id": "513055",
             "rank": "1",
             "player": "Felipe \"theraizen\" Santos",
-            "winrate": 1.0,
             "commander": [
                 "Ertai Resurrected"
             ],
@@ -108,7 +107,6 @@
             "deck_id": "513056",
             "rank": "2",
             "player": "Leonardo Maeda",
-            "winrate": 0.8,
             "commander": [
                 "Minsc, Beloved Ranger"
             ],
@@ -215,7 +213,6 @@
             "deck_id": "513057",
             "rank": "3",
             "player": "Victor Burghi",
-            "winrate": 0.6,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -325,7 +322,6 @@
             "deck_id": "513058",
             "rank": "4",
             "player": "Rafael Fernandes",
-            "winrate": 0.6,
             "commander": [
                 "Feldon, Ronom Excavator"
             ],

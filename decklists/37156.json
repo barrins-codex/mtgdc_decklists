@@ -10,7 +10,6 @@
             "deck_id": "478899",
             "rank": "1",
             "player": "Benjamin Cottet",
-            "winrate": 1.0,
             "commander": [
                 "Niv-Mizzet Reborn"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "478900",
             "rank": "2",
             "player": "Thomas Drucké",
-            "winrate": 0.8,
             "commander": [
                 "Light-Paws, Emperor's Voice"
             ],
@@ -207,7 +205,6 @@
             "deck_id": "478901",
             "rank": "3-4",
             "player": "Hippolyte Senechau",
-            "winrate": 0.8,
             "commander": [
                 "Minsc &amp; Boo, Timeless Heroes"
             ],
@@ -305,7 +302,6 @@
             "deck_id": "478902",
             "rank": "3-4",
             "player": "Kilian Zunino",
-            "winrate": 0.8,
             "commander": [
                 "Slogurk, the Overslime"
             ],
@@ -407,7 +403,6 @@
             "deck_id": "478903",
             "rank": "5-8",
             "player": "Quentin Levard",
-            "winrate": 0.6,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -517,7 +512,6 @@
             "deck_id": "478904",
             "rank": "5-8",
             "player": "Anthony Ruer",
-            "winrate": 0.6,
             "commander": [
                 "The Gitrog Monster"
             ],
@@ -617,7 +611,6 @@
             "deck_id": "478905",
             "rank": "5-8",
             "player": "Andy Petit",
-            "winrate": 0.6,
             "commander": [
                 "Minsc &amp; Boo, Timeless Heroes"
             ],
@@ -724,7 +717,6 @@
             "deck_id": "478906",
             "rank": "5-8",
             "player": "Paul Combalbert",
-            "winrate": 0.6,
             "commander": [
                 "Kinnan, Bonder Prodigy"
             ],

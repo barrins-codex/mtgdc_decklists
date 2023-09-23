@@ -10,7 +10,6 @@
             "deck_id": "446852",
             "rank": "1",
             "player": "Romain Chassagne",
-            "winrate": 1.0,
             "commander": [
                 "Kess, Dissident Mage"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "446853",
             "rank": "2",
             "player": "Alexandre Charbonnier",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Jirina Kudro"
             ],

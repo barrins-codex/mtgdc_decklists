@@ -10,7 +10,6 @@
             "deck_id": "367091",
             "rank": "2",
             "player": "Dinno Zaide",
-            "winrate": 0.8,
             "commander": [
                 "Kraum, Ludevic's Opus",
                 "Ludevic, Necro-Alchemist"
@@ -105,7 +104,6 @@
             "deck_id": "367092",
             "rank": "1",
             "player": "Rexel Allan Tenorio",
-            "winrate": 1.0,
             "commander": [
                 "Lazav, the Multifarious"
             ],

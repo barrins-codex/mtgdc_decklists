@@ -10,7 +10,6 @@
             "deck_id": "305721",
             "rank": "3-4",
             "player": "Pierre-axel Bral",
-            "winrate": 0.8,
             "commander": [
                 "Atraxa, Praetors' Voice"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "305722",
             "rank": "2",
             "player": "Maxence Achoun",
-            "winrate": 0.8,
             "commander": [
                 "Baral, Chief of Compliance"
             ],
@@ -193,7 +191,6 @@
             "deck_id": "305723",
             "rank": "1",
             "player": "Guillaume Audiffren",
-            "winrate": 1.0,
             "commander": [
                 "Akiri, Line-Slinger",
                 "Silas Renn, Seeker Adept"
@@ -303,7 +300,6 @@
             "deck_id": "305724",
             "rank": "3-4",
             "player": "Soratami",
-            "winrate": 0.8,
             "commander": [
                 "Kess, Dissident Mage"
             ],

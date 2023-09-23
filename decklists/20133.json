@@ -10,7 +10,6 @@
             "deck_id": "331033",
             "rank": "2",
             "player": "Giuseppe Cozzolino",
-            "winrate": 0.8,
             "commander": [
                 "Gaddock Teeg"
             ],
@@ -107,7 +106,6 @@
             "deck_id": "331034",
             "rank": "1",
             "player": "Nicola Improta",
-            "winrate": 1.0,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],

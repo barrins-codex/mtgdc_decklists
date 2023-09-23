@@ -10,7 +10,6 @@
             "deck_id": "505612",
             "rank": "1",
             "player": "Tugdual Kervoas",
-            "winrate": 1.0,
             "commander": [
                 "Dihada, Binder of Wills"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "505613",
             "rank": "2",
             "player": "Greg Bradol",
-            "winrate": 0.8,
             "commander": [
                 "Niv-Mizzet Reborn"
             ],
@@ -230,7 +228,6 @@
             "deck_id": "505614",
             "rank": "3-4",
             "player": "Bastien Levecher",
-            "winrate": 0.8,
             "commander": [
                 "Wernog, Rider's Chaplain",
                 "Cecily, Haunted Mage"
@@ -340,7 +337,6 @@
             "deck_id": "505615",
             "rank": "3-4",
             "player": "Julien Bled",
-            "winrate": 0.8,
             "commander": [
                 "Grist, the Hunger Tide"
             ],
@@ -440,7 +436,6 @@
             "deck_id": "505616",
             "rank": "5-8",
             "player": "Glenn Malaisé",
-            "winrate": 0.8,
             "commander": [
                 "Juri, Master of the Revue"
             ],
@@ -541,7 +536,6 @@
             "deck_id": "505617",
             "rank": "5-8",
             "player": "Yann Miel",
-            "winrate": 0.8,
             "commander": [
                 "Azusa, Lost but Seeking"
             ],
@@ -636,7 +630,6 @@
             "deck_id": "505618",
             "rank": "5-8",
             "player": "Oisín Mac An Tsaoir",
-            "winrate": 0.8,
             "commander": [
                 "Nicol Bolas, the Ravager"
             ],
@@ -746,7 +739,6 @@
             "deck_id": "505619",
             "rank": "5-8",
             "player": "Guillaume Cardon",
-            "winrate": 0.8,
             "commander": [
                 "Yoshimaru, Ever Faithful"
             ],

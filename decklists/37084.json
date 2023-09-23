@@ -10,7 +10,6 @@
             "deck_id": "478411",
             "rank": "1",
             "player": "Prail Nicolas",
-            "winrate": 0.9,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "478412",
             "rank": "2",
             "player": "Garnier David",
-            "winrate": 0.8,
             "commander": [
                 "Light-Paws, Emperor's Voice"
             ],
@@ -206,7 +204,6 @@
             "deck_id": "478413",
             "rank": "3-4",
             "player": "Roul Antoine",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -316,7 +313,6 @@
             "deck_id": "478414",
             "rank": "3-4",
             "player": "Kalil Maximilien",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -426,7 +422,6 @@
             "deck_id": "478415",
             "rank": "5-8",
             "player": "Demoget Adrien",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Sythis, Harvest's Hand"
             ],
@@ -528,7 +523,6 @@
             "deck_id": "478416",
             "rank": "5-8",
             "player": "Toussaint Charles",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -638,7 +632,6 @@
             "deck_id": "478417",
             "rank": "5-8",
             "player": "Gonzalez Lucas",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Wernog, Rider's Chaplain",
                 "Lurrus of the Dream-Den",
@@ -749,7 +742,6 @@
             "deck_id": "478418",
             "rank": "5-8",
             "player": "Atta Lyès",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -859,7 +851,6 @@
             "deck_id": "478419",
             "rank": "9-16",
             "player": "Franck Wu",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Svyelun of Sea and Sky"
             ],
@@ -946,7 +937,6 @@
             "deck_id": "478420",
             "rank": "9-16",
             "player": "Fabio Weber",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "The Gitrog Monster"
             ],
@@ -1046,7 +1036,6 @@
             "deck_id": "478421",
             "rank": "9-16",
             "player": "Samuel Poulain",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Grist, the Hunger Tide"
             ],
@@ -1145,7 +1134,6 @@
             "deck_id": "478422",
             "rank": "9-16",
             "player": "Tom Barbesange",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Kelsien, the Plague"
             ],
@@ -1255,7 +1243,6 @@
             "deck_id": "478423",
             "rank": "9-16",
             "player": "Sébastien Willemet",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -1344,7 +1331,6 @@
             "deck_id": "478424",
             "rank": "9-16",
             "player": "Romain Marzais",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Hogaak, Arisen Necropolis"
             ],
@@ -1454,7 +1440,6 @@
             "deck_id": "478425",
             "rank": "9-16",
             "player": "Quentin Naille",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -1564,7 +1549,6 @@
             "deck_id": "478426",
             "rank": "9-16",
             "player": "Stephen Pichereau",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],

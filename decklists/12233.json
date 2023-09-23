@@ -10,7 +10,6 @@
             "deck_id": "270400",
             "rank": "1",
             "player": "Sergey \"Loxmatii\" Lamzin",
-            "winrate": 1.0,
             "commander": [
                 "Animar, Soul of Elements"
             ],
@@ -112,7 +111,6 @@
             "deck_id": "270401",
             "rank": "2",
             "player": "Igor Smirnov",
-            "winrate": 0.8,
             "commander": [
                 "Geist of Saint Traft"
             ],
@@ -209,7 +207,6 @@
             "deck_id": "270402",
             "rank": "3-4",
             "player": "Roman Anisimov",
-            "winrate": 0.8,
             "commander": [
                 "Jenara, Asura of War"
             ],
@@ -317,7 +314,6 @@
             "deck_id": "270403",
             "rank": "3-4",
             "player": "Sergey Egorov",
-            "winrate": 0.8,
             "commander": [
                 "Jace, Vryn's Prodigy"
             ],

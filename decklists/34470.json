@@ -10,7 +10,6 @@
             "deck_id": "461577",
             "rank": "1",
             "player": "Alan So",
-            "winrate": 1.0,
             "commander": [
                 "Niv-Mizzet, Parun"
             ],
@@ -110,7 +109,6 @@
             "deck_id": "461578",
             "rank": "2",
             "player": "Wilson Lai",
-            "winrate": 0.8,
             "commander": [
                 "Silas Renn, Seeker Adept",
                 "Dargo, the Shipwrecker"

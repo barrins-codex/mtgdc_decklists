@@ -10,7 +10,6 @@
             "deck_id": "334594",
             "rank": "3-4",
             "player": "Serputko Vyacheslav",
-            "winrate": 0.6,
             "commander": [
                 "Shalai, Voice of Plenty"
             ],
@@ -108,7 +107,6 @@
             "deck_id": "334595",
             "rank": "3-4",
             "player": "Oreshkin Dmitriy",
-            "winrate": 0.6,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -191,7 +189,6 @@
             "deck_id": "334596",
             "rank": "2",
             "player": "Maximov Alexandr",
-            "winrate": 0.8,
             "commander": [
                 "Karlov of the Ghost Council"
             ],
@@ -286,7 +283,6 @@
             "deck_id": "334597",
             "rank": "1",
             "player": "Mesheriakov Maxim",
-            "winrate": 1.0,
             "commander": [
                 "Brago, King Eternal"
             ],

@@ -10,7 +10,6 @@
             "deck_id": "341650",
             "rank": "5-8",
             "player": "Justo Chacon",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Sai, Master Thopterist"
             ],
@@ -100,7 +99,6 @@
             "deck_id": "341651",
             "rank": "3-4",
             "player": "Yann Brugière",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -177,7 +175,6 @@
             "deck_id": "341652",
             "rank": "3-4",
             "player": "Flavien Mullet",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -258,7 +255,6 @@
             "deck_id": "341653",
             "rank": "2",
             "player": "Léo Carbonell",
-            "winrate": 0.8,
             "commander": [
                 "Teferi, Temporal Archmage"
             ],
@@ -332,7 +328,6 @@
             "deck_id": "341654",
             "rank": "1",
             "player": "Moondust",
-            "winrate": 0.9,
             "commander": [
                 "Sai, Master Thopterist"
             ],
@@ -421,7 +416,6 @@
             "deck_id": "341655",
             "rank": "5-8",
             "player": "Arnaud Vallon-dauvergne",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Surrak, the Hunt Caller"
             ],
@@ -502,7 +496,6 @@
             "deck_id": "341656",
             "rank": "5-8",
             "player": "Pierrick Dupont",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Karador, Ghost Chieftain"
             ],
@@ -609,7 +602,6 @@
             "deck_id": "341657",
             "rank": "5-8",
             "player": "François Mallet",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Reyhan, Last of the Abzan",
                 "Thrasios, Triton Hero"

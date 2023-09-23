@@ -10,7 +10,6 @@
             "deck_id": "338266",
             "rank": "2",
             "player": "Nicolas Monnier",
-            "winrate": 0.8,
             "commander": [
                 "Titania, Protector of Argoth"
             ],
@@ -100,7 +99,6 @@
             "deck_id": "338267",
             "rank": "1",
             "player": "Hugo Dodelin",
-            "winrate": 1.0,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],

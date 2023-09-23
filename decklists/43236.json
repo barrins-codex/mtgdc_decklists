@@ -10,7 +10,6 @@
             "deck_id": "519469",
             "rank": "1",
             "player": "Alexandre Benac \"onesauk\"",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Hogaak, Arisen Necropolis"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "519470",
             "rank": "2",
             "player": "Julien Schneider",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Ghyrson Starn, Kelermorph"
             ],
@@ -221,7 +219,6 @@
             "deck_id": "519471",
             "rank": "3-4",
             "player": "Camille Bourgeon",
-            "winrate": 0.625,
             "commander": [
                 "Kelsien, the Plague"
             ],
@@ -331,7 +328,6 @@
             "deck_id": "519472",
             "rank": "3-4",
             "player": "Paul Fermé",
-            "winrate": 0.625,
             "commander": [
                 "Dennick, Pious Apprentice"
             ],
@@ -435,7 +431,6 @@
             "deck_id": "519473",
             "rank": "5-8",
             "player": "Yann Belmer",
-            "winrate": 0.625,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -545,7 +540,6 @@
             "deck_id": "519474",
             "rank": "5-8",
             "player": "Jean Garreau",
-            "winrate": 0.625,
             "commander": [
                 "Tana, the Bloodsower",
                 "Yoshimaru, Ever Faithful"
@@ -655,7 +649,6 @@
             "deck_id": "519475",
             "rank": "5-8",
             "player": "Thomas Grillot",
-            "winrate": 0.625,
             "commander": [
                 "Muxus, Goblin Grandee"
             ],
@@ -747,7 +740,6 @@
             "deck_id": "519476",
             "rank": "5-8",
             "player": "Alexandre Vretman",
-            "winrate": 0.625,
             "commander": [
                 "Sai, Master Thopterist"
             ],

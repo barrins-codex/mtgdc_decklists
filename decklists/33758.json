@@ -10,7 +10,6 @@
             "deck_id": "457279",
             "rank": "1",
             "player": "Dinno Zaide",
-            "winrate": 1.0,
             "commander": [
                 "Malcolm, Keen-Eyed Navigator",
                 "Kraum, Ludevic's Opus"
@@ -107,7 +106,6 @@
             "deck_id": "457280",
             "rank": "2",
             "player": "Nhald Adia",
-            "winrate": 0.8,
             "commander": [
                 "Klothys, God of Destiny"
             ],
@@ -207,7 +205,6 @@
             "deck_id": "457281",
             "rank": "3-4",
             "player": "Martin Ogayon",
-            "winrate": 0.6,
             "commander": [
                 "Svyelun of Sea and Sky"
             ],
@@ -296,7 +293,6 @@
             "deck_id": "457282",
             "rank": "3-4",
             "player": "Christian Agbon",
-            "winrate": 0.6,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],

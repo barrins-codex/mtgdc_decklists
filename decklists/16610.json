@@ -10,7 +10,6 @@
             "deck_id": "302718",
             "rank": "3-4",
             "player": "Valentin Damman",
-            "winrate": 0.6,
             "commander": [
                 "Zurgo Bellstriker"
             ],
@@ -84,7 +83,6 @@
             "deck_id": "302719",
             "rank": "2",
             "player": "Quentin Goyet",
-            "winrate": 0.8,
             "commander": [
                 "Sigarda, Host of Herons"
             ],
@@ -179,7 +177,6 @@
             "deck_id": "302720",
             "rank": "1",
             "player": "Francois Jandaud",
-            "winrate": 1.0,
             "commander": [
                 "Saskia the Unyielding"
             ],

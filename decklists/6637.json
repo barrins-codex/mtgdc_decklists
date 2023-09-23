@@ -10,7 +10,6 @@
             "deck_id": "238148",
             "rank": "3-4",
             "player": "Zwouip",
-            "winrate": 0.8,
             "commander": [
                 "Doran, the Siege Tower"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "238149",
             "rank": "3-4",
             "player": "Bbearz",
-            "winrate": 0.8,
             "commander": [
                 "Thrun, the Last Troll"
             ],
@@ -202,7 +200,6 @@
             "deck_id": "238150",
             "rank": "1",
             "player": "Lyserg",
-            "winrate": 1.0,
             "commander": [
                 "Marath, Will of the Wild"
             ],
@@ -311,7 +308,6 @@
             "deck_id": "238151",
             "rank": "2",
             "player": "Gaviro",
-            "winrate": 0.8,
             "commander": [
                 "Horde of Notions"
             ],

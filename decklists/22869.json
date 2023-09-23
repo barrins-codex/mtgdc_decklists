@@ -10,7 +10,6 @@
             "deck_id": "356381",
             "rank": "2",
             "player": "Mikkel Rasmussen",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Golos, Tireless Pilgrim"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "356382",
             "rank": "1",
             "player": "Jasper R. Nielsen",
-            "winrate": 1.0,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],

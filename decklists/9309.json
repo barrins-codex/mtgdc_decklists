@@ -10,7 +10,6 @@
             "deck_id": "253430",
             "rank": "1",
             "player": "Maurizio Annoni",
-            "winrate": 1.0,
             "commander": [
                 "Prossh, Skyraider of Kher"
             ],
@@ -112,7 +111,6 @@
             "deck_id": "253431",
             "rank": "2",
             "player": "Alberto Rossi",
-            "winrate": 0.8,
             "commander": [
                 "Wydwen, the Biting Gale"
             ],

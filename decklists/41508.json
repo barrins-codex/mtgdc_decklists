@@ -10,7 +10,6 @@
             "deck_id": "508426",
             "rank": "1",
             "player": "Van Acordon",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Ludevic, Necro-Alchemist",
                 "Yoshimaru, Ever Faithful"
@@ -119,7 +118,6 @@
             "deck_id": "508427",
             "rank": "2",
             "player": "Dinno Zaide",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Ghyrson Starn, Kelermorph"
             ],
@@ -220,7 +218,6 @@
             "deck_id": "508428",
             "rank": "3",
             "player": "Rai Reyes",
-            "winrate": 0.625,
             "commander": [
                 "Ghyrson Starn, Kelermorph"
             ],
@@ -323,7 +320,6 @@
             "deck_id": "508429",
             "rank": "4",
             "player": "Darren De La Rosa",
-            "winrate": 0.625,
             "commander": [
                 "Kroxa, Titan of Death's Hunger"
             ],
@@ -428,7 +424,6 @@
             "deck_id": "508430",
             "rank": "5",
             "player": "Rexel Tenorio",
-            "winrate": 0.625,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -538,7 +533,6 @@
             "deck_id": "508431",
             "rank": "6",
             "player": "Rusty Capricho",
-            "winrate": 0.625,
             "commander": [
                 "The Gitrog Monster"
             ],
@@ -638,7 +632,6 @@
             "deck_id": "508432",
             "rank": "7",
             "player": "Earl Caymo",
-            "winrate": 0.625,
             "commander": [
                 "Jeska, Thrice Reborn",
                 "Yoshimaru, Ever Faithful"
@@ -730,7 +723,6 @@
             "deck_id": "508433",
             "rank": "8",
             "player": "Martin Ogayon",
-            "winrate": 0.625,
             "commander": [
                 "Grist, the Hunger Tide"
             ],

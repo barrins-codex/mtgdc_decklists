@@ -10,7 +10,6 @@
             "deck_id": "274952",
             "rank": "1",
             "player": "Yang Danpeng",
-            "winrate": 1.0,
             "commander": [
                 "Jace, Vryn's Prodigy"
             ],
@@ -91,7 +90,6 @@
             "deck_id": "274953",
             "rank": "1",
             "player": "Qian Kui",
-            "winrate": 1.0,
             "commander": [
                 "Yasova Dragonclaw"
             ],

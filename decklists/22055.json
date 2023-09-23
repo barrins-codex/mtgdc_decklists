@@ -10,7 +10,6 @@
             "deck_id": "349035",
             "rank": "2",
             "player": "Daniel Lind",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Doran, the Siege Tower"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "349037",
             "rank": "1",
             "player": "Lasse Hansen",
-            "winrate": 1.0,
             "commander": [
                 "Narset, Enlightened Master"
             ],

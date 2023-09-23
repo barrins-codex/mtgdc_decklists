@@ -10,7 +10,6 @@
             "deck_id": "525200",
             "rank": "1",
             "player": "Gong Yi",
-            "winrate": 1.0,
             "commander": [
                 "Migloz, Maze Crusher"
             ],
@@ -111,7 +110,6 @@
             "deck_id": "525201",
             "rank": "2",
             "player": "Peng Cheng",
-            "winrate": 0.8,
             "commander": [
                 "Leovold, Emissary of Trest"
             ],

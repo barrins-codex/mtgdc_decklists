@@ -10,7 +10,6 @@
             "deck_id": "342059",
             "rank": "2",
             "player": "Koraysh",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Teferi, Temporal Archmage"
             ],
@@ -84,7 +83,6 @@
             "deck_id": "342060",
             "rank": "1",
             "player": "Bobota",
-            "winrate": 1.0,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],

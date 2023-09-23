@@ -10,7 +10,6 @@
             "deck_id": "505453",
             "rank": "1",
             "player": "Ej Farcon",
-            "winrate": 1.0,
             "commander": [
                 "Feldon, Ronom Excavator"
             ],
@@ -95,7 +94,6 @@
             "deck_id": "505454",
             "rank": "2",
             "player": "Iori Zugaikotsu",
-            "winrate": 0.8,
             "commander": [
                 "Kotori, Pilot Prodigy"
             ],
@@ -201,7 +199,6 @@
             "deck_id": "505455",
             "rank": "3",
             "player": "Jonathan Dolor",
-            "winrate": 0.6,
             "commander": [
                 "Lurrus of the Dream-Den",
                 "Karlov of the Ghost Council"
@@ -303,7 +300,6 @@
             "deck_id": "505456",
             "rank": "4",
             "player": "Jayson Casauay",
-            "winrate": 0.6,
             "commander": [
                 "Bruse Tarl, Boorish Herder",
                 "Yoshimaru, Ever Faithful"

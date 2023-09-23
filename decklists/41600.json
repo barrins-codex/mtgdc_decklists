@@ -10,7 +10,6 @@
             "deck_id": "509002",
             "rank": "1",
             "player": "Wallace De Oliveira",
-            "winrate": 1.0,
             "commander": [
                 "Kinnan, Bonder Prodigy"
             ],
@@ -97,7 +96,6 @@
             "deck_id": "509003",
             "rank": "2",
             "player": "Caio Montes",
-            "winrate": 0.8,
             "commander": [
                 "Octavia, Living Thesis"
             ],
@@ -176,7 +174,6 @@
             "deck_id": "509004",
             "rank": "3-4",
             "player": "Nelson Paes",
-            "winrate": 0.8,
             "commander": [
                 "Veteran Soldier",
                 "Gut, True Soul Zealot"
@@ -271,7 +268,6 @@
             "deck_id": "509005",
             "rank": "3-4",
             "player": "Ronaldo Barboza",
-            "winrate": 0.8,
             "commander": [
                 "Sythis, Harvest's Hand"
             ],

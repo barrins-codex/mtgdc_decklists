@@ -10,7 +10,6 @@
             "deck_id": "541798",
             "rank": "1",
             "player": "Khris Mauricio",
-            "winrate": 1.0,
             "commander": [
                 "Yoshimaru, Ever Faithful",
                 "Tana, the Bloodsower"
@@ -119,7 +118,6 @@
             "deck_id": "541799",
             "rank": "2",
             "player": "Franklin Aguba",
-            "winrate": 0.8,
             "commander": [
                 "Cecily, Haunted Mage",
                 "Wernog, Rider's Chaplain"
@@ -229,7 +227,6 @@
             "deck_id": "541800",
             "rank": "3",
             "player": "Earl Caymo",
-            "winrate": 0.6,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -339,7 +336,6 @@
             "deck_id": "541801",
             "rank": "4",
             "player": "Mel Boanan",
-            "winrate": 0.6,
             "commander": [
                 "The Beamtown Bullies"
             ],

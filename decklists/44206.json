@@ -10,7 +10,6 @@
             "deck_id": "526200",
             "rank": "1",
             "player": "Pierre Clavieras Mengin",
-            "winrate": 1.0,
             "commander": [
                 "Ghyrson Starn, Kelermorph"
             ],
@@ -108,7 +107,6 @@
             "deck_id": "526201",
             "rank": "2",
             "player": "Léo Facca",
-            "winrate": 0.8,
             "commander": [
                 "Atraxa, Grand Unifier"
             ],
@@ -218,7 +216,6 @@
             "deck_id": "526202",
             "rank": "3-4",
             "player": "Mikaël Fullalove",
-            "winrate": 0.8,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -328,7 +325,6 @@
             "deck_id": "526203",
             "rank": "3-4",
             "player": "Alexandre Habert",
-            "winrate": 0.8,
             "commander": [
                 "Rona, Herald of Invasion"
             ],
@@ -431,7 +427,6 @@
             "deck_id": "526204",
             "rank": "5-8",
             "player": "Bastian Mollo-gene",
-            "winrate": 0.6,
             "commander": [
                 "Feldon, Ronom Excavator"
             ],
@@ -522,7 +517,6 @@
             "deck_id": "526205",
             "rank": "5-8",
             "player": "Andy Sieurac",
-            "winrate": 0.6,
             "commander": [
                 "Dihada, Binder of Wills"
             ],
@@ -632,7 +626,6 @@
             "deck_id": "526206",
             "rank": "5-8",
             "player": "Eric Vanderrusten",
-            "winrate": 0.6,
             "commander": [
                 "Old Rutstein"
             ],
@@ -731,7 +724,6 @@
             "deck_id": "526207",
             "rank": "5-8",
             "player": "Romain Cassagnaud",
-            "winrate": 0.6,
             "commander": [
                 "Kelsien, the Plague"
             ],

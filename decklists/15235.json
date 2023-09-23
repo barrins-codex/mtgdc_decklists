@@ -10,7 +10,6 @@
             "deck_id": "292494",
             "rank": "5-8",
             "player": "Alexandre Rebillout",
-            "winrate": 0.6,
             "commander": [
                 "Kraum, Ludevic's Opus",
                 "Vial Smasher the Fierce"
@@ -109,7 +108,6 @@
             "deck_id": "292495",
             "rank": "5-8",
             "player": "Manolo Castro",
-            "winrate": 0.6,
             "commander": [
                 "Reyhan, Last of the Abzan",
                 "Bruse Tarl, Boorish Herder"
@@ -219,7 +217,6 @@
             "deck_id": "292496",
             "rank": "5-8",
             "player": "Thomas Nouzilleau",
-            "winrate": 0.6,
             "commander": [
                 "Baral, Chief of Compliance"
             ],
@@ -299,7 +296,6 @@
             "deck_id": "292497",
             "rank": "3-4",
             "player": "Sylvain Magnac",
-            "winrate": 0.8,
             "commander": [
                 "Geist of Saint Traft"
             ],
@@ -401,7 +397,6 @@
             "deck_id": "292498",
             "rank": "1",
             "player": "Iwan Fournier",
-            "winrate": 1.0,
             "commander": [
                 "Zurgo Bellstriker"
             ],
@@ -482,7 +477,6 @@
             "deck_id": "292499",
             "rank": "2",
             "player": "Graouland",
-            "winrate": 0.8,
             "commander": [
                 "Geist of Saint Traft"
             ],
@@ -580,7 +574,6 @@
             "deck_id": "292500",
             "rank": "3-4",
             "player": "Martial \"mars\" Moreau",
-            "winrate": 0.8,
             "commander": [
                 "The Gitrog Monster"
             ],
@@ -678,7 +671,6 @@
             "deck_id": "292501",
             "rank": "5-8",
             "player": "Ewen \"werewolf41\" Raude",
-            "winrate": 0.6,
             "commander": [
                 "Baral, Chief of Compliance"
             ],

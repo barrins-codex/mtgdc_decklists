@@ -10,7 +10,6 @@
             "deck_id": "496613",
             "rank": "1",
             "player": "Miguel Aquino",
-            "winrate": 1.0,
             "commander": [
                 "Dennick, Pious Apprentice"
             ],
@@ -118,7 +117,6 @@
             "deck_id": "496614",
             "rank": "2",
             "player": "Zen Barrientos",
-            "winrate": 0.8,
             "commander": [
                 "Klothys, God of Destiny"
             ],

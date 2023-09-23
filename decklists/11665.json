@@ -10,7 +10,6 @@
             "deck_id": "266505",
             "rank": "8",
             "player": "Enrico Roncarati",
-            "winrate": 0.0,
             "commander": [
                 "Glissa, the Traitor"
             ],
@@ -104,7 +103,6 @@
             "deck_id": "266506",
             "rank": "7",
             "player": "Matteo Tronconi",
-            "winrate": 0.3333333333333333,
             "commander": [
                 "Daretti, Scrap Savant"
             ],
@@ -198,7 +196,6 @@
             "deck_id": "266507",
             "rank": "6",
             "player": "Alberto Laurenzi",
-            "winrate": 0.3333333333333333,
             "commander": [
                 "Surrak Dragonclaw"
             ],
@@ -302,7 +299,6 @@
             "deck_id": "266508",
             "rank": "5",
             "player": "Lorenzo Bachiorri",
-            "winrate": 0.3333333333333333,
             "commander": [
                 "Narset, Enlightened Master"
             ],
@@ -409,7 +405,6 @@
             "deck_id": "266509",
             "rank": "4",
             "player": "Francesco Vitale",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Thraximundar"
             ],
@@ -519,7 +514,6 @@
             "deck_id": "266510",
             "rank": "1",
             "player": "Andrea Nediani",
-            "winrate": 1.0,
             "commander": [
                 "Tasigur, the Golden Fang"
             ],
@@ -626,7 +620,6 @@
             "deck_id": "266511",
             "rank": "2",
             "player": "Giovanni Galamini",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Mayael the Anima"
             ],
@@ -729,7 +722,6 @@
             "deck_id": "266512",
             "rank": "3",
             "player": "Alessandro Malvasi",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Maelstrom Wanderer"
             ],

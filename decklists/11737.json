@@ -10,7 +10,6 @@
             "deck_id": "266922",
             "rank": "2",
             "player": "Maathias",
-            "winrate": 0.8,
             "commander": [
                 "Thraximundar"
             ],
@@ -107,7 +106,6 @@
             "deck_id": "266923",
             "rank": "1",
             "player": "Marc Demassier",
-            "winrate": 1.0,
             "commander": [
                 "Tasigur, the Golden Fang"
             ],
@@ -206,7 +204,6 @@
             "deck_id": "266924",
             "rank": "3-4",
             "player": "Julien Junyck",
-            "winrate": 0.8,
             "commander": [
                 "Ayli, Eternal Pilgrim"
             ],
@@ -306,7 +303,6 @@
             "deck_id": "266925",
             "rank": "3-4",
             "player": "Avid \"Ardo\" Le Corvec",
-            "winrate": 0.8,
             "commander": [
                 "Narset, Enlightened Master"
             ],

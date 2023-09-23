@@ -10,7 +10,6 @@
             "deck_id": "352351",
             "rank": "1",
             "player": "Vasiliev Vitaly",
-            "winrate": 1.0,
             "commander": [
                 "The Gitrog Monster"
             ],
@@ -106,7 +105,6 @@
             "deck_id": "352352",
             "rank": "2",
             "player": "Olifer Egor",
-            "winrate": 0.8,
             "commander": [
                 "Arahbo, Roar of the World"
             ],
@@ -206,7 +204,6 @@
             "deck_id": "352353",
             "rank": "3-4",
             "player": "Kozlov Mikhail",
-            "winrate": 0.8,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -316,7 +313,6 @@
             "deck_id": "352354",
             "rank": "3-4",
             "player": "Maxim Erikhov",
-            "winrate": 0.8,
             "commander": [
                 "Tajic, Legion's Edge"
             ],
@@ -409,7 +405,6 @@
             "deck_id": "352355",
             "rank": "5-8",
             "player": "Oreshkin Dmitry",
-            "winrate": 0.6,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -490,7 +485,6 @@
             "deck_id": "352356",
             "rank": "5-8",
             "player": "Apletalin Max",
-            "winrate": 0.6,
             "commander": [
                 "Thrasios, Triton Hero",
                 "Tymna the Weaver"
@@ -597,7 +591,6 @@
             "deck_id": "352357",
             "rank": "5-8",
             "player": "Bukatin Nikita",
-            "winrate": 0.6,
             "commander": [
                 "Arahbo, Roar of the World"
             ],
@@ -690,7 +683,6 @@
             "deck_id": "352358",
             "rank": "5-8",
             "player": "Burmistrov Alexey",
-            "winrate": 0.6,
             "commander": [
                 "Sylvia Brightspear",
                 "Khorvath Brightflame"

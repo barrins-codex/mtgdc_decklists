@@ -10,7 +10,6 @@
             "deck_id": "261711",
             "rank": "2",
             "player": "Scar",
-            "winrate": 0.8,
             "commander": [
                 "Sidisi, Brood Tyrant"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "261712",
             "rank": "3-4",
             "player": "Wuke",
-            "winrate": 0.8,
             "commander": [
                 "Captain Sisay"
             ],
@@ -224,7 +222,6 @@
             "deck_id": "261713",
             "rank": "3-4",
             "player": "Juzi",
-            "winrate": 0.8,
             "commander": [
                 "Maelstrom Wanderer"
             ],
@@ -327,7 +324,6 @@
             "deck_id": "261714",
             "rank": "1",
             "player": "Niaoyu",
-            "winrate": 1.0,
             "commander": [
                 "Maelstrom Wanderer"
             ],

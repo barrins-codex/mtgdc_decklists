@@ -10,7 +10,6 @@
             "deck_id": "361141",
             "rank": "2",
             "player": "Alexis Williaume",
-            "winrate": 0.8,
             "commander": [
                 "Samut, Voice of Dissent"
             ],
@@ -111,7 +110,6 @@
             "deck_id": "361142",
             "rank": "1",
             "player": "Julien Boulet",
-            "winrate": 1.0,
             "commander": [
                 "Emry, Lurker of the Loch"
             ],

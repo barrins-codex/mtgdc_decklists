@@ -10,7 +10,6 @@
             "deck_id": "460265",
             "rank": "1",
             "player": "Kaichen Zhao",
-            "winrate": 1.0,
             "commander": [
                 "Livio, Oathsworn Sentinel",
                 "Kraum, Ludevic's Opus"
@@ -118,7 +117,6 @@
             "deck_id": "460266",
             "rank": "2",
             "player": "Nameless Yu",
-            "winrate": 0.8,
             "commander": [
                 "Grenzo, Dungeon Warden"
             ],
@@ -219,7 +217,6 @@
             "deck_id": "460267",
             "rank": "3-4",
             "player": "Wei Cheng",
-            "winrate": 0.6,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -304,7 +301,6 @@
             "deck_id": "460268",
             "rank": "3-4",
             "player": "Char",
-            "winrate": 0.6,
             "commander": [
                 "Hogaak, Arisen Necropolis"
             ],

@@ -10,7 +10,6 @@
             "deck_id": "479004",
             "rank": "1",
             "player": "David T.",
-            "winrate": 0.875,
             "commander": [
                 "Kinnan, Bonder Prodigy"
             ],
@@ -119,7 +118,6 @@
             "deck_id": "479005",
             "rank": "2",
             "player": "Andéol C.",
-            "winrate": 0.75,
             "commander": [
                 "Light-Paws, Emperor's Voice"
             ],
@@ -205,7 +203,6 @@
             "deck_id": "479006",
             "rank": "3-4",
             "player": "Alan M.",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Dennick, Pious Apprentice"
             ],
@@ -309,7 +306,6 @@
             "deck_id": "479007",
             "rank": "3-4",
             "player": "Sébastien",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Isamaru, Hound of Konda"
             ],
@@ -396,7 +392,6 @@
             "deck_id": "479008",
             "rank": "5-8",
             "player": "Alexandre G.",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Golos, Tireless Pilgrim"
             ],
@@ -503,7 +498,6 @@
             "deck_id": "479009",
             "rank": "5-8",
             "player": "Raphael L.",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Golos, Tireless Pilgrim"
             ],
@@ -613,7 +607,6 @@
             "deck_id": "479010",
             "rank": "5-8",
             "player": "Arnaud V.",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Light-Paws, Emperor's Voice"
             ],
@@ -698,7 +691,6 @@
             "deck_id": "479011",
             "rank": "5-8",
             "player": "Marc S.",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Kyodai, Soul of Kamigawa"
             ],

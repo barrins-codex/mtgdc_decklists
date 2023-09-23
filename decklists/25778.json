@@ -10,7 +10,6 @@
             "deck_id": "392129",
             "rank": "1",
             "player": "Felix_midas",
-            "winrate": 1.0,
             "commander": [
                 "Lutri, the Spellchaser",
                 "Kenrith, the Returned King"
@@ -121,7 +120,6 @@
             "deck_id": "392130",
             "rank": "2",
             "player": "Onesauk",
-            "winrate": 0.8,
             "commander": [
                 "Hogaak, Arisen Necropolis"
             ],
@@ -231,7 +229,6 @@
             "deck_id": "392131",
             "rank": "3-4",
             "player": "Hannibal44",
-            "winrate": 0.8,
             "commander": [
                 "Ludevic, Necro-Alchemist",
                 "Kraum, Ludevic's Opus",
@@ -324,7 +321,6 @@
             "deck_id": "392132",
             "rank": "3-4",
             "player": "Bitzelberg",
-            "winrate": 0.8,
             "commander": [
                 "Akiri, Line-Slinger",
                 "Thrasios, Triton Hero",

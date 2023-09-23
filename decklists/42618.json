@@ -10,7 +10,6 @@
             "deck_id": "515141",
             "rank": "1",
             "player": "Anthony Villegas",
-            "winrate": 1.0,
             "commander": [
                 "Saskia the Unyielding"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "515142",
             "rank": "2",
             "player": "Ej Farcon",
-            "winrate": 0.8,
             "commander": [
                 "Feldon, Ronom Excavator"
             ],
@@ -205,7 +203,6 @@
             "deck_id": "515143",
             "rank": "3",
             "player": "Earl Caymo",
-            "winrate": 0.6,
             "commander": [
                 "Dihada, Binder of Wills"
             ],
@@ -315,7 +312,6 @@
             "deck_id": "515144",
             "rank": "4",
             "player": "Khris Mauricio",
-            "winrate": 0.6,
             "commander": [
                 "Grist, the Hunger Tide"
             ],

@@ -10,7 +10,6 @@
             "deck_id": "268285",
             "rank": "5-8",
             "player": "Yohan Blanchard",
-            "winrate": 0.75,
             "commander": [
                 "Nin, the Pain Artist"
             ],
@@ -93,7 +92,6 @@
             "deck_id": "268286",
             "rank": "5-8",
             "player": "Maxime Chausson",
-            "winrate": 0.75,
             "commander": [
                 "Prossh, Skyraider of Kher"
             ],
@@ -203,7 +201,6 @@
             "deck_id": "268287",
             "rank": "3-4",
             "player": "Romain Ben Amar",
-            "winrate": 0.75,
             "commander": [
                 "Teferi, Temporal Archmage"
             ],
@@ -276,7 +273,6 @@
             "deck_id": "268288",
             "rank": "2",
             "player": "Mikhail Protasov",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Tasigur, the Golden Fang"
             ],
@@ -384,7 +380,6 @@
             "deck_id": "268289",
             "rank": "5-8",
             "player": "Gaël \"Gaviro\" Maloumian",
-            "winrate": 0.75,
             "commander": [
                 "Tasigur, the Golden Fang"
             ],
@@ -494,7 +489,6 @@
             "deck_id": "268290",
             "rank": "5-8",
             "player": "Nicolas \"Ariesnomu\" Honnorat",
-            "winrate": 0.75,
             "commander": [
                 "Jenara, Asura of War"
             ],
@@ -602,7 +596,6 @@
             "deck_id": "268291",
             "rank": "3-4",
             "player": "Guillaume Picard",
-            "winrate": 0.75,
             "commander": [
                 "Marath, Will of the Wild"
             ],
@@ -709,7 +702,6 @@
             "deck_id": "268292",
             "rank": "1",
             "player": "Jean-Baptiste Gagnepain",
-            "winrate": 0.8888888888888888,
             "commander": [
                 "Tasigur, the Golden Fang"
             ],

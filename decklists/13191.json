@@ -10,7 +10,6 @@
             "deck_id": "277280",
             "rank": "3-4",
             "player": "Paulo Bezzegh",
-            "winrate": 0.75,
             "commander": [
                 "Animar, Soul of Elements"
             ],
@@ -116,7 +115,6 @@
             "deck_id": "277281",
             "rank": "3-4",
             "player": "Aradib Morgan",
-            "winrate": 0.75,
             "commander": [
                 "Geist of Saint Traft"
             ],
@@ -218,7 +216,6 @@
             "deck_id": "277282",
             "rank": "2",
             "player": "Diego Shimura",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Vendilion Clique"
             ],
@@ -299,7 +296,6 @@
             "deck_id": "277283",
             "rank": "1",
             "player": "André Escudeiro",
-            "winrate": 0.8888888888888888,
             "commander": [
                 "Maelstrom Wanderer"
             ],
@@ -402,7 +398,6 @@
             "deck_id": "277284",
             "rank": "5-8",
             "player": "Fábio Fernandes Vieira",
-            "winrate": 0.75,
             "commander": [
                 "Karador, Ghost Chieftain"
             ],
@@ -511,7 +506,6 @@
             "deck_id": "277285",
             "rank": "5-8",
             "player": "Eduardo Shimizu",
-            "winrate": 0.75,
             "commander": [
                 "Jace, Vryn's Prodigy"
             ],
@@ -592,7 +586,6 @@
             "deck_id": "277286",
             "rank": "5-8",
             "player": "João Lucas Caparroz",
-            "winrate": 0.75,
             "commander": [
                 "Maelstrom Wanderer"
             ],
@@ -698,7 +691,6 @@
             "deck_id": "277287",
             "rank": "5-8",
             "player": "João Eduardo Santos",
-            "winrate": 0.75,
             "commander": [
                 "Jenara, Asura of War"
             ],

@@ -10,7 +10,6 @@
             "deck_id": "253322",
             "rank": "1",
             "player": "Maxim Scherbakov",
-            "winrate": 0.875,
             "commander": [
                 "Anafenza, the Foremost"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "253323",
             "rank": "2",
             "player": "Evgeniy Strokov",
-            "winrate": 0.75,
             "commander": [
                 "Thraximundar"
             ],
@@ -229,7 +227,6 @@
             "deck_id": "253324",
             "rank": "3-4",
             "player": "Alexey Gulidin",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Doran, the Siege Tower"
             ],
@@ -339,7 +336,6 @@
             "deck_id": "253325",
             "rank": "3-4",
             "player": "Oleg Evseev",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Child of Alara"
             ],
@@ -449,7 +445,6 @@
             "deck_id": "253326",
             "rank": "5-8",
             "player": "Sergey \"Loxmatii\" Lamzin",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Child of Alara"
             ],
@@ -559,7 +554,6 @@
             "deck_id": "253327",
             "rank": "5-8",
             "player": "Andrey Chaginsky",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Anafenza, the Foremost"
             ],
@@ -669,7 +663,6 @@
             "deck_id": "253328",
             "rank": "5-8",
             "player": "Andrey Zavialov",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Prime Speaker Zegana"
             ],
@@ -764,7 +757,6 @@
             "deck_id": "253329",
             "rank": "5-8",
             "player": "Vladimir Bulanov",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Geist of Saint Traft"
             ],

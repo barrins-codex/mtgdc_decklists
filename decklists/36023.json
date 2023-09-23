@@ -10,7 +10,6 @@
             "deck_id": "471373",
             "rank": "1",
             "player": "David Cremieux",
-            "winrate": 1.0,
             "commander": [
                 "General Ferrous Rokiric"
             ],
@@ -105,7 +104,6 @@
             "deck_id": "471374",
             "rank": "2",
             "player": "Edouard Lecocq",
-            "winrate": 0.8,
             "commander": [
                 "Isamaru, Hound of Konda"
             ],
@@ -189,7 +187,6 @@
             "deck_id": "471375",
             "rank": "3-4",
             "player": "Anthony Petrowiche",
-            "winrate": 0.6,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -270,7 +267,6 @@
             "deck_id": "471376",
             "rank": "3-4",
             "player": "Loïc Baverel",
-            "winrate": 0.6,
             "commander": [
                 "Kenrith, the Returned King"
             ],

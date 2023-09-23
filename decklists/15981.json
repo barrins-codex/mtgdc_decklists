@@ -10,7 +10,6 @@
             "deck_id": "298348",
             "rank": "5-8",
             "player": "Elie Soubeyrand",
-            "winrate": 0.75,
             "commander": [
                 "Baral, Chief of Compliance"
             ],
@@ -88,7 +87,6 @@
             "deck_id": "298349",
             "rank": "5-8",
             "player": "François Mallet",
-            "winrate": 0.75,
             "commander": [
                 "Zurgo Bellstriker"
             ],
@@ -167,7 +165,6 @@
             "deck_id": "298350",
             "rank": "5-8",
             "player": "Maxime \"Makexime\" Lemoine",
-            "winrate": 0.75,
             "commander": [
                 "Zurgo Bellstriker"
             ],
@@ -242,7 +239,6 @@
             "deck_id": "298351",
             "rank": "5-8",
             "player": "Noham Maubert",
-            "winrate": 0.75,
             "commander": [
                 "Bruse Tarl, Boorish Herder",
                 "Thrasios, Triton Hero"
@@ -352,7 +348,6 @@
             "deck_id": "298352",
             "rank": "3-4",
             "player": "Jeremy Heral",
-            "winrate": 0.75,
             "commander": [
                 "Reyhan, Last of the Abzan",
                 "Kraum, Ludevic's Opus"
@@ -461,7 +456,6 @@
             "deck_id": "298353",
             "rank": "1",
             "player": "Kim-lâm Huynh",
-            "winrate": 0.8888888888888888,
             "commander": [
                 "Bruse Tarl, Boorish Herder",
                 "Reyhan, Last of the Abzan"
@@ -571,7 +565,6 @@
             "deck_id": "298354",
             "rank": "2",
             "player": "Léo Carbonell",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Geist of Saint Traft"
             ],
@@ -668,7 +661,6 @@
             "deck_id": "298355",
             "rank": "3-4",
             "player": "Nicolas Rabillard",
-            "winrate": 0.75,
             "commander": [
                 "Thrasios, Triton Hero",
                 "Bruse Tarl, Boorish Herder"

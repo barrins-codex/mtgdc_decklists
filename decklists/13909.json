@@ -10,7 +10,6 @@
             "deck_id": "282301",
             "rank": "5-8",
             "player": "Matteo Marinelli",
-            "winrate": 0.6,
             "commander": [
                 "Kaalia of the Vast"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "282302",
             "rank": "5-8",
             "player": "Vasile Beruica",
-            "winrate": 0.6,
             "commander": [
                 "Geist of Saint Traft"
             ],
@@ -215,7 +213,6 @@
             "deck_id": "282303",
             "rank": "1",
             "player": "Daniele Pintaudi",
-            "winrate": 1.0,
             "commander": [
                 "Anafenza, the Foremost"
             ],
@@ -325,7 +322,6 @@
             "deck_id": "282304",
             "rank": "2",
             "player": "Orfeo Lombardo Ratti",
-            "winrate": 0.8,
             "commander": [
                 "Selvala, Explorer Returned"
             ],
@@ -423,7 +419,6 @@
             "deck_id": "282305",
             "rank": "3-4",
             "player": "Alex Girelli",
-            "winrate": 0.8,
             "commander": [
                 "Maelstrom Wanderer"
             ],
@@ -523,7 +518,6 @@
             "deck_id": "282306",
             "rank": "3-4",
             "player": "Dario Belotti",
-            "winrate": 0.8,
             "commander": [
                 "Jenara, Asura of War"
             ],
@@ -633,7 +627,6 @@
             "deck_id": "282307",
             "rank": "5-8",
             "player": "Andrea Rostellato",
-            "winrate": 0.6,
             "commander": [
                 "Doran, the Siege Tower"
             ],
@@ -743,7 +736,6 @@
             "deck_id": "282308",
             "rank": "5-8",
             "player": "Arturo Fux",
-            "winrate": 0.6,
             "commander": [
                 "Titania, Protector of Argoth"
             ],

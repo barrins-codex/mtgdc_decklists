@@ -10,7 +10,6 @@
             "deck_id": "492564",
             "rank": "1",
             "player": "Felipe Cruz",
-            "winrate": 1.0,
             "commander": [
                 "Yoshimaru, Ever Faithful",
                 "Breeches, Brazen Plunderer"
@@ -108,7 +107,6 @@
             "deck_id": "492565",
             "rank": "2",
             "player": "Adriano Santos",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Raffine, Scheming Seer"
             ],

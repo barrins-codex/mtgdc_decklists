@@ -10,7 +10,6 @@
             "deck_id": "432617",
             "rank": "1",
             "player": "Spigushe",
-            "winrate": 1.0,
             "commander": [
                 "Cosima, God of the Voyage"
             ],
@@ -95,7 +94,6 @@
             "deck_id": "432618",
             "rank": "2",
             "player": "Jarno",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Koma, Cosmos Serpent"
             ],

@@ -10,7 +10,6 @@
             "deck_id": "457719",
             "rank": "1",
             "player": "Du Tognoli",
-            "winrate": 1.0,
             "commander": [
                 "Laelia, the Blade Reforged"
             ],
@@ -98,7 +97,6 @@
             "deck_id": "457720",
             "rank": "2",
             "player": "Kelvin",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Octavia, Living Thesis"
             ],

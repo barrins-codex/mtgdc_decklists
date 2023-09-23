@@ -10,7 +10,6 @@
             "deck_id": "407004",
             "rank": "3-4",
             "player": "Pierre Claverias-mengin",
-            "winrate": 0.8,
             "commander": [
                 "Silas Renn, Seeker Adept",
                 "Akiri, Line-Slinger"
@@ -120,7 +119,6 @@
             "deck_id": "407005",
             "rank": "3-4",
             "player": "Julien \"la Tielle\" Castéla",
-            "winrate": 0.8,
             "commander": [
                 "Uro, Titan of Nature's Wrath"
             ],
@@ -212,7 +210,6 @@
             "deck_id": "407006",
             "rank": "1",
             "player": "Anthony Ruer",
-            "winrate": 1.0,
             "commander": [
                 "Uro, Titan of Nature's Wrath"
             ],
@@ -306,7 +303,6 @@
             "deck_id": "407007",
             "rank": "2",
             "player": "Léon \"tchoupi\" Mouries-martin",
-            "winrate": 0.8,
             "commander": [
                 "Kraum, Ludevic's Opus",
                 "Ludevic, Necro-Alchemist"

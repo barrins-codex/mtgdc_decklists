@@ -10,7 +10,6 @@
             "deck_id": "289670",
             "rank": "5-8",
             "player": "Korum",
-            "winrate": 0.6,
             "commander": [
                 "Yidris, Maelstrom Wielder"
             ],
@@ -112,7 +111,6 @@
             "deck_id": "289671",
             "rank": "5-8",
             "player": "Jm \"staxman\"",
-            "winrate": 0.6,
             "commander": [
                 "Breya, Etherium Shaper"
             ],
@@ -222,7 +220,6 @@
             "deck_id": "289672",
             "rank": "5-8",
             "player": "Q.mercier",
-            "winrate": 0.6,
             "commander": [
                 "Vial Smasher the Fierce",
                 "Kraum, Ludevic's Opus"
@@ -322,7 +319,6 @@
             "deck_id": "289673",
             "rank": "1",
             "player": "Julien Junyck",
-            "winrate": 1.0,
             "commander": [
                 "Baral, Chief of Compliance"
             ],
@@ -408,7 +404,6 @@
             "deck_id": "289674",
             "rank": "2",
             "player": "D \"ardo\" Lc",
-            "winrate": 0.8,
             "commander": [
                 "Tymna the Weaver",
                 "Thrasios, Triton Hero"
@@ -515,7 +510,6 @@
             "deck_id": "289675",
             "rank": "3-4",
             "player": "Theo Hautemayou",
-            "winrate": 0.8,
             "commander": [
                 "Vial Smasher the Fierce",
                 "Bruse Tarl, Boorish Herder"
@@ -625,7 +619,6 @@
             "deck_id": "289676",
             "rank": "3-4",
             "player": "Martial Lelun",
-            "winrate": 0.8,
             "commander": [
                 "Geist of Saint Traft"
             ],
@@ -722,7 +715,6 @@
             "deck_id": "289677",
             "rank": "5-8",
             "player": "Jean François P",
-            "winrate": 0.6,
             "commander": [
                 "Zurgo Bellstriker"
             ],

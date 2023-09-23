@@ -10,7 +10,6 @@
             "deck_id": "520773",
             "rank": "1",
             "player": "John Wang",
-            "winrate": 1.0,
             "commander": [
                 "Saskia the Unyielding"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "520774",
             "rank": "2",
             "player": "Yinchen Qian",
-            "winrate": 0.8,
             "commander": [
                 "Esika, God of the Tree"
             ],
@@ -227,7 +225,6 @@
             "deck_id": "520775",
             "rank": "3",
             "player": "Hongchen Zhang",
-            "winrate": 0.8,
             "commander": [
                 "Lurrus of the Dream-Den"
             ],
@@ -328,7 +325,6 @@
             "deck_id": "520776",
             "rank": "4",
             "player": "Ziqi Xi",
-            "winrate": 0.6,
             "commander": [
                 "Dennick, Pious Apprentice"
             ],

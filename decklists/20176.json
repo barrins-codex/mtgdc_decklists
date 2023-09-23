@@ -10,7 +10,6 @@
             "deck_id": "331461",
             "rank": "5-8",
             "player": "Julien Potier",
-            "winrate": 0.6,
             "commander": [
                 "Kess, Dissident Mage"
             ],
@@ -119,7 +118,6 @@
             "deck_id": "331462",
             "rank": "3-4",
             "player": "Andrea Hertwig",
-            "winrate": 0.8,
             "commander": [
                 "Arahbo, Roar of the World"
             ],
@@ -220,7 +218,6 @@
             "deck_id": "331463",
             "rank": "3-4",
             "player": "Hervé Brocker",
-            "winrate": 0.8,
             "commander": [
                 "Nicol Bolas, the Ravager"
             ],
@@ -330,7 +327,6 @@
             "deck_id": "331464",
             "rank": "1",
             "player": "Kozent Vezuli",
-            "winrate": 1.0,
             "commander": [
                 "Thrasios, Triton Hero",
                 "Sidar Kondo of Jamuraa"
@@ -434,7 +430,6 @@
             "deck_id": "331465",
             "rank": "2",
             "player": "Fabrice Knittel",
-            "winrate": 0.8,
             "commander": [
                 "Titania, Protector of Argoth"
             ],
@@ -529,7 +524,6 @@
             "deck_id": "331466",
             "rank": "5-8",
             "player": "Simon Calligaro",
-            "winrate": 0.6,
             "commander": [
                 "Saskia the Unyielding"
             ],
@@ -639,7 +633,6 @@
             "deck_id": "331467",
             "rank": "5-8",
             "player": "François Corpel",
-            "winrate": 0.6,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -717,7 +710,6 @@
             "deck_id": "331468",
             "rank": "5-8",
             "player": "Timothé Turko",
-            "winrate": 0.6,
             "commander": [
                 "Titania, Protector of Argoth"
             ],

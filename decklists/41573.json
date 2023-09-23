@@ -10,7 +10,6 @@
             "deck_id": "508856",
             "rank": "1",
             "player": "Sacha Keitel",
-            "winrate": 1.0,
             "commander": [
                 "Dennick, Pious Apprentice"
             ],
@@ -114,7 +113,6 @@
             "deck_id": "508857",
             "rank": "2",
             "player": "Romain Chabaud",
-            "winrate": 0.8,
             "commander": [
                 "Wilson, Refined Grizzly",
                 "Candlekeep Sage"

@@ -10,7 +10,6 @@
             "deck_id": "462172",
             "rank": "1",
             "player": "Dung Nguyen",
-            "winrate": 1.0,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -98,7 +97,6 @@
             "deck_id": "462173",
             "rank": "2",
             "player": "Jan Kousal",
-            "winrate": 0.8,
             "commander": [
                 "The Prismatic Piper",
                 "Tevesh Szat, Doom of Fools"
@@ -197,7 +195,6 @@
             "deck_id": "462174",
             "rank": "3-4",
             "player": "Luká Kulhánek",
-            "winrate": 0.8,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -278,7 +275,6 @@
             "deck_id": "462175",
             "rank": "3-4",
             "player": "David Tran",
-            "winrate": 0.8,
             "commander": [
                 "Esika, God of the Tree"
             ],

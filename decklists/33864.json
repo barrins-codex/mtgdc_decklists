@@ -10,7 +10,6 @@
             "deck_id": "457925",
             "rank": "1",
             "player": "Yann Brugière",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Hogaak, Arisen Necropolis"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "457926",
             "rank": "2",
             "player": "Justo Chacon",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Sai, Master Thopterist"
             ],
@@ -207,7 +205,6 @@
             "deck_id": "457927",
             "rank": "3-4",
             "player": "Alexandre Benac",
-            "winrate": 0.625,
             "commander": [
                 "Hogaak, Arisen Necropolis"
             ],
@@ -317,7 +314,6 @@
             "deck_id": "457928",
             "rank": "3-4",
             "player": "Bastien Guichard",
-            "winrate": 0.625,
             "commander": [
                 "Isamaru, Hound of Konda"
             ],
@@ -402,7 +398,6 @@
             "deck_id": "457929",
             "rank": "5-8",
             "player": "Jérémy Poujade",
-            "winrate": 0.625,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -512,7 +507,6 @@
             "deck_id": "457930",
             "rank": "5-8",
             "player": "Yann Torillec",
-            "winrate": 0.625,
             "commander": [
                 "Galazeth Prismari"
             ],
@@ -610,7 +604,6 @@
             "deck_id": "457931",
             "rank": "5-8",
             "player": "Nicolas Righi",
-            "winrate": 0.625,
             "commander": [
                 "Adeliz, the Cinder Wind"
             ],
@@ -706,7 +699,6 @@
             "deck_id": "457932",
             "rank": "5-8",
             "player": "Roland Garros",
-            "winrate": 0.625,
             "commander": [
                 "Karador, Ghost Chieftain"
             ],

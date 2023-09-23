@@ -10,7 +10,6 @@
             "deck_id": "483117",
             "rank": "1",
             "player": "Jojo Francisco",
-            "winrate": 1.0,
             "commander": [
                 "Tourach, Dread Cantor"
             ],
@@ -98,7 +97,6 @@
             "deck_id": "483118",
             "rank": "2",
             "player": "Aerwin Asico",
-            "winrate": 0.8,
             "commander": [
                 "Elminster"
             ],
@@ -199,7 +197,6 @@
             "deck_id": "483119",
             "rank": "3-4",
             "player": "Juan Agoncillo",
-            "winrate": 0.6,
             "commander": [
                 "Magda, Brazen Outlaw"
             ],
@@ -288,7 +285,6 @@
             "deck_id": "483120",
             "rank": "3-4",
             "player": "Jonathan Dolor",
-            "winrate": 0.6,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],

@@ -10,7 +10,6 @@
             "deck_id": "501561",
             "rank": "1",
             "player": "Grégoire Hulin",
-            "winrate": 1.0,
             "commander": [
                 "Kroxa, Titan of Death's Hunger"
             ],
@@ -111,7 +110,6 @@
             "deck_id": "501562",
             "rank": "2",
             "player": "Antoine Colomb",
-            "winrate": 0.8,
             "commander": [
                 "The Ur-Dragon"
             ],

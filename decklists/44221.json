@@ -10,7 +10,6 @@
             "deck_id": "526283",
             "rank": "1",
             "player": "Vincent Banchieri",
-            "winrate": 0.8888888888888888,
             "commander": [
                 "Bruse Tarl, Boorish Herder",
                 "Yoshimaru, Ever Faithful"
@@ -115,7 +114,6 @@
             "deck_id": "526284",
             "rank": "2",
             "player": "Avel Colleu",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Jeska, Thrice Reborn",
                 "Yoshimaru, Ever Faithful"
@@ -215,7 +213,6 @@
             "deck_id": "526285",
             "rank": "3-4",
             "player": "Pierre Ambroise",
-            "winrate": 0.75,
             "commander": [
                 "Tivit, Seller of Secrets"
             ],
@@ -325,7 +322,6 @@
             "deck_id": "526286",
             "rank": "3-4",
             "player": "Paul Lagues",
-            "winrate": 0.75,
             "commander": [
                 "Wernog, Rider's Chaplain",
                 "Cecily, Haunted Mage"
@@ -435,7 +431,6 @@
             "deck_id": "526287",
             "rank": "5-8",
             "player": "Benoit Jean Ruelle",
-            "winrate": 0.75,
             "commander": [
                 "Light-Paws, Emperor's Voice"
             ],
@@ -516,7 +511,6 @@
             "deck_id": "526288",
             "rank": "5-8",
             "player": "Hugo De Almeida",
-            "winrate": 0.75,
             "commander": [
                 "Juri, Master of the Revue",
                 "Pick-a-Beeble",
@@ -625,7 +619,6 @@
             "deck_id": "526289",
             "rank": "5-8",
             "player": "Philippe Carlier",
-            "winrate": 0.75,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -735,7 +728,6 @@
             "deck_id": "526290",
             "rank": "5-8",
             "player": "Alexis Fontaine",
-            "winrate": 0.75,
             "commander": [
                 "Bruse Tarl, Boorish Herder",
                 "Yoshimaru, Ever Faithful"

@@ -10,7 +10,6 @@
             "deck_id": "272690",
             "rank": "3-4",
             "player": "Dulac Jérémie",
-            "winrate": 0.625,
             "commander": [
                 "Keranos, God of Storms"
             ],
@@ -97,7 +96,6 @@
             "deck_id": "272691",
             "rank": "3-4",
             "player": "Soubeyrand élie",
-            "winrate": 0.625,
             "commander": [
                 "Grand Arbiter Augustin IV"
             ],
@@ -193,7 +191,6 @@
             "deck_id": "272692",
             "rank": "1",
             "player": "Léo Carbonell",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Jace, Vryn's Prodigy"
             ],
@@ -274,7 +271,6 @@
             "deck_id": "272693",
             "rank": "2",
             "player": "Jérémy Lecomte",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Titania, Protector of Argoth"
             ],

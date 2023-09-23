@@ -10,7 +10,6 @@
             "deck_id": "531492",
             "rank": "1",
             "player": "Nick Yu",
-            "winrate": 1.0,
             "commander": [
                 "Ghyrson Starn, Kelermorph"
             ],
@@ -113,7 +112,6 @@
             "deck_id": "531493",
             "rank": "2",
             "player": "Ricky Madrigal",
-            "winrate": 0.8,
             "commander": [
                 "Gut, True Soul Zealot",
                 "Veteran Soldier"
@@ -220,7 +218,6 @@
             "deck_id": "531494",
             "rank": "3-4",
             "player": "Rexel Tenorio",
-            "winrate": 0.8,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -329,7 +326,6 @@
             "deck_id": "531495",
             "rank": "3-4",
             "player": "Ste Villaraza",
-            "winrate": 0.8,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -439,7 +435,6 @@
             "deck_id": "531496",
             "rank": "5-8",
             "player": "Erbil Sinforoso",
-            "winrate": 0.6,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -549,7 +544,6 @@
             "deck_id": "531497",
             "rank": "5-8",
             "player": "Jorrel Mendiola",
-            "winrate": 0.6,
             "commander": [
                 "Ghyrson Starn, Kelermorph"
             ],
@@ -652,7 +646,6 @@
             "deck_id": "531498",
             "rank": "5-8",
             "player": "Iori Zugaikotsu",
-            "winrate": 0.6,
             "commander": [
                 "Yoshimaru, Ever Faithful",
                 "Kraum, Ludevic's Opus"
@@ -762,7 +755,6 @@
             "deck_id": "531499",
             "rank": "5-8",
             "player": "Mark Gonzales",
-            "winrate": 0.6,
             "commander": [
                 "Azusa, Lost but Seeking"
             ],

@@ -10,7 +10,6 @@
             "deck_id": "510839",
             "rank": "1",
             "player": "Laurent Fauré",
-            "winrate": 0.875,
             "commander": [
                 "Leovold, Emissary of Trest"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "510840",
             "rank": "2",
             "player": "Kevin Leal",
-            "winrate": 0.75,
             "commander": [
                 "Feldon, Ronom Excavator"
             ],
@@ -208,7 +206,6 @@
             "deck_id": "510841",
             "rank": "3-4",
             "player": "Nicolas Alengry",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Queen Marchesa"
             ],
@@ -318,7 +315,6 @@
             "deck_id": "510842",
             "rank": "3-4",
             "player": "David Carbon",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Arcum Dagsson"
             ],
@@ -404,7 +400,6 @@
             "deck_id": "510843",
             "rank": "5-8",
             "player": "Guillaume Rebel",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Light-Paws, Emperor's Voice"
             ],
@@ -492,7 +487,6 @@
             "deck_id": "510844",
             "rank": "5-8",
             "player": "Esteban Perrier",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Klothys, God of Destiny"
             ],
@@ -595,7 +589,6 @@
             "deck_id": "510845",
             "rank": "5-8",
             "player": "Jerome Dufour",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Feldon, Ronom Excavator"
             ],
@@ -679,7 +672,6 @@
             "deck_id": "510846",
             "rank": "5-8",
             "player": "Damien Eychenne",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Feldon, Ronom Excavator"
             ],

@@ -10,7 +10,6 @@
             "deck_id": "502831",
             "rank": "1",
             "player": "Christian Agbon",
-            "winrate": 1.0,
             "commander": [
                 "Ardoz, Cobbler of War"
             ],
@@ -96,7 +95,6 @@
             "deck_id": "502832",
             "rank": "2",
             "player": "Agustin Ireneo",
-            "winrate": 0.8,
             "commander": [
                 "Marath, Will of the Wild"
             ],
@@ -203,7 +201,6 @@
             "deck_id": "502833",
             "rank": "3",
             "player": "Ricky Madrigal",
-            "winrate": 0.6,
             "commander": [
                 "Veteran Soldier",
                 "Gut, True Soul Zealot"
@@ -310,7 +307,6 @@
             "deck_id": "502834",
             "rank": "4",
             "player": "Ian Paul Roa",
-            "winrate": 0.6,
             "commander": [
                 "Hogaak, Arisen Necropolis"
             ],

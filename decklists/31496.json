@@ -10,7 +10,6 @@
             "deck_id": "444017",
             "rank": "1",
             "player": "Diego \"dmyr\" Rio",
-            "winrate": 1.0,
             "commander": [
                 "Jirina Kudro"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "444018",
             "rank": "2",
             "player": "Shandra Ickowicz",
-            "winrate": 0.8,
             "commander": [
                 "Daretti, Scrap Savant"
             ],
@@ -210,7 +208,6 @@
             "deck_id": "444019",
             "rank": "3-4",
             "player": "Olivier Clérembaut",
-            "winrate": 0.8,
             "commander": [
                 "Atraxa, Praetors' Voice"
             ],
@@ -320,7 +317,6 @@
             "deck_id": "444020",
             "rank": "3-4",
             "player": "Marin \"arrias\" Boulangé",
-            "winrate": 0.8,
             "commander": [
                 "Adeliz, the Cinder Wind"
             ],

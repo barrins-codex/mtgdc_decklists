@@ -10,7 +10,6 @@
             "deck_id": "297255",
             "rank": "5-8",
             "player": "Sullivan Valdairon",
-            "winrate": 0.75,
             "commander": [
                 "Karlov of the Ghost Council"
             ],
@@ -107,7 +106,6 @@
             "deck_id": "297256",
             "rank": "5-8",
             "player": "Maxime Allée",
-            "winrate": 0.75,
             "commander": [
                 "Bruse Tarl, Boorish Herder",
                 "Reyhan, Last of the Abzan"
@@ -216,7 +214,6 @@
             "deck_id": "297257",
             "rank": "3-4",
             "player": "Lionel Gallière",
-            "winrate": 0.75,
             "commander": [
                 "Geist of Saint Traft"
             ],
@@ -315,7 +312,6 @@
             "deck_id": "297258",
             "rank": "3-4",
             "player": "Alexandre Audou",
-            "winrate": 0.75,
             "commander": [
                 "Zurgo Bellstriker"
             ],
@@ -399,7 +395,6 @@
             "deck_id": "297259",
             "rank": "2",
             "player": "Timothée Courant",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Zurgo Bellstriker"
             ],
@@ -477,7 +472,6 @@
             "deck_id": "297260",
             "rank": "1",
             "player": "Nicolas Morel",
-            "winrate": 0.8888888888888888,
             "commander": [
                 "Geist of Saint Traft"
             ],
@@ -572,7 +566,6 @@
             "deck_id": "297261",
             "rank": "5-8",
             "player": "Hugo Eterradossi",
-            "winrate": 0.75,
             "commander": [
                 "Maelstrom Wanderer"
             ],
@@ -673,7 +666,6 @@
             "deck_id": "297262",
             "rank": "5-8",
             "player": "Stéphane Rogard",
-            "winrate": 0.75,
             "commander": [
                 "Prossh, Skyraider of Kher"
             ],

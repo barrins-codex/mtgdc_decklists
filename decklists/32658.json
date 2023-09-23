@@ -10,7 +10,6 @@
             "deck_id": "450618",
             "rank": "1",
             "player": "Ivan Bais",
-            "winrate": 1.0,
             "commander": [
                 "Esika, God of the Tree"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "450619",
             "rank": "2",
             "player": "Ricardo Martins",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],

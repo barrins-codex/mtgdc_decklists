@@ -10,7 +10,6 @@
             "deck_id": "315109",
             "rank": "5-8",
             "player": "Daniel Quinto",
-            "winrate": 0.6,
             "commander": [
                 "Zurgo Bellstriker"
             ],
@@ -91,7 +90,6 @@
             "deck_id": "315110",
             "rank": "5-8",
             "player": "Kenneth Lee",
-            "winrate": 0.6,
             "commander": [
                 "Dragonlord Ojutai"
             ],
@@ -191,7 +189,6 @@
             "deck_id": "315111",
             "rank": "5-8",
             "player": "Jaime Magsi",
-            "winrate": 0.6,
             "commander": [
                 "Yisan, the Wanderer Bard"
             ],
@@ -281,7 +278,6 @@
             "deck_id": "315112",
             "rank": "3-4",
             "player": "Videz, Lloyd",
-            "winrate": 0.8,
             "commander": [
                 "Drana, Liberator of Malakir"
             ],
@@ -362,7 +358,6 @@
             "deck_id": "315113",
             "rank": "2",
             "player": "Nilo Moran",
-            "winrate": 0.8,
             "commander": [
                 "Nissa, Vastwood Seer"
             ],
@@ -455,7 +450,6 @@
             "deck_id": "315114",
             "rank": "1",
             "player": "Dominique Salas",
-            "winrate": 1.0,
             "commander": [
                 "Zurgo Bellstriker"
             ],
@@ -539,7 +533,6 @@
             "deck_id": "315115",
             "rank": "3-4",
             "player": "Anthony Alviar",
-            "winrate": 0.8,
             "commander": [
                 "Queen Marchesa"
             ],
@@ -649,7 +642,6 @@
             "deck_id": "315116",
             "rank": "5-8",
             "player": "Jean-paul Clavio",
-            "winrate": 0.6,
             "commander": [
                 "Titania, Protector of Argoth"
             ],

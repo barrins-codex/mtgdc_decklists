@@ -10,7 +10,6 @@
             "deck_id": "260615",
             "rank": "5-8",
             "player": "dimithrone",
-            "winrate": 0.75,
             "commander": [
                 "Karador, Ghost Chieftain"
             ],
@@ -119,7 +118,6 @@
             "deck_id": "260616",
             "rank": "5-8",
             "player": "TimTim",
-            "winrate": 0.75,
             "commander": [
                 "Kytheon, Hero of Akros"
             ],
@@ -200,7 +198,6 @@
             "deck_id": "260617",
             "rank": "3-4",
             "player": "KillerShrike",
-            "winrate": 0.75,
             "commander": [
                 "Marath, Will of the Wild"
             ],
@@ -309,7 +306,6 @@
             "deck_id": "260618",
             "rank": "5-8",
             "player": "Junkenstein",
-            "winrate": 0.75,
             "commander": [
                 "Jenara, Asura of War"
             ],
@@ -419,7 +415,6 @@
             "deck_id": "260619",
             "rank": "5-8",
             "player": "TheNameWasTaken",
-            "winrate": 0.75,
             "commander": [
                 "Yisan, the Wanderer Bard"
             ],
@@ -507,7 +502,6 @@
             "deck_id": "260620",
             "rank": "1",
             "player": "Akira Osumi",
-            "winrate": 0.8888888888888888,
             "commander": [
                 "Alesha, Who Smiles at Death"
             ],
@@ -617,7 +611,6 @@
             "deck_id": "260621",
             "rank": "2",
             "player": "bozfoogle",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Sidisi, Undead Vizier"
             ],
@@ -702,7 +695,6 @@
             "deck_id": "260622",
             "rank": "3-4",
             "player": "Valdemart",
-            "winrate": 0.75,
             "commander": [
                 "Anafenza, the Foremost"
             ],

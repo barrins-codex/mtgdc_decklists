@@ -10,7 +10,6 @@
             "deck_id": "421942",
             "rank": "1",
             "player": "Diego Rio",
-            "winrate": 0.8888888888888888,
             "commander": [
                 "Jirina Kudro"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "421943",
             "rank": "2",
             "player": "Félix \"midas\" Calais",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Tymna the Weaver",
                 "Thrasios, Triton Hero"
@@ -230,7 +228,6 @@
             "deck_id": "421944",
             "rank": "3-4",
             "player": "Victor Lavialle",
-            "winrate": 0.75,
             "commander": [
                 "Uro, Titan of Nature's Wrath"
             ],
@@ -318,7 +315,6 @@
             "deck_id": "421945",
             "rank": "3-4",
             "player": "Olivier \"Rofellos\" Arnold",
-            "winrate": 0.75,
             "commander": [
                 "Isamaru, Hound of Konda"
             ],
@@ -401,7 +397,6 @@
             "deck_id": "421946",
             "rank": "5-8",
             "player": "Thibault Deschamp",
-            "winrate": 0.75,
             "commander": [
                 "Niv-Mizzet Reborn"
             ],
@@ -511,7 +506,6 @@
             "deck_id": "421947",
             "rank": "5-8",
             "player": "Flavien \"crimelune\" Paillet",
-            "winrate": 0.75,
             "commander": [
                 "Kelsien, the Plague"
             ],
@@ -621,7 +615,6 @@
             "deck_id": "421948",
             "rank": "5-8",
             "player": "Kaourintin \"falaakr\" Le Guiban",
-            "winrate": 0.75,
             "commander": [
                 "Will Kenrith",
                 "Rowan Kenrith"
@@ -723,7 +716,6 @@
             "deck_id": "421949",
             "rank": "5-8",
             "player": "Denis \"ninjamaru\" Rosa",
-            "winrate": 0.75,
             "commander": [
                 "Isamaru, Hound of Konda"
             ],

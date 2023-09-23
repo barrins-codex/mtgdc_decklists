@@ -10,7 +10,6 @@
             "deck_id": "446149",
             "rank": "1",
             "player": "Leonardo Maeda",
-            "winrate": 1.0,
             "commander": [
                 "Titania, Protector of Argoth"
             ],
@@ -99,7 +98,6 @@
             "deck_id": "446150",
             "rank": "2",
             "player": "William Graciani",
-            "winrate": 0.8,
             "commander": [
                 "Dargo, the Shipwrecker",
                 "Ikra Shidiqi, the Usurper"

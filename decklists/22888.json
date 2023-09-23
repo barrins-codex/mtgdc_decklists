@@ -10,7 +10,6 @@
             "deck_id": "356538",
             "rank": "3-4",
             "player": "Victor Butrimov",
-            "winrate": 0.6,
             "commander": [
                 "Lord Windgrace"
             ],
@@ -115,7 +114,6 @@
             "deck_id": "356539",
             "rank": "3-4",
             "player": "Leonid Bogachev",
-            "winrate": 0.6,
             "commander": [
                 "Anje Falkenrath"
             ],
@@ -215,7 +213,6 @@
             "deck_id": "356540",
             "rank": "2",
             "player": "Aleksandr Maximov",
-            "winrate": 0.8,
             "commander": [
                 "Adeliz, the Cinder Wind"
             ],
@@ -309,7 +306,6 @@
             "deck_id": "356541",
             "rank": "1",
             "player": "Mesheriakov Maxim",
-            "winrate": 1.0,
             "commander": [
                 "Kykar, Wind's Fury"
             ],

@@ -10,7 +10,6 @@
             "deck_id": "516242",
             "rank": "1",
             "player": "Chang Zheng",
-            "winrate": 1.0,
             "commander": [
                 "Atraxa, Grand Unifier"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "516243",
             "rank": "2",
             "player": "Xu Han",
-            "winrate": 0.8,
             "commander": [
                 "Niv-Mizzet Reborn"
             ],
@@ -230,7 +228,6 @@
             "deck_id": "516244",
             "rank": "3",
             "player": "Ruiyuan Shao",
-            "winrate": 0.8,
             "commander": [
                 "Dihada, Binder of Wills"
             ],
@@ -340,7 +337,6 @@
             "deck_id": "516245",
             "rank": "4",
             "player": "Shijia Meng",
-            "winrate": 0.8,
             "commander": [
                 "Minsc, Beloved Ranger"
             ],

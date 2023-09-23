@@ -10,7 +10,6 @@
             "deck_id": "491702",
             "rank": "1",
             "player": "Thibaut Bredzinski",
-            "winrate": 1.0,
             "commander": [
                 "Flaming Fist",
                 "Gut, True Soul Zealot"
@@ -110,7 +109,6 @@
             "deck_id": "491703",
             "rank": "2",
             "player": "Fredytjeck",
-            "winrate": 0.8,
             "commander": [
                 "Kess, Dissident Mage"
             ],
@@ -217,7 +215,6 @@
             "deck_id": "491704",
             "rank": "3-4",
             "player": "Quentin Bourrinet",
-            "winrate": 0.8,
             "commander": [
                 "Marath, Will of the Wild"
             ],
@@ -327,7 +324,6 @@
             "deck_id": "491705",
             "rank": "3-4",
             "player": "Jeremy Paty",
-            "winrate": 0.8,
             "commander": [
                 "Adeliz, the Cinder Wind"
             ],
@@ -426,7 +422,6 @@
             "deck_id": "491706",
             "rank": "5-8",
             "player": "Kelig Maze",
-            "winrate": 0.8,
             "commander": [
                 "Ghyrson Starn, Kelermorph"
             ],
@@ -523,7 +518,6 @@
             "deck_id": "491707",
             "rank": "5-8",
             "player": "Didier Lespinas",
-            "winrate": 0.8,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -611,7 +605,6 @@
             "deck_id": "491708",
             "rank": "5-8",
             "player": "Jonathan Valentin",
-            "winrate": 0.8,
             "commander": [
                 "Tana, the Bloodsower",
                 "Yoshimaru, Ever Faithful"
@@ -721,7 +714,6 @@
             "deck_id": "491709",
             "rank": "5-8",
             "player": "Baptiste Capou",
-            "winrate": 0.8,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],

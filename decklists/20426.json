@@ -10,7 +10,6 @@
             "deck_id": "333825",
             "rank": "1",
             "player": "Miroslav Vana",
-            "winrate": 0.8888888888888888,
             "commander": [
                 "Maelstrom Wanderer"
             ],
@@ -109,7 +108,6 @@
             "deck_id": "333826",
             "rank": "1",
             "player": "Ondrej Smetana",
-            "winrate": 0.8888888888888888,
             "commander": [
                 "Karlov of the Ghost Council"
             ],
@@ -219,7 +217,6 @@
             "deck_id": "333827",
             "rank": "3-4",
             "player": "Bohdan Frejisin",
-            "winrate": 0.75,
             "commander": [
                 "Saskia the Unyielding"
             ],
@@ -329,7 +326,6 @@
             "deck_id": "333828",
             "rank": "3-4",
             "player": "Pavel Podlesak",
-            "winrate": 0.75,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -411,7 +407,6 @@
             "deck_id": "333829",
             "rank": "5-8",
             "player": "Martin Holek",
-            "winrate": 0.75,
             "commander": [
                 "Kess, Dissident Mage"
             ],
@@ -521,7 +516,6 @@
             "deck_id": "333830",
             "rank": "5-8",
             "player": "Vit Cech",
-            "winrate": 0.75,
             "commander": [
                 "The Gitrog Monster"
             ],
@@ -617,7 +611,6 @@
             "deck_id": "333831",
             "rank": "5-8",
             "player": "Jan Kousal",
-            "winrate": 0.75,
             "commander": [
                 "Akiri, Line-Slinger",
                 "Tymna the Weaver"
@@ -723,7 +716,6 @@
             "deck_id": "333832",
             "rank": "5-8",
             "player": "Jan Jilek",
-            "winrate": 0.75,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],

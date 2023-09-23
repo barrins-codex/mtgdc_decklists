@@ -10,7 +10,6 @@
             "deck_id": "355656",
             "rank": "1",
             "player": "Alexandre Lafont",
-            "winrate": 1.0,
             "commander": [
                 "God-Eternal Kefnet"
             ],
@@ -85,7 +84,6 @@
             "deck_id": "355657",
             "rank": "2",
             "player": "Alexandre Leroyer",
-            "winrate": 0.8,
             "commander": [
                 "Titania, Protector of Argoth"
             ],
@@ -181,7 +179,6 @@
             "deck_id": "355658",
             "rank": "3-4",
             "player": "Clément \"nidéyo\" Grigny",
-            "winrate": 0.8,
             "commander": [
                 "Saskia the Unyielding"
             ],
@@ -291,7 +288,6 @@
             "deck_id": "355659",
             "rank": "3-4",
             "player": "Gaetan Lavender",
-            "winrate": 0.8,
             "commander": [
                 "Queen Marchesa"
             ],

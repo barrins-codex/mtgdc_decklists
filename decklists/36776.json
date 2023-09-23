@@ -10,7 +10,6 @@
             "deck_id": "476506",
             "rank": "1",
             "player": "Gabe Enriquez",
-            "winrate": 1.0,
             "commander": [
                 "Minsc &amp; Boo, Timeless Heroes"
             ],
@@ -111,7 +110,6 @@
             "deck_id": "476507",
             "rank": "2",
             "player": "Chewey Caranay",
-            "winrate": 0.8,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],

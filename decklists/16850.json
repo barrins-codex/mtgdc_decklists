@@ -10,7 +10,6 @@
             "deck_id": "304270",
             "rank": "1",
             "player": "Lionel \"hannibal44\" Galliere",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Rashmi, Eternities Crafter"
             ],
@@ -102,7 +101,6 @@
             "deck_id": "304271",
             "rank": "6",
             "player": "Julien Boulinguez",
-            "winrate": 0.625,
             "commander": [
                 "Kalitas, Traitor of Ghet"
             ],
@@ -187,7 +185,6 @@
             "deck_id": "304272",
             "rank": "7",
             "player": "Aurélien Lion",
-            "winrate": 0.625,
             "commander": [
                 "Yidris, Maelstrom Wielder"
             ],
@@ -297,7 +294,6 @@
             "deck_id": "304273",
             "rank": "3",
             "player": "Romain Fourmas",
-            "winrate": 0.625,
             "commander": [
                 "Sliver Overlord"
             ],
@@ -406,7 +402,6 @@
             "deck_id": "304274",
             "rank": "2",
             "player": "Joshua Montez",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Ruhan of the Fomori"
             ],
@@ -512,7 +507,6 @@
             "deck_id": "304275",
             "rank": "8",
             "player": "Jérémie Morvant",
-            "winrate": 0.625,
             "commander": [
                 "Horde of Notions"
             ],
@@ -621,7 +615,6 @@
             "deck_id": "304276",
             "rank": "4",
             "player": "Gael Leturque",
-            "winrate": 0.625,
             "commander": [
                 "Omnath, Locus of Mana"
             ],
@@ -715,7 +708,6 @@
             "deck_id": "304277",
             "rank": "5",
             "player": "Alexandre Audou",
-            "winrate": 0.625,
             "commander": [
                 "Saffi Eriksdotter"
             ],

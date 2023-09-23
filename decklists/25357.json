@@ -10,7 +10,6 @@
             "deck_id": "381252",
             "rank": "1",
             "player": "Eric \"morchiswe\" Genin",
-            "winrate": 1.0,
             "commander": [
                 "Iname, Death Aspect"
             ],
@@ -96,7 +95,6 @@
             "deck_id": "381253",
             "rank": "2",
             "player": "Antoine Urset",
-            "winrate": 0.8,
             "commander": [
                 "Isamaru, Hound of Konda"
             ],

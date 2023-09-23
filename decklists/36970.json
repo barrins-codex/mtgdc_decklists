@@ -10,7 +10,6 @@
             "deck_id": "477692",
             "rank": "1",
             "player": "Loïc Baverel",
-            "winrate": 1.0,
             "commander": [
                 "Minsc &amp; Boo, Timeless Heroes"
             ],
@@ -110,7 +109,6 @@
             "deck_id": "477693",
             "rank": "2",
             "player": "Pierre Almaraz",
-            "winrate": 0.8,
             "commander": [
                 "Dennick, Pious Apprentice"
             ],
@@ -210,7 +208,6 @@
             "deck_id": "477694",
             "rank": "3-4",
             "player": "Cyril Tournier",
-            "winrate": 0.6,
             "commander": [
                 "Zur the Enchanter"
             ],
@@ -320,7 +317,6 @@
             "deck_id": "477695",
             "rank": "3-4",
             "player": "Kevin Cellier",
-            "winrate": 0.6,
             "commander": [
                 "Light-Paws, Emperor's Voice"
             ],

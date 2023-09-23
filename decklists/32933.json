@@ -10,7 +10,6 @@
             "deck_id": "452127",
             "rank": "1",
             "player": "Alexandre Andouard",
-            "winrate": 1.0,
             "commander": [
                 "Maelstrom Wanderer"
             ],
@@ -111,7 +110,6 @@
             "deck_id": "452128",
             "rank": "2",
             "player": "Thibault Dupuy",
-            "winrate": 0.8,
             "commander": [
                 "Kinnan, Bonder Prodigy"
             ],
@@ -202,7 +200,6 @@
             "deck_id": "452129",
             "rank": "3-4",
             "player": "Pierre Almaraz",
-            "winrate": 0.6,
             "commander": [
                 "Isamaru, Hound of Konda"
             ],
@@ -284,7 +281,6 @@
             "deck_id": "452130",
             "rank": "3-4",
             "player": "Loïc Baverel",
-            "winrate": 0.6,
             "commander": [
                 "Minsc, Beloved Ranger"
             ],

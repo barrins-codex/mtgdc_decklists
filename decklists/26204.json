@@ -10,7 +10,6 @@
             "deck_id": "399072",
             "rank": "2",
             "player": "Donmartino",
-            "winrate": 0.8,
             "commander": [
                 "Tymna the Weaver",
                 "Kraum, Ludevic's Opus"
@@ -120,7 +119,6 @@
             "deck_id": "399073",
             "rank": "1",
             "player": "Bitzelberg",
-            "winrate": 1.0,
             "commander": [
                 "Karlov of the Ghost Council",
                 "Lurrus of the Dream-Den"

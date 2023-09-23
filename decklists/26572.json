@@ -10,7 +10,6 @@
             "deck_id": "405126",
             "rank": "7",
             "player": "Stefan Grijincu",
-            "winrate": 0.625,
             "commander": [
                 "Doran, the Siege Tower"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "405127",
             "rank": "8",
             "player": "Milo Palek",
-            "winrate": 0.625,
             "commander": [
                 "Ludevic, Necro-Alchemist",
                 "Kraum, Ludevic's Opus"
@@ -216,7 +214,6 @@
             "deck_id": "405128",
             "rank": "6",
             "player": "Zdenek Hlavsa",
-            "winrate": 0.625,
             "commander": [
                 "Tymna the Weaver",
                 "Sidar Kondo of Jamuraa"
@@ -326,7 +323,6 @@
             "deck_id": "405129",
             "rank": "5",
             "player": "Vaclav Hrdlicka",
-            "winrate": 0.625,
             "commander": [
                 "Winota, Joiner of Forces"
             ],
@@ -423,7 +419,6 @@
             "deck_id": "405130",
             "rank": "4",
             "player": "Andrej Uram",
-            "winrate": 0.625,
             "commander": [
                 "Uro, Titan of Nature's Wrath"
             ],
@@ -527,7 +522,6 @@
             "deck_id": "405131",
             "rank": "3",
             "player": "Ondrej Hruby",
-            "winrate": 0.625,
             "commander": [
                 "Isamaru, Hound of Konda"
             ],
@@ -609,7 +603,6 @@
             "deck_id": "405132",
             "rank": "2",
             "player": "David Stepanek",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Tymna the Weaver",
                 "Kraum, Ludevic's Opus"
@@ -719,7 +712,6 @@
             "deck_id": "405133",
             "rank": "1",
             "player": "Josef Kumstyr",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],

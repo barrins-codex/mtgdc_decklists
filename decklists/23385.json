@@ -10,7 +10,6 @@
             "deck_id": "361366",
             "rank": "1",
             "player": "Rullaud Quentin",
-            "winrate": 1.0,
             "commander": [
                 "Niv-Mizzet Reborn"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "361367",
             "rank": "2",
             "player": "Payan Gregoire",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Narset, Enlightened Master"
             ],

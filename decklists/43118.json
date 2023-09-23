@@ -10,7 +10,6 @@
             "deck_id": "518626",
             "rank": "1",
             "player": "Cedric Roy",
-            "winrate": 0.8888888888888888,
             "commander": [
                 "Dihada, Binder of Wills"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "518627",
             "rank": "2",
             "player": "Alexis Rejasse",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Old Stickfingers"
             ],
@@ -221,7 +219,6 @@
             "deck_id": "518628",
             "rank": "3-4",
             "player": "Thibault Bredzinski",
-            "winrate": 0.75,
             "commander": [
                 "Yoshimaru, Ever Faithful",
                 "Bruse Tarl, Boorish Herder"
@@ -324,7 +321,6 @@
             "deck_id": "518629",
             "rank": "3-4",
             "player": "Gauthier Dosile",
-            "winrate": 0.75,
             "commander": [
                 "Old Stickfingers"
             ],
@@ -425,7 +421,6 @@
             "deck_id": "518630",
             "rank": "5-8",
             "player": "Pierre Bossoutrot",
-            "winrate": 0.75,
             "commander": [
                 "Hogaak, Arisen Necropolis"
             ],
@@ -535,7 +530,6 @@
             "deck_id": "518631",
             "rank": "5-8",
             "player": "Jean Mathieu Gaffie",
-            "winrate": 0.75,
             "commander": [
                 "Minsc, Beloved Ranger"
             ],
@@ -643,7 +637,6 @@
             "deck_id": "518632",
             "rank": "5-8",
             "player": "Yann Grent",
-            "winrate": 0.75,
             "commander": [
                 "Old Stickfingers"
             ],
@@ -742,7 +735,6 @@
             "deck_id": "518633",
             "rank": "5-8",
             "player": "Julien Garcia",
-            "winrate": 0.75,
             "commander": [
                 "Tivit, Seller of Secrets"
             ],

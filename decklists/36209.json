@@ -10,7 +10,6 @@
             "deck_id": "472549",
             "rank": "1",
             "player": "Cilbert Corpuz",
-            "winrate": 1.0,
             "commander": [
                 "Giada, Font of Hope"
             ],
@@ -105,7 +104,6 @@
             "deck_id": "472550",
             "rank": "2",
             "player": "Kid Ablaza",
-            "winrate": 0.8,
             "commander": [
                 "Grist, the Hunger Tide"
             ],
@@ -208,7 +206,6 @@
             "deck_id": "472551",
             "rank": "3",
             "player": "Aaron Blue Pumanes",
-            "winrate": 0.6,
             "commander": [
                 "Lurrus of the Dream-Den",
                 "Karlov of the Ghost Council"

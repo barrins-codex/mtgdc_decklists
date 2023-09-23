@@ -10,7 +10,6 @@
             "deck_id": "455376",
             "rank": "1",
             "player": "Ceyao Duan",
-            "winrate": 1.0,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "455377",
             "rank": "2",
             "player": "Yixuan Gao",
-            "winrate": 0.8,
             "commander": [
                 "Maelstrom Wanderer"
             ],
@@ -224,7 +222,6 @@
             "deck_id": "455378",
             "rank": "3-4",
             "player": "Shaofeng Xu",
-            "winrate": 0.6,
             "commander": [
                 "Nicol Bolas, the Ravager"
             ],
@@ -333,7 +330,6 @@
             "deck_id": "455379",
             "rank": "3-4",
             "player": "Ziqi Xi",
-            "winrate": 0.6,
             "commander": [
                 "Golos, Tireless Pilgrim"
             ],

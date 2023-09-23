@@ -10,7 +10,6 @@
             "deck_id": "322556",
             "rank": "3-4",
             "player": "Daniel Ditrych",
-            "winrate": 0.8,
             "commander": [
                 "Yisan, the Wanderer Bard"
             ],
@@ -101,7 +100,6 @@
             "deck_id": "322557",
             "rank": "3-4",
             "player": "Miloslav Broek",
-            "winrate": 0.8,
             "commander": [
                 "Kraum, Ludevic's Opus",
                 "Tymna the Weaver"
@@ -211,7 +209,6 @@
             "deck_id": "322558",
             "rank": "2",
             "player": "Honza Jílek",
-            "winrate": 0.8,
             "commander": [
                 "Saskia the Unyielding"
             ],
@@ -321,7 +318,6 @@
             "deck_id": "322559",
             "rank": "1",
             "player": "Bohdan Frejiyn",
-            "winrate": 1.0,
             "commander": [
                 "Saskia the Unyielding"
             ],

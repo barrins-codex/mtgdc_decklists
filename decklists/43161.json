@@ -10,7 +10,6 @@
             "deck_id": "518895",
             "rank": "1",
             "player": "Bi Siqi",
-            "winrate": 1.0,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -118,7 +117,6 @@
             "deck_id": "518896",
             "rank": "2",
             "player": "Qin Zihao",
-            "winrate": 0.8,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -228,7 +226,6 @@
             "deck_id": "518897",
             "rank": "3",
             "player": "Huang Zijie",
-            "winrate": 0.6,
             "commander": [
                 "Feldon, Ronom Excavator"
             ],

@@ -10,7 +10,6 @@
             "deck_id": "414134",
             "rank": "5-8",
             "player": "Kilian Boulhaïs",
-            "winrate": 0.625,
             "commander": [
                 "Kess, Dissident Mage"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "414135",
             "rank": "1",
             "player": "Guillaume \"mana\" Lacombe",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Thrasios, Triton Hero",
                 "Tymna the Weaver"
@@ -230,7 +228,6 @@
             "deck_id": "414136",
             "rank": "2",
             "player": "Anthony \"tototaker\" Ruer",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Uro, Titan of Nature's Wrath"
             ],
@@ -324,7 +321,6 @@
             "deck_id": "414137",
             "rank": "3-4",
             "player": "Aurélien \"beta\"gomez",
-            "winrate": 0.625,
             "commander": [
                 "Tymna the Weaver",
                 "Thrasios, Triton Hero"
@@ -434,7 +430,6 @@
             "deck_id": "414138",
             "rank": "3-4",
             "player": "Florian \"logarythme\" Trotte",
-            "winrate": 0.625,
             "commander": [
                 "Niv-Mizzet Reborn"
             ],
@@ -544,7 +539,6 @@
             "deck_id": "414139",
             "rank": "5-8",
             "player": "Louis Roustant",
-            "winrate": 0.625,
             "commander": [
                 "Radha, Heir to Keld"
             ],
@@ -557,7 +551,6 @@
             "deck_id": "414140",
             "rank": "5-8",
             "player": "Julien Chiarvesio",
-            "winrate": 0.625,
             "commander": [
                 "Niv-Mizzet Reborn"
             ],
@@ -667,7 +660,6 @@
             "deck_id": "414141",
             "rank": "5-8",
             "player": "Romain \"ejell\" Fouchier",
-            "winrate": 0.625,
             "commander": [
                 "Grenzo, Dungeon Warden"
             ],

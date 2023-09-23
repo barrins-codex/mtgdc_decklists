@@ -10,7 +10,6 @@
             "deck_id": "290888",
             "rank": "2",
             "player": "Maxime Allée",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Bruse Tarl, Boorish Herder",
                 "Reyhan, Last of the Abzan"
@@ -120,7 +119,6 @@
             "deck_id": "290889",
             "rank": "2",
             "player": "Manuel Le Marec",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Baral, Chief of Compliance"
             ],
@@ -201,7 +199,6 @@
             "deck_id": "290890",
             "rank": "3-4",
             "player": "Lény Yahiaoui",
-            "winrate": 0.75,
             "commander": [
                 "The Gitrog Monster"
             ],
@@ -294,7 +291,6 @@
             "deck_id": "290891",
             "rank": "3-4",
             "player": "Gabriel Manieca",
-            "winrate": 0.75,
             "commander": [
                 "Nissa, Vastwood Seer"
             ],
@@ -386,7 +382,6 @@
             "deck_id": "290892",
             "rank": "5-8",
             "player": "Timothé Courant",
-            "winrate": 0.75,
             "commander": [
                 "Zurgo Bellstriker"
             ],
@@ -464,7 +459,6 @@
             "deck_id": "290893",
             "rank": "5-8",
             "player": "Romain Fourmas",
-            "winrate": 0.75,
             "commander": [
                 "Atraxa, Praetors' Voice"
             ],
@@ -574,7 +568,6 @@
             "deck_id": "290894",
             "rank": "5-8",
             "player": "Martial Moreau",
-            "winrate": 0.75,
             "commander": [
                 "The Gitrog Monster"
             ],
@@ -672,7 +665,6 @@
             "deck_id": "290895",
             "rank": "5-8",
             "player": "Théo Guillaumeau",
-            "winrate": 0.75,
             "commander": [
                 "Geist of Saint Traft"
             ],

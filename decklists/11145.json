@@ -10,7 +10,6 @@
             "deck_id": "263406",
             "rank": "2",
             "player": "Samantha Reichert",
-            "winrate": 0.8,
             "commander": [
                 "Grand Arbiter Augustin IV"
             ],
@@ -105,7 +104,6 @@
             "deck_id": "263407",
             "rank": "3-4",
             "player": "Don Taylor",
-            "winrate": 0.8,
             "commander": [
                 "Nekusar, the Mindrazer"
             ],
@@ -190,7 +188,6 @@
             "deck_id": "263408",
             "rank": "1",
             "player": "Brie Baggaley",
-            "winrate": 1.0,
             "commander": [
                 "Lyzolda, the Blood Witch"
             ],
@@ -288,7 +285,6 @@
             "deck_id": "263409",
             "rank": "3-4",
             "player": "William Dayton",
-            "winrate": 0.8,
             "commander": [
                 "Tasigur, the Golden Fang"
             ],

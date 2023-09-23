@@ -10,7 +10,6 @@
             "deck_id": "467946",
             "rank": "1",
             "player": "Joseph Al-tawalbeh",
-            "winrate": 1.0,
             "commander": [
                 "Kraum, Ludevic's Opus",
                 "Ludevic, Necro-Alchemist"
@@ -107,7 +106,6 @@
             "deck_id": "467947",
             "rank": "2",
             "player": "Rossini Buado",
-            "winrate": 0.8,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -191,7 +189,6 @@
             "deck_id": "467948",
             "rank": "3-4",
             "player": "Morris Martinez",
-            "winrate": 0.8,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -277,7 +274,6 @@
             "deck_id": "467949",
             "rank": "3-4",
             "player": "Estong Pangilinan",
-            "winrate": 0.8,
             "commander": [
                 "Talrand, Sky Summoner"
             ],
@@ -363,7 +359,6 @@
             "deck_id": "467950",
             "rank": "5-8",
             "player": "Glenn Alesna",
-            "winrate": 0.6,
             "commander": [
                 "Jeska, Thrice Reborn",
                 "Bruse Tarl, Boorish Herder"
@@ -465,7 +460,6 @@
             "deck_id": "467951",
             "rank": "5-8",
             "player": "Guillermo Cortezo",
-            "winrate": 0.6,
             "commander": [
                 "Golos, Tireless Pilgrim"
             ],
@@ -575,7 +569,6 @@
             "deck_id": "467952",
             "rank": "5-8",
             "player": "Jorrell Ang",
-            "winrate": 0.6,
             "commander": [
                 "Zur the Enchanter"
             ],
@@ -683,7 +676,6 @@
             "deck_id": "467953",
             "rank": "5-8",
             "player": "Rusty Capricho",
-            "winrate": 0.6,
             "commander": [
                 "Grist, the Hunger Tide"
             ],

@@ -10,7 +10,6 @@
             "deck_id": "456784",
             "rank": "1",
             "player": "Théau Méry",
-            "winrate": 1.0,
             "commander": [
                 "Jori En, Ruin Diver"
             ],
@@ -106,7 +105,6 @@
             "deck_id": "456785",
             "rank": "2",
             "player": "Alexandre Bigeat",
-            "winrate": 0.8,
             "commander": [
                 "Azusa, Lost but Seeking"
             ],
@@ -202,7 +200,6 @@
             "deck_id": "456786",
             "rank": "3-4",
             "player": "Quentin Garel",
-            "winrate": 0.8,
             "commander": [
                 "Sythis, Harvest's Hand"
             ],
@@ -310,7 +307,6 @@
             "deck_id": "456787",
             "rank": "3-4",
             "player": "Martin Cuchet",
-            "winrate": 0.8,
             "commander": [
                 "Malcolm, Keen-Eyed Navigator",
                 "Livio, Oathsworn Sentinel"

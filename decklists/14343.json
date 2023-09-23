@@ -10,7 +10,6 @@
             "deck_id": "285660",
             "rank": "2",
             "player": "Lorenzo Miracapillo",
-            "winrate": 0.8,
             "commander": [
                 "Breya, Etherium Shaper"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "285661",
             "rank": "1",
             "player": "Arturo Fux",
-            "winrate": 1.0,
             "commander": [
                 "The Gitrog Monster"
             ],

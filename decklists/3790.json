@@ -10,7 +10,6 @@
             "deck_id": "222560",
             "rank": "7",
             "player": "Benjamin Jean",
-            "winrate": 0.75,
             "commander": [
                 "Sliver Queen"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "222561",
             "rank": "1",
             "player": "Benoit Verwaerde",
-            "winrate": 0.8888888888888888,
             "commander": [
                 "Zur the Enchanter"
             ],
@@ -230,7 +228,6 @@
             "deck_id": "222562",
             "rank": "2",
             "player": "Jean \"Hangao\" Martin",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Zur the Enchanter"
             ],
@@ -340,7 +337,6 @@
             "deck_id": "222563",
             "rank": "3",
             "player": "Renaud Thirouard",
-            "winrate": 0.75,
             "commander": [
                 "Maelstrom Wanderer"
             ],
@@ -441,7 +437,6 @@
             "deck_id": "222564",
             "rank": "4",
             "player": "Boris \"Zig\" Bailloux",
-            "winrate": 0.75,
             "commander": [
                 "Ezuri, Renegade Leader"
             ],
@@ -531,7 +526,6 @@
             "deck_id": "222565",
             "rank": "5",
             "player": "Yan Lorente",
-            "winrate": 0.75,
             "commander": [
                 "Grand Arbiter Augustin IV"
             ],
@@ -629,7 +623,6 @@
             "deck_id": "222660",
             "rank": "6",
             "player": "Nicolas \"thorgal666\" François",
-            "winrate": 0.75,
             "commander": [
                 "Grand Arbiter Augustin IV"
             ],
@@ -733,7 +726,6 @@
             "deck_id": "222661",
             "rank": "8",
             "player": "Julien Frezard",
-            "winrate": 0.75,
             "commander": [
                 "Skullbriar, the Walking Grave"
             ],

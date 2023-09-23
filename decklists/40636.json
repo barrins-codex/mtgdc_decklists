@@ -10,7 +10,6 @@
             "deck_id": "502257",
             "rank": "1",
             "player": "Maxime Allée",
-            "winrate": 1.0,
             "commander": [
                 "Grist, the Hunger Tide"
             ],
@@ -110,7 +109,6 @@
             "deck_id": "502258",
             "rank": "2",
             "player": "Léon Le Loir",
-            "winrate": 0.8,
             "commander": [
                 "Jegantha, the Wellspring",
                 "Jodah, the Unifier"

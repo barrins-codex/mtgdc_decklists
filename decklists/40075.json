@@ -10,7 +10,6 @@
             "deck_id": "498388",
             "rank": "1",
             "player": "Ollier Guillaume",
-            "winrate": 1.0,
             "commander": [
                 "Yoshimaru, Ever Faithful",
                 "Jeska, Thrice Reborn"
@@ -113,7 +112,6 @@
             "deck_id": "498389",
             "rank": "2",
             "player": "Keitel Sacha",
-            "winrate": 0.8,
             "commander": [
                 "Yoshimaru, Ever Faithful",
                 "Bruse Tarl, Boorish Herder"
@@ -216,7 +214,6 @@
             "deck_id": "498390",
             "rank": "3-4",
             "player": "Gariston Yoan",
-            "winrate": 0.8,
             "commander": [
                 "Sai, Master Thopterist"
             ],
@@ -303,7 +300,6 @@
             "deck_id": "498391",
             "rank": "5-8",
             "player": "Montalva Jonathan \"the Malicious\"",
-            "winrate": 0.6,
             "commander": [
                 "Ertai Resurrected"
             ],
@@ -403,7 +399,6 @@
             "deck_id": "498392",
             "rank": "5-8",
             "player": "Zielinski Florian",
-            "winrate": 0.6,
             "commander": [
                 "Ghyrson Starn, Kelermorph"
             ],
@@ -502,7 +497,6 @@
             "deck_id": "498393",
             "rank": "5-8",
             "player": "Alexis",
-            "winrate": 0.6,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -611,7 +605,6 @@
             "deck_id": "498394",
             "rank": "5-8",
             "player": "Douroux Arthur",
-            "winrate": 0.6,
             "commander": [
                 "Kamiz, Obscura Oculus"
             ],

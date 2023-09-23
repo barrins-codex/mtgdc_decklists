@@ -10,7 +10,6 @@
             "deck_id": "347443",
             "rank": "1",
             "player": "Nils H.",
-            "winrate": 1.0,
             "commander": [
                 "Teferi, Temporal Archmage"
             ],
@@ -83,7 +82,6 @@
             "deck_id": "347444",
             "rank": "2",
             "player": "Martin G.",
-            "winrate": 0.8,
             "commander": [
                 "Tymna the Weaver",
                 "Kraum, Ludevic's Opus"
@@ -193,7 +191,6 @@
             "deck_id": "347445",
             "rank": "3-4",
             "player": "Mirko G.",
-            "winrate": 0.6,
             "commander": [
                 "Titania, Protector of Argoth"
             ],

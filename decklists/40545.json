@@ -10,7 +10,6 @@
             "deck_id": "501655",
             "rank": "1",
             "player": "Josh Fuentes",
-            "winrate": 1.0,
             "commander": [
                 "Tivit, Seller of Secrets"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "501656",
             "rank": "2",
             "player": "Jarbs Sahagun",
-            "winrate": 0.8,
             "commander": [
                 "Elminster"
             ],
@@ -223,7 +221,6 @@
             "deck_id": "501657",
             "rank": "3",
             "player": "Mark Lasam",
-            "winrate": 0.8,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -333,7 +330,6 @@
             "deck_id": "501658",
             "rank": "4",
             "player": "Paul Relativo",
-            "winrate": 0.8,
             "commander": [
                 "Niv-Mizzet Reborn"
             ],
@@ -443,7 +439,6 @@
             "deck_id": "501659",
             "rank": "5",
             "player": "Dinno Zaide",
-            "winrate": 0.6,
             "commander": [
                 "Ghyrson Starn, Kelermorph"
             ],
@@ -544,7 +539,6 @@
             "deck_id": "501660",
             "rank": "6",
             "player": "Ricky Madrigal",
-            "winrate": 0.6,
             "commander": [
                 "Veteran Soldier",
                 "Gut, True Soul Zealot"
@@ -651,7 +645,6 @@
             "deck_id": "501661",
             "rank": "7",
             "player": "Iori Zugaikotsu",
-            "winrate": 0.6,
             "commander": [
                 "Elminster"
             ],
@@ -756,7 +749,6 @@
             "deck_id": "501662",
             "rank": "8",
             "player": "Franklin Aguba",
-            "winrate": 0.6,
             "commander": [
                 "Raffine, Scheming Seer"
             ],

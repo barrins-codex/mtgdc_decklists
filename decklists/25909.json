@@ -10,7 +10,6 @@
             "deck_id": "393877",
             "rank": "1",
             "player": "Justo Chacon",
-            "winrate": 1.0,
             "commander": [
                 "Venser, Shaper Savant"
             ],
@@ -96,7 +95,6 @@
             "deck_id": "393878",
             "rank": "2",
             "player": "Alexandre Martial",
-            "winrate": 0.8,
             "commander": [
                 "Uro, Titan of Nature's Wrath"
             ],
@@ -184,7 +182,6 @@
             "deck_id": "393879",
             "rank": "3-4",
             "player": "Yann Torillec",
-            "winrate": 0.6,
             "commander": [
                 "Kraum, Ludevic's Opus",
                 "Thrasios, Triton Hero"
@@ -287,7 +284,6 @@
             "deck_id": "393880",
             "rank": "3-4",
             "player": "Francois Jandaud",
-            "winrate": 0.6,
             "commander": [
                 "Obosh, the Preypiercer",
                 "Reyhan, Last of the Abzan",

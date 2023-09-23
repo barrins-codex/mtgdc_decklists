@@ -10,7 +10,6 @@
             "deck_id": "337608",
             "rank": "3-4",
             "player": "Uvarov Vadim",
-            "winrate": 0.6,
             "commander": [
                 "Baral, Chief of Compliance"
             ],
@@ -83,7 +82,6 @@
             "deck_id": "337609",
             "rank": "3-4",
             "player": "Smirnov Alexander",
-            "winrate": 0.6,
             "commander": [
                 "Tajic, Legion's Edge"
             ],
@@ -180,7 +178,6 @@
             "deck_id": "337610",
             "rank": "2",
             "player": "Maximov Alexandr",
-            "winrate": 0.8,
             "commander": [
                 "Karlov of the Ghost Council"
             ],
@@ -275,7 +272,6 @@
             "deck_id": "337611",
             "rank": "1",
             "player": "Vedenin Roman",
-            "winrate": 1.0,
             "commander": [
                 "Nissa, Vastwood Seer"
             ],

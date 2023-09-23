@@ -10,7 +10,6 @@
             "deck_id": "454041",
             "rank": "2",
             "player": "Franck Gauci",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "454042",
             "rank": "2",
             "player": "Alexandre Andouard",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Adeliz, the Cinder Wind"
             ],
@@ -215,7 +213,6 @@
             "deck_id": "454043",
             "rank": "1",
             "player": "Pierre Almaraz",
-            "winrate": 1.0,
             "commander": [
                 "Isamaru, Hound of Konda"
             ],
@@ -298,7 +295,6 @@
             "deck_id": "454044",
             "rank": "1",
             "player": "Loïc Baverel",
-            "winrate": 1.0,
             "commander": [
                 "Titania, Protector of Argoth"
             ],
@@ -396,7 +392,6 @@
             "deck_id": "454045",
             "rank": "1",
             "player": "Frédéric Lales",
-            "winrate": 1.0,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -506,7 +501,6 @@
             "deck_id": "454046",
             "rank": "2",
             "player": "Kevin Cellier",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Rem Karolus, Stalwart Slayer"
             ],

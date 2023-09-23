@@ -10,7 +10,6 @@
             "deck_id": "497076",
             "rank": "1",
             "player": "Pierre-louis Biet",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "497077",
             "rank": "2",
             "player": "Pierre Almaraz",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Dennick, Pious Apprentice"
             ],
@@ -221,7 +219,6 @@
             "deck_id": "497078",
             "rank": "3-4",
             "player": "Loïc Baverel",
-            "winrate": 0.625,
             "commander": [
                 "Saskia the Unyielding"
             ],
@@ -331,7 +328,6 @@
             "deck_id": "497079",
             "rank": "3-4",
             "player": "Thomas Ricci",
-            "winrate": 0.625,
             "commander": [
                 "Yoshimaru, Ever Faithful",
                 "Silas Renn, Seeker Adept"
@@ -437,7 +433,6 @@
             "deck_id": "497080",
             "rank": "5-8",
             "player": "Jonathan Gomis",
-            "winrate": 0.625,
             "commander": [
                 "Light-Paws, Emperor's Voice"
             ],
@@ -520,7 +515,6 @@
             "deck_id": "497081",
             "rank": "5-8",
             "player": "Alexandre Andouard",
-            "winrate": 0.625,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -630,7 +624,6 @@
             "deck_id": "497082",
             "rank": "5-8",
             "player": "Laurent Maillier-gasté",
-            "winrate": 0.625,
             "commander": [
                 "Yoshimaru, Ever Faithful",
                 "Bruse Tarl, Boorish Herder"
@@ -732,7 +725,6 @@
             "deck_id": "497083",
             "rank": "5-8",
             "player": "Jeoffrey Foucart",
-            "winrate": 0.625,
             "commander": [
                 "Gut, True Soul Zealot",
                 "Noble Heritage"

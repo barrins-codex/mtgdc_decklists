@@ -10,7 +10,6 @@
             "deck_id": "314103",
             "rank": "2",
             "player": "Jose Mari Chu",
-            "winrate": 0.8,
             "commander": [
                 "Zurgo Bellstriker"
             ],
@@ -89,7 +88,6 @@
             "deck_id": "314107",
             "rank": "3-4",
             "player": "Ste Villaraza",
-            "winrate": 0.8,
             "commander": [
                 "Kraum, Ludevic's Opus",
                 "Thrasios, Triton Hero"
@@ -191,7 +189,6 @@
             "deck_id": "314108",
             "rank": "3-4",
             "player": "Rusty Jade Capricho",
-            "winrate": 0.8,
             "commander": [
                 "Talrand, Sky Summoner"
             ],
@@ -276,7 +273,6 @@
             "deck_id": "314110",
             "rank": "1",
             "player": "Ronald Fong",
-            "winrate": 1.0,
             "commander": [
                 "The Gitrog Monster"
             ],

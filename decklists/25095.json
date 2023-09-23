@@ -10,7 +10,6 @@
             "deck_id": "375822",
             "rank": "5-8",
             "player": "Adrien Gau",
-            "winrate": 0.625,
             "commander": [
                 "Tymna the Weaver",
                 "Thrasios, Triton Hero"
@@ -120,7 +119,6 @@
             "deck_id": "375823",
             "rank": "5-8",
             "player": "Robin Angebaud",
-            "winrate": 0.625,
             "commander": [
                 "Sai, Master Thopterist"
             ],
@@ -210,7 +208,6 @@
             "deck_id": "375824",
             "rank": "5-8",
             "player": "Johan Bozec",
-            "winrate": 0.625,
             "commander": [
                 "Klothys, God of Destiny"
             ],
@@ -308,7 +305,6 @@
             "deck_id": "375825",
             "rank": "5-8",
             "player": "Ciprianovic",
-            "winrate": 0.625,
             "commander": [
                 "Titania, Protector of Argoth"
             ],
@@ -404,7 +400,6 @@
             "deck_id": "375826",
             "rank": "3-4",
             "player": "Vincent Bruno",
-            "winrate": 0.625,
             "commander": [
                 "Doran, the Siege Tower"
             ],
@@ -514,7 +509,6 @@
             "deck_id": "375827",
             "rank": "3-4",
             "player": "Ranash",
-            "winrate": 0.625,
             "commander": [
                 "Jenara, Asura of War"
             ],
@@ -621,7 +615,6 @@
             "deck_id": "375828",
             "rank": "2",
             "player": "Alexandre Chevret",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -705,7 +698,6 @@
             "deck_id": "375829",
             "rank": "1",
             "player": "Pierre Ambroise",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Tymna the Weaver",
                 "Kraum, Ludevic's Opus"

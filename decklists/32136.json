@@ -10,7 +10,6 @@
             "deck_id": "447656",
             "rank": "1",
             "player": "Adrien \"soullessoni\" Demoget",
-            "winrate": 0.875,
             "commander": [
                 "Sythis, Harvest's Hand"
             ],
@@ -117,7 +116,6 @@
             "deck_id": "447657",
             "rank": "2",
             "player": "Alexandre \"onesauk\" Benac",
-            "winrate": 0.75,
             "commander": [
                 "Winota, Joiner of Forces"
             ],
@@ -216,7 +214,6 @@
             "deck_id": "447658",
             "rank": "3-4",
             "player": "Didou",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Livio, Oathsworn Sentinel",
                 "Kraum, Ludevic's Opus"
@@ -325,7 +322,6 @@
             "deck_id": "447659",
             "rank": "3-4",
             "player": "Julien \"la Tielle\" Castéla",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Kinnan, Bonder Prodigy"
             ],
@@ -428,7 +424,6 @@
             "deck_id": "447660",
             "rank": "5-8",
             "player": "Antoine Skavout",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -538,7 +533,6 @@
             "deck_id": "447661",
             "rank": "5-8",
             "player": "Alex Moinereau",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Niv-Mizzet Reborn"
             ],
@@ -648,7 +642,6 @@
             "deck_id": "447662",
             "rank": "5-8",
             "player": "Nicolasprail",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Adeliz, the Cinder Wind"
             ],
@@ -744,7 +737,6 @@
             "deck_id": "447663",
             "rank": "5-8",
             "player": "Loïc \"thetiranide\" Jamin",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Hogaak, Arisen Necropolis"
             ],

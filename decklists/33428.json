@@ -10,7 +10,6 @@
             "deck_id": "454889",
             "rank": "1",
             "player": "Dimitri F.",
-            "winrate": 1.0,
             "commander": [
                 "Dargo, the Shipwrecker",
                 "Toggo, Goblin Weaponsmith"
@@ -103,7 +102,6 @@
             "deck_id": "454890",
             "rank": "2",
             "player": "Alexandre \"neverhawk\" G.",
-            "winrate": 0.8,
             "commander": [
                 "Will Kenrith",
                 "Rowan Kenrith"
@@ -197,7 +195,6 @@
             "deck_id": "454891",
             "rank": "3-4",
             "player": "Guillaume \"leito\" G.",
-            "winrate": 0.8,
             "commander": [
                 "Tevesh Szat, Doom of Fools",
                 "Livio, Oathsworn Sentinel"
@@ -293,7 +290,6 @@
             "deck_id": "454892",
             "rank": "3-4",
             "player": "Christophe L.",
-            "winrate": 0.8,
             "commander": [
                 "Karlov of the Ghost Council"
             ],

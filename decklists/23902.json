@@ -10,7 +10,6 @@
             "deck_id": "366349",
             "rank": "5-8",
             "player": "Flavien Richard",
-            "winrate": 0.625,
             "commander": [
                 "Titania, Protector of Argoth"
             ],
@@ -108,7 +107,6 @@
             "deck_id": "366350",
             "rank": "5-8",
             "player": "Guillaume \"mana\" Lacombe",
-            "winrate": 0.625,
             "commander": [
                 "Edric, Spymaster of Trest"
             ],
@@ -203,7 +201,6 @@
             "deck_id": "366351",
             "rank": "5-8",
             "player": "Kevin Jouet",
-            "winrate": 0.625,
             "commander": [
                 "Akiri, Line-Slinger",
                 "Silas Renn, Seeker Adept"
@@ -313,7 +310,6 @@
             "deck_id": "366352",
             "rank": "3-4",
             "player": "Etienne Vigier",
-            "winrate": 0.625,
             "commander": [
                 "Azusa, Lost but Seeking"
             ],
@@ -410,7 +406,6 @@
             "deck_id": "366353",
             "rank": "5-8",
             "player": "Guillaume Bordenave",
-            "winrate": 0.625,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -488,7 +483,6 @@
             "deck_id": "366354",
             "rank": "2",
             "player": "Pierre-jean Eychenne",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -568,7 +562,6 @@
             "deck_id": "366355",
             "rank": "3-4",
             "player": "Sylvain Pommarel",
-            "winrate": 0.625,
             "commander": [
                 "Sisay, Weatherlight Captain"
             ],
@@ -678,7 +671,6 @@
             "deck_id": "366356",
             "rank": "1",
             "player": "Pierre Clavieras-mengin",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Thrasios, Triton Hero",
                 "Tymna the Weaver"

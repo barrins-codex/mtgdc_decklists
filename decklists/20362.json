@@ -10,7 +10,6 @@
             "deck_id": "333248",
             "rank": "1",
             "player": "Stefano Losardo",
-            "winrate": 1.0,
             "commander": [
                 "Archangel Avacyn"
             ],
@@ -107,7 +106,6 @@
             "deck_id": "333249",
             "rank": "2",
             "player": "Alessandro Mariniello",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],

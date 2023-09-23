@@ -10,7 +10,6 @@
             "deck_id": "364372",
             "rank": "2",
             "player": "Samuel Z.",
-            "winrate": 0.8,
             "commander": [
                 "Thrasios, Triton Hero",
                 "Akiri, Line-Slinger"
@@ -120,7 +119,6 @@
             "deck_id": "364373",
             "rank": "1",
             "player": "Marco D.",
-            "winrate": 1.0,
             "commander": [
                 "Emry, Lurker of the Loch"
             ],

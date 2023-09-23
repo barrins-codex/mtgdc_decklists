@@ -10,7 +10,6 @@
             "deck_id": "521184",
             "rank": "1",
             "player": "Wong Dik Fan",
-            "winrate": 1.0,
             "commander": [
                 "Dennick, Pious Apprentice"
             ],
@@ -112,7 +111,6 @@
             "deck_id": "521185",
             "rank": "2",
             "player": "Ziqi Xi",
-            "winrate": 0.8,
             "commander": [
                 "Raffine, Scheming Seer"
             ],

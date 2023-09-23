@@ -10,7 +10,6 @@
             "deck_id": "261715",
             "rank": "1",
             "player": "Yao Yao",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Tasigur, the Golden Fang"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "261716",
             "rank": "5-8",
             "player": "Pan Liangchen",
-            "winrate": 0.625,
             "commander": [
                 "Narset, Enlightened Master"
             ],
@@ -223,7 +221,6 @@
             "deck_id": "261717",
             "rank": "5-8",
             "player": "Han Ziyu",
-            "winrate": 0.625,
             "commander": [
                 "Alesha, Who Smiles at Death"
             ],
@@ -332,7 +329,6 @@
             "deck_id": "261718",
             "rank": "5-8",
             "player": "Shen Shiyang",
-            "winrate": 0.625,
             "commander": [
                 "Narset, Enlightened Master"
             ],
@@ -442,7 +438,6 @@
             "deck_id": "261719",
             "rank": "2",
             "player": "Yang Yang",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Tasigur, the Golden Fang"
             ],
@@ -552,7 +547,6 @@
             "deck_id": "261720",
             "rank": "3-4",
             "player": "Zhang Yuheng",
-            "winrate": 0.625,
             "commander": [
                 "Jenara, Asura of War"
             ],
@@ -662,7 +656,6 @@
             "deck_id": "261721",
             "rank": "3-4",
             "player": "Jiang Ling",
-            "winrate": 0.625,
             "commander": [
                 "Animar, Soul of Elements"
             ],
@@ -765,7 +758,6 @@
             "deck_id": "261722",
             "rank": "5-8",
             "player": "Zhang Cang",
-            "winrate": 0.625,
             "commander": [
                 "Daretti, Scrap Savant"
             ],

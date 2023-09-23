@@ -10,7 +10,6 @@
             "deck_id": "499891",
             "rank": "1",
             "player": "Victor \"acelerado\"",
-            "winrate": 1.0,
             "commander": [
                 "Korvold, Fae-Cursed King"
             ],
@@ -110,7 +109,6 @@
             "deck_id": "499892",
             "rank": "2",
             "player": "Daniel Duarte",
-            "winrate": 0.8,
             "commander": [
                 "Agent of the Shadow Thieves",
                 "Gut, True Soul Zealot"
@@ -195,7 +193,6 @@
             "deck_id": "499893",
             "rank": "3-4",
             "player": "Gabriel Mattos",
-            "winrate": 0.8,
             "commander": [
                 "Octavia, Living Thesis"
             ],
@@ -284,7 +281,6 @@
             "deck_id": "499894",
             "rank": "3-4",
             "player": "Lauro Hanna",
-            "winrate": 0.8,
             "commander": [
                 "Haldan, Avid Arcanist",
                 "Pako, Arcane Retriever"
@@ -378,7 +374,6 @@
             "deck_id": "499895",
             "rank": "5-8",
             "player": "Thiago Alcantara",
-            "winrate": 0.6,
             "commander": [
                 "Niv-Mizzet, Parun"
             ],
@@ -462,7 +457,6 @@
             "deck_id": "499896",
             "rank": "5-8",
             "player": "Kauan",
-            "winrate": 0.6,
             "commander": [
                 "Light-Paws, Emperor's Voice"
             ],
@@ -550,7 +544,6 @@
             "deck_id": "499897",
             "rank": "5-8",
             "player": "Bruno \"bruxão\"",
-            "winrate": 0.6,
             "commander": [
                 "Samut, Voice of Dissent"
             ],
@@ -644,7 +637,6 @@
             "deck_id": "499898",
             "rank": "5-8",
             "player": "Felipe \"rubão\"",
-            "winrate": 0.6,
             "commander": [
                 "Elas il-Kor, Sadistic Pilgrim",
                 "Lurrus of the Dream-Den"

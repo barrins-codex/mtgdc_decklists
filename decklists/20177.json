@@ -10,7 +10,6 @@
             "deck_id": "331469",
             "rank": "3-4",
             "player": "Ben Co",
-            "winrate": 0.6,
             "commander": [
                 "Teferi, Temporal Archmage"
             ],
@@ -86,7 +85,6 @@
             "deck_id": "331470",
             "rank": "3-4",
             "player": "Jeric Go",
-            "winrate": 0.6,
             "commander": [
                 "The Gitrog Monster"
             ],
@@ -182,7 +180,6 @@
             "deck_id": "331471",
             "rank": "2",
             "player": "Gustin Ireneo",
-            "winrate": 0.8,
             "commander": [
                 "Thrun, the Last Troll"
             ],
@@ -272,7 +269,6 @@
             "deck_id": "331472",
             "rank": "1",
             "player": "Rusty Jade Capricho",
-            "winrate": 1.0,
             "commander": [
                 "The Gitrog Monster"
             ],

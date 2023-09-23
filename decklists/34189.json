@@ -10,7 +10,6 @@
             "deck_id": "459871",
             "rank": "1",
             "player": "Adrien Houssard",
-            "winrate": 1.0,
             "commander": [
                 "Malcolm, Keen-Eyed Navigator",
                 "Kraum, Ludevic's Opus"
@@ -105,7 +104,6 @@
             "deck_id": "459872",
             "rank": "2",
             "player": "Jean Gouzy",
-            "winrate": 0.8,
             "commander": [
                 "Livio, Oathsworn Sentinel",
                 "Malcolm, Keen-Eyed Navigator"
@@ -205,7 +203,6 @@
             "deck_id": "459873",
             "rank": "3-4",
             "player": "Anthony Ruer",
-            "winrate": 0.8,
             "commander": [
                 "Tevesh Szat, Doom of Fools",
                 "Miara, Thorn of the Glade"
@@ -289,7 +286,6 @@
             "deck_id": "459874",
             "rank": "3-4",
             "player": "Florian Trotte",
-            "winrate": 0.8,
             "commander": [
                 "Esika, God of the Tree"
             ],
@@ -399,7 +395,6 @@
             "deck_id": "459875",
             "rank": "5-8",
             "player": "Audrun Boulic",
-            "winrate": 0.6,
             "commander": [
                 "Galazeth Prismari"
             ],
@@ -494,7 +489,6 @@
             "deck_id": "459876",
             "rank": "5-8",
             "player": "Hippolyte Senechau",
-            "winrate": 0.6,
             "commander": [
                 "Grenzo, Dungeon Warden"
             ],
@@ -596,7 +590,6 @@
             "deck_id": "459877",
             "rank": "5-8",
             "player": "Léo Facca",
-            "winrate": 0.6,
             "commander": [
                 "Narset, Enlightened Master"
             ],
@@ -702,7 +695,6 @@
             "deck_id": "459878",
             "rank": "5-8",
             "player": "Mathieu Calbo",
-            "winrate": 0.6,
             "commander": [
                 "Grist, the Hunger Tide"
             ],

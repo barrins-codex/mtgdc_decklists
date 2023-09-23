@@ -10,7 +10,6 @@
             "deck_id": "503593",
             "rank": "1",
             "player": "Hippolyte Sénéchau",
-            "winrate": 0.8888888888888888,
             "commander": [
                 "Prossh, Skyraider of Kher"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "503594",
             "rank": "2",
             "player": "Thibault Bredzinski",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Bruse Tarl, Boorish Herder",
                 "Yoshimaru, Ever Faithful"
@@ -223,7 +221,6 @@
             "deck_id": "503595",
             "rank": "3-4",
             "player": "Benjamin \"earx\" Dugal",
-            "winrate": 0.75,
             "commander": [
                 "Feldon, Ronom Excavator"
             ],
@@ -311,7 +308,6 @@
             "deck_id": "503596",
             "rank": "3-4",
             "player": "Grégoire \" Koraysh\" Payan",
-            "winrate": 0.75,
             "commander": [
                 "Tana, the Bloodsower",
                 "Yoshimaru, Ever Faithful"
@@ -421,7 +417,6 @@
             "deck_id": "503597",
             "rank": "5-8",
             "player": "Clauzure Raphael",
-            "winrate": 0.75,
             "commander": [
                 "Grist, the Hunger Tide"
             ],
@@ -521,7 +516,6 @@
             "deck_id": "503598",
             "rank": "5-8",
             "player": "Clément \"carpenters\" Gillard",
-            "winrate": 0.75,
             "commander": [
                 "Jenson Carthalion, Druid Exile"
             ],
@@ -631,7 +625,6 @@
             "deck_id": "503599",
             "rank": "5-8",
             "player": "Jean-baptiste Mandar",
-            "winrate": 0.75,
             "commander": [
                 "Niv-Mizzet Reborn"
             ],
@@ -741,7 +734,6 @@
             "deck_id": "503600",
             "rank": "5-8",
             "player": "Quentin \"bobota\" Rullaud",
-            "winrate": 0.75,
             "commander": [
                 "Grist, the Hunger Tide"
             ],

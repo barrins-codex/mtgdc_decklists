@@ -10,7 +10,6 @@
             "deck_id": "338119",
             "rank": "3-4",
             "player": "Moondust",
-            "winrate": 0.6,
             "commander": [
                 "Tymna the Weaver",
                 "Thrasios, Triton Hero"
@@ -119,7 +118,6 @@
             "deck_id": "338120",
             "rank": "3-4",
             "player": "Yann Brugiere",
-            "winrate": 0.6,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -201,7 +199,6 @@
             "deck_id": "338121",
             "rank": "2",
             "player": "Xdob",
-            "winrate": 0.8,
             "commander": [
                 "Lord Windgrace"
             ],
@@ -297,7 +294,6 @@
             "deck_id": "338122",
             "rank": "1",
             "player": "Meideros",
-            "winrate": 1.0,
             "commander": [
                 "Daretti, Scrap Savant"
             ],

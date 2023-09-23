@@ -10,7 +10,6 @@
             "deck_id": "524604",
             "rank": "1",
             "player": "Christian Vilca",
-            "winrate": 1.0,
             "commander": [
                 "Tana, the Bloodsower",
                 "Yoshimaru, Ever Faithful"
@@ -119,7 +118,6 @@
             "deck_id": "524605",
             "rank": "2",
             "player": "Bryan Valdivia",
-            "winrate": 0.8,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -229,7 +227,6 @@
             "deck_id": "524606",
             "rank": "3-4",
             "player": "Gonzalo Villanueva",
-            "winrate": 0.8,
             "commander": [
                 "Atraxa, Grand Unifier"
             ],

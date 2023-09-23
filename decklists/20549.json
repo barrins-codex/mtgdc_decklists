@@ -10,7 +10,6 @@
             "deck_id": "335134",
             "rank": "3",
             "player": "Linneaus Abellana",
-            "winrate": 0.8,
             "commander": [
                 "Yuriko, the Tiger's Shadow"
             ],
@@ -106,7 +105,6 @@
             "deck_id": "335135",
             "rank": "2",
             "player": "Ben Co",
-            "winrate": 0.8,
             "commander": [
                 "Teferi, Temporal Archmage"
             ],
@@ -182,7 +180,6 @@
             "deck_id": "335136",
             "rank": "1",
             "player": "Josh Fuentes",
-            "winrate": 1.0,
             "commander": [
                 "Ikra Shidiqi, the Usurper",
                 "Kraum, Ludevic's Opus"

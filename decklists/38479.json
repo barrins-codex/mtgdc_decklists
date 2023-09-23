@@ -10,7 +10,6 @@
             "deck_id": "487485",
             "rank": "1",
             "player": "Ylan Le Bris",
-            "winrate": 1.0,
             "commander": [
                 "Gut, True Soul Zealot",
                 "Faceless One"
@@ -107,7 +106,6 @@
             "deck_id": "487486",
             "rank": "2",
             "player": "Brieuc Evo",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -217,7 +215,6 @@
             "deck_id": "487487",
             "rank": "3",
             "player": "Charlie Delabrousse",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Scion of Halaster",
                 "Gut, True Soul Zealot"
@@ -322,7 +319,6 @@
             "deck_id": "487488",
             "rank": "4",
             "player": "Emeric Durdos",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Raffine, Scheming Seer"
             ],

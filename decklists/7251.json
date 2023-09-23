@@ -10,7 +10,6 @@
             "deck_id": "241559",
             "rank": "1",
             "player": "Boris \"Zig\" Bailloux",
-            "winrate": 0.9,
             "commander": [
                 "Marath, Will of the Wild"
             ],
@@ -118,7 +117,6 @@
             "deck_id": "241560",
             "rank": "2",
             "player": "Marc Vogt",
-            "winrate": 0.8,
             "commander": [
                 "Oloro, Ageless Ascetic"
             ],
@@ -228,7 +226,6 @@
             "deck_id": "241561",
             "rank": "3-4",
             "player": "Vivien \"Soratami\" Macé",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Marath, Will of the Wild"
             ],
@@ -337,7 +334,6 @@
             "deck_id": "241562",
             "rank": "3-4",
             "player": "Étienne \"thecampeur\" Lourdin",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "The Mimeoplasm"
             ],
@@ -445,7 +441,6 @@
             "deck_id": "241563",
             "rank": "5-8",
             "player": "Dmitry Moiseev",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Thraximundar"
             ],
@@ -550,7 +545,6 @@
             "deck_id": "241564",
             "rank": "5-8",
             "player": "Matthias Cellerier",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Ezuri, Renegade Leader"
             ],
@@ -646,7 +640,6 @@
             "deck_id": "241565",
             "rank": "5-8",
             "player": "Noham Maubert",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Vendilion Clique"
             ],
@@ -730,7 +723,6 @@
             "deck_id": "241566",
             "rank": "5-8",
             "player": "Pierre Almaraz",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Geist of Saint Traft"
             ],

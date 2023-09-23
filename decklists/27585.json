@@ -10,7 +10,6 @@
             "deck_id": "419188",
             "rank": "1",
             "player": "Danny Lai",
-            "winrate": 1.0,
             "commander": [
                 "Winota, Joiner of Forces"
             ],
@@ -108,7 +107,6 @@
             "deck_id": "419189",
             "rank": "2",
             "player": "Chung Tang",
-            "winrate": 0.8,
             "commander": [
                 "Uro, Titan of Nature's Wrath"
             ],
@@ -201,7 +199,6 @@
             "deck_id": "419190",
             "rank": "3-4",
             "player": "Kent Leung",
-            "winrate": 0.6,
             "commander": [
                 "Judith, the Scourge Diva"
             ],
@@ -300,7 +297,6 @@
             "deck_id": "419191",
             "rank": "3-4",
             "player": "Lap Chung Cheung",
-            "winrate": 0.6,
             "commander": [
                 "Anje Falkenrath"
             ],

@@ -10,7 +10,6 @@
             "deck_id": "278483",
             "rank": "1",
             "player": "Wes Herr",
-            "winrate": 1.0,
             "commander": [
                 "Nissa, Vastwood Seer"
             ],
@@ -103,7 +102,6 @@
             "deck_id": "278484",
             "rank": "2",
             "player": "William Belloli",
-            "winrate": 0.8,
             "commander": [
                 "Maelstrom Wanderer"
             ],
@@ -206,7 +204,6 @@
             "deck_id": "278485",
             "rank": "5",
             "player": "Tom Conley",
-            "winrate": 0.6,
             "commander": [
                 "Scion of the Ur-Dragon"
             ],
@@ -316,7 +313,6 @@
             "deck_id": "278486",
             "rank": "4",
             "player": "Brennan McAlear",
-            "winrate": 0.6,
             "commander": [
                 "Nin, the Pain Artist"
             ],
@@ -409,7 +405,6 @@
             "deck_id": "278487",
             "rank": "3",
             "player": "William Toburen",
-            "winrate": 0.8,
             "commander": [
                 "Vendilion Clique"
             ],
@@ -497,7 +492,6 @@
             "deck_id": "278488",
             "rank": "6",
             "player": "Kelson Craigs",
-            "winrate": 0.6,
             "commander": [
                 "Grand Arbiter Augustin IV"
             ],
@@ -594,7 +588,6 @@
             "deck_id": "278489",
             "rank": "7",
             "player": "Seth Kingsbury",
-            "winrate": 0.6,
             "commander": [
                 "Jenara, Asura of War"
             ],
@@ -703,7 +696,6 @@
             "deck_id": "278490",
             "rank": "8",
             "player": "Jonathan Bohn",
-            "winrate": 0.6,
             "commander": [
                 "Prossh, Skyraider of Kher"
             ],

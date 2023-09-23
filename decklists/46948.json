@@ -10,7 +10,6 @@
             "deck_id": "547145",
             "rank": "1",
             "player": "David Stepanek",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "547146",
             "rank": "2",
             "player": "Zdenek Zuna",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Niv-Mizzet Reborn"
             ],
@@ -230,7 +228,6 @@
             "deck_id": "547147",
             "rank": "3-4",
             "player": "Michael Olsen",
-            "winrate": 0.625,
             "commander": [
                 "Kinnan, Bonder Prodigy"
             ],
@@ -334,7 +331,6 @@
             "deck_id": "547148",
             "rank": "3-4",
             "player": "Ondřej Hrubý",
-            "winrate": 0.625,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -444,7 +440,6 @@
             "deck_id": "547149",
             "rank": "5-8",
             "player": "Ondrej Muller",
-            "winrate": 0.625,
             "commander": [
                 "Slimefoot and Squee"
             ],
@@ -554,7 +549,6 @@
             "deck_id": "547150",
             "rank": "5-8",
             "player": "Vojta Kotek",
-            "winrate": 0.625,
             "commander": [
                 "Grenzo, Dungeon Warden",
                 "Ancestral / Hot Dog / Minotaur",
@@ -674,7 +668,6 @@
             "deck_id": "547151",
             "rank": "5-8",
             "player": "Zdenek Hlavsa",
-            "winrate": 0.625,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -784,7 +777,6 @@
             "deck_id": "547152",
             "rank": "5-8",
             "player": "Mikulá Havlík",
-            "winrate": 0.625,
             "commander": [
                 "Tivit, Seller of Secrets"
             ],

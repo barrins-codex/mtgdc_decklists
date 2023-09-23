@@ -10,7 +10,6 @@
             "deck_id": "531220",
             "rank": "1",
             "player": "Damien Garcia",
-            "winrate": 0.9,
             "commander": [
                 "Tivit, Seller of Secrets"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "531221",
             "rank": "2",
             "player": "Clément Achard",
-            "winrate": 0.8,
             "commander": [
                 "Tana, the Bloodsower",
                 "Yoshimaru, Ever Faithful"
@@ -229,7 +227,6 @@
             "deck_id": "531222",
             "rank": "3-4",
             "player": "Nicolas Monsinjon",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Bruse Tarl, Boorish Herder",
                 "Yoshimaru, Ever Faithful"
@@ -331,7 +328,6 @@
             "deck_id": "531223",
             "rank": "3-4",
             "player": "Mikaël Fullalove",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -441,7 +437,6 @@
             "deck_id": "531224",
             "rank": "5-8",
             "player": "Francois Maynadier",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -551,7 +546,6 @@
             "deck_id": "531225",
             "rank": "5-8",
             "player": "Audren Boulic",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Rograkh, Son of Rohgahh",
                 "Silas Renn, Seeker Adept"
@@ -661,7 +655,6 @@
             "deck_id": "531226",
             "rank": "5-8",
             "player": "Hippolyte Senechau",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Prossh, Skyraider of Kher"
             ],
@@ -771,7 +764,6 @@
             "deck_id": "531227",
             "rank": "5-8",
             "player": "Ghislain Réa",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -881,7 +873,6 @@
             "deck_id": "531228",
             "rank": "9-16",
             "player": "Titouan Le Berre",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -991,7 +982,6 @@
             "deck_id": "531229",
             "rank": "9-16",
             "player": "Yoann Scordia",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Feldon, Ronom Excavator"
             ],
@@ -1074,7 +1064,6 @@
             "deck_id": "531230",
             "rank": "9-16",
             "player": "Cedric Allemandou",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Niv-Mizzet Reborn"
             ],
@@ -1184,7 +1173,6 @@
             "deck_id": "531231",
             "rank": "9-16",
             "player": "Toni De Paoli",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Tana, the Bloodsower",
                 "Yoshimaru, Ever Faithful"
@@ -1293,7 +1281,6 @@
             "deck_id": "531232",
             "rank": "9-16",
             "player": "Damien Valentin",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Jegantha, the Wellspring",
                 "Niv-Mizzet Reborn"
@@ -1404,7 +1391,6 @@
             "deck_id": "531233",
             "rank": "9-16",
             "player": "Raphael Biane",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Grist, the Hunger Tide"
             ],
@@ -1504,7 +1490,6 @@
             "deck_id": "531234",
             "rank": "9-16",
             "player": "Hugo Rios",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Baral and Kari Zev"
             ],
@@ -1601,7 +1586,6 @@
             "deck_id": "531235",
             "rank": "9-16",
             "player": "Cedric Froger",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Tana, the Bloodsower",
                 "Yoshimaru, Ever Faithful"

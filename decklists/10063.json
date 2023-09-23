@@ -10,7 +10,6 @@
             "deck_id": "258012",
             "rank": "1",
             "player": "Dario Belotti",
-            "winrate": 1.0,
             "commander": [
                 "Jenara, Asura of War"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "258013",
             "rank": "2",
             "player": "Mauro Conti",
-            "winrate": 0.8,
             "commander": [
                 "Maelstrom Wanderer"
             ],
@@ -223,7 +221,6 @@
             "deck_id": "258014",
             "rank": "3-4",
             "player": "Michele Atzeni",
-            "winrate": 0.8,
             "commander": [
                 "Vendilion Clique"
             ],
@@ -309,7 +306,6 @@
             "deck_id": "258015",
             "rank": "3-4",
             "player": "Michele Orsalla",
-            "winrate": 0.8,
             "commander": [
                 "Griselbrand"
             ],

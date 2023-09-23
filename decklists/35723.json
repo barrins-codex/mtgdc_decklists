@@ -10,7 +10,6 @@
             "deck_id": "469494",
             "rank": "1",
             "player": "Brona Pecek",
-            "winrate": 1.0,
             "commander": [
                 "Isamaru, Hound of Konda"
             ],
@@ -98,7 +97,6 @@
             "deck_id": "469495",
             "rank": "2",
             "player": "David Mecl",
-            "winrate": 0.8,
             "commander": [
                 "Sythis, Harvest's Hand"
             ],
@@ -202,7 +200,6 @@
             "deck_id": "469496",
             "rank": "3",
             "player": "Matej Oralek",
-            "winrate": 0.6,
             "commander": [
                 "Leovold, Emissary of Trest"
             ],

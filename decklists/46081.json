@@ -10,7 +10,6 @@
             "deck_id": "540516",
             "rank": "1",
             "player": "Loïc Baverel",
-            "winrate": 1.0,
             "commander": [
                 "Aragorn, King of Gondor"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "540517",
             "rank": "2",
             "player": "Lionel Kieffer",
-            "winrate": 0.8,
             "commander": [
                 "Ertai Resurrected"
             ],
@@ -217,7 +215,6 @@
             "deck_id": "540518",
             "rank": "3-4",
             "player": "Adrien Seferis",
-            "winrate": 0.8,
             "commander": [
                 "Yoshimaru, Ever Faithful"
             ],
@@ -322,7 +319,6 @@
             "deck_id": "540519",
             "rank": "3-4",
             "player": "Dylan Barbier",
-            "winrate": 0.8,
             "commander": [
                 "Octavia, Living Thesis"
             ],

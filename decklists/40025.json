@@ -10,7 +10,6 @@
             "deck_id": "498037",
             "rank": "1",
             "player": "Roman Vejdelek",
-            "winrate": 1.0,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "498038",
             "rank": "2",
             "player": "Jakub Havelka",
-            "winrate": 0.8,
             "commander": [
                 "Kraum, Ludevic's Opus"
             ],
@@ -220,7 +218,6 @@
             "deck_id": "498039",
             "rank": "3",
             "player": "Petr Stefan",
-            "winrate": 0.8,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -330,7 +327,6 @@
             "deck_id": "498040",
             "rank": "4",
             "player": "Daniel Tochacek",
-            "winrate": 0.6,
             "commander": [
                 "Niv-Mizzet Reborn"
             ],

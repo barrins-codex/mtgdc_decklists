@@ -10,7 +10,6 @@
             "deck_id": "290585",
             "rank": "3-4",
             "player": "Brunno Portela",
-            "winrate": 0.8,
             "commander": [
                 "Ruhan of the Fomori"
             ],
@@ -107,7 +106,6 @@
             "deck_id": "290586",
             "rank": "3-4",
             "player": "Vitor Sznifer",
-            "winrate": 0.8,
             "commander": [
                 "Selvala, Heart of the Wilds"
             ],
@@ -189,7 +187,6 @@
             "deck_id": "290587",
             "rank": "2",
             "player": "Kim Sarkovas",
-            "winrate": 0.8,
             "commander": [
                 "Saskia the Unyielding"
             ],
@@ -299,7 +296,6 @@
             "deck_id": "290588",
             "rank": "1",
             "player": "Vitor Maia",
-            "winrate": 1.0,
             "commander": [
                 "Saskia the Unyielding"
             ],

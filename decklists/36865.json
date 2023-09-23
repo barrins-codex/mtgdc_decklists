@@ -10,7 +10,6 @@
             "deck_id": "477042",
             "rank": "1",
             "player": "Ian Paul Roa",
-            "winrate": 1.0,
             "commander": [
                 "Minsc &amp; Boo, Timeless Heroes"
             ],
@@ -101,7 +100,6 @@
             "deck_id": "477043",
             "rank": "2",
             "player": "Cilbert Corpuz",
-            "winrate": 0.8,
             "commander": [
                 "Gut, True Soul Zealot",
                 "Inspiring Leader"
@@ -209,7 +207,6 @@
             "deck_id": "477044",
             "rank": "3-4",
             "player": "Kyle Guerrero",
-            "winrate": 0.8,
             "commander": [
                 "Gut, True Soul Zealot"
             ],
@@ -298,7 +295,6 @@
             "deck_id": "477045",
             "rank": "3-4",
             "player": "Nhald Adia",
-            "winrate": 0.8,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],

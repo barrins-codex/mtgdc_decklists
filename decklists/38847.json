@@ -10,7 +10,6 @@
             "deck_id": "489877",
             "rank": "1",
             "player": "Alexandre \"onesauk\" Benac",
-            "winrate": 1.0,
             "commander": [
                 "Balmor, Battlemage Captain"
             ],
@@ -112,7 +111,6 @@
             "deck_id": "489878",
             "rank": "2",
             "player": "Magueta",
-            "winrate": 0.8,
             "commander": [
                 "Klothys, God of Destiny"
             ],
@@ -207,7 +205,6 @@
             "deck_id": "489879",
             "rank": "3-4",
             "player": "Thomas S",
-            "winrate": 0.8,
             "commander": [
                 "Ghyrson Starn, Kelermorph"
             ],
@@ -301,7 +298,6 @@
             "deck_id": "489880",
             "rank": "3-4",
             "player": "Matthcda",
-            "winrate": 0.8,
             "commander": [
                 "Niv-Mizzet Reborn"
             ],

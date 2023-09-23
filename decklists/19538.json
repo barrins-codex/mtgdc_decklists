@@ -10,7 +10,6 @@
             "deck_id": "325018",
             "rank": "3-4",
             "player": "Ben Co",
-            "winrate": 0.8,
             "commander": [
                 "Teferi, Temporal Archmage"
             ],
@@ -86,7 +85,6 @@
             "deck_id": "325019",
             "rank": "1",
             "player": "Lenzy Abellana",
-            "winrate": 1.0,
             "commander": [
                 "Kraum, Ludevic's Opus",
                 "Thrasios, Triton Hero"
@@ -189,7 +187,6 @@
             "deck_id": "325020",
             "rank": "2",
             "player": "Rusty Jade Capricho",
-            "winrate": 0.8,
             "commander": [
                 "Titania, Protector of Argoth"
             ],
@@ -283,7 +280,6 @@
             "deck_id": "325021",
             "rank": "3-4",
             "player": "Chris Sta. Maria",
-            "winrate": 0.8,
             "commander": [
                 "Karlov of the Ghost Council"
             ],

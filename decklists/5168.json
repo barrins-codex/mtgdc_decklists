@@ -10,7 +10,6 @@
             "deck_id": "229789",
             "rank": "5-8",
             "player": "Djamel Arab",
-            "winrate": 0.75,
             "commander": [
                 "Ruhan of the Fomori"
             ],
@@ -22,7 +21,6 @@
             "deck_id": "229790",
             "rank": "1",
             "player": "Maxime Morillon",
-            "winrate": 0.8888888888888888,
             "commander": [
                 "Grand Arbiter Augustin IV"
             ],
@@ -123,7 +121,6 @@
             "deck_id": "229791",
             "rank": "1",
             "player": "Marien Couvertier",
-            "winrate": 0.8888888888888888,
             "commander": [
                 "Grand Arbiter Augustin IV"
             ],
@@ -226,7 +223,6 @@
             "deck_id": "229792",
             "rank": "3-4",
             "player": "Mathieu Gruson",
-            "winrate": 0.75,
             "commander": [
                 "Ezuri, Renegade Leader"
             ],
@@ -319,7 +315,6 @@
             "deck_id": "229793",
             "rank": "5-8",
             "player": "Clément Bourreau",
-            "winrate": 0.75,
             "commander": [
                 "Doran, the Siege Tower"
             ],
@@ -331,7 +326,6 @@
             "deck_id": "229794",
             "rank": "5-8",
             "player": "Michael Labrousse",
-            "winrate": 0.75,
             "commander": [
                 "Zur the Enchanter"
             ],
@@ -441,7 +435,6 @@
             "deck_id": "229795",
             "rank": "5-8",
             "player": "Pascal Oulié",
-            "winrate": 0.75,
             "commander": [
                 "Griselbrand"
             ],
@@ -453,7 +446,6 @@
             "deck_id": "229796",
             "rank": "3-4",
             "player": "Julien Debelleix",
-            "winrate": 0.75,
             "commander": [
                 "Wydwen, the Biting Gale"
             ],

@@ -10,7 +10,6 @@
             "deck_id": "263897",
             "rank": "3-4",
             "player": "Yang Yang",
-            "winrate": 0.8,
             "commander": [
                 "Tasigur, the Golden Fang"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "263898",
             "rank": "1",
             "player": "Wang Weiji",
-            "winrate": 1.0,
             "commander": [
                 "Prossh, Skyraider of Kher"
             ],
@@ -228,7 +226,6 @@
             "deck_id": "263899",
             "rank": "2",
             "player": "Hu Minzhe",
-            "winrate": 0.8,
             "commander": [
                 "Marath, Will of the Wild"
             ],
@@ -336,7 +333,6 @@
             "deck_id": "263900",
             "rank": "3-4",
             "player": "Chen Kailin",
-            "winrate": 0.8,
             "commander": [
                 "Grand Arbiter Augustin IV"
             ],

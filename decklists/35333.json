@@ -10,7 +10,6 @@
             "deck_id": "467043",
             "rank": "1",
             "player": "Rexel Tenorio",
-            "winrate": 1.0,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "467044",
             "rank": "2",
             "player": "Jeremias Garganera",
-            "winrate": 0.8,
             "commander": [
                 "Rograkh, Son of Rohgahh",
                 "Tevesh Szat, Doom of Fools"
@@ -209,7 +207,6 @@
             "deck_id": "467045",
             "rank": "3-4",
             "player": "Dinno Zaide",
-            "winrate": 0.8,
             "commander": [
                 "Ludevic, Necro-Alchemist"
             ],
@@ -306,7 +303,6 @@
             "deck_id": "467046",
             "rank": "3-4",
             "player": "Christian Agbon",
-            "winrate": 0.8,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],

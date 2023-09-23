@@ -10,7 +10,6 @@
             "deck_id": "515109",
             "rank": "1",
             "player": "Dimitri Scheffer",
-            "winrate": 0.8888888888888888,
             "commander": [
                 "Balmor, Battlemage Captain"
             ],
@@ -109,7 +108,6 @@
             "deck_id": "515110",
             "rank": "2",
             "player": "Stéphane \"ghostmarine\" Alphonse",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Old Stickfingers"
             ],
@@ -210,7 +208,6 @@
             "deck_id": "515111",
             "rank": "3-4",
             "player": "Christopher \"chris B\" Bastide",
-            "winrate": 0.75,
             "commander": [
                 "Dihada, Binder of Wills"
             ],
@@ -320,7 +317,6 @@
             "deck_id": "515112",
             "rank": "3-4",
             "player": "Dylan \"noobawow\" Neumann",
-            "winrate": 0.75,
             "commander": [
                 "Ertai Resurrected"
             ],
@@ -420,7 +416,6 @@
             "deck_id": "515113",
             "rank": "5-8",
             "player": "Pierre Camps",
-            "winrate": 0.75,
             "commander": [
                 "Prossh, Skyraider of Kher"
             ],
@@ -530,7 +525,6 @@
             "deck_id": "515114",
             "rank": "5-8",
             "player": "Sébastien \"xf0rce67\" Bohn",
-            "winrate": 0.75,
             "commander": [
                 "Dennick, Pious Apprentice"
             ],
@@ -632,7 +626,6 @@
             "deck_id": "515115",
             "rank": "5-8",
             "player": "Romain \"jinx\" Cozic",
-            "winrate": 0.75,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -742,7 +735,6 @@
             "deck_id": "515116",
             "rank": "5-8",
             "player": "Ales Buben",
-            "winrate": 0.75,
             "commander": [
                 "Dihada, Binder of Wills"
             ],
@@ -852,7 +844,6 @@
             "deck_id": "515117",
             "rank": "9-16",
             "player": "Mathieu \"moltes\" Cunrath",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Niv-Mizzet Reborn"
             ],
@@ -962,7 +953,6 @@
             "deck_id": "515118",
             "rank": "9-16",
             "player": "Mathieu \"kinemat67\" Bouhr",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Saskia the Unyielding"
             ],
@@ -1072,7 +1062,6 @@
             "deck_id": "515119",
             "rank": "9-16",
             "player": "Yoann \"sharkan68\" Domingues",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -1182,7 +1171,6 @@
             "deck_id": "515120",
             "rank": "9-16",
             "player": "Jan \"johny\" Roub",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Prossh, Skyraider of Kher"
             ],
@@ -1292,7 +1280,6 @@
             "deck_id": "515121",
             "rank": "9-16",
             "player": "Flavien Ghamri",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Feldon, Ronom Excavator"
             ],
@@ -1380,7 +1367,6 @@
             "deck_id": "515122",
             "rank": "9-16",
             "player": "Radek \"krabaak\" Hasak",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Ghyrson Starn, Kelermorph"
             ],
@@ -1482,7 +1468,6 @@
             "deck_id": "515123",
             "rank": "9-16",
             "player": "Nicolas \"bdf\" Delfolie",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -1592,7 +1577,6 @@
             "deck_id": "515124",
             "rank": "9-16",
             "player": "Simon Calligaro",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Golos, Tireless Pilgrim"
             ],

@@ -10,7 +10,6 @@
             "deck_id": "547856",
             "rank": "1",
             "player": "Sebastian Reichert",
-            "winrate": 1.0,
             "commander": [
                 "Gollum, Patient Plotter"
             ],
@@ -94,7 +93,6 @@
             "deck_id": "547857",
             "rank": "2",
             "player": "Robo-bo-bots",
-            "winrate": 0.8,
             "commander": [
                 "Ratchet, Field Medic"
             ],

@@ -10,7 +10,6 @@
             "deck_id": "356189",
             "rank": "3-4",
             "player": "Aurélien Lion",
-            "winrate": 0.6,
             "commander": [
                 "Thrasios, Triton Hero",
                 "Ludevic, Necro-Alchemist"
@@ -120,7 +119,6 @@
             "deck_id": "356190",
             "rank": "1",
             "player": "Nicolas De Coster",
-            "winrate": 1.0,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -203,7 +201,6 @@
             "deck_id": "356191",
             "rank": "2",
             "player": "Sullivan Valdairon",
-            "winrate": 0.8,
             "commander": [
                 "Teferi, Temporal Archmage"
             ],
@@ -277,7 +274,6 @@
             "deck_id": "356192",
             "rank": "3-4",
             "player": "Guillaume Petra",
-            "winrate": 0.6,
             "commander": [
                 "Urza, Lord High Artificer"
             ],

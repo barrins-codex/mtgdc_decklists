@@ -10,7 +10,6 @@
             "deck_id": "522020",
             "rank": "1",
             "player": "Roger Dorian - Daïsho",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "522021",
             "rank": "2",
             "player": "Oxybel Joël - Zodiak",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Feldon, Ronom Excavator"
             ],
@@ -209,7 +207,6 @@
             "deck_id": "522022",
             "rank": "3-4",
             "player": "Bisson Andréa - Sunnysid",
-            "winrate": 0.625,
             "commander": [
                 "Sythis, Harvest's Hand"
             ],
@@ -307,7 +304,6 @@
             "deck_id": "522023",
             "rank": "3-4",
             "player": "Kubica Mathieu",
-            "winrate": 0.625,
             "commander": [
                 "Tivit, Seller of Secrets"
             ],
@@ -417,7 +413,6 @@
             "deck_id": "522024",
             "rank": "5-8",
             "player": "Manicacci Yann - Papyyaourt",
-            "winrate": 0.625,
             "commander": [
                 "Esika, God of the Tree"
             ],
@@ -527,7 +522,6 @@
             "deck_id": "522025",
             "rank": "5-8",
             "player": "Roscel Aubane",
-            "winrate": 0.625,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -637,7 +631,6 @@
             "deck_id": "522026",
             "rank": "5-8",
             "player": "Willmann Cyprien - Cyp",
-            "winrate": 0.625,
             "commander": [
                 "Cecily, Haunted Mage",
                 "Wernog, Rider's Chaplain"
@@ -747,7 +740,6 @@
             "deck_id": "522027",
             "rank": "5-8",
             "player": "Degelcke Jéremy",
-            "winrate": 0.625,
             "commander": [
                 "Ghyrson Starn, Kelermorph"
             ],

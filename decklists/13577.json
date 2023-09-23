@@ -10,7 +10,6 @@
             "deck_id": "279918",
             "rank": "5-8",
             "player": "Carlos Henrique Silva",
-            "winrate": 0.6,
             "commander": [
                 "Prime Speaker Zegana"
             ],
@@ -108,7 +107,6 @@
             "deck_id": "279919",
             "rank": "4",
             "player": "Fernando Yada Marinho",
-            "winrate": 0.8,
             "commander": [
                 "Jace, Vryn's Prodigy"
             ],
@@ -202,7 +200,6 @@
             "deck_id": "279920",
             "rank": "3",
             "player": "Guilherme \"Demonic Tutor\" Machado",
-            "winrate": 0.8,
             "commander": [
                 "Leovold, Emissary of Trest"
             ],
@@ -304,7 +301,6 @@
             "deck_id": "279921",
             "rank": "2",
             "player": "Ivy Hernandes",
-            "winrate": 0.8,
             "commander": [
                 "Titania, Protector of Argoth"
             ],
@@ -396,7 +392,6 @@
             "deck_id": "279922",
             "rank": "1",
             "player": "Diego Ganev",
-            "winrate": 1.0,
             "commander": [
                 "Jenara, Asura of War"
             ],
@@ -506,7 +501,6 @@
             "deck_id": "279923",
             "rank": "5-8",
             "player": "Juliano Zimmermann Moratori",
-            "winrate": 0.6,
             "commander": [
                 "Grand Arbiter Augustin IV"
             ],
@@ -608,7 +602,6 @@
             "deck_id": "279924",
             "rank": "5-8",
             "player": "Mayckol Fernandes",
-            "winrate": 0.6,
             "commander": [
                 "Geist of Saint Traft"
             ],
@@ -701,7 +694,6 @@
             "deck_id": "279925",
             "rank": "5-8",
             "player": "Fábio Kaneto",
-            "winrate": 0.6,
             "commander": [
                 "Nissa, Vastwood Seer"
             ],

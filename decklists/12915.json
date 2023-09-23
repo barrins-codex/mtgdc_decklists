@@ -10,7 +10,6 @@
             "deck_id": "275163",
             "rank": "1",
             "player": "Han Xu",
-            "winrate": 1.0,
             "commander": [
                 "Jenara, Asura of War"
             ],
@@ -119,7 +118,6 @@
             "deck_id": "275164",
             "rank": "2",
             "player": "Yuan Luyang",
-            "winrate": 0.8,
             "commander": [
                 "Karador, Ghost Chieftain"
             ],

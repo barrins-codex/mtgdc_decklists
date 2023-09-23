@@ -10,7 +10,6 @@
             "deck_id": "452630",
             "rank": "1",
             "player": "Benjamin Vayrac",
-            "winrate": 1.0,
             "commander": [
                 "Yawgmoth, Thran Physician"
             ],
@@ -94,7 +93,6 @@
             "deck_id": "452631",
             "rank": "2",
             "player": "Quentin Levard",
-            "winrate": 0.8,
             "commander": [
                 "Kraum, Ludevic's Opus",
                 "Tevesh Szat, Doom of Fools"
@@ -203,7 +201,6 @@
             "deck_id": "452632",
             "rank": "3-4",
             "player": "Laurent Gadchaux",
-            "winrate": 0.8,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -289,7 +286,6 @@
             "deck_id": "452633",
             "rank": "3-4",
             "player": "Léo Facca",
-            "winrate": 0.8,
             "commander": [
                 "Esika, God of the Tree"
             ],
@@ -399,7 +395,6 @@
             "deck_id": "452634",
             "rank": "5-8",
             "player": "Unknown",
-            "winrate": 0.6,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -483,7 +478,6 @@
             "deck_id": "452635",
             "rank": "5-8",
             "player": "Melkior Leblanc",
-            "winrate": 0.6,
             "commander": [
                 "Esika, God of the Tree"
             ],
@@ -593,7 +587,6 @@
             "deck_id": "452636",
             "rank": "5-8",
             "player": "Sénéchau Hippolyte",
-            "winrate": 0.6,
             "commander": [
                 "Grenzo, Dungeon Warden"
             ],
@@ -695,7 +688,6 @@
             "deck_id": "452637",
             "rank": "5-8",
             "player": "Quentin Pottier",
-            "winrate": 0.6,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],

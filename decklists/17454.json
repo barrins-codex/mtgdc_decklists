@@ -10,7 +10,6 @@
             "deck_id": "308045",
             "rank": "3-4",
             "player": "Piper Summers",
-            "winrate": 0.6,
             "commander": [
                 "Selvala, Heart of the Wilds"
             ],
@@ -90,7 +89,6 @@
             "deck_id": "308046",
             "rank": "2",
             "player": "Taylor Shiells",
-            "winrate": 0.8,
             "commander": [
                 "Sygg, River Cutthroat"
             ],
@@ -183,7 +181,6 @@
             "deck_id": "308047",
             "rank": "1",
             "player": "Jake Krzeczowksi",
-            "winrate": 1.0,
             "commander": [
                 "Kess, Dissident Mage"
             ],

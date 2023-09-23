@@ -10,7 +10,6 @@
             "deck_id": "532898",
             "rank": "1",
             "player": "Pavel Bednarik",
-            "winrate": 1.0,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "532899",
             "rank": "2",
             "player": "Michal Mendl",
-            "winrate": 0.8,
             "commander": [
                 "Dennick, Pious Apprentice"
             ],
@@ -223,7 +221,6 @@
             "deck_id": "532900",
             "rank": "3-4",
             "player": "Vitezslav Smid",
-            "winrate": 0.8,
             "commander": [
                 "The Beamtown Bullies"
             ],
@@ -333,7 +330,6 @@
             "deck_id": "532901",
             "rank": "3-4",
             "player": "Jakub Obrovsky",
-            "winrate": 0.8,
             "commander": [
                 "Feldon, Ronom Excavator"
             ],
@@ -422,7 +418,6 @@
             "deck_id": "532902",
             "rank": "5-8",
             "player": "Ondrej Vitula",
-            "winrate": 0.6,
             "commander": [
                 "Ghyrson Starn, Kelermorph"
             ],
@@ -525,7 +520,6 @@
             "deck_id": "532903",
             "rank": "5-8",
             "player": "Bronislav Pecek",
-            "winrate": 0.6,
             "commander": [
                 "Gut, True Soul Zealot"
             ],
@@ -630,7 +624,6 @@
             "deck_id": "532904",
             "rank": "5-8",
             "player": "Martin Slezak",
-            "winrate": 0.6,
             "commander": [
                 "Ratchet, Field Medic"
             ],
@@ -720,7 +713,6 @@
             "deck_id": "532905",
             "rank": "5-8",
             "player": "Jiri Dvorak",
-            "winrate": 0.6,
             "commander": [
                 "Kyodai, Soul of Kamigawa"
             ],

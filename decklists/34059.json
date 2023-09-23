@@ -10,7 +10,6 @@
             "deck_id": "459069",
             "rank": "1",
             "player": "Red Seniors",
-            "winrate": 1.0,
             "commander": [
                 "Niv-Mizzet Reborn"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "459070",
             "rank": "2",
             "player": "Exequiel \"pando\" Lim",
-            "winrate": 0.8,
             "commander": [
                 "Titania, Protector of Argoth"
             ],

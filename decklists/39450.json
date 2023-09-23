@@ -10,7 +10,6 @@
             "deck_id": "493801",
             "rank": "1",
             "player": "Sébastien Rotondo",
-            "winrate": 1.0,
             "commander": [
                 "Liesa, Shroud of Dusk"
             ],
@@ -113,7 +112,6 @@
             "deck_id": "493802",
             "rank": "2",
             "player": "Pierre Almaraz",
-            "winrate": 0.8,
             "commander": [
                 "Dennick, Pious Apprentice"
             ],
@@ -215,7 +213,6 @@
             "deck_id": "493803",
             "rank": "3-4",
             "player": "Sébastien Chiron",
-            "winrate": 0.8,
             "commander": [
                 "Dennick, Pious Apprentice"
             ],
@@ -318,7 +315,6 @@
             "deck_id": "493804",
             "rank": "3-4",
             "player": "Thomas Ricci",
-            "winrate": 0.8,
             "commander": [
                 "Yoshimaru, Ever Faithful",
                 "Silas Renn, Seeker Adept"
@@ -425,7 +421,6 @@
             "deck_id": "493805",
             "rank": "5-8",
             "player": "Angelo Frecon",
-            "winrate": 0.6,
             "commander": [
                 "Grist, the Hunger Tide"
             ],
@@ -522,7 +517,6 @@
             "deck_id": "493806",
             "rank": "5-8",
             "player": "Marc Fontaine",
-            "winrate": 0.6,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -632,7 +626,6 @@
             "deck_id": "493807",
             "rank": "5-8",
             "player": "Jérémy Finel",
-            "winrate": 0.6,
             "commander": [
                 "The Beamtown Bullies"
             ],
@@ -742,7 +735,6 @@
             "deck_id": "493808",
             "rank": "5-8",
             "player": "Éric Cpo",
-            "winrate": 0.6,
             "commander": [
                 "Tivit, Seller of Secrets"
             ],
@@ -850,7 +842,6 @@
             "deck_id": "493809",
             "rank": "9",
             "player": "Florian Divay",
-            "winrate": 0.6,
             "commander": [
                 "Kinnan, Bonder Prodigy"
             ],

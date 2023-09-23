@@ -10,7 +10,6 @@
             "deck_id": "479248",
             "rank": "1",
             "player": "Jean-alexis Lequoque",
-            "winrate": 1.0,
             "commander": [
                 "Juri, Master of the Revue"
             ],
@@ -108,7 +107,6 @@
             "deck_id": "479249",
             "rank": "2",
             "player": "Alexandre Benac",
-            "winrate": 0.8,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -218,7 +216,6 @@
             "deck_id": "479250",
             "rank": "3-4",
             "player": "Yann Belmer",
-            "winrate": 0.8,
             "commander": [
                 "Atraxa, Praetors' Voice"
             ],
@@ -328,7 +325,6 @@
             "deck_id": "479251",
             "rank": "3-4",
             "player": "Jeremy Poujade",
-            "winrate": 0.8,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -438,7 +434,6 @@
             "deck_id": "479252",
             "rank": "5-8",
             "player": "Stephen Helmer",
-            "winrate": 0.6,
             "commander": [
                 "Tivit, Seller of Secrets"
             ],
@@ -548,7 +543,6 @@
             "deck_id": "479253",
             "rank": "5-8",
             "player": "Bastien Guichard",
-            "winrate": 0.6,
             "commander": [
                 "Chatterfang, Squirrel General"
             ],
@@ -647,7 +641,6 @@
             "deck_id": "479254",
             "rank": "5-8",
             "player": "Yann Herpe",
-            "winrate": 0.6,
             "commander": [
                 "Minsc &amp; Boo, Timeless Heroes"
             ],
@@ -746,7 +739,6 @@
             "deck_id": "479255",
             "rank": "5-8",
             "player": "Théo Hotte",
-            "winrate": 0.6,
             "commander": [
                 "Raffine, Scheming Seer"
             ],

@@ -10,7 +10,6 @@
             "deck_id": "475901",
             "rank": "1",
             "player": "Harry Hawk Iii",
-            "winrate": 1.0,
             "commander": [
                 "Radha, Heart of Keld"
             ],
@@ -104,7 +103,6 @@
             "deck_id": "475902",
             "rank": "2",
             "player": "Phillip Bui",
-            "winrate": 0.8,
             "commander": [
                 "Kroxa, Titan of Death's Hunger"
             ],
@@ -204,7 +202,6 @@
             "deck_id": "475903",
             "rank": "3-4",
             "player": "Eastman O'shields",
-            "winrate": 0.8,
             "commander": [
                 "Animar, Soul of Elements"
             ],
@@ -307,7 +304,6 @@
             "deck_id": "475904",
             "rank": "3-4",
             "player": "Ben Roullet",
-            "winrate": 0.8,
             "commander": [
                 "Svyelun of Sea and Sky"
             ],
@@ -392,7 +388,6 @@
             "deck_id": "475905",
             "rank": "5-8",
             "player": "George Hawk",
-            "winrate": 0.6,
             "commander": [
                 "Teshar, Ancestor's Apostle"
             ],
@@ -478,7 +473,6 @@
             "deck_id": "475906",
             "rank": "5-8",
             "player": "Nick Hovis",
-            "winrate": 0.6,
             "commander": [
                 "Trelasarra, Moon Dancer"
             ],
@@ -571,7 +565,6 @@
             "deck_id": "475907",
             "rank": "5-8",
             "player": "Nathan Hundley",
-            "winrate": 0.6,
             "commander": [
                 "Light-Paws, Emperor's Voice"
             ],
@@ -660,7 +653,6 @@
             "deck_id": "475908",
             "rank": "5-8",
             "player": "Jamaal Edwards",
-            "winrate": 0.6,
             "commander": [
                 "Juri, Master of the Revue"
             ],

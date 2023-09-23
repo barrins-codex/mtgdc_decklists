@@ -10,7 +10,6 @@
             "deck_id": "265630",
             "rank": "1",
             "player": "João Lucas Caparroz",
-            "winrate": 0.875,
             "commander": [
                 "Maelstrom Wanderer"
             ],
@@ -104,7 +103,6 @@
             "deck_id": "265631",
             "rank": "2",
             "player": "João Eduardo Miranda Santos",
-            "winrate": 0.75,
             "commander": [
                 "Vendilion Clique"
             ],
@@ -192,7 +190,6 @@
             "deck_id": "265632",
             "rank": "3-4",
             "player": "Fabio Fernandes Vieira",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Jace, Vryn's Prodigy"
             ],
@@ -271,7 +268,6 @@
             "deck_id": "265633",
             "rank": "3-4",
             "player": "Luiz Bueno",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Prossh, Skyraider of Kher"
             ],
@@ -381,7 +377,6 @@
             "deck_id": "265634",
             "rank": "5-8",
             "player": "Julio Cesar Buttler",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Obzedat, Ghost Council"
             ],
@@ -477,7 +472,6 @@
             "deck_id": "265635",
             "rank": "5-8",
             "player": "Lion Santiago",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Yisan, the Wanderer Bard"
             ],
@@ -565,7 +559,6 @@
             "deck_id": "265636",
             "rank": "5-8",
             "player": "Minindie",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Karador, Ghost Chieftain"
             ],
@@ -674,7 +667,6 @@
             "deck_id": "265637",
             "rank": "5-8",
             "player": "Jorge Augusto Tanaka",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Teferi, Temporal Archmage"
             ],

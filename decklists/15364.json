@@ -10,7 +10,6 @@
             "deck_id": "293429",
             "rank": "3-4",
             "player": "Thiago Paoliello",
-            "winrate": 0.8,
             "commander": [
                 "Akiri, Line-Slinger",
                 "Bruse Tarl, Boorish Herder"
@@ -105,7 +104,6 @@
             "deck_id": "293430",
             "rank": "2",
             "player": "Rodrigo Grotti",
-            "winrate": 0.8,
             "commander": [
                 "Vial Smasher the Fierce",
                 "Reyhan, Last of the Abzan"
@@ -198,7 +196,6 @@
             "deck_id": "293431",
             "rank": "3-4",
             "player": "Renan Facchini",
-            "winrate": 0.8,
             "commander": [
                 "Selvala, Heart of the Wilds"
             ],
@@ -288,7 +285,6 @@
             "deck_id": "293432",
             "rank": "1",
             "player": "Brunno Portela",
-            "winrate": 1.0,
             "commander": [
                 "Narset, Enlightened Master"
             ],

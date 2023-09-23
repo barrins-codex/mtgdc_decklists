@@ -10,7 +10,6 @@
             "deck_id": "282420",
             "rank": "1",
             "player": "Fábio Fernandes Vieira",
-            "winrate": 1.0,
             "commander": [
                 "Prossh, Skyraider of Kher"
             ],
@@ -112,7 +111,6 @@
             "deck_id": "282421",
             "rank": "2",
             "player": "Bruno Karam",
-            "winrate": 0.8,
             "commander": [
                 "Titania, Protector of Argoth"
             ],
@@ -203,7 +201,6 @@
             "deck_id": "282422",
             "rank": "3-4",
             "player": "Eduardo Takehana",
-            "winrate": 0.8,
             "commander": [
                 "Meren of Clan Nel Toth"
             ],
@@ -293,7 +290,6 @@
             "deck_id": "282423",
             "rank": "3-4",
             "player": "Felipe rodriguez",
-            "winrate": 0.8,
             "commander": [
                 "Kytheon, Hero of Akros"
             ],
@@ -377,7 +373,6 @@
             "deck_id": "282424",
             "rank": "5-8",
             "player": "Guilherme Tavares",
-            "winrate": 0.6,
             "commander": [
                 "Zurgo Bellstriker"
             ],
@@ -452,7 +447,6 @@
             "deck_id": "282425",
             "rank": "5-8",
             "player": "Renan Facchini",
-            "winrate": 0.6,
             "commander": [
                 "Titania, Protector of Argoth"
             ],
@@ -545,7 +539,6 @@
             "deck_id": "282426",
             "rank": "5-8",
             "player": "Guilherme Figueira",
-            "winrate": 0.6,
             "commander": [
                 "Keranos, God of Storms"
             ],
@@ -635,7 +628,6 @@
             "deck_id": "282427",
             "rank": "5-8",
             "player": "Caio \"Birl\" Henrique Lucio",
-            "winrate": 0.6,
             "commander": [
                 "Doran, the Siege Tower"
             ],

@@ -10,7 +10,6 @@
             "deck_id": "499912",
             "rank": "1",
             "player": "Jeremiah Achay",
-            "winrate": 0.875,
             "commander": [
                 "Yoshimaru, Ever Faithful"
             ],
@@ -101,7 +100,6 @@
             "deck_id": "499913",
             "rank": "2",
             "player": "Ej Farcon",
-            "winrate": 0.75,
             "commander": [
                 "Feldon, Ronom Excavator"
             ],
@@ -186,7 +184,6 @@
             "deck_id": "499914",
             "rank": "3",
             "player": "Meng Hao",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Kinnan, Bonder Prodigy"
             ],
@@ -294,7 +291,6 @@
             "deck_id": "499915",
             "rank": "4",
             "player": "Jeremiah Maigue",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Ludevic, Necro-Alchemist",
                 "Yoshimaru, Ever Faithful"
@@ -394,7 +390,6 @@
             "deck_id": "499916",
             "rank": "5",
             "player": "Rexel Tenorio",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -504,7 +499,6 @@
             "deck_id": "499917",
             "rank": "6",
             "player": "Timothy Agustin",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Gut, True Soul Zealot",
                 "Feywild Visitor"
@@ -606,7 +600,6 @@
             "deck_id": "499918",
             "rank": "7",
             "player": "Cilbert Corpuz",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Inspiring Leader",
                 "Gut, True Soul Zealot"
@@ -713,7 +706,6 @@
             "deck_id": "499919",
             "rank": "8",
             "player": "Martin Ogayon",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Grist, the Hunger Tide"
             ],

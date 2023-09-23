@@ -10,7 +10,6 @@
             "deck_id": "274385",
             "rank": "1",
             "player": "Aristide Blanpier",
-            "winrate": 1.0,
             "commander": [
                 "Grenzo, Dungeon Warden"
             ],
@@ -101,7 +100,6 @@
             "deck_id": "274386",
             "rank": "2",
             "player": "Samuel Perrin",
-            "winrate": 0.8,
             "commander": [
                 "Selvala, Explorer Returned"
             ],
@@ -193,7 +191,6 @@
             "deck_id": "274387",
             "rank": "3",
             "player": "Kozent Vezuli",
-            "winrate": 0.8,
             "commander": [
                 "Jenara, Asura of War"
             ],
@@ -296,7 +293,6 @@
             "deck_id": "274388",
             "rank": "4",
             "player": "Gabriel Cialdella",
-            "winrate": 0.8,
             "commander": [
                 "Prossh, Skyraider of Kher"
             ],

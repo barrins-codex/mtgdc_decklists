@@ -10,7 +10,6 @@
             "deck_id": "351928",
             "rank": "3-4",
             "player": "Richard Müller",
-            "winrate": 0.6,
             "commander": [
                 "Radha, Heir to Keld"
             ],
@@ -105,7 +104,6 @@
             "deck_id": "351929",
             "rank": "3-4",
             "player": "Ben Hackländer",
-            "winrate": 0.6,
             "commander": [
                 "Tymna the Weaver",
                 "Thrasios, Triton Hero"
@@ -215,7 +213,6 @@
             "deck_id": "351930",
             "rank": "1",
             "player": "Sebastian Haines",
-            "winrate": 1.0,
             "commander": [
                 "Leovold, Emissary of Trest"
             ],
@@ -325,7 +322,6 @@
             "deck_id": "351931",
             "rank": "2",
             "player": "Alexander Schmoll",
-            "winrate": 0.8,
             "commander": [
                 "Karlov of the Ghost Council"
             ],

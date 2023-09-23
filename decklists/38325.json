@@ -10,7 +10,6 @@
             "deck_id": "486462",
             "rank": "1",
             "player": "Julien Joie",
-            "winrate": 1.0,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "486463",
             "rank": "2",
             "player": "Kilian Zunino",
-            "winrate": 0.8,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -227,7 +225,6 @@
             "deck_id": "486464",
             "rank": "3-4",
             "player": "Malik Borel",
-            "winrate": 0.8,
             "commander": [
                 "Tinybones, Trinket Thief"
             ],
@@ -310,7 +307,6 @@
             "deck_id": "486465",
             "rank": "3-4",
             "player": "Pierre Clavieras Mengin",
-            "winrate": 0.8,
             "commander": [
                 "Grist, the Hunger Tide"
             ],
@@ -411,7 +407,6 @@
             "deck_id": "486466",
             "rank": "5-8",
             "player": "Anthony Ruer",
-            "winrate": 0.8,
             "commander": [
                 "The Gitrog Monster"
             ],
@@ -511,7 +506,6 @@
             "deck_id": "486467",
             "rank": "5-8",
             "player": "Anthony Nunez",
-            "winrate": 0.8,
             "commander": [
                 "Adeliz, the Cinder Wind"
             ],
@@ -611,7 +605,6 @@
             "deck_id": "486468",
             "rank": "5-8",
             "player": "Léo Facca",
-            "winrate": 0.8,
             "commander": [
                 "Niv-Mizzet Reborn"
             ],
@@ -721,7 +714,6 @@
             "deck_id": "486469",
             "rank": "5-8",
             "player": "Maxime Clavel",
-            "winrate": 0.8,
             "commander": [
                 "Isamaru, Hound of Konda"
             ],

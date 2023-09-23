@@ -10,7 +10,6 @@
             "deck_id": "250462",
             "rank": "1",
             "player": "Stephen Rosenthal",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Geist of Saint Traft"
             ],
@@ -114,7 +113,6 @@
             "deck_id": "250463",
             "rank": "2",
             "player": "Rick Grimes",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Maelstrom Wanderer"
             ],
@@ -221,7 +219,6 @@
             "deck_id": "250464",
             "rank": "3-4",
             "player": "Bobby Roberts",
-            "winrate": 0.625,
             "commander": [
                 "Geist of Saint Traft"
             ],
@@ -327,7 +324,6 @@
             "deck_id": "250465",
             "rank": "3-4",
             "player": "Robert Wu Tang",
-            "winrate": 0.625,
             "commander": [
                 "Ruhan of the Fomori"
             ],

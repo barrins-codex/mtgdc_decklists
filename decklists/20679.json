@@ -10,7 +10,6 @@
             "deck_id": "336293",
             "rank": "2",
             "player": "Jean-jacques Cormeau",
-            "winrate": 0.8,
             "commander": [
                 "Arahbo, Roar of the World"
             ],
@@ -113,7 +112,6 @@
             "deck_id": "336294",
             "rank": "1",
             "player": "Thomas \"verlaine\" Castagna",
-            "winrate": 1.0,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],

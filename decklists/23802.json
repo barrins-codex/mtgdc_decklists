@@ -10,7 +10,6 @@
             "deck_id": "365406",
             "rank": "1",
             "player": "Victor Antoshkin",
-            "winrate": 1.0,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -95,7 +94,6 @@
             "deck_id": "365407",
             "rank": "2",
             "player": "Smirnov Alexander",
-            "winrate": 0.8,
             "commander": [
                 "Kraum, Ludevic's Opus",
                 "Tymna the Weaver"
@@ -205,7 +203,6 @@
             "deck_id": "365408",
             "rank": "3-4",
             "player": "Dmitriy \"degal\" Tretyakov",
-            "winrate": 0.6,
             "commander": [
                 "Yorvo, Lord of Garenbrig"
             ],
@@ -295,7 +292,6 @@
             "deck_id": "365409",
             "rank": "3-4",
             "player": "Mattew Dolganov",
-            "winrate": 0.6,
             "commander": [
                 "Hogaak, Arisen Necropolis"
             ],

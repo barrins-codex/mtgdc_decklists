@@ -10,7 +10,6 @@
             "deck_id": "283953",
             "rank": "2",
             "player": "Leonardo Akio",
-            "winrate": 0.8,
             "commander": [
                 "Geist of Saint Traft"
             ],
@@ -108,7 +107,6 @@
             "deck_id": "283954",
             "rank": "3-4",
             "player": "Fábio Gavazzi",
-            "winrate": 0.8,
             "commander": [
                 "Saskia the Unyielding"
             ],
@@ -218,7 +216,6 @@
             "deck_id": "283956",
             "rank": "3-4",
             "player": "Bruno Karam",
-            "winrate": 0.8,
             "commander": [
                 "Titania, Protector of Argoth"
             ],
@@ -308,7 +305,6 @@
             "deck_id": "283957",
             "rank": "1",
             "player": "Guilherme \"Demonic Tutor\" Machado",
-            "winrate": 1.0,
             "commander": [
                 "Wydwen, the Biting Gale"
             ],

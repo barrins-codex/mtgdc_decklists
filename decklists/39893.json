@@ -10,7 +10,6 @@
             "deck_id": "497164",
             "rank": "1",
             "player": "Zdenek Hlavsa",
-            "winrate": 1.0,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "497165",
             "rank": "2",
             "player": "David Tran",
-            "winrate": 0.8,
             "commander": [
                 "Gix, Yawgmoth Praetor"
             ],
@@ -213,7 +211,6 @@
             "deck_id": "497166",
             "rank": "3",
             "player": "Jiri Vancata",
-            "winrate": 0.8,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -304,7 +301,6 @@
             "deck_id": "497167",
             "rank": "4",
             "player": "Daniel Tochacek",
-            "winrate": 0.8,
             "commander": [
                 "Niv-Mizzet Reborn"
             ],
@@ -414,7 +410,6 @@
             "deck_id": "497168",
             "rank": "5",
             "player": "Frantisek Krizkovsky",
-            "winrate": 0.6,
             "commander": [
                 "Tiamat"
             ],
@@ -524,7 +519,6 @@
             "deck_id": "497169",
             "rank": "6",
             "player": "Martin Smola",
-            "winrate": 0.6,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -634,7 +628,6 @@
             "deck_id": "497170",
             "rank": "7",
             "player": "Josef Kumstyr",
-            "winrate": 0.6,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -744,7 +737,6 @@
             "deck_id": "497171",
             "rank": "8",
             "player": "Jan Kousal",
-            "winrate": 0.6,
             "commander": [
                 "Maelstrom Wanderer"
             ],

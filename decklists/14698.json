@@ -10,7 +10,6 @@
             "deck_id": "288344",
             "rank": "2",
             "player": "Mikhail Protasov",
-            "winrate": 0.8,
             "commander": [
                 "Vial Smasher the Fierce",
                 "Kraum, Ludevic's Opus"
@@ -118,7 +117,6 @@
             "deck_id": "288345",
             "rank": "3-4",
             "player": "Alexey Samoylov",
-            "winrate": 0.8,
             "commander": [
                 "Breya, Etherium Shaper"
             ],
@@ -228,7 +226,6 @@
             "deck_id": "288346",
             "rank": "3-4",
             "player": "Evgeniy \"bratbogomol\" Michailov",
-            "winrate": 0.8,
             "commander": [
                 "Zurgo Bellstriker"
             ],
@@ -316,7 +313,6 @@
             "deck_id": "288347",
             "rank": "5-8",
             "player": "Vladimir \"horobi\" Bulanov",
-            "winrate": 0.6,
             "commander": [
                 "Geist of Saint Traft"
             ],
@@ -413,7 +409,6 @@
             "deck_id": "288348",
             "rank": "5-8",
             "player": "Ivan \"celestialserpent\" Churnosov",
-            "winrate": 0.6,
             "commander": [
                 "Vial Smasher the Fierce",
                 "Kraum, Ludevic's Opus"
@@ -517,7 +512,6 @@
             "deck_id": "288349",
             "rank": "5-8",
             "player": "Alexander \"dread Knight\" Kilyuk",
-            "winrate": 0.6,
             "commander": [
                 "Breya, Etherium Shaper"
             ],
@@ -627,7 +621,6 @@
             "deck_id": "288350",
             "rank": "5-8",
             "player": "Aleksey \"kendzu\" Osipov",
-            "winrate": 0.6,
             "commander": [
                 "Kraum, Ludevic's Opus",
                 "Ludevic, Necro-Alchemist"
@@ -718,7 +711,6 @@
             "deck_id": "288351",
             "rank": "1",
             "player": "Matvey Dolganov",
-            "winrate": 1.0,
             "commander": [
                 "Kraum, Ludevic's Opus",
                 "Vial Smasher the Fierce"

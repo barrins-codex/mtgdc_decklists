@@ -10,7 +10,6 @@
             "deck_id": "546045",
             "rank": "1",
             "player": "Hippolyte Senechau",
-            "winrate": 1.0,
             "commander": [
                 "Prossh, Skyraider of Kher"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "546046",
             "rank": "2",
             "player": "Kilian \"gwath\" Boulhaïs",
-            "winrate": 0.8,
             "commander": [
                 "Rona, Herald of Invasion"
             ],
@@ -216,7 +214,6 @@
             "deck_id": "546047",
             "rank": "3-4",
             "player": "Jesusextraturns",
-            "winrate": 0.8,
             "commander": [
                 "Atraxa, Grand Unifier"
             ],
@@ -326,7 +323,6 @@
             "deck_id": "546048",
             "rank": "3-4",
             "player": "Aurélien \"betaglucide\" Gomez",
-            "winrate": 0.8,
             "commander": [
                 "Leovold, Emissary of Trest"
             ],
@@ -436,7 +432,6 @@
             "deck_id": "546049",
             "rank": "5-8",
             "player": "François \"didou\" Maynadier",
-            "winrate": 0.6,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -546,7 +541,6 @@
             "deck_id": "546050",
             "rank": "5-8",
             "player": "John \"khorus\"",
-            "winrate": 0.6,
             "commander": [
                 "Feldon, Ronom Excavator"
             ],
@@ -622,7 +616,6 @@
             "deck_id": "546051",
             "rank": "5-8",
             "player": "Antoine \"chapeau\" Vieilledent",
-            "winrate": 0.6,
             "commander": [
                 "Grist, the Hunger Tide"
             ],
@@ -720,7 +713,6 @@
             "deck_id": "546052",
             "rank": "5-8",
             "player": "Ethis \"zoto\" Marguerite",
-            "winrate": 0.6,
             "commander": [
                 "Sythis, Harvest's Hand"
             ],

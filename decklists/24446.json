@@ -10,7 +10,6 @@
             "deck_id": "370848",
             "rank": "1",
             "player": "Tutu97",
-            "winrate": 1.0,
             "commander": [
                 "Niv-Mizzet Reborn"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "370849",
             "rank": "2",
             "player": "Steven Garnier",
-            "winrate": 0.8,
             "commander": [
                 "Kess, Dissident Mage"
             ],
@@ -230,7 +228,6 @@
             "deck_id": "370850",
             "rank": "3",
             "player": "Pierre Vallet",
-            "winrate": 0.8,
             "commander": [
                 "Titania, Protector of Argoth"
             ],

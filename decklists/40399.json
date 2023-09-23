@@ -10,7 +10,6 @@
             "deck_id": "500561",
             "rank": "1",
             "player": "Thiago Alcantara",
-            "winrate": 1.0,
             "commander": [
                 "Niv-Mizzet, Parun"
             ],
@@ -97,7 +96,6 @@
             "deck_id": "500562",
             "rank": "2",
             "player": "Lauro Hanna",
-            "winrate": 0.8,
             "commander": [
                 "Prossh, Skyraider of Kher"
             ],
@@ -185,7 +183,6 @@
             "deck_id": "500563",
             "rank": "3-4",
             "player": "Kauan Pessanha",
-            "winrate": 0.8,
             "commander": [
                 "Light-Paws, Emperor's Voice"
             ],
@@ -273,7 +270,6 @@
             "deck_id": "500564",
             "rank": "3-4",
             "player": "Gabriel Mattos",
-            "winrate": 0.8,
             "commander": [
                 "Ghyrson Starn, Kelermorph"
             ],

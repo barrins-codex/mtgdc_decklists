@@ -10,7 +10,6 @@
             "deck_id": "371144",
             "rank": "2",
             "player": "Martin G.",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Tymna the Weaver",
                 "Thrasios, Triton Hero"
@@ -120,7 +119,6 @@
             "deck_id": "371145",
             "rank": "1",
             "player": "Stefan C.",
-            "winrate": 1.0,
             "commander": [
                 "Thrasios, Triton Hero",
                 "Akiri, Line-Slinger"

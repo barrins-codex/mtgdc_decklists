@@ -10,7 +10,6 @@
             "deck_id": "431074",
             "rank": "1",
             "player": "Mephy",
-            "winrate": 1.0,
             "commander": [
                 "Tevesh Szat, Doom of Fools",
                 "Reyhan, Last of the Abzan"
@@ -104,7 +103,6 @@
             "deck_id": "431075",
             "rank": "2",
             "player": "Torique",
-            "winrate": 0.8,
             "commander": [
                 "Kira, Great Glass-Spinner"
             ],
@@ -184,7 +182,6 @@
             "deck_id": "431076",
             "rank": "3-4",
             "player": "Mrelfor",
-            "winrate": 0.6,
             "commander": [
                 "Winota, Joiner of Forces"
             ],
@@ -281,7 +278,6 @@
             "deck_id": "431077",
             "rank": "3-4",
             "player": "Onesauk",
-            "winrate": 0.6,
             "commander": [
                 "Krark, the Thumbless",
                 "Tevesh Szat, Doom of Fools"

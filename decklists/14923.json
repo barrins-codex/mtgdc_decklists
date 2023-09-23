@@ -10,7 +10,6 @@
             "deck_id": "290094",
             "rank": "2",
             "player": "Pierre \"camarade\"",
-            "winrate": 0.8,
             "commander": [
                 "Vial Smasher the Fierce"
             ],
@@ -109,7 +108,6 @@
             "deck_id": "290095",
             "rank": "2",
             "player": "Asimov",
-            "winrate": 0.8,
             "commander": [
                 "Akiri, Line-Slinger"
             ],

@@ -10,7 +10,6 @@
             "deck_id": "460411",
             "rank": "1",
             "player": "Loïc Baverel",
-            "winrate": 1.0,
             "commander": [
                 "Minsc, Beloved Ranger"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "460412",
             "rank": "2",
             "player": "Jérémy Finel",
-            "winrate": 0.8,
             "commander": [
                 "Yawgmoth, Thran Physician"
             ],
@@ -199,7 +197,6 @@
             "deck_id": "460413",
             "rank": "3-4",
             "player": "Thomas Ricci",
-            "winrate": 0.6,
             "commander": [
                 "Isamaru, Hound of Konda"
             ],
@@ -284,7 +281,6 @@
             "deck_id": "460414",
             "rank": "3-4",
             "player": "Julien Zorzi",
-            "winrate": 0.6,
             "commander": [
                 "Abomination of Llanowar"
             ],

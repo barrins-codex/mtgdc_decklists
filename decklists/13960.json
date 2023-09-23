@@ -10,7 +10,6 @@
             "deck_id": "282666",
             "rank": "5-8",
             "player": "Octávio Burgos",
-            "winrate": 0.625,
             "commander": [
                 "Zurgo Bellstriker"
             ],
@@ -88,7 +87,6 @@
             "deck_id": "282667",
             "rank": "5-8",
             "player": "André Escudeiro",
-            "winrate": 0.625,
             "commander": [
                 "Keranos, God of Storms"
             ],
@@ -177,7 +175,6 @@
             "deck_id": "282668",
             "rank": "5-8",
             "player": "Rafael Paiva",
-            "winrate": 0.625,
             "commander": [
                 "Geist of Saint Traft"
             ],
@@ -277,7 +274,6 @@
             "deck_id": "282669",
             "rank": "5-8",
             "player": "Leonardo Guastapaglia",
-            "winrate": 0.625,
             "commander": [
                 "Zurgo Bellstriker"
             ],
@@ -356,7 +352,6 @@
             "deck_id": "282670",
             "rank": "3-4",
             "player": "Fernando Yada Marinho",
-            "winrate": 0.625,
             "commander": [
                 "Zurgo Bellstriker"
             ],
@@ -432,7 +427,6 @@
             "deck_id": "282671",
             "rank": "2",
             "player": "Matheus Hruscha",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Drana, Liberator of Malakir"
             ],
@@ -518,7 +512,6 @@
             "deck_id": "282672",
             "rank": "3-4",
             "player": "Vyctor Cayetano",
-            "winrate": 0.625,
             "commander": [
                 "Jenara, Asura of War"
             ],
@@ -621,7 +614,6 @@
             "deck_id": "282673",
             "rank": "1",
             "player": "Bruno Karam",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Titania, Protector of Argoth"
             ],

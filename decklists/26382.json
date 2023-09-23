@@ -10,7 +10,6 @@
             "deck_id": "401542",
             "rank": "1",
             "player": "Cyril Hue",
-            "winrate": 1.0,
             "commander": [
                 "Kroxa, Titan of Death's Hunger"
             ],
@@ -110,7 +109,6 @@
             "deck_id": "401543",
             "rank": "2",
             "player": "Kelig Maze",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Zur the Enchanter"
             ],

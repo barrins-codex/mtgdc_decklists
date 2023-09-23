@@ -10,7 +10,6 @@
             "deck_id": "313329",
             "rank": "3-4",
             "player": "Jonathan Marvie",
-            "winrate": 0.625,
             "commander": [
                 "Saskia the Unyielding"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "313330",
             "rank": "3-4",
             "player": "Alexis \"strange\" Roman",
-            "winrate": 0.625,
             "commander": [
                 "Karlov of the Ghost Council"
             ],
@@ -230,7 +228,6 @@
             "deck_id": "313331",
             "rank": "2",
             "player": "Justo Chacon",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Thrasios, Triton Hero",
                 "Tymna the Weaver"
@@ -338,7 +335,6 @@
             "deck_id": "313332",
             "rank": "5-8",
             "player": "Jean Beaumont",
-            "winrate": 0.625,
             "commander": [
                 "Kefnet the Mindful"
             ],
@@ -417,7 +413,6 @@
             "deck_id": "313333",
             "rank": "5-8",
             "player": "Maxime Lemoine \"makexime\"",
-            "winrate": 0.625,
             "commander": [
                 "Zurgo Bellstriker"
             ],
@@ -494,7 +489,6 @@
             "deck_id": "313334",
             "rank": "5-8",
             "player": "Cesidio Vischi",
-            "winrate": 0.625,
             "commander": [
                 "Daretti, Scrap Savant"
             ],
@@ -577,7 +571,6 @@
             "deck_id": "313335",
             "rank": "5-8",
             "player": "David Garnier",
-            "winrate": 0.625,
             "commander": [
                 "Baral, Chief of Compliance"
             ],
@@ -653,7 +646,6 @@
             "deck_id": "313336",
             "rank": "2",
             "player": "Jean-alexis Lequoque \"LenweFelagund\"",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Titania, Protector of Argoth"
             ],

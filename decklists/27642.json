@@ -10,7 +10,6 @@
             "deck_id": "419568",
             "rank": "1",
             "player": "Yao Yao",
-            "winrate": 1.0,
             "commander": [
                 "Omnath, Locus of Creation"
             ],
@@ -115,7 +114,6 @@
             "deck_id": "419569",
             "rank": "2",
             "player": "Shen Junkai",
-            "winrate": 0.8,
             "commander": [
                 "Hogaak, Arisen Necropolis"
             ],

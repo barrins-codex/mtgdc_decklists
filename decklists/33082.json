@@ -10,7 +10,6 @@
             "deck_id": "452999",
             "rank": "1",
             "player": "Yang Yang",
-            "winrate": 1.0,
             "commander": [
                 "Sythis, Harvest's Hand"
             ],
@@ -112,7 +111,6 @@
             "deck_id": "453000",
             "rank": "2",
             "player": "Mr.vulcan",
-            "winrate": 0.8,
             "commander": [
                 "Adeliz, the Cinder Wind"
             ],
@@ -209,7 +207,6 @@
             "deck_id": "453001",
             "rank": "3-4",
             "player": "Ren Ke Wang",
-            "winrate": 0.6,
             "commander": [
                 "Azusa, Lost but Seeking"
             ],
@@ -306,7 +303,6 @@
             "deck_id": "453002",
             "rank": "3-4",
             "player": "Cang Zhang",
-            "winrate": 0.6,
             "commander": [
                 "Grist, the Hunger Tide"
             ],

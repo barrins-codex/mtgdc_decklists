@@ -10,7 +10,6 @@
             "deck_id": "488224",
             "rank": "1",
             "player": "Jan Jilek",
-            "winrate": 1.0,
             "commander": [
                 "Dennick, Pious Apprentice"
             ],
@@ -115,7 +114,6 @@
             "deck_id": "488225",
             "rank": "2",
             "player": "Stanislav Hrudka",
-            "winrate": 0.8,
             "commander": [
                 "Sheoldred, the Apocalypse"
             ],
@@ -201,7 +199,6 @@
             "deck_id": "488226",
             "rank": "3",
             "player": "Pavel Tvrznik",
-            "winrate": 0.8,
             "commander": [
                 "Juri, Master of the Revue"
             ],
@@ -302,7 +299,6 @@
             "deck_id": "488227",
             "rank": "4",
             "player": "Frantisek Krizkovsky",
-            "winrate": 0.6,
             "commander": [
                 "Shanna, Purifying Blade"
             ],

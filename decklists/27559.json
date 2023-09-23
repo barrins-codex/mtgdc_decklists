@@ -10,7 +10,6 @@
             "deck_id": "419043",
             "rank": "2",
             "player": "Justo Chacon",
-            "winrate": 0.8,
             "commander": [
                 "Tymna the Weaver",
                 "Thrasios, Triton Hero"
@@ -120,7 +119,6 @@
             "deck_id": "419044",
             "rank": "2",
             "player": "Damien \"eventwin\" Jantzen",
-            "winrate": 0.8,
             "commander": [
                 "Venser, Shaper Savant"
             ],
@@ -206,7 +204,6 @@
             "deck_id": "419045",
             "rank": "3-4",
             "player": "Morgan Laleure",
-            "winrate": 0.8,
             "commander": [
                 "Omnath, Locus of Creation"
             ],
@@ -314,7 +311,6 @@
             "deck_id": "419046",
             "rank": "3-4",
             "player": "Fabien Martinez",
-            "winrate": 0.8,
             "commander": [
                 "Kroxa, Titan of Death's Hunger"
             ],
@@ -415,7 +411,6 @@
             "deck_id": "419047",
             "rank": "5-8",
             "player": "David Fontraille",
-            "winrate": 0.6,
             "commander": [
                 "Vendilion Clique"
             ],
@@ -502,7 +497,6 @@
             "deck_id": "419048",
             "rank": "5-8",
             "player": "Adrien Houssard",
-            "winrate": 0.6,
             "commander": [
                 "Omnath, Locus of Creation"
             ],
@@ -612,7 +606,6 @@
             "deck_id": "419049",
             "rank": "5-8",
             "player": "Yann Torillec",
-            "winrate": 0.6,
             "commander": [
                 "Thrasios, Triton Hero",
                 "Kraum, Ludevic's Opus"
@@ -712,7 +705,6 @@
             "deck_id": "419050",
             "rank": "5-8",
             "player": "Pierrick Dupont",
-            "winrate": 0.6,
             "commander": [
                 "Kroxa, Titan of Death's Hunger"
             ],

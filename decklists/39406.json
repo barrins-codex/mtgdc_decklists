@@ -10,7 +10,6 @@
             "deck_id": "493456",
             "rank": "1",
             "player": "Alexandre \"3halex1\" Habert",
-            "winrate": 0.9166666666666666,
             "commander": [
                 "Leovold, Emissary of Trest"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "493457",
             "rank": "2",
             "player": "Jordan Bizon",
-            "winrate": 0.8333333333333334,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -230,7 +228,6 @@
             "deck_id": "493458",
             "rank": "3-4",
             "player": "Julien Joie",
-            "winrate": 0.8181818181818182,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -340,7 +337,6 @@
             "deck_id": "493459",
             "rank": "3-4",
             "player": "Pierre Clavieras",
-            "winrate": 0.8181818181818182,
             "commander": [
                 "Grist, the Hunger Tide"
             ],
@@ -442,7 +438,6 @@
             "deck_id": "493460",
             "rank": "5-8",
             "player": "Alexandre \"tidus\" Andouard",
-            "winrate": 0.8181818181818182,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -552,7 +547,6 @@
             "deck_id": "493461",
             "rank": "5-8",
             "player": "Jules \"askeladden\" Lestienne",
-            "winrate": 0.8181818181818182,
             "commander": [
                 "Grist, the Hunger Tide"
             ],
@@ -653,7 +647,6 @@
             "deck_id": "493462",
             "rank": "5-8",
             "player": "Adrien \"oni\" Demoget",
-            "winrate": 0.8181818181818182,
             "commander": [
                 "Sythis, Harvest's Hand"
             ],
@@ -753,7 +746,6 @@
             "deck_id": "493463",
             "rank": "5-8",
             "player": "Damien Garcia",
-            "winrate": 0.8181818181818182,
             "commander": [
                 "Tivit, Seller of Secrets"
             ],
@@ -863,7 +855,6 @@
             "deck_id": "493464",
             "rank": "9-16",
             "player": "Jean-loup Michel",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Niv-Mizzet Reborn"
             ],
@@ -973,7 +964,6 @@
             "deck_id": "493465",
             "rank": "9-16",
             "player": "Clément Gillard",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Jenson Carthalion, Druid Exile"
             ],
@@ -1083,7 +1073,6 @@
             "deck_id": "493466",
             "rank": "9-16",
             "player": "Cédric Froger",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Gut, True Soul Zealot",
                 "Veteran Soldier"
@@ -1188,7 +1177,6 @@
             "deck_id": "493467",
             "rank": "9-16",
             "player": "Pierre-Louis Biet",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -1298,7 +1286,6 @@
             "deck_id": "493468",
             "rank": "9-16",
             "player": "Florian Trotte",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Golos, Tireless Pilgrim"
             ],
@@ -1408,7 +1395,6 @@
             "deck_id": "493469",
             "rank": "9-16",
             "player": "Clément Achard",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Niv-Mizzet Reborn"
             ],
@@ -1518,7 +1504,6 @@
             "deck_id": "493470",
             "rank": "9-16",
             "player": "Anthony Nunez",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Adeliz, the Cinder Wind"
             ],
@@ -1618,7 +1603,6 @@
             "deck_id": "493828",
             "rank": "9-16",
             "player": "Gaël Huber",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Bruse Tarl, Boorish Herder",
                 "Yoshimaru, Ever Faithful"

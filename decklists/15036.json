@@ -10,7 +10,6 @@
             "deck_id": "290994",
             "rank": "3-4",
             "player": "Oliver Mastilero",
-            "winrate": 0.8,
             "commander": [
                 "Vial Smasher the Fierce",
                 "Kraum, Ludevic's Opus"
@@ -120,7 +119,6 @@
             "deck_id": "290995",
             "rank": "5-8",
             "player": "Dean Antonio",
-            "winrate": 0.6,
             "commander": [
                 "Baral, Chief of Compliance"
             ],
@@ -201,7 +199,6 @@
             "deck_id": "290996",
             "rank": "5-8",
             "player": "Carl Jason Lira",
-            "winrate": 0.6,
             "commander": [
                 "Karlov of the Ghost Council"
             ],
@@ -300,7 +297,6 @@
             "deck_id": "290997",
             "rank": "5-8",
             "player": "Jason Dela Vega",
-            "winrate": 0.6,
             "commander": [
                 "Titania, Protector of Argoth"
             ],
@@ -393,7 +389,6 @@
             "deck_id": "290998",
             "rank": "3-4",
             "player": "Glifford Bullo",
-            "winrate": 0.8,
             "commander": [
                 "Breya, Etherium Shaper"
             ],
@@ -502,7 +497,6 @@
             "deck_id": "290999",
             "rank": "2",
             "player": "Raoul Suarez",
-            "winrate": 0.8,
             "commander": [
                 "Geist of Saint Traft"
             ],
@@ -601,7 +595,6 @@
             "deck_id": "291000",
             "rank": "1",
             "player": "Mark Ian Alloso",
-            "winrate": 1.0,
             "commander": [
                 "Zurgo Bellstriker"
             ],
@@ -678,7 +671,6 @@
             "deck_id": "291001",
             "rank": "5-8",
             "player": "Jan Irvin Basco A.k.a \"fat Fundamental\"",
-            "winrate": 0.6,
             "commander": [
                 "Kraum, Ludevic's Opus",
                 "Ludevic, Necro-Alchemist"

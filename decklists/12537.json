@@ -10,7 +10,6 @@
             "deck_id": "272285",
             "rank": "2",
             "player": "Aurélien \"Mathan\" Mathias",
-            "winrate": 0.8,
             "commander": [
                 "Prossh, Skyraider of Kher"
             ],
@@ -114,7 +113,6 @@
             "deck_id": "272289",
             "rank": "3-4",
             "player": "Hancock",
-            "winrate": 0.8,
             "commander": [
                 "Titania, Protector of Argoth"
             ],
@@ -202,7 +200,6 @@
             "deck_id": "272291",
             "rank": "1",
             "player": "Kaourintin \"Falaakr\" Le Guiban",
-            "winrate": 1.0,
             "commander": [
                 "Narset, Enlightened Master"
             ],
@@ -308,7 +305,6 @@
             "deck_id": "272292",
             "rank": "3-4",
             "player": "Constantin Ruellet",
-            "winrate": 0.8,
             "commander": [
                 "Child of Alara"
             ],

@@ -10,7 +10,6 @@
             "deck_id": "352018",
             "rank": "3-4",
             "player": "Jasper R. Nielsen",
-            "winrate": 0.6,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "352020",
             "rank": "2",
             "player": "Jeppe Risager",
-            "winrate": 0.8,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -199,7 +197,6 @@
             "deck_id": "352021",
             "rank": "3-4",
             "player": "Sejer Friis",
-            "winrate": 0.6,
             "commander": [
                 "Sai, Master Thopterist"
             ],
@@ -285,7 +282,6 @@
             "deck_id": "352028",
             "rank": "1",
             "player": "Tim Nielsen",
-            "winrate": 1.0,
             "commander": [
                 "Saskia the Unyielding"
             ],

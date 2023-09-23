@@ -10,7 +10,6 @@
             "deck_id": "424847",
             "rank": "1",
             "player": "Florian \"dynamoflow\" Visset",
-            "winrate": 1.0,
             "commander": [
                 "Winota, Joiner of Forces"
             ],
@@ -109,7 +108,6 @@
             "deck_id": "424848",
             "rank": "2",
             "player": "Baptiste \"batsumi\" Hilmann",
-            "winrate": 0.8,
             "commander": [
                 "Will Kenrith",
                 "Rowan Kenrith"
@@ -203,7 +201,6 @@
             "deck_id": "424849",
             "rank": "3-4",
             "player": "Adrien \"soulless Oni\" Demoget",
-            "winrate": 0.8,
             "commander": [
                 "Omnath, Locus of Creation"
             ],
@@ -312,7 +309,6 @@
             "deck_id": "424850",
             "rank": "3-4",
             "player": "Clément \"carpenters\" Gillard",
-            "winrate": 0.8,
             "commander": [
                 "Sisay, Weatherlight Captain"
             ],

@@ -10,7 +10,6 @@
             "deck_id": "451390",
             "rank": "1",
             "player": "Ste Villaraza",
-            "winrate": 1.0,
             "commander": [
                 "Malcolm, Keen-Eyed Navigator",
                 "Kraum, Ludevic's Opus"
@@ -110,7 +109,6 @@
             "deck_id": "451391",
             "rank": "2",
             "player": "Jay Mark Orceo",
-            "winrate": 0.8,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -195,7 +193,6 @@
             "deck_id": "451392",
             "rank": "3-4",
             "player": "Randy Mestiola",
-            "winrate": 0.6,
             "commander": [
                 "The Ur-Dragon"
             ],
@@ -298,7 +295,6 @@
             "deck_id": "451393",
             "rank": "3-4",
             "player": "Dinno Zaide",
-            "winrate": 0.6,
             "commander": [
                 "Tevesh Szat, Doom of Fools",
                 "Sakashima of a Thousand Faces"

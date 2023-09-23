@@ -10,7 +10,6 @@
             "deck_id": "382695",
             "rank": "1",
             "player": "Alexander 'd3adins1de' Tokarev",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Ludevic, Necro-Alchemist",
                 "Kraum, Ludevic's Opus"
@@ -104,7 +103,6 @@
             "deck_id": "382696",
             "rank": "2",
             "player": "Alexander Smirnov",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Kess, Dissident Mage"
             ],
@@ -209,7 +207,6 @@
             "deck_id": "382697",
             "rank": "3-4",
             "player": "Vladislav Martynov",
-            "winrate": 0.625,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -319,7 +316,6 @@
             "deck_id": "382698",
             "rank": "3-4",
             "player": "Vladislav Ovsyuk",
-            "winrate": 0.625,
             "commander": [
                 "Will Kenrith",
                 "Rowan Kenrith"
@@ -400,7 +396,6 @@
             "deck_id": "382699",
             "rank": "5-8",
             "player": "Konstantin Savin",
-            "winrate": 0.625,
             "commander": [
                 "Narset, Enlightened Master"
             ],
@@ -506,7 +501,6 @@
             "deck_id": "382700",
             "rank": "5-8",
             "player": "Vladislav 'vlaprohor' Prokhorov",
-            "winrate": 0.625,
             "commander": [
                 "Tymna the Weaver",
                 "Thrasios, Triton Hero"
@@ -616,7 +610,6 @@
             "deck_id": "382701",
             "rank": "5-8",
             "player": "Dmitry Oreshkin",
-            "winrate": 0.625,
             "commander": [
                 "Anax, Hardened in the Forge"
             ],
@@ -695,7 +688,6 @@
             "deck_id": "382702",
             "rank": "5-8",
             "player": "Timur Saifutdinov",
-            "winrate": 0.625,
             "commander": [
                 "Heliod, Sun-Crowned"
             ],

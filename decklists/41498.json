@@ -10,7 +10,6 @@
             "deck_id": "508356",
             "rank": "1",
             "player": "Rémi H.",
-            "winrate": 0.8888888888888888,
             "commander": [
                 "Ghyrson Starn, Kelermorph"
             ],
@@ -110,7 +109,6 @@
             "deck_id": "508357",
             "rank": "2",
             "player": "Thomas D.",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Dihada, Binder of Wills"
             ],
@@ -220,7 +218,6 @@
             "deck_id": "508358",
             "rank": "3-4",
             "player": "Raphael L.",
-            "winrate": 0.75,
             "commander": [
                 "Niv-Mizzet Reborn"
             ],
@@ -330,7 +327,6 @@
             "deck_id": "508359",
             "rank": "3-4",
             "player": "Alexandre L.",
-            "winrate": 0.75,
             "commander": [
                 "Old Stickfingers"
             ],
@@ -431,7 +427,6 @@
             "deck_id": "508360",
             "rank": "5-8",
             "player": "Jérémy C.",
-            "winrate": 0.75,
             "commander": [
                 "Grist, the Hunger Tide"
             ],
@@ -530,7 +525,6 @@
             "deck_id": "508361",
             "rank": "5-8",
             "player": "Marc S.",
-            "winrate": 0.75,
             "commander": [
                 "Dennick, Pious Apprentice"
             ],
@@ -632,7 +626,6 @@
             "deck_id": "508362",
             "rank": "5-8",
             "player": "Gaëtan L.",
-            "winrate": 0.75,
             "commander": [
                 "Grist, the Hunger Tide"
             ],
@@ -733,7 +726,6 @@
             "deck_id": "508363",
             "rank": "5-8",
             "player": "François Q.",
-            "winrate": 0.75,
             "commander": [
                 "Yoshimaru, Ever Faithful"
             ],

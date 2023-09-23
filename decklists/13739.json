@@ -10,7 +10,6 @@
             "deck_id": "280963",
             "rank": "3-4",
             "player": "Sergey \"Loxmatii\" Lamzin",
-            "winrate": 0.8,
             "commander": [
                 "Meren of Clan Nel Toth"
             ],
@@ -111,7 +110,6 @@
             "deck_id": "280964",
             "rank": "3-4",
             "player": "Ivan \"celestialserpent\" Churnosov",
-            "winrate": 0.8,
             "commander": [
                 "Jace, Vryn's Prodigy"
             ],
@@ -192,7 +190,6 @@
             "deck_id": "280965",
             "rank": "2",
             "player": "Denis 'lat' Glukhov",
-            "winrate": 0.8,
             "commander": [
                 "Grand Arbiter Augustin IV"
             ],
@@ -292,7 +289,6 @@
             "deck_id": "280966",
             "rank": "1",
             "player": "Nazar Sotiriadi",
-            "winrate": 1.0,
             "commander": [
                 "Leovold, Emissary of Trest"
             ],

@@ -10,7 +10,6 @@
             "deck_id": "263157",
             "rank": "5-8",
             "player": "Johan Archinard",
-            "winrate": 0.75,
             "commander": [
                 "Talrand, Sky Summoner"
             ],
@@ -93,7 +92,6 @@
             "deck_id": "263158",
             "rank": "5-8",
             "player": "Benjamin Decressac",
-            "winrate": 0.75,
             "commander": [
                 "Narset, Enlightened Master"
             ],
@@ -199,7 +197,6 @@
             "deck_id": "263159",
             "rank": "5-8",
             "player": "Rimkkkk",
-            "winrate": 0.75,
             "commander": [
                 "Narset, Enlightened Master"
             ],
@@ -303,7 +300,6 @@
             "deck_id": "263160",
             "rank": "3-4",
             "player": "Gros Papou",
-            "winrate": 0.75,
             "commander": [
                 "Teferi, Temporal Archmage"
             ],
@@ -385,7 +381,6 @@
             "deck_id": "263161",
             "rank": "3-4",
             "player": "Étienne \"thecampeur\" Lourdin",
-            "winrate": 0.75,
             "commander": [
                 "Karador, Ghost Chieftain"
             ],
@@ -494,7 +489,6 @@
             "deck_id": "263162",
             "rank": "2",
             "player": "Florian Tachau",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Yisan, the Wanderer Bard"
             ],
@@ -581,7 +575,6 @@
             "deck_id": "263163",
             "rank": "5-8",
             "player": "Sylvain Noel",
-            "winrate": 0.75,
             "commander": [
                 "Yisan, the Wanderer Bard"
             ],
@@ -669,7 +662,6 @@
             "deck_id": "263164",
             "rank": "1",
             "player": "Kaourintin Le Guiban",
-            "winrate": 0.8888888888888888,
             "commander": [
                 "Narset, Enlightened Master"
             ],

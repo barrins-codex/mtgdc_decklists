@@ -10,7 +10,6 @@
             "deck_id": "467865",
             "rank": "1",
             "player": "Victor Marques",
-            "winrate": 1.0,
             "commander": [
                 "Shorikai, Genesis Engine"
             ],
@@ -112,7 +111,6 @@
             "deck_id": "467866",
             "rank": "2",
             "player": "Arnaldo",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "General Ferrous Rokiric"
             ],

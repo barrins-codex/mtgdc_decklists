@@ -10,7 +10,6 @@
             "deck_id": "273482",
             "rank": "1",
             "player": "Johan Temkin",
-            "winrate": 1.0,
             "commander": [
                 "Geist of Saint Traft"
             ],
@@ -112,7 +111,6 @@
             "deck_id": "273483",
             "rank": "2",
             "player": "Matthew Saenz",
-            "winrate": 0.8,
             "commander": [
                 "Titania, Protector of Argoth"
             ],
@@ -203,7 +201,6 @@
             "deck_id": "273484",
             "rank": "3-4",
             "player": "Daniel Medina",
-            "winrate": 0.8,
             "commander": [
                 "The Gitrog Monster"
             ],
@@ -305,7 +302,6 @@
             "deck_id": "273485",
             "rank": "3-4",
             "player": "Alexander Dochnal",
-            "winrate": 0.8,
             "commander": [
                 "Animar, Soul of Elements"
             ],

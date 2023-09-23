@@ -10,7 +10,6 @@
             "deck_id": "517732",
             "rank": "1",
             "player": "Zankou",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Old Stickfingers"
             ],
@@ -111,7 +110,6 @@
             "deck_id": "517733",
             "rank": "2",
             "player": "Zohoz",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Niv-Mizzet Reborn"
             ],
@@ -221,7 +219,6 @@
             "deck_id": "517734",
             "rank": "3-4",
             "player": "Zoubrowska",
-            "winrate": 0.625,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -331,7 +328,6 @@
             "deck_id": "517735",
             "rank": "3-4",
             "player": "Moltes.c",
-            "winrate": 0.625,
             "commander": [
                 "Niv-Mizzet Reborn"
             ],
@@ -441,7 +437,6 @@
             "deck_id": "517736",
             "rank": "5-8",
             "player": "Som40",
-            "winrate": 0.625,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -551,7 +546,6 @@
             "deck_id": "517737",
             "rank": "5-8",
             "player": "Walldashingz",
-            "winrate": 0.625,
             "commander": [
                 "Grist, the Hunger Tide"
             ],
@@ -650,7 +644,6 @@
             "deck_id": "517738",
             "rank": "5-8",
             "player": "Threem",
-            "winrate": 0.625,
             "commander": [
                 "Kenrith, the Returned King"
             ],

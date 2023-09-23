@@ -10,7 +10,6 @@
             "deck_id": "362993",
             "rank": "3",
             "player": "Newton Hang",
-            "winrate": 0.8,
             "commander": [
                 "Grenzo, Dungeon Warden"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "362994",
             "rank": "4",
             "player": "Martin Vlnas",
-            "winrate": 0.6,
             "commander": [
                 "Isamaru, Hound of Konda"
             ],
@@ -210,7 +208,6 @@
             "deck_id": "362995",
             "rank": "1",
             "player": "Kalosik",
-            "winrate": 1.0,
             "commander": [
                 "Maelstrom Wanderer"
             ],
@@ -311,7 +308,6 @@
             "deck_id": "362996",
             "rank": "2",
             "player": "Zarlock",
-            "winrate": 0.8,
             "commander": [
                 "Karador, Ghost Chieftain"
             ],

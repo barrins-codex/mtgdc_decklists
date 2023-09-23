@@ -10,7 +10,6 @@
             "deck_id": "549006",
             "rank": "1",
             "player": "Alexandre Joannic",
-            "winrate": 1.0,
             "commander": [
                 "Leovold, Emissary of Trest"
             ],
@@ -115,7 +114,6 @@
             "deck_id": "549007",
             "rank": "2",
             "player": "Dylan Maher",
-            "winrate": 0.8,
             "commander": [
                 "Feldon, Ronom Excavator"
             ],
@@ -201,7 +199,6 @@
             "deck_id": "549008",
             "rank": "3-4",
             "player": "Alexandre Boisvert",
-            "winrate": 0.6,
             "commander": [
                 "Trelasarra, Moon Dancer"
             ],
@@ -300,7 +297,6 @@
             "deck_id": "549009",
             "rank": "3-4",
             "player": "Quentin Pentaclous",
-            "winrate": 0.6,
             "commander": [
                 "Frodo, Sauron's Bane"
             ],

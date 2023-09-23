@@ -10,7 +10,6 @@
             "deck_id": "473068",
             "rank": "2",
             "player": "Maxime Valentin",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Dragonlord Ojutai"
             ],
@@ -114,7 +113,6 @@
             "deck_id": "473069",
             "rank": "2",
             "player": "Nicolas \"thorgal666\" François",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Shorikai, Genesis Engine"
             ],
@@ -213,7 +211,6 @@
             "deck_id": "473070",
             "rank": "3-4",
             "player": "Edgar Francken",
-            "winrate": 0.75,
             "commander": [
                 "Galazeth Prismari"
             ],
@@ -314,7 +311,6 @@
             "deck_id": "473071",
             "rank": "3-4",
             "player": "Antoine Marchand",
-            "winrate": 0.75,
             "commander": [
                 "Grist, the Hunger Tide"
             ],
@@ -413,7 +409,6 @@
             "deck_id": "473072",
             "rank": "5-8",
             "player": "Pierre Henri François",
-            "winrate": 0.75,
             "commander": [
                 "Light-Paws, Emperor's Voice"
             ],
@@ -490,7 +485,6 @@
             "deck_id": "473073",
             "rank": "5-8",
             "player": "Yann Barsamian",
-            "winrate": 0.75,
             "commander": [
                 "Oskar, Rubbish Reclaimer"
             ],
@@ -586,7 +580,6 @@
             "deck_id": "473074",
             "rank": "5-8",
             "player": "Stephen Devis",
-            "winrate": 0.75,
             "commander": [
                 "Niv-Mizzet Reborn"
             ],
@@ -696,7 +689,6 @@
             "deck_id": "473075",
             "rank": "5-8",
             "player": "Bastien Levionnais",
-            "winrate": 0.75,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -777,7 +769,6 @@
             "deck_id": "473076",
             "rank": "9-16",
             "player": "Laurent Bozec",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Light-Paws, Emperor's Voice"
             ],
@@ -866,7 +857,6 @@
             "deck_id": "473077",
             "rank": "9-16",
             "player": "Cédric Baillergeau",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Dennick, Pious Apprentice"
             ],
@@ -971,7 +961,6 @@
             "deck_id": "473078",
             "rank": "9-16",
             "player": "André Chailloux",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Oskar, Rubbish Reclaimer"
             ],
@@ -1067,7 +1056,6 @@
             "deck_id": "473079",
             "rank": "9-16",
             "player": "Yann Dommanschet",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Dorothea, Vengeful Victim"
             ],
@@ -1163,7 +1151,6 @@
             "deck_id": "473080",
             "rank": "9-16",
             "player": "Alexis Lagoutte",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -1254,7 +1241,6 @@
             "deck_id": "473081",
             "rank": "9-16",
             "player": "Pierre Mesnil",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Grist, the Hunger Tide"
             ],
@@ -1351,7 +1337,6 @@
             "deck_id": "473082",
             "rank": "9-16",
             "player": "Pierre Houyet",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Juri, Master of the Revue"
             ],

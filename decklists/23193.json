@@ -10,7 +10,6 @@
             "deck_id": "359478",
             "rank": "1",
             "player": "Dinno Zaide",
-            "winrate": 1.0,
             "commander": [
                 "Ludevic, Necro-Alchemist",
                 "Thrasios, Triton Hero"
@@ -111,7 +110,6 @@
             "deck_id": "359479",
             "rank": "2",
             "player": "Louie Gil Frial Siongco",
-            "winrate": 0.8,
             "commander": [
                 "The Gitrog Monster"
             ],

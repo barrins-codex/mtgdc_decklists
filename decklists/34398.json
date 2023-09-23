@@ -10,7 +10,6 @@
             "deck_id": "461179",
             "rank": "1",
             "player": "Ben Cottet",
-            "winrate": 1.0,
             "commander": [
                 "Malcolm, Keen-Eyed Navigator",
                 "Kraum, Ludevic's Opus"
@@ -106,7 +105,6 @@
             "deck_id": "461180",
             "rank": "2",
             "player": "Alexandre Ballouard",
-            "winrate": 0.8,
             "commander": [
                 "Malcolm, Keen-Eyed Navigator",
                 "Kraum, Ludevic's Opus"
@@ -203,7 +201,6 @@
             "deck_id": "461181",
             "rank": "3-4",
             "player": "Maxime",
-            "winrate": 0.8,
             "commander": [
                 "Isamaru, Hound of Konda"
             ],
@@ -295,7 +292,6 @@
             "deck_id": "461182",
             "rank": "3-4",
             "player": "Mathieu Labatut",
-            "winrate": 0.8,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -405,7 +401,6 @@
             "deck_id": "461183",
             "rank": "5-8",
             "player": "Léo Facca",
-            "winrate": 0.6,
             "commander": [
                 "Narset, Enlightened Master"
             ],
@@ -512,7 +507,6 @@
             "deck_id": "461184",
             "rank": "5-8",
             "player": "Simeon Gruel",
-            "winrate": 0.6,
             "commander": [
                 "Sythis, Harvest's Hand"
             ],
@@ -619,7 +613,6 @@
             "deck_id": "461185",
             "rank": "5-8",
             "player": "Gauthier Caré",
-            "winrate": 0.6,
             "commander": [
                 "Extus, Oriq Overlord"
             ],
@@ -715,7 +708,6 @@
             "deck_id": "461186",
             "rank": "5-8",
             "player": "Jacques Campagnaro",
-            "winrate": 0.6,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],

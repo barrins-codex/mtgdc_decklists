@@ -10,7 +10,6 @@
             "deck_id": "469172",
             "rank": "1",
             "player": "Joakim Dubois",
-            "winrate": 1.0,
             "commander": [
                 "Emmara, Soul of the Accord"
             ],
@@ -112,7 +111,6 @@
             "deck_id": "469173",
             "rank": "2",
             "player": "Png Ngu",
-            "winrate": 0.8,
             "commander": [
                 "Niv-Mizzet Reborn"
             ],
@@ -222,7 +220,6 @@
             "deck_id": "469174",
             "rank": "3-4",
             "player": "Thomas Rossolin",
-            "winrate": 0.6,
             "commander": [
                 "Klothys, God of Destiny"
             ],
@@ -325,7 +322,6 @@
             "deck_id": "469175",
             "rank": "3-4",
             "player": "Isidore Luneau",
-            "winrate": 0.6,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],

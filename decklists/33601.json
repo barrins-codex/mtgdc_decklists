@@ -10,7 +10,6 @@
             "deck_id": "455913",
             "rank": "1",
             "player": "Rio Diego",
-            "winrate": 0.8888888888888888,
             "commander": [
                 "Jirina Kudro"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "455914",
             "rank": "2",
             "player": "Dung Nguyen",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Isamaru, Hound of Konda"
             ],
@@ -205,7 +203,6 @@
             "deck_id": "455915",
             "rank": "3-4",
             "player": "Ales Buben",
-            "winrate": 0.75,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -315,7 +312,6 @@
             "deck_id": "455916",
             "rank": "3-4",
             "player": "Saskia The Unyielding",
-            "winrate": 0.75,
             "commander": [
                 "Saskia the Unyielding"
             ],
@@ -425,7 +421,6 @@
             "deck_id": "455917",
             "rank": "5-8",
             "player": "Ondrej Muller",
-            "winrate": 0.75,
             "commander": [
                 "Hogaak, Arisen Necropolis"
             ],
@@ -535,7 +530,6 @@
             "deck_id": "455918",
             "rank": "5-8",
             "player": "David Dobis",
-            "winrate": 0.75,
             "commander": [
                 "Tiamat"
             ],
@@ -645,7 +639,6 @@
             "deck_id": "455919",
             "rank": "5-8",
             "player": "Jiri Pokorny",
-            "winrate": 0.75,
             "commander": [
                 "Prava of the Steel Legion",
                 "Tevesh Szat, Doom of Fools"
@@ -747,7 +740,6 @@
             "deck_id": "455920",
             "rank": "5-8",
             "player": "Vojta Kotek",
-            "winrate": 0.75,
             "commander": [
                 "Grenzo, Dungeon Warden"
             ],

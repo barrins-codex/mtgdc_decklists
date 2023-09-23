@@ -10,7 +10,6 @@
             "deck_id": "533487",
             "rank": "1",
             "player": "Pablo Lima",
-            "winrate": 1.0,
             "commander": [
                 "Feldon, Ronom Excavator"
             ],
@@ -93,7 +92,6 @@
             "deck_id": "533488",
             "rank": "2",
             "player": "Orlando Bibiano",
-            "winrate": 0.8,
             "commander": [
                 "Feldon, Ronom Excavator"
             ],
@@ -175,7 +173,6 @@
             "deck_id": "533489",
             "rank": "3-4",
             "player": "Victor Burghi",
-            "winrate": 0.6,
             "commander": [
                 "Tana, the Bloodsower",
                 "Yoshimaru, Ever Faithful"
@@ -284,7 +281,6 @@
             "deck_id": "533490",
             "rank": "3-4",
             "player": "Lucas Dias",
-            "winrate": 0.6,
             "commander": [
                 "Ghyrson Starn, Kelermorph"
             ],

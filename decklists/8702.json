@@ -10,7 +10,6 @@
             "deck_id": "249742",
             "rank": "2",
             "player": "Vladimir Lapin",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Anafenza, the Foremost"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "249743",
             "rank": "1",
             "player": "Yuriy Lata",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "The Mimeoplasm"
             ],
@@ -227,7 +225,6 @@
             "deck_id": "249744",
             "rank": "3-4",
             "player": "Tchervonnov Ilya",
-            "winrate": 0.625,
             "commander": [
                 "Prossh, Skyraider of Kher"
             ],
@@ -331,7 +328,6 @@
             "deck_id": "249745",
             "rank": "3-4",
             "player": "Mike Shabalov",
-            "winrate": 0.625,
             "commander": [
                 "Sygg, River Cutthroat"
             ],
@@ -431,7 +427,6 @@
             "deck_id": "249746",
             "rank": "5-8",
             "player": "Sergey \"Loxmatii\" Lamzin",
-            "winrate": 0.625,
             "commander": [
                 "Karador, Ghost Chieftain"
             ],
@@ -541,7 +536,6 @@
             "deck_id": "249747",
             "rank": "5-8",
             "player": "Matvey Dolganov",
-            "winrate": 0.625,
             "commander": [
                 "Zurgo Helmsmasher"
             ],
@@ -649,7 +643,6 @@
             "deck_id": "249748",
             "rank": "5-8",
             "player": "Boris Aristov",
-            "winrate": 0.625,
             "commander": [
                 "Grand Arbiter Augustin IV"
             ],
@@ -749,7 +742,6 @@
             "deck_id": "249749",
             "rank": "5-8",
             "player": "Konstantin Shakirov",
-            "winrate": 0.625,
             "commander": [
                 "Skithiryx, the Blight Dragon"
             ],

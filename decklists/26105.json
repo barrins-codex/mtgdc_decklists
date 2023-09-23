@@ -10,7 +10,6 @@
             "deck_id": "397139",
             "rank": "1",
             "player": "Vaclav Mysak",
-            "winrate": 1.0,
             "commander": [
                 "Thrasios, Triton Hero",
                 "Tymna the Weaver"
@@ -120,7 +119,6 @@
             "deck_id": "397140",
             "rank": "2",
             "player": "Vojta Kotek",
-            "winrate": 0.8,
             "commander": [
                 "Grenzo, Dungeon Warden"
             ],
@@ -230,7 +228,6 @@
             "deck_id": "397141",
             "rank": "3-4",
             "player": "Vaclav Hrdlicka",
-            "winrate": 0.8,
             "commander": [
                 "Leovold, Emissary of Trest"
             ],
@@ -340,7 +337,6 @@
             "deck_id": "397142",
             "rank": "3-4",
             "player": "Jakub Sykora",
-            "winrate": 0.8,
             "commander": [
                 "Thrasios, Triton Hero",
                 "Tymna the Weaver"

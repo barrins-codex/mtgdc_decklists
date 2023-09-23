@@ -10,7 +10,6 @@
             "deck_id": "317027",
             "rank": "1",
             "player": "Ralph \"ralle\" Esser",
-            "winrate": 1.0,
             "commander": [
                 "Baral, Chief of Compliance"
             ],
@@ -86,7 +85,6 @@
             "deck_id": "317028",
             "rank": "2",
             "player": "Andre Luff",
-            "winrate": 0.8,
             "commander": [
                 "Sygg, River Cutthroat"
             ],
@@ -182,7 +180,6 @@
             "deck_id": "317029",
             "rank": "3-4",
             "player": "Alex Schmoll",
-            "winrate": 0.8,
             "commander": [
                 "Animar, Soul of Elements"
             ],
@@ -285,7 +282,6 @@
             "deck_id": "317030",
             "rank": "3-4",
             "player": "Richard Müller",
-            "winrate": 0.8,
             "commander": [
                 "Prossh, Skyraider of Kher"
             ],

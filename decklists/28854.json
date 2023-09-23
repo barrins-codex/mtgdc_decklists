@@ -10,7 +10,6 @@
             "deck_id": "427749",
             "rank": "1",
             "player": "Ste Villaraza",
-            "winrate": 0.8888888888888888,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "427750",
             "rank": "1",
             "player": "Myke Nismal",
-            "winrate": 0.8888888888888888,
             "commander": [
                 "Titania, Protector of Argoth"
             ],
@@ -215,7 +213,6 @@
             "deck_id": "427751",
             "rank": "1",
             "player": "Gabe Enriquez",
-            "winrate": 0.8888888888888888,
             "commander": [
                 "Rograkh, Son of Rohgahh",
                 "Jeska, Thrice Reborn"
@@ -303,7 +300,6 @@
             "deck_id": "427752",
             "rank": "2",
             "player": "Bruce Valero",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Karlov of the Ghost Council"
             ],
@@ -410,7 +406,6 @@
             "deck_id": "427753",
             "rank": "2",
             "player": "Red",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Esior, Wardwing Familiar",
                 "Dargo, the Shipwrecker"
@@ -511,7 +506,6 @@
             "deck_id": "427754",
             "rank": "2",
             "player": "Roi Dagang",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Titania, Protector of Argoth"
             ],
@@ -603,7 +597,6 @@
             "deck_id": "427755",
             "rank": "3",
             "player": "Alexander Andrei Pe",
-            "winrate": 0.75,
             "commander": [
                 "Esior, Wardwing Familiar",
                 "Ardenn, Intrepid Archaeologist"
@@ -701,7 +694,6 @@
             "deck_id": "427756",
             "rank": "3",
             "player": "Ronald Fong",
-            "winrate": 0.75,
             "commander": [
                 "Jeska, Thrice Reborn",
                 "Rograkh, Son of Rohgahh"
@@ -787,7 +779,6 @@
             "deck_id": "427757",
             "rank": "3",
             "player": "Alex Dulawan",
-            "winrate": 0.75,
             "commander": [
                 "Titania, Protector of Argoth"
             ],

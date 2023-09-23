@@ -10,7 +10,6 @@
             "deck_id": "397716",
             "rank": "1",
             "player": "Martin Lamr",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Tymna the Weaver",
                 "Thrasios, Triton Hero"
@@ -120,7 +119,6 @@
             "deck_id": "397717",
             "rank": "2",
             "player": "Ondřej Hrubý",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -206,7 +204,6 @@
             "deck_id": "397718",
             "rank": "3-4",
             "player": "Vojta Kotek",
-            "winrate": 0.625,
             "commander": [
                 "Grenzo, Dungeon Warden"
             ],
@@ -316,7 +313,6 @@
             "deck_id": "397719",
             "rank": "3-4",
             "player": "Milo Pálek",
-            "winrate": 0.625,
             "commander": [
                 "Kraum, Ludevic's Opus",
                 "Ludevic, Necro-Alchemist"
@@ -411,7 +407,6 @@
             "deck_id": "397720",
             "rank": "5-8",
             "player": "Marek Vardik",
-            "winrate": 0.625,
             "commander": [
                 "Kinnan, Bonder Prodigy"
             ],
@@ -508,7 +503,6 @@
             "deck_id": "397721",
             "rank": "5-8",
             "player": "Vít Čech",
-            "winrate": 0.625,
             "commander": [
                 "Prossh, Skyraider of Kher"
             ],
@@ -616,7 +610,6 @@
             "deck_id": "397722",
             "rank": "5-8",
             "player": "Ondřej Fábin",
-            "winrate": 0.625,
             "commander": [
                 "Heliod, Sun-Crowned"
             ],
@@ -697,7 +690,6 @@
             "deck_id": "397723",
             "rank": "5-8",
             "player": "Tomá Vardik",
-            "winrate": 0.625,
             "commander": [
                 "Hogaak, Arisen Necropolis"
             ],

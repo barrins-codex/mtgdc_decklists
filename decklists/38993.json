@@ -10,7 +10,6 @@
             "deck_id": "490763",
             "rank": "1",
             "player": "Felipe Cruz",
-            "winrate": 1.0,
             "commander": [
                 "Yoshimaru, Ever Faithful",
                 "Jeska, Thrice Reborn"
@@ -108,7 +107,6 @@
             "deck_id": "490764",
             "rank": "2",
             "player": "Victor Marques",
-            "winrate": 0.8,
             "commander": [
                 "Dennick, Pious Apprentice"
             ],
@@ -211,7 +209,6 @@
             "deck_id": "490765",
             "rank": "3",
             "player": "Alexandre Moraes",
-            "winrate": 0.6,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -318,7 +315,6 @@
             "deck_id": "490766",
             "rank": "4",
             "player": "Ravi Zornig",
-            "winrate": 0.6,
             "commander": [
                 "Grist, the Hunger Tide"
             ],

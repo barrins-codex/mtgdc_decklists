@@ -10,7 +10,6 @@
             "deck_id": "518018",
             "rank": "1",
             "player": "Pierre Almaraz",
-            "winrate": 1.0,
             "commander": [
                 "Dennick, Pious Apprentice"
             ],
@@ -111,7 +110,6 @@
             "deck_id": "518019",
             "rank": "2",
             "player": "Lionel Kieffer",
-            "winrate": 0.8,
             "commander": [
                 "Hogaak, Arisen Necropolis"
             ],
@@ -221,7 +219,6 @@
             "deck_id": "518020",
             "rank": "3-4",
             "player": "Laurent Maillier",
-            "winrate": 0.8,
             "commander": [
                 "The Beamtown Bullies"
             ],
@@ -331,7 +328,6 @@
             "deck_id": "518021",
             "rank": "3-4",
             "player": "Loïc Baverel",
-            "winrate": 0.8,
             "commander": [
                 "Atraxa, Grand Unifier"
             ],

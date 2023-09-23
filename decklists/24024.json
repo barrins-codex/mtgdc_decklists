@@ -10,7 +10,6 @@
             "deck_id": "367560",
             "rank": "3-4",
             "player": "Mitja H.",
-            "winrate": 0.6,
             "commander": [
                 "Korvold, Fae-Cursed King"
             ],
@@ -115,7 +114,6 @@
             "deck_id": "367561",
             "rank": "1",
             "player": "Stefan C.",
-            "winrate": 1.0,
             "commander": [
                 "Thrasios, Triton Hero",
                 "Akiri, Line-Slinger"
@@ -225,7 +223,6 @@
             "deck_id": "367562",
             "rank": "2",
             "player": "Thomas S.",
-            "winrate": 0.8,
             "commander": [
                 "Leovold, Emissary of Trest"
             ],

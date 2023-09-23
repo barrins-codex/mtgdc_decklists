@@ -10,7 +10,6 @@
             "deck_id": "374691",
             "rank": "1",
             "player": "Felix Weber",
-            "winrate": 1.0,
             "commander": [
                 "Sisay, Weatherlight Captain"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "374692",
             "rank": "2",
             "player": "Oliver Holka",
-            "winrate": 0.8,
             "commander": [
                 "Judith, the Scourge Diva"
             ],

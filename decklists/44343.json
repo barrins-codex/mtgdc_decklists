@@ -10,7 +10,6 @@
             "deck_id": "527127",
             "rank": "1",
             "player": "Jia Wei,chen",
-            "winrate": 1.0,
             "commander": [
                 "The Beamtown Bullies"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "527128",
             "rank": "2",
             "player": "Dawei,gu",
-            "winrate": 0.8,
             "commander": [
                 "Sword Coast Sailor",
                 "Wilson, Refined Grizzly"

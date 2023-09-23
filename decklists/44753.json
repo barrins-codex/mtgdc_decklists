@@ -10,7 +10,6 @@
             "deck_id": "529996",
             "rank": "1",
             "player": "Carlos Pires",
-            "winrate": 1.0,
             "commander": [
                 "Ertai Resurrected"
             ],
@@ -103,7 +102,6 @@
             "deck_id": "529997",
             "rank": "2",
             "player": "Pablo Lima",
-            "winrate": 0.8,
             "commander": [
                 "Feldon, Ronom Excavator"
             ],
@@ -186,7 +184,6 @@
             "deck_id": "529998",
             "rank": "3-4",
             "player": "Hugo Shelling",
-            "winrate": 0.6,
             "commander": [
                 "Ertai Resurrected"
             ],
@@ -282,7 +279,6 @@
             "deck_id": "529999",
             "rank": "3-4",
             "player": "Leonardo Maeda",
-            "winrate": 0.6,
             "commander": [
                 "Samut, Vizier of Naktamun"
             ],

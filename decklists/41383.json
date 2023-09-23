@@ -10,7 +10,6 @@
             "deck_id": "507425",
             "rank": "1",
             "player": "Pavel Tvrznik",
-            "winrate": 0.8888888888888888,
             "commander": [
                 "Gix, Yawgmoth Praetor"
             ],
@@ -101,7 +100,6 @@
             "deck_id": "507426",
             "rank": "2",
             "player": "David Stepanek",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -211,7 +209,6 @@
             "deck_id": "507427",
             "rank": "3-4",
             "player": "Adam Fajkus",
-            "winrate": 0.75,
             "commander": [
                 "Tana, the Bloodsower",
                 "Yoshimaru, Ever Faithful"
@@ -320,7 +317,6 @@
             "deck_id": "507428",
             "rank": "3-4",
             "player": "Ondrej Hatala",
-            "winrate": 0.75,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -430,7 +426,6 @@
             "deck_id": "507429",
             "rank": "5-8",
             "player": "Jan Svoboda",
-            "winrate": 0.75,
             "commander": [
                 "Niv-Mizzet Reborn"
             ],
@@ -540,7 +535,6 @@
             "deck_id": "507430",
             "rank": "5-8",
             "player": "Vadim Savinskii",
-            "winrate": 0.75,
             "commander": [
                 "Hogaak, Arisen Necropolis"
             ],
@@ -650,7 +644,6 @@
             "deck_id": "507431",
             "rank": "5-8",
             "player": "Vojtech Benes",
-            "winrate": 0.75,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -760,7 +753,6 @@
             "deck_id": "507432",
             "rank": "5-8",
             "player": "Marek Majer",
-            "winrate": 0.75,
             "commander": [
                 "Prossh, Skyraider of Kher"
             ],

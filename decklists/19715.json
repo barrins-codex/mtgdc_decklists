@@ -10,7 +10,6 @@
             "deck_id": "326733",
             "rank": "5-8",
             "player": "Swan Rocher",
-            "winrate": 0.75,
             "commander": [
                 "Teferi, Temporal Archmage"
             ],
@@ -85,7 +84,6 @@
             "deck_id": "326734",
             "rank": "5-8",
             "player": "Sébastien Rousselin",
-            "winrate": 0.75,
             "commander": [
                 "Saskia the Unyielding"
             ],
@@ -195,7 +193,6 @@
             "deck_id": "326735",
             "rank": "5-8",
             "player": "Vessi Shervin",
-            "winrate": 0.75,
             "commander": [
                 "Rowan Kenrith",
                 "Will Kenrith"
@@ -287,7 +284,6 @@
             "deck_id": "326736",
             "rank": "3-4",
             "player": "Kevin Luongo",
-            "winrate": 0.75,
             "commander": [
                 "Kess, Dissident Mage"
             ],
@@ -397,7 +393,6 @@
             "deck_id": "326737",
             "rank": "3-4",
             "player": "Mathieu Cloux",
-            "winrate": 0.75,
             "commander": [
                 "Karlov of the Ghost Council"
             ],
@@ -503,7 +498,6 @@
             "deck_id": "326738",
             "rank": "5-8",
             "player": "Pierre Clavieras-Mengin",
-            "winrate": 0.75,
             "commander": [
                 "Tymna the Weaver",
                 "Thrasios, Triton Hero"
@@ -611,7 +605,6 @@
             "deck_id": "326739",
             "rank": "1",
             "player": "Kilian Boulhaïs",
-            "winrate": 0.8888888888888888,
             "commander": [
                 "Kess, Dissident Mage"
             ],
@@ -721,7 +714,6 @@
             "deck_id": "326740",
             "rank": "2",
             "player": "Romain Fouchier",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Arahbo, Roar of the World"
             ],

@@ -10,7 +10,6 @@
             "deck_id": "468105",
             "rank": "1",
             "player": "Anthony Petrowiche",
-            "winrate": 1.0,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -91,7 +90,6 @@
             "deck_id": "468106",
             "rank": "2",
             "player": "Loïc Baverel",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Marath, Will of the Wild"
             ],

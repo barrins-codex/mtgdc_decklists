@@ -10,7 +10,6 @@
             "deck_id": "262326",
             "rank": "1",
             "player": "Drew Baxter",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Nin, the Pain Artist"
             ],
@@ -106,7 +105,6 @@
             "deck_id": "262327",
             "rank": "1",
             "player": "Brennan Mcalear",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Nin, the Pain Artist"
             ],
@@ -198,7 +196,6 @@
             "deck_id": "262328",
             "rank": "5-8",
             "player": "Kris Mariasy",
-            "winrate": 0.625,
             "commander": [
                 "Yisan, the Wanderer Bard"
             ],
@@ -288,7 +285,6 @@
             "deck_id": "262329",
             "rank": "5-8",
             "player": "Ben Ketel",
-            "winrate": 0.625,
             "commander": [
                 "Prossh, Skyraider of Kher"
             ],
@@ -398,7 +394,6 @@
             "deck_id": "262330",
             "rank": "5-8",
             "player": "Alex Ethier",
-            "winrate": 0.625,
             "commander": [
                 "Zurgo Bellstriker"
             ],
@@ -481,7 +476,6 @@
             "deck_id": "262331",
             "rank": "5-8",
             "player": "Jungje Choi",
-            "winrate": 0.625,
             "commander": [
                 "Grenzo, Dungeon Warden"
             ],
@@ -580,7 +574,6 @@
             "deck_id": "262332",
             "rank": "1",
             "player": "Joel Nerenberg",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Nin, the Pain Artist"
             ],
@@ -675,7 +668,6 @@
             "deck_id": "262333",
             "rank": "3-4",
             "player": "Collin J Cromwell",
-            "winrate": 0.625,
             "commander": [
                 "Marath, Will of the Wild"
             ],

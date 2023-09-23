@@ -10,7 +10,6 @@
             "deck_id": "490441",
             "rank": "1",
             "player": "Dinno Zaide",
-            "winrate": 1.0,
             "commander": [
                 "Ghyrson Starn, Kelermorph"
             ],
@@ -110,7 +109,6 @@
             "deck_id": "490442",
             "rank": "2",
             "player": "Cilbert Corpuz",
-            "winrate": 0.8,
             "commander": [
                 "Giada, Font of Hope"
             ],
@@ -206,7 +204,6 @@
             "deck_id": "490443",
             "rank": "3-4",
             "player": "Kid Anthony Ablaza",
-            "winrate": 0.6,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -289,7 +286,6 @@
             "deck_id": "490444",
             "rank": "3-4",
             "player": "Deks Sienes",
-            "winrate": 0.6,
             "commander": [
                 "Kess, Dissident Mage"
             ],

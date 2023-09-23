@@ -10,7 +10,6 @@
             "deck_id": "267245",
             "rank": "5-8",
             "player": "João Lucas Caparroz",
-            "winrate": 0.75,
             "commander": [
                 "Maelstrom Wanderer"
             ],
@@ -104,7 +103,6 @@
             "deck_id": "267246",
             "rank": "5-8",
             "player": "João Vitor Muçouçah",
-            "winrate": 0.75,
             "commander": [
                 "Arcum Dagsson"
             ],
@@ -193,7 +191,6 @@
             "deck_id": "267247",
             "rank": "1",
             "player": "Ricardo Venancio",
-            "winrate": 0.8888888888888888,
             "commander": [
                 "Vendilion Clique"
             ],
@@ -281,7 +278,6 @@
             "deck_id": "267248",
             "rank": "2",
             "player": "Fabio Fernandes Vieira",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Narset, Enlightened Master"
             ],
@@ -387,7 +383,6 @@
             "deck_id": "267249",
             "rank": "3-4",
             "player": "Fernando Campoli",
-            "winrate": 0.75,
             "commander": [
                 "Geist of Saint Traft"
             ],
@@ -488,7 +483,6 @@
             "deck_id": "267250",
             "rank": "3-4",
             "player": "Fabio Kaneto",
-            "winrate": 0.75,
             "commander": [
                 "Yisan, the Wanderer Bard"
             ],
@@ -578,7 +572,6 @@
             "deck_id": "267251",
             "rank": "5-8",
             "player": "Leonardo Martins",
-            "winrate": 0.75,
             "commander": [
                 "Jace, Vryn's Prodigy"
             ],
@@ -657,7 +650,6 @@
             "deck_id": "267252",
             "rank": "5-8",
             "player": "Marcelo Montserrat",
-            "winrate": 0.75,
             "commander": [
                 "Tymaret, the Murder King"
             ],

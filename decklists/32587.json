@@ -10,7 +10,6 @@
             "deck_id": "450183",
             "rank": "1",
             "player": "Jason Lam",
-            "winrate": 1.0,
             "commander": [
                 "Minsc, Beloved Ranger"
             ],
@@ -117,7 +116,6 @@
             "deck_id": "450184",
             "rank": "2",
             "player": "Jun Hao Chu",
-            "winrate": 0.8,
             "commander": [
                 "Hogaak, Arisen Necropolis"
             ],

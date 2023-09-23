@@ -10,7 +10,6 @@
             "deck_id": "473971",
             "rank": "1",
             "player": "Emeric Durdos",
-            "winrate": 1.0,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "473972",
             "rank": "2",
             "player": "Charlie Delabrousse",
-            "winrate": 0.8,
             "commander": [
                 "Shorikai, Genesis Engine"
             ],

@@ -10,7 +10,6 @@
             "deck_id": "235993",
             "rank": "1",
             "player": "\"Moondust\"",
-            "winrate": 1.0,
             "commander": [
                 "Prossh, Skyraider of Kher"
             ],
@@ -118,7 +117,6 @@
             "deck_id": "235994",
             "rank": "2",
             "player": "Jean-Mathieu Gaffié",
-            "winrate": 0.8,
             "commander": [
                 "Derevi, Empyrial Tactician"
             ],
@@ -226,7 +224,6 @@
             "deck_id": "235995",
             "rank": "3-4",
             "player": "Boris \"Zig\" Bailloux",
-            "winrate": 0.8,
             "commander": [
                 "Marath, Will of the Wild"
             ],
@@ -334,7 +331,6 @@
             "deck_id": "235996",
             "rank": "3-4",
             "player": "Frédéric Faure",
-            "winrate": 0.8,
             "commander": [
                 "Griselbrand"
             ],

@@ -10,7 +10,6 @@
             "deck_id": "474998",
             "rank": "1",
             "player": "Dinno Zaide",
-            "winrate": 1.0,
             "commander": [
                 "Ludevic, Necro-Alchemist",
                 "Jeska, Thrice Reborn"
@@ -110,7 +109,6 @@
             "deck_id": "474999",
             "rank": "2",
             "player": "Rexel Tenorio",
-            "winrate": 0.8,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -220,7 +218,6 @@
             "deck_id": "475000",
             "rank": "3-4",
             "player": "Joel San Jose, Jr.",
-            "winrate": 0.6,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -330,7 +327,6 @@
             "deck_id": "475001",
             "rank": "3-4",
             "player": "Kid Ablaza",
-            "winrate": 0.6,
             "commander": [
                 "Grist, the Hunger Tide"
             ],

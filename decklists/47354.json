@@ -10,7 +10,6 @@
             "deck_id": "549863",
             "rank": "1",
             "player": "Pj",
-            "winrate": 1.0,
             "commander": [
                 "Aragorn, King of Gondor"
             ],
@@ -117,7 +116,6 @@
             "deck_id": "549864",
             "rank": "2",
             "player": "Felipe Gonçalves",
-            "winrate": 0.8,
             "commander": [
                 "Raffine, Scheming Seer"
             ],

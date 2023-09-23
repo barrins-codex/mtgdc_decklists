@@ -10,7 +10,6 @@
             "deck_id": "506857",
             "rank": "1",
             "player": "Petr Vodička",
-            "winrate": 1.0,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "506858",
             "rank": "2",
             "player": "Petr Vach",
-            "winrate": 0.8,
             "commander": [
                 "Tivit, Seller of Secrets"
             ],
@@ -230,7 +228,6 @@
             "deck_id": "506859",
             "rank": "3-4",
             "player": "Marek Voráček",
-            "winrate": 0.8,
             "commander": [
                 "Yoshimaru, Ever Faithful",
                 "Tana, the Bloodsower"
@@ -339,7 +336,6 @@
             "deck_id": "506860",
             "rank": "3-4",
             "player": "Jindřich Petr",
-            "winrate": 0.8,
             "commander": [
                 "Sythis, Harvest's Hand"
             ],

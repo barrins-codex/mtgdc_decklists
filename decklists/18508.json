@@ -10,7 +10,6 @@
             "deck_id": "315105",
             "rank": "3-4",
             "player": "Sebastian Haines",
-            "winrate": 0.8,
             "commander": [
                 "Leovold, Emissary of Trest"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "315106",
             "rank": "1",
             "player": "Thomas Musmacher",
-            "winrate": 1.0,
             "commander": [
                 "Kytheon, Hero of Akros"
             ],
@@ -205,7 +203,6 @@
             "deck_id": "315107",
             "rank": "3-4",
             "player": "Ralph Esser",
-            "winrate": 0.8,
             "commander": [
                 "Baral, Chief of Compliance"
             ],
@@ -279,7 +276,6 @@
             "deck_id": "315108",
             "rank": "2",
             "player": "Richard Müller",
-            "winrate": 0.8,
             "commander": [
                 "Prossh, Skyraider of Kher"
             ],

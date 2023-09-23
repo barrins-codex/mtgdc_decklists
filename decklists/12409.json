@@ -10,7 +10,6 @@
             "deck_id": "271364",
             "rank": "1",
             "player": "Pierre Clavieras",
-            "winrate": 0.8888888888888888,
             "commander": [
                 "Karador, Ghost Chieftain"
             ],
@@ -117,7 +116,6 @@
             "deck_id": "271365",
             "rank": "2",
             "player": "Guillaume Bahin",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "The Gitrog Monster"
             ],
@@ -222,7 +220,6 @@
             "deck_id": "271366",
             "rank": "3-4",
             "player": "Thomas Mestreau",
-            "winrate": 0.75,
             "commander": [
                 "Grand Arbiter Augustin IV"
             ],
@@ -309,7 +306,6 @@
             "deck_id": "271367",
             "rank": "3-4",
             "player": "Christophe \"Klaptof\" Guillot",
-            "winrate": 0.75,
             "commander": [
                 "Marath, Will of the Wild"
             ],
@@ -416,7 +412,6 @@
             "deck_id": "271368",
             "rank": "5-8",
             "player": "Paul Ridoux",
-            "winrate": 0.75,
             "commander": [
                 "Maelstrom Wanderer"
             ],
@@ -519,7 +514,6 @@
             "deck_id": "271369",
             "rank": "5-8",
             "player": "Simon Gradaive",
-            "winrate": 0.75,
             "commander": [
                 "Horde of Notions"
             ],
@@ -629,7 +623,6 @@
             "deck_id": "271370",
             "rank": "5-8",
             "player": "Kilian \"IronVixen\" Boulhais",
-            "winrate": 0.75,
             "commander": [
                 "Surrak Dragonclaw"
             ],
@@ -730,7 +723,6 @@
             "deck_id": "271371",
             "rank": "5-8",
             "player": "Rémi Jacquet",
-            "winrate": 0.75,
             "commander": [
                 "Sidisi, Brood Tyrant"
             ],

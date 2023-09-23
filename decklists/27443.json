@@ -10,7 +10,6 @@
             "deck_id": "417965",
             "rank": "3",
             "player": "Sylvain Zozaya (zohoz)",
-            "winrate": 0.8,
             "commander": [
                 "Zur the Enchanter"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "417966",
             "rank": "2",
             "player": "Gaëtan Pican (teepex)",
-            "winrate": 0.8,
             "commander": [
                 "Kess, Dissident Mage"
             ],
@@ -230,7 +228,6 @@
             "deck_id": "417967",
             "rank": "1",
             "player": "Pecriaux Jeremy (pek)",
-            "winrate": 1.0,
             "commander": [
                 "Leovold, Emissary of Trest"
             ],

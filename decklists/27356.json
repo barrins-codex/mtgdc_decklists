@@ -10,7 +10,6 @@
             "deck_id": "416945",
             "rank": "3",
             "player": "Camille Bourgeon",
-            "winrate": 0.8,
             "commander": [
                 "Tajic, Legion's Edge"
             ],
@@ -106,7 +105,6 @@
             "deck_id": "416946",
             "rank": "4",
             "player": "Alain François",
-            "winrate": 0.6,
             "commander": [
                 "Vito, Thorn of the Dusk Rose"
             ],
@@ -186,7 +184,6 @@
             "deck_id": "416947",
             "rank": "1",
             "player": "Nicolas Rabillard",
-            "winrate": 1.0,
             "commander": [
                 "Heliod, Sun-Crowned"
             ],
@@ -264,7 +261,6 @@
             "deck_id": "416948",
             "rank": "2",
             "player": "Kevin Minatchy",
-            "winrate": 0.8,
             "commander": [
                 "Hogaak, Arisen Necropolis"
             ],

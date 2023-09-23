@@ -10,7 +10,6 @@
             "deck_id": "506869",
             "rank": "1",
             "player": "Ruiyuan Shao",
-            "winrate": 1.0,
             "commander": [
                 "Dihada, Binder of Wills"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "506870",
             "rank": "2",
             "player": "Wong Dik Fan",
-            "winrate": 0.8,
             "commander": [
                 "Ludevic, Necro-Alchemist",
                 "Yoshimaru, Ever Faithful"
@@ -223,7 +221,6 @@
             "deck_id": "506871",
             "rank": "3",
             "player": "Fengwen Gu",
-            "winrate": 0.8,
             "commander": [
                 "Balmor, Battlemage Captain"
             ],
@@ -319,7 +316,6 @@
             "deck_id": "506872",
             "rank": "4",
             "player": "Mingyang Chen",
-            "winrate": 0.6,
             "commander": [
                 "Raffine, Scheming Seer"
             ],

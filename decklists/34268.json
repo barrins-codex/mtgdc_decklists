@@ -10,7 +10,6 @@
             "deck_id": "460381",
             "rank": "1",
             "player": "Raymond Sanglay",
-            "winrate": 1.0,
             "commander": [
                 "Dargo, the Shipwrecker",
                 "Tevesh Szat, Doom of Fools"
@@ -112,7 +111,6 @@
             "deck_id": "460382",
             "rank": "2",
             "player": "Randy Mestiola",
-            "winrate": 0.8,
             "commander": [
                 "Thrun, the Last Troll"
             ],
@@ -206,7 +204,6 @@
             "deck_id": "460383",
             "rank": "3-4",
             "player": "Tim Amagna",
-            "winrate": 0.6,
             "commander": [
                 "General Ferrous Rokiric"
             ],
@@ -304,7 +301,6 @@
             "deck_id": "460384",
             "rank": "3-4",
             "player": "Juan Antonio Agoncillo",
-            "winrate": 0.6,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],

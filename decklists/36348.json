@@ -10,7 +10,6 @@
             "deck_id": "473380",
             "rank": "1",
             "player": "Damien Garcia",
-            "winrate": 1.0,
             "commander": [
                 "Shorikai, Genesis Engine"
             ],
@@ -111,7 +110,6 @@
             "deck_id": "473381",
             "rank": "2",
             "player": "Jules Prieur",
-            "winrate": 0.8,
             "commander": [
                 "Juri, Master of the Revue"
             ],
@@ -211,7 +209,6 @@
             "deck_id": "473382",
             "rank": "3",
             "player": "Guillaume Abenia",
-            "winrate": 0.6,
             "commander": [
                 "Magda, Brazen Outlaw"
             ],
@@ -282,7 +279,6 @@
             "deck_id": "473383",
             "rank": "4",
             "player": "Julien Joie",
-            "winrate": 0.6,
             "commander": [
                 "Shorikai, Genesis Engine"
             ],

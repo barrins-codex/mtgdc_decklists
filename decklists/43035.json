@@ -10,7 +10,6 @@
             "deck_id": "518100",
             "rank": "1",
             "player": "Raphaël Lesieur",
-            "winrate": 0.8888888888888888,
             "commander": [
                 "Niv-Mizzet Reborn"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "518101",
             "rank": "2",
             "player": "Thomas Drucké",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Dihada, Binder of Wills"
             ],
@@ -230,7 +228,6 @@
             "deck_id": "518102",
             "rank": "3-4",
             "player": "Jérémy Pecriaux",
-            "winrate": 0.75,
             "commander": [
                 "Leovold, Emissary of Trest"
             ],
@@ -340,7 +337,6 @@
             "deck_id": "518103",
             "rank": "3-4",
             "player": "Léo Croste-baylies",
-            "winrate": 0.75,
             "commander": [
                 "Cecily, Haunted Mage",
                 "Wernog, Rider's Chaplain"
@@ -450,7 +446,6 @@
             "deck_id": "518104",
             "rank": "5-8",
             "player": "Bdf",
-            "winrate": 0.75,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -560,7 +555,6 @@
             "deck_id": "518105",
             "rank": "5-8",
             "player": "Jérémy Cuvelier",
-            "winrate": 0.75,
             "commander": [
                 "Grist, the Hunger Tide"
             ],
@@ -659,7 +653,6 @@
             "deck_id": "518106",
             "rank": "5-8",
             "player": "Arnaud Calon",
-            "winrate": 0.75,
             "commander": [
                 "Niv-Mizzet Reborn"
             ],

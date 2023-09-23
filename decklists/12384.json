@@ -10,7 +10,6 @@
             "deck_id": "271246",
             "rank": "2",
             "player": "Martin Cuchet",
-            "winrate": 0.8,
             "commander": [
                 "Daretti, Scrap Savant"
             ],
@@ -94,7 +93,6 @@
             "deck_id": "271247",
             "rank": "1",
             "player": "Alexandre Bigeat",
-            "winrate": 1.0,
             "commander": [
                 "Maelstrom Wanderer"
             ],

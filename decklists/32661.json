@@ -10,7 +10,6 @@
             "deck_id": "450630",
             "rank": "1",
             "player": "Samuel Z.",
-            "winrate": 1.0,
             "commander": [
                 "Gilanra, Caller of Wirewood",
                 "Tevesh Szat, Doom of Fools"
@@ -108,7 +107,6 @@
             "deck_id": "450631",
             "rank": "2",
             "player": "Bitzelberg",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Miara, Thorn of the Glade",
                 "Tevesh Szat, Doom of Fools"

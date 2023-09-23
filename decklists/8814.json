@@ -10,7 +10,6 @@
             "deck_id": "250282",
             "rank": "1",
             "player": "Erik Bondoc",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Akroma, Angel of Fury"
             ],
@@ -93,7 +92,6 @@
             "deck_id": "250283",
             "rank": "2",
             "player": "Chester Tolentino",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Ezuri, Renegade Leader"
             ],
@@ -179,7 +177,6 @@
             "deck_id": "250284",
             "rank": "4",
             "player": "Oscar Sauza",
-            "winrate": 0.625,
             "commander": [
                 "Nin, the Pain Artist"
             ],
@@ -262,7 +259,6 @@
             "deck_id": "250285",
             "rank": "3",
             "player": "Carl Dumdum",
-            "winrate": 0.625,
             "commander": [
                 "Thrun, the Last Troll"
             ],

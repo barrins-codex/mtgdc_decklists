@@ -10,7 +10,6 @@
             "deck_id": "426213",
             "rank": "1",
             "player": "Alexander Andrei Pe",
-            "winrate": 1.0,
             "commander": [
                 "Esior, Wardwing Familiar",
                 "Ardenn, Intrepid Archaeologist"
@@ -107,7 +106,6 @@
             "deck_id": "426214",
             "rank": "2",
             "player": "Myke Nismal",
-            "winrate": 0.8,
             "commander": [
                 "Esior, Wardwing Familiar",
                 "Jeska, Thrice Reborn"
@@ -206,7 +204,6 @@
             "deck_id": "426215",
             "rank": "3",
             "player": "Exequiel Brian Lim",
-            "winrate": 0.6,
             "commander": [
                 "Titania, Protector of Argoth"
             ],
@@ -302,7 +299,6 @@
             "deck_id": "426216",
             "rank": "4",
             "player": "Jacinto Mendoza",
-            "winrate": 0.6,
             "commander": [
                 "Esior, Wardwing Familiar",
                 "Keleth, Sunmane Familiar"

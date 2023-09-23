@@ -10,7 +10,6 @@
             "deck_id": "339110",
             "rank": "2",
             "player": "Pan Liangchen",
-            "winrate": 0.8,
             "commander": [
                 "Najeela, the Blade-Blossom"
             ],
@@ -117,7 +116,6 @@
             "deck_id": "339111",
             "rank": "1",
             "player": "Xu Zinan",
-            "winrate": 1.0,
             "commander": [
                 "Titania, Protector of Argoth"
             ],

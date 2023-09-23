@@ -10,7 +10,6 @@
             "deck_id": "518329",
             "rank": "1",
             "player": "Raul Borges",
-            "winrate": 1.0,
             "commander": [
                 "Ebondeath, Dracolich"
             ],
@@ -81,7 +80,6 @@
             "deck_id": "518330",
             "rank": "2",
             "player": "Douglas Pacífico",
-            "winrate": 0.8,
             "commander": [
                 "Ghyrson Starn, Kelermorph"
             ],
@@ -179,7 +177,6 @@
             "deck_id": "518331",
             "rank": "3-4",
             "player": "Filipe Caetano",
-            "winrate": 0.6,
             "commander": [
                 "Ardoz, Cobbler of War"
             ],
@@ -267,7 +264,6 @@
             "deck_id": "518332",
             "rank": "3-4",
             "player": "Gustavo Silva",
-            "winrate": 0.6,
             "commander": [
                 "Grist, the Hunger Tide"
             ],

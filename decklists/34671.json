@@ -10,7 +10,6 @@
             "deck_id": "462705",
             "rank": "1",
             "player": "Thibault Dupuy",
-            "winrate": 1.0,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -90,7 +89,6 @@
             "deck_id": "462706",
             "rank": "2",
             "player": "Édouard Lecocq",
-            "winrate": 0.8,
             "commander": [
                 "Isamaru, Hound of Konda"
             ],
@@ -174,7 +172,6 @@
             "deck_id": "462707",
             "rank": "3-4",
             "player": "Anthony Petrowiche",
-            "winrate": 0.6,
             "commander": [
                 "Isamaru, Hound of Konda"
             ],
@@ -262,7 +259,6 @@
             "deck_id": "462708",
             "rank": "3-4",
             "player": "Loïc Baverel",
-            "winrate": 0.6,
             "commander": [
                 "Selvala, Heart of the Wilds"
             ],

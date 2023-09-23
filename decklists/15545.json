@@ -10,7 +10,6 @@
             "deck_id": "294801",
             "rank": "8",
             "player": "Louis Deltour",
-            "winrate": 0.8,
             "commander": [
                 "Bruse Tarl, Boorish Herder"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "294802",
             "rank": "8",
             "player": "Léo Carbonell",
-            "winrate": 0.8,
             "commander": [
                 "Jace, Vryn's Prodigy"
             ],
@@ -196,7 +194,6 @@
             "deck_id": "294803",
             "rank": "8",
             "player": "Moondust",
-            "winrate": 0.8,
             "commander": [
                 "Tymna the Weaver",
                 "Thrasios, Triton Hero"
@@ -300,7 +297,6 @@
             "deck_id": "294804",
             "rank": "8",
             "player": "Thomas Mechin",
-            "winrate": 0.8,
             "commander": [
                 "Geist of Saint Traft"
             ],
@@ -398,7 +394,6 @@
             "deck_id": "294805",
             "rank": "8",
             "player": "Alexander Loskoutoff",
-            "winrate": 0.8,
             "commander": [
                 "Bruse Tarl, Boorish Herder"
             ],
@@ -508,7 +503,6 @@
             "deck_id": "294806",
             "rank": "8",
             "player": "Vivien Mace",
-            "winrate": 0.8,
             "commander": [
                 "Narset, Enlightened Master"
             ],
@@ -615,7 +609,6 @@
             "deck_id": "294807",
             "rank": "8",
             "player": "Noham Maubert",
-            "winrate": 0.8,
             "commander": [
                 "Karlov of the Ghost Council"
             ],
@@ -725,7 +718,6 @@
             "deck_id": "294808",
             "rank": "8",
             "player": "Damien Garcia",
-            "winrate": 0.8,
             "commander": [
                 "Geist of Saint Traft"
             ],

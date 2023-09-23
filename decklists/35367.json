@@ -10,7 +10,6 @@
             "deck_id": "467241",
             "rank": "1",
             "player": "Myke Nismal",
-            "winrate": 1.0,
             "commander": [
                 "Shorikai, Genesis Engine"
             ],
@@ -112,7 +111,6 @@
             "deck_id": "467242",
             "rank": "2",
             "player": "Chris Agbon",
-            "winrate": 0.8,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -202,7 +200,6 @@
             "deck_id": "467243",
             "rank": "3-4",
             "player": "Guillermo Cortezo",
-            "winrate": 0.8,
             "commander": [
                 "Golos, Tireless Pilgrim"
             ],
@@ -312,7 +309,6 @@
             "deck_id": "467244",
             "rank": "3-4",
             "player": "Rusty Capricho",
-            "winrate": 0.8,
             "commander": [
                 "Grist, the Hunger Tide"
             ],

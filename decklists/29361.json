@@ -10,7 +10,6 @@
             "deck_id": "430859",
             "rank": "1",
             "player": "Rafael Ozores",
-            "winrate": 1.0,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -93,7 +92,6 @@
             "deck_id": "430860",
             "rank": "2",
             "player": "Orlando Bibiano",
-            "winrate": 0.8,
             "commander": [
                 "Niv-Mizzet Reborn"
             ],
@@ -203,7 +201,6 @@
             "deck_id": "430861",
             "rank": "3-4",
             "player": "Artur Pacheco",
-            "winrate": 0.6,
             "commander": [
                 "Winota, Joiner of Forces"
             ],
@@ -298,7 +295,6 @@
             "deck_id": "430862",
             "rank": "3-4",
             "player": "Lucas Portela",
-            "winrate": 0.6,
             "commander": [
                 "Lord Windgrace"
             ],

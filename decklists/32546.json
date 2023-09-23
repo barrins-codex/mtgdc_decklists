@@ -10,7 +10,6 @@
             "deck_id": "449934",
             "rank": "1",
             "player": "Batsumi",
-            "winrate": 0.875,
             "commander": [
                 "Will Kenrith",
                 "Rowan Kenrith"
@@ -101,7 +100,6 @@
             "deck_id": "449935",
             "rank": "2",
             "player": "Carpenters",
-            "winrate": 0.75,
             "commander": [
                 "Niv-Mizzet Reborn"
             ],
@@ -211,7 +209,6 @@
             "deck_id": "449936",
             "rank": "3-4",
             "player": "Mr.elfor",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Winota, Joiner of Forces"
             ],
@@ -311,7 +308,6 @@
             "deck_id": "449937",
             "rank": "3-4",
             "player": "Sunnysid",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Klothys, God of Destiny"
             ],
@@ -409,7 +405,6 @@
             "deck_id": "449938",
             "rank": "5-8",
             "player": "Moondust",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Golos, Tireless Pilgrim"
             ],
@@ -519,7 +514,6 @@
             "deck_id": "449939",
             "rank": "5-8",
             "player": "Dynamoflo",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Winota, Joiner of Forces"
             ],
@@ -619,7 +613,6 @@
             "deck_id": "449940",
             "rank": "5-8",
             "player": "Gnomenmy",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Laelia, the Blade Reforged"
             ],
@@ -709,7 +702,6 @@
             "deck_id": "449941",
             "rank": "5-8",
             "player": "Zankou",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Titania, Protector of Argoth"
             ],

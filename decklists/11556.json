@@ -10,7 +10,6 @@
             "deck_id": "265751",
             "rank": "5-8",
             "player": "Ilya Viharev",
-            "winrate": 0.6,
             "commander": [
                 "Tymaret, the Murder King"
             ],
@@ -112,7 +111,6 @@
             "deck_id": "265752",
             "rank": "5-8",
             "player": "Boris Aristov",
-            "winrate": 0.6,
             "commander": [
                 "Animar, Soul of Elements"
             ],
@@ -214,7 +212,6 @@
             "deck_id": "265753",
             "rank": "3-4",
             "player": "Alexander Shklover",
-            "winrate": 0.8,
             "commander": [
                 "Yisan, the Wanderer Bard"
             ],
@@ -302,7 +299,6 @@
             "deck_id": "265754",
             "rank": "3-4",
             "player": "Grigoryi Kievskyi",
-            "winrate": 0.8,
             "commander": [
                 "Jenara, Asura of War"
             ],
@@ -409,7 +405,6 @@
             "deck_id": "265755",
             "rank": "1",
             "player": "Mike Kedrenovsky",
-            "winrate": 1.0,
             "commander": [
                 "Geist of Saint Traft"
             ],
@@ -506,7 +501,6 @@
             "deck_id": "265756",
             "rank": "2",
             "player": "Alexander Shust",
-            "winrate": 0.8,
             "commander": [
                 "Anafenza, the Foremost"
             ],
@@ -616,7 +610,6 @@
             "deck_id": "265757",
             "rank": "5-8",
             "player": "Dmitryi Davidov",
-            "winrate": 0.6,
             "commander": [
                 "Grand Arbiter Augustin IV"
             ],
@@ -717,7 +710,6 @@
             "deck_id": "265758",
             "rank": "5-8",
             "player": "Sergey Orlov",
-            "winrate": 0.6,
             "commander": [
                 "Yisan, the Wanderer Bard"
             ],

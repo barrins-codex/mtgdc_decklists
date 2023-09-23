@@ -10,7 +10,6 @@
             "deck_id": "516917",
             "rank": "1",
             "player": "Maël Froger",
-            "winrate": 0.875,
             "commander": [
                 "Light-Paws, Emperor's Voice"
             ],
@@ -95,7 +94,6 @@
             "deck_id": "516918",
             "rank": "2",
             "player": "Bastien Levecher",
-            "winrate": 0.75,
             "commander": [
                 "Cecily, Haunted Mage",
                 "Wernog, Rider's Chaplain"
@@ -205,7 +203,6 @@
             "deck_id": "516919",
             "rank": "3-4",
             "player": "Tugdual Kervoas",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Niv-Mizzet Reborn"
             ],
@@ -315,7 +312,6 @@
             "deck_id": "516920",
             "rank": "3-4",
             "player": "Florian Foch",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Dennick, Pious Apprentice"
             ],
@@ -417,7 +413,6 @@
             "deck_id": "516921",
             "rank": "5-8",
             "player": "Sten Genou",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Isamaru, Hound of Konda"
             ],
@@ -502,7 +497,6 @@
             "deck_id": "516922",
             "rank": "5-8",
             "player": "Tom Colas",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Ghyrson Starn, Kelermorph"
             ],
@@ -597,7 +591,6 @@
             "deck_id": "516923",
             "rank": "5-8",
             "player": "Vincent",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Sai, Master Thopterist"
             ],
@@ -684,7 +677,6 @@
             "deck_id": "516924",
             "rank": "5-8",
             "player": "Pierre Gauducheau",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Bruse Tarl, Boorish Herder",
                 "Yoshimaru, Ever Faithful"

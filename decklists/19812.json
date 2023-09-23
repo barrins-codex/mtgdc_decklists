@@ -10,7 +10,6 @@
             "deck_id": "327812",
             "rank": "1",
             "player": "Nick Stamn",
-            "winrate": 1.0,
             "commander": [
                 "Queen Marchesa"
             ],
@@ -112,7 +111,6 @@
             "deck_id": "327813",
             "rank": "2",
             "player": "Stephan Hecht",
-            "winrate": 0.8,
             "commander": [
                 "Chromium, the Mutable"
             ],

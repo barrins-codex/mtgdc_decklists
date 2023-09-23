@@ -10,7 +10,6 @@
             "deck_id": "508603",
             "rank": "1",
             "player": "Jiang Ling",
-            "winrate": 1.0,
             "commander": [
                 "Bruse Tarl, Boorish Herder",
                 "Reyhan, Last of the Abzan"
@@ -120,7 +119,6 @@
             "deck_id": "508604",
             "rank": "2",
             "player": "Li Zehao",
-            "winrate": 0.8,
             "commander": [
                 "Yoshimaru, Ever Faithful",
                 "Bruse Tarl, Boorish Herder"
@@ -220,7 +218,6 @@
             "deck_id": "508605",
             "rank": "3-4",
             "player": "Chen Sihong",
-            "winrate": 0.6,
             "commander": [
                 "Azusa, Lost but Seeking"
             ],
@@ -316,7 +313,6 @@
             "deck_id": "508606",
             "rank": "3-4",
             "player": "Liang Bingzhao",
-            "winrate": 0.6,
             "commander": [
                 "Gut, True Soul Zealot",
                 "Veteran Soldier"

@@ -10,7 +10,6 @@
             "deck_id": "448334",
             "rank": "1",
             "player": "Boran Gao",
-            "winrate": 1.0,
             "commander": [
                 "Leovold, Emissary of Trest"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "448335",
             "rank": "2",
             "player": "Charles Wang",
-            "winrate": 0.8,
             "commander": [
                 "Winota, Joiner of Forces"
             ],
@@ -221,7 +219,6 @@
             "deck_id": "448336",
             "rank": "3-4",
             "player": "Jinlin Yang",
-            "winrate": 0.6,
             "commander": [
                 "Minsc, Beloved Ranger"
             ],
@@ -328,7 +325,6 @@
             "deck_id": "448337",
             "rank": "3-4",
             "player": "Ronaldo Jin",
-            "winrate": 0.6,
             "commander": [
                 "Leovold, Emissary of Trest"
             ],

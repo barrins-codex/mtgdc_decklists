@@ -10,7 +10,6 @@
             "deck_id": "529441",
             "rank": "1",
             "player": "Zibo,tang",
-            "winrate": 1.0,
             "commander": [
                 "Dihada, Binder of Wills"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "529442",
             "rank": "2",
             "player": "Dawei,gu",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Wilson, Refined Grizzly",
                 "Sword Coast Sailor"

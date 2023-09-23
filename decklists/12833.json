@@ -10,7 +10,6 @@
             "deck_id": "274503",
             "rank": "1",
             "player": "Michele Atzeni",
-            "winrate": 1.0,
             "commander": [
                 "Shu Yun, the Silent Tempest"
             ],
@@ -116,7 +115,6 @@
             "deck_id": "274504",
             "rank": "2",
             "player": "Francesco Belvedere",
-            "winrate": 0.8,
             "commander": [
                 "Titania, Protector of Argoth"
             ],
@@ -205,7 +203,6 @@
             "deck_id": "274505",
             "rank": "3-4",
             "player": "Andrea Tessitore",
-            "winrate": 0.8,
             "commander": [
                 "Narset, Enlightened Master"
             ],
@@ -311,7 +308,6 @@
             "deck_id": "274506",
             "rank": "3-4",
             "player": "Matteo Sangiorgi",
-            "winrate": 0.8,
             "commander": [
                 "Keranos, God of Storms"
             ],

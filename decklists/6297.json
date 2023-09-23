@@ -10,7 +10,6 @@
             "deck_id": "236220",
             "rank": "2",
             "player": "Mickaël Gamblin",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Marath, Will of the Wild"
             ],
@@ -118,7 +117,6 @@
             "deck_id": "236221",
             "rank": "3-4",
             "player": "Armel Richard",
-            "winrate": 0.75,
             "commander": [
                 "Geist of Saint Traft"
             ],
@@ -216,7 +214,6 @@
             "deck_id": "236222",
             "rank": "3-4",
             "player": "Adrien \"ElFN0iR\" Rolandez",
-            "winrate": 0.75,
             "commander": [
                 "Grand Arbiter Augustin IV"
             ],
@@ -313,7 +310,6 @@
             "deck_id": "236223",
             "rank": "5-8",
             "player": "Julien Vignon",
-            "winrate": 0.75,
             "commander": [
                 "Animar, Soul of Elements"
             ],
@@ -418,7 +414,6 @@
             "deck_id": "236224",
             "rank": "5-8",
             "player": "Steve Bringtown",
-            "winrate": 0.75,
             "commander": [
                 "Geist of Saint Traft"
             ],
@@ -513,7 +508,6 @@
             "deck_id": "236225",
             "rank": "5-8",
             "player": "Pierrick Dupont",
-            "winrate": 0.75,
             "commander": [
                 "Zur the Enchanter"
             ],
@@ -619,7 +613,6 @@
             "deck_id": "236226",
             "rank": "5-8",
             "player": "Mickaël Ailloud",
-            "winrate": 0.75,
             "commander": [
                 "The Mimeoplasm"
             ],

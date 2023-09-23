@@ -10,7 +10,6 @@
             "deck_id": "439863",
             "rank": "1",
             "player": "Maximilien Octave26o Kalil",
-            "winrate": 1.0,
             "commander": [
                 "Sisay, Weatherlight Captain"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "439864",
             "rank": "2",
             "player": "Jules _h_ Lestienne",
-            "winrate": 0.8,
             "commander": [
                 "Inalla, Archmage Ritualist"
             ],
@@ -230,7 +228,6 @@
             "deck_id": "439865",
             "rank": "3-4",
             "player": "Adrien Soullessoni Demoget",
-            "winrate": 0.6,
             "commander": [
                 "Golos, Tireless Pilgrim"
             ],
@@ -336,7 +333,6 @@
             "deck_id": "439866",
             "rank": "3-4",
             "player": "Denis Ninjamaru Rosa",
-            "winrate": 0.6,
             "commander": [
                 "Isamaru, Hound of Konda"
             ],

@@ -10,7 +10,6 @@
             "deck_id": "538751",
             "rank": "1",
             "player": "Edison Gabutero",
-            "winrate": 1.0,
             "commander": [
                 "Reyhan, Last of the Abzan",
                 "Yoshimaru, Ever Faithful"
@@ -117,7 +116,6 @@
             "deck_id": "538752",
             "rank": "2",
             "player": "John Augustine \"trex\" Cruz",
-            "winrate": 0.8,
             "commander": [
                 "The Gitrog Monster"
             ],
@@ -216,7 +214,6 @@
             "deck_id": "538753",
             "rank": "3",
             "player": "Deej \"el Cholo Loco\" Miranda",
-            "winrate": 0.8,
             "commander": [
                 "Merry, Esquire of Rohan"
             ],

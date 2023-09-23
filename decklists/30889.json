@@ -10,7 +10,6 @@
             "deck_id": "440239",
             "rank": "1",
             "player": "Paul Relativo",
-            "winrate": 1.0,
             "commander": [
                 "Kytheon, Hero of Akros"
             ],
@@ -92,7 +91,6 @@
             "deck_id": "440240",
             "rank": "2",
             "player": "Cilbert Corpuz",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Tajic, Legion's Edge"
             ],

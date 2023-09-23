@@ -10,7 +10,6 @@
             "deck_id": "221102",
             "rank": "1",
             "player": "Guillaume Picard",
-            "winrate": 1.0,
             "commander": [
                 "Doran, the Siege Tower"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "221103",
             "rank": "2",
             "player": "Moondust",
-            "winrate": 0.8,
             "commander": [
                 "Maelstrom Wanderer"
             ],
@@ -217,7 +215,6 @@
             "deck_id": "221104",
             "rank": "3",
             "player": "Julien Debelleix",
-            "winrate": 0.8,
             "commander": [
                 "Radha, Heir to Keld"
             ],
@@ -318,7 +315,6 @@
             "deck_id": "221105",
             "rank": "4",
             "player": "Simon Pilorget",
-            "winrate": 0.6,
             "commander": [
                 "Grand Arbiter Augustin IV"
             ],

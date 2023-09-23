@@ -10,7 +10,6 @@
             "deck_id": "546077",
             "rank": "1",
             "player": "Erbil Sinforoso",
-            "winrate": 1.0,
             "commander": [
                 "Kess, Dissident Mage"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "546078",
             "rank": "2",
             "player": "Philip Christopher Rama Iii",
-            "winrate": 0.8,
             "commander": [
                 "Feldon, Ronom Excavator"
             ],
@@ -208,7 +206,6 @@
             "deck_id": "546079",
             "rank": "3-4",
             "player": "Aj De Leon",
-            "winrate": 0.8,
             "commander": [
                 "Leovold, Emissary of Trest"
             ],
@@ -318,7 +315,6 @@
             "deck_id": "546080",
             "rank": "3-4",
             "player": "Joseph Padillon",
-            "winrate": 0.8,
             "commander": [
                 "Feldon, Ronom Excavator"
             ],
@@ -403,7 +399,6 @@
             "deck_id": "546081",
             "rank": "5-8",
             "player": "Juancho Morales",
-            "winrate": 0.6,
             "commander": [
                 "Atraxa, Grand Unifier"
             ],
@@ -513,7 +508,6 @@
             "deck_id": "546082",
             "rank": "5-8",
             "player": "Zen Barrientos",
-            "winrate": 0.6,
             "commander": [
                 "Feldon, Ronom Excavator"
             ],
@@ -599,7 +593,6 @@
             "deck_id": "546083",
             "rank": "5-8",
             "player": "Ste Villaraza",
-            "winrate": 0.6,
             "commander": [
                 "Tivit, Seller of Secrets"
             ],
@@ -709,7 +702,6 @@
             "deck_id": "546084",
             "rank": "5-8",
             "player": "Cholo Pascual",
-            "winrate": 0.6,
             "commander": [
                 "Ghyrson Starn, Kelermorph"
             ],

@@ -10,7 +10,6 @@
             "deck_id": "542441",
             "rank": "1",
             "player": "Guanglan,cui",
-            "winrate": 1.0,
             "commander": [
                 "Faceless One",
                 "Gut, True Soul Zealot"
@@ -117,7 +116,6 @@
             "deck_id": "542442",
             "rank": "2",
             "player": "Haoyu,gu",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Sheoldred, the Apocalypse"
             ],

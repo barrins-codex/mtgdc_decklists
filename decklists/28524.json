@@ -10,7 +10,6 @@
             "deck_id": "425479",
             "rank": "1",
             "player": "Alexander Andrei Pe",
-            "winrate": 0.8888888888888888,
             "commander": [
                 "Ardenn, Intrepid Archaeologist",
                 "Esior, Wardwing Familiar"
@@ -107,7 +106,6 @@
             "deck_id": "425480",
             "rank": "1",
             "player": "John Ephraim Nilo",
-            "winrate": 0.8888888888888888,
             "commander": [
                 "Esior, Wardwing Familiar",
                 "Keleth, Sunmane Familiar"
@@ -201,7 +199,6 @@
             "deck_id": "425481",
             "rank": "3",
             "player": "Alton Casanova",
-            "winrate": 0.75,
             "commander": [
                 "Winota, Joiner of Forces"
             ],
@@ -299,7 +296,6 @@
             "deck_id": "425482",
             "rank": "4",
             "player": "Josh Fuentes",
-            "winrate": 0.75,
             "commander": [
                 "Esior, Wardwing Familiar",
                 "Ikra Shidiqi, the Usurper"
@@ -409,7 +405,6 @@
             "deck_id": "425483",
             "rank": "5",
             "player": "Jorrell Ang",
-            "winrate": 0.75,
             "commander": [
                 "Keleth, Sunmane Familiar",
                 "Esior, Wardwing Familiar"
@@ -506,7 +501,6 @@
             "deck_id": "425484",
             "rank": "6",
             "player": "Ste Villaraza",
-            "winrate": 0.75,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -616,7 +610,6 @@
             "deck_id": "425485",
             "rank": "7",
             "player": "Glenn Marc Alesna",
-            "winrate": 0.75,
             "commander": [
                 "Keleth, Sunmane Familiar",
                 "Rograkh, Son of Rohgahh"
@@ -717,7 +710,6 @@
             "deck_id": "425486",
             "rank": "8",
             "player": "Rexel Tenorio",
-            "winrate": 0.75,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],

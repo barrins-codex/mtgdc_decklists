@@ -10,7 +10,6 @@
             "deck_id": "280757",
             "rank": "1",
             "player": "Daniel \"Bender\" Rodriguez",
-            "winrate": 1.0,
             "commander": [
                 "Azami, Lady of Scrolls"
             ],
@@ -98,7 +97,6 @@
             "deck_id": "280758",
             "rank": "4",
             "player": "Miguel Herrera",
-            "winrate": 0.6,
             "commander": [
                 "Olivia, Mobilized for War"
             ],
@@ -186,7 +184,6 @@
             "deck_id": "280759",
             "rank": "3",
             "player": "Hugo Montenegro",
-            "winrate": 0.8,
             "commander": [
                 "Grenzo, Dungeon Warden"
             ],
@@ -273,7 +270,6 @@
             "deck_id": "280760",
             "rank": "2",
             "player": "Yanko Medina",
-            "winrate": 0.8,
             "commander": [
                 "Sidisi, Brood Tyrant"
             ],

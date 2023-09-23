@@ -10,7 +10,6 @@
             "deck_id": "457044",
             "rank": "1",
             "player": "Resley Olchondra",
-            "winrate": 1.0,
             "commander": [
                 "Miara, Thorn of the Glade",
                 "Tevesh Szat, Doom of Fools"
@@ -95,7 +94,6 @@
             "deck_id": "457045",
             "rank": "2",
             "player": "Robert Soriano",
-            "winrate": 0.8,
             "commander": [
                 "Grist, the Hunger Tide"
             ],

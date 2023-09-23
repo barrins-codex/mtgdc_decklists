@@ -10,7 +10,6 @@
             "deck_id": "522876",
             "rank": "1",
             "player": "Franklin Aguba",
-            "winrate": 1.0,
             "commander": [
                 "Cecily, Haunted Mage",
                 "Wernog, Rider's Chaplain"
@@ -120,7 +119,6 @@
             "deck_id": "522877",
             "rank": "2",
             "player": "Martin Marcelo",
-            "winrate": 0.8,
             "commander": [
                 "Ghyrson Starn, Kelermorph"
             ],
@@ -224,7 +222,6 @@
             "deck_id": "522878",
             "rank": "3-4",
             "player": "Ste Villaraza",
-            "winrate": 0.8,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -334,7 +331,6 @@
             "deck_id": "522879",
             "rank": "3-4",
             "player": "Gabe Enriquez",
-            "winrate": 0.8,
             "commander": [
                 "Feldon, Ronom Excavator"
             ],
@@ -422,7 +418,6 @@
             "deck_id": "522880",
             "rank": "5-8",
             "player": "Mike Villano",
-            "winrate": 0.6,
             "commander": [
                 "Ghyrson Starn, Kelermorph"
             ],
@@ -525,7 +520,6 @@
             "deck_id": "522881",
             "rank": "5-8",
             "player": "Garry Gabayoyo",
-            "winrate": 0.6,
             "commander": [
                 "Grist, the Hunger Tide"
             ],
@@ -626,7 +620,6 @@
             "deck_id": "522882",
             "rank": "5-8",
             "player": "Joseph \"panday\" Padillon",
-            "winrate": 0.6,
             "commander": [
                 "Feldon, Ronom Excavator"
             ],
@@ -711,7 +704,6 @@
             "deck_id": "522883",
             "rank": "5-8",
             "player": "Dinno Zaide",
-            "winrate": 0.6,
             "commander": [
                 "Ghyrson Starn, Kelermorph"
             ],

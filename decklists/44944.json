@@ -10,7 +10,6 @@
             "deck_id": "531792",
             "rank": "4",
             "player": "Kaichen Zhao",
-            "winrate": 0.625,
             "commander": [
                 "Kasla, the Broken Halo"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "531793",
             "rank": "4",
             "player": "Yiduo Fan",
-            "winrate": 0.625,
             "commander": [
                 "Grenzo, Dungeon Warden"
             ],
@@ -225,7 +223,6 @@
             "deck_id": "531794",
             "rank": "4",
             "player": "Yang Yang",
-            "winrate": 0.625,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -335,7 +332,6 @@
             "deck_id": "531795",
             "rank": "4",
             "player": "Guanglei Li",
-            "winrate": 0.625,
             "commander": [
                 "Bruse Tarl, Boorish Herder",
                 "Yoshimaru, Ever Faithful"
@@ -439,7 +435,6 @@
             "deck_id": "531796",
             "rank": "5-8",
             "player": "Zehao Li",
-            "winrate": 0.625,
             "commander": [
                 "Bruse Tarl, Boorish Herder",
                 "Yoshimaru, Ever Faithful"
@@ -537,7 +532,6 @@
             "deck_id": "531797",
             "rank": "5-8",
             "player": "Yuchen Sui",
-            "winrate": 0.625,
             "commander": [
                 "Slimefoot and Squee"
             ],
@@ -647,7 +641,6 @@
             "deck_id": "531798",
             "rank": "5-8",
             "player": "Zinan Xu",
-            "winrate": 0.625,
             "commander": [
                 "Grist, the Hunger Tide"
             ],
@@ -747,7 +740,6 @@
             "deck_id": "531799",
             "rank": "5-8",
             "player": "Xingda Zhang",
-            "winrate": 0.625,
             "commander": [
                 "Tyvar the Bellicose"
             ],

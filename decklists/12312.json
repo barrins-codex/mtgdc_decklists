@@ -10,7 +10,6 @@
             "deck_id": "271013",
             "rank": "3-4",
             "player": "Iris Glane",
-            "winrate": 0.8,
             "commander": [
                 "Child of Alara"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "271014",
             "rank": "3-4",
             "player": "Florian Tachau",
-            "winrate": 0.8,
             "commander": [
                 "Narset, Enlightened Master"
             ],
@@ -226,7 +224,6 @@
             "deck_id": "271015",
             "rank": "2",
             "player": "Romain Testaert",
-            "winrate": 0.8,
             "commander": [
                 "Sidisi, Undead Vizier"
             ],
@@ -309,7 +306,6 @@
             "deck_id": "271016",
             "rank": "1",
             "player": "Constantin Ruellet",
-            "winrate": 1.0,
             "commander": [
                 "Child of Alara"
             ],

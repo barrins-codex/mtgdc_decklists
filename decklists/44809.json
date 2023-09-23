@@ -10,7 +10,6 @@
             "deck_id": "530436",
             "rank": "3-4",
             "player": "Benjamin Cottet",
-            "winrate": 0.8,
             "commander": [
                 "Atraxa, Grand Unifier"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "530437",
             "rank": "3-4",
             "player": "Léo Facca",
-            "winrate": 0.8,
             "commander": [
                 "Atraxa, Grand Unifier"
             ],
@@ -230,7 +228,6 @@
             "deck_id": "530438",
             "rank": "3-4",
             "player": "Titouan Le Berre",
-            "winrate": 0.8,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -340,7 +337,6 @@
             "deck_id": "530439",
             "rank": "3-4",
             "player": "Anthony Ruer",
-            "winrate": 0.8,
             "commander": [
                 "Elminster"
             ],

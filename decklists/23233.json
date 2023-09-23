@@ -10,7 +10,6 @@
             "deck_id": "359771",
             "rank": "1",
             "player": "Martin G.",
-            "winrate": 1.0,
             "commander": [
                 "Thrasios, Triton Hero",
                 "Tymna the Weaver"
@@ -120,7 +119,6 @@
             "deck_id": "359772",
             "rank": "2",
             "player": "Stefan C.",
-            "winrate": 0.8,
             "commander": [
                 "Sai, Master Thopterist"
             ],

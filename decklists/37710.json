@@ -10,7 +10,6 @@
             "deck_id": "482404",
             "rank": "1",
             "player": "Nhald Adia",
-            "winrate": 1.0,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -97,7 +96,6 @@
             "deck_id": "482405",
             "rank": "2",
             "player": "Jonathan Dolor",
-            "winrate": 0.8,
             "commander": [
                 "Light-Paws, Emperor's Voice"
             ],
@@ -184,7 +182,6 @@
             "deck_id": "482406",
             "rank": "3-4",
             "player": "Nelvine Tuano",
-            "winrate": 0.6,
             "commander": [
                 "Kytheon, Hero of Akros"
             ],
@@ -275,7 +272,6 @@
             "deck_id": "482407",
             "rank": "3-4",
             "player": "Aerwin Asico",
-            "winrate": 0.6,
             "commander": [
                 "Elminster"
             ],

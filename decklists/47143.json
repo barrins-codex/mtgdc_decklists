@@ -10,7 +10,6 @@
             "deck_id": "548401",
             "rank": "1",
             "player": "Deej \"el Cholo Loco\" Miranda",
-            "winrate": 1.0,
             "commander": [
                 "Yoshimaru, Ever Faithful",
                 "Tana, the Bloodsower"
@@ -119,7 +118,6 @@
             "deck_id": "548402",
             "rank": "2",
             "player": "John Augustine \"trex\" Cruz",
-            "winrate": 0.8,
             "commander": [
                 "The Gitrog Monster"
             ],
@@ -218,7 +216,6 @@
             "deck_id": "548403",
             "rank": "3",
             "player": "Edison Gabutero",
-            "winrate": 0.6,
             "commander": [
                 "Ikra Shidiqi, the Usurper",
                 "Yoshimaru, Ever Faithful"

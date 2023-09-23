@@ -10,7 +10,6 @@
             "deck_id": "407386",
             "rank": "5-8",
             "player": "Andre Gardes",
-            "winrate": 0.6,
             "commander": [
                 "Tajic, Legion's Edge"
             ],
@@ -104,7 +103,6 @@
             "deck_id": "407387",
             "rank": "5-8",
             "player": "Kilian Boulhaïs",
-            "winrate": 0.6,
             "commander": [
                 "Thrasios, Triton Hero",
                 "Tymna the Weaver"
@@ -214,7 +212,6 @@
             "deck_id": "407388",
             "rank": "5-8",
             "player": "Clement Gillard",
-            "winrate": 0.6,
             "commander": [
                 "Akiri, Line-Slinger",
                 "Silas Renn, Seeker Adept"
@@ -324,7 +321,6 @@
             "deck_id": "407389",
             "rank": "5-8",
             "player": "Anthony Ruer",
-            "winrate": 0.6,
             "commander": [
                 "Uro, Titan of Nature's Wrath"
             ],
@@ -418,7 +414,6 @@
             "deck_id": "407390",
             "rank": "3-4",
             "player": "Benjamin Cottet",
-            "winrate": 0.8,
             "commander": [
                 "Ludevic, Necro-Alchemist"
             ],
@@ -511,7 +506,6 @@
             "deck_id": "407391",
             "rank": "3-4",
             "player": "Matthias Muller",
-            "winrate": 0.8,
             "commander": [
                 "Kess, Dissident Mage"
             ],
@@ -618,7 +612,6 @@
             "deck_id": "407392",
             "rank": "2",
             "player": "Gregoire Payan",
-            "winrate": 0.8,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -728,7 +721,6 @@
             "deck_id": "407393",
             "rank": "1",
             "player": "Claudio Reis-marigo",
-            "winrate": 1.0,
             "commander": [
                 "Gallia of the Endless Dance"
             ],

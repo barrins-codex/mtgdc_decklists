@@ -10,7 +10,6 @@
             "deck_id": "283944",
             "rank": "5-8",
             "player": "Mathieu Cocherel",
-            "winrate": 0.6,
             "commander": [
                 "Titania, Protector of Argoth"
             ],
@@ -100,7 +99,6 @@
             "deck_id": "283945",
             "rank": "5-8",
             "player": "The Nameless One",
-            "winrate": 0.6,
             "commander": [
                 "Kraum, Ludevic's Opus",
                 "Vial Smasher the Fierce"
@@ -210,7 +208,6 @@
             "deck_id": "283946",
             "rank": "3-4",
             "player": "Bruno Siracusa",
-            "winrate": 0.8,
             "commander": [
                 "Titania, Protector of Argoth"
             ],
@@ -302,7 +299,6 @@
             "deck_id": "283947",
             "rank": "5-8",
             "player": "Pierre Martel",
-            "winrate": 0.6,
             "commander": [
                 "Saskia the Unyielding"
             ],
@@ -412,7 +408,6 @@
             "deck_id": "283948",
             "rank": "3-4",
             "player": "Kaourintin \"Falaakr\" Le Guiban",
-            "winrate": 0.8,
             "commander": [
                 "Vial Smasher the Fierce",
                 "Kraum, Ludevic's Opus"
@@ -522,7 +517,6 @@
             "deck_id": "283949",
             "rank": "2",
             "player": "Rimkkkkk",
-            "winrate": 0.8,
             "commander": [
                 "Geist of Saint Traft"
             ],
@@ -618,7 +612,6 @@
             "deck_id": "283950",
             "rank": "1",
             "player": "Florian Tachau",
-            "winrate": 1.0,
             "commander": [
                 "Queen Marchesa"
             ],

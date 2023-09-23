@@ -10,7 +10,6 @@
             "deck_id": "492372",
             "rank": "1",
             "player": "Poordonkey",
-            "winrate": 1.0,
             "commander": [
                 "Juri, Master of the Revue"
             ],
@@ -113,7 +112,6 @@
             "deck_id": "492373",
             "rank": "2",
             "player": "Yuchen Liu",
-            "winrate": 0.8,
             "commander": [
                 "Dihada, Binder of Wills"
             ],
@@ -223,7 +221,6 @@
             "deck_id": "492374",
             "rank": "3-4",
             "player": "Ceyao Duan",
-            "winrate": 0.8,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -333,7 +330,6 @@
             "deck_id": "492375",
             "rank": "3-4",
             "player": "Guanyi Wang",
-            "winrate": 0.8,
             "commander": [
                 "Queen Marchesa"
             ],
@@ -443,7 +439,6 @@
             "deck_id": "492376",
             "rank": "5-8",
             "player": "Yihuan Song",
-            "winrate": 0.6,
             "commander": [
                 "Yoshimaru, Ever Faithful",
                 "Jeska, Thrice Reborn"
@@ -551,7 +546,6 @@
             "deck_id": "492377",
             "rank": "5-8",
             "player": "Shoucong Wu",
-            "winrate": 0.6,
             "commander": [
                 "Soul of Windgrace"
             ],
@@ -661,7 +655,6 @@
             "deck_id": "492378",
             "rank": "5-8",
             "player": "Jinlin Yang",
-            "winrate": 0.6,
             "commander": [
                 "Prossh, Skyraider of Kher"
             ],
@@ -771,7 +764,6 @@
             "deck_id": "492379",
             "rank": "5-8",
             "player": "Mingxuan Tian",
-            "winrate": 0.6,
             "commander": [
                 "Old Stickfingers"
             ],

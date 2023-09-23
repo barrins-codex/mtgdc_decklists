@@ -10,7 +10,6 @@
             "deck_id": "503310",
             "rank": "2",
             "player": "Vojta Kotek",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Grenzo, Dungeon Warden"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "503311",
             "rank": "1",
             "player": "Vaclav Hrdlicka",
-            "winrate": 1.0,
             "commander": [
                 "Soul of Windgrace"
             ],

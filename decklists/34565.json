@@ -10,7 +10,6 @@
             "deck_id": "462078",
             "rank": "1",
             "player": "David Cremieux \" La Souille \"",
-            "winrate": 1.0,
             "commander": [
                 "Queen Marchesa"
             ],
@@ -115,7 +114,6 @@
             "deck_id": "462079",
             "rank": "2",
             "player": "Steeves Boone",
-            "winrate": 0.8,
             "commander": [
                 "Titania, Protector of Argoth"
             ],
@@ -216,7 +214,6 @@
             "deck_id": "462080",
             "rank": "3-4",
             "player": "Pierre Almaraz",
-            "winrate": 0.6,
             "commander": [
                 "Dragonlord Ojutai"
             ],
@@ -316,7 +313,6 @@
             "deck_id": "462081",
             "rank": "3-4",
             "player": "Thibault Dupuy",
-            "winrate": 0.6,
             "commander": [
                 "Dennick, Pious Apprentice"
             ],

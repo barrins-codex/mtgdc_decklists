@@ -10,7 +10,6 @@
             "deck_id": "482672",
             "rank": "1",
             "player": "Denis Dovico",
-            "winrate": 1.0,
             "commander": [
                 "General Ferrous Rokiric"
             ],
@@ -103,7 +102,6 @@
             "deck_id": "482673",
             "rank": "2",
             "player": "Douglas Pacifico",
-            "winrate": 0.8,
             "commander": [
                 "Isamaru, Hound of Konda"
             ],
@@ -192,7 +190,6 @@
             "deck_id": "482674",
             "rank": "3-4",
             "player": "Rogério Ribeiro",
-            "winrate": 0.6,
             "commander": [
                 "Klothys, God of Destiny"
             ],
@@ -283,7 +280,6 @@
             "deck_id": "482675",
             "rank": "3-4",
             "player": "Raul Borges",
-            "winrate": 0.6,
             "commander": [
                 "Jadar, Ghoulcaller of Nephalia"
             ],

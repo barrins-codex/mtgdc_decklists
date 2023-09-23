@@ -10,7 +10,6 @@
             "deck_id": "464364",
             "rank": "1",
             "player": "Chris Sta. Maria",
-            "winrate": 1.0,
             "commander": [
                 "Lurrus of the Dream-Den",
                 "Karlov of the Ghost Council"
@@ -114,7 +113,6 @@
             "deck_id": "464365",
             "rank": "2",
             "player": "Michael Dasalla",
-            "winrate": 0.8,
             "commander": [
                 "Light-Paws, Emperor's Voice"
             ],

@@ -10,7 +10,6 @@
             "deck_id": "505808",
             "rank": "1",
             "player": "Jayson Casauay",
-            "winrate": 1.0,
             "commander": [
                 "Juri, Master of the Revue"
             ],
@@ -116,7 +115,6 @@
             "deck_id": "505809",
             "rank": "2",
             "player": "Jonathan Dolor",
-            "winrate": 0.8,
             "commander": [
                 "Lurrus of the Dream-Den",
                 "Karlov of the Ghost Council"
@@ -218,7 +216,6 @@
             "deck_id": "505810",
             "rank": "3",
             "player": "Dinno Zaide",
-            "winrate": 0.6,
             "commander": [
                 "Ghyrson Starn, Kelermorph"
             ],
@@ -319,7 +316,6 @@
             "deck_id": "505811",
             "rank": "4",
             "player": "Panday Padillon",
-            "winrate": 0.6,
             "commander": [
                 "Ardoz, Cobbler of War"
             ],

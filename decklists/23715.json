@@ -10,7 +10,6 @@
             "deck_id": "364608",
             "rank": "3-4",
             "player": "Bozec J.",
-            "winrate": 0.8,
             "commander": [
                 "Thrasios, Triton Hero",
                 "Ludevic, Necro-Alchemist"
@@ -115,7 +114,6 @@
             "deck_id": "364609",
             "rank": "3-4",
             "player": "Mac An Tsaoin O.",
-            "winrate": 0.8,
             "commander": [
                 "Nicol Bolas, the Ravager"
             ],
@@ -225,7 +223,6 @@
             "deck_id": "364610",
             "rank": "2",
             "player": "Paillard Q.",
-            "winrate": 0.8,
             "commander": [
                 "Azusa, Lost but Seeking"
             ],
@@ -322,7 +319,6 @@
             "deck_id": "364611",
             "rank": "1",
             "player": "Garreau Q.",
-            "winrate": 1.0,
             "commander": [
                 "Will Kenrith",
                 "Rowan Kenrith"

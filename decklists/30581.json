@@ -10,7 +10,6 @@
             "deck_id": "438510",
             "rank": "1",
             "player": "Wilson Lai",
-            "winrate": 1.0,
             "commander": [
                 "Aminatou, the Fateshifter",
                 "Aminatou, the Fateshifter"
@@ -166,7 +165,6 @@
             "deck_id": "438511",
             "rank": "2",
             "player": "Jason Lam",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Fynn, the Fangbearer"
             ],

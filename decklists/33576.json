@@ -10,7 +10,6 @@
             "deck_id": "455784",
             "rank": "1",
             "player": "Law Samaniego",
-            "winrate": 1.0,
             "commander": [
                 "Kraum, Ludevic's Opus",
                 "Malcolm, Keen-Eyed Navigator"
@@ -109,7 +108,6 @@
             "deck_id": "455785",
             "rank": "2",
             "player": "Ben Co",
-            "winrate": 0.8,
             "commander": [
                 "Grazilaxx, Illithid Scholar"
             ],

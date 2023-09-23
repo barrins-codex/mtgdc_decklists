@@ -10,7 +10,6 @@
             "deck_id": "446099",
             "rank": "1",
             "player": "Askeladden",
-            "winrate": 1.0,
             "commander": [
                 "Asmoranomardicadaistinaculdacar"
             ],
@@ -114,7 +113,6 @@
             "deck_id": "446100",
             "rank": "2",
             "player": "Jesusextraturns",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Hogaak, Arisen Necropolis"
             ],
@@ -224,7 +222,6 @@
             "deck_id": "446101",
             "rank": "3",
             "player": "Darkfistor",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Kinnan, Bonder Prodigy"
             ],
@@ -318,7 +315,6 @@
             "deck_id": "446102",
             "rank": "4",
             "player": "Onesauk",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Winota, Joiner of Forces"
             ],

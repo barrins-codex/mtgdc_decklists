@@ -10,7 +10,6 @@
             "deck_id": "452530",
             "rank": "1",
             "player": "Julio Beltran",
-            "winrate": 1.0,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -91,7 +90,6 @@
             "deck_id": "452531",
             "rank": "2",
             "player": "Gustavo",
-            "winrate": 0.8,
             "commander": [
                 "Titania, Protector of Argoth"
             ],
@@ -181,7 +179,6 @@
             "deck_id": "452532",
             "rank": "3-4",
             "player": "Rodrigo Torres",
-            "winrate": 0.6,
             "commander": [
                 "Grist, the Hunger Tide"
             ],
@@ -282,7 +279,6 @@
             "deck_id": "452533",
             "rank": "3-4",
             "player": "Felipe \"raizen\" Santos",
-            "winrate": 0.6,
             "commander": [
                 "Adeliz, the Cinder Wind"
             ],

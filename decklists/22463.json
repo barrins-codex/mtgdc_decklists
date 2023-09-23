@@ -10,7 +10,6 @@
             "deck_id": "352740",
             "rank": "3",
             "player": "Stefan C.",
-            "winrate": 0.8,
             "commander": [
                 "Urza, Lord High Artificer"
             ],
@@ -93,7 +92,6 @@
             "deck_id": "352741",
             "rank": "2",
             "player": "Simon M.",
-            "winrate": 0.8,
             "commander": [
                 "Prossh, Skyraider of Kher"
             ],
@@ -195,7 +193,6 @@
             "deck_id": "352742",
             "rank": "1",
             "player": "Samuel Z.",
-            "winrate": 1.0,
             "commander": [
                 "Urza, Lord High Artificer"
             ],

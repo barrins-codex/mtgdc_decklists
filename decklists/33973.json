@@ -10,7 +10,6 @@
             "deck_id": "458550",
             "rank": "1",
             "player": "Boran Gao",
-            "winrate": 1.0,
             "commander": [
                 "Miara, Thorn of the Glade",
                 "Tevesh Szat, Doom of Fools"
@@ -93,7 +92,6 @@
             "deck_id": "458551",
             "rank": "2",
             "player": "Jinlin Yang",
-            "winrate": 0.8,
             "commander": [
                 "Gallia of the Endless Dance"
             ],
@@ -193,7 +191,6 @@
             "deck_id": "458552",
             "rank": "3-4",
             "player": "Ziqi Xi",
-            "winrate": 0.6,
             "commander": [
                 "Malcolm, Keen-Eyed Navigator",
                 "Kraum, Ludevic's Opus"
@@ -290,7 +287,6 @@
             "deck_id": "458553",
             "rank": "3-4",
             "player": "Niaoyu11",
-            "winrate": 0.6,
             "commander": [
                 "Jacob Hauken, Inspector"
             ],

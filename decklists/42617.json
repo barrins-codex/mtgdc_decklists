@@ -10,7 +10,6 @@
             "deck_id": "515125",
             "rank": "1",
             "player": "Valentin \"valdorange\" Orange",
-            "winrate": 0.9,
             "commander": [
                 "Old Stickfingers"
             ],
@@ -111,7 +110,6 @@
             "deck_id": "515126",
             "rank": "2",
             "player": "Raphael Lesieur",
-            "winrate": 0.8,
             "commander": [
                 "Niv-Mizzet Reborn"
             ],
@@ -221,7 +219,6 @@
             "deck_id": "515127",
             "rank": "3-4",
             "player": "Alexandre \"barrettcall50\" Martial",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Old Rutstein"
             ],
@@ -322,7 +319,6 @@
             "deck_id": "515128",
             "rank": "3-4",
             "player": "Thiébaut \"asmadeur\" Gottfried",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Minsc, Beloved Ranger"
             ],
@@ -429,7 +425,6 @@
             "deck_id": "515129",
             "rank": "5-8",
             "player": "Stefan \"sczolk\" Czolk",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Dihada, Binder of Wills"
             ],
@@ -539,7 +534,6 @@
             "deck_id": "515130",
             "rank": "5-8",
             "player": "Joss \"moon\" Cizaire",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Niv-Mizzet Reborn"
             ],
@@ -649,7 +643,6 @@
             "deck_id": "515131",
             "rank": "5-8",
             "player": "Nicolas \"bdf\" Delfolie",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Yoshimaru, Ever Faithful",
                 "Tana, the Bloodsower"
@@ -758,7 +751,6 @@
             "deck_id": "515132",
             "rank": "5-8",
             "player": "Lucas \"vodkazero\" Stadelmann",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Feldon, Ronom Excavator"
             ],
@@ -846,7 +838,6 @@
             "deck_id": "515133",
             "rank": "9-16",
             "player": "Hugo Bauer",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Grist, the Hunger Tide"
             ],
@@ -945,7 +936,6 @@
             "deck_id": "515134",
             "rank": "9-16",
             "player": "Cyprien \"cyp\" Willmann",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Feldon, Ronom Excavator"
             ],
@@ -1033,7 +1023,6 @@
             "deck_id": "515135",
             "rank": "9-16",
             "player": "Christopher \"chris B\" Bastide",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Dihada, Binder of Wills"
             ],
@@ -1143,7 +1132,6 @@
             "deck_id": "515136",
             "rank": "9-16",
             "player": "Rodolphe \"eflodor\" Godin",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Sythis, Harvest's Hand"
             ],
@@ -1240,7 +1228,6 @@
             "deck_id": "515137",
             "rank": "9-16",
             "player": "Mathieu \"moltes\" Cunrath",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Niv-Mizzet Reborn"
             ],
@@ -1350,7 +1337,6 @@
             "deck_id": "515138",
             "rank": "9-16",
             "player": "Romain \"jinx\" Cozic",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -1460,7 +1446,6 @@
             "deck_id": "515139",
             "rank": "9-16",
             "player": "Alexandre Brodut",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Leovold, Emissary of Trest"
             ],
@@ -1570,7 +1555,6 @@
             "deck_id": "515140",
             "rank": "9-16",
             "player": "Anthony Huss",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Dihada, Binder of Wills"
             ],

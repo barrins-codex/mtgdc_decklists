@@ -10,7 +10,6 @@
             "deck_id": "459155",
             "rank": "1",
             "player": "Xu Jiawen",
-            "winrate": 1.0,
             "commander": [
                 "Tevesh Szat, Doom of Fools",
                 "Miara, Thorn of the Glade"
@@ -95,7 +94,6 @@
             "deck_id": "459156",
             "rank": "2",
             "player": "Jiang Jiahe",
-            "winrate": 0.8,
             "commander": [
                 "Niv-Mizzet Reborn"
             ],
@@ -205,7 +203,6 @@
             "deck_id": "459157",
             "rank": "3-4",
             "player": "Wang Renke",
-            "winrate": 0.6,
             "commander": [
                 "Leovold, Emissary of Trest"
             ],
@@ -315,7 +312,6 @@
             "deck_id": "459158",
             "rank": "3-4",
             "player": "Zhang Jiawei",
-            "winrate": 0.6,
             "commander": [
                 "Livio, Oathsworn Sentinel",
                 "Malcolm, Keen-Eyed Navigator"

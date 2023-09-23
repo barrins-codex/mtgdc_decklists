@@ -10,7 +10,6 @@
             "deck_id": "455605",
             "rank": "1",
             "player": "Rexel Tenorio",
-            "winrate": 1.0,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "455606",
             "rank": "2",
             "player": "Rai Reyes",
-            "winrate": 0.8,
             "commander": [
                 "Isamaru, Hound of Konda"
             ],

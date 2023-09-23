@@ -10,7 +10,6 @@
             "deck_id": "447100",
             "rank": "1",
             "player": "Guillemot Cédric",
-            "winrate": 1.0,
             "commander": [
                 "Karlov of the Ghost Council"
             ],
@@ -118,7 +117,6 @@
             "deck_id": "447101",
             "rank": "2",
             "player": "Lucky Boo",
-            "winrate": 0.8,
             "commander": [
                 "Hogaak, Arisen Necropolis"
             ],
@@ -228,7 +226,6 @@
             "deck_id": "447102",
             "rank": "3-4",
             "player": "Alexander Guitonneau",
-            "winrate": 0.8,
             "commander": [
                 "Isamaru, Hound of Konda"
             ],
@@ -316,7 +313,6 @@
             "deck_id": "447103",
             "rank": "3-4",
             "player": "Julien Laurent",
-            "winrate": 0.8,
             "commander": [
                 "Meren of Clan Nel Toth"
             ],

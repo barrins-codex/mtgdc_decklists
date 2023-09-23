@@ -10,7 +10,6 @@
             "deck_id": "282217",
             "rank": "1",
             "player": "Vitezslav Smid",
-            "winrate": 0.8888888888888888,
             "commander": [
                 "Jace, Vryn's Prodigy"
             ],
@@ -92,7 +91,6 @@
             "deck_id": "282218",
             "rank": "2",
             "player": "Martin Vlnas",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Leovold, Emissary of Trest"
             ],
@@ -199,7 +197,6 @@
             "deck_id": "282219",
             "rank": "3-4",
             "player": "Vaclav Mysak",
-            "winrate": 0.75,
             "commander": [
                 "Jace, Vryn's Prodigy"
             ],
@@ -282,7 +279,6 @@
             "deck_id": "282220",
             "rank": "3-4",
             "player": "Vojtech Mencl",
-            "winrate": 0.75,
             "commander": [
                 "Leovold, Emissary of Trest"
             ],
@@ -392,7 +388,6 @@
             "deck_id": "282221",
             "rank": "5-8",
             "player": "Lukas Pesek",
-            "winrate": 0.75,
             "commander": [
                 "Wydwen, the Biting Gale"
             ],
@@ -489,7 +484,6 @@
             "deck_id": "282222",
             "rank": "5-8",
             "player": "David Brinek",
-            "winrate": 0.75,
             "commander": [
                 "Titania, Protector of Argoth"
             ],
@@ -583,7 +577,6 @@
             "deck_id": "282223",
             "rank": "5-8",
             "player": "Dominik Maly",
-            "winrate": 0.75,
             "commander": [
                 "Animar, Soul of Elements"
             ],
@@ -684,7 +677,6 @@
             "deck_id": "282224",
             "rank": "5-8",
             "player": "Tomas Bor",
-            "winrate": 0.75,
             "commander": [
                 "Anafenza, the Foremost"
             ],

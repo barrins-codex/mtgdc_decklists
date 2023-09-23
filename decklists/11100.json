@@ -10,7 +10,6 @@
             "deck_id": "263165",
             "rank": "1",
             "player": "Cedric \"BernardMinet\" Feret",
-            "winrate": 1.0,
             "commander": [
                 "Narset, Enlightened Master"
             ],
@@ -116,7 +115,6 @@
             "deck_id": "263166",
             "rank": "1",
             "player": "Moondust",
-            "winrate": 1.0,
             "commander": [
                 "Yisan, the Wanderer Bard"
             ],
@@ -203,7 +201,6 @@
             "deck_id": "263167",
             "rank": "3-4",
             "player": "Emilien Pichereau",
-            "winrate": 0.8,
             "commander": [
                 "Surrak Dragonclaw"
             ],
@@ -304,7 +301,6 @@
             "deck_id": "263168",
             "rank": "3-4",
             "player": "Yan Lorente",
-            "winrate": 0.8,
             "commander": [
                 "Sidisi, Brood Tyrant"
             ],

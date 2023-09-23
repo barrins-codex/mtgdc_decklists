@@ -10,7 +10,6 @@
             "deck_id": "466880",
             "rank": "1",
             "player": "Merlin Moret",
-            "winrate": 0.9,
             "commander": [
                 "The Reality Chip"
             ],
@@ -103,7 +102,6 @@
             "deck_id": "466881",
             "rank": "2",
             "player": "Jules Lestienne",
-            "winrate": 0.8,
             "commander": [
                 "Grist, the Hunger Tide"
             ],
@@ -202,7 +200,6 @@
             "deck_id": "466882",
             "rank": "3-4",
             "player": "Moncana",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Shorikai, Genesis Engine"
             ],
@@ -303,7 +300,6 @@
             "deck_id": "466883",
             "rank": "3-4",
             "player": "Flavien Paillet",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Dennick, Pious Apprentice"
             ],
@@ -406,7 +402,6 @@
             "deck_id": "466884",
             "rank": "5-8",
             "player": "Benjamin Guillerm",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Galazeth Prismari"
             ],
@@ -507,7 +502,6 @@
             "deck_id": "466885",
             "rank": "5-8",
             "player": "Emmanuel Delvigne",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -594,7 +588,6 @@
             "deck_id": "466886",
             "rank": "5-8",
             "player": "Adrien Demoget",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Sythis, Harvest's Hand"
             ],
@@ -700,7 +693,6 @@
             "deck_id": "466887",
             "rank": "5-8",
             "player": "Antoine Lamaud",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -810,7 +802,6 @@
             "deck_id": "466888",
             "rank": "9-16",
             "player": "Audiffren Guillaume",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Golos, Tireless Pilgrim"
             ],
@@ -920,7 +911,6 @@
             "deck_id": "466889",
             "rank": "9-16",
             "player": "James Titley",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Shorikai, Genesis Engine"
             ],
@@ -1022,7 +1012,6 @@
             "deck_id": "466890",
             "rank": "9-16",
             "player": "François Quesque",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Prossh, Skyraider of Kher"
             ],
@@ -1132,7 +1121,6 @@
             "deck_id": "466891",
             "rank": "9-16",
             "player": "Fabien Gibergues",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -1218,7 +1206,6 @@
             "deck_id": "466892",
             "rank": "9-16",
             "player": "Yacine Labidi",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Sythis, Harvest's Hand"
             ],
@@ -1322,7 +1309,6 @@
             "deck_id": "466893",
             "rank": "9-16",
             "player": "Hervé Brocker",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Kroxa, Titan of Death's Hunger"
             ],
@@ -1428,7 +1414,6 @@
             "deck_id": "466894",
             "rank": "9-16",
             "player": "Aurelien Cornet",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Jenara, Asura of War"
             ],
@@ -1538,7 +1523,6 @@
             "deck_id": "466895",
             "rank": "9-16",
             "player": "Thomas Travert",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "The Reality Chip"
             ],

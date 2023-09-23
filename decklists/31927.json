@@ -10,7 +10,6 @@
             "deck_id": "446615",
             "rank": "1",
             "player": "João",
-            "winrate": 1.0,
             "commander": [
                 "Anje Falkenrath"
             ],
@@ -105,7 +104,6 @@
             "deck_id": "446616",
             "rank": "2",
             "player": "Kamui",
-            "winrate": 0.8,
             "commander": [
                 "Erayo, Soratami Ascendant"
             ],
@@ -195,7 +193,6 @@
             "deck_id": "446617",
             "rank": "3-4",
             "player": "Carlos",
-            "winrate": 0.8,
             "commander": [
                 "Ezuri, Renegade Leader"
             ],
@@ -282,7 +279,6 @@
             "deck_id": "446618",
             "rank": "3-4",
             "player": "Bergamota",
-            "winrate": 0.8,
             "commander": [
                 "Brago, King Eternal"
             ],
@@ -372,7 +368,6 @@
             "deck_id": "446619",
             "rank": "5-8",
             "player": "Vinicius",
-            "winrate": 0.6,
             "commander": [
                 "Kroxa, Titan of Death's Hunger"
             ],
@@ -467,7 +462,6 @@
             "deck_id": "446620",
             "rank": "5-8",
             "player": "Luiz",
-            "winrate": 0.6,
             "commander": [
                 "The First Sliver"
             ],
@@ -563,7 +557,6 @@
             "deck_id": "446621",
             "rank": "5-8",
             "player": "Daniel Bofo",
-            "winrate": 0.6,
             "commander": [
                 "Octavia, Living Thesis"
             ],
@@ -647,7 +640,6 @@
             "deck_id": "446622",
             "rank": "5-8",
             "player": "Ramadan",
-            "winrate": 0.6,
             "commander": [
                 "Judith, the Scourge Diva"
             ],

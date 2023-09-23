@@ -10,7 +10,6 @@
             "deck_id": "365856",
             "rank": "1",
             "player": "Antonin Michelet",
-            "winrate": 0.9,
             "commander": [
                 "Kytheon, Hero of Akros"
             ],
@@ -95,7 +94,6 @@
             "deck_id": "365857",
             "rank": "2",
             "player": "Alexander Loskoutoff",
-            "winrate": 0.8,
             "commander": [
                 "Edric, Spymaster of Trest"
             ],
@@ -190,7 +188,6 @@
             "deck_id": "365858",
             "rank": "3-4",
             "player": "Baptiste Touboulic",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "The Gitrog Monster"
             ],
@@ -292,7 +289,6 @@
             "deck_id": "365859",
             "rank": "3-4",
             "player": "Lionel Gallière",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Niv-Mizzet Reborn"
             ],
@@ -402,7 +398,6 @@
             "deck_id": "365860",
             "rank": "5-8",
             "player": "Maxime Allée",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Azusa, Lost but Seeking"
             ],
@@ -499,7 +494,6 @@
             "deck_id": "365861",
             "rank": "5-8",
             "player": "Julien Faidherbe",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Titania, Protector of Argoth"
             ],
@@ -595,7 +589,6 @@
             "deck_id": "365862",
             "rank": "5-8",
             "player": "Kevin Corbille",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Emry, Lurker of the Loch"
             ],
@@ -681,7 +674,6 @@
             "deck_id": "365863",
             "rank": "5-8",
             "player": "Yan Lorente",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Hogaak, Arisen Necropolis"
             ],
@@ -791,7 +783,6 @@
             "deck_id": "365864",
             "rank": "9-16",
             "player": "Renault Mederic",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Jenara, Asura of War"
             ],
@@ -901,7 +892,6 @@
             "deck_id": "365865",
             "rank": "9-16",
             "player": "Damien Fragé",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Hogaak, Arisen Necropolis"
             ],
@@ -1002,7 +992,6 @@
             "deck_id": "365866",
             "rank": "9-16",
             "player": "Hugo Lamour",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Anje Falkenrath"
             ],
@@ -1093,7 +1082,6 @@
             "deck_id": "365867",
             "rank": "9-16",
             "player": "Guillaume Petra",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Isamaru, Hound of Konda"
             ],
@@ -1176,7 +1164,6 @@
             "deck_id": "365868",
             "rank": "9-16",
             "player": "Thibault Faidherbe",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "The Gitrog Monster"
             ],
@@ -1275,7 +1262,6 @@
             "deck_id": "365869",
             "rank": "9-16",
             "player": "Cyril Brisson",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Niv-Mizzet Reborn"
             ],
@@ -1385,7 +1371,6 @@
             "deck_id": "365870",
             "rank": "9-16",
             "player": "Yvann Beguin",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Tymna the Weaver",
                 "Kraum, Ludevic's Opus"
@@ -1491,7 +1476,6 @@
             "deck_id": "365871",
             "rank": "9-16",
             "player": "Payan Grégoire",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "The Gitrog Monster"
             ],

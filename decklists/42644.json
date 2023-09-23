@@ -10,7 +10,6 @@
             "deck_id": "515309",
             "rank": "1",
             "player": "Qin Zihao",
-            "winrate": 1.0,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "515310",
             "rank": "2",
             "player": "Huang Zijie",
-            "winrate": 0.8,
             "commander": [
                 "Elminster"
             ],
@@ -220,7 +218,6 @@
             "deck_id": "515311",
             "rank": "3",
             "player": "Yu Hang",
-            "winrate": 0.6,
             "commander": [
                 "Tana, the Bloodsower",
                 "Yoshimaru, Ever Faithful"

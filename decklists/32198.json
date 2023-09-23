@@ -10,7 +10,6 @@
             "deck_id": "447955",
             "rank": "1",
             "player": "Ste Villaraza",
-            "winrate": 1.0,
             "commander": [
                 "Malcolm, Keen-Eyed Navigator",
                 "Tevesh Szat, Doom of Fools"
@@ -111,7 +110,6 @@
             "deck_id": "447956",
             "rank": "2",
             "player": "Jarbs Sahagun",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],

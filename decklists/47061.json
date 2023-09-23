@@ -10,7 +10,6 @@
             "deck_id": "547805",
             "rank": "1",
             "player": "Italo Gabriel",
-            "winrate": 1.0,
             "commander": [
                 "Octavia, Living Thesis"
             ],
@@ -90,7 +89,6 @@
             "deck_id": "547806",
             "rank": "2",
             "player": "Rafael Batista",
-            "winrate": 0.8,
             "commander": [
                 "Yoshimaru, Ever Faithful",
                 "Tana, the Bloodsower"
@@ -200,7 +198,6 @@
             "deck_id": "547807",
             "rank": "3-4",
             "player": "Guilherme (guima)",
-            "winrate": 0.6,
             "commander": [
                 "Ertai Resurrected"
             ],
@@ -297,7 +294,6 @@
             "deck_id": "547808",
             "rank": "3-4",
             "player": "Nelson (ancião)",
-            "winrate": 0.6,
             "commander": [
                 "Leovold, Emissary of Trest"
             ],

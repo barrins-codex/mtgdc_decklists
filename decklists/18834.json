@@ -10,7 +10,6 @@
             "deck_id": "317845",
             "rank": "1",
             "player": "Matteo Iommi",
-            "winrate": 1.0,
             "commander": [
                 "Queen Marchesa"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "317846",
             "rank": "2",
             "player": "Marco Montelpare",
-            "winrate": 0.8,
             "commander": [
                 "Zurgo Bellstriker"
             ],

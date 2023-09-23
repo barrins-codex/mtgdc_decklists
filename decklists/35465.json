@@ -10,7 +10,6 @@
             "deck_id": "467833",
             "rank": "1",
             "player": "Thomas Volckman",
-            "winrate": 0.875,
             "commander": [
                 "Niv-Mizzet Reborn"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "467834",
             "rank": "2",
             "player": "Jean-alexis Lequoque",
-            "winrate": 0.75,
             "commander": [
                 "Sai, Master Thopterist"
             ],
@@ -208,7 +206,6 @@
             "deck_id": "467835",
             "rank": "3-4",
             "player": "Quentin Dumont",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Jadar, Ghoulcaller of Nephalia"
             ],
@@ -300,7 +297,6 @@
             "deck_id": "467836",
             "rank": "3-4",
             "player": "Yann Brugière",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -385,7 +381,6 @@
             "deck_id": "467837",
             "rank": "5-8",
             "player": "Paul Juyaux",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Saskia the Unyielding"
             ],
@@ -495,7 +490,6 @@
             "deck_id": "467838",
             "rank": "5-8",
             "player": "William Benaut",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Shorikai, Genesis Engine"
             ],
@@ -592,7 +586,6 @@
             "deck_id": "467839",
             "rank": "5-8",
             "player": "Paul Fermé",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Octavia, Living Thesis"
             ],
@@ -678,7 +671,6 @@
             "deck_id": "467840",
             "rank": "5-8",
             "player": "François Jandaud",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Saskia the Unyielding"
             ],

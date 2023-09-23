@@ -10,7 +10,6 @@
             "deck_id": "309121",
             "rank": "1",
             "player": "Koijanus Nulud",
-            "winrate": 1.0,
             "commander": [
                 "Zurgo Bellstriker"
             ],
@@ -89,7 +88,6 @@
             "deck_id": "309122",
             "rank": "4",
             "player": "Rudi Asinas",
-            "winrate": 0.6,
             "commander": [
                 "The Scarab God"
             ],
@@ -186,7 +184,6 @@
             "deck_id": "309123",
             "rank": "8",
             "player": "Rusty Capricho",
-            "winrate": 0.6,
             "commander": [
                 "The Gitrog Monster"
             ],
@@ -286,7 +283,6 @@
             "deck_id": "309124",
             "rank": "7",
             "player": "Myke Nismal",
-            "winrate": 0.6,
             "commander": [
                 "The Gitrog Monster"
             ],
@@ -382,7 +378,6 @@
             "deck_id": "309125",
             "rank": "6",
             "player": "Alexander Pe",
-            "winrate": 0.6,
             "commander": [
                 "Titania, Protector of Argoth"
             ],
@@ -475,7 +470,6 @@
             "deck_id": "309126",
             "rank": "5",
             "player": "Gabe Enriquez",
-            "winrate": 0.6,
             "commander": [
                 "Zurgo Bellstriker"
             ],
@@ -557,7 +551,6 @@
             "deck_id": "309127",
             "rank": "2",
             "player": "Mark Biala",
-            "winrate": 0.8,
             "commander": [
                 "Radha, Heir to Keld"
             ],
@@ -660,7 +653,6 @@
             "deck_id": "309128",
             "rank": "3",
             "player": "Ben Co",
-            "winrate": 0.8,
             "commander": [
                 "The Gitrog Monster"
             ],

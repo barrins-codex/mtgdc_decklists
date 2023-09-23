@@ -10,7 +10,6 @@
             "deck_id": "454115",
             "rank": "1",
             "player": "Jiri Obraz",
-            "winrate": 1.0,
             "commander": [
                 "Sidar Kondo of Jamuraa",
                 "Tevesh Szat, Doom of Fools"
@@ -103,7 +102,6 @@
             "deck_id": "454116",
             "rank": "2",
             "player": "Frantisek Krizkovsky",
-            "winrate": 0.8,
             "commander": [
                 "Veyran, Voice of Duality"
             ],
@@ -202,7 +200,6 @@
             "deck_id": "454117",
             "rank": "3-4",
             "player": "Jan Jilek",
-            "winrate": 0.8,
             "commander": [
                 "Minsc, Beloved Ranger"
             ],
@@ -312,7 +309,6 @@
             "deck_id": "454118",
             "rank": "4",
             "player": "Daniel Tochacek",
-            "winrate": 0.6,
             "commander": [
                 "Esika, God of the Tree"
             ],
@@ -422,7 +418,6 @@
             "deck_id": "454119",
             "rank": "5-8",
             "player": "Jan Kousal",
-            "winrate": 0.6,
             "commander": [
                 "Zareth San, the Trickster"
             ],
@@ -520,7 +515,6 @@
             "deck_id": "454120",
             "rank": "5-8",
             "player": "Roman Vejdelek",
-            "winrate": 0.6,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -630,7 +624,6 @@
             "deck_id": "454121",
             "rank": "5-8",
             "player": "Jakub Lelek",
-            "winrate": 0.6,
             "commander": [
                 "Tajic, Legion's Edge"
             ],
@@ -730,7 +723,6 @@
             "deck_id": "454122",
             "rank": "5-8",
             "player": "Vojtech Benes",
-            "winrate": 0.6,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],

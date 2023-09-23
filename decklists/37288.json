@@ -10,7 +10,6 @@
             "deck_id": "479716",
             "rank": "1",
             "player": "Baptiste Dumas",
-            "winrate": 0.8888888888888888,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -119,7 +118,6 @@
             "deck_id": "479717",
             "rank": "2",
             "player": "Nicolas Mestreau",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -229,7 +227,6 @@
             "deck_id": "479718",
             "rank": "3",
             "player": "Nicolas Decam",
-            "winrate": 0.75,
             "commander": [
                 "Queen Marchesa"
             ],
@@ -339,7 +336,6 @@
             "deck_id": "479719",
             "rank": "4",
             "player": "Olivier Airaut",
-            "winrate": 0.75,
             "commander": [
                 "Dennick, Pious Apprentice"
             ],
@@ -442,7 +438,6 @@
             "deck_id": "479720",
             "rank": "5",
             "player": "Cedric Roy",
-            "winrate": 0.75,
             "commander": [
                 "Minsc &amp; Boo, Timeless Heroes"
             ],
@@ -540,7 +535,6 @@
             "deck_id": "479721",
             "rank": "6",
             "player": "Paul Ridoux",
-            "winrate": 0.75,
             "commander": [
                 "Minsc &amp; Boo, Timeless Heroes"
             ],
@@ -640,7 +634,6 @@
             "deck_id": "479722",
             "rank": "7",
             "player": "Nicolas Monsinjon",
-            "winrate": 0.75,
             "commander": [
                 "Minsc &amp; Boo, Timeless Heroes"
             ],
@@ -741,7 +734,6 @@
             "deck_id": "479772",
             "rank": "8",
             "player": "som40",
-            "winrate": 0.75,
             "commander": [
                 "Leovold, Emissary of Trest"
             ],

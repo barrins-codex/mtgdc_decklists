@@ -10,7 +10,6 @@
             "deck_id": "403254",
             "rank": "1",
             "player": "Soullessoni",
-            "winrate": 1.0,
             "commander": [
                 "Rielle, the Everwise"
             ],
@@ -106,7 +105,6 @@
             "deck_id": "403255",
             "rank": "2",
             "player": "Moresk3",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Hogaak, Arisen Necropolis"
             ],

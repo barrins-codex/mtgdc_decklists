@@ -10,7 +10,6 @@
             "deck_id": "254195",
             "rank": "1",
             "player": "Dario Belotti",
-            "winrate": 1.0,
             "commander": [
                 "Jenara, Asura of War"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "254196",
             "rank": "2",
             "player": "Michele Atzeni",
-            "winrate": 0.8,
             "commander": [
                 "Geist of Saint Traft"
             ],
@@ -215,7 +213,6 @@
             "deck_id": "254197",
             "rank": "3-4",
             "player": "Thomas Curreli",
-            "winrate": 0.8,
             "commander": [
                 "Geist of Saint Traft"
             ],
@@ -315,7 +312,6 @@
             "deck_id": "254198",
             "rank": "3-4",
             "player": "Mattia Lazzarotto",
-            "winrate": 0.8,
             "commander": [
                 "Captain Sisay"
             ],
@@ -416,7 +412,6 @@
             "deck_id": "254199",
             "rank": "5-8",
             "player": "Francesco Vitale",
-            "winrate": 0.8,
             "commander": [
                 "Marath, Will of the Wild"
             ],
@@ -518,7 +513,6 @@
             "deck_id": "254200",
             "rank": "5-8",
             "player": "Alberto Rossi",
-            "winrate": 0.8,
             "commander": [
                 "Jenara, Asura of War"
             ],
@@ -628,7 +622,6 @@
             "deck_id": "254201",
             "rank": "5-8",
             "player": "Andrea Parise",
-            "winrate": 0.8,
             "commander": [
                 "Braids, Cabal Minion"
             ],
@@ -718,7 +711,6 @@
             "deck_id": "254202",
             "rank": "5-8",
             "player": "Eugenio Tonanzi",
-            "winrate": 0.8,
             "commander": [
                 "Tasigur, the Golden Fang"
             ],

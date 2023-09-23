@@ -10,7 +10,6 @@
             "deck_id": "540110",
             "rank": "1",
             "player": "Jonas Kretzschmar",
-            "winrate": 1.0,
             "commander": [
                 "Skrelv, Defector Mite"
             ],
@@ -98,7 +97,6 @@
             "deck_id": "540111",
             "rank": "2",
             "player": "Femi Heartman",
-            "winrate": 0.8,
             "commander": [
                 "Tivit, Seller of Secrets"
             ],

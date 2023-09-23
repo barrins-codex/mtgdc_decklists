@@ -10,7 +10,6 @@
             "deck_id": "490550",
             "rank": "2",
             "player": "Enzo Sefrioui",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Grist, the Hunger Tide"
             ],
@@ -110,7 +109,6 @@
             "deck_id": "490551",
             "rank": "2",
             "player": "Antoine Marchand",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Grist, the Hunger Tide"
             ],
@@ -208,7 +206,6 @@
             "deck_id": "490552",
             "rank": "3-4",
             "player": "Benoit Bernay",
-            "winrate": 0.75,
             "commander": [
                 "Lonis, Cryptozoologist"
             ],
@@ -306,7 +303,6 @@
             "deck_id": "490553",
             "rank": "3-4",
             "player": "Maximilien Potel",
-            "winrate": 0.75,
             "commander": [
                 "Noble Heritage",
                 "Gut, True Soul Zealot"
@@ -406,7 +402,6 @@
             "deck_id": "490554",
             "rank": "5-8",
             "player": "Yannick Baudet",
-            "winrate": 0.75,
             "commander": [
                 "Juri, Master of the Revue"
             ],
@@ -505,7 +500,6 @@
             "deck_id": "490555",
             "rank": "5-8",
             "player": "Alexis Lagoutte",
-            "winrate": 0.75,
             "commander": [
                 "Ghyrson Starn, Kelermorph"
             ],
@@ -599,7 +593,6 @@
             "deck_id": "490556",
             "rank": "5-8",
             "player": "Nicolas \"thorgal666\" François",
-            "winrate": 0.75,
             "commander": [
                 "Dragonlord Ojutai"
             ],
@@ -700,7 +693,6 @@
             "deck_id": "490557",
             "rank": "5-8",
             "player": "Johan Tridiel",
-            "winrate": 0.75,
             "commander": [
                 "Raffine, Scheming Seer"
             ],

@@ -10,7 +10,6 @@
             "deck_id": "483104",
             "rank": "1",
             "player": "Baekstra",
-            "winrate": 0.875,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "483105",
             "rank": "2",
             "player": "Didou",
-            "winrate": 0.75,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -230,7 +228,6 @@
             "deck_id": "483106",
             "rank": "3-4",
             "player": "Onesauk",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -340,7 +337,6 @@
             "deck_id": "483107",
             "rank": "3-4",
             "player": "Oni",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Grismold, the Dreadsower"
             ],
@@ -444,7 +440,6 @@
             "deck_id": "483108",
             "rank": "5-8",
             "player": "Domino",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Minsc &amp; Boo, Timeless Heroes"
             ],
@@ -536,7 +531,6 @@
             "deck_id": "483109",
             "rank": "5-8",
             "player": "Damienade",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Prossh, Skyraider of Kher"
             ],
@@ -643,7 +637,6 @@
             "deck_id": "483110",
             "rank": "5-8",
             "player": "Astierix",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "The Ur-Dragon"
             ],
@@ -753,7 +746,6 @@
             "deck_id": "483111",
             "rank": "5-8",
             "player": "Abibou",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Jeska, Thrice Reborn",
                 "Ludevic, Necro-Alchemist"

@@ -10,7 +10,6 @@
             "deck_id": "487948",
             "rank": "1",
             "player": "Pengkai Shi",
-            "winrate": 1.0,
             "commander": [
                 "Hogaak, Arisen Necropolis"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "487949",
             "rank": "2",
             "player": "Mingxuan Tian",
-            "winrate": 0.8,
             "commander": [
                 "Old Stickfingers"
             ],
@@ -225,7 +223,6 @@
             "deck_id": "487950",
             "rank": "3-4",
             "player": "Hongchen Zhang",
-            "winrate": 0.6,
             "commander": [
                 "Tavern Brawler",
                 "Wilson, Refined Grizzly"
@@ -326,7 +323,6 @@
             "deck_id": "487951",
             "rank": "3-4",
             "player": "Ceyao Duan",
-            "winrate": 0.6,
             "commander": [
                 "Dennick, Pious Apprentice"
             ],

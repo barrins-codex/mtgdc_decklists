@@ -10,7 +10,6 @@
             "deck_id": "352142",
             "rank": "5-8",
             "player": "Vasiliev Vitaly",
-            "winrate": 0.6,
             "commander": [
                 "The Gitrog Monster"
             ],
@@ -107,7 +106,6 @@
             "deck_id": "352143",
             "rank": "5-8",
             "player": "Burmistrov Alexey",
-            "winrate": 0.6,
             "commander": [
                 "Khorvath Brightflame",
                 "Sylvia Brightspear"
@@ -201,7 +199,6 @@
             "deck_id": "352144",
             "rank": "5-8",
             "player": "Vedenin Roman",
-            "winrate": 0.6,
             "commander": [
                 "Titania, Protector of Argoth"
             ],
@@ -294,7 +291,6 @@
             "deck_id": "352145",
             "rank": "5-8",
             "player": "Nechaev Vadim",
-            "winrate": 0.6,
             "commander": [
                 "Azusa, Lost but Seeking"
             ],
@@ -376,7 +372,6 @@
             "deck_id": "352146",
             "rank": "2",
             "player": "Serputko Vyacheslav",
-            "winrate": 0.8,
             "commander": [
                 "Selvala, Explorer Returned"
             ],
@@ -475,7 +470,6 @@
             "deck_id": "352147",
             "rank": "1",
             "player": "Mesheriakov Maxim",
-            "winrate": 1.0,
             "commander": [
                 "Teferi, Temporal Archmage"
             ],
@@ -549,7 +543,6 @@
             "deck_id": "352148",
             "rank": "3-4",
             "player": "Gusev Denis",
-            "winrate": 0.8,
             "commander": [
                 "Teferi, Temporal Archmage"
             ],
@@ -623,7 +616,6 @@
             "deck_id": "352149",
             "rank": "3-4",
             "player": "Oreshkin Dmitry",
-            "winrate": 0.8,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],

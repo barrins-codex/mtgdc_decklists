@@ -10,7 +10,6 @@
             "deck_id": "345810",
             "rank": "1",
             "player": "Hugo Temple",
-            "winrate": 1.0,
             "commander": [
                 "Yuriko, the Tiger's Shadow"
             ],
@@ -107,7 +106,6 @@
             "deck_id": "345811",
             "rank": "2",
             "player": "Marjorie Marie",
-            "winrate": 0.8,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],

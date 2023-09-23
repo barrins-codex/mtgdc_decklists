@@ -10,7 +10,6 @@
             "deck_id": "377614",
             "rank": "1",
             "player": "Yvan Lucas",
-            "winrate": 1.0,
             "commander": [
                 "Hogaak, Arisen Necropolis"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "377615",
             "rank": "2",
             "player": "Stephen Helmer",
-            "winrate": 0.8,
             "commander": [
                 "Uro, Titan of Nature's Wrath"
             ],
@@ -222,7 +220,6 @@
             "deck_id": "377616",
             "rank": "3-4",
             "player": "Eric \"morchiswe\" Genin",
-            "winrate": 0.8,
             "commander": [
                 "Gallia of the Endless Dance"
             ],
@@ -319,7 +316,6 @@
             "deck_id": "377617",
             "rank": "3-4",
             "player": "Alexandre Martial",
-            "winrate": 0.8,
             "commander": [
                 "Sidisi, Brood Tyrant"
             ],

@@ -10,7 +10,6 @@
             "deck_id": "516861",
             "rank": "1",
             "player": "Hugo Shelling",
-            "winrate": 0.8888888888888888,
             "commander": [
                 "Old Stickfingers"
             ],
@@ -111,7 +110,6 @@
             "deck_id": "516862",
             "rank": "2",
             "player": "Guilherme Bellagente",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -221,7 +219,6 @@
             "deck_id": "516863",
             "rank": "3",
             "player": "Pablo Lima",
-            "winrate": 0.75,
             "commander": [
                 "Feldon, Ronom Excavator"
             ],
@@ -304,7 +301,6 @@
             "deck_id": "516864",
             "rank": "4",
             "player": "Allan Rodrigues",
-            "winrate": 0.75,
             "commander": [
                 "Dennick, Pious Apprentice"
             ],
@@ -405,7 +401,6 @@
             "deck_id": "516865",
             "rank": "5",
             "player": "Marcos Ramos",
-            "winrate": 0.75,
             "commander": [
                 "Old Stickfingers"
             ],
@@ -502,7 +497,6 @@
             "deck_id": "516866",
             "rank": "6",
             "player": "Adriano Santos",
-            "winrate": 0.75,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -612,7 +606,6 @@
             "deck_id": "516867",
             "rank": "7",
             "player": "Jean Velloso",
-            "winrate": 0.75,
             "commander": [
                 "Light-Paws, Emperor's Voice"
             ],
@@ -694,7 +687,6 @@
             "deck_id": "516868",
             "rank": "8",
             "player": "Samuel Martins",
-            "winrate": 0.75,
             "commander": [
                 "The Beamtown Bullies"
             ],

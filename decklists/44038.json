@@ -10,7 +10,6 @@
             "deck_id": "525110",
             "rank": "1",
             "player": "Martin Ogayon",
-            "winrate": 1.0,
             "commander": [
                 "Polukranos Reborn"
             ],
@@ -114,7 +113,6 @@
             "deck_id": "525111",
             "rank": "2",
             "player": "Ian Paul Roa",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Feldon, Ronom Excavator"
             ],

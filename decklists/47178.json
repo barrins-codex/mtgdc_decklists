@@ -10,7 +10,6 @@
             "deck_id": "548655",
             "rank": "1",
             "player": "Olivier Labelle",
-            "winrate": 1.0,
             "commander": [
                 "Marath, Will of the Wild"
             ],
@@ -118,7 +117,6 @@
             "deck_id": "548656",
             "rank": "2",
             "player": "Roch-antoine Lachaîne",
-            "winrate": 0.8,
             "commander": [
                 "Sai, Master Thopterist"
             ],
@@ -209,7 +207,6 @@
             "deck_id": "548657",
             "rank": "3-4",
             "player": "Frank Longtin",
-            "winrate": 0.8,
             "commander": [
                 "Kroxa, Titan of Death's Hunger"
             ],
@@ -315,7 +312,6 @@
             "deck_id": "548658",
             "rank": "3-4",
             "player": "Jonathan Page",
-            "winrate": 0.8,
             "commander": [
                 "Samut, Vizier of Naktamun"
             ],

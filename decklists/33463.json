@@ -10,7 +10,6 @@
             "deck_id": "455085",
             "rank": "1",
             "player": "Florian Trotte",
-            "winrate": 1.0,
             "commander": [
                 "Esika, God of the Tree"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "455086",
             "rank": "2",
             "player": "Thomas Plieger",
-            "winrate": 0.8,
             "commander": [
                 "Livio, Oathsworn Sentinel",
                 "Malcolm, Keen-Eyed Navigator"
@@ -222,7 +220,6 @@
             "deck_id": "455087",
             "rank": "3-4",
             "player": "Julien De Lardemelle",
-            "winrate": 0.8,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -332,7 +329,6 @@
             "deck_id": "455088",
             "rank": "3-4",
             "player": "Damien \"eventwin\" Jantzen",
-            "winrate": 0.8,
             "commander": [
                 "Ishai, Ojutai Dragonspeaker",
                 "Tevesh Szat, Doom of Fools"
@@ -442,7 +438,6 @@
             "deck_id": "455089",
             "rank": "5-8",
             "player": "Dhomps Florian",
-            "winrate": 0.8,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -530,7 +525,6 @@
             "deck_id": "455090",
             "rank": "5-8",
             "player": "Luc Coquillot",
-            "winrate": 0.8,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -618,7 +612,6 @@
             "deck_id": "455091",
             "rank": "5-8",
             "player": "Clement Truffaut",
-            "winrate": 0.8,
             "commander": [
                 "Titania, Protector of Argoth"
             ],
@@ -709,7 +702,6 @@
             "deck_id": "455092",
             "rank": "5-8",
             "player": "David Fontraille",
-            "winrate": 0.8,
             "commander": [
                 "Niv-Mizzet Reborn"
             ],

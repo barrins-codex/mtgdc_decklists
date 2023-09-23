@@ -10,7 +10,6 @@
             "deck_id": "448676",
             "rank": "1",
             "player": "Victor Burghi",
-            "winrate": 1.0,
             "commander": [
                 "Grazilaxx, Illithid Scholar"
             ],
@@ -92,7 +91,6 @@
             "deck_id": "448677",
             "rank": "2",
             "player": "Leonardo Maeda",
-            "winrate": 0.8,
             "commander": [
                 "Minsc, Beloved Ranger"
             ],
@@ -200,7 +198,6 @@
             "deck_id": "448678",
             "rank": "3-4",
             "player": "Lucas \"ppm\" Portela",
-            "winrate": 0.8,
             "commander": [
                 "Klothys, God of Destiny"
             ],
@@ -301,7 +298,6 @@
             "deck_id": "448679",
             "rank": "3-4",
             "player": "Rafael Ozores",
-            "winrate": 0.8,
             "commander": [
                 "Miara, Thorn of the Glade",
                 "Tevesh Szat, Doom of Fools"
@@ -382,7 +378,6 @@
             "deck_id": "448680",
             "rank": "5-8",
             "player": "Arthur Vitor",
-            "winrate": 0.6,
             "commander": [
                 "Winota, Joiner of Forces"
             ],
@@ -481,7 +476,6 @@
             "deck_id": "448681",
             "rank": "5-8",
             "player": "Felipe Batista",
-            "winrate": 0.6,
             "commander": [
                 "Miara, Thorn of the Glade",
                 "Tevesh Szat, Doom of Fools"
@@ -562,7 +556,6 @@
             "deck_id": "448682",
             "rank": "5-8",
             "player": "Arthur Dutra",
-            "winrate": 0.6,
             "commander": [
                 "Lavinia, Azorius Renegade"
             ],
@@ -653,7 +646,6 @@
             "deck_id": "448683",
             "rank": "5-8",
             "player": "Maciel Souza",
-            "winrate": 0.6,
             "commander": [
                 "Kroxa, Titan of Death's Hunger"
             ],

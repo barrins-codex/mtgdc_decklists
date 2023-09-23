@@ -10,7 +10,6 @@
             "deck_id": "455707",
             "rank": "1",
             "player": "Shandra Saï",
-            "winrate": 1.0,
             "commander": [
                 "Sythis, Harvest's Hand"
             ],
@@ -116,7 +115,6 @@
             "deck_id": "455708",
             "rank": "2",
             "player": "Julien Boulet",
-            "winrate": 0.8,
             "commander": [
                 "Yorion, Sky Nomad"
             ],
@@ -212,7 +210,6 @@
             "deck_id": "455709",
             "rank": "3-4",
             "player": "Théo Couppey",
-            "winrate": 0.6,
             "commander": [
                 "Adeliz, the Cinder Wind"
             ],
@@ -312,7 +309,6 @@
             "deck_id": "455710",
             "rank": "3-4",
             "player": "Guillaume D'angelo",
-            "winrate": 0.6,
             "commander": [
                 "Esika, God of the Tree"
             ],

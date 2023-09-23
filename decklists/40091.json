@@ -10,7 +10,6 @@
             "deck_id": "498489",
             "rank": "1",
             "player": "Nicolas \"thorgal666\" François",
-            "winrate": 0.8888888888888888,
             "commander": [
                 "Dragonlord Ojutai"
             ],
@@ -111,7 +110,6 @@
             "deck_id": "498490",
             "rank": "2",
             "player": "Fulbert \"zorgia\" Cyril",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Animar, Soul of Elements"
             ],
@@ -218,7 +216,6 @@
             "deck_id": "498491",
             "rank": "3-4",
             "player": "Petit-noé \"lou\" Louise",
-            "winrate": 0.75,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -306,7 +303,6 @@
             "deck_id": "498492",
             "rank": "3-4",
             "player": "Cedric Baillergeau",
-            "winrate": 0.75,
             "commander": [
                 "Dihada, Binder of Wills"
             ],
@@ -416,7 +412,6 @@
             "deck_id": "498493",
             "rank": "5-8",
             "player": "Matthieu Leclerc",
-            "winrate": 0.75,
             "commander": [
                 "Niv-Mizzet Reborn"
             ],
@@ -526,7 +521,6 @@
             "deck_id": "498494",
             "rank": "5-8",
             "player": "Julien Cayuela",
-            "winrate": 0.75,
             "commander": [
                 "Emmara, Soul of the Accord"
             ],
@@ -629,7 +623,6 @@
             "deck_id": "498495",
             "rank": "5-8",
             "player": "Pierre Henri Nicolas",
-            "winrate": 0.75,
             "commander": [
                 "Light-Paws, Emperor's Voice"
             ],
@@ -707,7 +700,6 @@
             "deck_id": "498496",
             "rank": "5-8",
             "player": "Nurbey \"agrian\" Cerkezoglu",
-            "winrate": 0.75,
             "commander": [
                 "Ertai Resurrected"
             ],

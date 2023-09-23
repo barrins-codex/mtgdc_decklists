@@ -10,7 +10,6 @@
             "deck_id": "518513",
             "rank": "1",
             "player": "Jérémy Poujade",
-            "winrate": 1.0,
             "commander": [
                 "Dihada, Binder of Wills"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "518514",
             "rank": "2",
             "player": "Mathias Reymond",
-            "winrate": 0.8,
             "commander": [
                 "Sheoldred, the Apocalypse"
             ],
@@ -211,7 +209,6 @@
             "deck_id": "518515",
             "rank": "3",
             "player": "Moondust",
-            "winrate": 0.8,
             "commander": [
                 "Hogaak, Arisen Necropolis"
             ],
@@ -321,7 +318,6 @@
             "deck_id": "518516",
             "rank": "4",
             "player": "Akin Gülfidan",
-            "winrate": 0.8,
             "commander": [
                 "Balmor, Battlemage Captain"
             ],
@@ -416,7 +412,6 @@
             "deck_id": "518517",
             "rank": "5-8",
             "player": "Théau Michaud",
-            "winrate": 0.8,
             "commander": [
                 "Sai, Master Thopterist"
             ],
@@ -500,7 +495,6 @@
             "deck_id": "518518",
             "rank": "5-8",
             "player": "Romain Cozic",
-            "winrate": 0.8,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -610,7 +604,6 @@
             "deck_id": "518519",
             "rank": "5-8",
             "player": "Nicolas Righi",
-            "winrate": 0.8,
             "commander": [
                 "Karlov of the Ghost Council",
                 "Lurrus of the Dream-Den"
@@ -716,7 +709,6 @@
             "deck_id": "518520",
             "rank": "5-8",
             "player": "Raphaël Préau",
-            "winrate": 0.8,
             "commander": [
                 "Ertai Resurrected"
             ],

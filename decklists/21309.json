@@ -10,7 +10,6 @@
             "deck_id": "342587",
             "rank": "2",
             "player": "Alexander Schmoll",
-            "winrate": 0.8,
             "commander": [
                 "Karlov of the Ghost Council"
             ],
@@ -113,7 +112,6 @@
             "deck_id": "342588",
             "rank": "1",
             "player": "Richard Müller",
-            "winrate": 1.0,
             "commander": [
                 "Dragonlord Ojutai"
             ],

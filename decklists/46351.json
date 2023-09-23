@@ -10,7 +10,6 @@
             "deck_id": "542549",
             "rank": "1",
             "player": "Dennis Neerup",
-            "winrate": 1.0,
             "commander": [
                 "Atraxa, Grand Unifier"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "542550",
             "rank": "2",
             "player": "Asbjørn Jensen",
-            "winrate": 0.8,
             "commander": [
                 "Rocco, Cabaretti Caterer"
             ],
@@ -224,7 +222,6 @@
             "deck_id": "542551",
             "rank": "3-4",
             "player": "Jasper R. Nielsen",
-            "winrate": 0.6,
             "commander": [
                 "Aragorn, King of Gondor"
             ],
@@ -330,7 +327,6 @@
             "deck_id": "542552",
             "rank": "3-4",
             "player": "Michael Larsen",
-            "winrate": 0.6,
             "commander": [
                 "Grist, the Hunger Tide"
             ],
@@ -428,7 +424,6 @@
             "deck_id": "542553",
             "rank": "5",
             "player": "Jeppe Risager",
-            "winrate": 0.6,
             "commander": [
                 "Jegantha, the Wellspring",
                 "Sisay, Weatherlight Captain"
@@ -538,7 +533,6 @@
             "deck_id": "542554",
             "rank": "6",
             "player": "Daniel Lind",
-            "winrate": 0.6,
             "commander": [
                 "Tana, the Bloodsower",
                 "Yoshimaru, Ever Faithful"
@@ -647,7 +641,6 @@
             "deck_id": "542555",
             "rank": "7",
             "player": "Jonatan Høhne",
-            "winrate": 0.4,
             "commander": [
                 "Klothys, God of Destiny"
             ],
@@ -747,7 +740,6 @@
             "deck_id": "542556",
             "rank": "8",
             "player": "Simon Hünermund",
-            "winrate": 0.4,
             "commander": [
                 "Kess, Dissident Mage"
             ],

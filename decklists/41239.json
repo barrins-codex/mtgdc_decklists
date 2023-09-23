@@ -10,7 +10,6 @@
             "deck_id": "506444",
             "rank": "1",
             "player": "Ruan Rangel",
-            "winrate": 1.0,
             "commander": [
                 "Elminster"
             ],
@@ -97,7 +96,6 @@
             "deck_id": "506445",
             "rank": "2",
             "player": "Ismael Lessa",
-            "winrate": 0.8,
             "commander": [
                 "Ertai Resurrected"
             ],
@@ -195,7 +193,6 @@
             "deck_id": "506446",
             "rank": "3-4",
             "player": "Guilherme Muniz",
-            "winrate": 0.8,
             "commander": [
                 "Feldon, Ronom Excavator"
             ],
@@ -277,7 +274,6 @@
             "deck_id": "506447",
             "rank": "3-4",
             "player": "Paulo Victor",
-            "winrate": 0.8,
             "commander": [
                 "Purphoros, God of the Forge"
             ],

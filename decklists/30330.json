@@ -10,7 +10,6 @@
             "deck_id": "437108",
             "rank": "1",
             "player": "_h_",
-            "winrate": 0.875,
             "commander": [
                 "Hogaak, Arisen Necropolis"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "437109",
             "rank": "2",
             "player": "Alexandre \"onesauk\" Benac",
-            "winrate": 0.75,
             "commander": [
                 "Saskia the Unyielding"
             ],
@@ -230,7 +228,6 @@
             "deck_id": "437110",
             "rank": "3",
             "player": "Oelebelle94",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -340,7 +337,6 @@
             "deck_id": "437111",
             "rank": "4",
             "player": "Antoine Vieilledent",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Golos, Tireless Pilgrim"
             ],
@@ -450,7 +446,6 @@
             "deck_id": "437112",
             "rank": "5",
             "player": "Skwyrrel",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Lurrus of the Dream-Den",
                 "Killian, Ink Duelist"
@@ -552,7 +547,6 @@
             "deck_id": "437113",
             "rank": "6",
             "player": "Som40",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Leovold, Emissary of Trest"
             ],
@@ -662,7 +656,6 @@
             "deck_id": "437114",
             "rank": "7",
             "player": "Baptiste Berbille",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Atraxa, Praetors' Voice"
             ],
@@ -772,7 +765,6 @@
             "deck_id": "437115",
             "rank": "8",
             "player": "Finch",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Gallia of the Endless Dance"
             ],

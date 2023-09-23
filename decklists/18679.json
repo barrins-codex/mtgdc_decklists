@@ -10,7 +10,6 @@
             "deck_id": "316535",
             "rank": "2",
             "player": "Matthieu Habersetzer",
-            "winrate": 0.8,
             "commander": [
                 "Zurgo Bellstriker"
             ],
@@ -88,7 +87,6 @@
             "deck_id": "316536",
             "rank": "5-8",
             "player": "Mickael \"sigarde\" Leglise",
-            "winrate": 0.6,
             "commander": [
                 "Arahbo, Roar of the World"
             ],
@@ -184,7 +182,6 @@
             "deck_id": "316537",
             "rank": "5-8",
             "player": "Simon Le Griffon",
-            "winrate": 0.6,
             "commander": [
                 "Baral, Chief of Compliance"
             ],
@@ -257,7 +254,6 @@
             "deck_id": "316538",
             "rank": "3-4",
             "player": "Florent Dubrana",
-            "winrate": 0.8,
             "commander": [
                 "Queen Marchesa"
             ],
@@ -362,7 +358,6 @@
             "deck_id": "316539",
             "rank": "3-4",
             "player": "Jean Thomas Delsaux",
-            "winrate": 0.8,
             "commander": [
                 "Queen Marchesa"
             ],
@@ -472,7 +467,6 @@
             "deck_id": "316540",
             "rank": "5-8",
             "player": "Christopher Bondon",
-            "winrate": 0.6,
             "commander": [
                 "Saskia the Unyielding"
             ],
@@ -582,7 +576,6 @@
             "deck_id": "316541",
             "rank": "5-8",
             "player": "David Boyer",
-            "winrate": 0.6,
             "commander": [
                 "Titania, Protector of Argoth"
             ],
@@ -674,7 +667,6 @@
             "deck_id": "316542",
             "rank": "1",
             "player": "Romain Sacaze",
-            "winrate": 1.0,
             "commander": [
                 "Narset, Enlightened Master"
             ],

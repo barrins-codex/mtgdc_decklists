@@ -10,7 +10,6 @@
             "deck_id": "514832",
             "rank": "1",
             "player": "Luc Savi",
-            "winrate": 1.0,
             "commander": [
                 "Dihada, Binder of Wills"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "514833",
             "rank": "2",
             "player": "François Delboe",
-            "winrate": 0.8,
             "commander": [
                 "Saskia the Unyielding"
             ],
@@ -229,7 +227,6 @@
             "deck_id": "514834",
             "rank": "3-4",
             "player": "Lucas Aguilar",
-            "winrate": 0.6,
             "commander": [
                 "Ghyrson Starn, Kelermorph"
             ],
@@ -330,7 +327,6 @@
             "deck_id": "514835",
             "rank": "3-4",
             "player": "Pierre Savignac",
-            "winrate": 0.6,
             "commander": [
                 "Dihada, Binder of Wills"
             ],

@@ -10,7 +10,6 @@
             "deck_id": "467468",
             "rank": "1",
             "player": "Pierre Almaraz",
-            "winrate": 1.0,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -90,7 +89,6 @@
             "deck_id": "467469",
             "rank": "1",
             "player": "Axel Marti",
-            "winrate": 1.0,
             "commander": [
                 "The Reality Chip"
             ],
@@ -183,7 +181,6 @@
             "deck_id": "467470",
             "rank": "3-4",
             "player": "Jérémy Morel",
-            "winrate": 0.8,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -270,7 +267,6 @@
             "deck_id": "467471",
             "rank": "3-4",
             "player": "Francis Figue",
-            "winrate": 0.8,
             "commander": [
                 "Meren of Clan Nel Toth"
             ],

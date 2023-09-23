@@ -10,7 +10,6 @@
             "deck_id": "291054",
             "rank": "3-4",
             "player": "Vitor Sznifer",
-            "winrate": 0.6,
             "commander": [
                 "Selvala, Heart of the Wilds"
             ],
@@ -96,7 +95,6 @@
             "deck_id": "291055",
             "rank": "3-4",
             "player": "Generindo Freire",
-            "winrate": 0.6,
             "commander": [
                 "Queen Marchesa"
             ],
@@ -204,7 +202,6 @@
             "deck_id": "291057",
             "rank": "2",
             "player": "Kim Sarkovas",
-            "winrate": 0.8,
             "commander": [
                 "Saskia the Unyielding"
             ],
@@ -314,7 +311,6 @@
             "deck_id": "291058",
             "rank": "1",
             "player": "Brunno Portela",
-            "winrate": 1.0,
             "commander": [
                 "Narset, Enlightened Master"
             ],

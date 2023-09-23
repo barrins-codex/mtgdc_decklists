@@ -10,7 +10,6 @@
             "deck_id": "457246",
             "rank": "1",
             "player": "Anthoy Ruer",
-            "winrate": 1.0,
             "commander": [
                 "Tevesh Szat, Doom of Fools",
                 "Miara, Thorn of the Glade"
@@ -95,7 +94,6 @@
             "deck_id": "457247",
             "rank": "2",
             "player": "Jean Gouzy",
-            "winrate": 0.8,
             "commander": [
                 "Livio, Oathsworn Sentinel",
                 "Malcolm, Keen-Eyed Navigator"
@@ -195,7 +193,6 @@
             "deck_id": "457248",
             "rank": "3-4",
             "player": "Julien Joie",
-            "winrate": 0.8,
             "commander": [
                 "Kess, Dissident Mage"
             ],
@@ -305,7 +302,6 @@
             "deck_id": "457249",
             "rank": "3-4",
             "player": "Damien Garcia",
-            "winrate": 0.8,
             "commander": [
                 "Rowan Kenrith",
                 "Will Kenrith"
@@ -396,7 +392,6 @@
             "deck_id": "457250",
             "rank": "5-8",
             "player": "Alexandre Casagrande",
-            "winrate": 0.6,
             "commander": [
                 "Venser, Shaper Savant"
             ],
@@ -476,7 +471,6 @@
             "deck_id": "457251",
             "rank": "5-8",
             "player": "Pierre Bossoutrot",
-            "winrate": 0.6,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -586,7 +580,6 @@
             "deck_id": "457252",
             "rank": "5-8",
             "player": "Loic Dougnac",
-            "winrate": 0.6,
             "commander": [
                 "Kinnan, Bonder Prodigy"
             ],
@@ -692,7 +685,6 @@
             "deck_id": "457253",
             "rank": "5-8",
             "player": "Laurent Gadchaux",
-            "winrate": 0.6,
             "commander": [
                 "Golos, Tireless Pilgrim"
             ],

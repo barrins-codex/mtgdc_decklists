@@ -10,7 +10,6 @@
             "deck_id": "447881",
             "rank": "1",
             "player": "Zhou Rui",
-            "winrate": 1.0,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -118,7 +117,6 @@
             "deck_id": "447882",
             "rank": "2",
             "player": "Wang Renke",
-            "winrate": 0.8,
             "commander": [
                 "Azusa, Lost but Seeking"
             ],
@@ -214,7 +212,6 @@
             "deck_id": "447883",
             "rank": "3",
             "player": "Yao Yao",
-            "winrate": 0.6,
             "commander": [
                 "Yorion, Sky Nomad"
             ],

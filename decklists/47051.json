@@ -10,7 +10,6 @@
             "deck_id": "547747",
             "rank": "1",
             "player": "Benjamin David",
-            "winrate": 1.0,
             "commander": [
                 "Aragorn, King of Gondor"
             ],
@@ -115,7 +114,6 @@
             "deck_id": "547748",
             "rank": "2",
             "player": "Ej Farcon",
-            "winrate": 0.8,
             "commander": [
                 "Feldon, Ronom Excavator"
             ],
@@ -200,7 +198,6 @@
             "deck_id": "547749",
             "rank": "3",
             "player": "Van Acordon",
-            "winrate": 0.8,
             "commander": [
                 "Aragorn, King of Gondor"
             ],
@@ -308,7 +305,6 @@
             "deck_id": "547750",
             "rank": "4",
             "player": "Earl Caymo",
-            "winrate": 0.6,
             "commander": [
                 "Kess, Dissident Mage"
             ],

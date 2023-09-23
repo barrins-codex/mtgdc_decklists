@@ -10,7 +10,6 @@
             "deck_id": "451361",
             "rank": "1",
             "player": "Aurélien Lion",
-            "winrate": 1.0,
             "commander": [
                 "Silas Renn, Seeker Adept",
                 "Dargo, the Shipwrecker"
@@ -120,7 +119,6 @@
             "deck_id": "451362",
             "rank": "2",
             "player": "Lassa Yvonnet",
-            "winrate": 0.8,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -205,7 +203,6 @@
             "deck_id": "451363",
             "rank": "3",
             "player": "Mathieu Laurent",
-            "winrate": 0.8,
             "commander": [
                 "Slogurk, the Overslime"
             ],

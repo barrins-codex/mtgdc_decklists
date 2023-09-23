@@ -10,7 +10,6 @@
             "deck_id": "473040",
             "rank": "2",
             "player": "Pierre Almaraz",
-            "winrate": 0.8,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -90,7 +89,6 @@
             "deck_id": "473041",
             "rank": "2",
             "player": "Edouard Lecocq",
-            "winrate": 0.8,
             "commander": [
                 "Shorikai, Genesis Engine"
             ],
@@ -187,7 +185,6 @@
             "deck_id": "473042",
             "rank": "3-4",
             "player": "Iordan Derhi",
-            "winrate": 0.6,
             "commander": [
                 "Isamaru, Hound of Konda"
             ],

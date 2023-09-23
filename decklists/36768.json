@@ -10,7 +10,6 @@
             "deck_id": "476432",
             "rank": "1",
             "player": "Xing Galaxy",
-            "winrate": 1.0,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "476433",
             "rank": "2",
             "player": "Wang Jinlin",
-            "winrate": 0.8,
             "commander": [
                 "Azusa, Lost but Seeking"
             ],
@@ -224,7 +222,6 @@
             "deck_id": "476434",
             "rank": "3",
             "player": "Qin Zihao",
-            "winrate": 0.6,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],

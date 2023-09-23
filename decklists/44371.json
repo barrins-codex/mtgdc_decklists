@@ -10,7 +10,6 @@
             "deck_id": "527292",
             "rank": "1",
             "player": "Elyas Saint-just",
-            "winrate": 0.8888888888888888,
             "commander": [
                 "Feldon, Ronom Excavator"
             ],
@@ -88,7 +87,6 @@
             "deck_id": "527293",
             "rank": "3-4",
             "player": "Julien Poiraud",
-            "winrate": 0.75,
             "commander": [
                 "Dihada, Binder of Wills"
             ],
@@ -198,7 +196,6 @@
             "deck_id": "527294",
             "rank": "3-4",
             "player": "Matthieu Habersetzer",
-            "winrate": 0.75,
             "commander": [
                 "The Beamtown Bullies"
             ],
@@ -307,7 +304,6 @@
             "deck_id": "527295",
             "rank": "5-8",
             "player": "Maxime Le Couric",
-            "winrate": 0.75,
             "commander": [
                 "Prossh, Skyraider of Kher"
             ],
@@ -417,7 +413,6 @@
             "deck_id": "527296",
             "rank": "5-8",
             "player": "Jonathan Valentin \"big\"",
-            "winrate": 0.75,
             "commander": [
                 "Saskia the Unyielding"
             ],
@@ -527,7 +522,6 @@
             "deck_id": "527297",
             "rank": "5-8",
             "player": "Cédric Roy",
-            "winrate": 0.75,
             "commander": [
                 "Dihada, Binder of Wills"
             ],
@@ -637,7 +631,6 @@
             "deck_id": "527298",
             "rank": "5-8",
             "player": "Thibaut Bredzinski",
-            "winrate": 0.75,
             "commander": [
                 "Bruse Tarl, Boorish Herder",
                 "Yoshimaru, Ever Faithful"

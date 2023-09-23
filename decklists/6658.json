@@ -10,7 +10,6 @@
             "deck_id": "238278",
             "rank": "1",
             "player": "Julien \"Lyserg\" Henry",
-            "winrate": 0.9,
             "commander": [
                 "Marath, Will of the Wild"
             ],
@@ -119,7 +118,6 @@
             "deck_id": "238279",
             "rank": "3-4",
             "player": "Étienne \"thecampeur\" Lourdin",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Oloro, Ageless Ascetic"
             ],
@@ -228,7 +226,6 @@
             "deck_id": "238280",
             "rank": "3-4",
             "player": "Wilfredo Salazar",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Geist of Saint Traft"
             ],
@@ -323,7 +320,6 @@
             "deck_id": "238281",
             "rank": "1",
             "player": "\"Moondust\"",
-            "winrate": 0.9,
             "commander": [
                 "Iname, Death Aspect"
             ],
@@ -410,7 +406,6 @@
             "deck_id": "238282",
             "rank": "5-8",
             "player": "Yohan Blanchard",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Ezuri, Renegade Leader"
             ],
@@ -499,7 +494,6 @@
             "deck_id": "238283",
             "rank": "5-8",
             "player": "\"Moncana\"",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Griselbrand"
             ],
@@ -579,7 +573,6 @@
             "deck_id": "238284",
             "rank": "5-8",
             "player": "Romain Sacaze",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Marath, Will of the Wild"
             ],
@@ -688,7 +681,6 @@
             "deck_id": "238285",
             "rank": "5-8",
             "player": "Nicolas Cabrit",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Prime Speaker Zegana"
             ],

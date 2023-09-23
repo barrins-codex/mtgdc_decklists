@@ -10,7 +10,6 @@
             "deck_id": "543759",
             "rank": "1",
             "player": "Benj David",
-            "winrate": 1.0,
             "commander": [
                 "Tivit, Seller of Secrets"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "543760",
             "rank": "2",
             "player": "Ej Farcon",
-            "winrate": 0.8,
             "commander": [
                 "Feldon, Ronom Excavator"
             ],
@@ -208,7 +206,6 @@
             "deck_id": "543761",
             "rank": "3",
             "player": "Franklin Aguba",
-            "winrate": 0.6,
             "commander": [
                 "Wernog, Rider's Chaplain",
                 "Cecily, Haunted Mage"
@@ -318,7 +315,6 @@
             "deck_id": "543762",
             "rank": "4",
             "player": "Raphael Barte",
-            "winrate": 0.6,
             "commander": [
                 "Feldon, Ronom Excavator"
             ],

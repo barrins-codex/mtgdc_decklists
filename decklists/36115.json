@@ -10,7 +10,6 @@
             "deck_id": "471930",
             "rank": "1",
             "player": "Cleber Moreira",
-            "winrate": 1.0,
             "commander": [
                 "Grist, the Hunger Tide"
             ],
@@ -112,7 +111,6 @@
             "deck_id": "471931",
             "rank": "2",
             "player": "Joel Telechi Melo",
-            "winrate": 0.8,
             "commander": [
                 "Isamaru, Hound of Konda"
             ],
@@ -204,7 +202,6 @@
             "deck_id": "471932",
             "rank": "3",
             "player": "Flávio Foster",
-            "winrate": 0.6,
             "commander": [
                 "Shorikai, Genesis Engine"
             ],
@@ -304,7 +301,6 @@
             "deck_id": "471933",
             "rank": "4",
             "player": "Matheus Thurow",
-            "winrate": 0.6,
             "commander": [
                 "The Gitrog Monster"
             ],

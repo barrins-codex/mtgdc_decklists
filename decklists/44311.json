@@ -10,7 +10,6 @@
             "deck_id": "526934",
             "rank": "1",
             "player": "Matronche",
-            "winrate": 0.8888888888888888,
             "commander": [
                 "Hogaak, Arisen Necropolis"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "526935",
             "rank": "2",
             "player": "Léo G (lyoren)",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Greasefang, Okiba Boss"
             ],
@@ -222,7 +220,6 @@
             "deck_id": "526936",
             "rank": "3-4",
             "player": "Thomas Le Goff",
-            "winrate": 0.75,
             "commander": [
                 "Dihada, Binder of Wills"
             ],
@@ -332,7 +329,6 @@
             "deck_id": "526937",
             "rank": "5-8",
             "player": "Whitesev",
-            "winrate": 0.75,
             "commander": [
                 "Bruse Tarl, Boorish Herder",
                 "Yoshimaru, Ever Faithful"
@@ -435,7 +431,6 @@
             "deck_id": "526938",
             "rank": "5-8",
             "player": "Black Monster",
-            "winrate": 0.75,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -545,7 +540,6 @@
             "deck_id": "526939",
             "rank": "5-8",
             "player": "Rhaegar",
-            "winrate": 0.75,
             "commander": [
                 "Wernog, Rider's Chaplain",
                 "Cecily, Haunted Mage"
@@ -655,7 +649,6 @@
             "deck_id": "526940",
             "rank": "5-8",
             "player": "David « Bazaar Of Koji » Phelippeau",
-            "winrate": 0.75,
             "commander": [
                 "Dennick, Pious Apprentice"
             ],

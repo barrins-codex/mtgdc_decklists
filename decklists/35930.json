@@ -10,7 +10,6 @@
             "deck_id": "470771",
             "rank": "1",
             "player": "Rexel Tenorio",
-            "winrate": 1.0,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "470772",
             "rank": "2",
             "player": "Ste Villaraza",
-            "winrate": 0.8,
             "commander": [
                 "Shorikai, Genesis Engine"
             ],
@@ -221,7 +219,6 @@
             "deck_id": "470773",
             "rank": "3",
             "player": "Dinno Zaide",
-            "winrate": 0.8,
             "commander": [
                 "Ludevic, Necro-Alchemist",
                 "Jeska, Thrice Reborn"
@@ -320,7 +317,6 @@
             "deck_id": "470774",
             "rank": "4",
             "player": "Mark Toh",
-            "winrate": 0.8,
             "commander": [
                 "Grist, the Hunger Tide"
             ],

@@ -10,7 +10,6 @@
             "deck_id": "309799",
             "rank": "5",
             "player": "Audwin Abellera",
-            "winrate": 0.6,
             "commander": [
                 "Zurgo Bellstriker"
             ],
@@ -88,7 +87,6 @@
             "deck_id": "309800",
             "rank": "1",
             "player": "Jp Pascua",
-            "winrate": 1.0,
             "commander": [
                 "Prossh, Skyraider of Kher"
             ],
@@ -197,7 +195,6 @@
             "deck_id": "309801",
             "rank": "2",
             "player": "Weisser Coilan",
-            "winrate": 0.8,
             "commander": [
                 "Selvala, Heart of the Wilds"
             ],
@@ -291,7 +288,6 @@
             "deck_id": "309802",
             "rank": "3",
             "player": "Raph Unson",
-            "winrate": 0.8,
             "commander": [
                 "Arahbo, Roar of the World"
             ],
@@ -387,7 +383,6 @@
             "deck_id": "309803",
             "rank": "4",
             "player": "Clavio, Jean-paul",
-            "winrate": 0.8,
             "commander": [
                 "Titania, Protector of Argoth"
             ],
@@ -479,7 +474,6 @@
             "deck_id": "309804",
             "rank": "6",
             "player": "Lem Galpo",
-            "winrate": 0.6,
             "commander": [
                 "Zurgo Bellstriker"
             ],
@@ -559,7 +553,6 @@
             "deck_id": "309805",
             "rank": "7",
             "player": "Anthony Alviar",
-            "winrate": 0.6,
             "commander": [
                 "Queen Marchesa"
             ],
@@ -669,7 +662,6 @@
             "deck_id": "309806",
             "rank": "8",
             "player": "Ronel Lajara",
-            "winrate": 0.6,
             "commander": [
                 "Kess, Dissident Mage"
             ],

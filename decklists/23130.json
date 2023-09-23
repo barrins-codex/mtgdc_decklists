@@ -10,7 +10,6 @@
             "deck_id": "358926",
             "rank": "1",
             "player": "Luc Sierra",
-            "winrate": 0.875,
             "commander": [
                 "Daretti, Scrap Savant"
             ],
@@ -99,7 +98,6 @@
             "deck_id": "358927",
             "rank": "2",
             "player": "Pierre Clavieras-Mengin",
-            "winrate": 0.75,
             "commander": [
                 "Tymna the Weaver",
                 "Thrasios, Triton Hero"
@@ -209,7 +207,6 @@
             "deck_id": "358928",
             "rank": "3-4",
             "player": "François Maynadier",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Tymna the Weaver",
                 "Thrasios, Triton Hero"
@@ -319,7 +316,6 @@
             "deck_id": "358929",
             "rank": "3-4",
             "player": "Antoine Vieilledent",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Kess, Dissident Mage"
             ],
@@ -429,7 +425,6 @@
             "deck_id": "358930",
             "rank": "5-8",
             "player": "Pierre-Jean Eychenne",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -509,7 +504,6 @@
             "deck_id": "358931",
             "rank": "5-8",
             "player": "Quentin Levard",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Kraum, Ludevic's Opus",
                 "Tymna the Weaver"
@@ -619,7 +613,6 @@
             "deck_id": "358932",
             "rank": "5-8",
             "player": "Alban Paccianus",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "The Gitrog Monster"
             ],
@@ -717,7 +710,6 @@
             "deck_id": "358933",
             "rank": "5-8",
             "player": "Aymeric Verniolle",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Grenzo, Havoc Raiser"
             ],

@@ -10,7 +10,6 @@
             "deck_id": "357534",
             "rank": "5-8",
             "player": "Rusty Jade Capricho",
-            "winrate": 0.625,
             "commander": [
                 "The Gitrog Monster"
             ],
@@ -108,7 +107,6 @@
             "deck_id": "357535",
             "rank": "5-8",
             "player": "Lawrence Samaniego",
-            "winrate": 0.625,
             "commander": [
                 "Tajic, Legion's Edge"
             ],
@@ -208,7 +206,6 @@
             "deck_id": "357536",
             "rank": "5-8",
             "player": "Luis Lorenzo",
-            "winrate": 0.625,
             "commander": [
                 "Kess, Dissident Mage"
             ],
@@ -318,7 +315,6 @@
             "deck_id": "357537",
             "rank": "2",
             "player": "Don Angelo Moreno",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -395,7 +391,6 @@
             "deck_id": "357538",
             "rank": "3-4",
             "player": "Francis Tabangura",
-            "winrate": 0.625,
             "commander": [
                 "Titania, Protector of Argoth"
             ],
@@ -490,7 +485,6 @@
             "deck_id": "357539",
             "rank": "3-4",
             "player": "Glenn Marc Alesna",
-            "winrate": 0.625,
             "commander": [
                 "Arahbo, Roar of the World"
             ],
@@ -591,7 +585,6 @@
             "deck_id": "357540",
             "rank": "5-8",
             "player": "Ben Co",
-            "winrate": 0.625,
             "commander": [
                 "Teferi, Temporal Archmage"
             ],
@@ -664,7 +657,6 @@
             "deck_id": "357541",
             "rank": "1",
             "player": "Chris Sta. Maria",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Karlov of the Ghost Council"
             ],

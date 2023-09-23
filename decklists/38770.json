@@ -10,7 +10,6 @@
             "deck_id": "489339",
             "rank": "1",
             "player": "Man Lok Wong",
-            "winrate": 1.0,
             "commander": [
                 "Balmor, Battlemage Captain"
             ],
@@ -112,7 +111,6 @@
             "deck_id": "489340",
             "rank": "2",
             "player": "Armando Lo",
-            "winrate": 0.8,
             "commander": [
                 "Bruse Tarl, Boorish Herder",
                 "Yoshimaru, Ever Faithful"

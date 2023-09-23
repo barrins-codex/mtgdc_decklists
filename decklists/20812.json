@@ -10,7 +10,6 @@
             "deck_id": "337620",
             "rank": "3-4",
             "player": "Uvarov Vadim",
-            "winrate": 0.8,
             "commander": [
                 "Baral, Chief of Compliance"
             ],
@@ -83,7 +82,6 @@
             "deck_id": "337621",
             "rank": "3-4",
             "player": "Apletalin Max",
-            "winrate": 0.8,
             "commander": [
                 "Thrasios, Triton Hero",
                 "Tymna the Weaver"
@@ -191,7 +189,6 @@
             "deck_id": "337622",
             "rank": "2",
             "player": "Serputko Vyacheslav",
-            "winrate": 0.8,
             "commander": [
                 "Selvala, Explorer Returned"
             ],
@@ -284,7 +281,6 @@
             "deck_id": "337623",
             "rank": "1",
             "player": "Vasiliev Vitaly",
-            "winrate": 1.0,
             "commander": [
                 "The Gitrog Monster"
             ],

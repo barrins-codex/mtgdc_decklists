@@ -10,7 +10,6 @@
             "deck_id": "344141",
             "rank": "5-8",
             "player": "Danziir",
-            "winrate": 0.6,
             "commander": [
                 "Lord Windgrace"
             ],
@@ -113,7 +112,6 @@
             "deck_id": "344142",
             "rank": "5-8",
             "player": "Voodooj",
-            "winrate": 0.6,
             "commander": [
                 "Karlov of the Ghost Council"
             ],
@@ -215,7 +213,6 @@
             "deck_id": "344143",
             "rank": "5-8",
             "player": "Samaeldc",
-            "winrate": 0.6,
             "commander": [
                 "Vendilion Clique"
             ],
@@ -293,7 +290,6 @@
             "deck_id": "344144",
             "rank": "5-8",
             "player": "Hellonewton",
-            "winrate": 0.6,
             "commander": [
                 "Grenzo, Dungeon Warden"
             ],
@@ -391,7 +387,6 @@
             "deck_id": "344145",
             "rank": "4",
             "player": "Elenfant",
-            "winrate": 0.6,
             "commander": [
                 "Ludevic, Necro-Alchemist",
                 "Thrasios, Triton Hero"
@@ -495,7 +490,6 @@
             "deck_id": "344146",
             "rank": "3",
             "player": "Sebastian \"qkey\" Haines",
-            "winrate": 0.8,
             "commander": [
                 "Leovold, Emissary of Trest"
             ],
@@ -605,7 +599,6 @@
             "deck_id": "344147",
             "rank": "2",
             "player": "Denovar",
-            "winrate": 0.8,
             "commander": [
                 "Shalai, Voice of Plenty"
             ],
@@ -704,7 +697,6 @@
             "deck_id": "344148",
             "rank": "1",
             "player": "Martin Vlnas",
-            "winrate": 1.0,
             "commander": [
                 "Najeela, the Blade-Blossom"
             ],

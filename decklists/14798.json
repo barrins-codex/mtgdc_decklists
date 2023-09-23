@@ -10,7 +10,6 @@
             "deck_id": "289108",
             "rank": "5-8",
             "player": "Gui Tavares",
-            "winrate": 0.6,
             "commander": [
                 "Zurgo Bellstriker"
             ],
@@ -89,7 +88,6 @@
             "deck_id": "289109",
             "rank": "5-8",
             "player": "Vitor Sena",
-            "winrate": 0.6,
             "commander": [
                 "Baral, Chief of Compliance"
             ],
@@ -175,7 +173,6 @@
             "deck_id": "289110",
             "rank": "5-8",
             "player": "Rodrigo Grotti",
-            "winrate": 0.6,
             "commander": [
                 "Akiri, Line-Slinger",
                 "Silas Renn, Seeker Adept"
@@ -285,7 +282,6 @@
             "deck_id": "289111",
             "rank": "1",
             "player": "Ricardo Wada",
-            "winrate": 1.0,
             "commander": [
                 "Titania, Protector of Argoth"
             ],
@@ -378,7 +374,6 @@
             "deck_id": "289112",
             "rank": "2",
             "player": "Brunno \"nn\" Portella",
-            "winrate": 0.8,
             "commander": [
                 "Kraum, Ludevic's Opus",
                 "Vial Smasher the Fierce"
@@ -488,7 +483,6 @@
             "deck_id": "289113",
             "rank": "3-4",
             "player": "Kim Sarkovas",
-            "winrate": 0.8,
             "commander": [
                 "Saskia the Unyielding"
             ],
@@ -598,7 +592,6 @@
             "deck_id": "289114",
             "rank": "3-4",
             "player": "Felipe Pellegrini",
-            "winrate": 0.8,
             "commander": [
                 "Silas Renn, Seeker Adept",
                 "Akiri, Line-Slinger"
@@ -708,7 +701,6 @@
             "deck_id": "289115",
             "rank": "5-8",
             "player": "Vitor Sznifer",
-            "winrate": 0.6,
             "commander": [
                 "Selvala, Heart of the Wilds"
             ],

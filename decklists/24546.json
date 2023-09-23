@@ -10,7 +10,6 @@
             "deck_id": "371605",
             "rank": "1",
             "player": "Falko Lange",
-            "winrate": 1.0,
             "commander": [
                 "Kess, Dissident Mage"
             ],
@@ -117,7 +116,6 @@
             "deck_id": "371606",
             "rank": "2",
             "player": "Jonas Kretzschmar",
-            "winrate": 0.8,
             "commander": [
                 "Anje Falkenrath"
             ],

@@ -10,7 +10,6 @@
             "deck_id": "262849",
             "rank": "1",
             "player": "Klemen Pregl",
-            "winrate": 0.875,
             "commander": [
                 "Grand Arbiter Augustin IV"
             ],
@@ -109,7 +108,6 @@
             "deck_id": "262850",
             "rank": "2",
             "player": "Svarun Leskov¹ek",
-            "winrate": 0.75,
             "commander": [
                 "The Mimeoplasm"
             ],
@@ -218,7 +216,6 @@
             "deck_id": "262851",
             "rank": "3-4",
             "player": "Andrej Pohajda",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Jenara, Asura of War"
             ],
@@ -326,7 +323,6 @@
             "deck_id": "262852",
             "rank": "3-4",
             "player": "Tadej Radojèiè",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Griselbrand"
             ],
@@ -413,7 +409,6 @@
             "deck_id": "262853",
             "rank": "5-8",
             "player": "Jure Dervodel",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Tasigur, the Golden Fang"
             ],
@@ -521,7 +516,6 @@
             "deck_id": "262854",
             "rank": "5-8",
             "player": "Filip Klar",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Tasigur, the Golden Fang"
             ],
@@ -629,7 +623,6 @@
             "deck_id": "262855",
             "rank": "5-8",
             "player": "Vito Cofek",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Prossh, Skyraider of Kher"
             ],
@@ -736,7 +729,6 @@
             "deck_id": "262856",
             "rank": "5-8",
             "player": "Áron Horváth",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Grand Arbiter Augustin IV"
             ],

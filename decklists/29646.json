@@ -10,7 +10,6 @@
             "deck_id": "432609",
             "rank": "1",
             "player": "Andy Wong",
-            "winrate": 1.0,
             "commander": [
                 "Niv-Mizzet Reborn"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "432610",
             "rank": "2",
             "player": "Christopher Tong",
-            "winrate": 0.8,
             "commander": [
                 "Kraum, Ludevic's Opus",
                 "Ludevic, Necro-Alchemist"
@@ -219,7 +217,6 @@
             "deck_id": "432611",
             "rank": "3-4",
             "player": "Armando Lo",
-            "winrate": 0.6,
             "commander": [
                 "Keleth, Sunmane Familiar",
                 "Rograkh, Son of Rohgahh"
@@ -326,7 +323,6 @@
             "deck_id": "432612",
             "rank": "3-4",
             "player": "Kwong Pang Lai",
-            "winrate": 0.6,
             "commander": [
                 "Kelsien, the Plague"
             ],

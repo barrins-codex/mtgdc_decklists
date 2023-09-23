@@ -10,7 +10,6 @@
             "deck_id": "411283",
             "rank": "2",
             "player": "Xu Zinan",
-            "winrate": 0.8,
             "commander": [
                 "Winota, Joiner of Forces"
             ],
@@ -106,7 +105,6 @@
             "deck_id": "411284",
             "rank": "1",
             "player": "He Ying",
-            "winrate": 1.0,
             "commander": [
                 "Jegantha, the Wellspring",
                 "Sisay, Weatherlight Captain"

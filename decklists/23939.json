@@ -10,7 +10,6 @@
             "deck_id": "366746",
             "rank": "1",
             "player": "Alexander S",
-            "winrate": 1.0,
             "commander": [
                 "Karlov of the Ghost Council"
             ],
@@ -113,7 +112,6 @@
             "deck_id": "366747",
             "rank": "2",
             "player": "Lukas E",
-            "winrate": 0.8,
             "commander": [
                 "Ravos, Soultender",
                 "Tymna the Weaver"

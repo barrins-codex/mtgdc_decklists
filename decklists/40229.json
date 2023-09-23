@@ -10,7 +10,6 @@
             "deck_id": "499549",
             "rank": "1",
             "player": "Adeline",
-            "winrate": 1.0,
             "commander": [
                 "Balmor, Battlemage Captain"
             ],
@@ -109,7 +108,6 @@
             "deck_id": "499550",
             "rank": "2",
             "player": "Julien Fromenty",
-            "winrate": 0.8,
             "commander": [
                 "Niv-Mizzet Reborn"
             ],
@@ -219,7 +217,6 @@
             "deck_id": "499551",
             "rank": "3-4",
             "player": "Kil Troum",
-            "winrate": 0.6,
             "commander": [
                 "Grist, the Hunger Tide"
             ],
@@ -321,7 +318,6 @@
             "deck_id": "499552",
             "rank": "3-4",
             "player": "Yalo",
-            "winrate": 0.6,
             "commander": [
                 "Raffine, Scheming Seer"
             ],

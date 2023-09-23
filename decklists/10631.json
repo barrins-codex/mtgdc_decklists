@@ -10,7 +10,6 @@
             "deck_id": "260845",
             "rank": "1",
             "player": "Michele Atzeni",
-            "winrate": 1.0,
             "commander": [
                 "Geist of Saint Traft"
             ],
@@ -110,7 +109,6 @@
             "deck_id": "260846",
             "rank": "2",
             "player": "Yari Arena",
-            "winrate": 0.8,
             "commander": [
                 "Ezuri, Renegade Leader"
             ],

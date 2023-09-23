@@ -10,7 +10,6 @@
             "deck_id": "313317",
             "rank": "5-8",
             "player": "Julio Bejarano",
-            "winrate": 0.6,
             "commander": [
                 "Dragonlord Ojutai"
             ],
@@ -110,7 +109,6 @@
             "deck_id": "313318",
             "rank": "3-4",
             "player": "Claudio Naranjo",
-            "winrate": 0.8,
             "commander": [
                 "Zurgo Bellstriker"
             ],
@@ -193,7 +191,6 @@
             "deck_id": "313319",
             "rank": "2",
             "player": "Giovanni Caro",
-            "winrate": 0.8,
             "commander": [
                 "Zurgo Bellstriker"
             ],
@@ -274,7 +271,6 @@
             "deck_id": "313320",
             "rank": "3-4",
             "player": "Davis Cortegana",
-            "winrate": 0.8,
             "commander": [
                 "Narset, Enlightened Master"
             ],
@@ -378,7 +374,6 @@
             "deck_id": "313321",
             "rank": "1",
             "player": "Jorge Chunga",
-            "winrate": 1.0,
             "commander": [
                 "Arahbo, Roar of the World"
             ],
@@ -474,7 +469,6 @@
             "deck_id": "313326",
             "rank": "5-8",
             "player": "Luis Meza",
-            "winrate": 0.6,
             "commander": [
                 "Kess, Dissident Mage"
             ],
@@ -578,7 +572,6 @@
             "deck_id": "313327",
             "rank": "5-8",
             "player": "Paolo Robles",
-            "winrate": 0.6,
             "commander": [
                 "The Gitrog Monster"
             ],
@@ -677,7 +670,6 @@
             "deck_id": "313328",
             "rank": "5-8",
             "player": "Reynaldo Wirllos",
-            "winrate": 0.6,
             "commander": [
                 "Ikra Shidiqi, the Usurper",
                 "Kraum, Ludevic's Opus"

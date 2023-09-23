@@ -10,7 +10,6 @@
             "deck_id": "358009",
             "rank": "1",
             "player": "Maxime Allee",
-            "winrate": 0.8888888888888888,
             "commander": [
                 "Azusa, Lost but Seeking"
             ],
@@ -105,7 +104,6 @@
             "deck_id": "358010",
             "rank": "2",
             "player": "Anthonin Michelet",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Kytheon, Hero of Akros"
             ],
@@ -191,7 +189,6 @@
             "deck_id": "358011",
             "rank": "3-4",
             "player": "Charlie Delabrousse",
-            "winrate": 0.75,
             "commander": [
                 "Golos, Tireless Pilgrim"
             ],
@@ -301,7 +298,6 @@
             "deck_id": "358012",
             "rank": "3-4",
             "player": "Andreï Kmeic",
-            "winrate": 0.75,
             "commander": [
                 "Thrasios, Triton Hero",
                 "Tymna the Weaver"
@@ -411,7 +407,6 @@
             "deck_id": "358013",
             "rank": "5-8",
             "player": "Aurélien Lion",
-            "winrate": 0.75,
             "commander": [
                 "Brago, King Eternal"
             ],
@@ -508,7 +503,6 @@
             "deck_id": "358014",
             "rank": "5-8",
             "player": "Vincent Bruno",
-            "winrate": 0.75,
             "commander": [
                 "Doran, the Siege Tower"
             ],
@@ -618,7 +612,6 @@
             "deck_id": "358015",
             "rank": "5-8",
             "player": "Pierre Ambroise",
-            "winrate": 0.75,
             "commander": [
                 "Erayo, Soratami Ascendant"
             ],
@@ -698,7 +691,6 @@
             "deck_id": "358016",
             "rank": "5-8",
             "player": "Nicolas De Coster",
-            "winrate": 0.75,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],

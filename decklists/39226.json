@@ -10,7 +10,6 @@
             "deck_id": "492236",
             "rank": "1",
             "player": "Manu \"pogo\" Chambord",
-            "winrate": 1.0,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "492237",
             "rank": "2",
             "player": "Casagrande Alexandre",
-            "winrate": 0.8,
             "commander": [
                 "Ertai Resurrected"
             ],
@@ -218,7 +216,6 @@
             "deck_id": "492238",
             "rank": "3-4",
             "player": "Benjamin \"earx\" Dugal",
-            "winrate": 0.8,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -305,7 +302,6 @@
             "deck_id": "492239",
             "rank": "3-4",
             "player": "Jerome Ceaux",
-            "winrate": 0.8,
             "commander": [
                 "Ghyrson Starn, Kelermorph"
             ],

@@ -10,7 +10,6 @@
             "deck_id": "492967",
             "rank": "1",
             "player": "Juca",
-            "winrate": 1.0,
             "commander": [
                 "Rowan Kenrith",
                 "Will Kenrith"
@@ -101,7 +100,6 @@
             "deck_id": "492968",
             "rank": "2",
             "player": "Rigo",
-            "winrate": 0.8,
             "commander": [
                 "Ertai Resurrected"
             ],

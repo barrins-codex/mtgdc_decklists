@@ -10,7 +10,6 @@
             "deck_id": "371801",
             "rank": "3-4",
             "player": "David Fontraille",
-            "winrate": 0.8,
             "commander": [
                 "Atraxa, Praetors' Voice"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "371802",
             "rank": "3-4",
             "player": "Julien Chiarvesio",
-            "winrate": 0.8,
             "commander": [
                 "Niv-Mizzet Reborn"
             ],
@@ -230,7 +228,6 @@
             "deck_id": "371803",
             "rank": "2",
             "player": "Cedric Robert",
-            "winrate": 0.8,
             "commander": [
                 "Selvala, Heart of the Wilds"
             ],
@@ -316,7 +313,6 @@
             "deck_id": "371804",
             "rank": "1",
             "player": "Alexandre Martial",
-            "winrate": 1.0,
             "commander": [
                 "Uro, Titan of Nature's Wrath"
             ],

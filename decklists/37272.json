@@ -10,7 +10,6 @@
             "deck_id": "479608",
             "rank": "1",
             "player": "Alan Magnier",
-            "winrate": 0.8888888888888888,
             "commander": [
                 "Dennick, Pious Apprentice"
             ],
@@ -114,7 +113,6 @@
             "deck_id": "479609",
             "rank": "2",
             "player": "Alexandre Queste",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Minsc &amp; Boo, Timeless Heroes"
             ],
@@ -217,7 +215,6 @@
             "deck_id": "479610",
             "rank": "3-4",
             "player": "Dimitri Fichel",
-            "winrate": 0.75,
             "commander": [
                 "Sai, Master Thopterist"
             ],
@@ -305,7 +302,6 @@
             "deck_id": "479611",
             "rank": "3-4",
             "player": "Jérémy Cuvelier",
-            "winrate": 0.75,
             "commander": [
                 "Grist, the Hunger Tide"
             ],
@@ -406,7 +402,6 @@
             "deck_id": "479612",
             "rank": "5-8",
             "player": "Léo Croste-baylies",
-            "winrate": 0.75,
             "commander": [
                 "Old Stickfingers"
             ],
@@ -511,7 +506,6 @@
             "deck_id": "479613",
             "rank": "5-8",
             "player": "Renaud Kupriez",
-            "winrate": 0.75,
             "commander": [
                 "Hogaak, Arisen Necropolis"
             ],
@@ -610,7 +604,6 @@
             "deck_id": "479614",
             "rank": "5-8",
             "player": "Jérémy Pecriaux",
-            "winrate": 0.75,
             "commander": [
                 "The Gitrog Monster"
             ],
@@ -710,7 +703,6 @@
             "deck_id": "479615",
             "rank": "5-8",
             "player": "Nicolas Delfolie",
-            "winrate": 0.75,
             "commander": [
                 "Grist, the Hunger Tide"
             ],

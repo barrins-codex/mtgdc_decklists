@@ -10,7 +10,6 @@
             "deck_id": "490181",
             "rank": "1",
             "player": "Brice Lamar",
-            "winrate": 1.0,
             "commander": [
                 "Tivit, Seller of Secrets"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "490182",
             "rank": "2",
             "player": "Robin Laborde",
-            "winrate": 0.8,
             "commander": [
                 "Hogaak, Arisen Necropolis"
             ],
@@ -225,7 +223,6 @@
             "deck_id": "490183",
             "rank": "3-4",
             "player": "Alexandre Andouard",
-            "winrate": 0.8,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -335,7 +332,6 @@
             "deck_id": "490184",
             "rank": "3-4",
             "player": "Jérémy Dewarez",
-            "winrate": 0.8,
             "commander": [
                 "Light-Paws, Emperor's Voice"
             ],

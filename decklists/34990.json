@@ -10,7 +10,6 @@
             "deck_id": "464546",
             "rank": "1",
             "player": "Tomas Vardzik",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Isamaru, Hound of Konda"
             ],
@@ -99,7 +98,6 @@
             "deck_id": "464547",
             "rank": "2",
             "player": "Tomas Hanousek",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Kraum, Ludevic's Opus",
                 "Ludevic, Necro-Alchemist"
@@ -199,7 +197,6 @@
             "deck_id": "464548",
             "rank": "3",
             "player": "Jan Kousal",
-            "winrate": 0.625,
             "commander": [
                 "Shorikai, Genesis Engine"
             ],
@@ -305,7 +302,6 @@
             "deck_id": "464549",
             "rank": "4",
             "player": "Zdenek Hlavsa",
-            "winrate": 0.625,
             "commander": [
                 "Sisay, Weatherlight Captain"
             ],
@@ -415,7 +411,6 @@
             "deck_id": "464550",
             "rank": "5",
             "player": "Petr Stefan",
-            "winrate": 0.625,
             "commander": [
                 "Marath, Will of the Wild"
             ],
@@ -522,7 +517,6 @@
             "deck_id": "464551",
             "rank": "6",
             "player": "Jaroslav Tesar",
-            "winrate": 0.625,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -632,7 +626,6 @@
             "deck_id": "464552",
             "rank": "7",
             "player": "Marek Vardzik",
-            "winrate": 0.625,
             "commander": [
                 "Rograkh, Son of Rohgahh",
                 "Silas Renn, Seeker Adept"
@@ -742,7 +735,6 @@
             "deck_id": "464553",
             "rank": "8",
             "player": "Roman Vejdelek",
-            "winrate": 0.625,
             "commander": [
                 "Klothys, God of Destiny"
             ],

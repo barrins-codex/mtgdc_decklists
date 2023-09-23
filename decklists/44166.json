@@ -10,7 +10,6 @@
             "deck_id": "525964",
             "rank": "1",
             "player": "Boas Renfors",
-            "winrate": 1.0,
             "commander": [
                 "Bruse Tarl, Boorish Herder",
                 "Yoshimaru, Ever Faithful"
@@ -113,7 +112,6 @@
             "deck_id": "525965",
             "rank": "2",
             "player": "Gustav Holmberg",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Hogaak, Arisen Necropolis"
             ],

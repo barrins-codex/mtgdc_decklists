@@ -10,7 +10,6 @@
             "deck_id": "274048",
             "rank": "1",
             "player": "Brennan McAlear",
-            "winrate": 1.0,
             "commander": [
                 "Captain Sisay"
             ],
@@ -110,7 +109,6 @@
             "deck_id": "274049",
             "rank": "4",
             "player": "Josh Rigelman",
-            "winrate": 0.6,
             "commander": [
                 "Griselbrand"
             ],
@@ -191,7 +189,6 @@
             "deck_id": "274050",
             "rank": "2",
             "player": "William Belloli",
-            "winrate": 0.8,
             "commander": [
                 "Maelstrom Wanderer"
             ],
@@ -294,7 +291,6 @@
             "deck_id": "274051",
             "rank": "3",
             "player": "Wes Herr",
-            "winrate": 0.8,
             "commander": [
                 "Wydwen, the Biting Gale"
             ],

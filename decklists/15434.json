@@ -10,7 +10,6 @@
             "deck_id": "293965",
             "rank": "1",
             "player": "Léo Stronda",
-            "winrate": 1.0,
             "commander": [
                 "Kytheon, Hero of Akros"
             ],
@@ -91,7 +90,6 @@
             "deck_id": "293966",
             "rank": "2",
             "player": "Cocão",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Silas Renn, Seeker Adept",
                 "Akiri, Line-Slinger"

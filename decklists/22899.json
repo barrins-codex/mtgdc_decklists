@@ -10,7 +10,6 @@
             "deck_id": "356636",
             "rank": "1",
             "player": "Gu Jiaping",
-            "winrate": 1.0,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -97,7 +96,6 @@
             "deck_id": "356637",
             "rank": "2",
             "player": "Yuan Luyang",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Niv-Mizzet, Parun"
             ],

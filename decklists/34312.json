@@ -10,7 +10,6 @@
             "deck_id": "460644",
             "rank": "1",
             "player": "Vojtech Benes",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "460645",
             "rank": "2",
             "player": "David Tran",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Esika, God of the Tree"
             ],
@@ -230,7 +228,6 @@
             "deck_id": "460646",
             "rank": "3-4",
             "player": "Frantisek Krizkovsky",
-            "winrate": 0.625,
             "commander": [
                 "The Ur-Dragon"
             ],
@@ -340,7 +337,6 @@
             "deck_id": "460647",
             "rank": "3-4",
             "player": "Pavel Tvrznik",
-            "winrate": 0.625,
             "commander": [
                 "Miara, Thorn of the Glade",
                 "Tevesh Szat, Doom of Fools"
@@ -426,7 +422,6 @@
             "deck_id": "460648",
             "rank": "5-8",
             "player": "Daniel Riha",
-            "winrate": 0.625,
             "commander": [
                 "Klothys, God of Destiny"
             ],
@@ -528,7 +523,6 @@
             "deck_id": "460649",
             "rank": "5-8",
             "player": "Mikulas Havlik",
-            "winrate": 0.625,
             "commander": [
                 "Livio, Oathsworn Sentinel",
                 "Malcolm, Keen-Eyed Navigator"
@@ -630,7 +624,6 @@
             "deck_id": "460650",
             "rank": "5-8",
             "player": "Jan Kousal",
-            "winrate": 0.625,
             "commander": [
                 "Ikra Shidiqi, the Usurper",
                 "Toggo, Goblin Weaponsmith"
@@ -738,7 +731,6 @@
             "deck_id": "460651",
             "rank": "5-8",
             "player": "Jiri Vancata",
-            "winrate": 0.625,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],

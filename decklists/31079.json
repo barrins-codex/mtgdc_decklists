@@ -10,7 +10,6 @@
             "deck_id": "441714",
             "rank": "1",
             "player": "Ste Villaraza",
-            "winrate": 1.0,
             "commander": [
                 "Miara, Thorn of the Glade",
                 "Tevesh Szat, Doom of Fools"
@@ -95,7 +94,6 @@
             "deck_id": "441715",
             "rank": "2",
             "player": "Reuben Ferrer",
-            "winrate": 0.8,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -205,7 +203,6 @@
             "deck_id": "441716",
             "rank": "3-4",
             "player": "Christian Agbon",
-            "winrate": 0.8,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -290,7 +287,6 @@
             "deck_id": "441717",
             "rank": "3-4",
             "player": "Rai Reyes",
-            "winrate": 0.8,
             "commander": [
                 "Tajic, Legion's Edge"
             ],

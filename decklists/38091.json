@@ -10,7 +10,6 @@
             "deck_id": "484884",
             "rank": "1",
             "player": "Cilbert Corpuz",
-            "winrate": 1.0,
             "commander": [
                 "Inspiring Leader",
                 "Gut, True Soul Zealot"
@@ -117,7 +116,6 @@
             "deck_id": "484885",
             "rank": "2",
             "player": "Dinno Zaide",
-            "winrate": 0.8,
             "commander": [
                 "Ludevic, Necro-Alchemist",
                 "Jeska, Thrice Reborn"
@@ -216,7 +214,6 @@
             "deck_id": "484886",
             "rank": "3",
             "player": "Van Acordon",
-            "winrate": 0.8,
             "commander": [
                 "Elmar, Ulvenwald Informant",
                 "Wernog, Rider's Chaplain"
@@ -326,7 +323,6 @@
             "deck_id": "484887",
             "rank": "4",
             "player": "Michael Cabrera",
-            "winrate": 0.6,
             "commander": [
                 "Light-Paws, Emperor's Voice"
             ],
@@ -412,7 +408,6 @@
             "deck_id": "484888",
             "rank": "5",
             "player": "Christian Agbon",
-            "winrate": 0.6,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -502,7 +497,6 @@
             "deck_id": "484889",
             "rank": "6",
             "player": "Joel San Jose, Jr.",
-            "winrate": 0.6,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -612,7 +606,6 @@
             "deck_id": "484890",
             "rank": "7",
             "player": "Ken Decena",
-            "winrate": 0.6,
             "commander": [
                 "Klothys, God of Destiny"
             ],
@@ -714,7 +707,6 @@
             "deck_id": "484891",
             "rank": "8",
             "player": "Iori Zugaikotsu",
-            "winrate": 0.6,
             "commander": [
                 "Elminster"
             ],

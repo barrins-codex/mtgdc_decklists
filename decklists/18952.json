@@ -10,7 +10,6 @@
             "deck_id": "319028",
             "rank": "5-8",
             "player": "Ondrej Pokorny",
-            "winrate": 0.75,
             "commander": [
                 "Thrasios, Triton Hero",
                 "Tymna the Weaver"
@@ -117,7 +116,6 @@
             "deck_id": "319029",
             "rank": "1",
             "player": "Michal Zdansky",
-            "winrate": 0.8888888888888888,
             "commander": [
                 "Saskia the Unyielding"
             ],
@@ -227,7 +225,6 @@
             "deck_id": "319030",
             "rank": "2",
             "player": "Viktor Jasansky",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Silas Renn, Seeker Adept",
                 "Akiri, Line-Slinger"
@@ -337,7 +334,6 @@
             "deck_id": "319031",
             "rank": "3-4",
             "player": "Jiri Pokorny",
-            "winrate": 0.75,
             "commander": [
                 "Tymna the Weaver",
                 "Kraum, Ludevic's Opus"
@@ -447,7 +443,6 @@
             "deck_id": "319032",
             "rank": "5-8",
             "player": "Daniel Ditrych",
-            "winrate": 0.75,
             "commander": [
                 "Yisan, the Wanderer Bard"
             ],
@@ -539,7 +534,6 @@
             "deck_id": "319033",
             "rank": "5-8",
             "player": "David Stepanek",
-            "winrate": 0.75,
             "commander": [
                 "Sidisi, Undead Vizier"
             ],
@@ -626,7 +620,6 @@
             "deck_id": "319034",
             "rank": "5-8",
             "player": "Vaclav Mysak",
-            "winrate": 0.75,
             "commander": [
                 "Thrasios, Triton Hero",
                 "Tymna the Weaver"
@@ -736,7 +729,6 @@
             "deck_id": "319035",
             "rank": "3-4",
             "player": "Jaroslav Chmelik",
-            "winrate": 0.75,
             "commander": [
                 "Kraum, Ludevic's Opus",
                 "Tymna the Weaver"

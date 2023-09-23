@@ -10,7 +10,6 @@
             "deck_id": "466960",
             "rank": "1",
             "player": "Nameless Yu",
-            "winrate": 1.0,
             "commander": [
                 "Grenzo, Dungeon Warden"
             ],
@@ -112,7 +111,6 @@
             "deck_id": "466961",
             "rank": "2",
             "player": "Char",
-            "winrate": 0.8,
             "commander": [
                 "Svyelun of Sea and Sky"
             ],
@@ -197,7 +195,6 @@
             "deck_id": "466962",
             "rank": "3-4",
             "player": "Bolong Sun",
-            "winrate": 0.6,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -283,7 +280,6 @@
             "deck_id": "466963",
             "rank": "3-4",
             "player": "Hongchen Zhang",
-            "winrate": 0.6,
             "commander": [
                 "Chishiro, the Shattered Blade"
             ],

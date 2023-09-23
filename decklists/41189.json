@@ -10,7 +10,6 @@
             "deck_id": "506102",
             "rank": "1",
             "player": "Funkymax",
-            "winrate": 0.9,
             "commander": [
                 "Old Stickfingers"
             ],
@@ -113,7 +112,6 @@
             "deck_id": "506103",
             "rank": "2",
             "player": "Jules \"askeladden\" Lestienne",
-            "winrate": 0.8,
             "commander": [
                 "Cecily, Haunted Mage",
                 "Wernog, Rider's Chaplain"
@@ -223,7 +221,6 @@
             "deck_id": "506104",
             "rank": "3-4",
             "player": "Domino",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Sword Coast Sailor",
                 "Wilson, Refined Grizzly"
@@ -323,7 +320,6 @@
             "deck_id": "506105",
             "rank": "3-4",
             "player": "Totonin",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Oswald Fiddlebender"
             ],
@@ -414,7 +410,6 @@
             "deck_id": "506106",
             "rank": "5-8",
             "player": "Alexis MommÉe",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Niv-Mizzet Reborn"
             ],
@@ -524,7 +519,6 @@
             "deck_id": "506107",
             "rank": "5-8",
             "player": "Grégoire \"koraysh\" Payan",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Dihada, Binder of Wills"
             ],
@@ -634,7 +628,6 @@
             "deck_id": "506108",
             "rank": "5-8",
             "player": "Mattéo Brault",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Hogaak, Arisen Necropolis"
             ],
@@ -744,7 +737,6 @@
             "deck_id": "506109",
             "rank": "5-8",
             "player": "Nicolas Prail",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Ghyrson Starn, Kelermorph"
             ],
@@ -842,7 +834,6 @@
             "deck_id": "506110",
             "rank": "9-16",
             "player": "Arnaud \"chamoisdoux\" Devineau",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Tana, the Bloodsower",
                 "Yoshimaru, Ever Faithful"
@@ -950,7 +941,6 @@
             "deck_id": "506111",
             "rank": "9-16",
             "player": "Christophe Moreau \"transistor2441\"",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Niv-Mizzet Reborn"
             ],
@@ -1060,7 +1050,6 @@
             "deck_id": "506112",
             "rank": "9-16",
             "player": "Guillaume Batard",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Feldon, Ronom Excavator"
             ],
@@ -1147,7 +1136,6 @@
             "deck_id": "506113",
             "rank": "9-16",
             "player": "Julien Bihet",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Hogaak, Arisen Necropolis",
                 "Ferris Wheel",
@@ -1267,7 +1255,6 @@
             "deck_id": "506114",
             "rank": "9-16",
             "player": "Léo G (lyoren)",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Greasefang, Okiba Boss"
             ],
@@ -1369,7 +1356,6 @@
             "deck_id": "506115",
             "rank": "9-16",
             "player": "Marien Couvertier",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Dennick, Pious Apprentice"
             ],
@@ -1471,7 +1457,6 @@
             "deck_id": "506116",
             "rank": "9-16",
             "player": "Maxime Morillon",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Dennick, Pious Apprentice"
             ],
@@ -1573,7 +1558,6 @@
             "deck_id": "506117",
             "rank": "9-16",
             "player": "Sol Epsia",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Cecily, Haunted Mage",
                 "Wernog, Rider's Chaplain"

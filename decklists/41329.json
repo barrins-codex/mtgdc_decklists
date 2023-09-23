@@ -10,7 +10,6 @@
             "deck_id": "507068",
             "rank": "1",
             "player": "Dinno Zaide",
-            "winrate": 1.0,
             "commander": [
                 "Ghyrson Starn, Kelermorph"
             ],
@@ -111,7 +110,6 @@
             "deck_id": "507069",
             "rank": "2",
             "player": "Jonathan Dolor",
-            "winrate": 0.8,
             "commander": [
                 "Lurrus of the Dream-Den",
                 "Karlov of the Ghost Council"
@@ -213,7 +211,6 @@
             "deck_id": "507070",
             "rank": "3",
             "player": "Lamberto Demillo",
-            "winrate": 0.6,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -317,7 +314,6 @@
             "deck_id": "507071",
             "rank": "4",
             "player": "Roy Rivero",
-            "winrate": 0.6,
             "commander": [
                 "Kraum, Ludevic's Opus",
                 "Yoshimaru, Ever Faithful"

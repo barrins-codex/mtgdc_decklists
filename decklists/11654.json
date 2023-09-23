@@ -10,7 +10,6 @@
             "deck_id": "266436",
             "rank": "1",
             "player": "Joey Ruiz",
-            "winrate": 1.0,
             "commander": [
                 "Jace, Vryn's Prodigy"
             ],
@@ -90,7 +89,6 @@
             "deck_id": "266437",
             "rank": "2",
             "player": "Josh Gilbertson",
-            "winrate": 0.8,
             "commander": [
                 "Narset, Enlightened Master"
             ],
@@ -189,7 +187,6 @@
             "deck_id": "266438",
             "rank": "3-4",
             "player": "narith Ithiratanasoonthorn",
-            "winrate": 0.8,
             "commander": [
                 "Tasigur, the Golden Fang"
             ],
@@ -299,7 +296,6 @@
             "deck_id": "266439",
             "rank": "3-4",
             "player": "Sherwin Pu",
-            "winrate": 0.8,
             "commander": [
                 "Daretti, Scrap Savant"
             ],

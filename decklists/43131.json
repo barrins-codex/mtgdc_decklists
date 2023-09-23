@@ -10,7 +10,6 @@
             "deck_id": "518706",
             "rank": "1",
             "player": "Guilherme Bellagente",
-            "winrate": 1.0,
             "commander": [
                 "Tevesh Szat, Doom of Fools",
                 "Ishai, Ojutai Dragonspeaker"
@@ -120,7 +119,6 @@
             "deck_id": "518707",
             "rank": "2",
             "player": "Denis Dovico",
-            "winrate": 0.8,
             "commander": [
                 "Ghyrson Starn, Kelermorph"
             ],
@@ -218,7 +216,6 @@
             "deck_id": "518708",
             "rank": "3-4",
             "player": "Filipe Caetano",
-            "winrate": 0.6,
             "commander": [
                 "Ardoz, Cobbler of War"
             ],
@@ -306,7 +303,6 @@
             "deck_id": "518709",
             "rank": "3-4",
             "player": "Raul Borges",
-            "winrate": 0.6,
             "commander": [
                 "Ebondeath, Dracolich"
             ],

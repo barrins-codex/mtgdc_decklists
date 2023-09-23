@@ -10,7 +10,6 @@
             "deck_id": "318037",
             "rank": "3-4",
             "player": "Marwan \"zibol\" Ghandri",
-            "winrate": 0.8,
             "commander": [
                 "Zurgo Bellstriker"
             ],
@@ -90,7 +89,6 @@
             "deck_id": "318038",
             "rank": "1",
             "player": "Cyprien \"twelfthnight \" Ruffino",
-            "winrate": 1.0,
             "commander": [
                 "Doran, the Siege Tower"
             ],
@@ -194,7 +192,6 @@
             "deck_id": "318039",
             "rank": "3-4",
             "player": "Eric \"morchiswe\" Genin",
-            "winrate": 0.8,
             "commander": [
                 "Iname, Death Aspect"
             ],
@@ -278,7 +275,6 @@
             "deck_id": "318040",
             "rank": "2",
             "player": "Guillaume \"odingue\" Goddefroy",
-            "winrate": 0.8,
             "commander": [
                 "Zurgo Bellstriker"
             ],

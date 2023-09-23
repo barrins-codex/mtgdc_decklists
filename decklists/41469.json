@@ -10,7 +10,6 @@
             "deck_id": "508170",
             "rank": "1",
             "player": "Guilherme Bellagente",
-            "winrate": 1.0,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "508171",
             "rank": "2",
             "player": "Jacqueline Bittencourt",
-            "winrate": 0.8,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -227,7 +225,6 @@
             "deck_id": "508172",
             "rank": "3",
             "player": "Rafael Misterhand",
-            "winrate": 0.8,
             "commander": [
                 "Kytheon, Hero of Akros"
             ],
@@ -319,7 +316,6 @@
             "deck_id": "508173",
             "rank": "4",
             "player": "Rafael Brabo",
-            "winrate": 0.6,
             "commander": [
                 "Dihada, Binder of Wills"
             ],
@@ -429,7 +425,6 @@
             "deck_id": "508174",
             "rank": "5",
             "player": "Gustavo Silva",
-            "winrate": 0.6,
             "commander": [
                 "Grist, the Hunger Tide"
             ],
@@ -528,7 +523,6 @@
             "deck_id": "508175",
             "rank": "6",
             "player": "Marcelo Teixeira",
-            "winrate": 0.6,
             "commander": [
                 "The Gitrog Monster"
             ],
@@ -628,7 +622,6 @@
             "deck_id": "508176",
             "rank": "7",
             "player": "William Freitas",
-            "winrate": 0.6,
             "commander": [
                 "Karlov of the Ghost Council",
                 "Lurrus of the Dream-Den"
@@ -733,7 +726,6 @@
             "deck_id": "508177",
             "rank": "8",
             "player": "Samuel Martins",
-            "winrate": 0.6,
             "commander": [
                 "Klothys, God of Destiny"
             ],

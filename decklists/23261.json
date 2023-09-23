@@ -10,7 +10,6 @@
             "deck_id": "360053",
             "rank": "1",
             "player": "Shen Junkai",
-            "winrate": 1.0,
             "commander": [
                 "Kraum, Ludevic's Opus",
                 "Ludevic, Necro-Alchemist"
@@ -107,7 +106,6 @@
             "deck_id": "360054",
             "rank": "2",
             "player": "Yang Yang",
-            "winrate": 0.8,
             "commander": [
                 "Zur the Enchanter"
             ],

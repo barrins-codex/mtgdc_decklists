@@ -10,7 +10,6 @@
             "deck_id": "461761",
             "rank": "1",
             "player": "Michel Xisto",
-            "winrate": 1.0,
             "commander": [
                 "Gorex, the Tombshell"
             ],
@@ -94,7 +93,6 @@
             "deck_id": "461762",
             "rank": "2",
             "player": "Daniel Duarte",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Krenko, Tin Street Kingpin"
             ],

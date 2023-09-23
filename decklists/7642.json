@@ -10,7 +10,6 @@
             "deck_id": "243870",
             "rank": "3-4",
             "player": "Alexandre Audou",
-            "winrate": 0.8,
             "commander": [
                 "Geist of Saint Traft"
             ],
@@ -111,7 +110,6 @@
             "deck_id": "243871",
             "rank": "3-4",
             "player": "Marius Bredon",
-            "winrate": 0.8,
             "commander": [
                 "Prossh, Skyraider of Kher"
             ],
@@ -221,7 +219,6 @@
             "deck_id": "243872",
             "rank": "2",
             "player": "Thomas Mechin",
-            "winrate": 0.8,
             "commander": [
                 "Griselbrand"
             ],
@@ -302,7 +299,6 @@
             "deck_id": "243873",
             "rank": "1",
             "player": "Lionel \"Hannibal44\" Galliere",
-            "winrate": 1.0,
             "commander": [
                 "Oloro, Ageless Ascetic"
             ],

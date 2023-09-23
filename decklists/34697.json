@@ -10,7 +10,6 @@
             "deck_id": "462886",
             "rank": "1",
             "player": "Gabe Enriquez",
-            "winrate": 1.0,
             "commander": [
                 "Klothys, God of Destiny"
             ],
@@ -115,7 +114,6 @@
             "deck_id": "462887",
             "rank": "2",
             "player": "Roi \"kadamay\" Dagang",
-            "winrate": 0.8,
             "commander": [
                 "Klothys, God of Destiny"
             ],
@@ -217,7 +215,6 @@
             "deck_id": "462888",
             "rank": "3-4",
             "player": "Eli Guevarra",
-            "winrate": 0.8,
             "commander": [
                 "Klothys, God of Destiny"
             ],
@@ -311,7 +308,6 @@
             "deck_id": "462889",
             "rank": "3-4",
             "player": "Paul Relativo",
-            "winrate": 0.8,
             "commander": [
                 "Niv-Mizzet Reborn"
             ],
@@ -421,7 +417,6 @@
             "deck_id": "462890",
             "rank": "5-8",
             "player": "Michael Molina",
-            "winrate": 0.6,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -510,7 +505,6 @@
             "deck_id": "462891",
             "rank": "5-8",
             "player": "Rexel Tenorio",
-            "winrate": 0.6,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -620,7 +614,6 @@
             "deck_id": "462892",
             "rank": "5-8",
             "player": "Ste Villaraza",
-            "winrate": 0.6,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -730,7 +723,6 @@
             "deck_id": "462893",
             "rank": "5-8",
             "player": "Richson Ngo",
-            "winrate": 0.6,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],

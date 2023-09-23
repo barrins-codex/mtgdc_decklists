@@ -10,7 +10,6 @@
             "deck_id": "250930",
             "rank": "1",
             "player": "Guillermo Cots",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Prossh, Skyraider of Kher"
             ],
@@ -111,7 +110,6 @@
             "deck_id": "250931",
             "rank": "2",
             "player": "Jose Maria Subiela",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Prossh, Skyraider of Kher"
             ],
@@ -218,7 +216,6 @@
             "deck_id": "250932",
             "rank": "3-4",
             "player": "Miguel Angel Galdon",
-            "winrate": 0.625,
             "commander": [
                 "The Mimeoplasm"
             ],
@@ -323,7 +320,6 @@
             "deck_id": "250933",
             "rank": "3-4",
             "player": "Fernando Sanchis",
-            "winrate": 0.625,
             "commander": [
                 "Skithiryx, the Blight Dragon"
             ],

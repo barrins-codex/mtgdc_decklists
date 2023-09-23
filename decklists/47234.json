@@ -10,7 +10,6 @@
             "deck_id": "548998",
             "rank": "1",
             "player": "Franklin Aguba",
-            "winrate": 1.0,
             "commander": [
                 "Cecily, Haunted Mage",
                 "Wernog, Rider's Chaplain"
@@ -120,7 +119,6 @@
             "deck_id": "548999",
             "rank": "2",
             "player": "Earl Caymo",
-            "winrate": 0.8,
             "commander": [
                 "Kess, Dissident Mage"
             ],
@@ -230,7 +228,6 @@
             "deck_id": "549000",
             "rank": "3",
             "player": "Rexel Tenorio",
-            "winrate": 0.8,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -340,7 +337,6 @@
             "deck_id": "549001",
             "rank": "4",
             "player": "Agustin Ireneo",
-            "winrate": 0.6,
             "commander": [
                 "Omnath, Locus of Mana"
             ],
@@ -431,7 +427,6 @@
             "deck_id": "549002",
             "rank": "5",
             "player": "Aaron Macaso",
-            "winrate": 0.6,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -539,7 +534,6 @@
             "deck_id": "549003",
             "rank": "6",
             "player": "Khris Mauricio",
-            "winrate": 0.6,
             "commander": [
                 "Tana, the Bloodsower",
                 "Yoshimaru, Ever Faithful"
@@ -649,7 +643,6 @@
             "deck_id": "549004",
             "rank": "7",
             "player": "Ste Villaraza",
-            "winrate": 0.6,
             "commander": [
                 "Tivit, Seller of Secrets"
             ],
@@ -759,7 +752,6 @@
             "deck_id": "549005",
             "rank": "8",
             "player": "Dinno Zaide",
-            "winrate": 0.6,
             "commander": [
                 "Ghyrson Starn, Kelermorph"
             ],

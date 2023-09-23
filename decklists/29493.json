@@ -10,7 +10,6 @@
             "deck_id": "431616",
             "rank": "1",
             "player": "Man Lok Wong",
-            "winrate": 1.0,
             "commander": [
                 "Valki, God of Lies"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "431617",
             "rank": "2",
             "player": "Wilson Lai",
-            "winrate": 0.8,
             "commander": [
                 "Keleth, Sunmane Familiar",
                 "Rograkh, Son of Rohgahh"
@@ -219,7 +217,6 @@
             "deck_id": "431618",
             "rank": "3-4",
             "player": "Chung Tang",
-            "winrate": 0.6,
             "commander": [
                 "Kraum, Ludevic's Opus",
                 "Ludevic, Necro-Alchemist"
@@ -315,7 +312,6 @@
             "deck_id": "431619",
             "rank": "3-4",
             "player": "Sam Liu",
-            "winrate": 0.6,
             "commander": [
                 "Kinnan, Bonder Prodigy"
             ],

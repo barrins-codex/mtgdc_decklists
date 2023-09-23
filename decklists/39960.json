@@ -10,7 +10,6 @@
             "deck_id": "497606",
             "rank": "1",
             "player": "Jean Mathieu Gafie",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Minsc, Beloved Ranger"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "497607",
             "rank": "2",
             "player": "Quentin Fort",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Balmor, Battlemage Captain"
             ],
@@ -218,7 +216,6 @@
             "deck_id": "497608",
             "rank": "3-4",
             "player": "Jeremy Paty",
-            "winrate": 0.625,
             "commander": [
                 "Ghyrson Starn, Kelermorph"
             ],
@@ -317,7 +314,6 @@
             "deck_id": "497609",
             "rank": "3-4",
             "player": "Cedric Roy",
-            "winrate": 0.625,
             "commander": [
                 "Light-Paws, Emperor's Voice"
             ],
@@ -404,7 +400,6 @@
             "deck_id": "497610",
             "rank": "5-8",
             "player": "Thomas Lacoste",
-            "winrate": 0.625,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -514,7 +509,6 @@
             "deck_id": "497611",
             "rank": "5-8",
             "player": "Damien Juhel",
-            "winrate": 0.625,
             "commander": [
                 "Kinnan, Bonder Prodigy"
             ],
@@ -612,7 +606,6 @@
             "deck_id": "497612",
             "rank": "5-8",
             "player": "Antoine Alix",
-            "winrate": 0.625,
             "commander": [
                 "Gallia of the Endless Dance"
             ],
@@ -702,7 +695,6 @@
             "deck_id": "497613",
             "rank": "5-8",
             "player": "Alexandre Iffrig",
-            "winrate": 0.625,
             "commander": [
                 "Tivit, Seller of Secrets"
             ],

@@ -10,7 +10,6 @@
             "deck_id": "350691",
             "rank": "3-4",
             "player": "Oreshkin Dmitry",
-            "winrate": 0.8,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -90,7 +89,6 @@
             "deck_id": "350692",
             "rank": "3-4",
             "player": "Mesheriakov Maxim",
-            "winrate": 0.8,
             "commander": [
                 "Teferi, Temporal Archmage"
             ],
@@ -164,7 +162,6 @@
             "deck_id": "350693",
             "rank": "2",
             "player": "Bogachev Leonid",
-            "winrate": 0.8,
             "commander": [
                 "Queen Marchesa"
             ],
@@ -268,7 +265,6 @@
             "deck_id": "350694",
             "rank": "1",
             "player": "Alexander Smirnov",
-            "winrate": 1.0,
             "commander": [
                 "The Scarab God"
             ],

@@ -10,7 +10,6 @@
             "deck_id": "517793",
             "rank": "1",
             "player": "Jean-charles Larrieu",
-            "winrate": 1.0,
             "commander": [
                 "Elminster"
             ],
@@ -110,7 +109,6 @@
             "deck_id": "517794",
             "rank": "3-4",
             "player": "Maxime Catala",
-            "winrate": 0.8,
             "commander": [
                 "Ertai Resurrected"
             ],
@@ -207,7 +205,6 @@
             "deck_id": "517795",
             "rank": "3-4",
             "player": "Jérôme Perez",
-            "winrate": 0.8,
             "commander": [
                 "Tana, the Bloodsower",
                 "Yoshimaru, Ever Faithful"

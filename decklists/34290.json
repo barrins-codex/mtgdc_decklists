@@ -10,7 +10,6 @@
             "deck_id": "460511",
             "rank": "1",
             "player": "Maximilien Kalil",
-            "winrate": 0.9,
             "commander": [
                 "Livio, Oathsworn Sentinel",
                 "Kraum, Ludevic's Opus"
@@ -120,7 +119,6 @@
             "deck_id": "460512",
             "rank": "2",
             "player": "François Nicolas",
-            "winrate": 0.8,
             "commander": [
                 "Malcolm, Keen-Eyed Navigator",
                 "Kraum, Ludevic's Opus"
@@ -218,7 +216,6 @@
             "deck_id": "460513",
             "rank": "3-4",
             "player": "Thomas Méchin",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Malcolm, Keen-Eyed Navigator",
                 "Kraum, Ludevic's Opus"
@@ -314,7 +311,6 @@
             "deck_id": "460514",
             "rank": "3-4",
             "player": "Charles Wickham",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Dragonlord Ojutai"
             ],
@@ -416,7 +412,6 @@
             "deck_id": "460515",
             "rank": "5-8",
             "player": "Félix Calais",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "The Gitrog Monster"
             ],
@@ -515,7 +510,6 @@
             "deck_id": "460516",
             "rank": "5-8",
             "player": "Vincent Bruno",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Doran, the Siege Tower"
             ],
@@ -625,7 +619,6 @@
             "deck_id": "460517",
             "rank": "5-8",
             "player": "Victor Durand",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -713,7 +706,6 @@
             "deck_id": "460518",
             "rank": "5-8",
             "player": "Alexandre Benac",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Hogaak, Arisen Necropolis"
             ],
@@ -823,7 +815,6 @@
             "deck_id": "460519",
             "rank": "9",
             "player": "Maxime Morillon",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Malcolm, Keen-Eyed Navigator",
                 "Livio, Oathsworn Sentinel"
@@ -924,7 +915,6 @@
             "deck_id": "460520",
             "rank": "10",
             "player": "Sébastien Laplane",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -1013,7 +1003,6 @@
             "deck_id": "460521",
             "rank": "11",
             "player": "Nicolas Prail",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Malcolm, Keen-Eyed Navigator",
                 "Livio, Oathsworn Sentinel"
@@ -1113,7 +1102,6 @@
             "deck_id": "460522",
             "rank": "12",
             "player": "Bastien Lambert",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Livio, Oathsworn Sentinel",
                 "Kraum, Ludevic's Opus"
@@ -1221,7 +1209,6 @@
             "deck_id": "460523",
             "rank": "13",
             "player": "Baptiste Touboulic",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "The Gitrog Monster"
             ],
@@ -1320,7 +1307,6 @@
             "deck_id": "460524",
             "rank": "14",
             "player": "Julien Bihet",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Laelia, the Blade Reforged"
             ],
@@ -1409,7 +1395,6 @@
             "deck_id": "460525",
             "rank": "15",
             "player": "Alexis Rejasse",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -1497,7 +1482,6 @@
             "deck_id": "460526",
             "rank": "16",
             "player": "Clément Gillard",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Jegantha, the Wellspring",
                 "Niv-Mizzet Reborn"

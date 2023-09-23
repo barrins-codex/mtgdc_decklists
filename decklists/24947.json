@@ -10,7 +10,6 @@
             "deck_id": "374632",
             "rank": "4",
             "player": "Ray Harsono",
-            "winrate": 0.6,
             "commander": [
                 "Titania, Protector of Argoth"
             ],
@@ -105,7 +104,6 @@
             "deck_id": "374637",
             "rank": "2",
             "player": "Evan Ferrante",
-            "winrate": 0.8,
             "commander": [
                 "Queen Marchesa"
             ],
@@ -215,7 +213,6 @@
             "deck_id": "374638",
             "rank": "3",
             "player": "Iz Rubenstein",
-            "winrate": 0.8,
             "commander": [
                 "Prossh, Skyraider of Kher"
             ],
@@ -324,7 +321,6 @@
             "deck_id": "374639",
             "rank": "1",
             "player": "Dave Angeloff",
-            "winrate": 1.0,
             "commander": [
                 "Lazav, the Multifarious"
             ],

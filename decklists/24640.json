@@ -10,7 +10,6 @@
             "deck_id": "372344",
             "rank": "2",
             "player": "Philip E.",
-            "winrate": 0.8,
             "commander": [
                 "Isamaru, Hound of Konda"
             ],
@@ -95,7 +94,6 @@
             "deck_id": "372345",
             "rank": "3-4",
             "player": "Samuel Z.",
-            "winrate": 0.8,
             "commander": [
                 "Uro, Titan of Nature's Wrath"
             ],
@@ -198,7 +196,6 @@
             "deck_id": "372346",
             "rank": "3-4",
             "player": "Martin G.",
-            "winrate": 0.8,
             "commander": [
                 "Thrasios, Triton Hero",
                 "Tymna the Weaver"
@@ -308,7 +305,6 @@
             "deck_id": "372347",
             "rank": "1",
             "player": "Felix M.",
-            "winrate": 1.0,
             "commander": [
                 "Thrasios, Triton Hero",
                 "Tymna the Weaver"

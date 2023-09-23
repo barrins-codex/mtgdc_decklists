@@ -10,7 +10,6 @@
             "deck_id": "531686",
             "rank": "1",
             "player": "Léo Bartolomé",
-            "winrate": 0.875,
             "commander": [
                 "Feldon, Ronom Excavator"
             ],
@@ -98,7 +97,6 @@
             "deck_id": "531687",
             "rank": "2",
             "player": "Thibaut Milhaud",
-            "winrate": 0.75,
             "commander": [
                 "Magda, Brazen Outlaw"
             ],
@@ -186,7 +184,6 @@
             "deck_id": "531688",
             "rank": "3-4",
             "player": "Loic Martinez",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Ertai Resurrected"
             ],
@@ -282,7 +279,6 @@
             "deck_id": "531689",
             "rank": "3-4",
             "player": "Fabrice Azzouz",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Dennick, Pious Apprentice"
             ],
@@ -384,7 +380,6 @@
             "deck_id": "531690",
             "rank": "5-8",
             "player": "Quentin Levard",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Cecily, Haunted Mage",
                 "Wernog, Rider's Chaplain"
@@ -494,7 +489,6 @@
             "deck_id": "531691",
             "rank": "5-8",
             "player": "Renaud Thirouard",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Atraxa, Grand Unifier"
             ],
@@ -604,7 +598,6 @@
             "deck_id": "531692",
             "rank": "5-8",
             "player": "Toni De Paoli",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Tana, the Bloodsower",
                 "Yoshimaru, Ever Faithful"
@@ -713,7 +706,6 @@
             "deck_id": "531693",
             "rank": "5-8",
             "player": "Alexandre Casagrande",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Feldon, Ronom Excavator"
             ],

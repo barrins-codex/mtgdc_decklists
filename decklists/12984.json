@@ -10,7 +10,6 @@
             "deck_id": "275706",
             "rank": "5-8",
             "player": "Andrea Agnese",
-            "winrate": 0.6,
             "commander": [
                 "Keranos, God of Storms"
             ],
@@ -92,7 +91,6 @@
             "deck_id": "275707",
             "rank": "5-8",
             "player": "Orfeo Lombardo Ratti",
-            "winrate": 0.6,
             "commander": [
                 "Selvala, Explorer Returned"
             ],
@@ -190,7 +188,6 @@
             "deck_id": "275708",
             "rank": "5-8",
             "player": "Matteo Lanna",
-            "winrate": 0.6,
             "commander": [
                 "Titania, Protector of Argoth"
             ],
@@ -280,7 +277,6 @@
             "deck_id": "275709",
             "rank": "5-8",
             "player": "Gabriele Zaccarini",
-            "winrate": 0.6,
             "commander": [
                 "Marath, Will of the Wild"
             ],
@@ -376,7 +372,6 @@
             "deck_id": "275710",
             "rank": "3-4",
             "player": "Giulio Gallotti",
-            "winrate": 0.8,
             "commander": [
                 "Nissa, Vastwood Seer"
             ],
@@ -469,7 +464,6 @@
             "deck_id": "275711",
             "rank": "3-4",
             "player": "Michele Atzeni",
-            "winrate": 0.8,
             "commander": [
                 "Anafenza, the Foremost"
             ],
@@ -579,7 +573,6 @@
             "deck_id": "275712",
             "rank": "2",
             "player": "Klajdi Beshiri",
-            "winrate": 0.8,
             "commander": [
                 "Sidisi, Undead Vizier"
             ],
@@ -662,7 +655,6 @@
             "deck_id": "275713",
             "rank": "1",
             "player": "Vitale Francesco",
-            "winrate": 1.0,
             "commander": [
                 "Teferi, Temporal Archmage"
             ],

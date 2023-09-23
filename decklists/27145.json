@@ -10,7 +10,6 @@
             "deck_id": "413541",
             "rank": "5-8",
             "player": "Sébastien Crouzet \"des Mondes\"",
-            "winrate": 0.625,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -97,7 +96,6 @@
             "deck_id": "413542",
             "rank": "5-8",
             "player": "Yann \"nathramn\" Torillec",
-            "winrate": 0.625,
             "commander": [
                 "Kraum, Ludevic's Opus",
                 "Thrasios, Triton Hero"
@@ -200,7 +198,6 @@
             "deck_id": "413543",
             "rank": "5-8",
             "player": "William \"buisson\" Benaut",
-            "winrate": 0.625,
             "commander": [
                 "Uro, Titan of Nature's Wrath"
             ],
@@ -289,7 +286,6 @@
             "deck_id": "413544",
             "rank": "5-8",
             "player": "Sébastien \"nox\" Trehard",
-            "winrate": 0.625,
             "commander": [
                 "Golos, Tireless Pilgrim"
             ],
@@ -395,7 +391,6 @@
             "deck_id": "413545",
             "rank": "3-4",
             "player": "Armel Richard",
-            "winrate": 0.625,
             "commander": [
                 "Winota, Joiner of Forces"
             ],
@@ -481,7 +476,6 @@
             "deck_id": "413546",
             "rank": "3-4",
             "player": "Marco Goncalves",
-            "winrate": 0.625,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -569,7 +563,6 @@
             "deck_id": "413547",
             "rank": "1",
             "player": "Léo Carbonell",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Uro, Titan of Nature's Wrath"
             ],
@@ -659,7 +652,6 @@
             "deck_id": "413548",
             "rank": "2",
             "player": "Damien \"eventwin\" Jantzen",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Uro, Titan of Nature's Wrath"
             ],

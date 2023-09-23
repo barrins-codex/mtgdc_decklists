@@ -10,7 +10,6 @@
             "deck_id": "533530",
             "rank": "1",
             "player": "Gil",
-            "winrate": 1.0,
             "commander": [
                 "Ghyrson Starn, Kelermorph"
             ],
@@ -106,7 +105,6 @@
             "deck_id": "533531",
             "rank": "2",
             "player": "Bruno",
-            "winrate": 0.8,
             "commander": [
                 "Ertai Resurrected"
             ],
@@ -206,7 +204,6 @@
             "deck_id": "533532",
             "rank": "3-4",
             "player": "Thiago",
-            "winrate": 0.6,
             "commander": [
                 "Juri, Master of the Revue"
             ],
@@ -309,7 +306,6 @@
             "deck_id": "533533",
             "rank": "3-4",
             "player": "Cleyvson",
-            "winrate": 0.6,
             "commander": [
                 "Karlov of the Ghost Council"
             ],

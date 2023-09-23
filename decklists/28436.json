@@ -10,7 +10,6 @@
             "deck_id": "424956",
             "rank": "1",
             "player": "Ste Villaraza",
-            "winrate": 1.0,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "424957",
             "rank": "2",
             "player": "Exequiel Brian Lim",
-            "winrate": 0.8,
             "commander": [
                 "Titania, Protector of Argoth"
             ],
@@ -216,7 +214,6 @@
             "deck_id": "424958",
             "rank": "3-4",
             "player": "Reuben Ferrer",
-            "winrate": 0.8,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -326,7 +323,6 @@
             "deck_id": "424959",
             "rank": "3-4",
             "player": "Chris Sta Maria",
-            "winrate": 0.8,
             "commander": [
                 "Lurrus of the Dream-Den",
                 "Karlov of the Ghost Council"
@@ -434,7 +430,6 @@
             "deck_id": "424960",
             "rank": "5-8",
             "player": "Glenn Marc Alesna",
-            "winrate": 0.6,
             "commander": [
                 "Keleth, Sunmane Familiar",
                 "Rograkh, Son of Rohgahh"
@@ -535,7 +530,6 @@
             "deck_id": "424961",
             "rank": "5-8",
             "player": "Josh Fuentes",
-            "winrate": 0.6,
             "commander": [
                 "Ikra Shidiqi, the Usurper",
                 "Esior, Wardwing Familiar"
@@ -645,7 +639,6 @@
             "deck_id": "424962",
             "rank": "5-8",
             "player": "Randy De Rueda",
-            "winrate": 0.6,
             "commander": [
                 "Ardenn, Intrepid Archaeologist",
                 "Esior, Wardwing Familiar"
@@ -743,7 +736,6 @@
             "deck_id": "424963",
             "rank": "5-8",
             "player": "Roi Daboy Dagang",
-            "winrate": 0.6,
             "commander": [
                 "Maelstrom Wanderer"
             ],

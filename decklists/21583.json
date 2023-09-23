@@ -10,7 +10,6 @@
             "deck_id": "344910",
             "rank": "1",
             "player": "Felix M.",
-            "winrate": 1.0,
             "commander": [
                 "Ludevic, Necro-Alchemist",
                 "Thrasios, Triton Hero"
@@ -118,7 +117,6 @@
             "deck_id": "344911",
             "rank": "2",
             "player": "Daniel B.",
-            "winrate": 0.8,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -201,7 +199,6 @@
             "deck_id": "344912",
             "rank": "3-4",
             "player": "Samuel Z.",
-            "winrate": 0.6,
             "commander": [
                 "Ludevic, Necro-Alchemist",
                 "Thrasios, Triton Hero"

@@ -10,7 +10,6 @@
             "deck_id": "255266",
             "rank": "3-4",
             "player": "Matvey Dolganov",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Anafenza, the Foremost"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "255267",
             "rank": "2",
             "player": "Dmitriy Smirnov",
-            "winrate": 0.75,
             "commander": [
                 "Maelstrom Wanderer"
             ],
@@ -228,7 +226,6 @@
             "deck_id": "255268",
             "rank": "1",
             "player": "Michail Protasov",
-            "winrate": 0.875,
             "commander": [
                 "Tasigur, the Golden Fang"
             ],
@@ -336,7 +333,6 @@
             "deck_id": "255269",
             "rank": "3-4",
             "player": "Alexander Smirnov",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Tasigur, the Golden Fang"
             ],
@@ -443,7 +439,6 @@
             "deck_id": "255270",
             "rank": "5-8",
             "player": "Sergey \"Loxmatii\" Lamzin",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Maelstrom Wanderer"
             ],
@@ -553,7 +548,6 @@
             "deck_id": "255271",
             "rank": "5-8",
             "player": "Snastin Ilya",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Grenzo, Dungeon Warden"
             ],
@@ -651,7 +645,6 @@
             "deck_id": "255272",
             "rank": "5-8",
             "player": "Michail Popov",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Grand Arbiter Augustin IV"
             ],
@@ -751,7 +744,6 @@
             "deck_id": "255273",
             "rank": "5-8",
             "player": "Vladimir Bulanov",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Narset, Enlightened Master"
             ],

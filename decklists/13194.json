@@ -10,7 +10,6 @@
             "deck_id": "277298",
             "rank": "2",
             "player": "Marius Zurwieden",
-            "winrate": 0.8,
             "commander": [
                 "Prossh, Skyraider of Kher"
             ],
@@ -108,7 +107,6 @@
             "deck_id": "277299",
             "rank": "1",
             "player": "Christian Hillebrand",
-            "winrate": 1.0,
             "commander": [
                 "Maelstrom Wanderer"
             ],
@@ -211,7 +209,6 @@
             "deck_id": "277300",
             "rank": "5-8",
             "player": "Axel Grasse",
-            "winrate": 0.6,
             "commander": [
                 "Skullbriar, the Walking Grave"
             ],
@@ -299,7 +296,6 @@
             "deck_id": "277301",
             "rank": "5-8",
             "player": "Riccardo Menking",
-            "winrate": 0.6,
             "commander": [
                 "Drana, Liberator of Malakir"
             ],
@@ -385,7 +381,6 @@
             "deck_id": "277302",
             "rank": "5-8",
             "player": "Johannes Huder",
-            "winrate": 0.6,
             "commander": [
                 "Jenara, Asura of War"
             ],
@@ -492,7 +487,6 @@
             "deck_id": "277303",
             "rank": "5-8",
             "player": "Achim Kossek",
-            "winrate": 0.6,
             "commander": [
                 "Ezuri, Renegade Leader"
             ],
@@ -584,7 +578,6 @@
             "deck_id": "277304",
             "rank": "3-4",
             "player": "Michael",
-            "winrate": 0.6,
             "commander": [
                 "Yeva, Nature's Herald"
             ],
@@ -670,7 +663,6 @@
             "deck_id": "277305",
             "rank": "3-4",
             "player": "Marcel Pamir",
-            "winrate": 0.6,
             "commander": [
                 "Anafenza, the Foremost"
             ],

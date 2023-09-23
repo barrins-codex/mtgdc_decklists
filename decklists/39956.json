@@ -10,7 +10,6 @@
             "deck_id": "497583",
             "rank": "1",
             "player": "Jérémie Grenon",
-            "winrate": 1.0,
             "commander": [
                 "Karlov of the Ghost Council"
             ],
@@ -101,7 +100,6 @@
             "deck_id": "497584",
             "rank": "2",
             "player": "Js Bourdeau",
-            "winrate": 0.8,
             "commander": [
                 "Sram, Senior Edificer"
             ],
@@ -193,7 +191,6 @@
             "deck_id": "497585",
             "rank": "3-4",
             "player": "Alex St-aubin",
-            "winrate": 0.6,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -277,7 +274,6 @@
             "deck_id": "497586",
             "rank": "3-4",
             "player": "David Hébert",
-            "winrate": 0.6,
             "commander": [
                 "Light-Paws, Emperor's Voice"
             ],

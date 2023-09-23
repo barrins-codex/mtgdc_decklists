@@ -10,7 +10,6 @@
             "deck_id": "524124",
             "rank": "1",
             "player": "Patrik Horváth",
-            "winrate": 1.0,
             "commander": [
                 "Tivit, Seller of Secrets"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "524125",
             "rank": "2",
             "player": "Richard Kolenič",
-            "winrate": 0.8,
             "commander": [
                 "Feldon, Ronom Excavator"
             ],
@@ -209,7 +207,6 @@
             "deck_id": "524126",
             "rank": "3",
             "player": "Kristijan Čapanda",
-            "winrate": 0.6,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -319,7 +316,6 @@
             "deck_id": "524127",
             "rank": "4",
             "player": "Juraj Vlček",
-            "winrate": 0.6,
             "commander": [
                 "Juri, Master of the Revue"
             ],

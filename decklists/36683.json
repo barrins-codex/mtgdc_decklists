@@ -10,7 +10,6 @@
             "deck_id": "475909",
             "rank": "1",
             "player": "Dalibor S.",
-            "winrate": 1.0,
             "commander": [
                 "Grist, the Hunger Tide"
             ],
@@ -112,7 +111,6 @@
             "deck_id": "475910",
             "rank": "2",
             "player": "Patrik F.",
-            "winrate": 0.8,
             "commander": [
                 "Shorikai, Genesis Engine"
             ],
@@ -212,7 +210,6 @@
             "deck_id": "475911",
             "rank": "3-4",
             "player": "Richard K.",
-            "winrate": 0.8,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -299,7 +296,6 @@
             "deck_id": "475912",
             "rank": "3-4",
             "player": "Patrik .",
-            "winrate": 0.8,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -386,7 +382,6 @@
             "deck_id": "475913",
             "rank": "5-8",
             "player": "Patrik K.",
-            "winrate": 0.6,
             "commander": [
                 "Kroxa, Titan of Death's Hunger"
             ],
@@ -496,7 +491,6 @@
             "deck_id": "475914",
             "rank": "5-8",
             "player": "Patrik H.",
-            "winrate": 0.6,
             "commander": [
                 "Niv-Mizzet, Parun"
             ],
@@ -595,7 +589,6 @@
             "deck_id": "475915",
             "rank": "5-8",
             "player": "Matej B.",
-            "winrate": 0.6,
             "commander": [
                 "Adeliz, the Cinder Wind"
             ],
@@ -691,7 +684,6 @@
             "deck_id": "475916",
             "rank": "5-8",
             "player": "Samuel Z.",
-            "winrate": 0.6,
             "commander": [
                 "Adeliz, the Cinder Wind"
             ],

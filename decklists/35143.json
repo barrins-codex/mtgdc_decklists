@@ -10,7 +10,6 @@
             "deck_id": "465887",
             "rank": "1",
             "player": "Mathieu Leclere",
-            "winrate": 1.0,
             "commander": [
                 "Jegantha, the Wellspring",
                 "Niv-Mizzet Reborn"
@@ -121,7 +120,6 @@
             "deck_id": "465888",
             "rank": "2",
             "player": "Hugo Fremont",
-            "winrate": 0.8,
             "commander": [
                 "Yisan, the Wanderer Bard"
             ],
@@ -210,7 +208,6 @@
             "deck_id": "465889",
             "rank": "3-4",
             "player": "Julien Boulet",
-            "winrate": 0.6,
             "commander": [
                 "Shorikai, Genesis Engine"
             ],
@@ -308,7 +305,6 @@
             "deck_id": "465890",
             "rank": "3-4",
             "player": "Quentin Guilbert",
-            "winrate": 0.6,
             "commander": [
                 "Octavia, Living Thesis"
             ],

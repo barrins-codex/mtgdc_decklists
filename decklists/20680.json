@@ -10,7 +10,6 @@
             "deck_id": "336295",
             "rank": "5-8",
             "player": "Brieuc Evo",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "The Gitrog Monster"
             ],
@@ -109,7 +108,6 @@
             "deck_id": "336296",
             "rank": "5-8",
             "player": "Thomas Mechin",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Thrasios, Triton Hero",
                 "Kraum, Ludevic's Opus"
@@ -210,7 +208,6 @@
             "deck_id": "336297",
             "rank": "5-8",
             "player": "Romain Ben Amar",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Lazav, the Multifarious"
             ],
@@ -302,7 +299,6 @@
             "deck_id": "336298",
             "rank": "5-8",
             "player": "Adrien Demoget",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "The Gitrog Monster"
             ],
@@ -401,7 +397,6 @@
             "deck_id": "336299",
             "rank": "3-4",
             "player": "The Nameless One",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "The Gitrog Monster"
             ],
@@ -497,7 +492,6 @@
             "deck_id": "336300",
             "rank": "3-4",
             "player": "Kaourintin Le Guiban",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Silas Renn, Seeker Adept",
                 "Akiri, Line-Slinger"
@@ -607,7 +601,6 @@
             "deck_id": "336301",
             "rank": "2",
             "player": "Alexander Loskoutoff\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nAlexander Loskoutoff",
-            "winrate": 0.8,
             "commander": [
                 "Yuriko, the Tiger's Shadow"
             ],
@@ -703,7 +696,6 @@
             "deck_id": "336302",
             "rank": "2",
             "player": "Julien Parez",
-            "winrate": 0.8,
             "commander": [
                 "Isamaru, Hound of Konda"
             ],

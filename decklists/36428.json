@@ -10,7 +10,6 @@
             "deck_id": "474340",
             "rank": "1",
             "player": "Meihsl Misha",
-            "winrate": 0.8888888888888888,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "474341",
             "rank": "2",
             "player": "Le Guennec Loïc",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Grist, the Hunger Tide"
             ],
@@ -219,7 +217,6 @@
             "deck_id": "474342",
             "rank": "3-4",
             "player": "Schmittlin \"feyall\" Baptiste",
-            "winrate": 0.75,
             "commander": [
                 "Lurrus of the Dream-Den",
                 "Bjorna, Nightfall Alchemist",
@@ -330,7 +327,6 @@
             "deck_id": "474343",
             "rank": "3-4",
             "player": "Ollagnier Robin",
-            "winrate": 0.75,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -413,7 +409,6 @@
             "deck_id": "474344",
             "rank": "5-8",
             "player": "Moondust",
-            "winrate": 0.75,
             "commander": [
                 "Sai, Master Thopterist"
             ],
@@ -499,7 +494,6 @@
             "deck_id": "474345",
             "rank": "5-8",
             "player": "Lestienne \"askeladden\" Jules",
-            "winrate": 0.75,
             "commander": [
                 "Lurrus of the Dream-Den",
                 "Bjorna, Nightfall Alchemist",
@@ -610,7 +604,6 @@
             "deck_id": "474346",
             "rank": "5-8",
             "player": "Tassa Matthieu",
-            "winrate": 0.75,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -694,7 +687,6 @@
             "deck_id": "474347",
             "rank": "5-8",
             "player": "Michaud  Théo",
-            "winrate": 0.75,
             "commander": [
                 "Tameshi, Reality Architect"
             ],

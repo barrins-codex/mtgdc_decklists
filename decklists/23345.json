@@ -10,7 +10,6 @@
             "deck_id": "360842",
             "rank": "1",
             "player": "Hu Minzhe",
-            "winrate": 1.0,
             "commander": [
                 "Rowan Kenrith",
                 "Will Kenrith"
@@ -84,7 +83,6 @@
             "deck_id": "360843",
             "rank": "2",
             "player": "Shen Junkai",
-            "winrate": 0.8,
             "commander": [
                 "Ludevic, Necro-Alchemist",
                 "Kraum, Ludevic's Opus"

@@ -10,7 +10,6 @@
             "deck_id": "243166",
             "rank": "1",
             "player": "Antoine Dambron",
-            "winrate": 0.9090909090909091,
             "commander": [
                 "Jenara, Asura of War"
             ],
@@ -117,7 +116,6 @@
             "deck_id": "243167",
             "rank": "2",
             "player": "Alexandre Auréjac",
-            "winrate": 0.8181818181818182,
             "commander": [
                 "Wydwen, the Biting Gale"
             ],
@@ -217,7 +215,6 @@
             "deck_id": "243168",
             "rank": "3-4",
             "player": "The Nameless One",
-            "winrate": 0.8,
             "commander": [
                 "Vendilion Clique"
             ],
@@ -304,7 +301,6 @@
             "deck_id": "243169",
             "rank": "3-4",
             "player": "\"blackwidow\"",
-            "winrate": 0.8,
             "commander": [
                 "Skithiryx, the Blight Dragon"
             ],
@@ -387,7 +383,6 @@
             "deck_id": "243170",
             "rank": "5-8",
             "player": "Nicolas \"Hokija\" Liger",
-            "winrate": 0.8,
             "commander": [
                 "Nin, the Pain Artist"
             ],
@@ -469,7 +464,6 @@
             "deck_id": "243171",
             "rank": "5-8",
             "player": "Constantin \"Goldberg21\" Ruellet",
-            "winrate": 0.8,
             "commander": [
                 "Oloro, Ageless Ascetic"
             ],
@@ -579,7 +573,6 @@
             "deck_id": "243172",
             "rank": "5-8",
             "player": "Antoine Lebossé",
-            "winrate": 0.8,
             "commander": [
                 "Geist of Saint Traft"
             ],
@@ -679,7 +672,6 @@
             "deck_id": "243173",
             "rank": "5-8",
             "player": "Adrien Corda",
-            "winrate": 0.8,
             "commander": [
                 "Jenara, Asura of War"
             ],
@@ -789,7 +781,6 @@
             "deck_id": "243174",
             "rank": "9-16",
             "player": "Arnaud Baglin",
-            "winrate": 0.75,
             "commander": [
                 "Geist of Saint Traft"
             ],
@@ -889,7 +880,6 @@
             "deck_id": "243175",
             "rank": "9-16",
             "player": "Ewald Croxo",
-            "winrate": 0.75,
             "commander": [
                 "Doran, the Siege Tower"
             ],
@@ -999,7 +989,6 @@
             "deck_id": "243176",
             "rank": "9-16",
             "player": "Control - Mathieu Rorive",
-            "winrate": 0.75,
             "commander": [
                 "Oloro, Ageless Ascetic"
             ],
@@ -1106,7 +1095,6 @@
             "deck_id": "243177",
             "rank": "9-16",
             "player": "Maxence Achoun",
-            "winrate": 0.75,
             "commander": [
                 "Geist of Saint Traft"
             ],
@@ -1199,7 +1187,6 @@
             "deck_id": "243178",
             "rank": "9-16",
             "player": "Alexander \"newtraderdu78\" Loskoutoff",
-            "winrate": 0.75,
             "commander": [
                 "Jenara, Asura of War"
             ],
@@ -1309,7 +1296,6 @@
             "deck_id": "243179",
             "rank": "9-16",
             "player": "Gonzague Allouchery",
-            "winrate": 0.75,
             "commander": [
                 "Animar, Soul of Elements"
             ],
@@ -1417,7 +1403,6 @@
             "deck_id": "243180",
             "rank": "9-16",
             "player": "Control - Maxime Lenglet",
-            "winrate": 0.75,
             "commander": [
                 "Oloro, Ageless Ascetic"
             ],
@@ -1527,7 +1512,6 @@
             "deck_id": "243181",
             "rank": "9-16",
             "player": "Reanimator - Yann Barsamian",
-            "winrate": 0.75,
             "commander": [
                 "Oloro, Ageless Ascetic"
             ],

@@ -10,7 +10,6 @@
             "deck_id": "353180",
             "rank": "1",
             "player": "Dominik Maly",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Urza, Lord High Artificer"
             ],
@@ -103,7 +102,6 @@
             "deck_id": "353181",
             "rank": "5-8",
             "player": "Vojtech Haur",
-            "winrate": 0.625,
             "commander": [
                 "Tymna the Weaver",
                 "Kraum, Ludevic's Opus"
@@ -213,7 +211,6 @@
             "deck_id": "353182",
             "rank": "5-8",
             "player": "Tomas Vardzik",
-            "winrate": 0.625,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -299,7 +296,6 @@
             "deck_id": "353183",
             "rank": "5-8",
             "player": "Ondrej Smetana",
-            "winrate": 0.625,
             "commander": [
                 "Karlov of the Ghost Council"
             ],
@@ -409,7 +405,6 @@
             "deck_id": "353184",
             "rank": "5-8",
             "player": "Robert Starke",
-            "winrate": 0.625,
             "commander": [
                 "Saskia the Unyielding"
             ],
@@ -519,7 +514,6 @@
             "deck_id": "353185",
             "rank": "3-4",
             "player": "Petr Klima",
-            "winrate": 0.625,
             "commander": [
                 "Tymna the Weaver"
             ],
@@ -628,7 +622,6 @@
             "deck_id": "353186",
             "rank": "3-4",
             "player": "Pavel Podlesak",
-            "winrate": 0.625,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -710,7 +703,6 @@
             "deck_id": "353187",
             "rank": "2",
             "player": "Michal Zdansky",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Saskia the Unyielding"
             ],

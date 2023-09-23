@@ -10,7 +10,6 @@
             "deck_id": "508848",
             "rank": "1",
             "player": "Ismael Lessa",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Ertai Resurrected"
             ],
@@ -106,7 +105,6 @@
             "deck_id": "508849",
             "rank": "2",
             "player": "Ronaldo Barboza",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Sythis, Harvest's Hand"
             ],
@@ -201,7 +199,6 @@
             "deck_id": "508850",
             "rank": "3-4",
             "player": "Anderson Ruffino",
-            "winrate": 0.625,
             "commander": [
                 "Tivit, Seller of Secrets"
             ],
@@ -295,7 +292,6 @@
             "deck_id": "508851",
             "rank": "3-4",
             "player": "Ricardo Rocha",
-            "winrate": 0.625,
             "commander": [
                 "Galazeth Prismari"
             ],
@@ -391,7 +387,6 @@
             "deck_id": "508852",
             "rank": "5-8",
             "player": "Gabriel Fonseca",
-            "winrate": 0.625,
             "commander": [
                 "Karlov of the Ghost Council",
                 "Lurrus of the Dream-Den"
@@ -482,7 +477,6 @@
             "deck_id": "508853",
             "rank": "5-8",
             "player": "Gabriel Ruffino",
-            "winrate": 0.625,
             "commander": [
                 "Gut, True Soul Zealot",
                 "Inspiring Leader"
@@ -571,7 +565,6 @@
             "deck_id": "508854",
             "rank": "5-8",
             "player": "Nelson Paes",
-            "winrate": 0.625,
             "commander": [
                 "Grist, the Hunger Tide"
             ],
@@ -663,7 +656,6 @@
             "deck_id": "508855",
             "rank": "5-8",
             "player": "Caio Montes",
-            "winrate": 0.625,
             "commander": [
                 "Octavia, Living Thesis"
             ],

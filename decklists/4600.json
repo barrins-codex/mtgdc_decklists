@@ -10,7 +10,6 @@
             "deck_id": "226620",
             "rank": "1",
             "player": "Gabo Cardenas",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Zur the Enchanter"
             ],
@@ -117,7 +116,6 @@
             "deck_id": "226621",
             "rank": "1",
             "player": "Yves Bausa",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Edric, Spymaster of Trest"
             ],
@@ -214,7 +212,6 @@
             "deck_id": "226622",
             "rank": "3-4",
             "player": "Randy de Rueda",
-            "winrate": 0.625,
             "commander": [
                 "Edric, Spymaster of Trest"
             ],
@@ -312,7 +309,6 @@
             "deck_id": "226623",
             "rank": "3-4",
             "player": "Andrew Chan",
-            "winrate": 0.625,
             "commander": [
                 "Jhoira of the Ghitu"
             ],
@@ -401,7 +397,6 @@
             "deck_id": "226624",
             "rank": "5-8",
             "player": "Generie Peco",
-            "winrate": 0.625,
             "commander": [
                 "Captain Sisay"
             ],
@@ -502,7 +497,6 @@
             "deck_id": "226625",
             "rank": "5-8",
             "player": "Richmund Lim",
-            "winrate": 0.625,
             "commander": [
                 "Maelstrom Wanderer"
             ],
@@ -603,7 +597,6 @@
             "deck_id": "226626",
             "rank": "5-8",
             "player": "Lawrence Follero",
-            "winrate": 0.625,
             "commander": [
                 "Nath of the Gilt-Leaf"
             ],

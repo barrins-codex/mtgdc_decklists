@@ -10,7 +10,6 @@
             "deck_id": "444704",
             "rank": "1",
             "player": "Ste Villaraza",
-            "winrate": 1.0,
             "commander": [
                 "Inalla, Archmage Ritualist"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "444705",
             "rank": "2",
             "player": "Glenn Alesna",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Winota, Joiner of Forces"
             ],

@@ -10,7 +10,6 @@
             "deck_id": "254637",
             "rank": "1",
             "player": "Carlos Noriega",
-            "winrate": 1.0,
             "commander": [
                 "Geist of Saint Traft"
             ],
@@ -109,7 +108,6 @@
             "deck_id": "254638",
             "rank": "2",
             "player": "Eduardo Perez",
-            "winrate": 0.8,
             "commander": [
                 "Wydwen, the Biting Gale"
             ],
@@ -207,7 +205,6 @@
             "deck_id": "254639",
             "rank": "3-4",
             "player": "Ike Meza",
-            "winrate": 0.8,
             "commander": [
                 "Keranos, God of Storms"
             ],
@@ -292,7 +289,6 @@
             "deck_id": "254640",
             "rank": "3-4",
             "player": "Christian Dammert",
-            "winrate": 0.8,
             "commander": [
                 "Narset, Enlightened Master"
             ],

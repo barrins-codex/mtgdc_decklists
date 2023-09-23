@@ -10,7 +10,6 @@
             "deck_id": "464680",
             "rank": "1",
             "player": "Tiago Coimbra",
-            "winrate": 1.0,
             "commander": [
                 "Hogaak, Arisen Necropolis"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "464681",
             "rank": "2",
             "player": "Luciano Rondeli",
-            "winrate": 0.8,
             "commander": [
                 "Kinnan, Bonder Prodigy"
             ],
@@ -219,7 +217,6 @@
             "deck_id": "464682",
             "rank": "3-4",
             "player": "Carlos Eduardo",
-            "winrate": 0.8,
             "commander": [
                 "Isamaru, Hound of Konda"
             ],
@@ -307,7 +304,6 @@
             "deck_id": "464683",
             "rank": "3-4",
             "player": "Gustavo Semenzini",
-            "winrate": 0.8,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],

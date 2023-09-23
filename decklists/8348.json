@@ -10,7 +10,6 @@
             "deck_id": "247969",
             "rank": "1",
             "player": "Jean-Mathieu Gaffié",
-            "winrate": 1.0,
             "commander": [
                 "Animar, Soul of Elements"
             ],
@@ -115,7 +114,6 @@
             "deck_id": "247970",
             "rank": "2",
             "player": "Guillaume Picard",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Marath, Will of the Wild"
             ],
@@ -224,7 +222,6 @@
             "deck_id": "247971",
             "rank": "3-4",
             "player": "Fabien Pagnard",
-            "winrate": 0.3333333333333333,
             "commander": [
                 "Teysa, Orzhov Scion"
             ],
@@ -322,7 +319,6 @@
             "deck_id": "247972",
             "rank": "3-4",
             "player": "Guillaume Bigarré",
-            "winrate": 0.3333333333333333,
             "commander": [
                 "Griselbrand"
             ],

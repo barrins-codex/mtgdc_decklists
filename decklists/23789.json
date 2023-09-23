@@ -10,7 +10,6 @@
             "deck_id": "365303",
             "rank": "4",
             "player": "Tempez François",
-            "winrate": 0.8,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -92,7 +91,6 @@
             "deck_id": "365304",
             "rank": "1",
             "player": "Filatriau Franck",
-            "winrate": 1.0,
             "commander": [
                 "Kytheon, Hero of Akros"
             ],
@@ -180,7 +178,6 @@
             "deck_id": "365305",
             "rank": "2",
             "player": "Leroyer Alexandre",
-            "winrate": 0.8,
             "commander": [
                 "Akiri, Line-Slinger",
                 "Silas Renn, Seeker Adept"
@@ -290,7 +287,6 @@
             "deck_id": "365306",
             "rank": "3",
             "player": "Drapala Thomas",
-            "winrate": 0.8,
             "commander": [
                 "Edric, Spymaster of Trest"
             ],

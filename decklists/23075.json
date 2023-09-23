@@ -10,7 +10,6 @@
             "deck_id": "358342",
             "rank": "1",
             "player": "\"midas\"",
-            "winrate": 1.0,
             "commander": [
                 "Silas Renn, Seeker Adept",
                 "Akiri, Line-Slinger"
@@ -120,7 +119,6 @@
             "deck_id": "358343",
             "rank": "2",
             "player": "Gregoire Payan (koraysh)",
-            "winrate": 0.8,
             "commander": [
                 "The Gitrog Monster"
             ],
@@ -222,7 +220,6 @@
             "deck_id": "358344",
             "rank": "3-4",
             "player": "Manolo Castro",
-            "winrate": 0.8,
             "commander": [
                 "Thrasios, Triton Hero",
                 "Tymna the Weaver"
@@ -332,7 +329,6 @@
             "deck_id": "358345",
             "rank": "3-4",
             "player": "\"jojo L'asticot\"",
-            "winrate": 0.8,
             "commander": [
                 "Daretti, Scrap Savant"
             ],

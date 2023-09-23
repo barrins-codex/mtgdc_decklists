@@ -10,7 +10,6 @@
             "deck_id": "487177",
             "rank": "1",
             "player": "Pierre Coupigny",
-            "winrate": 0.8888888888888888,
             "commander": [
                 "Klothys, God of Destiny"
             ],
@@ -113,7 +112,6 @@
             "deck_id": "487178",
             "rank": "2",
             "player": "Pierre Henri Nicolas",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Light-Paws, Emperor's Voice"
             ],
@@ -191,7 +189,6 @@
             "deck_id": "487179",
             "rank": "3-4",
             "player": "Maxime Valentin",
-            "winrate": 0.75,
             "commander": [
                 "Dragonlord Ojutai"
             ],
@@ -293,7 +290,6 @@
             "deck_id": "487180",
             "rank": "3-4",
             "player": "Hugo Frémont",
-            "winrate": 0.75,
             "commander": [
                 "Yisan, the Wanderer Bard"
             ],
@@ -381,7 +377,6 @@
             "deck_id": "487181",
             "rank": "5-8",
             "player": "Remy Semet",
-            "winrate": 0.75,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -491,7 +486,6 @@
             "deck_id": "487182",
             "rank": "5-8",
             "player": "Maximilien Potel",
-            "winrate": 0.75,
             "commander": [
                 "Ezuri, Renegade Leader"
             ],
@@ -573,7 +567,6 @@
             "deck_id": "487183",
             "rank": "5-8",
             "player": "Nicolas \"thorgal666\" François",
-            "winrate": 0.75,
             "commander": [
                 "Dennick, Pious Apprentice"
             ],
@@ -674,7 +667,6 @@
             "deck_id": "487184",
             "rank": "5-8",
             "player": "Erwan Bertrand",
-            "winrate": 0.75,
             "commander": [
                 "Raffine, Scheming Seer"
             ],

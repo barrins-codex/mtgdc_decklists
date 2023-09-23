@@ -10,7 +10,6 @@
             "deck_id": "356326",
             "rank": "3-4",
             "player": "Pierre Pinoli",
-            "winrate": 0.8,
             "commander": [
                 "Thrasios, Triton Hero",
                 "Tymna the Weaver"
@@ -120,7 +119,6 @@
             "deck_id": "356327",
             "rank": "1",
             "player": "Moondust",
-            "winrate": 1.0,
             "commander": [
                 "Thrasios, Triton Hero",
                 "Tymna the Weaver"
@@ -230,7 +228,6 @@
             "deck_id": "356328",
             "rank": "2",
             "player": "Bastien Guichard",
-            "winrate": 0.8,
             "commander": [
                 "Isamaru, Hound of Konda"
             ],
@@ -308,7 +305,6 @@
             "deck_id": "356329",
             "rank": "3-4",
             "player": "Alexandre Martial",
-            "winrate": 0.8,
             "commander": [
                 "Thrasios, Triton Hero",
                 "Tymna the Weaver"

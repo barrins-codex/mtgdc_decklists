@@ -10,7 +10,6 @@
             "deck_id": "442372",
             "rank": "1",
             "player": "Pablo Lima",
-            "winrate": 1.0,
             "commander": [
                 "Ragavan, Nimble Pilferer"
             ],
@@ -91,7 +90,6 @@
             "deck_id": "442373",
             "rank": "2",
             "player": "Carlos Pires",
-            "winrate": 0.8,
             "commander": [
                 "Niv-Mizzet, Parun"
             ],
@@ -177,7 +175,6 @@
             "deck_id": "442374",
             "rank": "3-4",
             "player": "Victor Bonano",
-            "winrate": 0.6,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -281,7 +278,6 @@
             "deck_id": "442375",
             "rank": "3-4",
             "player": "Victor Burghi",
-            "winrate": 0.6,
             "commander": [
                 "Kytheon, Hero of Akros"
             ],

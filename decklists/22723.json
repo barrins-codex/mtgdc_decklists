@@ -10,7 +10,6 @@
             "deck_id": "355166",
             "rank": "4",
             "player": "Michele De Marinis",
-            "winrate": 0.6,
             "commander": [
                 "Tajic, Legion's Edge"
             ],
@@ -110,7 +109,6 @@
             "deck_id": "355167",
             "rank": "1",
             "player": "Carlo Gadaleta Caldarola",
-            "winrate": 1.0,
             "commander": [
                 "Urza, Lord High Artificer"
             ],
@@ -200,7 +198,6 @@
             "deck_id": "355168",
             "rank": "2",
             "player": "Alessandro Tattoli",
-            "winrate": 0.8,
             "commander": [
                 "Lord Windgrace"
             ],
@@ -307,7 +304,6 @@
             "deck_id": "355169",
             "rank": "3",
             "player": "Daniele Caldarola",
-            "winrate": 0.6,
             "commander": [
                 "Niv-Mizzet, Parun"
             ],

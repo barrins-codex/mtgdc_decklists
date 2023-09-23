@@ -10,7 +10,6 @@
             "deck_id": "525738",
             "rank": "1",
             "player": "Bruno Henrique",
-            "winrate": 1.0,
             "commander": [
                 "Tivit, Seller of Secrets"
             ],
@@ -105,7 +104,6 @@
             "deck_id": "525739",
             "rank": "2",
             "player": "Gustavo Silva",
-            "winrate": 0.8,
             "commander": [
                 "Grist, the Hunger Tide"
             ],
@@ -204,7 +202,6 @@
             "deck_id": "525740",
             "rank": "3",
             "player": "Samuel Martins",
-            "winrate": 0.6,
             "commander": [
                 "The Beamtown Bullies"
             ],

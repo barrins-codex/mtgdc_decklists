@@ -10,7 +10,6 @@
             "deck_id": "466159",
             "rank": "1",
             "player": "Thomas Méchin",
-            "winrate": 0.9,
             "commander": [
                 "Shorikai, Genesis Engine"
             ],
@@ -111,7 +110,6 @@
             "deck_id": "466160",
             "rank": "2",
             "player": "Maxime Morillon",
-            "winrate": 0.8,
             "commander": [
                 "Dennick, Pious Apprentice"
             ],
@@ -213,7 +211,6 @@
             "deck_id": "466161",
             "rank": "3-4",
             "player": "François Nicolas",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -295,7 +292,6 @@
             "deck_id": "466162",
             "rank": "3-4",
             "player": "Kilian Zunino",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -398,7 +394,6 @@
             "deck_id": "466163",
             "rank": "5-8",
             "player": "Vincent Ringuedé",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Dennick, Pious Apprentice"
             ],
@@ -500,7 +495,6 @@
             "deck_id": "466164",
             "rank": "5-8",
             "player": "Pierre Clavieras",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Grist, the Hunger Tide"
             ],
@@ -602,7 +596,6 @@
             "deck_id": "466165",
             "rank": "5-8",
             "player": "Florian Guillet",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Golos, Tireless Pilgrim"
             ],
@@ -712,7 +705,6 @@
             "deck_id": "466166",
             "rank": "5-8",
             "player": "Tlt",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Hogaak, Arisen Necropolis"
             ],

@@ -10,7 +10,6 @@
             "deck_id": "300379",
             "rank": "1",
             "player": "Justo Chacon",
-            "winrate": 1.0,
             "commander": [
                 "Tymna the Weaver",
                 "Thrasios, Triton Hero"
@@ -115,7 +114,6 @@
             "deck_id": "300380",
             "rank": "2",
             "player": "Hermilio Rosas",
-            "winrate": 0.8,
             "commander": [
                 "Thrasios, Triton Hero",
                 "Tymna the Weaver"
@@ -225,7 +223,6 @@
             "deck_id": "300381",
             "rank": "3",
             "player": "Claudio Naranjo",
-            "winrate": 0.8,
             "commander": [
                 "Zurgo Bellstriker"
             ],
@@ -308,7 +305,6 @@
             "deck_id": "300382",
             "rank": "4",
             "player": "Miguel Zulueta",
-            "winrate": 0.6,
             "commander": [
                 "Grenzo, Dungeon Warden"
             ],
@@ -407,7 +403,6 @@
             "deck_id": "300383",
             "rank": "5",
             "player": "Eduardo Perez",
-            "winrate": 0.6,
             "commander": [
                 "Nin, the Pain Artist"
             ],
@@ -501,7 +496,6 @@
             "deck_id": "300386",
             "rank": "8",
             "player": "Manuel Arescurenaga",
-            "winrate": 0.6,
             "commander": [
                 "Geist of Saint Traft"
             ],
@@ -606,7 +600,6 @@
             "deck_id": "300388",
             "rank": "7",
             "player": "Manuel Caamaño",
-            "winrate": 0.6,
             "commander": [
                 "Geist of Saint Traft"
             ],
@@ -706,7 +699,6 @@
             "deck_id": "300389",
             "rank": "6",
             "player": "Enrique Lopez",
-            "winrate": 0.6,
             "commander": [
                 "Reyhan, Last of the Abzan",
                 "Bruse Tarl, Boorish Herder"

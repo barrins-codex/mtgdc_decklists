@@ -10,7 +10,6 @@
             "deck_id": "495225",
             "rank": "1",
             "player": "Paul Relativo",
-            "winrate": 0.8888888888888888,
             "commander": [
                 "Niv-Mizzet Reborn"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "495226",
             "rank": "2",
             "player": "Rai Reyes",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Ghyrson Starn, Kelermorph"
             ],
@@ -223,7 +221,6 @@
             "deck_id": "495227",
             "rank": "3-4",
             "player": "Rexel Tenorio",
-            "winrate": 0.75,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -333,7 +330,6 @@
             "deck_id": "495228",
             "rank": "3-4",
             "player": "Mark Lasam",
-            "winrate": 0.75,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -443,7 +439,6 @@
             "deck_id": "495229",
             "rank": "5-8",
             "player": "Ken Decena",
-            "winrate": 0.75,
             "commander": [
                 "Klothys, God of Destiny"
             ],
@@ -546,7 +541,6 @@
             "deck_id": "495230",
             "rank": "5-8",
             "player": "Aerwin Asico",
-            "winrate": 0.75,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -627,7 +621,6 @@
             "deck_id": "495231",
             "rank": "5-8",
             "player": "Cilbert Corpuz",
-            "winrate": 0.75,
             "commander": [
                 "Rem Karolus, Stalwart Slayer"
             ],
@@ -734,7 +727,6 @@
             "deck_id": "495232",
             "rank": "5-8",
             "player": "Earl Castel",
-            "winrate": 0.75,
             "commander": [
                 "Old Stickfingers"
             ],

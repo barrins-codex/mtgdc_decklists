@@ -10,7 +10,6 @@
             "deck_id": "486569",
             "rank": "1",
             "player": "Thibaut Cantaluppi",
-            "winrate": 1.0,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -99,7 +98,6 @@
             "deck_id": "486570",
             "rank": "2",
             "player": "Charlie Cha",
-            "winrate": 0.8,
             "commander": [
                 "Grenzo, Dungeon Warden"
             ],

@@ -10,7 +10,6 @@
             "deck_id": "498692",
             "rank": "1",
             "player": "Ste Villaraza",
-            "winrate": 1.0,
             "commander": [
                 "Elminster"
             ],
@@ -113,7 +112,6 @@
             "deck_id": "498693",
             "rank": "2",
             "player": "Rai Reyes",
-            "winrate": 0.8,
             "commander": [
                 "Ghyrson Starn, Kelermorph"
             ],
@@ -216,7 +214,6 @@
             "deck_id": "498694",
             "rank": "3-4",
             "player": "Ian Roa",
-            "winrate": 0.8,
             "commander": [
                 "Hogaak, Arisen Necropolis"
             ],
@@ -319,7 +316,6 @@
             "deck_id": "498695",
             "rank": "3-4",
             "player": "Martin Ogayon",
-            "winrate": 0.8,
             "commander": [
                 "Grist, the Hunger Tide"
             ],
@@ -422,7 +418,6 @@
             "deck_id": "498696",
             "rank": "5-8",
             "player": "Jeremiah Maigue",
-            "winrate": 0.6,
             "commander": [
                 "Yoshimaru, Ever Faithful",
                 "Ludevic, Necro-Alchemist"
@@ -522,7 +517,6 @@
             "deck_id": "498697",
             "rank": "5-8",
             "player": "Dinno Zaide",
-            "winrate": 0.6,
             "commander": [
                 "Ghyrson Starn, Kelermorph"
             ],
@@ -623,7 +617,6 @@
             "deck_id": "498698",
             "rank": "5-8",
             "player": "Earl Castel",
-            "winrate": 0.6,
             "commander": [
                 "Old Stickfingers"
             ],
@@ -726,7 +719,6 @@
             "deck_id": "498699",
             "rank": "5-8",
             "player": "Christian Agbon",
-            "winrate": 0.6,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],

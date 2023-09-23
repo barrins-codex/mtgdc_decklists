@@ -10,7 +10,6 @@
             "deck_id": "480844",
             "rank": "1",
             "player": "Jarbs Sahagun",
-            "winrate": 1.0,
             "commander": [
                 "Tivit, Seller of Secrets"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "480845",
             "rank": "2",
             "player": "Gabe Enriquez",
-            "winrate": 0.8,
             "commander": [
                 "Minsc &amp; Boo, Timeless Heroes"
             ],
@@ -223,7 +221,6 @@
             "deck_id": "480846",
             "rank": "3-4",
             "player": "Richmund Lim",
-            "winrate": 0.8,
             "commander": [
                 "Titania, Protector of Argoth"
             ],
@@ -319,7 +316,6 @@
             "deck_id": "480847",
             "rank": "3-4",
             "player": "Martin Ikemura",
-            "winrate": 0.8,
             "commander": [
                 "The Ur-Dragon"
             ],
@@ -428,7 +424,6 @@
             "deck_id": "480848",
             "rank": "5-8",
             "player": "Robert Soriano",
-            "winrate": 0.6,
             "commander": [
                 "Lurrus of the Dream-Den",
                 "Wernog, Rider's Chaplain",
@@ -539,7 +534,6 @@
             "deck_id": "480849",
             "rank": "5-8",
             "player": "Mark Lasam",
-            "winrate": 0.6,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -649,7 +643,6 @@
             "deck_id": "480850",
             "rank": "5-8",
             "player": "John Ephraim Nilo",
-            "winrate": 0.6,
             "commander": [
                 "Ludevic, Necro-Alchemist",
                 "Jeska, Thrice Reborn"
@@ -743,7 +736,6 @@
             "deck_id": "480851",
             "rank": "5-8",
             "player": "Glenn Alesna",
-            "winrate": 0.6,
             "commander": [
                 "Isamaru, Hound of Konda"
             ],

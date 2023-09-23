@@ -10,7 +10,6 @@
             "deck_id": "440684",
             "rank": "1",
             "player": "Cruz",
-            "winrate": 1.0,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -98,7 +97,6 @@
             "deck_id": "440685",
             "rank": "2",
             "player": "Conja",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Heliod, Sun-Crowned"
             ],
@@ -181,7 +179,6 @@
             "deck_id": "440686",
             "rank": "3",
             "player": "Lucas Feliz",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Octavia, Living Thesis"
             ],
@@ -255,7 +252,6 @@
             "deck_id": "440687",
             "rank": "4",
             "player": "Ravi Zörnig",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Hogaak, Arisen Necropolis"
             ],

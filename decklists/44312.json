@@ -10,7 +10,6 @@
             "deck_id": "526941",
             "rank": "1",
             "player": "Julien \"night\" Caillaux",
-            "winrate": 1.0,
             "commander": [
                 "Dihada, Binder of Wills"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "526942",
             "rank": "2",
             "player": "Noah Kollin",
-            "winrate": 0.8,
             "commander": [
                 "Faceless One",
                 "Gut, True Soul Zealot"
@@ -208,7 +206,6 @@
             "deck_id": "526943",
             "rank": "3-4",
             "player": "Charles Dupont",
-            "winrate": 0.8,
             "commander": [
                 "Ulamog, the Ceaseless Hunger"
             ],
@@ -317,7 +314,6 @@
             "deck_id": "526944",
             "rank": "3-4",
             "player": "Arthur Le Goanvic",
-            "winrate": 0.8,
             "commander": [
                 "Raffine, Scheming Seer"
             ],

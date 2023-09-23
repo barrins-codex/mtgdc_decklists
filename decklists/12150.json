@@ -10,7 +10,6 @@
             "deck_id": "269701",
             "rank": "3-4",
             "player": "Guilherme Figueira",
-            "winrate": 0.8,
             "commander": [
                 "Keranos, God of Storms"
             ],
@@ -100,7 +99,6 @@
             "deck_id": "269702",
             "rank": "3-4",
             "player": "João Eduardo Santos",
-            "winrate": 0.8,
             "commander": [
                 "Jenara, Asura of War"
             ],
@@ -209,7 +207,6 @@
             "deck_id": "269703",
             "rank": "1",
             "player": "Caio Ricci",
-            "winrate": 1.0,
             "commander": [
                 "The Gitrog Monster"
             ],
@@ -311,7 +308,6 @@
             "deck_id": "269704",
             "rank": "2",
             "player": "Leonardo \"Estranho\" Martins",
-            "winrate": 0.8,
             "commander": [
                 "Jace, Vryn's Prodigy"
             ],

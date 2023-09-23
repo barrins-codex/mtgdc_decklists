@@ -10,7 +10,6 @@
             "deck_id": "512134",
             "rank": "1",
             "player": "Louise Petit--noé",
-            "winrate": 0.8888888888888888,
             "commander": [
                 "Feldon, Ronom Excavator"
             ],
@@ -97,7 +96,6 @@
             "deck_id": "512135",
             "rank": "2",
             "player": "Gweltaz \"taz\" Le Roux",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Gut, True Soul Zealot",
                 "Inspiring Leader"
@@ -200,7 +198,6 @@
             "deck_id": "512136",
             "rank": "3-4",
             "player": "Raphaël Lesieur",
-            "winrate": 0.75,
             "commander": [
                 "Niv-Mizzet Reborn"
             ],
@@ -310,7 +307,6 @@
             "deck_id": "512137",
             "rank": "3-4",
             "player": "Yanis \"mnshk\" Raveton",
-            "winrate": 0.75,
             "commander": [
                 "Greasefang, Okiba Boss"
             ],
@@ -415,7 +411,6 @@
             "deck_id": "512138",
             "rank": "5-8",
             "player": "Emilien Pichereau",
-            "winrate": 0.75,
             "commander": [
                 "Soul of Windgrace"
             ],
@@ -522,7 +517,6 @@
             "deck_id": "512139",
             "rank": "5-8",
             "player": "Adrien \"minou\" Bellanger",
-            "winrate": 0.75,
             "commander": [
                 "Yoshimaru, Ever Faithful",
                 "Tana, the Bloodsower"
@@ -628,7 +622,6 @@
             "deck_id": "512140",
             "rank": "5-8",
             "player": "Thibaud Boivin",
-            "winrate": 0.75,
             "commander": [
                 "Sythis, Harvest's Hand"
             ],
@@ -728,7 +721,6 @@
             "deck_id": "512141",
             "rank": "5-8",
             "player": "Charlie \"herzats\" Delabrousse",
-            "winrate": 0.75,
             "commander": [
                 "Yoshimaru, Ever Faithful",
                 "Bruse Tarl, Boorish Herder"

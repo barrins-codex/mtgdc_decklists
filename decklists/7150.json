@@ -10,7 +10,6 @@
             "deck_id": "240991",
             "rank": "1",
             "player": "Jakub Zakouril",
-            "winrate": 0.8888888888888888,
             "commander": [
                 "Marath, Will of the Wild"
             ],
@@ -118,7 +117,6 @@
             "deck_id": "240992",
             "rank": "2",
             "player": "Viktor Jasansky",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Oloro, Ageless Ascetic"
             ],
@@ -228,7 +226,6 @@
             "deck_id": "240993",
             "rank": "3-4",
             "player": "Dominik Maly",
-            "winrate": 0.75,
             "commander": [
                 "Ruhan of the Fomori"
             ],
@@ -334,7 +331,6 @@
             "deck_id": "240994",
             "rank": "3-4",
             "player": "Miroslav Vana",
-            "winrate": 0.75,
             "commander": [
                 "Maelstrom Wanderer"
             ],
@@ -429,7 +425,6 @@
             "deck_id": "240995",
             "rank": "5-8",
             "player": "Jakub Sykora",
-            "winrate": 0.75,
             "commander": [
                 "Maelstrom Wanderer"
             ],
@@ -537,7 +532,6 @@
             "deck_id": "240996",
             "rank": "5-8",
             "player": "Pavel Tvrznik",
-            "winrate": 0.75,
             "commander": [
                 "Arcum Dagsson"
             ],
@@ -629,7 +623,6 @@
             "deck_id": "240997",
             "rank": "5-8",
             "player": "Jan Lom",
-            "winrate": 0.75,
             "commander": [
                 "Jenara, Asura of War"
             ],
@@ -739,7 +732,6 @@
             "deck_id": "240998",
             "rank": "5-8",
             "player": "Marek Celar",
-            "winrate": 0.75,
             "commander": [
                 "Geist of Saint Traft"
             ],

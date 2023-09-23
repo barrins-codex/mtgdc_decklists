@@ -10,7 +10,6 @@
             "deck_id": "464896",
             "rank": "1",
             "player": "Nelvine Tuano",
-            "winrate": 1.0,
             "commander": [
                 "Nissa, Vastwood Seer"
             ],
@@ -103,7 +102,6 @@
             "deck_id": "464897",
             "rank": "2",
             "player": "Joel San Jose, Jr.",
-            "winrate": 0.8,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -213,7 +211,6 @@
             "deck_id": "464898",
             "rank": "3-4",
             "player": "Jan Hortaleza",
-            "winrate": 0.6,
             "commander": [
                 "General Ferrous Rokiric"
             ],
@@ -319,7 +316,6 @@
             "deck_id": "464899",
             "rank": "3-4",
             "player": "Martin Ogayon",
-            "winrate": 0.6,
             "commander": [
                 "Light-Paws, Emperor's Voice"
             ],

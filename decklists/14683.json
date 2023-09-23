@@ -10,7 +10,6 @@
             "deck_id": "288238",
             "rank": "3-4",
             "player": "Sergey \"volga\" Efimov",
-            "winrate": 0.8,
             "commander": [
                 "Kraum, Ludevic's Opus",
                 "Vial Smasher the Fierce"
@@ -108,7 +107,6 @@
             "deck_id": "288239",
             "rank": "2",
             "player": "Alexander \"zamo\" Shust",
-            "winrate": 0.8,
             "commander": [
                 "Saskia the Unyielding"
             ],
@@ -218,7 +216,6 @@
             "deck_id": "288240",
             "rank": "3-4",
             "player": "Andrey \"sccblazer\" Zavialov",
-            "winrate": 0.8,
             "commander": [
                 "Queen Marchesa"
             ],
@@ -326,7 +323,6 @@
             "deck_id": "288241",
             "rank": "1",
             "player": "Matvey Dolganov",
-            "winrate": 1.0,
             "commander": [
                 "Kraum, Ludevic's Opus",
                 "Vial Smasher the Fierce"

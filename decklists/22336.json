@@ -10,7 +10,6 @@
             "deck_id": "351570",
             "rank": "3-4",
             "player": "Damien Hayeault",
-            "winrate": 0.8,
             "commander": [
                 "Yuriko, the Tiger's Shadow"
             ],
@@ -110,7 +109,6 @@
             "deck_id": "351571",
             "rank": "3-4",
             "player": "Gaetan Lavender",
-            "winrate": 0.8,
             "commander": [
                 "Queen Marchesa"
             ],
@@ -220,7 +218,6 @@
             "deck_id": "351572",
             "rank": "2",
             "player": "Alexandre Leroyer",
-            "winrate": 0.8,
             "commander": [
                 "Titania, Protector of Argoth"
             ],
@@ -317,7 +314,6 @@
             "deck_id": "351573",
             "rank": "1",
             "player": "Kaourintin \"falaakr\" Le Guiban",
-            "winrate": 1.0,
             "commander": [
                 "Silas Renn, Seeker Adept",
                 "Akiri, Line-Slinger"

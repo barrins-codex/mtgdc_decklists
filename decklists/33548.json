@@ -10,7 +10,6 @@
             "deck_id": "455593",
             "rank": "1",
             "player": "Thibaut Bredzinski",
-            "winrate": 1.0,
             "commander": [
                 "Malcolm, Keen-Eyed Navigator",
                 "Livio, Oathsworn Sentinel"
@@ -110,7 +109,6 @@
             "deck_id": "455594",
             "rank": "2",
             "player": "Louis Guichard",
-            "winrate": 0.8,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -198,7 +196,6 @@
             "deck_id": "455595",
             "rank": "3-4",
             "player": "Sebastien Flottes",
-            "winrate": 0.8,
             "commander": [
                 "Kraum, Ludevic's Opus",
                 "Malcolm, Keen-Eyed Navigator"
@@ -292,7 +289,6 @@
             "deck_id": "455596",
             "rank": "3-4",
             "player": "Alexandre Casagrande",
-            "winrate": 0.8,
             "commander": [
                 "Venser, Shaper Savant"
             ],
@@ -370,7 +366,6 @@
             "deck_id": "455597",
             "rank": "5-8",
             "player": "Alexandre Iffrig",
-            "winrate": 0.6,
             "commander": [
                 "Adeliz, the Cinder Wind"
             ],
@@ -469,7 +464,6 @@
             "deck_id": "455598",
             "rank": "5-8",
             "player": "Cédric Roy",
-            "winrate": 0.6,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -579,7 +573,6 @@
             "deck_id": "455599",
             "rank": "5-8",
             "player": "Louis Machinaud",
-            "winrate": 0.6,
             "commander": [
                 "Tajic, Legion's Edge"
             ],
@@ -674,7 +667,6 @@
             "deck_id": "455600",
             "rank": "5-8",
             "player": "Jean Gouzy",
-            "winrate": 0.6,
             "commander": [
                 "Malcolm, Keen-Eyed Navigator",
                 "Livio, Oathsworn Sentinel"

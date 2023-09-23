@@ -10,7 +10,6 @@
             "deck_id": "458548",
             "rank": "1",
             "player": "He Ying",
-            "winrate": 1.0,
             "commander": [
                 "Golos, Tireless Pilgrim"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "458549",
             "rank": "2",
             "player": "Zhang Cang",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Venser, Shaper Savant"
             ],

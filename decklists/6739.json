@@ -10,7 +10,6 @@
             "deck_id": "238705",
             "rank": "1",
             "player": "Jose Arguelles",
-            "winrate": 0.8888888888888888,
             "commander": [
                 "Oloro, Ageless Ascetic"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "238706",
             "rank": "2",
             "player": "Ben Cardenas",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Marath, Will of the Wild"
             ],
@@ -229,7 +227,6 @@
             "deck_id": "238708",
             "rank": "3-4",
             "player": "Arthur Tanion",
-            "winrate": 0.75,
             "commander": [
                 "Geist of Saint Traft"
             ],
@@ -330,7 +327,6 @@
             "deck_id": "238709",
             "rank": "5-8",
             "player": "Reggie Jbeili",
-            "winrate": 0.75,
             "commander": [
                 "Talrand, Sky Summoner"
             ],
@@ -413,7 +409,6 @@
             "deck_id": "238710",
             "rank": "5-8",
             "player": "Gerry Ramos",
-            "winrate": 0.75,
             "commander": [
                 "Geist of Saint Traft"
             ],
@@ -514,7 +509,6 @@
             "deck_id": "238711",
             "rank": "5-8",
             "player": "Don Bunag",
-            "winrate": 0.75,
             "commander": [
                 "Thraximundar"
             ],
@@ -619,7 +613,6 @@
             "deck_id": "238720",
             "rank": "3-4",
             "player": "Kevin Gonzales",
-            "winrate": 0.75,
             "commander": [
                 "Ruhan of the Fomori"
             ],
@@ -729,7 +722,6 @@
             "deck_id": "238721",
             "rank": "5-8",
             "player": "Jethro Altarejos",
-            "winrate": 0.75,
             "commander": [
                 "Sigarda, Host of Herons"
             ],

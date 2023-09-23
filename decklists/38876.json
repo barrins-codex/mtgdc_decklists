@@ -10,7 +10,6 @@
             "deck_id": "490053",
             "rank": "1",
             "player": "William Graciane",
-            "winrate": 1.0,
             "commander": [
                 "Sidar Kondo of Jamuraa",
                 "Dargo, the Shipwrecker"
@@ -119,7 +118,6 @@
             "deck_id": "490054",
             "rank": "2",
             "player": "Orlando Bibiano",
-            "winrate": 0.8,
             "commander": [
                 "Niv-Mizzet, Parun"
             ],
@@ -216,7 +214,6 @@
             "deck_id": "490055",
             "rank": "3",
             "player": "Victor Burghi",
-            "winrate": 0.6,
             "commander": [
                 "Saskia the Unyielding"
             ],
@@ -326,7 +323,6 @@
             "deck_id": "490056",
             "rank": "4",
             "player": "Lucas Augusto",
-            "winrate": 0.6,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],

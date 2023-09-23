@@ -10,7 +10,6 @@
             "deck_id": "232640",
             "rank": "1",
             "player": "Julien \"Lyserg\" Henry",
-            "winrate": 0.9,
             "commander": [
                 "Karador, Ghost Chieftain"
             ],
@@ -118,7 +117,6 @@
             "deck_id": "232641",
             "rank": "2",
             "player": "\"Moondust\"",
-            "winrate": 0.8,
             "commander": [
                 "Zur the Enchanter"
             ],
@@ -228,7 +226,6 @@
             "deck_id": "232642",
             "rank": "3-4",
             "player": "Claire Dupré",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Geist of Saint Traft"
             ],
@@ -328,7 +325,6 @@
             "deck_id": "232643",
             "rank": "3-4",
             "player": "Vincent Constentin",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Dralnu, Lich Lord"
             ],
@@ -427,7 +423,6 @@
             "deck_id": "232644",
             "rank": "5-8",
             "player": "Benjamin Garçon",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Geist of Saint Traft"
             ],
@@ -525,7 +520,6 @@
             "deck_id": "232645",
             "rank": "5-8",
             "player": "Xavier Renoul",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Karador, Ghost Chieftain"
             ],
@@ -634,7 +628,6 @@
             "deck_id": "232646",
             "rank": "5-8",
             "player": "Pierre \"LaPince\" Laisné",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Zur the Enchanter"
             ],
@@ -742,7 +735,6 @@
             "deck_id": "232647",
             "rank": "5-8",
             "player": "Simon Pilorget",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Maelstrom Wanderer"
             ],

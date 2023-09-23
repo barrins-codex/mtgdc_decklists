@@ -10,7 +10,6 @@
             "deck_id": "217437",
             "rank": "1",
             "player": "Antoine Fruscio",
-            "winrate": 0.8888888888888888,
             "commander": [
                 "Omnath, Locus of Mana"
             ],
@@ -95,7 +94,6 @@
             "deck_id": "217438",
             "rank": "2",
             "player": "Guillaume \"mastman\" Letizia",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Rhys the Redeemed"
             ],
@@ -190,7 +188,6 @@
             "deck_id": "217439",
             "rank": "3-4",
             "player": "Alexandre Villot",
-            "winrate": 0.75,
             "commander": [
                 "Doran, the Siege Tower"
             ],

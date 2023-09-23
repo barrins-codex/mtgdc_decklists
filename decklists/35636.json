@@ -10,7 +10,6 @@
             "deck_id": "468906",
             "rank": "1",
             "player": "Fabien Souleys",
-            "winrate": 1.0,
             "commander": [
                 "Isamaru, Hound of Konda"
             ],
@@ -98,7 +97,6 @@
             "deck_id": "468907",
             "rank": "2",
             "player": "Kevin Saint-martin",
-            "winrate": 0.8,
             "commander": [
                 "Hogaak, Arisen Necropolis"
             ],
@@ -208,7 +206,6 @@
             "deck_id": "468908",
             "rank": "3",
             "player": "Pierre Bats",
-            "winrate": 0.6,
             "commander": [
                 "Shorikai, Genesis Engine"
             ],
@@ -309,7 +306,6 @@
             "deck_id": "468909",
             "rank": "4",
             "player": "Bastien Lanneluc",
-            "winrate": 0.6,
             "commander": [
                 "Saskia the Unyielding"
             ],

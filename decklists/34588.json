@@ -10,7 +10,6 @@
             "deck_id": "462222",
             "rank": "1",
             "player": "Yan Lorente",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Marath, Will of the Wild"
             ],
@@ -114,7 +113,6 @@
             "deck_id": "462223",
             "rank": "2",
             "player": "Benoit \"beno\"",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Lonis, Cryptozoologist"
             ],
@@ -212,7 +210,6 @@
             "deck_id": "462224",
             "rank": "3-4",
             "player": "Nicolas \"thorgal666\" François",
-            "winrate": 0.625,
             "commander": [
                 "Sythis, Harvest's Hand"
             ],
@@ -312,7 +309,6 @@
             "deck_id": "462225",
             "rank": "3-4",
             "player": "Seb Guerin",
-            "winrate": 0.625,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -422,7 +418,6 @@
             "deck_id": "462226",
             "rank": "5-8",
             "player": "Pierre Henri François",
-            "winrate": 0.625,
             "commander": [
                 "Saskia the Unyielding"
             ],
@@ -532,7 +527,6 @@
             "deck_id": "462227",
             "rank": "5-8",
             "player": "Camille Nicolas",
-            "winrate": 0.625,
             "commander": [
                 "Prossh, Skyraider of Kher"
             ],
@@ -642,7 +636,6 @@
             "deck_id": "462228",
             "rank": "5-8",
             "player": "Edgar Francken",
-            "winrate": 0.625,
             "commander": [
                 "Galazeth Prismari"
             ],
@@ -740,7 +733,6 @@
             "deck_id": "462229",
             "rank": "5-8",
             "player": "Potel Maximilien",
-            "winrate": 0.625,
             "commander": [
                 "Isamaru, Hound of Konda"
             ],

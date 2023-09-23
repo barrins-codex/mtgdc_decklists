@@ -10,7 +10,6 @@
             "deck_id": "466123",
             "rank": "1",
             "player": "Janiboy Hortaleza",
-            "winrate": 1.0,
             "commander": [
                 "General Ferrous Rokiric"
             ],
@@ -116,7 +115,6 @@
             "deck_id": "466124",
             "rank": "2",
             "player": "Dyi Mi",
-            "winrate": 0.8,
             "commander": [
                 "Old Stickfingers"
             ],
@@ -208,7 +206,6 @@
             "deck_id": "466125",
             "rank": "3-4",
             "player": "Martin Ogayon",
-            "winrate": 0.6,
             "commander": [
                 "Light-Paws, Emperor's Voice"
             ],
@@ -300,7 +297,6 @@
             "deck_id": "466126",
             "rank": "3-4",
             "player": "Allan Caluste",
-            "winrate": 0.6,
             "commander": [
                 "Hogaak, Arisen Necropolis"
             ],

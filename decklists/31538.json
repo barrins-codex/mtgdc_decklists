@@ -10,7 +10,6 @@
             "deck_id": "444276",
             "rank": "1",
             "player": "Idriss Achouri",
-            "winrate": 0.9,
             "commander": [
                 "Grenzo, Dungeon Warden"
             ],
@@ -108,7 +107,6 @@
             "deck_id": "444277",
             "rank": "2",
             "player": "Kaourintin \"falaakr\" Le Guiban",
-            "winrate": 0.8,
             "commander": [
                 "Inalla, Archmage Ritualist"
             ],
@@ -218,7 +216,6 @@
             "deck_id": "444278",
             "rank": "3-4",
             "player": "Martial \"mars\" Moreau",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Ragavan, Nimble Pilferer"
             ],
@@ -305,7 +302,6 @@
             "deck_id": "444279",
             "rank": "3-4",
             "player": "Anthony Hurot",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Ragavan, Nimble Pilferer"
             ],
@@ -392,7 +388,6 @@
             "deck_id": "444280",
             "rank": "5-8",
             "player": "Jordan Walczak",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Ragavan, Nimble Pilferer"
             ],
@@ -478,7 +473,6 @@
             "deck_id": "444281",
             "rank": "5-8",
             "player": "Charles Wickham",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Inalla, Archmage Ritualist"
             ],
@@ -586,7 +580,6 @@
             "deck_id": "444282",
             "rank": "5-8",
             "player": "Flavien \"crimelune\" Paillet",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Malcolm, Keen-Eyed Navigator",
                 "Livio, Oathsworn Sentinel"
@@ -684,7 +677,6 @@
             "deck_id": "444283",
             "rank": "5-8",
             "player": "Florent Poupeau",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Karlov of the Ghost Council"
             ],
@@ -794,7 +786,6 @@
             "deck_id": "444284",
             "rank": "9-16",
             "player": "Jefferson Richard",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Ragavan, Nimble Pilferer"
             ],
@@ -875,7 +866,6 @@
             "deck_id": "444285",
             "rank": "9-16",
             "player": "Antoine Guillet",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Winota, Joiner of Forces"
             ],
@@ -973,7 +963,6 @@
             "deck_id": "444286",
             "rank": "9-16",
             "player": "Moncana",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Miara, Thorn of the Glade",
                 "Tevesh Szat, Doom of Fools"
@@ -1055,7 +1044,6 @@
             "deck_id": "444287",
             "rank": "9-16",
             "player": "Thomas \"yaga\" Brochard",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Inalla, Archmage Ritualist"
             ],
@@ -1165,7 +1153,6 @@
             "deck_id": "444288",
             "rank": "9-16",
             "player": "The Nameless One",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Hogaak, Arisen Necropolis"
             ],
@@ -1275,7 +1262,6 @@
             "deck_id": "444289",
             "rank": "9-16",
             "player": "Mathieu Biffraut",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Niv-Mizzet Reborn"
             ],
@@ -1385,7 +1371,6 @@
             "deck_id": "444290",
             "rank": "9-16",
             "player": "Ugo Scaramelli",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Adeliz, the Cinder Wind"
             ],
@@ -1480,7 +1465,6 @@
             "deck_id": "444291",
             "rank": "9-16",
             "player": "Quentin \"bobota\" Rullaud",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Ragavan, Nimble Pilferer"
             ],

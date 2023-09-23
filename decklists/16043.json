@@ -10,7 +10,6 @@
             "deck_id": "298771",
             "rank": "1",
             "player": "Jean-baptiste Gagnepain",
-            "winrate": 0.9,
             "commander": [
                 "Reyhan, Last of the Abzan",
                 "Bruse Tarl, Boorish Herder"
@@ -120,7 +119,6 @@
             "deck_id": "298772",
             "rank": "3-4",
             "player": "Pierre Picot",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Geist of Saint Traft"
             ],
@@ -216,7 +214,6 @@
             "deck_id": "298773",
             "rank": "2",
             "player": "Aristide Blanpied",
-            "winrate": 0.8,
             "commander": [
                 "Thrasios, Triton Hero",
                 "Tymna the Weaver"
@@ -322,7 +319,6 @@
             "deck_id": "298774",
             "rank": "3-4",
             "player": "Stéphane Copreaux",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Geist of Saint Traft"
             ],
@@ -417,7 +413,6 @@
             "deck_id": "298775",
             "rank": "5-8",
             "player": "François Cloux",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Zurgo Bellstriker"
             ],
@@ -501,7 +496,6 @@
             "deck_id": "298776",
             "rank": "5-8",
             "player": "Constantin Bône",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Queen Marchesa"
             ],
@@ -611,7 +605,6 @@
             "deck_id": "298777",
             "rank": "5-8",
             "player": "Olivieri Matthieu",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Baral, Chief of Compliance"
             ],
@@ -694,7 +687,6 @@
             "deck_id": "298778",
             "rank": "5-8",
             "player": "Ribeiro Victor-manuel",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Chandra, Fire of Kaladesh"
             ],

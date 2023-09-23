@@ -10,7 +10,6 @@
             "deck_id": "270794",
             "rank": "3-4",
             "player": "Guilherme Figueira",
-            "winrate": 0.8,
             "commander": [
                 "Keranos, God of Storms"
             ],
@@ -100,7 +99,6 @@
             "deck_id": "270795",
             "rank": "3-4",
             "player": "Lucas Betarello",
-            "winrate": 0.8,
             "commander": [
                 "Ob Nixilis, the Fallen"
             ],
@@ -195,7 +193,6 @@
             "deck_id": "270796",
             "rank": "2",
             "player": "Eduardo Takehana",
-            "winrate": 0.8,
             "commander": [
                 "Thalia, Guardian of Thraben"
             ],
@@ -275,7 +272,6 @@
             "deck_id": "270797",
             "rank": "1",
             "player": "João Eduardo Santos",
-            "winrate": 1.0,
             "commander": [
                 "Jenara, Asura of War"
             ],

@@ -10,7 +10,6 @@
             "deck_id": "282625",
             "rank": "1",
             "player": "Fábio Fernandes Vieira",
-            "winrate": 1.0,
             "commander": [
                 "Jenara, Asura of War"
             ],
@@ -118,7 +117,6 @@
             "deck_id": "282626",
             "rank": "2",
             "player": "Bruno Karam",
-            "winrate": 0.8,
             "commander": [
                 "Titania, Protector of Argoth"
             ],
@@ -209,7 +207,6 @@
             "deck_id": "282627",
             "rank": "3-4",
             "player": "Guilherme Tavares",
-            "winrate": 0.6,
             "commander": [
                 "Zurgo Bellstriker"
             ],
@@ -284,7 +281,6 @@
             "deck_id": "282628",
             "rank": "3-4",
             "player": "Eduardo Takehana",
-            "winrate": 0.6,
             "commander": [
                 "Meren of Clan Nel Toth"
             ],
@@ -374,7 +370,6 @@
             "deck_id": "282629",
             "rank": "5-8",
             "player": "Guilherme Figueira",
-            "winrate": 0.6,
             "commander": [
                 "Keranos, God of Storms"
             ],
@@ -464,7 +459,6 @@
             "deck_id": "282630",
             "rank": "5-8",
             "player": "Akenamon Daher",
-            "winrate": 0.6,
             "commander": [
                 "Braids, Cabal Minion"
             ],
@@ -551,7 +545,6 @@
             "deck_id": "282631",
             "rank": "5-8",
             "player": "Leonardo Rodriguez",
-            "winrate": 0.6,
             "commander": [
                 "Kaalia of the Vast"
             ],
@@ -650,7 +643,6 @@
             "deck_id": "282632",
             "rank": "5-8",
             "player": "Igor Martins",
-            "winrate": 0.6,
             "commander": [
                 "Leovold, Emissary of Trest"
             ],

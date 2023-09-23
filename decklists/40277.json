@@ -10,7 +10,6 @@
             "deck_id": "499849",
             "rank": "1",
             "player": "Laurent O",
-            "winrate": 1.0,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "499850",
             "rank": "2",
             "player": "Pierre Loup J",
-            "winrate": 0.8,
             "commander": [
                 "Rocco, Cabaretti Caterer"
             ],

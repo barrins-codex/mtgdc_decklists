@@ -10,7 +10,6 @@
             "deck_id": "419737",
             "rank": "1",
             "player": "Damien Marais \"nagash76\"",
-            "winrate": 1.0,
             "commander": [
                 "Kraum, Ludevic's Opus",
                 "Tymna the Weaver"
@@ -120,7 +119,6 @@
             "deck_id": "419738",
             "rank": "2",
             "player": "Thomas Travert \"lantariel\"",
-            "winrate": 0.8,
             "commander": [
                 "Adeliz, the Cinder Wind"
             ],
@@ -215,7 +213,6 @@
             "deck_id": "419739",
             "rank": "3",
             "player": "Baptiste Hilmann \"",
-            "winrate": 0.8,
             "commander": [
                 "Rowan Kenrith",
                 "Will Kenrith"
@@ -309,7 +306,6 @@
             "deck_id": "419740",
             "rank": "4",
             "player": "Axel Carpentier",
-            "winrate": 0.6,
             "commander": [
                 "Golos, Tireless Pilgrim"
             ],

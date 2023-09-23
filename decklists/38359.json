@@ -10,7 +10,6 @@
             "deck_id": "486686",
             "rank": "1",
             "player": "Mark Lasam",
-            "winrate": 1.0,
             "commander": [
                 "Ertai Resurrected"
             ],
@@ -106,7 +105,6 @@
             "deck_id": "486687",
             "rank": "2",
             "player": "Dinno Zaide",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Ludevic, Necro-Alchemist",
                 "Jeska, Thrice Reborn"

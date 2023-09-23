@@ -10,7 +10,6 @@
             "deck_id": "389331",
             "rank": "3-4",
             "player": "Lionel \"hannibal44\" Galliere",
-            "winrate": 0.6,
             "commander": [
                 "Lutri, the Spellchaser",
                 "Narset, Enlightened Master"
@@ -119,7 +118,6 @@
             "deck_id": "389332",
             "rank": "1",
             "player": "Justo Chacon",
-            "winrate": 1.0,
             "commander": [
                 "Venser, Shaper Savant"
             ],
@@ -205,7 +203,6 @@
             "deck_id": "389333",
             "rank": "2",
             "player": "Stephen Helmer",
-            "winrate": 0.8,
             "commander": [
                 "Kess, Dissident Mage",
                 "Lutri, the Spellchaser"
@@ -316,7 +313,6 @@
             "deck_id": "389334",
             "rank": "3-4",
             "player": "Bastien Guichard",
-            "winrate": 0.6,
             "commander": [
                 "Isamaru, Hound of Konda"
             ],

@@ -10,7 +10,6 @@
             "deck_id": "418808",
             "rank": "1",
             "player": "Yang Yang",
-            "winrate": 1.0,
             "commander": [
                 "Thrasios, Triton Hero",
                 "Tymna the Weaver"
@@ -120,7 +119,6 @@
             "deck_id": "418809",
             "rank": "2",
             "player": "He Ying",
-            "winrate": 0.8,
             "commander": [
                 "Omnath, Locus of Creation"
             ],

@@ -10,7 +10,6 @@
             "deck_id": "510026",
             "rank": "1",
             "player": "Antoine A.",
-            "winrate": 1.0,
             "commander": [
                 "Gallia of the Endless Dance"
             ],
@@ -101,7 +100,6 @@
             "deck_id": "510027",
             "rank": "2",
             "player": "Maxime L.",
-            "winrate": 0.8,
             "commander": [
                 "Harbin, Vanguard Aviator"
             ],
@@ -191,7 +189,6 @@
             "deck_id": "510028",
             "rank": "3",
             "player": "Floriant L.",
-            "winrate": 0.8,
             "commander": [
                 "Feldon, Ronom Excavator"
             ],

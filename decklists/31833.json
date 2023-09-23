@@ -10,7 +10,6 @@
             "deck_id": "446028",
             "rank": "1",
             "player": "Man Lok Wong",
-            "winrate": 1.0,
             "commander": [
                 "Niambi, Esteemed Speaker"
             ],
@@ -113,7 +112,6 @@
             "deck_id": "446029",
             "rank": "2",
             "player": "Wing Tat Lee",
-            "winrate": 0.8,
             "commander": [
                 "Isamaru, Hound of Konda"
             ],

@@ -10,7 +10,6 @@
             "deck_id": "497172",
             "rank": "1",
             "player": "Kilian Zunino",
-            "winrate": 1.0,
             "commander": [
                 "Kess, Dissident Mage"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "497173",
             "rank": "2",
             "player": "Andy Petit",
-            "winrate": 0.8,
             "commander": [
                 "Yoshimaru, Ever Faithful",
                 "Kraum, Ludevic's Opus"
@@ -229,7 +227,6 @@
             "deck_id": "497174",
             "rank": "3-4",
             "player": "Cedric Froger",
-            "winrate": 0.8,
             "commander": [
                 "Veteran Soldier",
                 "Gut, True Soul Zealot"
@@ -334,7 +331,6 @@
             "deck_id": "497175",
             "rank": "3-4",
             "player": "Yoann Yoshe",
-            "winrate": 0.8,
             "commander": [
                 "Tajic, Legion's Edge"
             ],
@@ -431,7 +427,6 @@
             "deck_id": "497176",
             "rank": "5-8",
             "player": "Benjamin Cottet",
-            "winrate": 0.6,
             "commander": [
                 "Golos, Tireless Pilgrim"
             ],
@@ -541,7 +536,6 @@
             "deck_id": "497177",
             "rank": "5-8",
             "player": "Damien Garcia",
-            "winrate": 0.6,
             "commander": [
                 "Tivit, Seller of Secrets"
             ],
@@ -651,7 +645,6 @@
             "deck_id": "497178",
             "rank": "5-8",
             "player": "Victor Brès",
-            "winrate": 0.6,
             "commander": [
                 "Gut, True Soul Zealot",
                 "Faceless One"
@@ -751,7 +744,6 @@
             "deck_id": "497179",
             "rank": "5-8",
             "player": "Léo Facca",
-            "winrate": 0.6,
             "commander": [
                 "Tivit, Seller of Secrets"
             ],

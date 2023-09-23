@@ -10,7 +10,6 @@
             "deck_id": "520402",
             "rank": "1",
             "player": "Rong,ma",
-            "winrate": 1.0,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -119,7 +118,6 @@
             "deck_id": "520403",
             "rank": "2",
             "player": "Weiyang,chen",
-            "winrate": 0.8,
             "commander": [
                 "Niv-Mizzet Reborn"
             ],
@@ -229,7 +227,6 @@
             "deck_id": "520404",
             "rank": "3-4",
             "player": "Dawei,gu",
-            "winrate": 0.8,
             "commander": [
                 "Saffi Eriksdotter"
             ],
@@ -335,7 +332,6 @@
             "deck_id": "520405",
             "rank": "3-4",
             "player": "Zhaoyang,liu",
-            "winrate": 0.8,
             "commander": [
                 "Feldon, Ronom Excavator"
             ],

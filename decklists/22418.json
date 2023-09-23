@@ -10,7 +10,6 @@
             "deck_id": "352275",
             "rank": "1",
             "player": "Payan Gregoire",
-            "winrate": 1.0,
             "commander": [
                 "The Gitrog Monster"
             ],
@@ -110,7 +109,6 @@
             "deck_id": "352276",
             "rank": "2",
             "player": "Rullaud Quentin",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Yuriko, the Tiger's Shadow"
             ],

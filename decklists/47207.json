@@ -10,7 +10,6 @@
             "deck_id": "548850",
             "rank": "1",
             "player": "Lui Fabia",
-            "winrate": 1.0,
             "commander": [
                 "Ghyrson Starn, Kelermorph"
             ],
@@ -115,7 +114,6 @@
             "deck_id": "548851",
             "rank": "2",
             "player": "Mel Bonoan",
-            "winrate": 0.8,
             "commander": [
                 "The Beamtown Bullies"
             ],
@@ -225,7 +223,6 @@
             "deck_id": "548852",
             "rank": "3",
             "player": "Khris Mauricio",
-            "winrate": 0.6,
             "commander": [
                 "Tana, the Bloodsower",
                 "Yoshimaru, Ever Faithful"
@@ -335,7 +332,6 @@
             "deck_id": "548853",
             "rank": "4",
             "player": "Roy Rivero",
-            "winrate": 0.6,
             "commander": [
                 "Tana, the Bloodsower",
                 "Yoshimaru, Ever Faithful"

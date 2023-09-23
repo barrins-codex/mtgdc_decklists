@@ -10,7 +10,6 @@
             "deck_id": "488905",
             "rank": "1",
             "player": "Georgi Marquez",
-            "winrate": 1.0,
             "commander": [
                 "Tivit, Seller of Secrets"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "488906",
             "rank": "2",
             "player": "Jose Garcia",
-            "winrate": 0.8,
             "commander": [
                 "Jeska, Thrice Reborn",
                 "Ludevic, Necro-Alchemist"
@@ -214,7 +212,6 @@
             "deck_id": "488907",
             "rank": "3-4",
             "player": "Jose \"pan\" Pernia",
-            "winrate": 0.6,
             "commander": [
                 "Prossh, Skyraider of Kher"
             ],
@@ -309,7 +306,6 @@
             "deck_id": "488908",
             "rank": "3-4",
             "player": "Riderlph",
-            "winrate": 0.6,
             "commander": [
                 "Galazeth Prismari"
             ],

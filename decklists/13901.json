@@ -10,7 +10,6 @@
             "deck_id": "282233",
             "rank": "2",
             "player": "Renan Facchini",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Titania, Protector of Argoth"
             ],
@@ -103,7 +102,6 @@
             "deck_id": "282234",
             "rank": "3-4",
             "player": "Diego Ganev",
-            "winrate": 0.75,
             "commander": [
                 "Jenara, Asura of War"
             ],
@@ -213,7 +211,6 @@
             "deck_id": "282235",
             "rank": "3-4",
             "player": "Fábio Fernandes Vieira",
-            "winrate": 0.75,
             "commander": [
                 "Prossh, Skyraider of Kher"
             ],
@@ -315,7 +312,6 @@
             "deck_id": "282236",
             "rank": "5-8",
             "player": "Newton \"Sushi\" Horimouti",
-            "winrate": 0.75,
             "commander": [
                 "Vendilion Clique"
             ],
@@ -394,7 +390,6 @@
             "deck_id": "282237",
             "rank": "5-8",
             "player": "Fernando Yada Marinho",
-            "winrate": 0.75,
             "commander": [
                 "Jace, Vryn's Prodigy"
             ],
@@ -488,7 +483,6 @@
             "deck_id": "282238",
             "rank": "5-8",
             "player": "Bruno Karam",
-            "winrate": 0.75,
             "commander": [
                 "Titania, Protector of Argoth"
             ],
@@ -578,7 +572,6 @@
             "deck_id": "282239",
             "rank": "5-8",
             "player": "André Escudeiro",
-            "winrate": 0.75,
             "commander": [
                 "Maelstrom Wanderer"
             ],
@@ -681,7 +674,6 @@
             "deck_id": "282240",
             "rank": "1",
             "player": "Guilherme \"Demonic Tutor\" Machado",
-            "winrate": 0.8888888888888888,
             "commander": [
                 "Vendilion Clique"
             ],

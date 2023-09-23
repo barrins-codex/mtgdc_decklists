@@ -10,7 +10,6 @@
             "deck_id": "523904",
             "rank": "1",
             "player": "Léo Carbonell",
-            "winrate": 0.9,
             "commander": [
                 "Ertai Resurrected"
             ],
@@ -107,7 +106,6 @@
             "deck_id": "523905",
             "rank": "2",
             "player": "Audren Boulic",
-            "winrate": 0.8,
             "commander": [
                 "Dihada, Binder of Wills"
             ],
@@ -217,7 +215,6 @@
             "deck_id": "523906",
             "rank": "3-4",
             "player": "Alexandre Benac",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Hogaak, Arisen Necropolis"
             ],
@@ -327,7 +324,6 @@
             "deck_id": "523907",
             "rank": "3-4",
             "player": "Jean-baptiste Canonici",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Ertai Resurrected"
             ],
@@ -423,7 +419,6 @@
             "deck_id": "523908",
             "rank": "5-8",
             "player": "Matthieu Tassa",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Hogaak, Arisen Necropolis"
             ],
@@ -533,7 +528,6 @@
             "deck_id": "523909",
             "rank": "5-8",
             "player": "Adrien Houssard",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Eldrazi / Guacamole / Tightrope",
                 "Misunderstood / Trapeze / Elf",
@@ -630,7 +624,6 @@
             "deck_id": "523910",
             "rank": "5-8",
             "player": "Alexandre Martial",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Old Rutstein"
             ],
@@ -728,7 +721,6 @@
             "deck_id": "523911",
             "rank": "5-8",
             "player": "Boris Ringotte",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Balmor, Battlemage Captain"
             ],

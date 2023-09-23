@@ -10,7 +10,6 @@
             "deck_id": "282521",
             "rank": "3-4",
             "player": "Jackson Moore",
-            "winrate": 0.6,
             "commander": [
                 "Uril, the Miststalker"
             ],
@@ -112,7 +111,6 @@
             "deck_id": "282522",
             "rank": "3-4",
             "player": "Pierre mengin",
-            "winrate": 0.6,
             "commander": [
                 "Karador, Ghost Chieftain"
             ],
@@ -222,7 +220,6 @@
             "deck_id": "282523",
             "rank": "1",
             "player": "Romain Belamy",
-            "winrate": 1.0,
             "commander": [
                 "Zurgo Bellstriker"
             ],
@@ -297,7 +294,6 @@
             "deck_id": "282524",
             "rank": "2",
             "player": "Marine Portelli",
-            "winrate": 0.8,
             "commander": [
                 "Prossh, Skyraider of Kher"
             ],

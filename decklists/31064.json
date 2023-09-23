@@ -10,7 +10,6 @@
             "deck_id": "441603",
             "rank": "1",
             "player": "Don Angelo Moreno",
-            "winrate": 1.0,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -86,7 +85,6 @@
             "deck_id": "441604",
             "rank": "2",
             "player": "Ryan Payabyab",
-            "winrate": 0.8,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -196,7 +194,6 @@
             "deck_id": "441605",
             "rank": "3-4",
             "player": "Exequiel Lim",
-            "winrate": 0.6,
             "commander": [
                 "Titania, Protector of Argoth"
             ],
@@ -292,7 +289,6 @@
             "deck_id": "441606",
             "rank": "3-4",
             "player": "Ste Villaraza",
-            "winrate": 0.6,
             "commander": [
                 "Miara, Thorn of the Glade",
                 "Tevesh Szat, Doom of Fools"

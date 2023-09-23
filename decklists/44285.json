@@ -10,7 +10,6 @@
             "deck_id": "526775",
             "rank": "1",
             "player": "Benac Alexandre",
-            "winrate": 0.9,
             "commander": [
                 "Hogaak, Arisen Necropolis"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "526776",
             "rank": "2",
             "player": "Ashton Clutcher",
-            "winrate": 0.8,
             "commander": [
                 "Ghyrson Starn, Kelermorph"
             ],
@@ -222,7 +220,6 @@
             "deck_id": "526777",
             "rank": "3-4",
             "player": "Patrik Surab",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Feldon, Ronom Excavator"
             ],
@@ -310,7 +307,6 @@
             "deck_id": "526778",
             "rank": "3-4",
             "player": "Martin Vlnas",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Golos, Tireless Pilgrim"
             ],
@@ -420,7 +416,6 @@
             "deck_id": "526779",
             "rank": "5-8",
             "player": "Smeták",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Light-Paws, Emperor's Voice"
             ],
@@ -516,7 +511,6 @@
             "deck_id": "526780",
             "rank": "5-8",
             "player": "Jakub Sýkora",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Dihada, Binder of Wills"
             ],
@@ -626,7 +620,6 @@
             "deck_id": "526781",
             "rank": "5-8",
             "player": "Robo-bo-bots",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Ratchet, Field Medic"
             ],
@@ -717,7 +710,6 @@
             "deck_id": "526782",
             "rank": "5-8",
             "player": "Petr Levý",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Tana, the Bloodsower",
                 "Yoshimaru, Ever Faithful"
@@ -826,7 +818,6 @@
             "deck_id": "526783",
             "rank": "9-16",
             "player": "Jiří Foltýn",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Dihada, Binder of Wills"
             ],
@@ -936,7 +927,6 @@
             "deck_id": "526784",
             "rank": "9-16",
             "player": "Marek Vardik",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Silas Renn, Seeker Adept",
                 "Rograkh, Son of Rohgahh"
@@ -1046,7 +1036,6 @@
             "deck_id": "526785",
             "rank": "9-16",
             "player": "Toma Vardik",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Rograkh, Son of Rohgahh",
                 "Silas Renn, Seeker Adept"
@@ -1156,7 +1145,6 @@
             "deck_id": "526786",
             "rank": "9-16",
             "player": "Marek Majer",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Hogaak, Arisen Necropolis"
             ],
@@ -1266,7 +1254,6 @@
             "deck_id": "526787",
             "rank": "9-16",
             "player": "Robert Starke",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Tana, the Bloodsower",
                 "Yoshimaru, Ever Faithful"
@@ -1375,7 +1362,6 @@
             "deck_id": "526788",
             "rank": "9-16",
             "player": "Dominik Maly",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "The Beamtown Bullies"
             ],
@@ -1484,7 +1470,6 @@
             "deck_id": "526789",
             "rank": "9-16",
             "player": "Josef Kumstyr",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -1594,7 +1579,6 @@
             "deck_id": "526790",
             "rank": "9-16",
             "player": "Patrik Koičiar",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Dihada, Binder of Wills"
             ],

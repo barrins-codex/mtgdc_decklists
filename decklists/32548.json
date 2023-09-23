@@ -10,7 +10,6 @@
             "deck_id": "449949",
             "rank": "1",
             "player": "Jakub Lerl",
-            "winrate": 0.9,
             "commander": [
                 "Asmoranomardicadaistinaculdacar"
             ],
@@ -112,7 +111,6 @@
             "deck_id": "449950",
             "rank": "2",
             "player": "Honza Lamper",
-            "winrate": 0.8,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -222,7 +220,6 @@
             "deck_id": "449951",
             "rank": "3-4",
             "player": "Marek Majer",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Adeliz, the Cinder Wind"
             ],
@@ -316,7 +313,6 @@
             "deck_id": "449952",
             "rank": "3-4",
             "player": "Tomas Ketzl",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Yawgmoth, Thran Physician"
             ],
@@ -401,7 +397,6 @@
             "deck_id": "449953",
             "rank": "5-8",
             "player": "Vojta Kotek",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Grenzo, Dungeon Warden"
             ],
@@ -499,7 +494,6 @@
             "deck_id": "449954",
             "rank": "5-8",
             "player": "Vojtech Benes",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -609,7 +603,6 @@
             "deck_id": "449955",
             "rank": "5-8",
             "player": "Jan Kanka",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Kroxa, Titan of Death's Hunger"
             ],
@@ -710,7 +703,6 @@
             "deck_id": "449956",
             "rank": "5-8",
             "player": "Vojtech Haur",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Adeliz, the Cinder Wind"
             ],
@@ -805,7 +797,6 @@
             "deck_id": "449957",
             "rank": "9-16",
             "player": "Jakub Havelka",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Winota, Joiner of Forces"
             ],
@@ -907,7 +898,6 @@
             "deck_id": "449958",
             "rank": "9-16",
             "player": "Jakub Sykora",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Sythis, Harvest's Hand"
             ],
@@ -1003,7 +993,6 @@
             "deck_id": "449959",
             "rank": "9-16",
             "player": "Michal Zdansky",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Saskia the Unyielding"
             ],
@@ -1113,7 +1102,6 @@
             "deck_id": "449960",
             "rank": "9-16",
             "player": "Patrik Surab",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -1196,7 +1184,6 @@
             "deck_id": "449961",
             "rank": "9-16",
             "player": "Jiri Pokorny",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Sythis, Harvest's Hand"
             ],
@@ -1297,7 +1284,6 @@
             "deck_id": "449962",
             "rank": "9-16",
             "player": "Jan Verner",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Halana, Kessig Ranger",
                 "Tevesh Szat, Doom of Fools"
@@ -1388,7 +1374,6 @@
             "deck_id": "449963",
             "rank": "9-16",
             "player": "Marek Vardik",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Kediss, Emberclaw Familiar",
                 "Silas Renn, Seeker Adept"
@@ -1498,7 +1483,6 @@
             "deck_id": "449964",
             "rank": "9-16",
             "player": "Patrik Szmatana",
-            "winrate": 0.7142857142857143,
             "commander": [
                 "Adeliz, the Cinder Wind"
             ],

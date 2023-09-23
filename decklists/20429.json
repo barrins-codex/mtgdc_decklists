@@ -10,7 +10,6 @@
             "deck_id": "333841",
             "rank": "1",
             "player": "Louie Siongco",
-            "winrate": 1.0,
             "commander": [
                 "Tymna the Weaver",
                 "Kraum, Ludevic's Opus"
@@ -120,7 +119,6 @@
             "deck_id": "333842",
             "rank": "2",
             "player": "Chris Sta. Maria",
-            "winrate": 0.8,
             "commander": [
                 "Karlov of the Ghost Council"
             ],
@@ -228,7 +226,6 @@
             "deck_id": "333843",
             "rank": "3-4",
             "player": "Ben Co",
-            "winrate": 0.8,
             "commander": [
                 "Teferi, Temporal Archmage"
             ],
@@ -304,7 +301,6 @@
             "deck_id": "333844",
             "rank": "3-4",
             "player": "Ed Quirong",
-            "winrate": 0.8,
             "commander": [
                 "Tajic, Legion's Edge"
             ],

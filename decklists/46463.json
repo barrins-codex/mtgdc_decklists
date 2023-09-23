@@ -10,7 +10,6 @@
             "deck_id": "543437",
             "rank": "1",
             "player": "Nourgol",
-            "winrate": 1.0,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -117,7 +116,6 @@
             "deck_id": "543438",
             "rank": "2",
             "player": "Baekstra",
-            "winrate": 0.8,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -227,7 +225,6 @@
             "deck_id": "543439",
             "rank": "3-4",
             "player": "Astara",
-            "winrate": 0.8,
             "commander": [
                 "Kinnan, Bonder Prodigy"
             ],
@@ -335,7 +332,6 @@
             "deck_id": "543440",
             "rank": "3-4",
             "player": "Damienade_",
-            "winrate": 0.8,
             "commander": [
                 "Bjorna, Nightfall Alchemist",
                 "Wernog, Rider's Chaplain"
@@ -445,7 +441,6 @@
             "deck_id": "543441",
             "rank": "5-8",
             "player": "Iada",
-            "winrate": 0.6,
             "commander": [
                 "Feldon, Ronom Excavator"
             ],
@@ -533,7 +528,6 @@
             "deck_id": "543442",
             "rank": "5-8",
             "player": "Moebius",
-            "winrate": 0.6,
             "commander": [
                 "Octavia, Living Thesis"
             ],
@@ -622,7 +616,6 @@
             "deck_id": "543443",
             "rank": "5-8",
             "player": "Walldashingz",
-            "winrate": 0.6,
             "commander": [
                 "Grist, the Hunger Tide"
             ],
@@ -721,7 +714,6 @@
             "deck_id": "543444",
             "rank": "5-8",
             "player": "Zohoz",
-            "winrate": 0.6,
             "commander": [
                 "Kwain, Itinerant Meddler"
             ],

@@ -10,7 +10,6 @@
             "deck_id": "374492",
             "rank": "2",
             "player": "Lukas Blohon",
-            "winrate": 0.8,
             "commander": [
                 "Uro, Titan of Nature's Wrath"
             ],
@@ -113,7 +112,6 @@
             "deck_id": "374493",
             "rank": "5-8",
             "player": "Jakub Sykora",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Uro, Titan of Nature's Wrath"
             ],
@@ -214,7 +212,6 @@
             "deck_id": "374494",
             "rank": "5-8",
             "player": "Daniel Ditrych",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Yisan, the Wanderer Bard"
             ],
@@ -305,7 +302,6 @@
             "deck_id": "374495",
             "rank": "3-4",
             "player": "Michal Kaluzny",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Anafenza, the Foremost"
             ],
@@ -415,7 +411,6 @@
             "deck_id": "374496",
             "rank": "3-4",
             "player": "David Dobis",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Anax, Hardened in the Forge"
             ],
@@ -502,7 +497,6 @@
             "deck_id": "374497",
             "rank": "5-8",
             "player": "Jakub Nemec",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Isamaru, Hound of Konda"
             ],
@@ -586,7 +580,6 @@
             "deck_id": "374498",
             "rank": "5-8",
             "player": "Josef Kumstyr",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -696,7 +689,6 @@
             "deck_id": "374499",
             "rank": "1",
             "player": "Martin Gramatzki",
-            "winrate": 0.9,
             "commander": [
                 "Thrasios, Triton Hero",
                 "Tymna the Weaver"

@@ -10,7 +10,6 @@
             "deck_id": "309807",
             "rank": "1",
             "player": "Sejer Friis",
-            "winrate": 1.0,
             "commander": [
                 "Keranos, God of Storms"
             ],
@@ -100,7 +99,6 @@
             "deck_id": "309808",
             "rank": "2",
             "player": "Mass Mortensen",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Jenara, Asura of War"
             ],
@@ -112,7 +110,6 @@
             "deck_id": "309809",
             "rank": "3-4",
             "player": "Tim Nielsen",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Kess, Dissident Mage"
             ],
@@ -221,7 +218,6 @@
             "deck_id": "309810",
             "rank": "3-4",
             "player": "Jasper Nielsen",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Jenara, Asura of War"
             ],

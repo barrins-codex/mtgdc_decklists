@@ -10,7 +10,6 @@
             "deck_id": "297447",
             "rank": "1",
             "player": "Alexander \"newtrader\" Loskoutoff",
-            "winrate": 1.0,
             "commander": [
                 "Bruse Tarl, Boorish Herder",
                 "Reyhan, Last of the Abzan"
@@ -120,7 +119,6 @@
             "deck_id": "297448",
             "rank": "2",
             "player": "Aurélien Cornet",
-            "winrate": 0.8,
             "commander": [
                 "Bruse Tarl, Boorish Herder",
                 "Reyhan, Last of the Abzan"
@@ -230,7 +228,6 @@
             "deck_id": "297449",
             "rank": "3-4",
             "player": "Pierre-axel Bral",
-            "winrate": 0.8,
             "commander": [
                 "Bruse Tarl, Boorish Herder",
                 "Kraum, Ludevic's Opus"
@@ -335,7 +332,6 @@
             "deck_id": "297450",
             "rank": "3-4",
             "player": "Adrien \"soullessoni\" Demoget",
-            "winrate": 0.8,
             "commander": [
                 "Jace, Vryn's Prodigy"
             ],

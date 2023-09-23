@@ -10,7 +10,6 @@
             "deck_id": "449144",
             "rank": "1",
             "player": "Rai Reyes",
-            "winrate": 1.0,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -95,7 +94,6 @@
             "deck_id": "449145",
             "rank": "2",
             "player": "Rexel Tenorio",
-            "winrate": 0.8,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],

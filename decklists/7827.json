@@ -10,7 +10,6 @@
             "deck_id": "245066",
             "rank": "1",
             "player": "Florian Trotte",
-            "winrate": 1.0,
             "commander": [
                 "Maelstrom Wanderer"
             ],
@@ -117,7 +116,6 @@
             "deck_id": "245067",
             "rank": "2",
             "player": "Patrick Gamblin",
-            "winrate": 0.8,
             "commander": [
                 "Maelstrom Wanderer"
             ],

@@ -10,7 +10,6 @@
             "deck_id": "505715",
             "rank": "1",
             "player": "Juan Antonio Agoncilio",
-            "winrate": 1.0,
             "commander": [
                 "Magda, Brazen Outlaw"
             ],
@@ -102,7 +101,6 @@
             "deck_id": "505716",
             "rank": "2",
             "player": "Mic Peralta",
-            "winrate": 0.8,
             "commander": [
                 "Feldon, Ronom Excavator"
             ],

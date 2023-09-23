@@ -10,7 +10,6 @@
             "deck_id": "477941",
             "rank": "1",
             "player": "Jan Stefan",
-            "winrate": 1.0,
             "commander": [
                 "Galazeth Prismari"
             ],
@@ -106,7 +105,6 @@
             "deck_id": "477942",
             "rank": "2",
             "player": "Adam Fajkus",
-            "winrate": 0.8,
             "commander": [
                 "Minsc &amp; Boo, Timeless Heroes"
             ],
@@ -205,7 +203,6 @@
             "deck_id": "477943",
             "rank": "3",
             "player": "Vojtech Benes",
-            "winrate": 0.8,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -315,7 +312,6 @@
             "deck_id": "477944",
             "rank": "4",
             "player": "Daniel Tochacek",
-            "winrate": 0.6,
             "commander": [
                 "Sythis, Harvest's Hand"
             ],
@@ -418,7 +414,6 @@
             "deck_id": "477945",
             "rank": "5",
             "player": "Petr Stefan",
-            "winrate": 0.6,
             "commander": [
                 "Minsc &amp; Boo, Timeless Heroes"
             ],
@@ -519,7 +514,6 @@
             "deck_id": "477946",
             "rank": "6",
             "player": "Vojtech Lavicka",
-            "winrate": 0.6,
             "commander": [
                 "Grist, the Hunger Tide"
             ],
@@ -629,7 +623,6 @@
             "deck_id": "477947",
             "rank": "7",
             "player": "Jiri Patocka",
-            "winrate": 0.6,
             "commander": [
                 "Octavia, Living Thesis"
             ],
@@ -721,7 +714,6 @@
             "deck_id": "477948",
             "rank": "8",
             "player": "Jiri Obraz",
-            "winrate": 0.6,
             "commander": [
                 "Niv-Mizzet Reborn"
             ],

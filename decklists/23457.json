@@ -10,7 +10,6 @@
             "deck_id": "362067",
             "rank": "2",
             "player": "Yann Brugiere",
-            "winrate": 0.8,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -87,7 +86,6 @@
             "deck_id": "362068",
             "rank": "3-4",
             "player": "Yann Torillec",
-            "winrate": 0.8,
             "commander": [
                 "Thrasios, Triton Hero",
                 "Kraum, Ludevic's Opus"
@@ -191,7 +189,6 @@
             "deck_id": "362069",
             "rank": "3-4",
             "player": "Francois Jandaud",
-            "winrate": 0.8,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -269,7 +266,6 @@
             "deck_id": "362070",
             "rank": "1",
             "player": "Justo Chacon",
-            "winrate": 1.0,
             "commander": [
                 "Thrasios, Triton Hero",
                 "Tymna the Weaver"

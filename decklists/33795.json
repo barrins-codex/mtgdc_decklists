@@ -10,7 +10,6 @@
             "deck_id": "457489",
             "rank": "1",
             "player": "Sébastien Laplane",
-            "winrate": 0.8888888888888888,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -99,7 +98,6 @@
             "deck_id": "457490",
             "rank": "2",
             "player": "Louis Guichard",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -187,7 +185,6 @@
             "deck_id": "457491",
             "rank": "3-4",
             "player": "Png Ngu",
-            "winrate": 0.75,
             "commander": [
                 "Kraum, Ludevic's Opus",
                 "Malcolm, Keen-Eyed Navigator"
@@ -285,7 +282,6 @@
             "deck_id": "457492",
             "rank": "3-4",
             "player": "Korn411",
-            "winrate": 0.75,
             "commander": [
                 "Octavia, Living Thesis"
             ],
@@ -369,7 +365,6 @@
             "deck_id": "457493",
             "rank": "5-8",
             "player": "Manolo",
-            "winrate": 0.75,
             "commander": [
                 "The Gitrog Monster"
             ],
@@ -468,7 +463,6 @@
             "deck_id": "457494",
             "rank": "5-8",
             "player": "Jules Lestienne",
-            "winrate": 0.75,
             "commander": [
                 "Venser, Shaper Savant"
             ],
@@ -545,7 +539,6 @@
             "deck_id": "457495",
             "rank": "5-8",
             "player": "Elise Caillamo",
-            "winrate": 0.75,
             "commander": [
                 "Karlov of the Ghost Council"
             ],
@@ -645,7 +638,6 @@
             "deck_id": "457496",
             "rank": "5-8",
             "player": "Sunnysid",
-            "winrate": 0.75,
             "commander": [
                 "Klothys, God of Destiny"
             ],

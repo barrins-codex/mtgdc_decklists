@@ -10,7 +10,6 @@
             "deck_id": "494656",
             "rank": "1",
             "player": "David Cihak",
-            "winrate": 0.9,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "494657",
             "rank": "2",
             "player": "Zbyněk Barták",
-            "winrate": 0.8,
             "commander": [
                 "Hogaak, Arisen Necropolis"
             ],
@@ -230,7 +228,6 @@
             "deck_id": "494658",
             "rank": "3-4",
             "player": "Ivo Nováček",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Hogaak, Arisen Necropolis"
             ],
@@ -340,7 +337,6 @@
             "deck_id": "494659",
             "rank": "3-4",
             "player": "Jáchym Bártík",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Leovold, Emissary of Trest"
             ],
@@ -450,7 +446,6 @@
             "deck_id": "494660",
             "rank": "5-8",
             "player": "Jakub Havelka",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Marath, Will of the Wild"
             ],
@@ -556,7 +551,6 @@
             "deck_id": "494661",
             "rank": "5-8",
             "player": "Jiří Obraz",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Niv-Mizzet Reborn"
             ],
@@ -666,7 +660,6 @@
             "deck_id": "494662",
             "rank": "5-8",
             "player": "Marek Vardik",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Silas Renn, Seeker Adept",
                 "Rograkh, Son of Rohgahh"
@@ -776,7 +769,6 @@
             "deck_id": "494663",
             "rank": "5-8",
             "player": "Josef Kumstýř",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],

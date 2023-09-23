@@ -10,7 +10,6 @@
             "deck_id": "532878",
             "rank": "1",
             "player": "Ambroise Berthe",
-            "winrate": 0.8888888888888888,
             "commander": [
                 "Ertai Resurrected"
             ],
@@ -110,7 +109,6 @@
             "deck_id": "532879",
             "rank": "2",
             "player": "Cédric Allemandou",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Niv-Mizzet Reborn"
             ],
@@ -220,7 +218,6 @@
             "deck_id": "532880",
             "rank": "3-4",
             "player": "Damien \"damienade\" Mocquet",
-            "winrate": 0.75,
             "commander": [
                 "Feldon, Ronom Excavator"
             ],
@@ -308,7 +305,6 @@
             "deck_id": "532881",
             "rank": "3-4",
             "player": "Som40",
-            "winrate": 0.75,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -418,7 +414,6 @@
             "deck_id": "532882",
             "rank": "5-8",
             "player": "Morkus",
-            "winrate": 0.75,
             "commander": [
                 "Karlov of the Ghost Council"
             ],
@@ -522,7 +517,6 @@
             "deck_id": "532883",
             "rank": "5-8",
             "player": "Sébastien Gay",
-            "winrate": 0.75,
             "commander": [
                 "Cecily, Haunted Mage",
                 "Wernog, Rider's Chaplain"
@@ -632,7 +626,6 @@
             "deck_id": "532884",
             "rank": "5-8",
             "player": "Paul Ridoux",
-            "winrate": 0.75,
             "commander": [
                 "Prossh, Skyraider of Kher"
             ],
@@ -742,7 +735,6 @@
             "deck_id": "532885",
             "rank": "5-8",
             "player": "Freddy Tjeck",
-            "winrate": 0.75,
             "commander": [
                 "Tivit, Seller of Secrets"
             ],

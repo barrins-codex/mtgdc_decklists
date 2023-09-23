@@ -10,7 +10,6 @@
             "deck_id": "477243",
             "rank": "1",
             "player": "Paul Relativo",
-            "winrate": 1.0,
             "commander": [
                 "Niv-Mizzet Reborn"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "477244",
             "rank": "2",
             "player": "Jonathan Dolor",
-            "winrate": 0.8,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -207,7 +205,6 @@
             "deck_id": "477245",
             "rank": "3",
             "player": "Cilbert Corpuz",
-            "winrate": 0.6,
             "commander": [
                 "Inspiring Leader",
                 "Gut, True Soul Zealot"

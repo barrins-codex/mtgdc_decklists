@@ -10,7 +10,6 @@
             "deck_id": "303210",
             "rank": "1",
             "player": "Hans Biasbas",
-            "winrate": 0.8888888888888888,
             "commander": [
                 "Zurgo Bellstriker"
             ],
@@ -89,7 +88,6 @@
             "deck_id": "303211",
             "rank": "5-8",
             "player": "Michael Guezzo Diaz",
-            "winrate": 0.75,
             "commander": [
                 "Doran, the Siege Tower"
             ],
@@ -199,7 +197,6 @@
             "deck_id": "303212",
             "rank": "5-8",
             "player": "Alex Dulawan",
-            "winrate": 0.75,
             "commander": [
                 "Titania, Protector of Argoth"
             ],
@@ -292,7 +289,6 @@
             "deck_id": "303213",
             "rank": "3-4",
             "player": "Michael Cabrera",
-            "winrate": 0.75,
             "commander": [
                 "Ravos, Soultender",
                 "Tymna the Weaver"
@@ -393,7 +389,6 @@
             "deck_id": "303214",
             "rank": "5-8",
             "player": "Yves Bausa",
-            "winrate": 0.75,
             "commander": [
                 "Karlov of the Ghost Council"
             ],
@@ -502,7 +497,6 @@
             "deck_id": "303215",
             "rank": "5-8",
             "player": "Ste Villaraza",
-            "winrate": 0.75,
             "commander": [
                 "Thrasios, Triton Hero",
                 "Kraum, Ludevic's Opus"
@@ -604,7 +598,6 @@
             "deck_id": "303216",
             "rank": "3-4",
             "player": "Mark Toh",
-            "winrate": 0.75,
             "commander": [
                 "The Gitrog Monster"
             ],
@@ -700,7 +693,6 @@
             "deck_id": "303217",
             "rank": "2",
             "player": "Ben Co",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Titania, Protector of Argoth"
             ],

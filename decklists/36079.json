@@ -10,7 +10,6 @@
             "deck_id": "471733",
             "rank": "1",
             "player": "Julien Bigot",
-            "winrate": 1.0,
             "commander": [
                 "Adeliz, the Cinder Wind"
             ],
@@ -106,7 +105,6 @@
             "deck_id": "471734",
             "rank": "2",
             "player": "Arnaud Calon",
-            "winrate": 0.8,
             "commander": [
                 "Adeliz, the Cinder Wind"
             ],
@@ -202,7 +200,6 @@
             "deck_id": "471735",
             "rank": "3-4",
             "player": "Nicolas Delfolie",
-            "winrate": 0.8,
             "commander": [
                 "Grist, the Hunger Tide"
             ],
@@ -307,7 +304,6 @@
             "deck_id": "471736",
             "rank": "3-4",
             "player": "Thomas David",
-            "winrate": 0.8,
             "commander": [
                 "Kinnan, Bonder Prodigy"
             ],
@@ -416,7 +412,6 @@
             "deck_id": "471737",
             "rank": "5-8",
             "player": "Adrian Beuraert",
-            "winrate": 0.6,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -526,7 +521,6 @@
             "deck_id": "471738",
             "rank": "5-8",
             "player": "Anthony Castelain",
-            "winrate": 0.6,
             "commander": [
                 "Lurrus of the Dream-Den"
             ],
@@ -622,7 +616,6 @@
             "deck_id": "471739",
             "rank": "5-8",
             "player": "Baptiste Herlez",
-            "winrate": 0.6,
             "commander": [
                 "Hazoret the Fervent"
             ],

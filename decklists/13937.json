@@ -10,7 +10,6 @@
             "deck_id": "282498",
             "rank": "5-8",
             "player": "Luiz Andrade",
-            "winrate": 0.3333333333333333,
             "commander": [
                 "Prossh, Skyraider of Kher"
             ],
@@ -109,7 +108,6 @@
             "deck_id": "282499",
             "rank": "2",
             "player": "Bruno \"NN\" Portella",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Narset, Enlightened Master"
             ],
@@ -216,7 +214,6 @@
             "deck_id": "282500",
             "rank": "1",
             "player": "Vitor Sena",
-            "winrate": 1.0,
             "commander": [
                 "Jace, Vryn's Prodigy"
             ],
@@ -293,7 +290,6 @@
             "deck_id": "282501",
             "rank": "5-8",
             "player": "Davi \"DK\"",
-            "winrate": 0.3333333333333333,
             "commander": [
                 "Narset, Enlightened Master"
             ],
@@ -399,7 +395,6 @@
             "deck_id": "282502",
             "rank": "5-8",
             "player": "Guilherme Tavares",
-            "winrate": 0.3333333333333333,
             "commander": [
                 "Vendilion Clique"
             ],
@@ -478,7 +473,6 @@
             "deck_id": "282503",
             "rank": "5-8",
             "player": "Pedro Monfort",
-            "winrate": 0.3333333333333333,
             "commander": [
                 "Geist of Saint Traft"
             ],
@@ -576,7 +570,6 @@
             "deck_id": "282504",
             "rank": "3-4",
             "player": "Renan Facchini",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Titania, Protector of Argoth"
             ],
@@ -669,7 +662,6 @@
             "deck_id": "282505",
             "rank": "3-4",
             "player": "Rodrigo Grotti",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Skithiryx, the Blight Dragon"
             ],

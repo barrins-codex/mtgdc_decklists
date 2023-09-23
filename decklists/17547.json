@@ -10,7 +10,6 @@
             "deck_id": "308690",
             "rank": "5-8",
             "player": "Sylvain \"zohoz\" Zozaya",
-            "winrate": 0.6,
             "commander": [
                 "Queen Marchesa"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "308691",
             "rank": "1",
             "player": "Alexander \"newtraderdu78\" Loskoutoff",
-            "winrate": 1.0,
             "commander": [
                 "Saskia the Unyielding"
             ],
@@ -230,7 +228,6 @@
             "deck_id": "308692",
             "rank": "5-8",
             "player": "Jérôme Paulet",
-            "winrate": 0.6,
             "commander": [
                 "Narset, Enlightened Master"
             ],
@@ -335,7 +332,6 @@
             "deck_id": "308693",
             "rank": "5-8",
             "player": "Mathieu Chiron",
-            "winrate": 0.6,
             "commander": [
                 "Akiri, Line-Slinger",
                 "Silas Renn, Seeker Adept"
@@ -445,7 +441,6 @@
             "deck_id": "308694",
             "rank": "2",
             "player": "Adrien \"soulless Oni\" Demoget",
-            "winrate": 0.8,
             "commander": [
                 "The Scarab God"
             ],
@@ -542,7 +537,6 @@
             "deck_id": "308695",
             "rank": "3-4",
             "player": "Vivien \"soratami\" Macé",
-            "winrate": 0.8,
             "commander": [
                 "Zurgo Bellstriker"
             ],
@@ -625,7 +619,6 @@
             "deck_id": "308696",
             "rank": "3-4",
             "player": "Richard Jefferson",
-            "winrate": 0.8,
             "commander": [
                 "Venser, Shaper Savant"
             ],
@@ -703,7 +696,6 @@
             "deck_id": "308697",
             "rank": "5-8",
             "player": "Jeremy Gouge",
-            "winrate": 0.6,
             "commander": [
                 "Reyhan, Last of the Abzan",
                 "Kraum, Ludevic's Opus"

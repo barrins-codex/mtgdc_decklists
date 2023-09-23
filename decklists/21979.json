@@ -10,7 +10,6 @@
             "deck_id": "348251",
             "rank": "2",
             "player": "Simon M.",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Tana, the Bloodsower",
                 "Reyhan, Last of the Abzan"
@@ -120,7 +119,6 @@
             "deck_id": "348252",
             "rank": "1",
             "player": "Stefan C.",
-            "winrate": 1.0,
             "commander": [
                 "Teferi, Temporal Archmage"
             ],

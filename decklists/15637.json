@@ -10,7 +10,6 @@
             "deck_id": "295538",
             "rank": "3-4",
             "player": "Raúl Nogales Rocabado",
-            "winrate": 0.8,
             "commander": [
                 "Niv-Mizzet, the Firemind"
             ],
@@ -95,7 +94,6 @@
             "deck_id": "295539",
             "rank": "2",
             "player": "Jimmy Rivera",
-            "winrate": 0.8,
             "commander": [
                 "Prossh, Skyraider of Kher"
             ],
@@ -190,7 +188,6 @@
             "deck_id": "295540",
             "rank": "3-4",
             "player": "Yawar Duran",
-            "winrate": 0.8,
             "commander": [
                 "Titania, Protector of Argoth"
             ],
@@ -282,7 +279,6 @@
             "deck_id": "295541",
             "rank": "1",
             "player": "Alejandro Peña",
-            "winrate": 1.0,
             "commander": [
                 "Skithiryx, the Blight Dragon"
             ],

@@ -10,7 +10,6 @@
             "deck_id": "461467",
             "rank": "1",
             "player": "Boran Gao",
-            "winrate": 1.0,
             "commander": [
                 "Grist, the Hunger Tide"
             ],
@@ -111,7 +110,6 @@
             "deck_id": "461468",
             "rank": "2",
             "player": "Char",
-            "winrate": 0.8,
             "commander": [
                 "Hogaak, Arisen Necropolis"
             ],
@@ -221,7 +219,6 @@
             "deck_id": "461469",
             "rank": "3-4",
             "player": "Fan Yang",
-            "winrate": 0.6,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -331,7 +328,6 @@
             "deck_id": "461470",
             "rank": "3-4",
             "player": "Ziqi Xi",
-            "winrate": 0.6,
             "commander": [
                 "Kraum, Ludevic's Opus",
                 "Malcolm, Keen-Eyed Navigator"

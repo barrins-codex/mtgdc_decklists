@@ -10,7 +10,6 @@
             "deck_id": "548994",
             "rank": "1",
             "player": "Khris Mauricio",
-            "winrate": 1.0,
             "commander": [
                 "Tana, the Bloodsower",
                 "Yoshimaru, Ever Faithful"
@@ -120,7 +119,6 @@
             "deck_id": "548995",
             "rank": "2",
             "player": "Van Acordon",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Aragorn, King of Gondor"
             ],

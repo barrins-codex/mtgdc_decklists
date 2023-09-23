@@ -10,7 +10,6 @@
             "deck_id": "248637",
             "rank": "1",
             "player": "Guillaume Bigarré",
-            "winrate": 1.0,
             "commander": [
                 "Griselbrand"
             ],
@@ -91,7 +90,6 @@
             "deck_id": "248638",
             "rank": "2",
             "player": "Julien \"Sonte\" Sori",
-            "winrate": 0.8,
             "commander": [
                 "Vendilion Clique"
             ],

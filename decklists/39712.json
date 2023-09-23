@@ -10,7 +10,6 @@
             "deck_id": "495906",
             "rank": "1",
             "player": "Darren De La Rosa",
-            "winrate": 1.0,
             "commander": [
                 "Kroxa, Titan of Death's Hunger"
             ],
@@ -113,7 +112,6 @@
             "deck_id": "495907",
             "rank": "2",
             "player": "Martin Ogayon",
-            "winrate": 0.8,
             "commander": [
                 "Grist, the Hunger Tide"
             ],
@@ -216,7 +214,6 @@
             "deck_id": "495908",
             "rank": "3",
             "player": "Franklin Aguba",
-            "winrate": 0.8,
             "commander": [
                 "Raffine, Scheming Seer"
             ],

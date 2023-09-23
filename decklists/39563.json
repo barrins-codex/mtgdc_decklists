@@ -10,7 +10,6 @@
             "deck_id": "494590",
             "rank": "1",
             "player": "Carbonell Léo",
-            "winrate": 0.9090909090909091,
             "commander": [
                 "Ertai Resurrected"
             ],
@@ -108,7 +107,6 @@
             "deck_id": "494591",
             "rank": "2",
             "player": "Bihet Julien",
-            "winrate": 0.8181818181818182,
             "commander": [
                 "Niv-Mizzet Reborn"
             ],
@@ -218,7 +216,6 @@
             "deck_id": "494592",
             "rank": "3-4",
             "player": "Pernes Domino",
-            "winrate": 0.8,
             "commander": [
                 "Sword Coast Sailor",
                 "Wilson, Refined Grizzly"
@@ -317,7 +314,6 @@
             "deck_id": "494593",
             "rank": "3-4",
             "player": "Metivier \"kinder\" Philippe",
-            "winrate": 0.8,
             "commander": [
                 "Grist, the Hunger Tide"
             ],
@@ -418,7 +414,6 @@
             "deck_id": "494594",
             "rank": "5-8",
             "player": "Devineau Arnaud",
-            "winrate": 0.8,
             "commander": [
                 "Yoshimaru, Ever Faithful",
                 "Tana, the Bloodsower"
@@ -527,7 +522,6 @@
             "deck_id": "494595",
             "rank": "5-8",
             "player": "Senechau Hippolyte",
-            "winrate": 0.8,
             "commander": [
                 "Prossh, Skyraider of Kher"
             ],
@@ -637,7 +631,6 @@
             "deck_id": "494596",
             "rank": "5-8",
             "player": "Luque \"best Princess\" Gabriel",
-            "winrate": 0.8,
             "commander": [
                 "The Ur-Dragon"
             ],
@@ -747,7 +740,6 @@
             "deck_id": "494597",
             "rank": "5-8",
             "player": "Seronie-vivien Paul",
-            "winrate": 0.8,
             "commander": [
                 "Yoshimaru, Ever Faithful",
                 "Tana, the Bloodsower"
@@ -853,7 +845,6 @@
             "deck_id": "494598",
             "rank": "9-16",
             "player": "Sorin Karl",
-            "winrate": 0.75,
             "commander": [
                 "Klothys, God of Destiny"
             ],
@@ -957,7 +948,6 @@
             "deck_id": "494599",
             "rank": "9-16",
             "player": "Cozic Romain",
-            "winrate": 0.75,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -1067,7 +1057,6 @@
             "deck_id": "494600",
             "rank": "9-16",
             "player": "Blasquez Dylan",
-            "winrate": 0.75,
             "commander": [
                 "The Beamtown Bullies"
             ],
@@ -1177,7 +1166,6 @@
             "deck_id": "494601",
             "rank": "9-16",
             "player": "Dib \"jotaro93\" Jonathan",
-            "winrate": 0.75,
             "commander": [
                 "Prossh, Skyraider of Kher"
             ],
@@ -1284,7 +1272,6 @@
             "deck_id": "494602",
             "rank": "9-16",
             "player": "Drucké Thomas",
-            "winrate": 0.75,
             "commander": [
                 "Soul of Windgrace"
             ],
@@ -1392,7 +1379,6 @@
             "deck_id": "494603",
             "rank": "9-16",
             "player": "Berthier \"spartaff\" Loïc",
-            "winrate": 0.75,
             "commander": [
                 "Ertai Resurrected"
             ],
@@ -1491,7 +1477,6 @@
             "deck_id": "494604",
             "rank": "9-16",
             "player": "Facca Léo",
-            "winrate": 0.75,
             "commander": [
                 "Tivit, Seller of Secrets"
             ],
@@ -1601,7 +1586,6 @@
             "deck_id": "494605",
             "rank": "9-16",
             "player": "Rocher Swan",
-            "winrate": 0.75,
             "commander": [
                 "Ertai Resurrected"
             ],

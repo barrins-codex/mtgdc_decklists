@@ -10,7 +10,6 @@
             "deck_id": "240080",
             "rank": "3-4",
             "player": "Jochem van 't Hull",
-            "winrate": 0.8,
             "commander": [
                 "Iname, Death Aspect"
             ],
@@ -97,7 +96,6 @@
             "deck_id": "240081",
             "rank": "3-4",
             "player": "Vincent Spruijt",
-            "winrate": 0.8,
             "commander": [
                 "Skithiryx, the Blight Dragon"
             ],
@@ -179,7 +177,6 @@
             "deck_id": "240082",
             "rank": "1",
             "player": "Toby Hazes",
-            "winrate": 1.0,
             "commander": [
                 "Karador, Ghost Chieftain"
             ],
@@ -289,7 +286,6 @@
             "deck_id": "240083",
             "rank": "2",
             "player": "Duco Weidema",
-            "winrate": 0.8,
             "commander": [
                 "Oloro, Ageless Ascetic"
             ],

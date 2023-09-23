@@ -10,7 +10,6 @@
             "deck_id": "360316",
             "rank": "5-8",
             "player": "Martin Lamr",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Silas Renn, Seeker Adept",
                 "Akiri, Line-Slinger"
@@ -120,7 +119,6 @@
             "deck_id": "360317",
             "rank": "5-8",
             "player": "Marek Vardzik",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Emry, Lurker of the Loch"
             ],
@@ -209,7 +207,6 @@
             "deck_id": "360318",
             "rank": "5-8",
             "player": "Pavel Podlesak",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -291,7 +288,6 @@
             "deck_id": "360319",
             "rank": "3-4",
             "player": "Dominik Maly",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Zur the Enchanter"
             ],
@@ -401,7 +397,6 @@
             "deck_id": "360320",
             "rank": "5-8",
             "player": "Jakub Lerl",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Tymna the Weaver",
                 "Thrasios, Triton Hero"
@@ -510,7 +505,6 @@
             "deck_id": "360321",
             "rank": "3-4",
             "player": "Michal Zdansky",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Saskia the Unyielding"
             ],
@@ -620,7 +614,6 @@
             "deck_id": "360322",
             "rank": "1",
             "player": "Lukas Blohon",
-            "winrate": 0.9,
             "commander": [
                 "Azusa, Lost but Seeking"
             ],
@@ -717,7 +710,6 @@
             "deck_id": "360323",
             "rank": "2",
             "player": "Bohdan Frejsyn",
-            "winrate": 0.8,
             "commander": [
                 "Saskia the Unyielding"
             ],

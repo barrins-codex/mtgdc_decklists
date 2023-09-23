@@ -10,7 +10,6 @@
             "deck_id": "491198",
             "rank": "1",
             "player": "Miloslav Ponec",
-            "winrate": 0.8888888888888888,
             "commander": [
                 "Hogaak, Arisen Necropolis"
             ],
@@ -118,7 +117,6 @@
             "deck_id": "491199",
             "rank": "2",
             "player": "Marek Majer",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "The Gitrog Monster"
             ],
@@ -218,7 +216,6 @@
             "deck_id": "491200",
             "rank": "3-4",
             "player": "David Mecl",
-            "winrate": 0.75,
             "commander": [
                 "Niv-Mizzet Reborn"
             ],
@@ -328,7 +325,6 @@
             "deck_id": "491201",
             "rank": "3-4",
             "player": "Tomas Vardzik",
-            "winrate": 0.75,
             "commander": [
                 "Yoshimaru, Ever Faithful"
             ],
@@ -416,7 +412,6 @@
             "deck_id": "491202",
             "rank": "5-8",
             "player": "Zdenek Hlavsa",
-            "winrate": 0.75,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -526,7 +521,6 @@
             "deck_id": "491203",
             "rank": "5-8",
             "player": "Ondrej Muller",
-            "winrate": 0.75,
             "commander": [
                 "Gut, True Soul Zealot",
                 "Agent of the Iron Throne"
@@ -636,7 +630,6 @@
             "deck_id": "491204",
             "rank": "5-8",
             "player": "David Stepanek",
-            "winrate": 0.75,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -746,7 +739,6 @@
             "deck_id": "491205",
             "rank": "5-8",
             "player": "David Cihak",
-            "winrate": 0.75,
             "commander": [
                 "Raffine, Scheming Seer"
             ],

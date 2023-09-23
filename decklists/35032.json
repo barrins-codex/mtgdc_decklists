@@ -10,7 +10,6 @@
             "deck_id": "464812",
             "rank": "1",
             "player": "Pierre Almaraz",
-            "winrate": 1.0,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -90,7 +89,6 @@
             "deck_id": "464813",
             "rank": "1",
             "player": "Edouard Lecocq",
-            "winrate": 1.0,
             "commander": [
                 "Isamaru, Hound of Konda"
             ],
@@ -174,7 +172,6 @@
             "deck_id": "464814",
             "rank": "3-4",
             "player": "Cyril Tournier",
-            "winrate": 0.6,
             "commander": [
                 "Daretti, Scrap Savant"
             ],
@@ -256,7 +253,6 @@
             "deck_id": "464815",
             "rank": "3-4",
             "player": "Kévin Cellier",
-            "winrate": 0.6,
             "commander": [
                 "Light-Paws, Emperor's Voice"
             ],

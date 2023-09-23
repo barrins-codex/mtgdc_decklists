@@ -10,7 +10,6 @@
             "deck_id": "525226",
             "rank": "1",
             "player": "Opap's Ditudidi",
-            "winrate": 1.0,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "525227",
             "rank": "2",
             "player": "Hugues Devos",
-            "winrate": 0.8,
             "commander": [
                 "Wrinkly / Monkey / Shenanigans",
                 "Unglued / Pea-Brained / Dinosaur",
@@ -234,7 +232,6 @@
             "deck_id": "525228",
             "rank": "3-4",
             "player": "Pierre Delandsheere",
-            "winrate": 0.8,
             "commander": [
                 "Gretchen Titchwillow"
             ],
@@ -334,7 +331,6 @@
             "deck_id": "525229",
             "rank": "3-4",
             "player": "Anthony Lamaudière",
-            "winrate": 0.8,
             "commander": [
                 "Ghyrson Starn, Kelermorph"
             ],

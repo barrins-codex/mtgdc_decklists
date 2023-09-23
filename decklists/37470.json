@@ -10,7 +10,6 @@
             "deck_id": "480868",
             "rank": "1",
             "player": "Adrien \"soullessoni\" Demoget",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Grismold, the Dreadsower"
             ],
@@ -114,7 +113,6 @@
             "deck_id": "480869",
             "rank": "2",
             "player": "Fabio grimm Weber",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "The Gitrog Monster"
             ],
@@ -214,7 +212,6 @@
             "deck_id": "480870",
             "rank": "3",
             "player": "Atta Lyes",
-            "winrate": 0.625,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -324,7 +321,6 @@
             "deck_id": "480871",
             "rank": "4",
             "player": "Sebastien Willemet",
-            "winrate": 0.625,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -413,7 +409,6 @@
             "deck_id": "480872",
             "rank": "5",
             "player": "Julien Nicolet",
-            "winrate": 0.625,
             "commander": [
                 "Jegantha, the Wellspring",
                 "Niv-Mizzet Reborn"
@@ -524,7 +519,6 @@
             "deck_id": "480873",
             "rank": "6",
             "player": "Maximilien Kalil",
-            "winrate": 0.625,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -634,7 +628,6 @@
             "deck_id": "480874",
             "rank": "7",
             "player": "Matéo De Biasi",
-            "winrate": 0.625,
             "commander": [
                 "Tivit, Seller of Secrets"
             ],
@@ -744,7 +737,6 @@
             "deck_id": "480875",
             "rank": "8",
             "player": "Merlin Moret",
-            "winrate": 0.625,
             "commander": [
                 "The Reality Chip"
             ],

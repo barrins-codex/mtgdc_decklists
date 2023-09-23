@@ -10,7 +10,6 @@
             "deck_id": "471531",
             "rank": "1",
             "player": "Caio",
-            "winrate": 1.0,
             "commander": [
                 "Shorikai, Genesis Engine"
             ],
@@ -96,7 +95,6 @@
             "deck_id": "471532",
             "rank": "2",
             "player": "Gabriel Matos",
-            "winrate": 0.8,
             "commander": [
                 "Atsushi, the Blazing Sky"
             ],
@@ -177,7 +175,6 @@
             "deck_id": "471533",
             "rank": "3-4",
             "player": "Michel Xisto",
-            "winrate": 0.6,
             "commander": [
                 "Mina and Denn, Wildborn"
             ],
@@ -267,7 +264,6 @@
             "deck_id": "471534",
             "rank": "3-4",
             "player": "Kauan",
-            "winrate": 0.6,
             "commander": [
                 "Adeline, Resplendent Cathar"
             ],

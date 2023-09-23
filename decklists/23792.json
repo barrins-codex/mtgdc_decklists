@@ -10,7 +10,6 @@
             "deck_id": "365322",
             "rank": "3-4",
             "player": "Achille Fedioun",
-            "winrate": 0.8,
             "commander": [
                 "Sisay, Weatherlight Captain"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "365323",
             "rank": "3-4",
             "player": "Wilfried Palenne",
-            "winrate": 0.8,
             "commander": [
                 "God-Eternal Kefnet"
             ],
@@ -203,7 +201,6 @@
             "deck_id": "365324",
             "rank": "2",
             "player": "Diego « dmyr » Rio",
-            "winrate": 0.8,
             "commander": [
                 "Teshar, Ancestor's Apostle"
             ],
@@ -295,7 +292,6 @@
             "deck_id": "365325",
             "rank": "1",
             "player": "Julien Boulet",
-            "winrate": 1.0,
             "commander": [
                 "Emry, Lurker of the Loch"
             ],

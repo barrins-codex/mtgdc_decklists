@@ -10,7 +10,6 @@
             "deck_id": "474589",
             "rank": "1",
             "player": "Frantisek Krizkovsky",
-            "winrate": 1.0,
             "commander": [
                 "Light-Paws, Emperor's Voice"
             ],
@@ -98,7 +97,6 @@
             "deck_id": "474590",
             "rank": "2",
             "player": "Jiri Patocka",
-            "winrate": 0.8,
             "commander": [
                 "Octavia, Living Thesis"
             ],
@@ -188,7 +186,6 @@
             "deck_id": "474591",
             "rank": "3-4",
             "player": "Jan Hladik",
-            "winrate": 0.6,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -277,7 +274,6 @@
             "deck_id": "474592",
             "rank": "3-4",
             "player": "Jan Jilek",
-            "winrate": 0.6,
             "commander": [
                 "Kydele, Chosen of Kruphix",
                 "Tymna the Weaver"

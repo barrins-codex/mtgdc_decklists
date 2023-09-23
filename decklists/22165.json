@@ -10,7 +10,6 @@
             "deck_id": "350019",
             "rank": "3-4",
             "player": "Richard M",
-            "winrate": 0.8,
             "commander": [
                 "Prossh, Skyraider of Kher"
             ],
@@ -107,7 +106,6 @@
             "deck_id": "350020",
             "rank": "3-4",
             "player": "Sven M",
-            "winrate": 0.8,
             "commander": [
                 "Jenara, Asura of War"
             ],
@@ -215,7 +213,6 @@
             "deck_id": "350021",
             "rank": "1",
             "player": "Thomas H",
-            "winrate": 1.0,
             "commander": [
                 "Titania, Protector of Argoth"
             ],
@@ -309,7 +306,6 @@
             "deck_id": "350022",
             "rank": "2",
             "player": "Jan L",
-            "winrate": 0.8,
             "commander": [
                 "Hazoret the Fervent"
             ],

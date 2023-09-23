@@ -10,7 +10,6 @@
             "deck_id": "260426",
             "rank": "2",
             "player": "Guillaume Bahin",
-            "winrate": 0.8,
             "commander": [
                 "Braids, Cabal Minion"
             ],
@@ -99,7 +98,6 @@
             "deck_id": "260429",
             "rank": "1",
             "player": "Raphael Preau",
-            "winrate": 1.0,
             "commander": [
                 "Marath, Will of the Wild"
             ],

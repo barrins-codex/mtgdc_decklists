@@ -10,7 +10,6 @@
             "deck_id": "454405",
             "rank": "1",
             "player": "Zihan Xu",
-            "winrate": 1.0,
             "commander": [
                 "Liesa, Shroud of Dusk"
             ],
@@ -114,7 +113,6 @@
             "deck_id": "454406",
             "rank": "2",
             "player": "Boran Gao",
-            "winrate": 0.8,
             "commander": [
                 "Leovold, Emissary of Trest"
             ],
@@ -224,7 +222,6 @@
             "deck_id": "454407",
             "rank": "3-4",
             "player": "Hongchen Zhang",
-            "winrate": 0.6,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -309,7 +306,6 @@
             "deck_id": "454408",
             "rank": "3-4",
             "player": "Ceyao Duan",
-            "winrate": 0.6,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],

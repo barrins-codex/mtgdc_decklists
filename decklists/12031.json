@@ -10,7 +10,6 @@
             "deck_id": "268989",
             "rank": "5-8",
             "player": "Mark Anthony Biala",
-            "winrate": 0.75,
             "commander": [
                 "Radha, Heir to Keld"
             ],
@@ -113,7 +112,6 @@
             "deck_id": "268991",
             "rank": "5-8",
             "player": "Alexander Dulawan",
-            "winrate": 0.75,
             "commander": [
                 "Yisan, the Wanderer Bard"
             ],
@@ -200,7 +198,6 @@
             "deck_id": "268992",
             "rank": "1",
             "player": "Irwin Tabisora",
-            "winrate": 0.8888888888888888,
             "commander": [
                 "Obzedat, Ghost Council"
             ],
@@ -298,7 +295,6 @@
             "deck_id": "268993",
             "rank": "1",
             "player": "Mark Toh",
-            "winrate": 0.8888888888888888,
             "commander": [
                 "Titania, Protector of Argoth"
             ],
@@ -389,7 +385,6 @@
             "deck_id": "268994",
             "rank": "1",
             "player": "Jose Peter Ang",
-            "winrate": 0.8888888888888888,
             "commander": [
                 "Jenara, Asura of War"
             ],
@@ -496,7 +491,6 @@
             "deck_id": "268995",
             "rank": "1",
             "player": "Ben Co",
-            "winrate": 0.8888888888888888,
             "commander": [
                 "Yisan, the Wanderer Bard"
             ],
@@ -585,7 +579,6 @@
             "deck_id": "268996",
             "rank": "5-8",
             "player": "Janji Naling",
-            "winrate": 0.75,
             "commander": [
                 "Anafenza, the Foremost"
             ],

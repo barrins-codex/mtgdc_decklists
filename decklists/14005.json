@@ -10,7 +10,6 @@
             "deck_id": "283053",
             "rank": "3-4",
             "player": "Mayckol Fernandes",
-            "winrate": 0.8,
             "commander": [
                 "Geist of Saint Traft"
             ],
@@ -105,7 +104,6 @@
             "deck_id": "283054",
             "rank": "5-8",
             "player": "Julio Cesar Buttler",
-            "winrate": 0.6,
             "commander": [
                 "Obzedat, Ghost Council"
             ],
@@ -198,7 +196,6 @@
             "deck_id": "283055",
             "rank": "5-8",
             "player": "Everton Cavalcante",
-            "winrate": 0.6,
             "commander": [
                 "Sidisi, Brood Tyrant"
             ],
@@ -302,7 +299,6 @@
             "deck_id": "283056",
             "rank": "1",
             "player": "Lucas Betarello",
-            "winrate": 1.0,
             "commander": [
                 "Ob Nixilis, the Fallen"
             ],
@@ -392,7 +388,6 @@
             "deck_id": "283057",
             "rank": "2",
             "player": "Guilherme \"Demonic Tutor\" Machado",
-            "winrate": 0.8,
             "commander": [
                 "Wydwen, the Biting Gale"
             ],
@@ -485,7 +480,6 @@
             "deck_id": "283058",
             "rank": "5-8",
             "player": "Felipe Rodriguez",
-            "winrate": 0.6,
             "commander": [
                 "Thalia, Guardian of Thraben"
             ],
@@ -567,7 +561,6 @@
             "deck_id": "283059",
             "rank": "5-8",
             "player": "Lucas Caparroz",
-            "winrate": 0.6,
             "commander": [
                 "Maelstrom Wanderer"
             ],
@@ -670,7 +663,6 @@
             "deck_id": "283060",
             "rank": "3-4",
             "player": "Leonardo Akio",
-            "winrate": 0.8,
             "commander": [
                 "Geist of Saint Traft"
             ],

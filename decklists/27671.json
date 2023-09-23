@@ -10,7 +10,6 @@
             "deck_id": "419782",
             "rank": "1",
             "player": "Kon Fai Wu",
-            "winrate": 1.0,
             "commander": [
                 "Kraum, Ludevic's Opus",
                 "Ludevic, Necro-Alchemist"
@@ -106,7 +105,6 @@
             "deck_id": "419785",
             "rank": "2",
             "player": "Kelvin To",
-            "winrate": 0.8,
             "commander": [
                 "Uro, Titan of Nature's Wrath"
             ],

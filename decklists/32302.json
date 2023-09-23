@@ -10,7 +10,6 @@
             "deck_id": "448547",
             "rank": "1",
             "player": "Pierre Henri François",
-            "winrate": 1.0,
             "commander": [
                 "Animar, Soul of Elements"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "448548",
             "rank": "2",
             "player": "Nicolas \"thorgal666\" François",
-            "winrate": 0.8,
             "commander": [
                 "Sythis, Harvest's Hand"
             ],
@@ -218,7 +216,6 @@
             "deck_id": "448549",
             "rank": "3-4",
             "player": "Maxime Demortier",
-            "winrate": 0.8,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -328,7 +325,6 @@
             "deck_id": "448550",
             "rank": "3-4",
             "player": "Arnaud \"plaguerat\" Chalendard",
-            "winrate": 0.8,
             "commander": [
                 "Niv-Mizzet Reborn"
             ],
@@ -438,7 +434,6 @@
             "deck_id": "448551",
             "rank": "5-8",
             "player": "Camille Nicolas",
-            "winrate": 0.6,
             "commander": [
                 "Narset, Enlightened Master"
             ],
@@ -547,7 +542,6 @@
             "deck_id": "448552",
             "rank": "5-8",
             "player": "Marjolaine Bedo",
-            "winrate": 0.6,
             "commander": [
                 "Isamaru, Hound of Konda"
             ],
@@ -630,7 +624,6 @@
             "deck_id": "448553",
             "rank": "5-8",
             "player": "Hugo Fremont",
-            "winrate": 0.6,
             "commander": [
                 "Yisan, the Wanderer Bard"
             ],
@@ -719,7 +712,6 @@
             "deck_id": "448554",
             "rank": "5-8",
             "player": "Yann Dommanschet",
-            "winrate": 0.6,
             "commander": [
                 "Kinnan, Bonder Prodigy"
             ],

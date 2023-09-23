@@ -10,7 +10,6 @@
             "deck_id": "504327",
             "rank": "1",
             "player": "Simon Calligaro",
-            "winrate": 1.0,
             "commander": [
                 "Sai, Master Thopterist"
             ],
@@ -97,7 +96,6 @@
             "deck_id": "504328",
             "rank": "2",
             "player": "Adrien \"oni\" Demoget",
-            "winrate": 0.8,
             "commander": [
                 "Tunnel of Love",
                 "Sythis, Harvest's Hand",
@@ -207,7 +205,6 @@
             "deck_id": "504329",
             "rank": "3-4",
             "player": "Cahu31",
-            "winrate": 0.8,
             "commander": [
                 "Dihada, Binder of Wills"
             ],
@@ -317,7 +314,6 @@
             "deck_id": "504330",
             "rank": "3-4",
             "player": "Bô Rhys",
-            "winrate": 0.8,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -427,7 +423,6 @@
             "deck_id": "504331",
             "rank": "5-8",
             "player": "Arthur Loussert",
-            "winrate": 0.6,
             "commander": [
                 "Wernog, Rider's Chaplain",
                 "Cecily, Haunted Mage"
@@ -537,7 +532,6 @@
             "deck_id": "504332",
             "rank": "5-8",
             "player": "Dorian Roger",
-            "winrate": 0.6,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -647,7 +641,6 @@
             "deck_id": "504333",
             "rank": "5-8",
             "player": "Thiébaut Gottfried",
-            "winrate": 0.6,
             "commander": [
                 "Minsc, Beloved Ranger"
             ],
@@ -753,7 +746,6 @@
             "deck_id": "504334",
             "rank": "5-8",
             "player": "Leininger \"brise\" Jérémy",
-            "winrate": 0.6,
             "commander": [
                 "Sidisi, Brood Tyrant"
             ],

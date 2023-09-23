@@ -10,7 +10,6 @@
             "deck_id": "235997",
             "rank": "1",
             "player": "Ben Cardenas",
-            "winrate": 0.9,
             "commander": [
                 "Zur the Enchanter"
             ],
@@ -114,7 +113,6 @@
             "deck_id": "235998",
             "rank": "1",
             "player": "Joel Bantiles",
-            "winrate": 0.9,
             "commander": [
                 "Derevi, Empyrial Tactician"
             ],
@@ -224,7 +222,6 @@
             "deck_id": "235999",
             "rank": "3-4",
             "player": "Kevin Gonzales  Team Ruthless",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Zur the Enchanter"
             ],
@@ -334,7 +331,6 @@
             "deck_id": "236000",
             "rank": "3-4",
             "player": "Edwin Jocson  Team Geddon",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Zur the Enchanter"
             ],
@@ -444,7 +440,6 @@
             "deck_id": "236001",
             "rank": "5-8",
             "player": "Matthew Co  Team Geddon",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Olivia Voldaren"
             ],
@@ -534,7 +529,6 @@
             "deck_id": "236002",
             "rank": "5-8",
             "player": "Randolph de Rueda  Chopsuey",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Iname, Death Aspect"
             ],
@@ -620,7 +614,6 @@
             "deck_id": "236003",
             "rank": "5-8",
             "player": "Ian Gutierrez",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Geist of Saint Traft"
             ],
@@ -712,7 +705,6 @@
             "deck_id": "236004",
             "rank": "5-8",
             "player": "Blas Yu",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Derevi, Empyrial Tactician"
             ],

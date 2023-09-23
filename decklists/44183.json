@@ -10,7 +10,6 @@
             "deck_id": "526047",
             "rank": "1",
             "player": "Cauê",
-            "winrate": 1.0,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "526048",
             "rank": "2",
             "player": "Mateus Tomé",
-            "winrate": 0.8,
             "commander": [
                 "Light-Paws, Emperor's Voice"
             ],
@@ -205,7 +203,6 @@
             "deck_id": "526049",
             "rank": "3",
             "player": "Felipe Gonçalves",
-            "winrate": 0.6,
             "commander": [
                 "Baral and Kari Zev"
             ],

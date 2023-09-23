@@ -10,7 +10,6 @@
             "deck_id": "476673",
             "rank": "2",
             "player": "Arnaud Lacheze",
-            "winrate": 0.8,
             "commander": [
                 "Karlov of the Ghost Council"
             ],
@@ -103,7 +102,6 @@
             "deck_id": "476674",
             "rank": "1",
             "player": "Manu \"pogo\" Chambord",
-            "winrate": 1.0,
             "commander": [
                 "Isamaru, Hound of Konda"
             ],
@@ -190,7 +188,6 @@
             "deck_id": "476675",
             "rank": "3-4",
             "player": "Melkior Leblanc",
-            "winrate": 0.6,
             "commander": [
                 "Light-Paws, Emperor's Voice"
             ],
@@ -279,7 +276,6 @@
             "deck_id": "476676",
             "rank": "3-4",
             "player": "Benjamin \"earx\" Dugal",
-            "winrate": 0.6,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],

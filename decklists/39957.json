@@ -10,7 +10,6 @@
             "deck_id": "497587",
             "rank": "1",
             "player": "Raphaël Préau",
-            "winrate": 0.8888888888888888,
             "commander": [
                 "Octavia, Living Thesis"
             ],
@@ -99,7 +98,6 @@
             "deck_id": "497588",
             "rank": "3-4",
             "player": "Jérôme Perez",
-            "winrate": 0.75,
             "commander": [
                 "Yoshimaru, Ever Faithful",
                 "Tana, the Bloodsower"
@@ -206,7 +204,6 @@
             "deck_id": "497589",
             "rank": "3-4",
             "player": "Tom Arrigoni",
-            "winrate": 0.75,
             "commander": [
                 "Judith, the Scourge Diva"
             ],
@@ -313,7 +310,6 @@
             "deck_id": "497590",
             "rank": "5-8",
             "player": "Swan Rocher",
-            "winrate": 0.75,
             "commander": [
                 "Ertai Resurrected"
             ],
@@ -411,7 +407,6 @@
             "deck_id": "497591",
             "rank": "5-8",
             "player": "Cyril Querenet",
-            "winrate": 0.75,
             "commander": [
                 "Esika, God of the Tree"
             ],
@@ -521,7 +516,6 @@
             "deck_id": "497592",
             "rank": "5-8",
             "player": "Florian Guillet",
-            "winrate": 0.75,
             "commander": [
                 "Golos, Tireless Pilgrim"
             ],
@@ -631,7 +625,6 @@
             "deck_id": "497593",
             "rank": "5-8",
             "player": "Léo Carbonell",
-            "winrate": 0.75,
             "commander": [
                 "Ertai Resurrected"
             ],

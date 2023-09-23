@@ -10,7 +10,6 @@
             "deck_id": "535948",
             "rank": "1",
             "player": "Maxime Garbay",
-            "winrate": 1.0,
             "commander": [
                 "Greasefang, Okiba Boss"
             ],
@@ -109,7 +108,6 @@
             "deck_id": "535949",
             "rank": "2",
             "player": "Weaka",
-            "winrate": 0.8,
             "commander": [
                 "Zirda, the Dawnwaker"
             ],
@@ -209,7 +207,6 @@
             "deck_id": "535950",
             "rank": "3",
             "player": "Vincent L",
-            "winrate": 0.6,
             "commander": [
                 "Selvala, Heart of the Wilds"
             ],
@@ -293,7 +290,6 @@
             "deck_id": "535951",
             "rank": "4",
             "player": "Yaug",
-            "winrate": 0.6,
             "commander": [
                 "Niv-Mizzet Reborn"
             ],

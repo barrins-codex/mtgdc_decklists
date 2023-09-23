@@ -10,7 +10,6 @@
             "deck_id": "439585",
             "rank": "2",
             "player": "Fowcus",
-            "winrate": 0.8,
             "commander": [
                 "Hogaak, Arisen Necropolis"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "439586",
             "rank": "1",
             "player": "Hannibal44",
-            "winrate": 1.0,
             "commander": [
                 "Saskia the Unyielding"
             ],
@@ -230,7 +228,6 @@
             "deck_id": "439587",
             "rank": "3",
             "player": "Onesauk",
-            "winrate": 0.8,
             "commander": [
                 "Tajic, Legion's Edge"
             ],

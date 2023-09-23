@@ -10,7 +10,6 @@
             "deck_id": "377553",
             "rank": "3-4",
             "player": "Victor Butrimov",
-            "winrate": 0.6,
             "commander": [
                 "Leovold, Emissary of Trest"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "377554",
             "rank": "3-4",
             "player": "Ivan Sidorov",
-            "winrate": 0.6,
             "commander": [
                 "Hogaak, Arisen Necropolis"
             ],
@@ -230,7 +228,6 @@
             "deck_id": "377555",
             "rank": "1",
             "player": "Andrey Kostin",
-            "winrate": 1.0,
             "commander": [
                 "Silas Renn, Seeker Adept",
                 "Akiri, Line-Slinger"
@@ -340,7 +337,6 @@
             "deck_id": "377556",
             "rank": "2",
             "player": "Oreshkin Dmitry",
-            "winrate": 0.8,
             "commander": [
                 "Ludevic, Necro-Alchemist",
                 "Kraum, Ludevic's Opus"

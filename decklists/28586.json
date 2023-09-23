@@ -10,7 +10,6 @@
             "deck_id": "425844",
             "rank": "1",
             "player": "Som40",
-            "winrate": 1.0,
             "commander": [
                 "Leovold, Emissary of Trest"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "425845",
             "rank": "2",
             "player": "Tortilla (tetrahèdre)",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Jeska, Thrice Reborn",
                 "Reyhan, Last of the Abzan"
@@ -230,7 +228,6 @@
             "deck_id": "425846",
             "rank": "3-4",
             "player": "Onesauk",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Reyhan, Last of the Abzan",
                 "Jeska, Thrice Reborn"
@@ -340,7 +337,6 @@
             "deck_id": "425847",
             "rank": "3-4",
             "player": "The_weezky",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Leovold, Emissary of Trest"
             ],

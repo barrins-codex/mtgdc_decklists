@@ -10,7 +10,6 @@
             "deck_id": "504335",
             "rank": "1",
             "player": "Dylan Blasquez",
-            "winrate": 0.8888888888888888,
             "commander": [
                 "The Beamtown Bullies"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "504336",
             "rank": "2",
             "player": "Jantzen Damien",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Wernog, Rider's Chaplain",
                 "Cecily, Haunted Mage"
@@ -230,7 +228,6 @@
             "deck_id": "504337",
             "rank": "3-4",
             "player": "Aurélien Simondet",
-            "winrate": 0.75,
             "commander": [
                 "Ghyrson Starn, Kelermorph"
             ],
@@ -332,7 +329,6 @@
             "deck_id": "504338",
             "rank": "3-4",
             "player": "Léo Carbonell",
-            "winrate": 0.75,
             "commander": [
                 "Ertai Resurrected"
             ],
@@ -430,7 +426,6 @@
             "deck_id": "504339",
             "rank": "5-8",
             "player": "Thomas Bagdadlian",
-            "winrate": 0.75,
             "commander": [
                 "Dihada, Binder of Wills"
             ],
@@ -540,7 +535,6 @@
             "deck_id": "504340",
             "rank": "5-8",
             "player": "Laleure Morgan",
-            "winrate": 0.75,
             "commander": [
                 "Thrasta, Tempest's Roar"
             ],
@@ -637,7 +631,6 @@
             "deck_id": "504341",
             "rank": "5-8",
             "player": "Boris Ringotte",
-            "winrate": 0.75,
             "commander": [
                 "Balmor, Battlemage Captain"
             ],
@@ -739,7 +732,6 @@
             "deck_id": "504342",
             "rank": "5-8",
             "player": "Florian Trotte",
-            "winrate": 0.75,
             "commander": [
                 "Balmor, Battlemage Captain"
             ],

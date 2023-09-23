@@ -10,7 +10,6 @@
             "deck_id": "476665",
             "rank": "1",
             "player": "Adrien Jouan",
-            "winrate": 1.0,
             "commander": [
                 "Minsc &amp; Boo, Timeless Heroes"
             ],
@@ -111,7 +110,6 @@
             "deck_id": "476666",
             "rank": "2",
             "player": "Ylan Le Bris",
-            "winrate": 0.8,
             "commander": [
                 "Minsc &amp; Boo, Timeless Heroes"
             ],
@@ -211,7 +209,6 @@
             "deck_id": "476667",
             "rank": "3-4",
             "player": "Emeric Durdos",
-            "winrate": 0.8,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -321,7 +318,6 @@
             "deck_id": "476668",
             "rank": "3-4",
             "player": "Maxandre Jacqueline",
-            "winrate": 0.8,
             "commander": [
                 "Emmara, Soul of the Accord"
             ],
@@ -420,7 +416,6 @@
             "deck_id": "476669",
             "rank": "5-8",
             "player": "Robin \"faarnn\" Angebaud",
-            "winrate": 0.6,
             "commander": [
                 "Tivit, Seller of Secrets"
             ],
@@ -530,7 +525,6 @@
             "deck_id": "476670",
             "rank": "5-8",
             "player": "Charlie Delabrousse",
-            "winrate": 0.6,
             "commander": [
                 "Klothys, God of Destiny"
             ],
@@ -638,7 +632,6 @@
             "deck_id": "476671",
             "rank": "5-8",
             "player": "Maxime Allée",
-            "winrate": 0.6,
             "commander": [
                 "Grist, the Hunger Tide"
             ],
@@ -738,7 +731,6 @@
             "deck_id": "476672",
             "rank": "5-8",
             "player": "Jonathan Thievin",
-            "winrate": 0.6,
             "commander": [
                 "Raffine, Scheming Seer"
             ],

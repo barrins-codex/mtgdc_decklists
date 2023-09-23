@@ -10,7 +10,6 @@
             "deck_id": "529553",
             "rank": "1",
             "player": "Nhald Adia",
-            "winrate": 1.0,
             "commander": [
                 "Feldon, Ronom Excavator"
             ],
@@ -98,7 +97,6 @@
             "deck_id": "529554",
             "rank": "2",
             "player": "Juan Antonio Agoncilio",
-            "winrate": 0.8,
             "commander": [
                 "Magda, Brazen Outlaw"
             ],
@@ -188,7 +186,6 @@
             "deck_id": "529555",
             "rank": "3",
             "player": "Darren De La Rosa",
-            "winrate": 0.6,
             "commander": [
                 "Kroxa, Titan of Death's Hunger"
             ],
@@ -294,7 +291,6 @@
             "deck_id": "529556",
             "rank": "4",
             "player": "Deks Sienes",
-            "winrate": 0.6,
             "commander": [
                 "Kess, Dissident Mage"
             ],

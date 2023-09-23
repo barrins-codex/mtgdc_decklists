@@ -10,7 +10,6 @@
             "deck_id": "541780",
             "rank": "1",
             "player": "Roch-antoine Lachaîne",
-            "winrate": 1.0,
             "commander": [
                 "Animar, Soul of Elements"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "541781",
             "rank": "2",
             "player": "Samuel Samuel",
-            "winrate": 0.8,
             "commander": [
                 "Feldon, Ronom Excavator"
             ],
@@ -209,7 +207,6 @@
             "deck_id": "541782",
             "rank": "3-4",
             "player": "Daniel Bilodeau",
-            "winrate": 0.8,
             "commander": [
                 "Feldon, Ronom Excavator"
             ],
@@ -295,7 +292,6 @@
             "deck_id": "541783",
             "rank": "3-4",
             "player": "Matt Gilbert",
-            "winrate": 0.8,
             "commander": [
                 "Minsc, Beloved Ranger"
             ],

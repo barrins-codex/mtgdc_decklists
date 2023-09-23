@@ -10,7 +10,6 @@
             "deck_id": "486646",
             "rank": "1",
             "player": "Andréa \"sunnysid\" Bisson",
-            "winrate": 1.0,
             "commander": [
                 "Light-Paws, Emperor's Voice"
             ],
@@ -91,7 +90,6 @@
             "deck_id": "486647",
             "rank": "2",
             "player": "Jules \"askeladden\" Lestienne",
-            "winrate": 0.8,
             "commander": [
                 "Grist, the Hunger Tide"
             ],
@@ -193,7 +191,6 @@
             "deck_id": "486648",
             "rank": "3-4",
             "player": "Fabrice Knittel",
-            "winrate": 0.8,
             "commander": [
                 "Niv-Mizzet, Parun"
             ],
@@ -291,7 +288,6 @@
             "deck_id": "486649",
             "rank": "3-4",
             "player": "Cyprien \"cyp\" Willmann",
-            "winrate": 0.8,
             "commander": [
                 "Kinnan, Bonder Prodigy"
             ],
@@ -396,7 +392,6 @@
             "deck_id": "486650",
             "rank": "5-8",
             "player": "Pierre Camps",
-            "winrate": 0.6,
             "commander": [
                 "The Beamtown Bullies"
             ],
@@ -506,7 +501,6 @@
             "deck_id": "486651",
             "rank": "5-8",
             "player": "Mathieu \"moltes\" Cunrath",
-            "winrate": 0.6,
             "commander": [
                 "Niv-Mizzet Reborn"
             ],
@@ -616,7 +610,6 @@
             "deck_id": "486652",
             "rank": "5-8",
             "player": "Nicolas Prail",
-            "winrate": 0.6,
             "commander": [
                 "Grist, the Hunger Tide"
             ],
@@ -716,7 +709,6 @@
             "deck_id": "486653",
             "rank": "5-8",
             "player": "Simon Calligaro",
-            "winrate": 0.6,
             "commander": [
                 "Wilson, Refined Grizzly",
                 "Candlekeep Sage"

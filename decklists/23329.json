@@ -10,7 +10,6 @@
             "deck_id": "360703",
             "rank": "3-4",
             "player": "Jf Pillon",
-            "winrate": 0.8,
             "commander": [
                 "Chulane, Teller of Tales"
             ],
@@ -111,7 +110,6 @@
             "deck_id": "360704",
             "rank": "3-4",
             "player": "Mickael Meunier",
-            "winrate": 0.8,
             "commander": [
                 "Narset, Enlightened Master"
             ],
@@ -218,7 +216,6 @@
             "deck_id": "360705",
             "rank": "2",
             "player": "David \"ardo\" Le Corvec",
-            "winrate": 0.8,
             "commander": [
                 "Animar, Soul of Elements"
             ],
@@ -325,7 +322,6 @@
             "deck_id": "360706",
             "rank": "1",
             "player": "Damien Hauthieux",
-            "winrate": 1.0,
             "commander": [
                 "Edric, Spymaster of Trest"
             ],

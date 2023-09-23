@@ -10,7 +10,6 @@
             "deck_id": "265183",
             "rank": "5-8",
             "player": "Julio Cesar Buttler",
-            "winrate": 0.625,
             "commander": [
                 "Obzedat, Ghost Council"
             ],
@@ -105,7 +104,6 @@
             "deck_id": "265184",
             "rank": "5-8",
             "player": "Bruno Moreno",
-            "winrate": 0.625,
             "commander": [
                 "Wydwen, the Biting Gale"
             ],
@@ -202,7 +200,6 @@
             "deck_id": "265185",
             "rank": "3-4",
             "player": "João Lucas Caparroz",
-            "winrate": 0.625,
             "commander": [
                 "Maelstrom Wanderer"
             ],
@@ -296,7 +293,6 @@
             "deck_id": "265186",
             "rank": "3-4",
             "player": "Lucas Betarello",
-            "winrate": 0.625,
             "commander": [
                 "Ob Nixilis, the Fallen"
             ],
@@ -389,7 +385,6 @@
             "deck_id": "265187",
             "rank": "2",
             "player": "Fabio Kaneto",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Yisan, the Wanderer Bard"
             ],
@@ -477,7 +472,6 @@
             "deck_id": "265188",
             "rank": "5-8",
             "player": "Paulo Bezzegh",
-            "winrate": 0.625,
             "commander": [
                 "Animar, Soul of Elements"
             ],
@@ -584,7 +578,6 @@
             "deck_id": "265189",
             "rank": "5-8",
             "player": "Gui Tavares",
-            "winrate": 0.625,
             "commander": [
                 "Zurgo Helmsmasher"
             ],
@@ -690,7 +683,6 @@
             "deck_id": "265190",
             "rank": "1",
             "player": "Jorge Tanaka",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Teferi, Temporal Archmage"
             ],

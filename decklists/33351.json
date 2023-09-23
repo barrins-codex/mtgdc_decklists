@@ -10,7 +10,6 @@
             "deck_id": "454481",
             "rank": "1",
             "player": "Zankou",
-            "winrate": 0.8888888888888888,
             "commander": [
                 "Titania, Protector of Argoth"
             ],
@@ -109,7 +108,6 @@
             "deck_id": "454482",
             "rank": "2",
             "player": "Aurélien Bigorne",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -190,7 +188,6 @@
             "deck_id": "454483",
             "rank": "3-4",
             "player": "Staszak Bruce",
-            "winrate": 0.75,
             "commander": [
                 "Grenzo, Dungeon Warden"
             ],
@@ -289,7 +286,6 @@
             "deck_id": "454484",
             "rank": "3-4",
             "player": "François Quesque",
-            "winrate": 0.75,
             "commander": [
                 "Prossh, Skyraider of Kher"
             ],
@@ -398,7 +394,6 @@
             "deck_id": "454485",
             "rank": "5-8",
             "player": "Filatriau Franck",
-            "winrate": 0.75,
             "commander": [
                 "Kytheon, Hero of Akros"
             ],
@@ -489,7 +484,6 @@
             "deck_id": "454486",
             "rank": "5-8",
             "player": "Maxime Pommery",
-            "winrate": 0.75,
             "commander": [
                 "Miara, Thorn of the Glade",
                 "Tevesh Szat, Doom of Fools"
@@ -570,7 +564,6 @@
             "deck_id": "454487",
             "rank": "5-8",
             "player": "Adrien Bellanger",
-            "winrate": 0.75,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -655,7 +648,6 @@
             "deck_id": "454488",
             "rank": "5-8",
             "player": "Alexandre Lejeail",
-            "winrate": 0.75,
             "commander": [
                 "Sythis, Harvest's Hand"
             ],

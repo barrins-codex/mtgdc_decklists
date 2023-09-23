@@ -10,7 +10,6 @@
             "deck_id": "266591",
             "rank": "5-8",
             "player": "Simon Gradaive",
-            "winrate": 0.75,
             "commander": [
                 "Karador, Ghost Chieftain"
             ],
@@ -118,7 +117,6 @@
             "deck_id": "266592",
             "rank": "5-8",
             "player": "Guillaume Bahin",
-            "winrate": 0.75,
             "commander": [
                 "Animar, Soul of Elements"
             ],
@@ -224,7 +222,6 @@
             "deck_id": "266593",
             "rank": "5-8",
             "player": "Julien Rouar",
-            "winrate": 0.75,
             "commander": [
                 "Anafenza, the Foremost"
             ],
@@ -334,7 +331,6 @@
             "deck_id": "266594",
             "rank": "1",
             "player": "Benjamin Valay",
-            "winrate": 0.8888888888888888,
             "commander": [
                 "Geist of Saint Traft"
             ],
@@ -433,7 +429,6 @@
             "deck_id": "266595",
             "rank": "5-8",
             "player": "Raphaël Préau",
-            "winrate": 0.75,
             "commander": [
                 "Marath, Will of the Wild"
             ],
@@ -542,7 +537,6 @@
             "deck_id": "266596",
             "rank": "3-4",
             "player": "Romain Sacaze",
-            "winrate": 0.75,
             "commander": [
                 "Marath, Will of the Wild"
             ],
@@ -650,7 +644,6 @@
             "deck_id": "266597",
             "rank": "3-4",
             "player": "Christophe Guillot",
-            "winrate": 0.75,
             "commander": [
                 "Marath, Will of the Wild"
             ],
@@ -759,7 +752,6 @@
             "deck_id": "266598",
             "rank": "2",
             "player": "Paul Ridoux",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Sidisi, Undead Vizier"
             ],

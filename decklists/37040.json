@@ -10,7 +10,6 @@
             "deck_id": "478155",
             "rank": "1",
             "player": "Grégoire \"\r\nKoraysh\" Payan",
-            "winrate": 1.0,
             "commander": [
                 "The Gitrog Monster"
             ],
@@ -110,7 +109,6 @@
             "deck_id": "478156",
             "rank": "2",
             "player": "Marin \"arrias\" Boulange",
-            "winrate": 0.8,
             "commander": [
                 "The Reality Chip"
             ],
@@ -198,7 +196,6 @@
             "deck_id": "478157",
             "rank": "3-4",
             "player": "Maxime Morillon",
-            "winrate": 0.8,
             "commander": [
                 "Dennick, Pious Apprentice"
             ],
@@ -301,7 +298,6 @@
             "deck_id": "478158",
             "rank": "3-4",
             "player": "Alexis Mommee",
-            "winrate": 0.8,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -411,7 +407,6 @@
             "deck_id": "478159",
             "rank": "5-8",
             "player": "Charles Gautier",
-            "winrate": 0.6,
             "commander": [
                 "Minsc &amp; Boo, Timeless Heroes"
             ],
@@ -513,7 +508,6 @@
             "deck_id": "478160",
             "rank": "5-8",
             "player": "Quentin \"bobota\" Rullaud",
-            "winrate": 0.6,
             "commander": [
                 "Hogaak, Arisen Necropolis"
             ],
@@ -623,7 +617,6 @@
             "deck_id": "478161",
             "rank": "5-8",
             "player": "Gael Huber",
-            "winrate": 0.6,
             "commander": [
                 "Kelsien, the Plague"
             ],
@@ -733,7 +726,6 @@
             "deck_id": "478162",
             "rank": "5-8",
             "player": "Marien Couvertier",
-            "winrate": 0.6,
             "commander": [
                 "Dennick, Pious Apprentice"
             ],

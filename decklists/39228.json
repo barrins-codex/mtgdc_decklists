@@ -10,7 +10,6 @@
             "deck_id": "492244",
             "rank": "1",
             "player": "Arthur Dutra",
-            "winrate": 1.0,
             "commander": [
                 "Isamaru, Hound of Konda"
             ],
@@ -97,7 +96,6 @@
             "deck_id": "492245",
             "rank": "2",
             "player": "Euro Figueiredo",
-            "winrate": 0.8,
             "commander": [
                 "Arcum Dagsson"
             ],
@@ -183,7 +181,6 @@
             "deck_id": "492246",
             "rank": "3",
             "player": "Lucas Santos",
-            "winrate": 0.8,
             "commander": [
                 "Tivit, Seller of Secrets"
             ],
@@ -293,7 +290,6 @@
             "deck_id": "492247",
             "rank": "4",
             "player": "Fulvio Simionatto",
-            "winrate": 0.8,
             "commander": [
                 "Jeska, Thrice Reborn",
                 "Bruse Tarl, Boorish Herder"
@@ -395,7 +391,6 @@
             "deck_id": "492248",
             "rank": "5",
             "player": "Leandro Marques",
-            "winrate": 0.6,
             "commander": [
                 "Jeska, Thrice Reborn",
                 "Ludevic, Necro-Alchemist"
@@ -494,7 +489,6 @@
             "deck_id": "492249",
             "rank": "6",
             "player": "Maciel De Souza",
-            "winrate": 0.6,
             "commander": [
                 "Kroxa, Titan of Death's Hunger"
             ],
@@ -592,7 +586,6 @@
             "deck_id": "492250",
             "rank": "7",
             "player": "Luiz Balio",
-            "winrate": 0.6,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -699,7 +692,6 @@
             "deck_id": "492251",
             "rank": "8",
             "player": "Carlos Pires",
-            "winrate": 0.6,
             "commander": [
                 "Jeska, Thrice Reborn",
                 "Ludevic, Necro-Alchemist"

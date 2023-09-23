@@ -10,7 +10,6 @@
             "deck_id": "546401",
             "rank": "1",
             "player": "Ximu Fan",
-            "winrate": 1.0,
             "commander": [
                 "Aragorn, King of Gondor"
             ],
@@ -115,7 +114,6 @@
             "deck_id": "546402",
             "rank": "2",
             "player": "Guanglei Li",
-            "winrate": 0.8,
             "commander": [
                 "Ghyrson Starn, Kelermorph"
             ],

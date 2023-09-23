@@ -10,7 +10,6 @@
             "deck_id": "310409",
             "rank": "1",
             "player": "Alexander Schmoll",
-            "winrate": 1.0,
             "commander": [
                 "Karlov of the Ghost Council"
             ],
@@ -115,7 +114,6 @@
             "deck_id": "310410",
             "rank": "2",
             "player": "Ralph \"ralle\" Esser",
-            "winrate": 0.8,
             "commander": [
                 "Venser, Shaper Savant"
             ],

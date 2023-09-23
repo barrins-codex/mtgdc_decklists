@@ -10,7 +10,6 @@
             "deck_id": "450355",
             "rank": "1",
             "player": "Charlie Cha",
-            "winrate": 1.0,
             "commander": [
                 "Grenzo, Dungeon Warden"
             ],
@@ -118,7 +117,6 @@
             "deck_id": "450356",
             "rank": "2",
             "player": "Robin \"faarnn\" Angebaud",
-            "winrate": 0.8,
             "commander": [
                 "Sai, Master Thopterist"
             ],
@@ -206,7 +204,6 @@
             "deck_id": "450357",
             "rank": "3-4",
             "player": "Clément Lagarde",
-            "winrate": 0.8,
             "commander": [
                 "Slogurk, the Overslime"
             ],
@@ -311,7 +308,6 @@
             "deck_id": "450358",
             "rank": "3-4",
             "player": "Maxime Allée",
-            "winrate": 0.8,
             "commander": [
                 "Grist, the Hunger Tide"
             ],

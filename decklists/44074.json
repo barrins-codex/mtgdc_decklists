@@ -10,7 +10,6 @@
             "deck_id": "525344",
             "rank": "1",
             "player": "Brice Lamar",
-            "winrate": 1.0,
             "commander": [
                 "Dihada, Binder of Wills"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "525345",
             "rank": "2",
             "player": "Franck Gauci",
-            "winrate": 0.8,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -230,7 +228,6 @@
             "deck_id": "525346",
             "rank": "3-4",
             "player": "Mickael Youssouf",
-            "winrate": 0.8,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -340,7 +337,6 @@
             "deck_id": "525347",
             "rank": "3-4",
             "player": "Pierre Almaraz",
-            "winrate": 0.8,
             "commander": [
                 "Dennick, Pious Apprentice"
             ],

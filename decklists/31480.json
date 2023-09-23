@@ -10,7 +10,6 @@
             "deck_id": "443946",
             "rank": "1",
             "player": "Lian Peng",
-            "winrate": 1.0,
             "commander": [
                 "Karlov of the Ghost Council"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "443947",
             "rank": "2",
             "player": "Zhang Hongchen",
-            "winrate": 0.8,
             "commander": [
                 "Ragavan, Nimble Pilferer"
             ],
@@ -205,7 +203,6 @@
             "deck_id": "443948",
             "rank": "3",
             "player": "Zheng Chang",
-            "winrate": 0.6,
             "commander": [
                 "Karlov of the Ghost Council",
                 "Lurrus of the Dream-Den"

@@ -10,7 +10,6 @@
             "deck_id": "441564",
             "rank": "1",
             "player": "Julien « Night » Caillaux",
-            "winrate": 1.0,
             "commander": [
                 "Golos, Tireless Pilgrim"
             ],
@@ -115,7 +114,6 @@
             "deck_id": "441565",
             "rank": "2",
             "player": "Matthieu Habersetzer",
-            "winrate": 0.8,
             "commander": [
                 "Karlov of the Ghost Council",
                 "Lurrus of the Dream-Den"

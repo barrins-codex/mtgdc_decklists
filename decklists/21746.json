@@ -10,7 +10,6 @@
             "deck_id": "346218",
             "rank": "3-4",
             "player": "Dmitry Semenov",
-            "winrate": 0.8,
             "commander": [
                 "Titania, Protector of Argoth"
             ],
@@ -105,7 +104,6 @@
             "deck_id": "346219",
             "rank": "3-4",
             "player": "Mikhail Shabalov",
-            "winrate": 0.8,
             "commander": [
                 "Teferi, Temporal Archmage"
             ],
@@ -179,7 +177,6 @@
             "deck_id": "346220",
             "rank": "2",
             "player": "Alexander Ivanov",
-            "winrate": 0.8,
             "commander": [
                 "Thrasios, Triton Hero",
                 "Tymna the Weaver"
@@ -288,7 +285,6 @@
             "deck_id": "346221",
             "rank": "1",
             "player": "Andrey Kostin",
-            "winrate": 1.0,
             "commander": [
                 "Silas Renn, Seeker Adept",
                 "Akiri, Line-Slinger"

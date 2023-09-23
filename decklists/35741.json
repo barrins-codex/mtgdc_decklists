@@ -10,7 +10,6 @@
             "deck_id": "469607",
             "rank": "1",
             "player": "Dinno Zaide",
-            "winrate": 1.0,
             "commander": [
                 "Ludevic, Necro-Alchemist"
             ],
@@ -107,7 +106,6 @@
             "deck_id": "469608",
             "rank": "2",
             "player": "Rexel Tenorio",
-            "winrate": 0.8,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -217,7 +215,6 @@
             "deck_id": "469609",
             "rank": "3",
             "player": "Iori Zugaikotsu",
-            "winrate": 0.6,
             "commander": [
                 "Tevesh Szat, Doom of Fools",
                 "Silas Renn, Seeker Adept"

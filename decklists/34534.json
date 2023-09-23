@@ -10,7 +10,6 @@
             "deck_id": "461924",
             "rank": "1",
             "player": "Char",
-            "winrate": 1.0,
             "commander": [
                 "Niv-Mizzet Reborn"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "461925",
             "rank": "2",
             "player": "Boran Gao",
-            "winrate": 0.8,
             "commander": [
                 "Grist, the Hunger Tide"
             ],
@@ -221,7 +219,6 @@
             "deck_id": "461926",
             "rank": "3-4",
             "player": "Qian Xue",
-            "winrate": 0.8,
             "commander": [
                 "Malcolm, Keen-Eyed Navigator",
                 "Breeches, Brazen Plunderer"
@@ -318,7 +315,6 @@
             "deck_id": "461927",
             "rank": "3-4",
             "player": "Chang Zheng",
-            "winrate": 0.8,
             "commander": [
                 "Sythis, Harvest's Hand"
             ],
@@ -424,7 +420,6 @@
             "deck_id": "461928",
             "rank": "5-8",
             "player": "Bolong Sun",
-            "winrate": 0.6,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -510,7 +505,6 @@
             "deck_id": "461929",
             "rank": "5-8",
             "player": "Nameless Yu",
-            "winrate": 0.6,
             "commander": [
                 "Grenzo, Dungeon Warden"
             ],
@@ -611,7 +605,6 @@
             "deck_id": "461930",
             "rank": "5-8",
             "player": "Mingze Zhang",
-            "winrate": 0.6,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -721,7 +714,6 @@
             "deck_id": "461931",
             "rank": "5-8",
             "player": "Haobo Ma",
-            "winrate": 0.6,
             "commander": [
                 "Niv-Mizzet, Parun"
             ],

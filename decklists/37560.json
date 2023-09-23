@@ -10,7 +10,6 @@
             "deck_id": "481459",
             "rank": "1",
             "player": "Rexel Tenorio",
-            "winrate": 1.0,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "481460",
             "rank": "2",
             "player": "Ste Villaraza",
-            "winrate": 0.8,
             "commander": [
                 "Tivit, Seller of Secrets"
             ],
@@ -230,7 +228,6 @@
             "deck_id": "481461",
             "rank": "3-4",
             "player": "Aerwin Asico",
-            "winrate": 0.8,
             "commander": [
                 "Elminster"
             ],
@@ -333,7 +330,6 @@
             "deck_id": "481462",
             "rank": "3-4",
             "player": "Paul Relativo",
-            "winrate": 0.8,
             "commander": [
                 "Niv-Mizzet Reborn"
             ],

@@ -10,7 +10,6 @@
             "deck_id": "525348",
             "rank": "1",
             "player": "Jingting,wu",
-            "winrate": 1.0,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -119,7 +118,6 @@
             "deck_id": "525349",
             "rank": "2",
             "player": "Liren,xie",
-            "winrate": 0.8,
             "commander": [
                 "Feldon, Ronom Excavator"
             ],

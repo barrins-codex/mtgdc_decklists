@@ -10,7 +10,6 @@
             "deck_id": "495383",
             "rank": "1",
             "player": "Antoine Alix",
-            "winrate": 1.0,
             "commander": [
                 "Gallia of the Endless Dance"
             ],
@@ -102,7 +101,6 @@
             "deck_id": "495384",
             "rank": "2",
             "player": "Pierre Huet",
-            "winrate": 0.8,
             "commander": [
                 "Grist, the Hunger Tide"
             ],
@@ -212,7 +210,6 @@
             "deck_id": "495385",
             "rank": "3",
             "player": "Henri Lavielle",
-            "winrate": 0.6,
             "commander": [
                 "Norin the Wary"
             ],

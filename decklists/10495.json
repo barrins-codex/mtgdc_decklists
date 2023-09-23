@@ -10,7 +10,6 @@
             "deck_id": "260094",
             "rank": "3-4",
             "player": "Luis Lorenzo",
-            "winrate": 0.625,
             "commander": [
                 "Anafenza, the Foremost"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "260095",
             "rank": "3-4",
             "player": "Gabe Enriquez",
-            "winrate": 0.625,
             "commander": [
                 "Radha, Heir to Keld"
             ],
@@ -223,7 +221,6 @@
             "deck_id": "260096",
             "rank": "2",
             "player": "Gerry Ramos",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Dragonlord Ojutai"
             ],
@@ -322,7 +319,6 @@
             "deck_id": "260097",
             "rank": "1",
             "player": "Steven Villaraza",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Anafenza, the Foremost"
             ],
@@ -432,7 +428,6 @@
             "deck_id": "260098",
             "rank": "5-8",
             "player": "Jun Era Cabezudo",
-            "winrate": 0.625,
             "commander": [
                 "Tasigur, the Golden Fang"
             ],
@@ -541,7 +536,6 @@
             "deck_id": "260099",
             "rank": "5-8",
             "player": "Raffy F.",
-            "winrate": 0.625,
             "commander": [
                 "Maelstrom Wanderer"
             ],
@@ -640,7 +634,6 @@
             "deck_id": "260100",
             "rank": "5-8",
             "player": "Irwin Tabisora",
-            "winrate": 0.625,
             "commander": [
                 "Karador, Ghost Chieftain"
             ],
@@ -748,7 +741,6 @@
             "deck_id": "260101",
             "rank": "5-8",
             "player": "Alexander Pe",
-            "winrate": 0.625,
             "commander": [
                 "Marath, Will of the Wild"
             ],

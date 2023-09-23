@@ -10,7 +10,6 @@
             "deck_id": "332736",
             "rank": "3-4",
             "player": "Alex S.",
-            "winrate": 0.6,
             "commander": [
                 "Queen Marchesa"
             ],
@@ -110,7 +109,6 @@
             "deck_id": "332737",
             "rank": "2",
             "player": "Hao N.",
-            "winrate": 0.8,
             "commander": [
                 "Kraum, Ludevic's Opus",
                 "Ludevic, Necro-Alchemist"
@@ -200,7 +198,6 @@
             "deck_id": "332738",
             "rank": "3-4",
             "player": "Alexandru C.",
-            "winrate": 0.6,
             "commander": [
                 "Baral, Chief of Compliance"
             ],
@@ -274,7 +271,6 @@
             "deck_id": "332739",
             "rank": "1",
             "player": "Simon M.",
-            "winrate": 1.0,
             "commander": [
                 "Prossh, Skyraider of Kher"
             ],

@@ -10,7 +10,6 @@
             "deck_id": "346298",
             "rank": "2",
             "player": "Samuel Z.",
-            "winrate": 0.8,
             "commander": [
                 "Tymna the Weaver",
                 "Thrasios, Triton Hero"
@@ -120,7 +119,6 @@
             "deck_id": "346299",
             "rank": "1",
             "player": "Nils H.",
-            "winrate": 1.0,
             "commander": [
                 "Arahbo, Roar of the World"
             ],

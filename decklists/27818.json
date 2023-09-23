@@ -10,7 +10,6 @@
             "deck_id": "420744",
             "rank": "1",
             "player": "Guillaume \"Mana\" Lacombe",
-            "winrate": 1.0,
             "commander": [
                 "Thrasios, Triton Hero",
                 "Tymna the Weaver"
@@ -120,7 +119,6 @@
             "deck_id": "420745",
             "rank": "2",
             "player": "Benjamin Cottet",
-            "winrate": 0.8,
             "commander": [
                 "Kraum, Ludevic's Opus",
                 "Tymna the Weaver"
@@ -230,7 +228,6 @@
             "deck_id": "420746",
             "rank": "3-4",
             "player": "Audren Boulic",
-            "winrate": 0.8,
             "commander": [
                 "Akiri, Line-Slinger",
                 "Silas Renn, Seeker Adept"
@@ -340,7 +337,6 @@
             "deck_id": "420747",
             "rank": "5-8",
             "player": "Leo Facca",
-            "winrate": 0.6,
             "commander": [
                 "Uro, Titan of Nature's Wrath"
             ],
@@ -429,7 +425,6 @@
             "deck_id": "420748",
             "rank": "5-8",
             "player": "Demilecamps Felix",
-            "winrate": 0.6,
             "commander": [
                 "Kinnan, Bonder Prodigy"
             ],
@@ -524,7 +519,6 @@
             "deck_id": "420749",
             "rank": "5-8",
             "player": "Sénéchau Hippolyte",
-            "winrate": 0.6,
             "commander": [
                 "Grenzo, Dungeon Warden"
             ],
@@ -625,7 +619,6 @@
             "deck_id": "420750",
             "rank": "3-4",
             "player": "Anthony \"tototaker\" Ruer",
-            "winrate": 0.8,
             "commander": [
                 "Uro, Titan of Nature's Wrath"
             ],
@@ -717,7 +710,6 @@
             "deck_id": "420751",
             "rank": "5-8",
             "player": "Kilian Boulhaïs",
-            "winrate": 0.6,
             "commander": [
                 "Reyhan, Last of the Abzan",
                 "Tymna the Weaver"

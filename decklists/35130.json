@@ -10,7 +10,6 @@
             "deck_id": "465352",
             "rank": "1",
             "player": "Mithrandir",
-            "winrate": 1.0,
             "commander": [
                 "Rafiq of the Many"
             ],
@@ -108,7 +107,6 @@
             "deck_id": "465353",
             "rank": "2",
             "player": "Tutu",
-            "winrate": 0.8,
             "commander": [
                 "Maelstrom Wanderer"
             ],
@@ -212,7 +210,6 @@
             "deck_id": "465354",
             "rank": "3-4",
             "player": "Aliang",
-            "winrate": 0.6,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -302,7 +299,6 @@
             "deck_id": "465355",
             "rank": "3-4",
             "player": "Lei",
-            "winrate": 0.6,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],

@@ -10,7 +10,6 @@
             "deck_id": "504790",
             "rank": "1",
             "player": "Franklin Aguba",
-            "winrate": 1.0,
             "commander": [
                 "Wernog, Rider's Chaplain",
                 "Hargilde, Kindly Runechanter"
@@ -120,7 +119,6 @@
             "deck_id": "504791",
             "rank": "2",
             "player": "Jeremiah Maigue",
-            "winrate": 0.8,
             "commander": [
                 "Yoshimaru, Ever Faithful",
                 "Jeska, Thrice Reborn"
@@ -212,7 +210,6 @@
             "deck_id": "504792",
             "rank": "3",
             "player": "Van Acordon",
-            "winrate": 0.6,
             "commander": [
                 "Yoshimaru, Ever Faithful",
                 "Kraum, Ludevic's Opus"
@@ -321,7 +318,6 @@
             "deck_id": "504793",
             "rank": "4",
             "player": "Jayson Casauay",
-            "winrate": 0.6,
             "commander": [
                 "Yoshimaru, Ever Faithful",
                 "Bruse Tarl, Boorish Herder"

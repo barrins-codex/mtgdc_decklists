@@ -10,7 +10,6 @@
             "deck_id": "470310",
             "rank": "1",
             "player": "Kauan",
-            "winrate": 1.0,
             "commander": [
                 "Adeline, Resplendent Cathar"
             ],
@@ -95,7 +94,6 @@
             "deck_id": "470311",
             "rank": "2",
             "player": "Lauro",
-            "winrate": 0.8,
             "commander": [
                 "Braids, Cabal Minion"
             ],
@@ -180,7 +178,6 @@
             "deck_id": "470312",
             "rank": "3-4",
             "player": "Roberto Soares",
-            "winrate": 0.8,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -260,7 +257,6 @@
             "deck_id": "470313",
             "rank": "3-4",
             "player": "Professor",
-            "winrate": 0.8,
             "commander": [
                 "General Ferrous Rokiric"
             ],
@@ -351,7 +347,6 @@
             "deck_id": "470314",
             "rank": "5-8",
             "player": "Michel Xisto",
-            "winrate": 0.6,
             "commander": [
                 "Gyome, Master Chef"
             ],
@@ -440,7 +435,6 @@
             "deck_id": "470315",
             "rank": "5-8",
             "player": "Adriano Yussuke",
-            "winrate": 0.6,
             "commander": [
                 "Saskia the Unyielding"
             ],
@@ -529,7 +523,6 @@
             "deck_id": "470316",
             "rank": "5-8",
             "player": "Anderson Ruffino",
-            "winrate": 0.6,
             "commander": [
                 "Shorikai, Genesis Engine"
             ],
@@ -615,7 +608,6 @@
             "deck_id": "470317",
             "rank": "5-8",
             "player": "Juca",
-            "winrate": 0.6,
             "commander": [
                 "Anje Falkenrath"
             ],

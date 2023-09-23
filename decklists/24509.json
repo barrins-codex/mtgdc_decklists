@@ -10,7 +10,6 @@
             "deck_id": "371321",
             "rank": "5-8",
             "player": "Denis Nebykov",
-            "winrate": 0.75,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -97,7 +96,6 @@
             "deck_id": "371322",
             "rank": "5-8",
             "player": "Evgeny Evsikov",
-            "winrate": 0.75,
             "commander": [
                 "Silas Renn, Seeker Adept",
                 "Akiri, Line-Slinger"
@@ -207,7 +205,6 @@
             "deck_id": "371323",
             "rank": "5-8",
             "player": "Alexey Burmistrov",
-            "winrate": 0.75,
             "commander": [
                 "Sai, Master Thopterist"
             ],
@@ -294,7 +291,6 @@
             "deck_id": "371324",
             "rank": "5-8",
             "player": "Mikhail Protasov",
-            "winrate": 0.75,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -404,7 +400,6 @@
             "deck_id": "371325",
             "rank": "3-4",
             "player": "Viktor Butrimov",
-            "winrate": 0.75,
             "commander": [
                 "Hogaak, Arisen Necropolis"
             ],
@@ -502,7 +497,6 @@
             "deck_id": "371326",
             "rank": "3-4",
             "player": "Sergey \"loxmatii\" Lamzin",
-            "winrate": 0.75,
             "commander": [
                 "Uro, Titan of Nature's Wrath"
             ],
@@ -607,7 +601,6 @@
             "deck_id": "371327",
             "rank": "2",
             "player": "Stanislav Serov",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -694,7 +687,6 @@
             "deck_id": "371328",
             "rank": "1",
             "player": "Mattew Dolganov",
-            "winrate": 0.8888888888888888,
             "commander": [
                 "Hogaak, Arisen Necropolis"
             ],

@@ -10,7 +10,6 @@
             "deck_id": "334239",
             "rank": "1",
             "player": "Mesheriakov Maxim",
-            "winrate": 1.0,
             "commander": [
                 "Brago, King Eternal"
             ],
@@ -106,7 +105,6 @@
             "deck_id": "334240",
             "rank": "3-4",
             "player": "Bukatin Nikita",
-            "winrate": 0.8,
             "commander": [
                 "Shalai, Voice of Plenty"
             ],
@@ -195,7 +193,6 @@
             "deck_id": "334241",
             "rank": "3-4",
             "player": "Butrimov Victor",
-            "winrate": 0.8,
             "commander": [
                 "Yuriko, the Tiger's Shadow"
             ],
@@ -290,7 +287,6 @@
             "deck_id": "334242",
             "rank": "2",
             "player": "Kostin \"mc Artifact\" Andrey",
-            "winrate": 0.8,
             "commander": [
                 "Akiri, Line-Slinger",
                 "Silas Renn, Seeker Adept"

@@ -10,7 +10,6 @@
             "deck_id": "457380",
             "rank": "1",
             "player": "Thomas Ricci",
-            "winrate": 1.0,
             "commander": [
                 "Isamaru, Hound of Konda"
             ],
@@ -96,7 +95,6 @@
             "deck_id": "457381",
             "rank": "2",
             "player": "Alexandre Andouard",
-            "winrate": 0.8,
             "commander": [
                 "Malcolm, Keen-Eyed Navigator",
                 "Livio, Oathsworn Sentinel"

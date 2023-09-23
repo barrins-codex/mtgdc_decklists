@@ -10,7 +10,6 @@
             "deck_id": "272985",
             "rank": "1",
             "player": "Alessandro Rizzo",
-            "winrate": 1.0,
             "commander": [
                 "Surrak Dragonclaw"
             ],
@@ -113,7 +112,6 @@
             "deck_id": "272986",
             "rank": "2",
             "player": "Francesco Pepe",
-            "winrate": 0.8,
             "commander": [
                 "Keranos, God of Storms"
             ],

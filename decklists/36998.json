@@ -10,7 +10,6 @@
             "deck_id": "477869",
             "rank": "1",
             "player": "Reuben Ferrer",
-            "winrate": 1.0,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "477870",
             "rank": "2",
             "player": "Elijah Guevara",
-            "winrate": 0.8,
             "commander": [
                 "Klothys, God of Destiny"
             ],
@@ -221,7 +219,6 @@
             "deck_id": "477871",
             "rank": "3-4",
             "player": "Rafael Palma Gil",
-            "winrate": 0.8,
             "commander": [
                 "Hogaak, Arisen Necropolis"
             ],
@@ -331,7 +328,6 @@
             "deck_id": "477872",
             "rank": "3-4",
             "player": "Joseph Anthony A. Al-tawalbeh",
-            "winrate": 0.8,
             "commander": [
                 "Adeliz, the Cinder Wind"
             ],

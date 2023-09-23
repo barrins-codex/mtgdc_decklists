@@ -10,7 +10,6 @@
             "deck_id": "291266",
             "rank": "1",
             "player": "Diego De Castro",
-            "winrate": 1.0,
             "commander": [
                 "Rafiq of the Many"
             ],
@@ -119,7 +118,6 @@
             "deck_id": "291267",
             "rank": "2",
             "player": "Gianmaria Acciarri",
-            "winrate": 0.8,
             "commander": [
                 "Xenagos, God of Revels"
             ],

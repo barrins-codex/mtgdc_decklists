@@ -10,7 +10,6 @@
             "deck_id": "404944",
             "rank": "1",
             "player": "Guillaume \"mana\" Lacombe",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Tymna the Weaver",
                 "Thrasios, Triton Hero"
@@ -120,7 +119,6 @@
             "deck_id": "404945",
             "rank": "2",
             "player": "Anthony Barbosa",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -230,7 +228,6 @@
             "deck_id": "404946",
             "rank": "3-4",
             "player": "Pierre Clavieras-mengin",
-            "winrate": 0.625,
             "commander": [
                 "Tymna the Weaver",
                 "Thrasios, Triton Hero"
@@ -340,7 +337,6 @@
             "deck_id": "404947",
             "rank": "3-4",
             "player": "Ethis \"zoto\" Marguerite",
-            "winrate": 0.625,
             "commander": [
                 "Ludevic, Necro-Alchemist",
                 "Kraum, Ludevic's Opus"
@@ -435,7 +431,6 @@
             "deck_id": "404948",
             "rank": "5-8",
             "player": "Antoine Vieilledent",
-            "winrate": 0.625,
             "commander": [
                 "Kess, Dissident Mage"
             ],
@@ -545,7 +540,6 @@
             "deck_id": "404949",
             "rank": "5-8",
             "player": "Léon Mouries-martin",
-            "winrate": 0.625,
             "commander": [
                 "Kraum, Ludevic's Opus",
                 "Ludevic, Necro-Alchemist"
@@ -637,7 +631,6 @@
             "deck_id": "404950",
             "rank": "5-8",
             "player": "Alexandre Martial",
-            "winrate": 0.625,
             "commander": [
                 "Uro, Titan of Nature's Wrath"
             ],
@@ -725,7 +718,6 @@
             "deck_id": "404951",
             "rank": "5-8",
             "player": "Romain Fouchier",
-            "winrate": 0.625,
             "commander": [
                 "Grenzo, Dungeon Warden"
             ],

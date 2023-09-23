@@ -10,7 +10,6 @@
             "deck_id": "332429",
             "rank": "3-4",
             "player": "Kevin Lemarchand",
-            "winrate": 0.6,
             "commander": [
                 "Silas Renn, Seeker Adept",
                 "Tana, the Bloodsower"
@@ -113,7 +112,6 @@
             "deck_id": "332430",
             "rank": "3-4",
             "player": "Mickael Bremeux",
-            "winrate": 0.6,
             "commander": [
                 "Reyhan, Last of the Abzan",
                 "Thrasios, Triton Hero"
@@ -223,7 +221,6 @@
             "deck_id": "332431",
             "rank": "2",
             "player": "Christophe Comont",
-            "winrate": 0.8,
             "commander": [
                 "Dragonlord Ojutai"
             ],
@@ -320,7 +317,6 @@
             "deck_id": "332432",
             "rank": "1",
             "player": "D\"ardo\"lc",
-            "winrate": 1.0,
             "commander": [
                 "Najeela, the Blade-Blossom"
             ],

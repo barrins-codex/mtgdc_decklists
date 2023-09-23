@@ -10,7 +10,6 @@
             "deck_id": "263901",
             "rank": "2",
             "player": "Andrea Rostellato",
-            "winrate": 0.8,
             "commander": [
                 "Doran, the Siege Tower"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "263902",
             "rank": "3",
             "player": "Michele Atzeni",
-            "winrate": 0.6,
             "commander": [
                 "Geist of Saint Traft"
             ],
@@ -220,7 +218,6 @@
             "deck_id": "263903",
             "rank": "1",
             "player": "David Rodriguez Targa",
-            "winrate": 1.0,
             "commander": [
                 "Tasigur, the Golden Fang"
             ],

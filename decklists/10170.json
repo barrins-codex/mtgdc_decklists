@@ -10,7 +10,6 @@
             "deck_id": "258512",
             "rank": "1",
             "player": "Martin Kubik",
-            "winrate": 0.8888888888888888,
             "commander": [
                 "Animar, Soul of Elements"
             ],
@@ -112,7 +111,6 @@
             "deck_id": "258513",
             "rank": "2",
             "player": "Vaclav Mysak",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Vendilion Clique"
             ],
@@ -198,7 +196,6 @@
             "deck_id": "258514",
             "rank": "3-4",
             "player": "Jiri Balcar",
-            "winrate": 0.75,
             "commander": [
                 "Narset, Enlightened Master"
             ],
@@ -305,7 +302,6 @@
             "deck_id": "258515",
             "rank": "3-4",
             "player": "Vitezslav Smid",
-            "winrate": 0.75,
             "commander": [
                 "Tasigur, the Golden Fang"
             ],
@@ -415,7 +411,6 @@
             "deck_id": "258516",
             "rank": "5-8",
             "player": "Yuriy Kostyk",
-            "winrate": 0.75,
             "commander": [
                 "Thraximundar"
             ],
@@ -525,7 +520,6 @@
             "deck_id": "258517",
             "rank": "5-8",
             "player": "Filip Sindler",
-            "winrate": 0.75,
             "commander": [
                 "Prime Speaker Zegana"
             ],
@@ -624,7 +618,6 @@
             "deck_id": "258518",
             "rank": "5-8",
             "player": "Marek Celar",
-            "winrate": 0.75,
             "commander": [
                 "Geist of Saint Traft"
             ],
@@ -723,7 +716,6 @@
             "deck_id": "258519",
             "rank": "5-8",
             "player": "Martin Vlnas",
-            "winrate": 0.75,
             "commander": [
                 "Marath, Will of the Wild"
             ],

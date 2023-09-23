@@ -10,7 +10,6 @@
             "deck_id": "372985",
             "rank": "4",
             "player": "Zarlock",
-            "winrate": 0.6,
             "commander": [
                 "Adeliz, the Cinder Wind"
             ],
@@ -108,7 +107,6 @@
             "deck_id": "372986",
             "rank": "3",
             "player": "Duelcastermage",
-            "winrate": 0.8,
             "commander": [
                 "Klothys, God of Destiny"
             ],
@@ -208,7 +206,6 @@
             "deck_id": "372987",
             "rank": "2",
             "player": "Gunni",
-            "winrate": 0.8,
             "commander": [
                 "The Gitrog Monster"
             ],
@@ -312,7 +309,6 @@
             "deck_id": "372988",
             "rank": "1",
             "player": "Konviczka",
-            "winrate": 1.0,
             "commander": [
                 "Yawgmoth, Thran Physician"
             ],

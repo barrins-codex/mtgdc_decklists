@@ -10,7 +10,6 @@
             "deck_id": "287675",
             "rank": "2",
             "player": "Arlan Garcia",
-            "winrate": 0.8,
             "commander": [
                 "Breya, Etherium Shaper"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "287676",
             "rank": "2",
             "player": "Ben Co",
-            "winrate": 0.8,
             "commander": [
                 "Jace, Vryn's Prodigy"
             ],

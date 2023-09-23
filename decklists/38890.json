@@ -10,7 +10,6 @@
             "deck_id": "490173",
             "rank": "1",
             "player": "Didou",
-            "winrate": 0.8888888888888888,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -119,7 +118,6 @@
             "deck_id": "490174",
             "rank": "2",
             "player": "Moncana",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Ertai Resurrected"
             ],
@@ -217,7 +215,6 @@
             "deck_id": "490175",
             "rank": "3-4",
             "player": "Onesauk",
-            "winrate": 0.75,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -327,7 +324,6 @@
             "deck_id": "490176",
             "rank": "3-4",
             "player": "Damienade",
-            "winrate": 0.75,
             "commander": [
                 "Grist, the Hunger Tide"
             ],
@@ -429,7 +425,6 @@
             "deck_id": "490177",
             "rank": "5-8",
             "player": "Baekstra",
-            "winrate": 0.75,
             "commander": [
                 "Raffine, Scheming Seer"
             ],
@@ -539,7 +534,6 @@
             "deck_id": "490178",
             "rank": "5-8",
             "player": "Vijkhal",
-            "winrate": 0.75,
             "commander": [
                 "Dennick, Pious Apprentice"
             ],
@@ -643,7 +637,6 @@
             "deck_id": "490179",
             "rank": "5-8",
             "player": "Korn411",
-            "winrate": 0.75,
             "commander": [
                 "Balmor, Battlemage Captain"
             ],
@@ -742,7 +735,6 @@
             "deck_id": "490180",
             "rank": "5-8",
             "player": "Senseiidora",
-            "winrate": 0.75,
             "commander": [
                 "Niv-Mizzet Reborn"
             ],

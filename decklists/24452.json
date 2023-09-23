@@ -10,7 +10,6 @@
             "deck_id": "370888",
             "rank": "1",
             "player": "Tuktukwhosthere",
-            "winrate": 1.0,
             "commander": [
                 "Grenzo, Dungeon Warden"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "370889",
             "rank": "2",
             "player": "Crimsonking",
-            "winrate": 0.8,
             "commander": [
                 "Tajic, Legion's Edge"
             ],
@@ -212,7 +210,6 @@
             "deck_id": "370890",
             "rank": "3",
             "player": "Danziir",
-            "winrate": 0.8,
             "commander": [
                 "Golos, Tireless Pilgrim"
             ],
@@ -322,7 +319,6 @@
             "deck_id": "370891",
             "rank": "4",
             "player": "Drolasgard",
-            "winrate": 0.6,
             "commander": [
                 "Thrasios, Triton Hero",
                 "Akiri, Line-Slinger"

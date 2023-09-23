@@ -10,7 +10,6 @@
             "deck_id": "457315",
             "rank": "1",
             "player": "Arthur Le Goanvic",
-            "winrate": 1.0,
             "commander": [
                 "Adeliz, the Cinder Wind"
             ],
@@ -107,7 +106,6 @@
             "deck_id": "457316",
             "rank": "2",
             "player": "Nicolas Decam",
-            "winrate": 0.8,
             "commander": [
                 "Judith, the Scourge Diva"
             ],

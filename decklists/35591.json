@@ -10,7 +10,6 @@
             "deck_id": "468645",
             "rank": "1",
             "player": "Shoucong Wu",
-            "winrate": 1.0,
             "commander": [
                 "Hogaak, Arisen Necropolis"
             ],
@@ -120,7 +119,6 @@
             "deck_id": "468646",
             "rank": "2",
             "player": "Chang Zheng",
-            "winrate": 0.8,
             "commander": [
                 "Isamaru, Hound of Konda"
             ],
@@ -209,7 +207,6 @@
             "deck_id": "468647",
             "rank": "3-4",
             "player": "Boran Gao",
-            "winrate": 0.8,
             "commander": [
                 "Grist, the Hunger Tide"
             ],
@@ -309,7 +306,6 @@
             "deck_id": "468648",
             "rank": "3-4",
             "player": "Ziqi Xi",
-            "winrate": 0.8,
             "commander": [
                 "Golos, Tireless Pilgrim"
             ],
@@ -419,7 +415,6 @@
             "deck_id": "468649",
             "rank": "5-8",
             "player": "Bolong Sun",
-            "winrate": 0.6,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -505,7 +500,6 @@
             "deck_id": "468650",
             "rank": "5-8",
             "player": "Wei Cheng",
-            "winrate": 0.6,
             "commander": [
                 "Svyelun of Sea and Sky"
             ],
@@ -591,7 +585,6 @@
             "deck_id": "468651",
             "rank": "5-8",
             "player": "Char",
-            "winrate": 0.6,
             "commander": [
                 "Niv-Mizzet Reborn"
             ],
@@ -701,7 +694,6 @@
             "deck_id": "468652",
             "rank": "5-8",
             "player": "Alpaca",
-            "winrate": 0.6,
             "commander": [
                 "Leovold, Emissary of Trest"
             ],

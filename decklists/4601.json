@@ -10,7 +10,6 @@
             "deck_id": "226628",
             "rank": "1",
             "player": "Paul Pecauco",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Gaddock Teeg"
             ],
@@ -109,7 +108,6 @@
             "deck_id": "226629",
             "rank": "1",
             "player": "Ronald Cruz",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Geist of Saint Traft"
             ],
@@ -210,7 +208,6 @@
             "deck_id": "226630",
             "rank": "3-4",
             "player": "Andrew Chan",
-            "winrate": 0.625,
             "commander": [
                 "Jhoira of the Ghitu"
             ],
@@ -300,7 +297,6 @@
             "deck_id": "226631",
             "rank": "3-4",
             "player": "Ramil Apa-ap",
-            "winrate": 0.625,
             "commander": [
                 "Skithiryx, the Blight Dragon"
             ],
@@ -389,7 +385,6 @@
             "deck_id": "226632",
             "rank": "5-8",
             "player": "Dan Sta. Rosa",
-            "winrate": 0.625,
             "commander": [
                 "Vendilion Clique"
             ],
@@ -472,7 +467,6 @@
             "deck_id": "226633",
             "rank": "5-8",
             "player": "Mike Rabanal",
-            "winrate": 0.625,
             "commander": [
                 "Skithiryx, the Blight Dragon"
             ],
@@ -552,7 +546,6 @@
             "deck_id": "226634",
             "rank": "5-8",
             "player": "Randy de Rueda",
-            "winrate": 0.625,
             "commander": [
                 "Geist of Saint Traft"
             ],
@@ -651,7 +644,6 @@
             "deck_id": "226635",
             "rank": "5-8",
             "player": "Richmund Lim",
-            "winrate": 0.625,
             "commander": [
                 "Maelstrom Wanderer"
             ],

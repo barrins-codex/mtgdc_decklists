@@ -10,7 +10,6 @@
             "deck_id": "476075",
             "rank": "1",
             "player": "Michel Xisto",
-            "winrate": 1.0,
             "commander": [
                 "Mina and Denn, Wildborn"
             ],
@@ -100,7 +99,6 @@
             "deck_id": "476076",
             "rank": "2",
             "player": "Estan",
-            "winrate": 0.8,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -180,7 +178,6 @@
             "deck_id": "476077",
             "rank": "3-4",
             "player": "Thales",
-            "winrate": 0.8,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -261,7 +258,6 @@
             "deck_id": "476078",
             "rank": "3-4",
             "player": "Primo",
-            "winrate": 0.8,
             "commander": [
                 "Jetmir, Nexus of Revels"
             ],

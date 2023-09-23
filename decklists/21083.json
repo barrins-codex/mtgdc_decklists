@@ -10,7 +10,6 @@
             "deck_id": "340186",
             "rank": "1",
             "player": "Bobota",
-            "winrate": 1.0,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -94,7 +93,6 @@
             "deck_id": "340187",
             "rank": "8",
             "player": "Koraysh",
-            "winrate": 0.6,
             "commander": [
                 "The Gitrog Monster"
             ],
@@ -192,7 +190,6 @@
             "deck_id": "340188",
             "rank": "7",
             "player": "Le Saux Tristan (gortor)",
-            "winrate": 0.6,
             "commander": [
                 "Lord Windgrace"
             ],
@@ -300,7 +297,6 @@
             "deck_id": "340189",
             "rank": "4",
             "player": "Vincent Ruaut",
-            "winrate": 0.6,
             "commander": [
                 "Queen Marchesa"
             ],
@@ -407,7 +403,6 @@
             "deck_id": "340190",
             "rank": "6",
             "player": "Farah Bourgeois",
-            "winrate": 0.6,
             "commander": [
                 "Narset, Enlightened Master"
             ],
@@ -513,7 +508,6 @@
             "deck_id": "340191",
             "rank": "5",
             "player": "Romain Testaert",
-            "winrate": 0.6,
             "commander": [
                 "Prime Speaker Vannifar"
             ],
@@ -607,7 +601,6 @@
             "deck_id": "340192",
             "rank": "2",
             "player": "Nicolas Denis",
-            "winrate": 0.8,
             "commander": [
                 "Queen Marchesa"
             ],
@@ -717,7 +710,6 @@
             "deck_id": "340193",
             "rank": "3",
             "player": "Quentin Delafosse",
-            "winrate": 0.8,
             "commander": [
                 "Baral, Chief of Compliance"
             ],

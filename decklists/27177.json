@@ -10,7 +10,6 @@
             "deck_id": "413823",
             "rank": "7",
             "player": "Jiri Patocka",
-            "winrate": 0.625,
             "commander": [
                 "Kinnan, Bonder Prodigy"
             ],
@@ -106,7 +105,6 @@
             "deck_id": "413824",
             "rank": "3",
             "player": "Milo Palek",
-            "winrate": 0.625,
             "commander": [
                 "Ludevic, Necro-Alchemist",
                 "Kraum, Ludevic's Opus"
@@ -202,7 +200,6 @@
             "deck_id": "413825",
             "rank": "4",
             "player": "Petr Klima",
-            "winrate": 0.625,
             "commander": [
                 "Uro, Titan of Nature's Wrath"
             ],
@@ -296,7 +293,6 @@
             "deck_id": "413826",
             "rank": "5",
             "player": "Josef Kumstyr",
-            "winrate": 0.625,
             "commander": [
                 "Aminatou, the Fateshifter"
             ],
@@ -406,7 +402,6 @@
             "deck_id": "413827",
             "rank": "6",
             "player": "Jakub Nemec",
-            "winrate": 0.625,
             "commander": [
                 "Kari Zev, Skyship Raider"
             ],
@@ -492,7 +487,6 @@
             "deck_id": "413828",
             "rank": "1",
             "player": "David Stepanek",
-            "winrate": 0.7777777777777778,
             "commander": [
                 "Tymna the Weaver",
                 "Ludevic, Necro-Alchemist"
@@ -602,7 +596,6 @@
             "deck_id": "413829",
             "rank": "2",
             "player": "Jiri Obraz",
-            "winrate": 0.6666666666666666,
             "commander": [
                 "Anafenza, the Foremost"
             ],
@@ -711,7 +704,6 @@
             "deck_id": "413830",
             "rank": "8",
             "player": "Robert Starke",
-            "winrate": 0.625,
             "commander": [
                 "Hogaak, Arisen Necropolis"
             ],

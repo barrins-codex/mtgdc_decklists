@@ -10,7 +10,6 @@
             "deck_id": "239262",
             "rank": "1",
             "player": "Samuel Pallotta",
-            "winrate": 1.0,
             "commander": [
                 "Kaalia of the Vast"
             ],
@@ -117,7 +116,6 @@
             "deck_id": "239263",
             "rank": "2",
             "player": "Miguel Araya",
-            "winrate": 0.8,
             "commander": [
                 "Geist of Saint Traft"
             ],

@@ -10,7 +10,6 @@
             "deck_id": "277296",
             "rank": "1",
             "player": "Michele Atzeni",
-            "winrate": 1.0,
             "commander": [
                 "Kytheon, Hero of Akros"
             ],
@@ -95,7 +94,6 @@
             "deck_id": "277297",
             "rank": "2",
             "player": "Francesco Belvedere",
-            "winrate": 0.8,
             "commander": [
                 "Jace, Vryn's Prodigy"
             ],

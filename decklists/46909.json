@@ -10,7 +10,6 @@
             "deck_id": "546791",
             "rank": "4",
             "player": "Jun Zhang",
-            "winrate": 0.6,
             "commander": [
                 "Aragorn, King of Gondor"
             ],
@@ -117,7 +116,6 @@
             "deck_id": "546792",
             "rank": "4",
             "player": "Yixuan Gao",
-            "winrate": 0.6,
             "commander": [
                 "Esika, God of the Tree"
             ],
@@ -227,7 +225,6 @@
             "deck_id": "546793",
             "rank": "4",
             "player": "Yihan Ding",
-            "winrate": 0.6,
             "commander": [
                 "Grist, the Hunger Tide"
             ],
@@ -327,7 +324,6 @@
             "deck_id": "546794",
             "rank": "4",
             "player": "Yuchen Yang",
-            "winrate": 0.6,
             "commander": [
                 "Atraxa, Grand Unifier"
             ],
