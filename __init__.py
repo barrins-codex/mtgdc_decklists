@@ -9,11 +9,12 @@ deck.load_decks(date_from=datetime(2023, 9, 1))
 print(f"{len(decks.decks)} decks chargés")
 ```
 """
+import glob
 import json
 import os
-import glob
-from datetime import datetime
 import re
+from datetime import datetime
+
 
 class ImportDecks:
     """Classe qui permet de charger les decks scrappés depuis MTGTOP8."""
