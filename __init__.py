@@ -13,7 +13,7 @@ import glob
 import json
 import os
 import re
-from datetime import datetime
+from datetime import date, datetime
 
 
 class ImportDecks:
@@ -21,9 +21,12 @@ class ImportDecks:
 
     def __init__(self) -> None:
         self.decks = []
+        self._decks = []
         self.files = []
 
-    def load_decks(self, date_from=datetime(0,0,0), date_to=datetime(0,0,0), size=0) -> None:
+    def load_decks(
+        self, date_from=datetime(1993, 8, 5), date_to=date.today(), size=0
+    ) -> None:
         """
         Logique pour la sélection des decks lors de l'importation.
 
@@ -35,9 +38,9 @@ class ImportDecks:
             with open(file, "r", encoding="utf-8") as my_file:
                 tournoi = json.load(my_file)
 
-            if date_from and datetime.strptime(tournoi["date"], "%d/%m/%y") < date_from:
+            if datetime.strptime(tournoi["date"], "%d/%m/%y") < date_from:
                 continue
-            if date_to and datetime.strptime(tournoi["date"], "%d/%m/%y") > date_to:
+            if datetime.strptime(tournoi["date"], "%d/%m/%y") > date_to:
                 continue
             if size and int(re.split(" ", tournoi["players"])[0]) < size:
                 continue
@@ -50,6 +53,15 @@ class ImportDecks:
                         (int(card.split(" ")[0]), card.split(" ", maxsplit=1)[1])
                     )
                 self.decks.append(tmp)
+                self._decks.append(
+                    {
+                        "deck_id": deck["deck_id"],
+                        "decklist": deck["decklist"],
+                        "commander": deck["commander"],
+                        "cardlist": [card for (_, card) in tmp],
+                        "date": datetime.strptime(tournoi["date"], "%d/%m/%y"),
+                    }
+                )
 
     @staticmethod
     def from_directory(directory_path):
