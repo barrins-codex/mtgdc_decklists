@@ -25,7 +25,7 @@ class ImportDecks:
         self.files = []
 
     def load_decks(
-        self, date_from=datetime(1993, 8, 5), date_to=date.today(), size=0
+        self, date_from=datetime(1993, 8, 5), date_to=datetime.now(), size=0
     ) -> None:
         """
         Logique pour la sélection des decks lors de l'importation.
