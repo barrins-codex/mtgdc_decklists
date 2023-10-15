@@ -1,39 +1,48 @@
 """
-L'importation des decks de ce module peut se faire de manière simplifiée
-en utilisant la classe `ImportDecks` d'abord en indiquant le chemin de
-l'importation puis en fournissant les contraintes de l'importation.
+Module: import_decks.py
 
-```python
-decks = ImportDecks.from_directory(my_path)
-deck.load_decks(date_from=datetime(2023, 9, 1))
-print(f"{len(decks.decks)} decks chargés")
-```
+This module defines the ImportDecks class for importing and processing decks.
 """
 import glob
 import json
 import os
 import re
-from datetime import date, datetime
+from datetime import datetime
 
 
 class ImportDecks:
-    """Classe qui permet de charger les decks scrappés depuis MTGTOP8."""
+    """Class for importing and processing decks."""
 
     def __init__(self) -> None:
         self.decks = []
-        self._decks = []
         self.files = []
 
     def load_decks(
-        self, date_from=datetime(1993, 8, 5), date_to=datetime.now(), size=0
+        self,
+        date_from: datetime = datetime(1993, 8, 5),
+        date_to: datetime = datetime.now(),
+        **kwargs,
     ) -> None:
         """
-        Logique pour la sélection des decks lors de l'importation.
+        Load decks from files within specified date range and additional criteria.
 
-        :param date_from: (datetime object) Date (inclue) de départ de l'importation
-        :param date_to: (datetime object) Date (inclue) de fin de l'importation
-        :param size: (int) Taille minimale (inclue) du tournoi à importer
+        Args:
+            date_from (datetime): The starting date for filtering decks.
+            date_to (datetime): The ending date for filtering decks.
+            **kwargs: Additional keyword arguments for filtering decks.
+
+        Keyword Args:
+            size (int): Minimum deck size to include.
+            commander (list): List of commander names to include.
+            cards (list): List of card names to include.
+
+        Returns:
+            None
         """
+        size = kwargs.get("size", 0)
+        commander = kwargs.get("commander", [])
+        cards = kwargs.get("cards", [])
+
         for file in self.files:
             with open(file, "r", encoding="utf-8") as my_file:
                 tournoi = json.load(my_file)
@@ -46,25 +55,55 @@ class ImportDecks:
                 continue
 
             for deck in tournoi["decks"]:
-                tmp = []
-                deck["decklist"].extend([f"1 {card}" for card in deck["commander"]])
-                for card in deck["decklist"]:
-                    tmp.append(
+                dlist = deck["decklist"]
+                czone = deck["commander"]
+                if self._check(czone, commander) and self._check(dlist, cards):
+                    dlist.extend([f"1 {card}" for card in czone])
+                    tmp = [
                         (int(card.split(" ")[0]), card.split(" ", maxsplit=1)[1])
+                        for card in deck["decklist"]
+                    ]
+                    self.decks.append(
+                        {
+                            "deck_id": deck["deck_id"],
+                            "decklist": tmp,
+                            "commander": czone,
+                            "cardlist": [card for (_, card) in tmp],
+                        }
                     )
-                self.decks.append(tmp)
-                self._decks.append(
-                    {
-                        "deck_id": deck["deck_id"],
-                        "decklist": deck["decklist"],
-                        "commander": deck["commander"],
-                        "cardlist": [card for (_, card) in tmp],
-                        "date": datetime.strptime(tournoi["date"], "%d/%m/%y"),
-                    }
-                )
 
     @staticmethod
     def from_directory(directory_path):
+        """
+        Create an ImportDecks instance and populate files from a directory.
+
+        Args:
+            directory_path (str): Path to the directory containing deck files.
+
+        Returns:
+            ImportDecks: An instance of ImportDecks with populated file list.
+        """
         import_decks = ImportDecks()
         import_decks.files = glob.glob(os.path.join(directory_path, "*.json"))
         return import_decks
+
+    @property
+    def decklists(self) -> list:
+        """
+        Get the decklists from the stored decks.
+
+        Returns:
+            list: A list of decklists.
+        """
+        return [deck["decklist"] for deck in self.decks]
+
+    def _check(self, search_list: list, wanted: list) -> bool:
+        """
+        Get the decklists from the stored decks.
+
+        Returns:
+            list: A list of decklists.
+        """
+        return len(wanted) == 0 or any(
+            im.startswith(wnt) for im in search_list for wnt in wanted
+        )
