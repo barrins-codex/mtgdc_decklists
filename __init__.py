@@ -57,7 +57,7 @@ class ImportDecks:
             for deck in tournoi["decks"]:
                 dlist = deck["decklist"]
                 czone = deck["commander"]
-                if self._check(czone, commander) and self._check(dlist, cards):
+                if self._check(czone, commander) and self._check(dlist + czone, cards):
                     dlist.extend([f"1 {card}" for card in czone])
                     tmp = [
                         (int(card.split(" ")[0]), card.split(" ", maxsplit=1)[1])
@@ -84,7 +84,7 @@ class ImportDecks:
             ImportDecks: An instance of ImportDecks with populated file list.
         """
         import_decks = ImportDecks()
-        import_decks.files = glob.glob(os.path.join(directory_path, "*.json"))
+        import_decks.files = sorted(glob.glob(os.path.join(directory_path, "*.json")))
         return import_decks
 
     @property
