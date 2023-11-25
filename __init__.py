@@ -105,5 +105,5 @@ class ImportDecks:
             list: A list of decklists.
         """
         return len(wanted) == 0 or any(
-            im.startswith(wnt) for im in search_list for wnt in wanted
+            im.lower().startswith(wnt.lower()) for im in search_list for wnt in wanted
         )
