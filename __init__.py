@@ -9,6 +9,11 @@ import os
 import re
 from datetime import datetime
 
+def clean(string:str = "") -> str:
+    string = string.lower()
+    while string and string[0].isdigit():
+        string = string[1:]
+    return string if string[0] != " " else string[1:]
 
 class ImportDecks:
     """Class for importing and processing decks."""
@@ -105,5 +110,5 @@ class ImportDecks:
             list: A list of decklists.
         """
         return len(wanted) == 0 or any(
-            im.lower().startswith(wnt.lower()) for im in search_list for wnt in wanted
+            clean(im).startswith(clean(wnt)) for im in search_list for wnt in wanted
         )
