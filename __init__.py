@@ -111,6 +111,6 @@ class ImportDecks:
         Returns:
             list: A list of decklists.
         """
-        return len(wanted) == 0 or any(
-            clean(im).startswith(clean(wnt)) for im in search_list for wnt in wanted
+        return len(wanted) == 0 or all(
+            any(clean(im).startswith(clean(wnt)) for im in search_list) for wnt in wanted
         )
