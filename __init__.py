@@ -1,13 +1,9 @@
-"""
-Module: import_decks.py
-
-This module defines the ImportDecks class for importing and processing decks.
-"""
 import glob
 import json
 import os
 import re
 from datetime import datetime
+from difflib import HtmlDiff
 
 
 def clean(string: str = "") -> str:
@@ -18,8 +14,6 @@ def clean(string: str = "") -> str:
 
 
 class ImportDecks:
-    """Class for importing and processing decks."""
-
     def __init__(self) -> None:
         self.decks = []
         self.files = []
@@ -30,22 +24,6 @@ class ImportDecks:
         date_to: datetime = datetime.now(),
         **kwargs,
     ) -> None:
-        """
-        Load decks from files within specified date range and additional criteria.
-
-        Args:
-            date_from (datetime): The starting date for filtering decks.
-            date_to (datetime): The ending date for filtering decks.
-            **kwargs: Additional keyword arguments for filtering decks.
-
-        Keyword Args:
-            size (int): Minimum deck size to include.
-            commander (list): List of commander names to include.
-            cards (list): List of card names to include.
-
-        Returns:
-            None
-        """
         size = kwargs.get("size", 0)
         commander = kwargs.get("commander", [])
         cards = kwargs.get("cards", [])
@@ -81,36 +59,121 @@ class ImportDecks:
 
     @staticmethod
     def from_directory(directory_path):
-        """
-        Create an ImportDecks instance and populate files from a directory.
-
-        Args:
-            directory_path (str): Path to the directory containing deck files.
-
-        Returns:
-            ImportDecks: An instance of ImportDecks with populated file list.
-        """
         import_decks = ImportDecks()
         import_decks.files = sorted(glob.glob(os.path.join(directory_path, "*.json")))
         return import_decks
 
     @property
     def decklists(self) -> list:
-        """
-        Get the decklists from the stored decks.
-
-        Returns:
-            list: A list of decklists.
-        """
         return [deck["decklist"] for deck in self.decks]
 
     def _check(self, search_list: list, wanted: list) -> bool:
-        """
-        Get the decklists from the stored decks.
-
-        Returns:
-            list: A list of decklists.
-        """
         return len(wanted) == 0 or all(
-            any(clean(im).startswith(clean(wnt)) for im in search_list) for wnt in wanted
+            any(clean(im).startswith(clean(wnt)) for im in search_list)
+            for wnt in wanted
         )
+
+
+class CompareLists:
+    def __init__(self, decklists: list) -> None:
+        self.decklists = decklists
+        self.comparaison = []
+        self._generate_comparison()
+
+    def export(self, output: str = "barrins-codex-comparaison.html") -> None:
+        table = "<table style='border: 1px grey double'><thead><tr><th></th>"
+        for i in range(len(self.decklists)):
+            table += f"<th>Cluster {i+1}</th>"
+        table += "</tr></thead><tbody>"
+
+        for i in range(len(self.decklists)):
+            line = f"<tr><th>Cluster {i+1}</th>"
+            for j in range(len(self.decklists)):
+                line += "<td>" + self.comparaison[i][j] + "</td>"
+            table += line + "</tr>"
+
+        table += "</tbody></table>"
+
+        with open(output, "+w", encoding="utf-8") as file:
+            file.write(self.file_header)
+            file.write(table)
+            file.write(self.file_footer)
+
+    @staticmethod
+    def load_decks(segment: str = ".") -> None:
+        files = sorted(glob.glob(os.path.join(segment, "*cluster_*")))
+        for idx, file in enumerate(files):
+            with open(file, "r", encoding="utf-8") as myf:
+                files[idx] = myf.read().split("\n")
+        compare = CompareLists(files)
+        return compare
+
+    @property
+    def file_header(self) -> str:
+        return """<html>
+    <header>
+        <meta charset="utf-8">
+        <title>Comparaison des clusters</title>
+    </header>
+
+    <body>
+    <h1>Comparaison des clusters</h1>
+"""
+
+    @property
+    def file_footer(self) -> str:
+        d = HtmlDiff()
+
+        style = """
+body > table > tbody > tr > td {
+    border: 1px grey dashed;
+    vertical-align: top;
+}
+"""
+
+        return """{legend}
+    </body>
+    <style>
+    {style}
+    {style2}
+    </style>
+    </html>
+    """.format(
+            legend=d._legend, style=style, style2=d._styles
+        )
+
+    def _generate_comparison(self) -> None:
+        d = HtmlDiff()
+        decklists = self.decklists
+        comparaisons = [
+            ["" for _ in range(len(decklists))] for _ in range(len(decklists))
+        ]
+
+        for i in range(len(decklists)):
+            deck_i = decklists[i]
+            for j in range(len(decklists)):
+                if i < j:
+                    comparaison = d.make_table(deck_i, decklists[j])
+
+                    diff_lines = comparaison.splitlines()
+                    modified_lines = [line for line in diff_lines if "href" in line]
+                    modified_lines = (
+                        self._table_part("header")
+                        + "\n".join(modified_lines)
+                        + self._table_part("footer")
+                    )
+
+                    comparaisons[i][j] = str(modified_lines)
+                    comparaisons[j][i] = str(modified_lines)
+                if i == j:
+                    comparaisons[i][j] = d.make_table(deck_i, deck_i)
+
+        self.comparaison = comparaisons
+
+    def _table_part(self, part: str) -> str:
+        if part == "header":
+            return """<table class="diff" id="difflib_chg_to0__top" cellspacing="0" cellpadding="0" rules="groups" ><colgroup></colgroup> <colgroup></colgroup> <colgroup></colgroup><colgroup></colgroup> <colgroup></colgroup> <colgroup></colgroup><tbody>"""
+        elif part == "footer":
+            return """</tbody></table>"""
+        else:
+            return ""
