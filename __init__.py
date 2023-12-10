@@ -102,7 +102,7 @@ class CompareLists:
     @staticmethod
     def load_decks(segment: str = ".") -> None:
         files = sorted(glob.glob(os.path.join(segment, "*cluster_*")))
-        for idx, file in enumerate(files):
+        for idx, file in enumerate(sorted(files)):
             with open(file, "r", encoding="utf-8") as myf:
                 files[idx] = myf.read().split("\n")
         compare = CompareLists(files)
