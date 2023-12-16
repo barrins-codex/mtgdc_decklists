@@ -32,9 +32,10 @@ class ImportDecks:
             with open(file, "r", encoding="utf-8") as my_file:
                 tournoi = json.load(my_file)
 
-            if datetime.strptime(tournoi["date"], "%d/%m/%y") < date_from:
+            tournoi_date = datetime.strptime(tournoi["date"], "%d/%m/%y")
+            if tournoi_date < date_from:
                 continue
-            if datetime.strptime(tournoi["date"], "%d/%m/%y") > date_to:
+            if tournoi_date > date_to:
                 continue
             if size and int(re.split(" ", tournoi["players"])[0]) < size:
                 continue
@@ -51,9 +52,10 @@ class ImportDecks:
                     self.decks.append(
                         {
                             "deck_id": deck["deck_id"],
+                            "date": tournoi_date,
                             "decklist": tmp,
                             "commander": czone,
-                            "cardlist": [card for (_, card) in tmp],
+                            # "cardlist": [card for (_, card) in tmp],
                         }
                     )
 
