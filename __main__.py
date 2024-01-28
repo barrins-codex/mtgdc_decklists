@@ -1,7 +1,8 @@
-from mtgdc_decklists import ImportDecks
 from mtgdc_carddata import CardDatabase
+from mtgdc_decklists import ImportDecks
 
 DATABASE = CardDatabase()
+
 
 def control_card_names():
     liste_decks = ImportDecks.from_directory()
@@ -16,6 +17,7 @@ def control_card_names():
                 DATABASE.card(card_name)["type"].lower()
             except KeyError:
                 print(card_name)
+
 
 if __name__ == "__main__":
     control_card_names()
