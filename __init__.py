@@ -60,6 +60,8 @@ class ImportDecks:
                     (int(card.split(" ")[0]), card.split(" ", maxsplit=1)[1])
                     for card in dlist
                 ]
+                if "Unknown Card" in [card for (_, card) in tmp]:
+                    continue
 
                 player_condition = not player or deck["player"] in player
                 commander_condition = not commander or ImportDecks.list_check(
