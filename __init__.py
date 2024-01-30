@@ -5,6 +5,7 @@ import re
 from collections import defaultdict
 from datetime import datetime
 from difflib import HtmlDiff
+from pathlib import Path
 
 import textdistance
 
@@ -83,6 +84,7 @@ class ImportDecks:
                             "commander": czone,
                             "decklist": tmp,
                             "cardlist": [card for (_, card) in tmp],
+                            "url": f"https://mtgtop8.com/event?e={tournoi['id']}&d={deck['deck_id']}",
                         }
                     )
 
@@ -90,6 +92,12 @@ class ImportDecks:
     def from_directory(directory_path: str = "mtgdc_decklists/decklists"):
         import_decks = ImportDecks()
         import_decks.files = sorted(glob.glob(os.path.join(directory_path, "*.json")))
+        return import_decks
+
+    @staticmethod
+    def from_file(path: Path):
+        import_decks = ImportDecks()
+        import_decks.files = [path]
         return import_decks
 
     @staticmethod
