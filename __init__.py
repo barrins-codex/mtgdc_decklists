@@ -7,9 +7,11 @@ from datetime import datetime
 from difflib import HtmlDiff
 from pathlib import Path
 
+import requests
 import textdistance
 
 from mtgdc_carddata import CardDatabase
+from mtgdc_scrapper import HEADERS
 
 DATABASE = CardDatabase()
 
@@ -19,6 +21,12 @@ def clean(string: str = "") -> str:
     while string and string[0].isdigit():
         string = string[1:]
     return string if string[0] != " " else string[1:]
+
+
+def list_check(search_list: list, wanted: list) -> bool:
+    return len(wanted) == 0 or all(
+        any(clean(im).startswith(clean(wnt)) for im in search_list) for wnt in wanted
+    )
 
 
 class ImportDecks:
@@ -65,10 +73,10 @@ class ImportDecks:
                     continue
 
                 player_condition = not player or deck["player"] in player
-                commander_condition = not commander or ImportDecks.list_check(
+                commander_condition = not commander or list_check(
                     deck["commander"], commander
                 )
-                cards_condition = not cards or ImportDecks.list_check(
+                cards_condition = not cards or list_check(
                     deck["decklist"] + deck["commander"], cards
                 )
 
@@ -101,11 +109,15 @@ class ImportDecks:
         return import_decks
 
     @staticmethod
-    def list_check(search_list: list, wanted: list) -> bool:
-        return len(wanted) == 0 or all(
-            any(clean(im).startswith(clean(wnt)) for im in search_list)
-            for wnt in wanted
-        )
+    def from_moxfield(url: str | list):
+        decks_moxfield = ImportDecks()
+        url = [url] if type(url) == str else url
+
+        for link in url:
+            moxfield = Moxfield.from_link(link)
+            decks_moxfield.decks.append(moxfield.deck)
+
+        return decks_moxfield
 
     @property
     def decklists(self) -> list:
@@ -229,6 +241,64 @@ class PlayerDatabase:
             self.players_info[player]["nb_top"] += 1
             self.players_info[player]["deck"][commander] += 1
 
+class Moxfield:
+    prefix = "https://www.moxfield.com/decks/"
+    api = "https://api2.moxfield.com/v2/decks/all/"
+
+    def __init__(self) -> None:
+        self.link = ""
+        self.id = ""
+        self._deck = {}
+
+    @staticmethod
+    def from_link(link: str):
+        moxfield = Moxfield()
+
+        assert link.startswith(moxfield.prefix)
+        deck_id = link[len(moxfield.prefix) :]
+
+        moxfield.link = moxfield.api + deck_id
+        moxfield.id = deck_id
+
+        return moxfield
+
+    @property
+    def deck(self) -> dict:
+        if len(self._deck) == 0:
+            self._build_deck()
+
+        return self._deck
+
+    def _build_deck(self):
+        req = requests.get(self.link, headers=HEADERS, stream=True, timeout=5)
+
+        if req.status_code == 200:
+            json_deck = req.json()
+
+            czone = [card for card in json_deck["commanders"].keys()]
+            dlist = [
+                f"{value['quantity']} {value['card']['name']}"
+                for _, value in json_deck["mainboard"].items()
+            ]
+            dlist.extend([f"1 {card}" for card in czone])
+
+            tmp = [
+                (int(card.split(" ")[0]), card.split(" ", maxsplit=1)[1])
+                for card in dlist
+            ]
+
+            self._deck = {
+                "date": datetime.now().strftime("%Y-%m-%d"),
+                "deck_id": self.id,
+                "commander": czone,
+                "decklist": tmp,
+                "cardlist": [card for (_, card) in tmp],
+                "url": self.link,
+            }
+        else:
+            print(
+                f"Erreur lors de la récupération du deck. Code d'erreur : {req.status_code}"
+            )
 
 class CompareLists:
     def __init__(self, decklists: list) -> None:
