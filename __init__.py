@@ -241,6 +241,7 @@ class PlayerDatabase:
             self.players_info[player]["nb_top"] += 1
             self.players_info[player]["deck"][commander] += 1
 
+
 class Moxfield:
     prefix = "https://www.moxfield.com/decks/"
     api = "https://api2.moxfield.com/v2/decks/all/"
@@ -299,6 +300,7 @@ class Moxfield:
             print(
                 f"Erreur lors de la récupération du deck. Code d'erreur : {req.status_code}"
             )
+
 
 class CompareLists:
     def __init__(self, decklists: list) -> None:
