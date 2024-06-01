@@ -1,4 +1,5 @@
 from mtgdc_carddata import CardDatabase
+
 from mtgdc_decklists import ImportDecks
 
 DATABASE = CardDatabase()

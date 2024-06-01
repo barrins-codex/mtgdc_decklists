@@ -9,7 +9,6 @@ from pathlib import Path
 
 import requests
 import textdistance
-
 from mtgdc_carddata import CardDatabase
 from mtgdc_scrapper import HEADERS
 
